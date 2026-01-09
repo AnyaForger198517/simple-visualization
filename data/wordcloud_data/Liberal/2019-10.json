@@ -1,0 +1,36 @@
+{
+  "month": "2019-10",
+  "total_articles": 142,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Corporate Services and Tax-related Issues",
+      "core_keywords": ["company", "service", "tax", "data", "community", "document", "state"],
+      "importance_ratio": 0.0493
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump and US Judicial & Administrative Affairs",
+      "core_keywords": ["trump", "court", "law", "abortion", "supreme court", "investigation", "administration"],
+      "importance_ratio": 0.1549
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2020 Election Candidates and Education Policy",
+      "core_keywords": ["warren", "education", "school", "student", "candidate", "public", "federal"],
+      "importance_ratio": 0.0070
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Economic and Family Policy",
+      "core_keywords": ["trump", "policy", "economy", "income", "family", "drug", "trade"],
+      "importance_ratio": 0.1338
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Impeachment and Ukraine-related Affairs",
+      "core_keywords": ["trump", "impeachment", "ukraine", "biden", "house", "republican", "election"],
+      "importance_ratio": 0.6549
+    }
+  ]
+}

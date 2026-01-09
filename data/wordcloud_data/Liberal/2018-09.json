@@ -1,0 +1,36 @@
+{
+  "month": "2018-09",
+  "total_articles": 277,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump's Political Affairs and Election Dynamics",
+      "core_keywords": ["trump", "president", "election", "republican", "democrat", "campaign", "manafort"],
+      "importance_ratio": 0.5271
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Legal and Social Issues Including Kavanaugh and War",
+      "core_keywords": ["kavanaugh", "judge", "sexual", "war", "afghanistan", "prosecutor", "child"],
+      "importance_ratio": 0.1949
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Social Debates on Guns, Law and Sports",
+      "core_keywords": ["gun", "law", "nike", "nfl", "debate", "yale", "judge"],
+      "importance_ratio": 0.0036
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Economic and Government Policies for Workers",
+      "core_keywords": ["work", "hour", "state", "government", "health", "wage", "premium"],
+      "importance_ratio": 0.0253
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Kavanaugh's Supreme Court Confirmation Hearings",
+      "core_keywords": ["kavanaugh", "supreme court", "woman", "ford", "senate", "allegation", "judge"],
+      "importance_ratio": 0.2491
+    }
+  ]
+}

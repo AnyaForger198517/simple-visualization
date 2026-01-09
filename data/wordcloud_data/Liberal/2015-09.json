@@ -1,0 +1,36 @@
+{
+  "month": "2015-09",
+  "total_articles": 256,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Republican Politics and Trump vs Obama Policy Debates",
+      "core_keywords": ["republican", "trump", "obama", "president", "gop", "policy", "bush"],
+      "importance_ratio": 0.3125
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Democratic Presidential Campaign (Clinton vs Sanders)",
+      "core_keywords": ["clinton", "sander", "democratic", "campaign", "poll", "voter", "bernie"],
+      "importance_ratio": 0.2734
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "School Safety and Police Response to Social Issues",
+      "core_keywords": ["school", "police", "student", "abuse", "law", "education", "alert"],
+      "importance_ratio": 0.0859
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Workers' Rights and Racial Equality in America",
+      "core_keywords": ["worker", "black", "labor", "family", "law", "american", "drug"],
+      "importance_ratio": 0.2422
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Planned Parenthood and Women's Reproductive Rights",
+      "core_keywords": ["planned", "parenthood", "woman", "abortion", "health", "police", "law"],
+      "importance_ratio": 0.0859
+    }
+  ]
+}

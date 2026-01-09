@@ -1,0 +1,36 @@
+{
+  "month": "2012-12",
+  "total_articles": 75,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "Corporate Tax Rates and CEO Compensation",
+      "topic_words": ["tax", "rate", "corporate", "ceo", "bush tax", "million", "compensation", "estimate"],
+      "proportion": 1.33
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Gun Laws and Republican State Politics",
+      "topic_words": ["gun", "law", "state", "republican", "president", "american", "labor", "right"],
+      "proportion": 57.33
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Poverty and Low-Wage Worker Issues",
+      "topic_words": ["poverty", "wage", "worker", "child", "family", "homelessness", "housing", "economic policy"],
+      "proportion": 4.00
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Income Tax Cuts and Social Benefits",
+      "topic_words": ["tax", "income", "republican", "cut", "rate", "social", "worker", "benefit"],
+      "proportion": 24.00
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Election Polls and Drug Policy",
+      "topic_words": ["election", "obama", "vote", "poll", "drug", "state", "money", "nate silver"],
+      "proportion": 13.33
+    }
+  ]
+}

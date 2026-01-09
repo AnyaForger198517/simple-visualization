@@ -1,0 +1,38 @@
+{
+  "month": "2011-09",
+  "total_articles": 70,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "US economic issues including unemployment, Obama's job plan and government spending",
+      "topic_percentage": 17.14
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Congressional voting dynamics, republican/democrat support and Warren's political influence",
+      "topic_percentage": 4.29
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Tea party and republican politics, including tax policies and Perry's campaign",
+      "topic_percentage": 35.71
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Mother Jones coverage of Bachmann's campaign and 9/11-related political issues",
+      "topic_percentage": 27.14
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "US citizenship and legal rights, including immigration policies and civil liberties",
+      "topic_percentage": 15.71
+    }
+  ],
+  "topic_distribution": {
+    "0": 12,
+    "1": 3,
+    "2": 25,
+    "3": 19,
+    "4": 11
+  }
+}

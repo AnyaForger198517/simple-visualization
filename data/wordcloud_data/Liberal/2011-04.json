@@ -1,0 +1,36 @@
+{
+  "month": "2011-04",
+  "total_articles": 60,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Obama's Political Campaign and Gay Rights",
+      "core_keywords": ["Obama", "campaign", "election", "gay rights", "donor", "white house"],
+      "importance_ratio": 0.0667
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Journalism and Domestic Policy Discussions",
+      "core_keywords": ["journalism", "domestic policy", "privacy", "state law", "story", "Trump"],
+      "importance_ratio": 0.6333
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Republican Budget and Medicare Reforms",
+      "core_keywords": ["republican", "budget", "tax", "Medicare", "Ryan", "oil subsidy"],
+      "importance_ratio": 0.2000
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Tax Protests and Corporate Tax Avoidance",
+      "core_keywords": ["tax protest", "corporate tax", "rich", "government", "Britain", "uncut"],
+      "importance_ratio": 0.0333
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Liberal-Conservative Ideological Debates",
+      "core_keywords": ["freedom", "liberal", "conservative", "government", "equality", "power"],
+      "importance_ratio": 0.0667
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2017-02",
+  "total_articles": 404,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Federal and State Legal and Political Issues",
+      "core_keywords": ["state", "law", "court", "republican", "federal", "government", "right"],
+      "importance_ratio": 0.3490
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump and Russia-related Political Controversy",
+      "core_keywords": ["trump", "russian", "russia", "putin", "white house", "administration", "official"],
+      "importance_ratio": 0.2376
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump Administration's Immigration Policy",
+      "core_keywords": ["trump", "immigration", "immigrant", "policy", "federal", "tax", "plan"],
+      "importance_ratio": 0.1188
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Democratic Party Internal and US Election Politics",
+      "core_keywords": ["democratic", "democrat", "trump", "clinton", "sander", "election", "campaign"],
+      "importance_ratio": 0.1064
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Media and Economic Issues under Trump Administration",
+      "core_keywords": ["trump", "medium", "news", "money", "company", "work", "bannon"],
+      "importance_ratio": 0.1881
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2018-06",
+  "total_articles": 164,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump's Immigration Policy and Family Separation at Border",
+      "core_keywords": ["trump", "child", "immigration", "border", "family", "parent", "policy"],
+      "importance_ratio": 0.3171
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Immigrant Children's Rights and Border Detention Issues",
+      "core_keywords": ["child", "border", "parent", "immigrant", "race", "family", "law"],
+      "importance_ratio": 0.0061
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Political Parties and Midterm Election Dynamics",
+      "core_keywords": ["trump", "republican", "democrat", "election", "president", "political", "state"],
+      "importance_ratio": 0.4634
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Workers' Rights and Wage Policy in US Labor Market",
+      "core_keywords": ["worker", "wage", "job", "union", "poverty", "sex worker", "police"],
+      "importance_ratio": 0.0549
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "US Supreme Court and Legal Policy Developments",
+      "core_keywords": ["court", "law", "supreme court", "justice", "trump", "state", "case"],
+      "importance_ratio": 0.1585
+    }
+  ]
+}

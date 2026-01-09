@@ -1,0 +1,36 @@
+{
+  "month": "2015-07",
+  "total_articles": 297,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2016 Democratic Presidential Election Campaigns",
+      "core_keywords": ["sander", "clinton", "campaign", "democratic", "candidate", "bernie", "hillary"],
+      "importance_ratio": 0.4579
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Global Politics and Labor Economic Issues",
+      "core_keywords": ["marijuana", "war", "russia", "nuclear", "worker", "wage", "labor"],
+      "importance_ratio": 0.0404
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Conservative Social Policies and Trump",
+      "core_keywords": ["republican", "abortion", "planned parenthood", "trump", "law", "woman", "conservative"],
+      "importance_ratio": 0.4108
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Police Accountability and Law Enforcement",
+      "core_keywords": ["police", "department", "officer", "tape", "comment", "information", "effort"],
+      "importance_ratio": 0.0236
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Global Climate Change and Scientific Data",
+      "core_keywords": ["climate", "global warming", "data", "temperature", "science", "scientist", "earth"],
+      "importance_ratio": 0.0673
+    }
+  ]
+}

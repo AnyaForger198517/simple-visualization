@@ -1,0 +1,36 @@
+{
+  "month": "2011-11",
+  "total_articles": 79,
+  "topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_summary": "Occupy protests and property damage incidents",
+      "topic_keywords": ["occupy", "protester", "police", "property", "damage", "street"],
+      "proportion": 2.53
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Republican presidential candidates and politics",
+      "topic_keywords": ["republican", "obama", "president", "gingrich", "political", "american"],
+      "proportion": 43.04
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Obama and White House political meetings",
+      "topic_keywords": ["obama", "white house", "president", "republican", "policy", "meeting"],
+      "proportion": 6.33
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Banks, economy and Occupy Wall Street issues",
+      "topic_keywords": ["bank", "money", "occupy", "wall street", "job", "government"],
+      "proportion": 18.99
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Tax policy and poverty in America",
+      "topic_keywords": ["tax", "poverty", "job", "republican", "policy", "american"],
+      "proportion": 29.11
+    }
+  ]
+}

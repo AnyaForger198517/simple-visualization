@@ -1,0 +1,36 @@
+{
+  "month": "2017-03",
+  "total_articles": 345,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump Administration's Fiscal and Congressional Affairs",
+      "core_keywords": ["trump", "tax", "house", "senate", "republican", "democrat", "million"],
+      "importance_ratio": 0.1217
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Healthcare and Conservative Political Agenda",
+      "core_keywords": ["trump", "health", "care", "republican", "tax", "state", "conservative"],
+      "importance_ratio": 0.4580
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Executive Orders and Federal Court Issues",
+      "core_keywords": ["trump", "order", "court", "federal", "ban", "administration", "climate"],
+      "importance_ratio": 0.1101
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Public Education and School Policy",
+      "core_keywords": ["school", "education", "student", "public", "voucher", "program", "community"],
+      "importance_ratio": 0.0551
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump and Russia Election Interference Investigation",
+      "core_keywords": ["trump", "russian", "russia", "fbi", "investigation", "white house", "campaign"],
+      "importance_ratio": 0.2551
+    }
+  ]
+}

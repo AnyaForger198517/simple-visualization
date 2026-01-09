@@ -1,0 +1,36 @@
+{
+  "month": "2017-12",
+  "total_articles": 141,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Alabama Senate Election and GOP Voter Dynamics",
+      "core_keywords": ["republican", "senate", "moore", "jones", "alabama", "vote", "election"],
+      "importance_ratio": 0.2837
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump Administration and Health Policy Regulation",
+      "core_keywords": ["trump", "president", "obama care", "regulation", "policy", "health", "administration"],
+      "importance_ratio": 0.2624
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Republican Tax Cut Plan and Economic Impact",
+      "core_keywords": ["tax", "cut", "republican", "american", "income", "job", "law"],
+      "importance_ratio": 0.2553
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Worker Rights and Trump's Labor Policy",
+      "core_keywords": ["worker", "union", "employer", "trump", "law", "employee", "state"],
+      "importance_ratio": 0.1206
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social Justice and Legal Cases in US Education",
+      "core_keywords": ["student", "court", "college", "black", "white", "law", "sexual assault"],
+      "importance_ratio": 0.0780
+    }
+  ]
+}

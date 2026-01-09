@@ -1,7 +1,7 @@
 import os
 
 # 定义基础年份和文件扩展名
-base_year = 2020
+base_year = 2021
 file_ext = ".json"
 
 # 循环生成1-12月的文件

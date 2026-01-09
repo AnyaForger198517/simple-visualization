@@ -1,0 +1,36 @@
+{
+  "month": "2015-10",
+  "total_articles": 400,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Democratic Election Polls and Campaign Dynamics",
+      "core_keywords": ["clinton", "sander", "democratic", "poll", "campaign", "voter", "debate"],
+      "importance_ratio": 0.1850
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Koch Foundation's Funding in Higher Education",
+      "core_keywords": ["koch", "university", "foundation", "funding", "school", "student", "money"],
+      "importance_ratio": 0.0100
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Paul Ryan and Republican House Leadership",
+      "core_keywords": ["ryan", "republican", "congress", "speaker", "house", "trade", "wisconsin"],
+      "importance_ratio": 0.0025
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Bernie Sanders' Policy Proposals for American Families",
+      "core_keywords": ["sander", "tax", "american", "family", "policy", "bernie", "care"],
+      "importance_ratio": 0.2875
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Gun Policy and Republican Political Dynamics",
+      "core_keywords": ["gun", "republican", "clinton", "obama", "party", "gop", "state"],
+      "importance_ratio": 0.5150
+    }
+  ]
+}

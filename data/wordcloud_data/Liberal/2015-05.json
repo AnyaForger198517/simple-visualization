@@ -1,0 +1,36 @@
+{
+  "month": "2015-05",
+  "total_articles": 230,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US State Governance and Conservative Political Issues",
+      "core_keywords": ["state", "government", "law", "republican", "woman", "abortion", "conservative"],
+      "importance_ratio": 0.4522
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Military History and Conspiracy Theories",
+      "core_keywords": ["military", "kissinger", "cambodia", "bombing", "history", "conspiracy", "white house"],
+      "importance_ratio": 0.0174
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Israeli Military Operations and Civilian Casualties",
+      "core_keywords": ["israeli", "idf", "gaza", "soldier", "civilian", "operation", "killed"],
+      "importance_ratio": 0.0087
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Economic Inequality and Racial Justice Issues",
+      "core_keywords": ["wage", "income", "poverty", "black", "police", "baltimore", "economic"],
+      "importance_ratio": 0.2609
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2016 US Presidential Election Democratic Campaigns",
+      "core_keywords": ["clinton", "sander", "campaign", "democratic", "republican", "obama", "hillary"],
+      "importance_ratio": 0.2609
+    }
+  ]
+}

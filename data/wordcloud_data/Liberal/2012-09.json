@@ -1,0 +1,36 @@
+{
+  "month": "2012-09",
+  "total_articles": 117,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "US Presidential Election and Party Politics",
+      "topic_words": ["republican", "obama", "president", "party", "voter", "convention", "american", "state"],
+      "proportion": 23.08
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "State Governance, Tax and Political Debate",
+      "topic_words": ["state", "tax", "law", "government", "romney", "debate", "political", "public"],
+      "proportion": 27.35
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Women's Health and Pregnancy-related Issues",
+      "topic_words": ["woman", "pregnant", "pregnancy", "health", "nursing", "insurance", "worker"],
+      "proportion": 5.13
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Romney's Financial and Campaign Affairs",
+      "topic_words": ["romney", "obama", "debt", "student", "loan", "bain", "company", "president"],
+      "proportion": 23.93
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Election Campaign and Candidate Attacks",
+      "topic_words": ["romney", "obama", "campaign", "attack", "policy", "ohio", "blog", "statement"],
+      "proportion": 20.51
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2017-09",
+  "total_articles": 163,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "School Segregation and Educational Justice Issues",
+      "core_keywords": ["school", "desegregation", "student", "black", "white", "court", "justice"],
+      "importance_ratio": 0.0245
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Racial Segregation in American School Districts",
+      "core_keywords": ["school", "district", "black", "white", "student", "desegregation", "county"],
+      "importance_ratio": 0.0061
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump Administration and Employment Policies",
+      "core_keywords": ["trump", "employment", "worker", "president", "arbitration", "employee", "white house"],
+      "importance_ratio": 0.1779
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Political Elections and Racial Discourse",
+      "core_keywords": ["election", "voter", "political", "trump", "democratic", "american", "state"],
+      "importance_ratio": 0.4172
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Republican Tax Policy and Trump's Economic Agenda",
+      "core_keywords": ["tax", "republican", "trump", "cut", "american", "policy", "state"],
+      "importance_ratio": 0.3742
+    }
+  ]
+}

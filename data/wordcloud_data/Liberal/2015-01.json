@@ -1,0 +1,36 @@
+{
+  "month": "2015-01",
+  "total_articles": 230,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Economic Inequality and Labor Market Dynamics",
+      "core_keywords": ["tax", "income", "economic", "worker", "money", "market", "economy"],
+      "importance_ratio": 0.1087
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State and Federal Legal Rights Governance",
+      "core_keywords": ["state", "law", "right", "court", "government", "voting", "federal"],
+      "importance_ratio": 0.2435
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Climate Change and Fossil Fuel Policies",
+      "core_keywords": ["climate", "change", "oil", "pipeline", "fossil", "fuel", "investment"],
+      "importance_ratio": 0.0522
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Presidential Politics and Party Dynamics",
+      "core_keywords": ["republican", "obama", "clinton", "president", "political", "party", "conservative"],
+      "importance_ratio": 0.5000
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Immigration, Gun Control and Racial Issues",
+      "core_keywords": ["gun", "border", "immigration", "black", "white", "police", "death"],
+      "importance_ratio": 0.0957
+    }
+  ]
+}

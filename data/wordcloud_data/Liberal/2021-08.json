@@ -1,0 +1,36 @@
+{
+  "month": "2021-08",
+  "total_articles": 47,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Cuomo's Sexual Harassment Investigation and Resignation",
+      "core_keywords": ["cuomo", "governor", "harassment", "investigation", "attorney", "new york"],
+      "importance_ratio": 0.1064
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "COVID-19 Vaccine and Election Misinformation on Social Media",
+      "core_keywords": ["vaccine", "covid", "election", "facebook", "social media", "misinformation"],
+      "importance_ratio": 0.1702
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Fundraising and Privacy Policy in Political Campaigns",
+      "core_keywords": ["donation", "privacy", "policy", "stock", "email", "political fundraising"],
+      "importance_ratio": 0.1489
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's 2020 Election Conspiracy and GOP Politics",
+      "core_keywords": ["trump", "election", "republican", "conspiracy", "voter", "jan 6"],
+      "importance_ratio": 0.2979
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Partisan Politics and Biden's Domestic Agenda",
+      "core_keywords": ["biden", "democrat", "republican", "senate", "house", "vote", "administration"],
+      "importance_ratio": 0.2766
+    }
+  ]
+}

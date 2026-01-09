@@ -1,0 +1,36 @@
+{
+  "month": "2012-04",
+  "total_articles": 103,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "Poverty and social assistance, including child poverty, income inequality and immigrant detention",
+      "topic_words_summary": ["poverty", "child", "family", "income", "social assistance", "homeless", "detainee"],
+      "proportion": 3.88
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Local governance issues: school boards, property, waste management and city policies",
+      "topic_words_summary": ["school board", "property", "city", "waste", "public", "company", "work"],
+      "proportion": 3.88
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Women's issues, tax policy, Obamacare legal challenges and Wisconsin's Scott Walker",
+      "topic_words_summary": ["woman", "tax", "obamacare", "walker", "policy", "federal", "journalism"],
+      "proportion": 34.95
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Massachusetts Senate race: Elizabeth Warren vs Scott Brown (Democrat vs Republican)",
+      "topic_words_summary": ["warren", "brown", "massachusetts", "democratic", "republican", "campaign", "voter"],
+      "proportion": 0.97
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "2012 presidential election: Obama vs Romney, Republican vs liberal voter dynamics",
+      "topic_words_summary": ["romney", "obama", "republican", "liberal", "president", "campaign", "voter"],
+      "proportion": 56.31
+    }
+  ]
+}

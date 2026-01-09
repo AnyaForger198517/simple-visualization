@@ -1,0 +1,36 @@
+{
+  "month": "2013-02",
+  "total_articles": 89,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Middle Class Income and Republican Party Policies",
+      "core_keywords": ["middle class", "income", "republican", "state", "family", "health", "insurance", "cut"],
+      "importance_ratio": 0.2809
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gun Rights and Legal Cases at State Level",
+      "core_keywords": ["gun", "state", "law", "police", "right", "court", "death", "case"],
+      "importance_ratio": 0.5618
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Military and Drone Policy Under Obama Administration",
+      "core_keywords": ["military", "drone", "obama", "president", "cia", "american", "torture", "percent"],
+      "importance_ratio": 0.0787
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Minimum Wage and Gender/Labor Related Issues",
+      "core_keywords": ["minimum wage", "woman", "labor", "latino", "immigration", "american", "law", "child"],
+      "importance_ratio": 0.0674
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Child Poverty and Federal Social Programs",
+      "core_keywords": ["child poverty", "family", "income", "federal", "program", "food", "education", "job"],
+      "importance_ratio": 0.0112
+    }
+  ]
+}

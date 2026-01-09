@@ -1,0 +1,36 @@
+{
+  "month": "2016-12",
+  "total_articles": 270,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Democratic Party and 2016 Election Politics",
+      "core_keywords": ["clinton", "trump", "election", "democratic", "party", "campaign", "obama"],
+      "importance_ratio": 0.2222
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State and Federal Governance & Social Issues",
+      "core_keywords": ["state", "law", "government", "school", "child", "court", "public"],
+      "importance_ratio": 0.2296
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump and Voter Dynamics in 2016 Election",
+      "core_keywords": ["trump", "voter", "election", "vote", "political", "american", "white"],
+      "importance_ratio": 0.0815
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Presidential Position and Social Media",
+      "core_keywords": ["trump", "president", "tweet", "twitter", "republican", "elect", "state"],
+      "importance_ratio": 0.2481
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Policies on Workers and Economic Issues",
+      "core_keywords": ["trump", "worker", "job", "tax", "health", "trade", "american"],
+      "importance_ratio": 0.2185
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2019-11",
+  "total_articles": 101,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2020 US Presidential Election Campaign",
+      "core_keywords": ["trump", "election", "democrat", "republican", "president", "candidate", "voter"],
+      "importance_ratio": 0.3762
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Industry and Employment Issues",
+      "core_keywords": ["company", "job", "industry", "steel", "amazon", "delivery", "american"],
+      "importance_ratio": 0.1485
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Border Wall and Immigration Policy",
+      "core_keywords": ["trump", "border", "wall", "asylum", "cbp", "administration", "conspiracy"],
+      "importance_ratio": 0.0891
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Immigration Law and Social Issues",
+      "core_keywords": ["immigration", "law", "illegal", "immigrant", "social", "party", "country"],
+      "importance_ratio": 0.0693
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump and Ukraine Impeachment Inquiry",
+      "core_keywords": ["trump", "ukraine", "impeachment", "giuliani", "white house", "administration", "house"],
+      "importance_ratio": 0.3168
+    }
+  ]
+}

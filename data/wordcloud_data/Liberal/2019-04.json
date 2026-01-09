@@ -1,0 +1,36 @@
+{
+  "month": "2019-04",
+  "total_articles": 129,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Mueller Report and Trump's Security Clearance Controversies",
+      "core_keywords": ["trump", "mueller", "report", "white house", "security", "election", "democrat"],
+      "importance_ratio": 0.3488
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Foreign Policy and Presidential Election Debates",
+      "core_keywords": ["war", "military", "iran", "foreign policy", "candidate", "debate", "presidential"],
+      "importance_ratio": 0.0155
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Tax Returns and Federal Policy Debates",
+      "core_keywords": ["tax", "trump", "federal", "government", "republican", "border", "law"],
+      "importance_ratio": 0.2558
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Democratic Party Dynamics and Voter Attitudes",
+      "core_keywords": ["trump", "democrat", "biden", "voter", "political", "party", "state"],
+      "importance_ratio": 0.3643
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Data Security and Trump Administration's Policy Releases",
+      "core_keywords": ["email", "access", "russia", "trump", "policy", "official", "release"],
+      "importance_ratio": 0.0156
+    }
+  ]
+}

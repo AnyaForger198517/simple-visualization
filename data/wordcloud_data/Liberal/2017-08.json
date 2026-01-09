@@ -1,0 +1,36 @@
+{
+  "month": "2017-08",
+  "total_articles": 194,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Political Parties and Tax Policy Debates",
+      "core_keywords": ["republican", "democrat", "trump", "political", "tax", "state", "voter"],
+      "importance_ratio": 0.3557
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Racial Hate Groups and Charlottesville Violence",
+      "core_keywords": ["white supremacist", "hate", "charlottesville", "violence", "nazi", "black", "rally"],
+      "importance_ratio": 0.2938
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Alaska National Park and Trump Administration Policies",
+      "core_keywords": ["national park", "alaska", "trump", "legislation", "hunting", "interior", "preserve"],
+      "importance_ratio": 0.0052
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump Administration and Russian Election Probe",
+      "core_keywords": ["trump", "president", "white house", "russia", "bannon", "election", "campaign"],
+      "importance_ratio": 0.3247
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "HUD and Government Housing Funding Issues",
+      "core_keywords": ["carson", "hud", "housing", "government", "money", "campaign", "donor"],
+      "importance_ratio": 0.0206
+    }
+  ]
+}

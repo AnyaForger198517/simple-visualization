@@ -1,0 +1,36 @@
+{
+  "month": "2021-04",
+  "total_articles": 272,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2020 Election Audit and Republican Voting Policy Debates",
+      "core_keywords": ["election", "republican", "trump", "voter", "vote", "ballot", "audit", "democrat"],
+      "importance_ratio": 0.3603
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gaetz and Greenberg's Sex-related Federal Investigations",
+      "core_keywords": ["gaetz", "greenberg", "trump", "sex", "federal", "florida", "prosecutor", "girl"],
+      "importance_ratio": 0.1066
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Racial Justice and Police Policy in American Communities",
+      "core_keywords": ["black", "white", "police", "woman", "justice", "right", "community", "policy"],
+      "importance_ratio": 0.1912
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Biden's Economic Plan and Tax & Drug Policy Reforms",
+      "core_keywords": ["biden", "tax", "american", "drug", "plan", "support", "government", "president"],
+      "importance_ratio": 0.1838
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump and Biden's Political Conflicts and COVID-19 Vaccine Issues",
+      "core_keywords": ["trump", "biden", "president", "white", "russian", "ukraine", "vaccine", "report"],
+      "importance_ratio": 0.1581
+    }
+  ]
+}

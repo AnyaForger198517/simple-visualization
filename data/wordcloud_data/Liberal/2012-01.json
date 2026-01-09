@@ -1,0 +1,36 @@
+{
+  "month": "2012-01",
+  "total_articles": 70,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "Poverty and social inequality in America, covering child poverty, income disparity, employment, and family financial struggles",
+      "topic_words_summary": ["poverty", "child", "income", "job", "family", "inequality", "opportunity"],
+      "proportion": 10.0
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Republican presidential primary campaign, focusing on Romney, Santorum, Gingrich and conservative party dynamics",
+      "topic_words_summary": ["conservative", "romney", "santorum", "republican", "primary", "candidate", "vote"],
+      "proportion": 15.71
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Ron Paul's presidential campaign and state-level Republican politics, including Iowa and New Hampshire primaries",
+      "topic_words_summary": ["ron paul", "state", "republican", "iowa", "hampshire", "government", "president"],
+      "proportion": 44.29
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Education policy, journalism and social issues related to mothers and children",
+      "topic_words_summary": ["school", "mother jones", "policy", "journalism", "child", "law", "privacy"],
+      "proportion": 21.43
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Obama and Wisconsin politics, including Scott Walker recall and Republican election dynamics",
+      "topic_words_summary": ["obama", "wisconsin", "walker", "recall", "republican", "governor", "election"],
+      "proportion": 8.57
+    }
+  ]
+}

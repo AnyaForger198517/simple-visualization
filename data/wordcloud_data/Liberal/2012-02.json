@@ -1,0 +1,36 @@
+{
+  "month": "2012-02",
+  "total_articles": 58,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "US national politics, focusing on Obama, Romney, and religious/historical American identity",
+      "topic_words_summary": ["obama", "romney", "american", "religious", "president", "nation", "history"],
+      "proportion": 22.41
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Conservative vs liberal politics, gay rights, court issues and government social programs",
+      "topic_words_summary": ["conservative", "liberal", "gay", "court", "obama", "government", "social program"],
+      "proportion": 27.59
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Komen-Planned Parenthood funding dispute and women's breast cancer health issues",
+      "topic_words_summary": ["komen", "planned parenthood", "breast cancer", "woman", "funding", "health", "grant"],
+      "proportion": 18.97
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Obama administration, bank/mortgage issues and legal claims",
+      "topic_words_summary": ["obama", "bank", "mortgage", "administration", "law", "claim", "release"],
+      "proportion": 18.97
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Catholic hospital contraceptive coverage, tax issues and same-sex marriage",
+      "topic_words_summary": ["catholic hospital", "contraceptive", "tax", "woman", "health", "marriage", "coverage"],
+      "proportion": 12.07
+    }
+  ]
+}

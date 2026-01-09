@@ -1,0 +1,38 @@
+{
+  "month": "2011-07",
+  "total_articles": 81,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "Racial discrimination in employment, focusing on job gaps between black and white Americans",
+      "topic_percentage": 1.23
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "State-level political issues including tax policies, republican campaigns and legislative laws",
+      "topic_percentage": 50.62
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Crime and incarceration issues, including prisoners' rights and racial aspects of crime in America",
+      "topic_percentage": 17.28
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Drug policies and political responses to anti-drug movements",
+      "topic_percentage": 4.94
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Journalism and policy coverage by Mother Jones, including privacy and budget issues",
+      "topic_percentage": 25.93
+    }
+  ],
+  "topic_distribution": {
+    "0": 1,
+    "1": 41,
+    "2": 14,
+    "3": 4,
+    "4": 21
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "month": "2011-06",
+  "total_articles": 81,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "Ideological discourse between conservatism and liberalism, focusing on democratic values, social institutions and language use",
+      "topic_percentage": 3.70
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Economic policy debates including tax, global crisis, trade and presidential policies",
+      "topic_percentage": 6.17
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Political dynamics involving state policies, republican/democrat stances, tax and Obama's administration",
+      "topic_percentage": 90.12
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Reiteration of ideological comparisons between liberal and conservative ideals",
+      "topic_percentage": 0.00
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Cultural and social dimensions of liberal and conservative ideologies in American society",
+      "topic_percentage": 0.00
+    }
+  ],
+  "topic_distribution": {
+    "0": 3,
+    "1": 5,
+    "2": 73,
+    "3": 0,
+    "4": 0
+  }
+}

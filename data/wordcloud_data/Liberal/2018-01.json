@@ -1,0 +1,36 @@
+{
+  "month": "2018-01",
+  "total_articles": 209,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Coal Industry and Appalachian Social Issues",
+      "core_keywords": ["coal", "state", "american", "work", "trump", "company", "family"],
+      "importance_ratio": 0.0813
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Political Party Competition and Election",
+      "core_keywords": ["republican", "democrat", "trump", "state", "house", "voter", "president"],
+      "importance_ratio": 0.3014
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Tax Policy and Economic Impacts",
+      "core_keywords": ["tax", "trump", "percent", "worker", "cut", "job", "economic"],
+      "importance_ratio": 0.1531
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump Administration and Russia Investigation",
+      "core_keywords": ["trump", "president", "russia", "campaign", "white house", "investigation", "news"],
+      "importance_ratio": 0.4402
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Gender Equality and Public Policy Issues",
+      "core_keywords": ["woman", "sexual", "public", "committee", "land", "department", "meeting"],
+      "importance_ratio": 0.0239
+    }
+  ]
+}

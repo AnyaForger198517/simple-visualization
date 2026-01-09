@@ -1,0 +1,36 @@
+{
+  "month": "2012-05",
+  "total_articles": 95,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "Government policies on taxation, debt and public law affecting low-income groups",
+      "topic_words": ["tax", "debt", "government", "law", "poor", "state", "public"],
+      "proportion": 23.16
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Military spending and its impact on jobs and economic development",
+      "topic_words": ["military", "spending", "job", "economy", "pentagon", "state", "war"],
+      "proportion": 6.32
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Poverty issues and social assistance policies for families and children",
+      "topic_words": ["poverty", "family", "child", "assistance", "republican", "democrat", "program"],
+      "proportion": 2.11
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Obama's presidency, social protests and civil rights movements",
+      "topic_words": ["obama", "protest", "right", "occupy", "state", "law", "american"],
+      "proportion": 57.89
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Election campaign between Romney and Obama on jobs and policies",
+      "topic_words": ["romney", "obama", "campaign", "job", "president", "republican", "news"],
+      "proportion": 10.53
+    }
+  ]
+}

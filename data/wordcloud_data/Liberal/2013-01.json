@@ -1,0 +1,36 @@
+{
+  "month": "2013-01",
+  "total_articles": 169,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Poverty and Low-Income Family Economic Issues",
+      "core_keywords": ["poverty", "family", "income", "job", "percent", "worker", "program", "cut"],
+      "importance_ratio": 0.0710
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State and Local Government Rights and Healthcare Policy",
+      "core_keywords": ["state", "government", "right", "law", "health", "care", "union", "local"],
+      "importance_ratio": 0.0414
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gun Policy and Political Debates in the US",
+      "core_keywords": ["gun", "state", "government", "republican", "obama", "law", "american", "political"],
+      "importance_ratio": 0.7101
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Military Policy and Presidential Political Affairs",
+      "core_keywords": ["war", "military", "obama", "president", "republican", "senate", "policy", "state"],
+      "importance_ratio": 0.1420
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Election and Gay Rights-Related Political Issues",
+      "core_keywords": ["vote", "gay", "republican", "election", "state", "policy", "national", "electoral"],
+      "importance_ratio": 0.0355
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "month": "2011-08",
+  "total_articles": 80,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_summary": "US political power dynamics, including republican/tea party, government, tax and Obama/Bush administrations",
+      "topic_percentage": 37.50
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Mother Jones journalism covering Bachmann, Obama policies, privacy and state-level politics",
+      "topic_percentage": 26.25
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Environmental and federal legal issues, including protests, keystone project and arrests",
+      "topic_percentage": 6.25
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Tax cuts and political negotiations between democrats/republicans and the White House",
+      "topic_percentage": 25.00
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Financial crisis and debt issues, including banks, Greece crisis and economic policies",
+      "topic_percentage": 5.00
+    }
+  ],
+  "topic_distribution": {
+    "0": 30,
+    "1": 21,
+    "2": 5,
+    "3": 20,
+    "4": 4
+  }
+}

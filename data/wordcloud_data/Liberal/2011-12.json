@@ -1,0 +1,36 @@
+{
+  "month": "2011-12",
+  "total_articles": 71,
+  "topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_summary": "Health insurance and medical legislation",
+      "topic_keywords": ["health", "insurance", "medical", "legislation", "law", "profit"],
+      "proportion": 5.63
+    },
+    {
+      "topic_id": 1,
+      "topic_summary": "Republican presidential candidates and politics",
+      "topic_keywords": ["republican", "president", "political", "paul", "biden", "policy"],
+      "proportion": 32.39
+    },
+    {
+      "topic_id": 2,
+      "topic_summary": "Immigration and deportation of women/children",
+      "topic_keywords": ["immigration", "deportation", "woman", "child", "immigrant", "border"],
+      "proportion": 1.41
+    },
+    {
+      "topic_id": 3,
+      "topic_summary": "Nuclear safety and government commissions",
+      "topic_keywords": ["nuclear", "safety", "commission", "report", "senate", "public"],
+      "proportion": 1.41
+    },
+    {
+      "topic_id": 4,
+      "topic_summary": "Tax policy and Republican government issues",
+      "topic_keywords": ["tax", "republican", "government", "job", "policy", "gingrich"],
+      "proportion": 59.15
+    }
+  ]
+}
