@@ -1,0 +1,41 @@
+{
+    "top5_domains": [
+        {
+            "domain": "nytimes",
+            "post_count": 1384,
+            "post_ratio(%)": 6.1364
+        },
+        {
+            "domain": "washingtonpost",
+            "post_count": 1210,
+            "post_ratio(%)": 5.3649
+        },
+        {
+            "domain": "huffingtonpost",
+            "post_count": 916,
+            "post_ratio(%)": 4.0614
+        },
+        {
+            "domain": "motherjones",
+            "post_count": 729,
+            "post_ratio(%)": 3.2322
+        },
+        {
+            "domain": "thehill",
+            "post_count": 685,
+            "post_ratio(%)": 3.0372
+        }
+    ],
+    "top5_total_posts": 4924,
+    "top5_total_ratio(%)": 21.832,
+    "other_than_top5": {
+        "post_count": 17630,
+        "post_ratio(%)": 78.168
+    },
+    "no_domain_posts": {
+        "post_count": 0,
+        "post_ratio(%)": 0.0
+    },
+    "total_posts": 22554,
+    "total_valid_domain_posts": 22554
+}

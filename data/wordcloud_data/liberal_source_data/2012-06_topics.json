@@ -1,0 +1,275 @@
+{
+  "month": "2012-06",
+  "total_articles": 108,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "health",
+        "court",
+        "care",
+        "state",
+        "law",
+        "ha",
+        "insurance",
+        "tax",
+        "american",
+        "jones",
+        "money",
+        "public",
+        "mother",
+        "government"
+      ],
+      "topic_weights": [
+        336.4978809772058,
+        292.4763409328818,
+        280.6862688706521,
+        237.45358464655303,
+        235.93228555766825,
+        220.3857455201527,
+        216.83188919377903,
+        198.80399750693417,
+        192.00443780222705,
+        161.22304237446923,
+        157.00944754930396,
+        154.50878007411194,
+        152.2989820713366,
+        149.1963438652171,
+        143.15330023346633
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "elite",
+        "agency",
+        "ha",
+        "wall",
+        "inequality",
+        "percent",
+        "meritocracy",
+        "street",
+        "rating",
+        "mobility",
+        "intelligence",
+        "financial",
+        "society",
+        "group"
+      ],
+      "topic_weights": [
+        486.63550582723605,
+        400.06410155343156,
+        395.1441825434963,
+        315.91977064133954,
+        307.9915001698555,
+        301.0077120393588,
+        293.0105150566997,
+        292.2599553578046,
+        276.32834804661866,
+        251.65562714453742,
+        241.6923118731069,
+        234.24271687530373,
+        216.22926712178247,
+        209.64806065251622,
+        199.1910039977814
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "family",
+        "child",
+        "percent",
+        "poverty",
+        "million",
+        "state",
+        "income",
+        "population",
+        "work",
+        "ha",
+        "american",
+        "home",
+        "cash",
+        "assistance",
+        "policy"
+      ],
+      "topic_weights": [
+        614.575408153858,
+        552.0342031061924,
+        526.443596982821,
+        504.2287669121847,
+        380.8258939982267,
+        260.55550722167237,
+        198.2186995760721,
+        184.59244222836514,
+        178.39989575575493,
+        163.98729871547425,
+        158.57026172713512,
+        156.85188764821004,
+        153.01995852099245,
+        146.0443727758691,
+        144.12293527995476
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "state",
+        "american",
+        "president",
+        "case",
+        "romney",
+        "law",
+        "war",
+        "policy",
+        "administration",
+        "religious",
+        "government",
+        "muslim"
+      ],
+      "topic_weights": [
+        708.525061338614,
+        650.0526944695278,
+        368.4693980298245,
+        308.87875564426895,
+        243.58951221307035,
+        206.5831231356473,
+        191.75066867623252,
+        174.37889296835135,
+        168.74377423228498,
+        166.10243822070603,
+        164.02086196897756,
+        156.4683650557291,
+        155.86200962411223,
+        154.8623829861402,
+        144.1969274825447
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "policy",
+        "nation",
+        "agency",
+        "financial",
+        "senator",
+        "wa",
+        "support",
+        "journalism",
+        "receive",
+        "percent",
+        "news",
+        "program",
+        "ha",
+        "morgan",
+        "offer"
+      ],
+      "topic_weights": [
+        13.656093349058805,
+        9.969786730115688,
+        8.366424422718794,
+        7.892700945411581,
+        7.815325328779313,
+        7.680586488443116,
+        7.630191586332905,
+        6.595277940319114,
+        6.551405855440668,
+        6.487230412949554,
+        6.486538657065403,
+        6.482828756102828,
+        6.442358245887505,
+        6.2050040221275164,
+        5.901535692767342
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 50,
+    "0": 50,
+    "2": 4,
+    "1": 2,
+    "4": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Coming soon to your state: The anti-union, education-cutting, free-market-leaning, divide-and-conquer playbook of Wisconsin Gov. Scott Walker. According to a leading conservative activist, the Walker ...",
+        "upvotes": 18,
+        "url": "http://www.motherjones.com/mojo/2012/06/walker-wisconsin-americans-for-prosperity-new-model"
+      },
+      {
+        "preview": "Patriot Depot, supplies for the conservative revolution, has what you crave, and that is seven different versions of this amazing portrait of Ghost Andrew Breitbart titled Fight. You could buy it in a...",
+        "upvotes": 0,
+        "url": "http://wonkette.com/474218/here-is-a-painting-of-ghost-andrew-breitbart-as-a-nordic-knight"
+      },
+      {
+        "preview": "Grover's been belching up these Reagan tweets regularly (see also here and here)—so it's about time we asked a few pointed questions: 1) Why is Grover touting a Republican administration that's three ...",
+        "upvotes": 59,
+        "url": "http://crooksandliars.com/blue-texan/stupid-right-wing-tweets-grover-norquis"
+      }
+    ],
+    "1": [
+      {
+        "preview": "iety that has been corrupted entirely by the Iron Law of Meritocracy would look like. It would be a society with extremely high and rising inequality yet little circulation of elites. A society in whi...",
+        "upvotes": 3,
+        "url": "http://www.thenation.com/article/168265/why-elites-fail"
+      },
+      {
+        "preview": "Even before Occupy Wall Street made \"We are the 99 percent\" the slogan for post-financial meltdown America, Nobel Prize-winning economist Joseph Stiglitz grabbed the attention (of elites, anyway) with...",
+        "upvotes": 7,
+        "url": "http://www.salon.com/2012/06/14/the_paradox_of_american_meritocracy/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "d businesses to hire less workers, and in fact research has shown that an increase in the minimum wage doesn’t create an increase in unemployment. The seminal academic work on that topic was done by A...",
+        "upvotes": 48,
+        "url": "http://www.thenation.com/blog/168258/congressional-push-raise-minimum-wage"
+      },
+      {
+        "preview": "Occupy Our Homes has saved another family from foreclosure, continuing the group’s recent string of successes. By signing up, you confirm that you are over the age of 16 and agree to receive occasiona...",
+        "upvotes": 0,
+        "url": "http://www.thenation.com/blog/168367/occupy-our-homes-saves-another-family-foreclosure"
+      },
+      {
+        "preview": "(Reuters) - Rhode Island's governor is expected to sign into law the first \"Homeless Bill of Rights\" in the United States as early as next week, formally banning discrimination against homeless people...",
+        "upvotes": 4,
+        "url": "http://www.huffingtonpost.com/2012/06/15/rhode-island-homeless-bill-of-rights_n_1595063.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "At issue is whether federal benefits can be denied in marriages legal under state law A three-judge panel of a federal appeals court says no The appeals court notes it may ultimately be up to the Supr...",
+        "upvotes": 5,
+        "url": "http://www.cnn.com/2012/05/31/us/massachusetts-same-sex-marriage/index.html?hpt=hp_t1"
+      },
+      {
+        "preview": "Wikipedia Former President George W. Bush had his official presidential portrait unveiled at a special ceremony at the White House today. It’s fairly standard issue: Bush stands in the Oval Office, hi...",
+        "upvotes": 12,
+        "url": "http://www.slate.com/blogs/browbeat/2012/05/31/george_w_bush_s_official_portrait_puts_the_president_with_a_charge_to_keep_the_irony_behind_bush_s_misreading_of_the_painting_.html"
+      },
+      {
+        "preview": "By Roger HarrabinEnvironment analyst Public mistrust of the \"big six\" energy firms may undermine the UK government's planned Green Deal, according to the International Energy Agency. The energy firms ...",
+        "upvotes": 1,
+        "url": "http://www.bbc.co.uk/news/science-environment-18253561"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The Senate Banking Committee hearings on Tuesday enlightened the public on one extraordinarily important fact. Politicians can be expected to lie, bully, and engage in character assassination to serve...",
+        "upvotes": 17,
+        "url": "http://www.demos.org/blog/anti-regulation-senator-pounds-regulators-not-regulating"
+      },
+      {
+        "preview": "Are we self-segregating as we get more diverse? By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs that support The Nation’s jou...",
+        "upvotes": 10,
+        "url": "http://www.thenation.com/blog/168454/what-can-we-do-about-gentrification"
+      }
+    ]
+  }
+}

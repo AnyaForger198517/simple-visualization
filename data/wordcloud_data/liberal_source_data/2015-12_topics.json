@@ -1,0 +1,285 @@
+{
+  "month": "2015-12",
+  "total_articles": 399,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "court",
+        "state",
+        "wa",
+        "arbitration",
+        "case",
+        "law",
+        "ha",
+        "federal",
+        "abortion",
+        "planned",
+        "parenthood",
+        "right",
+        "judge",
+        "supreme",
+        "action"
+      ],
+      "topic_weights": [
+        456.1445356077156,
+        403.98018102686973,
+        354.51085041780664,
+        345.2541682233347,
+        289.563752344696,
+        284.0918888910611,
+        250.76912956857336,
+        240.3032831337124,
+        238.57871285549984,
+        210.6394351739969,
+        208.3543113382451,
+        177.3733948730992,
+        171.73318719725563,
+        148.0352214772624,
+        144.28236846991925
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "rabbi",
+        "police",
+        "black",
+        "york",
+        "fed",
+        "officer",
+        "bank",
+        "federal",
+        "city",
+        "class",
+        "chicago",
+        "reserve",
+        "wa",
+        "working",
+        "seeger"
+      ],
+      "topic_weights": [
+        936.5332306792179,
+        454.77020053550217,
+        169.2618292637591,
+        142.375354098067,
+        134.23551633761284,
+        113.90588976395549,
+        107.6102410418327,
+        107.05344979134868,
+        106.31244664316705,
+        103.70543679130365,
+        102.67534166163456,
+        99.23488502192671,
+        89.92675129068448,
+        82.98271775796815,
+        81.84056722305604
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "gun",
+        "american",
+        "ha",
+        "change",
+        "climate",
+        "ford",
+        "muslim",
+        "violence",
+        "state",
+        "obama",
+        "attack",
+        "terrorist",
+        "country",
+        "world"
+      ],
+      "topic_weights": [
+        1259.423610231233,
+        615.4590806183322,
+        467.71275171808657,
+        467.3206819826007,
+        384.2770555285936,
+        381.0470910126302,
+        355.24559050242254,
+        337.97754438469224,
+        327.4243889260212,
+        326.692567929642,
+        322.3793425247176,
+        316.3754219427736,
+        313.43852752114725,
+        269.0277765794548,
+        264.4516572686475
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "tax",
+        "family",
+        "ha",
+        "program",
+        "american",
+        "social",
+        "income",
+        "government",
+        "wage",
+        "paid",
+        "poverty",
+        "security",
+        "policy",
+        "class",
+        "working"
+      ],
+      "topic_weights": [
+        482.47740587558803,
+        327.13346739038224,
+        286.619363003548,
+        249.63728329907508,
+        246.67853087584442,
+        206.06989441986158,
+        200.60962735370416,
+        194.36381036368567,
+        192.61609260576688,
+        179.20647321426503,
+        171.9871625179588,
+        162.50389392622037,
+        153.0587140354858,
+        150.86767230667655,
+        145.098856747808
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "clinton",
+        "sander",
+        "ha",
+        "campaign",
+        "percent",
+        "republican",
+        "candidate",
+        "wa",
+        "cruz",
+        "state",
+        "voter",
+        "support",
+        "democratic",
+        "poll"
+      ],
+      "topic_weights": [
+        1023.2470277219699,
+        837.3851184680024,
+        746.049844707275,
+        610.1441106844632,
+        525.7688773409498,
+        460.9946724772654,
+        452.73940055069403,
+        397.0126077707887,
+        376.23650874775416,
+        353.8185119334794,
+        351.3197707021963,
+        344.5157138742196,
+        320.69076852012,
+        277.088080616296,
+        271.2316911022838
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 162,
+    "1": 7,
+    "4": 130,
+    "0": 55,
+    "3": 45
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Alabama called off a legal battle with Planned Parenthood on Monday after a federal judge last month blocked the state from defunding the reproductive health organization's clinics amid national contr...",
+        "upvotes": 161,
+        "url": "http://www.huffingtonpost.com/entry/alabama-planned-parenthood_565ce8bae4b072e9d1c30cc8"
+      },
+      {
+        "preview": "Photo by Alex Wong/Getty Images I had an abortion. I was not in a libertine college-girl phase, although frankly it’s none of your business. I was already a mother of two, which puts me in the majorit...",
+        "upvotes": 174,
+        "url": "http://www.slate.com/articles/double_x/doublex/2014/10/katha_pollitt_s_pro_reclaiming_abortion_rights_reviewed.single.html"
+      },
+      {
+        "preview": "Endnotes and citations are available in the PDF and Scribd versions. It has been five months since the U.S. Supreme Court declared that the U.S. Constitution protects the right to marry for same-sex c...",
+        "upvotes": 5,
+        "url": "https://www.americanprogress.org/issues/civil-liberties/report/2015/12/01/126270/a-handful-of-elected-state-judges-continue-to-deny-marriage-equality/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Neel Kashkari, November 4, 2014, in Costa Mesa, California. (AP Photo / Chris Carlson) By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for...",
+        "upvotes": 17,
+        "url": "http://www.thenation.com/article/why-do-former-goldman-sachs-bankers-keep-landing-top-slots-at-the-federal-reserve/"
+      },
+      {
+        "preview": "Chicago Mayor Rahm Emanuel (AP Photo / Charles Rex Arbogast) By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs that support The...",
+        "upvotes": 8,
+        "url": "http://www.thenation.com/article/why-are-democrats-silent-on-rahm-emanuel/"
+      },
+      {
+        "preview": "The browser or device you are using is out of date. It has known security flaws and a limited feature set. You will not see all the features of some websites. Please update your browser. A list of the...",
+        "upvotes": 0,
+        "url": "http://america.aljazeera.com/opinions/2015/12/protests-highlight-the-racism-behind-minnesota-nice.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Photo by Justin Edmonds/Getty Images Another terrorist attack. Another grim tally of the dead and wounded. Another killer full of hate, from a land that breeds such men. Like millions of migrants befo...",
+        "upvotes": 41,
+        "url": "http://www.slate.com/articles/news_and_politics/politics/2015/11/robert_lewis_dear_is_one_of_many_religious_extremists_bred_in_north_carolina.html"
+      },
+      {
+        "preview": "Kurdish and Turkish smugglers are transporting oil from ISIS controlled territory in Syria and Iraq and selling it to Israel, according to several reports in the Arab and Russian media. An estimated 2...",
+        "upvotes": 13,
+        "url": "http://www.globes.co.il/en/article.aspx?did=1001084873"
+      },
+      {
+        "preview": "This article is more than 1 year old Ja’Mecca Smith was the youngest of seven children, the baby of the family. She loved tic-tac-toe and the Disney movie “Frozen” and the color red. She was a member ...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/news/morning-mix/wp/2015/11/30/georgia-6-year-old-dead-finds-gun-in-couch-cushion-fatally-shoots-herself/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "e he was reciting from memory “Do Not Go Gentle”, by Dylan Thomas, reciting this rich, rolling Welchman’s poem in a heavy Brooklyn accent. And it was kind of wonderful, you know? He was loving the poe...",
+        "upvotes": 0,
+        "url": "http://www.dailykos.com/story/2015/12/02/1454937/-Spreading-The-Truth-About-Bernie-Mayor-of-Burlington"
+      },
+      {
+        "preview": "This is one example of the distorted thinking leading to the demise of a once-vibrant American society. There are other signs of decay: 1. A House Bill Would View Corporate Crimes as Honest Mistakes...",
+        "upvotes": 1,
+        "url": "http://www.informationclearinghouse.info/article43520.htm"
+      },
+      {
+        "preview": "At , we provide the knowledge and resources you need to make a tangible impact on your chosen field. Through a combination of classroom theory and practical experience designed for you to succeed, you...",
+        "upvotes": 1,
+        "url": "http://www.quinnipiac.edu/news-and-events/quinnipiac-university-poll/national/release-detail?ReleaseID=2307"
+      }
+    ],
+    "4": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Hillary ClintonHillary Diane Rodham ClintonHoward Stern rips vaccine opponents: 'F--- their freedom, I want my freedom to live' New Hampshire Democra...",
+        "upvotes": 1,
+        "url": "http://thehill.com/policy/finance/261511-clinton-lays-out-infrastructure-plan"
+      },
+      {
+        "preview": "Getty By ELIZA COLLINS 11/30/2015 07:19 PM EST Ted Cruz on Monday equated Democrats with violent crime. In an interview with conservative radio host Hugh Hewitt on Monday, the Texas senator said that ...",
+        "upvotes": 11,
+        "url": "http://www.politico.com/story/2015/11/ted-cruz-planned-parenthood-democrats-crime-216288"
+      },
+      {
+        "preview": "MONTGOMERY, Ala. — Sixty years after Rosa Parks refused to give up her bus seat to a white man, Hillary Clinton arrives here to commemorate the bus boycott that began in this Deep South city on Dec. 1...",
+        "upvotes": 2,
+        "url": "http://www.nytimes.com/politics/first-draft/2015/12/01/hillary-clinton-to-speak-at-rosa-parks-event-in-alabama/"
+      }
+    ]
+  }
+}

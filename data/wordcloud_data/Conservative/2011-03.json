@@ -1,0 +1,36 @@
+{
+  "month": "2011-03",
+  "total_articles": 61,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Federal Debt & Government Policy by Timeframe",
+      "core_keywords": ["federal debt", "government policy", "monthly analysis", "fiscal management", "budget timeline"],
+      "importance_ratio": 6.56
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Religious Conflict (Muslim) in Online Discourse",
+      "core_keywords": ["Muslim", "religious hatred", "Islam", "Christianity", "online replies", "religious conflict"],
+      "importance_ratio": 1.64
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Fascism Critique & Obama's Political Agenda",
+      "core_keywords": ["fascism", "fascist", "Obama", "war", "military", "political policy", "national security"],
+      "importance_ratio": 34.43
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "U.S. National Identity & Founding Principles",
+      "core_keywords": ["U.S. states", "Founding Fathers", "border security", "national identity", "federal government"],
+      "importance_ratio": 32.79
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Fiscal Policy (GOP/Obama) & Domain Economics",
+      "core_keywords": ["domain pricing", "Republican", "Obama", "federal spending", "budget cuts", "Congress", "fiscal policy"],
+      "importance_ratio": 24.59
+    }
+  ]
+}

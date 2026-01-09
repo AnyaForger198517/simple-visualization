@@ -1,0 +1,275 @@
+{
+  "month": "2014-05",
+  "total_articles": 84,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "ha",
+        "wing",
+        "conservative",
+        "american",
+        "support",
+        "state",
+        "republican",
+        "obama",
+        "walmart",
+        "sander",
+        "policy",
+        "issue",
+        "president"
+      ],
+      "topic_weights": [
+        134.99299091074198,
+        131.02049245863117,
+        123.66252833675891,
+        116.77361834786093,
+        107.47598884401167,
+        106.17674988888359,
+        78.12558859075392,
+        76.04083196359657,
+        74.70164758119341,
+        74.36135698502659,
+        71.50394941824855,
+        64.5037600766281,
+        63.876799743964774,
+        63.10826084596002,
+        53.01420012151508
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "voter",
+        "republican",
+        "ha",
+        "koch",
+        "obama",
+        "party",
+        "democrat",
+        "vote",
+        "election",
+        "campaign",
+        "state",
+        "president",
+        "candidate",
+        "law"
+      ],
+      "topic_weights": [
+        129.9728670233851,
+        119.01270395595444,
+        84.62502227859746,
+        83.1110138247011,
+        82.13169305058153,
+        74.73938357183144,
+        71.26108286774483,
+        68.59611769630548,
+        68.4989642865375,
+        64.08449745950112,
+        60.40975838349336,
+        56.467845233729555,
+        54.398387039236134,
+        50.71393437638147,
+        48.41554651480419
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "document",
+        "government",
+        "source",
+        "state",
+        "agency",
+        "secret",
+        "did",
+        "united",
+        "surveillance",
+        "court",
+        "read",
+        "hour",
+        "world",
+        "intelligence"
+      ],
+      "topic_weights": [
+        605.8923015054083,
+        407.94674073311177,
+        296.5243386037189,
+        264.56115002941215,
+        249.31975635849278,
+        229.78890378163842,
+        217.27821689405465,
+        178.8429056055507,
+        174.99368665555332,
+        156.17815673341843,
+        155.65939829604048,
+        143.5581661683108,
+        134.5448990938539,
+        132.71534775085922,
+        128.17459652259316
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "muslim",
+        "ha",
+        "islam",
+        "school",
+        "life",
+        "common",
+        "woman",
+        "core",
+        "public",
+        "state",
+        "work",
+        "child",
+        "harris",
+        "government"
+      ],
+      "topic_weights": [
+        137.55168591004582,
+        67.49758988144899,
+        65.031957420489,
+        55.35868296833019,
+        42.44928990027553,
+        37.84554260823625,
+        36.2651556950614,
+        36.25570915158471,
+        35.1420521451564,
+        32.5704663492615,
+        31.966836725973366,
+        30.586188259837527,
+        30.423703578912686,
+        28.83475176275064,
+        28.79041644273507
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "wa",
+        "ryan",
+        "welfare",
+        "white",
+        "government",
+        "poor",
+        "dog",
+        "minority",
+        "whistle",
+        "conservative",
+        "american",
+        "religious",
+        "life",
+        "state"
+      ],
+      "topic_weights": [
+        72.12587109124618,
+        61.6205003730202,
+        44.19079360339617,
+        40.361272736341206,
+        39.68681546793534,
+        39.36092396456619,
+        34.58898803947556,
+        34.19880970235104,
+        33.812668150389804,
+        33.297586257663156,
+        31.427598211513953,
+        30.62529977212573,
+        29.83690534934817,
+        28.996786619998147,
+        26.845831943465118
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 25,
+    "0": 36,
+    "4": 13,
+    "3": 9,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 6,
+        "url": "http://www.rightwingwatch.org/content/beck-hillary-clinton-will-be-having-sex-woman-white-house-desk-if-it-becomes-popular"
+      },
+      {
+        "preview": "The changes that are necessary to arrest this decline are so fundamental that they virtually require a new political order. by Harold Meyerson April 30, 2014 11:40 AM It's not easy being president dur...",
+        "upvotes": 3,
+        "url": "http://prospect.org/article/whos-got-political-will-save-middle-class"
+      },
+      {
+        "preview": "Advertisement Supported by By Thomas L. Friedman SO the latest news is that President Vladimir Putin of Russia has threatened to turn off gas supplies to Ukraine if Kiev doesn’t pay its overdue bill, ...",
+        "upvotes": 1,
+        "url": "http://www.nytimes.com/2014/04/13/opinion/sunday/friedman-go-ahead-vladimir-make-my-day.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement Supported by By Jeremy W. Peters WASHINGTON — With the Republican-led filibuster of a Senate proposal to raise the federal minimum wage to $10.10 on Wednesday, Democrats moved swiftly to...",
+        "upvotes": 34,
+        "url": "http://www.nytimes.com/2014/05/01/us/politics/senate-minimum-wage-bill.html?_r=0"
+      },
+      {
+        "preview": "WASHINGTON -- Trying to crack down on in-person voter fraud isn't a strong enough justification for Wisconsin's voter ID law, a federal judge ruled Tuesday, because voter impersonation virtually never...",
+        "upvotes": 126,
+        "url": "http://www.huffingtonpost.com/2014/04/29/voter-fraud-wisconsin_n_5235466.html"
+      },
+      {
+        "preview": "Let's get this straight. L.A. Clippers owner Donald Sterling was caught on tape making racist remarks, and rather than just letting the free market play out and eventually force his hand -- as was hap...",
+        "upvotes": 0,
+        "url": "http://www.huffingtonpost.com/michelangelo-signorile/donald-sterling-brendan-eich-and-how-homophobia-gets-a-pass_b_5239389.html?utm_hp_ref=gay-voices"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ws, but only if the technical community is willing to face the threat and commit to implementing over-engineered solutions. In the end, we must enforce a principle whereby the only way the powerful ma...",
+        "upvotes": 0,
+        "url": "http://www.thenation.com/article/179811/i-almost-blew-edward-snowden-and-largest-national-security-leak-generation"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Full coverage from the speeches, parties and red carpet from the Post’s Style reporters. Thomson Reuters has come to fill a grand need if ever there was one on White House Correspondents’ weekend. Foo...",
+        "upvotes": 140,
+        "url": "http://www.washingtonpost.com/blogs/reliable-source-live/liveblog/white-house-correspondents-dinner-2014/"
+      },
+      {
+        "preview": "SEARCH A new report by the Southern Poverty Law Center shows that conservatives are pushing radical fact-free Common Core Standards that aim to destroy public education as a whole. There are plenty of...",
+        "upvotes": 60,
+        "url": "http://www.thedailybeast.com/articles/2014/05/07/the-wingnut-war-on-common-core-is-a-plot-to-destroy-public-schools.html"
+      },
+      {
+        "preview": "Ayaan Hirsi Ali was born in Mogadishu in 1969. The daughter of a political opponent of the Somali dictatorship, she lived in exile, moving from Saudi Arabia to Ethiopia and then to Kenya. Like 98 perc...",
+        "upvotes": 0,
+        "url": "http://www.samharris.org/blog/item/lifting-the-veil-of-islamophobia"
+      }
+    ],
+    "4": [
+      {
+        "preview": "In Tennessee, labor organizers tend to brace themselves for the worst when they see their state’s name in a national headline. And so far, the news this year has been particularly grim. The aftershock...",
+        "upvotes": 6,
+        "url": "http://inthesetimes.com/working/entry/16625/tennessee_labor_activists_bring_moral_monday_to_may_day"
+      },
+      {
+        "preview": "Returns as of 9/12/2021 Returns as of 9/12/2021 Founded in 1993 by brothers Tom and David Gardner, The Motley  helps millions of people attain financial freedom through our website, podcasts, books, n...",
+        "upvotes": 4,
+        "url": "http://www.fool.com/investing/general/2014/04/29/whos-your-daddy-how-to-make-it-in-america.aspx"
+      },
+      {
+        "preview": "Some may find it surprising the rapidly growing international movement of transhumanism -- a field that aims to radically improve and alter the human species using science and technology -- has a sign...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/zoltan-istvan/transhumanism-and-libertarianism_b_5248966.html?utm_hp_ref=tw#es_share_ended"
+      }
+    ]
+  }
+}

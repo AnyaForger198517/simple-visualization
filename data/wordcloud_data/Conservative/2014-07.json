@@ -1,0 +1,36 @@
+{
+  "month": "2014-07",
+  "total_articles": 123,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Obama Administration and US Domestic Political Issues",
+      "core_keywords": ["obama", "republican", "democrat", "border", "government", "law", "vote"],
+      "importance_ratio": 0.3089
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Foreign Policy on Israel-Hamas Conflict",
+      "core_keywords": ["kerry", "israel", "hamas", "obama", "state", "war", "federal"],
+      "importance_ratio": 0.2114
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Climate Change and Hillary Clinton's Related Issues",
+      "core_keywords": ["global warming", "climate", "clinton", "ice", "water", "email", "court"],
+      "importance_ratio": 0.0976
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Time-Related Topics and Gender Discussions",
+      "core_keywords": ["july", "august", "woman", "female", "covid", "change", "month"],
+      "importance_ratio": 0.0488
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "US Immigration and Border Control Issues",
+      "core_keywords": ["border", "immigration", "illegal", "obama", "irs", "child", "alien"],
+      "importance_ratio": 0.3333
+    }
+  ]
+}

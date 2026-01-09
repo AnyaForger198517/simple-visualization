@@ -1,0 +1,285 @@
+{
+  "month": "2019-03",
+  "total_articles": 139,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "state",
+        "facebook",
+        "law",
+        "ha",
+        "gun",
+        "deal",
+        "green",
+        "group",
+        "biden",
+        "united",
+        "site",
+        "american",
+        "social",
+        "ocasio"
+      ],
+      "topic_weights": [
+        79.04144050575644,
+        60.752195329558816,
+        59.969543898956104,
+        42.0243226949406,
+        38.500648056413056,
+        34.33363774052434,
+        32.99868046199237,
+        30.200334389414554,
+        29.763016041402423,
+        28.376312357248334,
+        28.073593243105787,
+        27.806009205988833,
+        27.546856644295847,
+        27.181799603873106,
+        27.10102442246475
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "wa",
+        "president",
+        "ha",
+        "trump",
+        "america",
+        "american",
+        "rule",
+        "event",
+        "law",
+        "vote",
+        "obama",
+        "country",
+        "democrat",
+        "change"
+      ],
+      "topic_weights": [
+        192.98295539216355,
+        150.0307442471203,
+        139.60826527413764,
+        134.55682038037276,
+        132.4122276598789,
+        129.9887815699269,
+        93.33658795655886,
+        88.07761186392335,
+        87.6849137358016,
+        85.6204025248328,
+        80.4964909797759,
+        74.10948780179281,
+        71.63119811203919,
+        71.61720126542946,
+        69.05710441517064
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "story",
+        "advertisement",
+        "report",
+        "medium",
+        "mueller",
+        "house",
+        "white",
+        "did",
+        "democrat",
+        "news",
+        "election"
+      ],
+      "topic_weights": [
+        333.8919143105243,
+        331.63393254247734,
+        184.82682520976144,
+        153.7682287247226,
+        92.23945078742133,
+        91.54775950265605,
+        81.32118831487134,
+        76.9170769084544,
+        73.28163717329427,
+        71.59449892197189,
+        71.21296570471671,
+        69.4577885457381,
+        67.28955083646703,
+        65.43596514016365,
+        63.073757007013725
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "abortion",
+        "abby",
+        "wa",
+        "woman",
+        "police",
+        "story",
+        "film",
+        "chicago",
+        "johnson",
+        "ha",
+        "smollett",
+        "city",
+        "national",
+        "news",
+        "work"
+      ],
+      "topic_weights": [
+        218.16240933918039,
+        160.44427681396,
+        155.1579245812297,
+        149.32131869757302,
+        99.25289293931067,
+        98.97842507490388,
+        85.97513654865891,
+        83.19066874998514,
+        56.147314334603465,
+        51.442868590470695,
+        47.50644689489731,
+        45.82881359268242,
+        44.32134862258542,
+        42.03788912189417,
+        41.811775336622304
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "student",
+        "university",
+        "campus",
+        "college",
+        "department",
+        "agent",
+        "news",
+        "president",
+        "border",
+        "state",
+        "march",
+        "reform",
+        "school",
+        "according",
+        "degree"
+      ],
+      "topic_weights": [
+        117.00164624297383,
+        77.36794917763163,
+        59.234592248574664,
+        28.829299653316678,
+        23.49730853432758,
+        23.207426427235998,
+        23.041994323302266,
+        19.54463960484408,
+        19.258861687425142,
+        18.481045677024262,
+        18.241534468335935,
+        17.44383234515364,
+        17.03644320445922,
+        16.689255835213768,
+        16.327017655273824
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 52,
+    "1": 26,
+    "4": 11,
+    "0": 36,
+    "3": 14
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Thanks for contacting us. We've received your submission. Freshman New York Rep. Alexandria Ocasio-Cortez responded to The Post’s report on her giant carbon footprint by saying she’s just “living in t...",
+        "upvotes": 24,
+        "url": "http://nypost.com/2019/03/03/ocasio-cortez-responds-to-carbon-footprint-expose-im-just-living-in-the-world/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Gun rights advocate John Lott Jr. said in an interview that aired Monday on Hill.TV's \"Rising\" that the passage of universal background checks would ...",
+        "upvotes": 12,
+        "url": "https://thehill.com/hilltv/rising/432441-gun-advocate-says-universal-background-checks-are-a-prelude-to-national-gun"
+      },
+      {
+        "preview": "Barbie Bike, With Streamers and Everything Daddy! The other day, Susie Moore, my fellow  front pager, wrote a brilliant article about taxation and how Americans view tax refunds. Please take the time ...",
+        "upvotes": 6,
+        "url": "https://www.redstate.com/darth641/2019/03/05/your-property-is-your-property/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "(.com) - Vice President Mike Pence promised Friday that before the Trump administration is done, the entire wall along the southern border will be built, and he called out “Democrats and their allies ...",
+        "upvotes": 13,
+        "url": "https://www.cnsnews.com/news/article/melanie-arter/pence-democratic-opposition-border-wall-only-thing-thats-manufactured"
+      },
+      {
+        "preview": "ADVERTISEMENT Jewish groups slam Omar's anti-Semitic language, ties to groups advocating terrorism SHARE A group of leading Jewish organizations petitioned the House of Representative's top Democrats ...",
+        "upvotes": 652,
+        "url": "https://freebeacon.com/national-security/exclusive-leading-jewish-groups-demand-anti-semitic-omar-be-removed-from-foreign-affairs-committee/"
+      },
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. Rep. Ilhan Omar is catching flak on Twitter yet again for suggesting that US politicians were being forced to “pledge allegiance” to Is...",
+        "upvotes": 1,
+        "url": "https://nypost.com/2019/03/03/ilhan-omar-blasted-over-latest-anti-semitic-tweet-about-israel/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Verify VERIFY helps distinguish between true and false information by answering questions directly from you. Looking for ‘Connect’ content? Check out the site’s footer. Near Me Browse hyperlocal photo...",
+        "upvotes": 0,
+        "url": "https://www.13newsnow.com/article/news/local/virginia/governor-northam-signs-legislation-to-reduce-eviction-rates-in-virginia/291-e5abc61e-61fd-4f9c-af61-5298a78468ad"
+      },
+      {
+        "preview": "The Bureau of Economic Analysis, BEA, finally released the fourth quarter growth rate estimate for 2018. The 4th quarter growth result at 2.6% exceeded expectations, and shows the U.S. economy is grow...",
+        "upvotes": 1,
+        "url": "https://theconservativetreehouse.com/2019/02/28/gdp-release-4th-quarter-growth-2-6-2018-annualized-2-9-2018-yearly-real-gdp-3-1/"
+      },
+      {
+        "preview": "Each week, as the thundering host of Democratic seekers of their party’s 2020 presidential nomination scramble for attention and try to outflank their rivals to the left, that party rolls out a new po...",
+        "upvotes": 10,
+        "url": "https://amgreatness.com/2019/02/28/why-trump-is-destined-for-an-historic-2020-win/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 27,
+        "url": "https://www.axios.com/hillary-clinton-2020-1551754605-a59ed63b-bacb-496c-a3fb-c155d91550c2.html"
+      },
+      {
+        "preview": "Officials from the Immigration and Customs Enforcement agency arrested more than 20 illegal aliens in New York city who had been released from custody in accordance with their sanctuary policies. New ...",
+        "upvotes": 18,
+        "url": "https://www.americanthinker.com/blog/2019/03/ice_arrests_20_illegal_alien_criminals_released_due_to_ny_city_sanctuary_policies.html"
+      },
+      {
+        "preview": "Follow Us National Review The Texas Abortion Law after Half a Century of Roe We Failed to Value Life in Afghanistan, as at Home The Fall of Andrew Cuomo Is Not the End of the Problem Dobbs Can Help Us...",
+        "upvotes": 2,
+        "url": "https://www.nationalreview.com/2019/03/michael-wear-adoption-birth-mother-continuing-love/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Speaking to an enthusiastic crowd with many college-age conservatives in the audience at CPAC yesterday, President Trump announced that he will sign an executive order denying federal research funding...",
+        "upvotes": 1035,
+        "url": "https://www.americanthinker.com/blog/2019/03/trump_announces_executive_order_to_cut_off_federal_research_funds_for_campuses_that_dont_protect_free_speech.html"
+      },
+      {
+        "preview": "Source: (AP Photo/Ted S. Warren, File) A common technique to convince us that an idea has validity is to impress with highly-credentialed individuals, with an air of bipartisanship, that obviously hav...",
+        "upvotes": 26,
+        "url": "https://townhall.com/columnists/brucebialosky/2019/03/03/carbon-tax--how-can-so-many-smart-people-be-so-wrong-n2542371"
+      },
+      {
+        "preview": "The political science department at Rider University has stopped promoting events hosted by the school’s Turning Point USA chapter after the group planned to host a \"White Privilege is a Myth\" event. ...",
+        "upvotes": 28,
+        "url": "https://www.campusreform.org/?ID=11943"
+      }
+    ]
+  }
+}

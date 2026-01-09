@@ -1,0 +1,36 @@
+{
+  "month": "2016-04",
+  "total_articles": 274,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "April Social Commentary on Family and Workplace Issues",
+      "core_keywords": ["april", "woman", "maternity", "job", "parent", "kid", "work"],
+      "importance_ratio": 0.0109
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Campus Politics and Conservative-Liberal Ideological Debates",
+      "core_keywords": ["student", "conservative", "university", "liberal", "campus", "political", "group"],
+      "importance_ratio": 0.0803
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Economic Policies: Tax, Jobs and Business Regulation",
+      "core_keywords": ["tax", "job", "government", "business", "american", "company", "policy"],
+      "importance_ratio": 0.1569
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Racial Politics and National Governance in America",
+      "core_keywords": ["white", "black", "woman", "obama", "law", "country", "state"],
+      "importance_ratio": 0.3431
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Republican Presidential Nomination and Campaign Strategy",
+      "core_keywords": ["trump", "cruz", "republican", "delegate", "campaign", "clinton", "candidate"],
+      "importance_ratio": 0.4088
+    }
+  ]
+}

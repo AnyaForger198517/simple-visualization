@@ -1,0 +1,285 @@
+{
+  "month": "2016-01",
+  "total_articles": 417,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "federal",
+        "state",
+        "law",
+        "ha",
+        "government",
+        "group",
+        "water",
+        "police",
+        "court",
+        "bundy",
+        "official",
+        "refuge",
+        "gun",
+        "case"
+      ],
+      "topic_weights": [
+        853.472717439227,
+        421.1540093321737,
+        416.1007880210175,
+        408.0909427635346,
+        363.4467364788132,
+        339.80767000217617,
+        281.2752443649986,
+        267.8909529274617,
+        262.59832055517165,
+        226.97760687793695,
+        216.8972970254753,
+        213.12571988446524,
+        196.8113513827409,
+        196.4302211542509,
+        187.72743481966788
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "obama",
+        "wa",
+        "clinton",
+        "obamacare",
+        "health",
+        "administration",
+        "tax",
+        "percent",
+        "worker",
+        "plan",
+        "ha",
+        "care",
+        "wage",
+        "company",
+        "insurance"
+      ],
+      "topic_weights": [
+        777.6294403539442,
+        643.8542525434202,
+        418.60455980393994,
+        415.45538317377725,
+        356.92109701348414,
+        282.726645000785,
+        275.09796453932626,
+        263.5536603035234,
+        259.0504261713951,
+        233.9365477144335,
+        221.20962074219844,
+        211.27086190945468,
+        210.9992805824784,
+        197.07176321522414,
+        194.99780355523956
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "clinton",
+        "sander",
+        "ha",
+        "campaign",
+        "hillary",
+        "wa",
+        "democratic",
+        "candidate",
+        "bernie",
+        "voter",
+        "iowa",
+        "republican",
+        "support",
+        "democrat",
+        "poll"
+      ],
+      "topic_weights": [
+        2356.954390019401,
+        2313.359056680468,
+        1118.314293351583,
+        849.1852774249625,
+        685.4694232669383,
+        675.3612647368269,
+        629.7701078765701,
+        618.6647826199669,
+        618.4992261546242,
+        579.2143958772971,
+        424.6352596198448,
+        403.32020577615583,
+        399.8682724030979,
+        393.59223703967103,
+        385.33509177036876
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "woman",
+        "state",
+        "american",
+        "child",
+        "work",
+        "country",
+        "ha",
+        "democracy",
+        "wa",
+        "right",
+        "norway",
+        "united",
+        "government",
+        "life",
+        "free"
+      ],
+      "topic_weights": [
+        792.1601773579812,
+        407.0448752020109,
+        405.65303345596527,
+        363.48583680744247,
+        353.0652512623919,
+        318.805285182389,
+        296.40346311679275,
+        281.54519198209306,
+        228.48759282453256,
+        227.02394962247237,
+        207.52716212411914,
+        200.06015387933817,
+        193.61084077102143,
+        185.19968076761828,
+        166.07728819179962
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "republican",
+        "candidate",
+        "party",
+        "ha",
+        "bush",
+        "cruz",
+        "campaign",
+        "donor",
+        "debate",
+        "did",
+        "donald",
+        "house",
+        "gop"
+      ],
+      "topic_weights": [
+        689.3705044830967,
+        593.188876926004,
+        355.7256071247173,
+        305.4283852747981,
+        247.15681901397917,
+        241.42940873861707,
+        167.8066841977248,
+        158.45032374379304,
+        143.4376640742727,
+        140.72595202445402,
+        137.28875117222591,
+        123.99922109562243,
+        117.76659271057959,
+        115.02682025868141,
+        114.12949159528279
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 49,
+    "2": 155,
+    "1": 62,
+    "0": 135,
+    "3": 16
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Former Florida Gov. Jeb Bush on Wednesday responded to a question about Tamir Rice, the 12-year-old black boy who was shot and killed by a police officer in Cleveland, Ohio, last year, by discussing t...",
+        "upvotes": 80,
+        "url": "http://talkingpointsmemo.com/livewire/jeb-bush-tamir-rice-chicago"
+      },
+      {
+        "preview": "This year Democracy Now! is celebrating our 25th anniversary—that's 25 years of bringing you fearless, independent reporting. Since our very first broadcast in 1996, Democracy Now! has refused to take...",
+        "upvotes": 83,
+        "url": "http://www.democracynow.org/2015/5/20/sgt_james_brown_26_survived_two"
+      },
+      {
+        "preview": "Featured Shows  TV More More Shows Follow  More Brands More Shows Somalia-based Islamist militant group al Shabaab has released a recruitment film in the form of a documentary about racial injustice i...",
+        "upvotes": 34,
+        "url": "http://www.msnbc.com/msnbc/al-shabaab-terror-group-uses-trump-clip-propaganda-film-analysts"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement Supported by Opinion By Barbara Ehrenreich THIS holiday season, there was something in the air that was even more inescapable than the scent of pumpkin spice: gratitude. In November, NPR...",
+        "upvotes": 2,
+        "url": "http://www.nytimes.com/2016/01/03/opinion/sunday/the-selfish-side-of-gratitude.html?_r=0"
+      },
+      {
+        "preview": "Advertisement Supported by By Paul Krugman You have to be seriously geeky to get excited when the Internal Revenue Service releases a new batch of statistics. Well, I’m a big geek; like quite a few ot...",
+        "upvotes": 28,
+        "url": "http://www.nytimes.com/2016/01/04/opinion/elections-have-consequences.html?smid=re-share"
+      },
+      {
+        "preview": "This article is more than 1 year old DES MOINES, Iowa -- Hillary Clinton released details of a new proposal Tuesday to increase early screening, treatment and funding for autism research, and focus gr...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/01/05/hillary-clinton-outlines-autism-proposal-calling-for-nationwide-early-screening-initiative/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "In late 2012, CNN Films approached me about directing a documentary. We discussed a number of potential subjects, and eventually settled on Hillary Rodham Clinton. The film would be ambitious, controv...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/charles-ferguson/hillary-clinton-documentary_b_4014792.html"
+      },
+      {
+        "preview": "Photo by Ethan Miller/Getty Images My affection for Hillary Clinton is hard to explain. It wins no fights and earns you no friends to admit feeling actual warmth, even protectiveness, toward this impo...",
+        "upvotes": 18,
+        "url": "http://www.slate.com/articles/double_x/doublex/2015/12/saying_nice_things_about_hillary_clinton_has_become_a_subversive_act.html"
+      },
+      {
+        "preview": "Discover Thomson  By Emily Flitter, James Oliphant 4 Min Read NEW YORK/WASHINGTON () - U.S. Republican Ben Carson’s 2016 presidential bid was thrown into chaos on Thursday when his campaign manager an...",
+        "upvotes": 63,
+        "url": "http://www.reuters.com/article/us-usa-election-carson-idUSKBN0UE17520160101"
+      }
+    ],
+    "3": [
+      {
+        "preview": "When in the Course of Human Events, it becomes necessary for a People to transform the political bands which have connected them with their current government, and to assume the equal station to which...",
+        "upvotes": 1,
+        "url": "http://www.dailykos.com/stories/2016/1/1/1464742/-The-Declaration-of-Revolution"
+      },
+      {
+        "preview": "When Americans look out at the world, we see a swarm of threats. China seems resurgent and ambitious. Russia is aggressive. Iran menaces our allies. Middle East nations we once relied on are collapsin...",
+        "upvotes": 5,
+        "url": "http://www.bostonglobe.com/opinion/editorials/2015/04/11/have-seen-enemies-and-they-weak/Cho9J5Bf9jxIkHKIZvnVTJ/story.html?event=event25"
+      },
+      {
+        "preview": "The best response to the right's indictment of PC culture is a more robust solution to persistent inequality. by Robert Kuttner January 5, 2016 10:00 AM AP Photo/Steve Nesius This article originally a...",
+        "upvotes": 2,
+        "url": "http://prospect.org/article/thinking-harder-about-political-correctness"
+      }
+    ],
+    "4": [
+      {
+        "preview": "This article is more than 1 year old A new study shows that negative ads targeting President Obama in 2008 depicted him with very dark skin, and that these images would have appealed to some viewers’ ...",
+        "upvotes": 62,
+        "url": "https://www.washingtonpost.com/news/wonk/wp/2015/12/29/obamas-skin-looks-a-little-different-in-these-gop-campaign-ads/?postshare=4761451568556203&tid=ss_fb-bottom"
+      },
+      {
+        "preview": "Barry Bennett tells ABC that the staff changes were made in a scheduled call. Ben Carson: In a minute — -- After announcing his resignation from the Ben Carson campaign, former campaign manager Barry ...",
+        "upvotes": 13,
+        "url": "http://abcnews.go.com/Politics/ben-carson-campaign-manager-inside-campaign-disfunction/story?id=36032830"
+      },
+      {
+        "preview": "A clip of Donald Trump is featured in a purported new recruitment video released by Al-Shabaab, the terrorist group based in Somalia. The GOP presidential candidate is shown discussing his plan to tem...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/entry/donald-trump-al-shabaab_56874dcbe4b0b958f65bd383"
+      }
+    ]
+  }
+}

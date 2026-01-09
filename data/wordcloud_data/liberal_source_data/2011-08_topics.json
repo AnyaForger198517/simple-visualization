@@ -1,0 +1,285 @@
+{
+  "month": "2011-08",
+  "total_articles": 80,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "government",
+        "ha",
+        "libertarian",
+        "corporation",
+        "american",
+        "party",
+        "work",
+        "republican",
+        "power",
+        "money",
+        "tax",
+        "bush",
+        "problem",
+        "obama"
+      ],
+      "topic_weights": [
+        325.9582475748071,
+        323.4895247268058,
+        251.26910785731502,
+        129.50510613701115,
+        123.75894339283384,
+        121.30673256580013,
+        119.30587574579769,
+        116.76124520635658,
+        103.7668176846868,
+        101.82774917164733,
+        100.83277701064591,
+        99.8634276921957,
+        99.61181274793647,
+        94.62453967122619,
+        93.08945230479223
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "mother",
+        "jones",
+        "wa",
+        "bachmann",
+        "story",
+        "today",
+        "policy",
+        "august",
+        "term",
+        "obama",
+        "state",
+        "journalism",
+        "type",
+        "privacy",
+        "subscribe"
+      ],
+      "topic_weights": [
+        233.7176621751919,
+        230.22268969164722,
+        211.0608722375643,
+        116.1978746177964,
+        105.19922388806512,
+        103.90854433181929,
+        99.71333872362378,
+        99.68914000259196,
+        88.42181765697299,
+        81.85946137838035,
+        81.46369182351378,
+        75.96720554965528,
+        75.90801873189695,
+        74.94145659609595,
+        74.65314317151115
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "department",
+        "ha",
+        "environmental",
+        "project",
+        "court",
+        "review",
+        "protest",
+        "federal",
+        "intellectual",
+        "nation",
+        "wa",
+        "according",
+        "keystone",
+        "arrested"
+      ],
+      "topic_weights": [
+        84.16089065542266,
+        71.37705878725738,
+        56.98514940410772,
+        37.06906663913528,
+        36.64531602462361,
+        34.47204291059728,
+        30.001877043063427,
+        29.36671449764131,
+        28.385535967520962,
+        27.939355359917162,
+        27.002098158783404,
+        25.948633025446547,
+        24.254053864604195,
+        24.059709407944965,
+        23.34658431872075
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "cut",
+        "tax",
+        "comment",
+        "republican",
+        "ha",
+        "address",
+        "email",
+        "house",
+        "deal",
+        "obama",
+        "tell",
+        "president",
+        "democrat",
+        "image",
+        "posted"
+      ],
+      "topic_weights": [
+        87.19138467468706,
+        74.47034373956795,
+        68.80216997958868,
+        53.574381002269,
+        49.86435679858797,
+        45.08870815704229,
+        45.038988167423405,
+        41.35059928083612,
+        41.18108965519712,
+        36.75570746796743,
+        36.00033932761381,
+        34.98232285563718,
+        34.6560321517191,
+        32.466273895174105,
+        30.775707519181914
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "debt",
+        "bank",
+        "wa",
+        "financial",
+        "public",
+        "government",
+        "ha",
+        "warren",
+        "loan",
+        "greece",
+        "crisis",
+        "asset",
+        "european",
+        "economy",
+        "pay"
+      ],
+      "topic_weights": [
+        118.14111494063644,
+        62.712524936611445,
+        60.63166356621093,
+        59.86489328474251,
+        45.593688184684716,
+        36.50443289131889,
+        35.59350786703805,
+        34.20432086069767,
+        32.653473849828195,
+        31.668043465000626,
+        31.637026039409506,
+        31.466238709024232,
+        29.6628272244404,
+        28.26638959397974,
+        26.959767883878893
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 30,
+    "3": 20,
+    "1": 21,
+    "2": 5,
+    "4": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "SEARCH Tea Partiers did not have to face a parallel leftist wave or bargain over a war on terror. By Peter Beinart. While the details of the debt-ceiling deal remain fuzzy, this much is clear: Barack ...",
+        "upvotes": 15,
+        "url": "http://www.thedailybeast.com/articles/2011/08/01/tea-party-debt-deal-win-due-to-left-wing-void-end-of-war-on-terror.html"
+      },
+      {
+        "preview": "The Center is my home. But I can’t live there any more. Re-assembling the elephant. Whenever I describe what I’m trying to do with my writing, two ideas rise to the top: First, whatever the subject, I...",
+        "upvotes": 10,
+        "url": "http://weeklysift.com/2011/08/01/confessions-of-a-centrist-in-exile/"
+      },
+      {
+        "preview": "A year ago today, U.S. District Court Judge Vaughn R. Walker overturned \"Prop 8,\" ruling that it violated both the Due Process and Equal Protection clauses of the United States Constitution. I thought...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/rick-jacobs/prop-8-ruling-one-year-la_b_917796.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Clockwise from top left: House Speaker John Boehner, President Barack Obama, Senate Majority Leader Harry Reid, and Senate Minority Leader Mitch McConnell. Boehner, Michael Reynolds/ZUMAPRESS.com; Oba...",
+        "upvotes": 6,
+        "url": "http://motherjones.com/kevin-drum/2011/07/why-debt-ceiling-deal-sucks"
+      },
+      {
+        "preview": "Rep. Michele Bachmann (R-Minn.).<a  Skidmore</a>/Flickr Few issues get Rep. Michele Bachmann (R-Minn.) going quite like lightbulbs. At campaign stops across the country, she has repeatedly denounced a...",
+        "upvotes": 29,
+        "url": "http://motherjones.com/politics/2011/08/michele-bachmann-light-bulbs-agenda-21"
+      },
+      {
+        "preview": "Rep. Michele Bachmann (R–Minn.)<a  Michele Bachmann</a>/Flickr It’s a reasonable bet that International Baccalaureate, the international advanced placement system for high school students, will not be...",
+        "upvotes": 3,
+        "url": "http://motherjones.com/mojo/2011/08/michele-bachmann-international-baccalaureate-conspiracy"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The Supreme Court has included good writers and bad writers during the past two centuries, but the literarily challenged justices have always had a comfortable majority. In the Court’s early days, one...",
+        "upvotes": 10,
+        "url": "http://www.tnr.com/article/politics/magazine/92773/elena-kagan-writings"
+      },
+      {
+        "preview": "CIRCLES ARE INTEGRAL to the romance of intellectual history, and magazines are integral to the history of intellectual circles. The New York intellectuals had Partisan Review and Commentary; T.S. Elio...",
+        "upvotes": 2,
+        "url": "http://www.tnr.com/book/review/intellectuals-incorporated-henry-luce-robert-vanderlan"
+      },
+      {
+        "preview": "Link copied. We want to bridge divides to reach everyone. The decision by BART officials to cut cellphone service Thursday – denying train-riding protesters access to social media – raises deep legal ...",
+        "upvotes": 10,
+        "url": "http://www.csmonitor.com/USA/Justice/2011/0816/BART-puts-social-media-crackdown-in-uncharted-legal-territory"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Well, if you take them at face value, they're two entirely different deals. Great for our side! No, great for our side! Aside from a few common numbers, you might reasonably ask yourself if they're ev...",
+        "upvotes": 1,
+        "url": "http://www.dailykos.com/story/2011/08/01/1001466/-White-House-spin-on-debt-ceiling-deal-promises-Democrats-will-be-able-to-stand-firm--next-time?via=blog_1"
+      },
+      {
+        "preview": "« Second guessing. | Main | The show so far for Tuesday, August 2, 2011. » As you might expect, the unemployed have trouble getting jobs in this economy. As you might not expect, some employers refuse...",
+        "upvotes": 4,
+        "url": "http://www.thievesblog.com/2011/08/how-long.html"
+      },
+      {
+        "preview": "« How long. | Main | Reset. » Perhaps incongruously, I've decided to share nothing but good news today, some of it pertaining to things we've worked on in this space. First up: President Obama propose...",
+        "upvotes": 1,
+        "url": "http://www.thievesblog.com/2011/08/the-show-so-far-for-tuesday-august-2-2011.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "In a way it will be puzzling if the S&P downgrade--despite all the blather about its historic significance--changes anything at all. Certainly, the news should not have come as a surprise: the agency ...",
+        "upvotes": 3,
+        "url": "http://www.theatlantic.com/business/archive/2011/08/some-thoughts-on-the-s-p-downgrade/243209/"
+      },
+      {
+        "preview": "Carnage in stock markets as I write — and all of the headlines I see attribute it to S&P’s downgrade. They really are trying to make my head explode, aren’t they? Once again: S&P declared that US debt...",
+        "upvotes": 6,
+        "url": "http://krugman.blogs.nytimes.com/2011/08/08/aaauuuggghhh-market-commentary-edition/"
+      },
+      {
+        "preview": "On finance, real estate and the powers of neoliberalism Financial strategists do not intend to let today’s debt crisis go to waste. Foreclosure time has arrived. That means revolution – or more accura...",
+        "upvotes": 3,
+        "url": "http://michael-hudson.com/2011/06/rolling-back-the-progressive-era/"
+      }
+    ]
+  }
+}

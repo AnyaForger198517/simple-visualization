@@ -1,0 +1,285 @@
+{
+  "month": "2014-10",
+  "total_articles": 138,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "voter",
+        "law",
+        "texas",
+        "court",
+        "wa",
+        "voting",
+        "fraud",
+        "state",
+        "ha",
+        "ramos",
+        "section",
+        "hispanic",
+        "case",
+        "birth",
+        "county"
+      ],
+      "topic_weights": [
+        418.19582424968996,
+        225.09392762915718,
+        216.32203920341834,
+        161.61933398080487,
+        115.77169702760872,
+        105.59554680904566,
+        71.5033414608307,
+        58.99559107596062,
+        56.892507054114986,
+        54.69055896434443,
+        53.57912312273321,
+        50.63543933927198,
+        49.45426514653967,
+        49.41329241887307,
+        48.16563835011163
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "republican",
+        "voter",
+        "vote",
+        "state",
+        "election",
+        "ha",
+        "obama",
+        "democrat",
+        "party",
+        "citizen",
+        "senate",
+        "president",
+        "non",
+        "black",
+        "american"
+      ],
+      "topic_weights": [
+        427.1587538363735,
+        418.47394058508075,
+        339.2747816513826,
+        322.9216244406209,
+        317.2021422132847,
+        265.21624421474866,
+        209.34234541581586,
+        205.91645582115984,
+        174.4142914359818,
+        167.21791522354383,
+        164.7450360866895,
+        158.809404411904,
+        156.12347689884572,
+        155.72588963713994,
+        155.69380789134976
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ebola",
+        "insurance",
+        "health",
+        "state",
+        "care",
+        "income",
+        "ha",
+        "rate",
+        "oct",
+        "affordable",
+        "group",
+        "uninsured",
+        "city",
+        "percent",
+        "act"
+      ],
+      "topic_weights": [
+        215.81475354120266,
+        200.10317795896893,
+        189.5304659547522,
+        180.8348584040571,
+        131.28419923716444,
+        130.94163414532264,
+        121.1388411926367,
+        106.08472000728115,
+        104.41583887182502,
+        96.36068601857168,
+        89.08495807084067,
+        88.76407755964499,
+        88.41483727941814,
+        82.55742407463585,
+        80.69815578959341
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "woman",
+        "ha",
+        "game",
+        "quinn",
+        "threat",
+        "campaign",
+        "comment",
+        "problem",
+        "fact",
+        "war",
+        "medium",
+        "online",
+        "history",
+        "attack"
+      ],
+      "topic_weights": [
+        259.67772142511114,
+        207.9627505264853,
+        119.8182859673922,
+        77.57979763380615,
+        76.34027978875727,
+        69.59350941102824,
+        68.79586073604649,
+        67.10280779178855,
+        63.12585579426312,
+        61.525476478768546,
+        60.832168471910464,
+        57.45352865927277,
+        56.64361925027223,
+        55.881821669245596,
+        54.99673171882994
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "worker",
+        "wage",
+        "wa",
+        "state",
+        "work",
+        "tax",
+        "chemical",
+        "american",
+        "job",
+        "iraq",
+        "economic",
+        "shell",
+        "program",
+        "ha",
+        "benefit"
+      ],
+      "topic_weights": [
+        107.86086472905764,
+        106.23635315489788,
+        101.80160653477807,
+        99.83214266679971,
+        82.69977228991567,
+        78.42929551776965,
+        69.01431339162893,
+        66.77740306368479,
+        60.81583758472274,
+        57.92036635253825,
+        54.53727710272332,
+        51.11395168534393,
+        50.22090187490122,
+        48.77227355990155,
+        48.647912855896045
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 52,
+    "1": 32,
+    "2": 14,
+    "4": 33,
+    "0": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Rights Act was seriously eroded last year, we vowed to continue enforcing the remaining portions of that statute as aggressively as possible. This ruling is an important vindication of those efforts.”...",
+        "upvotes": 32,
+        "url": "http://www.thenation.com/blog/181942/voter-suppression-backfires-texas-and-wisconsin"
+      },
+      {
+        "preview": "Written by Meagan Hatcher-Mays Published 10/10/14 12:38 PM EDT Share Comment Fox News is calling recent court decisions blocking voter ID laws a “setback,” despite the fact that these decisions will a...",
+        "upvotes": 26,
+        "url": "http://mediamatters.org/blog/2014/10/10/fox-bristles-at-court-rulings-that-shut-down-re/201116"
+      },
+      {
+        "preview": "We are now three weeks to Election Day, which means we are deep into another round of the voting wars—the ceaseless legislative, legal and regulatory battle over which Americans can vote, and when and...",
+        "upvotes": 10,
+        "url": "http://www.newrepublic.com/article/119807/voter-id-laws-republican-voter-suppression-needs-stop"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Whether the issue is climate change, healthcare or gun control, libertarians are on a permanent collision course with evidence Last modified on Wed 25 Aug 2021 10.01 EDT The observation that science a...",
+        "upvotes": 11,
+        "url": "http://www.theguardian.com/science/blog/2014/aug/29/libertarian-ideology-natural-enemy-science"
+      },
+      {
+        "preview": "On Oct. 6 and 7, Bill Clinton will spend two days barnstorming across Arkansas to support Sen. Mark Pryor (D-Ark.) and other Democrats. This all-out campaign tour will give a strong boost to Pryor's c...",
+        "upvotes": 5,
+        "url": "http://www.huffingtonpost.com/brent-budowsky/bill-clinton-can-save-dem_1_b_5921362.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved A campaign adviser for Gov. Sam Brownback (R-Kan.) and Sen. Pat RobertsCharles (Pat) Patrick RobertsBob Dole, Pat Roberts endorse Kansas AG Derek Sch...",
+        "upvotes": 19,
+        "url": "http://thehill.com/blogs/ballot-box/senate-races/219702-brownback-and-roberts-campaign-adviser-under-fbi-investigation"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Senator Wendy Davis came prepared for her debate with Greg Abbott. In the snippets in the embedded video she shows why she is qualified and Abbott is just a shill for the plutocracy. Sen. Davis did no...",
+        "upvotes": 14,
+        "url": "http://www.dailykos.com/story/2014/10/01/1333532/-Wendy-Davis-knocks-it-out-of-the-park-in-debate-with-Greg-Abbott?detail=email"
+      },
+      {
+        "preview": " by: Chris Brito ()– A prominent pro-life Republican in South Carolina has a plan to stop an Ebola outbreak in the United Nations. Kill anyone who gets it. Todd Kincannon, the former executive directo...",
+        "upvotes": 16,
+        "url": "http://pix11.com/2014/10/07/former-sc-gop-director-ebola-patients-should-be-put-down-immediately/"
+      },
+      {
+        "preview": "The proportion of Americans with a college degree has increased steadily each year for more than a decade. According to the latest U.S. Census data, 29.6% of Americans at least 25 years old had at lea...",
+        "upvotes": 5,
+        "url": "http://247wallst.com/special-report/2014/09/23/americas-most-and-least-educated-states/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "by Cosmin Dzsurdzsa PM hopeful Justin Trudeau has propelled himself into the spotlight once again. Arriving at the SLC on the 10th of September, he was greeted to a liberal cheer-fest. Already a bette...",
+        "upvotes": 1,
+        "url": "http://uwchevron.wordpress.com/2014/09/29/surveillance-a-liberal-perspective/"
+      },
+      {
+        "preview": "Colorado’s school board and the American conservative movement in general are trying to pretend history never happened Last modified on Fri 14 Jul 2017 17.53 EDT This year, in Advanced Placement Ameri...",
+        "upvotes": 27,
+        "url": "http://www.theguardian.com/commentisfree/2014/sep/30/high-school-history-classes-colorado-school-board"
+      },
+      {
+        "preview": "As long as the Baby Boomers are around (and maybe even after they're gone) the battles of the 1960s will be replayed over and over. by Paul Waldman September 25, 2014 12:16 PM Depending on how you def...",
+        "upvotes": 14,
+        "url": "http://prospect.org/article/why-culture-war-will-never-die"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by By Paul Krugman Even if Republicans take the Senate this year, gaining control of both houses of Congress, they won’t gain much in conventional terms: They’re already able t...",
+        "upvotes": 2,
+        "url": "http://www.nytimes.com/2014/10/06/opinion/paul-krugman-voodoo-economics-the-next-generation.html?smid=re-share"
+      },
+      {
+        "preview": "Sign in to access Harper’s Magazine Need to create a login? Want to change your email address or password? Forgot your password? Locked out of your account? Get help here. Subscribers can find additio...",
+        "upvotes": 5,
+        "url": "http://harpers.org/archive/2014/10/harpers-index-367/"
+      },
+      {
+        "preview": "I think the left is just so desperate. They want this model to fail so bad that they can’t wait for it to and they just want to get me electorally before we get on through this and prove that this is ...",
+        "upvotes": 38,
+        "url": "http://wonkette.com/562853/mean-liberals-wont-let-gov-brownback-save-kansas-with-magic-tax-cuts-unfair"
+      }
+    ]
+  }
+}

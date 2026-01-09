@@ -1,0 +1,275 @@
+{
+  "month": "2018-12",
+  "total_articles": 131,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "nation",
+        "immigration",
+        "party",
+        "right",
+        "democracy",
+        "border",
+        "ha",
+        "national",
+        "policy",
+        "political",
+        "state",
+        "law",
+        "democratic",
+        "liberal"
+      ],
+      "topic_weights": [
+        253.688186684849,
+        163.36970378306523,
+        154.03303170562637,
+        134.7406263294847,
+        127.40506660355274,
+        126.96444730881758,
+        122.06727642323784,
+        118.62110042357158,
+        115.70985609495287,
+        114.61330326138415,
+        105.4103653607636,
+        96.3049400452233,
+        84.32217125419658,
+        83.93778204587048,
+        82.18582531997569
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "republican",
+        "campaign",
+        "ha",
+        "election",
+        "house",
+        "democrat",
+        "voter",
+        "state",
+        "woman",
+        "group",
+        "money",
+        "percent"
+      ],
+      "topic_weights": [
+        396.61388735918194,
+        353.9026678864717,
+        166.70404303213442,
+        160.1998646752121,
+        155.00747830526936,
+        150.33690877286767,
+        109.9719212621432,
+        108.9239789682873,
+        103.25811222195492,
+        88.63705416130452,
+        87.57159529590898,
+        86.90912116106396,
+        84.82338640731983,
+        77.76757725964318,
+        74.29291948623073
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "worker",
+        "state",
+        "policy",
+        "economic",
+        "tax",
+        "wage",
+        "job",
+        "employer",
+        "ha",
+        "income",
+        "public",
+        "pay",
+        "benefit",
+        "labor",
+        "work"
+      ],
+      "topic_weights": [
+        231.28912779456383,
+        164.04313774977695,
+        133.96795368792885,
+        118.58158900389888,
+        115.81169294153713,
+        99.23673632526241,
+        82.09681239818921,
+        69.63282584487689,
+        68.42526168792729,
+        68.3745909745144,
+        66.41132058382787,
+        61.977752951004994,
+        60.94595578712395,
+        60.14445304862185,
+        58.65662298217881
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "christian",
+        "political",
+        "life",
+        "ha",
+        "value",
+        "administration",
+        "base",
+        "child",
+        "justice",
+        "black",
+        "used",
+        "border",
+        "power",
+        "issue"
+      ],
+      "topic_weights": [
+        359.20817375823117,
+        337.74983139617154,
+        209.08341840003612,
+        172.16633830023807,
+        170.84383935714942,
+        161.76729981012576,
+        125.96122211335987,
+        95.42018679093255,
+        52.999519387132096,
+        52.099880524825586,
+        49.864940608741776,
+        49.15278322370092,
+        49.151498708999185,
+        48.97102385002686,
+        48.50266789204833
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "percent",
+        "trade",
+        "medicare",
+        "study",
+        "deficit",
+        "health",
+        "billion",
+        "journal",
+        "trillion",
+        "dollar",
+        "care",
+        "ha",
+        "spending",
+        "warren",
+        "china"
+      ],
+      "topic_weights": [
+        29.01584513543457,
+        26.918827291222772,
+        26.182350555883,
+        24.19876002027351,
+        19.345325971385755,
+        18.89705987260393,
+        18.455630740269896,
+        18.34020306848351,
+        17.903906710606492,
+        17.22938352676909,
+        16.596488944340905,
+        16.141381639062725,
+        15.284477372371166,
+        14.339136913160381,
+        14.07989533622538
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 113,
+    "4": 7,
+    "2": 5,
+    "0": 5,
+    "3": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Scott Walker addresses the Wisconsin state legislature on January 10, 2017. (AP Photo / Andy Manis) By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotion...",
+        "upvotes": 223,
+        "url": "https://www.thenation.com/article/the-republican-party-has-become-a-conspiracy-to-seize-power/"
+      },
+      {
+        "preview": "On Thursday afternoon President Donald Trump, prior to his remarks on the passage of the Farm Bill, first addressed the funding of the wall and the collapsed deal on the continuing resolution to keep ...",
+        "upvotes": 0,
+        "url": "https://www.mediaite.com/tv/trump-holds-firm-in-shutdown-fight-walls-work-whether-we-like-them-or-not/"
+      },
+      {
+        "preview": "For the first time, President Donald Trump acknowledged the recent deaths of two migrant children who were in the custody of his government on Saturday — by blaming Democrats. In a series of tweets, T...",
+        "upvotes": 4,
+        "url": "https://thinkprogress.org/donald-trump-twitter-democrats-immigration-border-wall-jakelin-amei-rosmery-caal-maquin-felipe-gomez-alonzo-903fa06be759/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Democrats will take up voting rights, campaign finance reform, and a lobbying crackdown — all in their first bill of the year. House Democrats will unveil full details of their first bill in the new C...",
+        "upvotes": 14,
+        "url": "https://www.vox.com/policy-and-politics/2018/11/30/18118158/house-democrats-anti-corruption-bill-hr-1-pelosi"
+      },
+      {
+        "preview": "This article is more than 1 year old Imagine for a moment that President Trump is right when he claims there is, in fact, no Russia scandal — because the entire thing is a hoax, a fraud, a witch hunt ...",
+        "upvotes": 7,
+        "url": "https://www.washingtonpost.com/blogs/plum-line/wp/2018/11/30/lies-lies-and-more-lies-this-is-not-how-innocent-people-act/"
+      },
+      {
+        "preview": "Bigotry is prevalent among liberals.[1][2] More specifically, it is common among atheists, elitists, racists, Muslims, homosexuals, and religious extremists (i.e. Westboro Baptist Church, Ku Klux Klan...",
+        "upvotes": 1,
+        "url": "https://www.conservapedia.com/Liberal_bigotry"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ams and implement recommended strategies for ensuring equitable inclusion of M/WBE’s. At the same time, they should ensure that state-financed contracting and infrastructure projects are covered by st...",
+        "upvotes": 4,
+        "url": "https://www.epi.org/publication/state-agenda-for-americas-workers/"
+      },
+      {
+        "preview": "ow wage gaps between white and black workers because unions help to establish pay “transparency” (workers know what other workers are making). See Josh Bivens et al., How Today’s Unions Help Working P...",
+        "upvotes": 1,
+        "url": "https://www.epi.org/policy/"
+      },
+      {
+        "preview": "Filed under: The list of 120 includes Uber, Twitter, and Equifax The Federal Trade Commission’s top consumer protection official is prohibited from handling the cases involving 120 different companies...",
+        "upvotes": 1,
+        "url": "https://www.theverge.com/2018/12/6/18129572/facebook-uber-ftc-conflict-interest-andrew-smith"
+      }
+    ],
+    "3": [
+      {
+        "preview": "To mark the end of 2018, we asked writers to revisit some of the year’s most noteworthy (for good or evil) events, people and ideas. See the other entries here between now and the new year. This year,...",
+        "upvotes": 12,
+        "url": "https://www.huffingtonpost.com/entry/opinion-trump-conservative-christians_us_5c267b7de4b08aaf7a9044e4"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Emily Sullivan Shoppers walk past a Saks Fifth Avenue outlet store in Miami on Black Friday. Millennials have lower earnings, fewer assets and less wealth, a new Federal Reserve study says. Lynne Slad...",
+        "upvotes": 5,
+        "url": "https://www.npr.org/2018/11/30/672103209/why-arent-millennials-spending-more-they-re-poorer-than-their-parents-fed-says"
+      },
+      {
+        "preview": "Login Previous estimates suggested that Medicare for All would save $2 trillion. But it's even better: a new study finds that Bernie Sanders's bill would save $5.1 trillion — while providing universal...",
+        "upvotes": 1,
+        "url": "https://jacobinmag.com/2018/12/medicare-for-all-study-peri-sanders/"
+      },
+      {
+        "preview": "The dean of Yale’s medical school, the incoming president of a prominent cancer group and the head of a Texas cancer center are among leading medical figures who have not accurately disclosed their re...",
+        "upvotes": 361,
+        "url": "https://www.propublica.org/article/prominent-doctors-industry-ties-disclosures-medical-journal-studies"
+      }
+    ]
+  }
+}

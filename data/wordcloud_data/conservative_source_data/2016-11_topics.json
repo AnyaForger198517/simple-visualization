@@ -1,0 +1,285 @@
+{
+  "month": "2016-11",
+  "total_articles": 331,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "news",
+        "ha",
+        "russian",
+        "russia",
+        "post",
+        "fake",
+        "propaganda",
+        "medium",
+        "climate",
+        "world",
+        "article",
+        "site",
+        "government",
+        "story"
+      ],
+      "topic_weights": [
+        1050.1473543020634,
+        708.9399634500542,
+        629.2394308627347,
+        562.6023231328059,
+        492.3644934539433,
+        468.4553444113594,
+        426.77194002416854,
+        369.1909201307464,
+        340.24647598411383,
+        313.2211719598593,
+        310.6337474027101,
+        305.8400983030099,
+        287.79170412122676,
+        281.47546055770607,
+        270.33896996730294
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "american",
+        "medium",
+        "donald",
+        "news",
+        "election",
+        "student",
+        "hillary",
+        "advertisement",
+        "political",
+        "clinton",
+        "story"
+      ],
+      "topic_weights": [
+        1342.605736905098,
+        890.5492160426038,
+        502.726398469095,
+        495.17583526112367,
+        348.16112617992667,
+        334.3321122580046,
+        291.6723126827784,
+        279.61031167526824,
+        276.6373288335681,
+        271.78044785539765,
+        248.4638557907804,
+        245.31911716875325,
+        238.7822565230051,
+        227.4920436322314,
+        220.90416648682634
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "state",
+        "election",
+        "vote",
+        "wa",
+        "republican",
+        "clinton",
+        "voter",
+        "democrat",
+        "campaign",
+        "court",
+        "president",
+        "candidate",
+        "ha",
+        "party"
+      ],
+      "topic_weights": [
+        882.6893503359133,
+        669.017479538432,
+        582.1702198881346,
+        492.62168362154944,
+        482.7058793942481,
+        377.2989167071971,
+        352.51794320878616,
+        302.88583760092,
+        248.7528308690868,
+        241.28067585979258,
+        205.42134405468352,
+        200.6942543304813,
+        200.40746026556815,
+        196.33343417861616,
+        187.59013515097305
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "clinton",
+        "state",
+        "ha",
+        "senate",
+        "email",
+        "nov",
+        "law",
+        "department",
+        "president",
+        "tax",
+        "chance",
+        "updated",
+        "foundation",
+        "election",
+        "fbi"
+      ],
+      "topic_weights": [
+        324.3842889916554,
+        185.76733191403372,
+        159.17004277657028,
+        157.64794127176273,
+        156.92727986254812,
+        130.26235909255968,
+        127.2570660995504,
+        115.89671033088806,
+        115.56424968843135,
+        112.66115429955478,
+        106.67869860300924,
+        106.12662115569975,
+        94.51557033809445,
+        85.73347470220203,
+        81.08549454625519
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "living",
+        "young",
+        "wa",
+        "adult",
+        "parent",
+        "government",
+        "police",
+        "law",
+        "school",
+        "home",
+        "woman",
+        "men",
+        "state",
+        "child"
+      ],
+      "topic_weights": [
+        232.36299926650057,
+        210.53975017286837,
+        208.66093044306567,
+        167.37594118303676,
+        164.02493463202347,
+        161.2184798482549,
+        155.3013434076421,
+        137.13289545369906,
+        133.14702708976577,
+        132.6937470293251,
+        126.17067079065701,
+        122.88128766708456,
+        121.23227026652235,
+        107.73993088970576,
+        101.46446177998511
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 73,
+    "3": 32,
+    "4": 44,
+    "1": 166,
+    "0": 16
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "We have warned time and again to never trust technology companies with your data. Where Edward Snowden has raised our consciousness regarding our privacy, we still need to make the conscious effort to...",
+        "upvotes": 40,
+        "url": "http://anonhq.com/apple-vice-president-caught-telling-top-aide-hillary-clinton-apple-gives-customer-data-governments-thousands-times-every-month/"
+      },
+      {
+        "preview": "NEW YORK (CBSNewYork) — While global temperatures are warming, new research suggests winters may be getting colder in the Northeast. New Jersey state climatologist Dr. Dave Robinson told CBS2’s Vaness...",
+        "upvotes": 11,
+        "url": "http://newyork.cbslocal.com/2016/11/02/colder-winters/"
+      },
+      {
+        "preview": "By Regina F. Graham For .com Published: 02:22 EDT, 7 November 2016 | Updated: 18:08 EDT, 7 November 2016 1.1k View comments The Democratic National Committee tried to provide CNN anchor Wolf Blizter w...",
+        "upvotes": 67,
+        "url": "http://www.dailymail.co.uk/news/article-3912164/Latest-Wikileaks-dump-8-000-new-emails-shows-DNC-prepared-anchors-Wolf-Blitzer-Jake-Tapper-interviews-Trump-Cruz.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved No matter what the election outcome next week, the media will be big losers. This campaign season has seen much of the media rip off their veneer of ...",
+        "upvotes": 30,
+        "url": "http://thehill.com/blogs/pundits-blog/presidential-campaign/303748-after-dnc-clinton-campaign-collusion-is-it-any"
+      },
+      {
+        "preview": "Advertisement Democratic Party presidential nominee Hillary Clinton angrily reacted to a protester shouting “Bill Clinton is a rapist” at a campaign rally in Fort Lauderdale, Florida Tuesday night, sa...",
+        "upvotes": 8,
+        "url": "http://www.thegatewaypundit.com/2016/11/video-hillary-loses-goes-off-bill-clinton-rapist-protester-fl-rally/"
+      },
+      {
+        "preview": "Do Not Sell A letter signed by 790 economists, some whom have won the Nobel Prize in economics, urged voters not to vote for Trump. \"His statements reveal a deep ignorance of economics and an inabilit...",
+        "upvotes": 0,
+        "url": "http://money.cnn.com/2016/11/01/news/economy/economists-letter-dont-vote-trump/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "NEW YORK — A confident campaign of Republican presidential nominee Donald J. Trump is sprinting into the final full week of the campaign as his opponent Democrat Hillary Rodham Clinton is struggling. ...",
+        "upvotes": 16,
+        "url": "http://www.breitbart.com/big-government/2016/10/31/confident-donald-trump-campaign-sprints-final-week-bursting-blue-states-hillary-clintons-momentum-collapses/"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. WASHINGTON — CNN said Monday it’s “completely uncomfortable” with new leaked emails that Donna Brazile fed debate questions to Hillary Clinton...",
+        "upvotes": 20,
+        "url": "http://nypost.com/2016/10/31/cnn-drops-brazile-for-feeding-debate-questions-to-clinton/"
+      },
+      {
+        "preview": "Former Gov. Rick Perry encouraged U.S. Rep. Michael McCaul to challenge U.S. Sen. Ted Cruz for reelection in 2018, sources tell the Tribune. by Abby Livingston and Patrick Svitek Oct. 31, 20162 PM Cen...",
+        "upvotes": 8,
+        "url": "https://www.texastribune.org/2016/10/31/gop-sources-rick-perry-encouraged-michael-mccaul-c/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day in Liberal Judicial Activism—September 12 The Supreme Court in the American Constitutional Order ...",
+        "upvotes": 8,
+        "url": "http://www.nationalreview.com/article/441613/hillary-clinton-email-scandal-same-old-clintons"
+      },
+      {
+        "preview": "Advertisement After posting Friday's column, \"A presidency from hell?\" about the investigations a President Hillary Clinton would face, by afternoon it was clear I had understated the gravity of the s...",
+        "upvotes": 1,
+        "url": "http://www.wnd.com/2016/10/hillarys-watergate/"
+      },
+      {
+        "preview": "There are enough active investigations of Hillary Clinton and her inner circle to merit a list of the most important ones. In short, just about everyone tied to Hillary Clinton is the subject of a ser...",
+        "upvotes": 10,
+        "url": "http://www.breitbart.com/big-government/2016/11/01/clintonworlds-top-5-active-fbi-investigations/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubsc...",
+        "upvotes": 305,
+        "url": "http://www.express.co.uk/news/world/727263/Angela-Merkel-migrant-crisis-worsens-as-Germany-descends-into-lawlessness"
+      },
+      {
+        "preview": "Advertisement Supported by Contributing Op-Ed Writer By Razib Khan DAVIS, Calif. — IT’S been widely observed that in recent elections men have leaned Republican and women Democratic. A key element of ...",
+        "upvotes": 2,
+        "url": "http://nyti.ms/1DdokRm"
+      },
+      {
+        "preview": "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubsc...",
+        "upvotes": 18,
+        "url": "http://www.express.co.uk/news/world/727862/Migrant-crisis-club-wielding-refugees-running-battles-Stalingrad-Metro-Paris"
+      }
+    ]
+  }
+}

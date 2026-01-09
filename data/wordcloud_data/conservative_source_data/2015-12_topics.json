@@ -1,0 +1,285 @@
+{
+  "month": "2015-12",
+  "total_articles": 399,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "woman",
+        "american",
+        "world",
+        "white",
+        "country",
+        "life",
+        "government",
+        "black",
+        "change",
+        "law",
+        "school",
+        "student",
+        "work"
+      ],
+      "topic_weights": [
+        993.9540358366247,
+        586.2467616769095,
+        456.3730669140941,
+        381.28968534011125,
+        320.2607344277515,
+        318.92128658589814,
+        294.74909136689007,
+        264.1693652384804,
+        250.72443916176323,
+        236.68341760544686,
+        234.96921048643767,
+        228.9494594778245,
+        224.05610169189998,
+        208.65192423615386,
+        208.47656473759258
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "ha",
+        "wa",
+        "republican",
+        "party",
+        "clinton",
+        "hillary",
+        "white",
+        "candidate",
+        "vote",
+        "american",
+        "medium",
+        "donald",
+        "national",
+        "gop"
+      ],
+      "topic_weights": [
+        2500.20283435949,
+        1111.281270284924,
+        933.7188817068328,
+        852.2145907926083,
+        841.1439294818862,
+        744.5463634651195,
+        518.1870086499567,
+        506.1367660792478,
+        503.40789167174063,
+        489.8763242258425,
+        486.86152945877404,
+        451.03501735452903,
+        438.568421163661,
+        419.031061014225,
+        417.6172631717136
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "cruz",
+        "rubio",
+        "ha",
+        "iowa",
+        "state",
+        "republican",
+        "campaign",
+        "conservative",
+        "candidate",
+        "american",
+        "ted",
+        "percent",
+        "obama",
+        "trump",
+        "immigration"
+      ],
+      "topic_weights": [
+        1112.7764653438765,
+        700.5489560069273,
+        543.0409413664477,
+        438.5409068223277,
+        421.35305700559394,
+        331.7083792587485,
+        312.87493558621605,
+        295.8517342857058,
+        285.2096214200172,
+        265.4614771426522,
+        263.72340525557587,
+        262.09973535358057,
+        255.39095909627383,
+        236.211016001244,
+        228.06860837615946
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "gun",
+        "state",
+        "law",
+        "ha",
+        "muslim",
+        "war",
+        "attack",
+        "news",
+        "force",
+        "report",
+        "shooting",
+        "korea",
+        "islamic",
+        "president"
+      ],
+      "topic_weights": [
+        1072.061209002075,
+        426.87533566944563,
+        418.63445059858464,
+        324.86581916360456,
+        280.9654036809831,
+        272.98904922040333,
+        262.0331294321747,
+        246.68372354080265,
+        246.50067504741435,
+        215.72579603315302,
+        214.425216590614,
+        212.0134873001089,
+        207.9669440434161,
+        190.46110260592317,
+        188.39113508038199
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "december",
+        "posted",
+        "christmas",
+        "wa",
+        "islam",
+        "christian",
+        "american",
+        "merry",
+        "holiday",
+        "party",
+        "ha",
+        "america",
+        "slim",
+        "job",
+        "slims"
+      ],
+      "topic_weights": [
+        3172.306639547629,
+        3083.933060528764,
+        511.4517919545575,
+        275.1032783715575,
+        208.11604027839766,
+        199.03596641874154,
+        188.3240247556104,
+        175.19791799110544,
+        171.36460558530902,
+        152.44076747859435,
+        149.21637210806537,
+        118.623549778484,
+        115.96486231630894,
+        115.95375823049106,
+        115.41634360151482
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 67,
+    "0": 113,
+    "3": 136,
+    "2": 76,
+    "4": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ADVERTISEMENT SHARE The French had a message for President Obama during the climate change talks in Paris on Monday: Wrap it up. Event organizers hit the buzzer as Obama’s address neared the nine-minu...",
+        "upvotes": 2,
+        "url": "http://freebeacon.com/politics/conference-organizers-hit-the-buzzer-as-obamas-climate-speech-goes-11-minutes-over-schedule/"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Police Abuse Robby Soave | 11.30.2015 4:05 PM New details have emerged regarding the anonymous online threat that caused University of C...",
+        "upvotes": 0,
+        "url": "https://reason.com/blog/2015/11/30/narrative-falters-threat-that-shut-down"
+      },
+      {
+        "preview": "ADVERTISEMENT Coalition of executives and financiers seeks government subsidies as U.N. climate talks commence SHARE A group of millionaires and billionaires that includes major investors in green ene...",
+        "upvotes": 0,
+        "url": "http://freebeacon.com/issues/green-energy-investors-look-to-cash-in-on-paris-talks/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Texas Governor Greg Abbott heads for Havana, Cuba, on Monday with a large trade delegation from the Lone Star State. The move comes less than one year after President Barack Obama re-opened diplomatic...",
+        "upvotes": 0,
+        "url": "http://www.breitbart.com/big-government/2015/11/30/texas-governor-heads-cuba-discuss-trade-communist-castro-regime/"
+      },
+      {
+        "preview": "The following editorial appeared in The Orange County Register: It has been about one month since congressional Republicans caved in on the national debt limit and approved a two-year budget, which co...",
+        "upvotes": 3,
+        "url": "http://www.timesunion.com/tuplus-opinion/article/Debt-situation-worse-than-advertised-6665611.php"
+      },
+      {
+        "preview": "2016 A likely December interest-rate hike has Democrats feeling nervous, and analysts divided on the economy. By BEN WHITE 12/01/2015 05:14 AM EST The overall backdrop — an economy that is strong enou...",
+        "upvotes": 1,
+        "url": "http://www.politico.com/story/2015/12/economy-fed-janet-yellen-interest-rates-216272"
+      }
+    ],
+    "2": [
+      {
+        "preview": "At an Iowa town hall, Ted Cruz said he doesn't believe Donald Trump will be the Republican nominee Cruz is one of the only opponents Donald Trump hasn't attacked during his candidacy Ted Cruz doesn’t ...",
+        "upvotes": 96,
+        "url": "http://www.cnn.com/2015/11/30/politics/ted-cruz-donald-trump-republican-nominee/index.html"
+      },
+      {
+        "preview": "Advertisement In a shockingly heartless move, Democratic presidential candidate and failed Secretary of State Hillary Clinton responded to an e-mail discussing the death of American soldiers with a sh...",
+        "upvotes": 2,
+        "url": "http://www.thefederalistpapers.org/us/hillary-six-dead-soldiers-you-say-who-cares-i-gotta-shop"
+      },
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 7,
+        "url": "http://dailysignal.com/2015/11/30/senate-plan-to-repeal-obamacare-could-include-major-concession-to-conservatives/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "WASHINGTON — The United States will begin screening passengers entering under a visa waiver based on any past travel to a country known as a terrorist safe haven, the Obama administration announced Mo...",
+        "upvotes": 2,
+        "url": "http://www.usatoday.com/story/news/politics/2015/11/30/us-tightens-visa-waiver-program-response-paris-terror-attacks/76564038/"
+      },
+      {
+        "preview": "by .org Staff | 11.30.15 6:15 pm In addition to ensuring that Tehran will be able to develop a nuclear weapon within 15 years, the nuclear deal with Iran has “worsened the sectarian conflicts of the M...",
+        "upvotes": 3,
+        "url": "http://www.thetower.org/2624-expert-nuclear-deal-with-iran-has-spread-chaos-across-middle-east-europe/"
+      },
+      {
+        "preview": "(.com) – A fresh batch of Hillary Clinton’s private email correspondence released by the State Department on Monday night reveals concern in the then-secretary of state’s office over how she and then-...",
+        "upvotes": 4,
+        "url": "http://cnsnews.com/news/article/patrick-goodenough/latest-emails-indicate-state-dept-concerns-about-how-clinton-rice"
+      }
+    ],
+    "4": [
+      {
+        "preview": " \"backlash\" following another slim shooter.Such bullshit. Posted by: Irony at December 04, 2015 09:48 PM (qmMG2) 574 538 Has anyone mentioned that both \"Tashfeen\" and \"Malik\" are male names? Posted by...",
+        "upvotes": 90,
+        "url": "http://acecomments.mu.nu/?post=360413"
+      },
+      {
+        "preview": " PM (DL2i+) Posted by: Christopher Taylor at December 14, 2015 12:14 PM (39g3+) Posted by: fixerupper at December 14, 2015 12:15 PM (8XRCm) Posted by: Misanthropic Humanitarian, he's just a crazy Ital...",
+        "upvotes": 24,
+        "url": "http://acecomments.mu.nu/?post=360556"
+      },
+      {
+        "preview": "e been eliminated by the never-ending corporate bean counters. As Ace clearly states, these jobs instill a set of values and work ethics that a civil society relies upon. I'd wager a bet that the most...",
+        "upvotes": 2,
+        "url": "http://acecomments.mu.nu/?post=360624"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2019-08",
+  "total_articles": 176,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Social Media Content Policy and Tax Issues",
+      "core_keywords": ["facebook", "twitter", "content", "tax", "policy", "company", "court"],
+      "importance_ratio": 0.1705
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump and US Political Party Governance",
+      "core_keywords": ["trump", "democrat", "republican", "president", "state", "government", "capitalism"],
+      "importance_ratio": 0.3693
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Public Events and Media Coverage in August",
+      "core_keywords": ["trump", "august", "advertisement", "video", "fake news", "mccain", "protest"],
+      "importance_ratio": 0.0795
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Racial Tensions and Social Media Discrimination",
+      "core_keywords": ["racism", "white", "black", "twitter", "anti", "liberal", "jeong"],
+      "importance_ratio": 0.0511
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "ICE and Immigration Enforcement Against Illegal Immigration",
+      "core_keywords": ["ice", "trump", "fbi", "illegal", "child", "law", "sanctuary city"],
+      "importance_ratio": 0.3296
+    }
+  ]
+}

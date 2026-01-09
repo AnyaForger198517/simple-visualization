@@ -1,0 +1,285 @@
+{
+  "month": "2019-05",
+  "total_articles": 131,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "american",
+        "ha",
+        "conservative",
+        "state",
+        "liberal",
+        "trump",
+        "conservatism",
+        "post",
+        "millennials",
+        "government",
+        "world",
+        "national",
+        "policy",
+        "believe",
+        "movement"
+      ],
+      "topic_weights": [
+        808.2273937585419,
+        780.0371847346255,
+        778.0982780165491,
+        479.4663098943516,
+        459.31695466770526,
+        438.66125692934133,
+        401.3239319158842,
+        395.2916081335229,
+        356.782976907282,
+        333.71032452759783,
+        327.1456395861477,
+        313.61777080304915,
+        308.38658375173605,
+        304.3578499498283,
+        300.8222724139347
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "advertisement",
+        "school",
+        "state",
+        "trump",
+        "video",
+        "student",
+        "white",
+        "news",
+        "attack",
+        "president",
+        "story",
+        "content",
+        "child"
+      ],
+      "topic_weights": [
+        171.25278800576984,
+        76.24441223495744,
+        59.16371730316204,
+        56.12390753045649,
+        50.28986209351971,
+        43.08268904834264,
+        41.86087790583262,
+        40.481398299189294,
+        39.91476729897079,
+        38.771720018703014,
+        37.38376893217704,
+        37.33161740834156,
+        36.00305908247238,
+        33.254253955987984,
+        32.667932894139156
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "street",
+        "abortion",
+        "law",
+        "license",
+        "march",
+        "wednesday",
+        "michigan",
+        "resident",
+        "allow",
+        "status",
+        "driver",
+        "grand",
+        "antifa",
+        "immigration",
+        "rapid"
+      ],
+      "topic_weights": [
+        49.59322389801586,
+        39.989070564445484,
+        33.90454382246057,
+        30.61840251073857,
+        28.54797003865916,
+        27.918010763179176,
+        27.888063824402607,
+        27.57310366020579,
+        27.287554420621024,
+        26.76664454116239,
+        26.600672146546035,
+        26.478001192814876,
+        26.219308464318605,
+        25.571625221901755,
+        25.53417057881484
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "communist",
+        "war",
+        "nazi",
+        "socialist",
+        "communism",
+        "government",
+        "woman",
+        "hitler",
+        "city",
+        "ha",
+        "socialism",
+        "state",
+        "unknown",
+        "life"
+      ],
+      "topic_weights": [
+        126.03012230033471,
+        63.40166944769764,
+        59.45028171354791,
+        58.34306430399814,
+        52.58319925893617,
+        43.445422073169766,
+        38.64551541097759,
+        35.45245038388898,
+        35.21607944589865,
+        33.219694425216986,
+        31.952673666819624,
+        31.269376242414705,
+        30.13693482382254,
+        29.94167726405625,
+        29.66850158959389
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "mueller",
+        "president",
+        "barr",
+        "wa",
+        "ha",
+        "report",
+        "general",
+        "attorney",
+        "democrat",
+        "news",
+        "committee",
+        "justice",
+        "republican",
+        "house"
+      ],
+      "topic_weights": [
+        85.06502286912719,
+        65.5136916028842,
+        51.696158636030894,
+        49.77250861968447,
+        49.112349439927094,
+        39.29786277197,
+        34.395734481094046,
+        34.252302617039625,
+        33.931117328677594,
+        32.76797944307263,
+        29.075935336721717,
+        28.346318971420633,
+        27.96802522686161,
+        27.275511649937158,
+        27.003574571251658
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 31,
+    "1": 82,
+    "2": 4,
+    "3": 7,
+    "0": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Children’s Defense Fund says doubling federal minimum wage and increased tax credits would cut ‘moral travesty’ of child poverty Last modified on Wed 1 May 2019 04.30 EDT A leading children’s rights g...",
+        "upvotes": 0,
+        "url": "https://www.theguardian.com/law/2019/apr/30/us-children-poverty-childrens-defense-fund-report"
+      },
+      {
+        "preview": "To revisit this article, select My Account, then To revisit this article, visit My Profile, then View saved stories By Casey Cep Daniel Seeger was twenty-one when he wrote to his local draft board to ...",
+        "upvotes": 14,
+        "url": "https://www.google.com/amp/s/www.newyorker.com/magazine/2018/10/29/why-are-americans-still-uncomfortable-with-atheism/amp"
+      },
+      {
+        "preview": "Sign In Assembly Bill 186 headed to Democratic Gov. Steve Sisolak Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minoritie...",
+        "upvotes": 5,
+        "url": "https://www.washingtontimes.com/news/2019/may/22/nevada-senate-passes-national-popular-vote-bill-pa/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Google has a YouTube problem, according to CFO Ruth Porat. On Monday, after reporting that ad revenue grew 15% versus the 24% it saw a year ago, Google's parent company Alphabet saw its stock punished...",
+        "upvotes": 1,
+        "url": "https://www.cnbc.com/2019/04/30/youtube-algorithm-changes-negatively-impact-google-ad-revenue.html"
+      },
+      {
+        "preview": "There are 20 Democratic contenders vying for their party’s 2020 presidential nomination. Or is it 21? It’s tough to keep track. Through the tiresome ranks of the Kamala Harrises, Cory Bookers, Julian ...",
+        "upvotes": 13,
+        "url": "https://www.americanthinker.com/articles/2019/05/the_dems_dont_even_believe_themselves.html"
+      },
+      {
+        "preview": "Written by Neville Percival Croft It is common knowledge that one of the most prevalent issues modern America faces is transphobia. For far too long have narrow-minded, bigoted fascists belittled and ...",
+        "upvotes": 5,
+        "url": "https://npcdaily.com/2986/straight-white-male-removes-his-own-pronouns-to-fight-transphobia/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Alyssa Keown | .com Hundreds took to the streets of Grand Rapids on Wednesday with signs and noisemakers to express a desire for change throughout immigrant communities across Michigan. Dozens also ma...",
+        "upvotes": 4,
+        "url": "https://expo.mlive.com/news/g66l-2019/05/5f68cccac04760/west-michigan-demonstrators-seek-drivers-licenses-for-undocumented-immigrants-.html"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE Rhode Island state legislators voted down legislation that would have protected abortion rights by enshrining the principles of Roe v. Wade in state law. The Senate Judiciary Commi...",
+        "upvotes": 1,
+        "url": "https://freebeacon.com/politics/rhode-island-senate-committee-rejects-abortion-rights-legislation/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Supreme Court on Tuesday agreed to take up a case about whether Border Patrol agents can be sued in U.S. federal court over the shooting and kill...",
+        "upvotes": 4,
+        "url": "https://thehill.com/regulation/court-battles/445722-supreme-court-to-rule-whether-border-patrol-agents-can-be-sued-over"
+      }
+    ],
+    "3": [
+      {
+        "preview": "to say in hind sight now that it wasn’t a big deal… But at the time, not so much. If people had taken fascism more seriously, perhaps its spread could have been stopped, saving 10s of millions of live...",
+        "upvotes": 19,
+        "url": "https://reason.com/2019/05/01/victims-of-communism-day-2019/?fbclid=IwAR3plxOH0XvS8EJNCKnWkjJrrQUtNWsy9GfJKXhJtw3G65o1wD7JJX7bsTk"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. Rep. Ilhan Omar blames the US for Venezuela’s penury. Go figure. She of all people should know how Marxism can trash a country. Her birth coun...",
+        "upvotes": 152,
+        "url": "https://nypost.com/2019/05/02/wrong-rep-omar-socialism-not-america-caused-venezuelas-suffering/"
+      },
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. Men are scared of women now. LeanIn.org and SurveyMonkey’s new #MentorHer poll reveals Friday that 60% of male managers report feeling ...",
+        "upvotes": 1026,
+        "url": "https://nypost.com/2019/05/17/men-are-afraid-to-mentor-women-after-metoo-and-it-hurts-us-all-study/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "House Judiciary Committee Chairman Jerry Nadler is threatening to subpoena Attorney General Bill Barr. Barr threatened to back out of scheduled and voluntary testimony on Thursday after Nadler changed...",
+        "upvotes": 4,
+        "url": "https://townhall.com/tipsheet/katiepavlich/2019/04/30/tom-cottom-no-jerry-nadlers-tactics-arent-normal-procedure-n2545594?utm_source=thdailypm&utm_medium=email&utm_campaign=nl_pm&newsletterad=&bcid=aa07e99e8194aecad779d4e1baa246dd&recip=21821382"
+      },
+      {
+        "preview": "Sen. Richard Blumenthal joins CNN's Anderson Cooper to react to the news that special counsel Robert Mueller expressed concerns in a letter to Attorney General William Barr that Barr's four-page lette...",
+        "upvotes": 1,
+        "url": "https://www.realclearpolitics.com/video/2019/05/01/blumenthal_barrs_summary_of_mueller_report_was_a_lie_to_the_american_people.html"
+      },
+      {
+        "preview": "Attorney General William Barr testified before the Senate Judiciary Committee on the report released by Special Counsel Robert Mueller on his investigation into… read more Attorney General William Bar...",
+        "upvotes": 135,
+        "url": "https://www.c-span.org/video/?459922-1/william-barr-testifies-mueller-report-senate-judiciary-committee&playEvent"
+      }
+    ]
+  }
+}

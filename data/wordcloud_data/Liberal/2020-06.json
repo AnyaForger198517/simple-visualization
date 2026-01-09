@@ -1,0 +1,36 @@
+{
+  "month": "2020-06",
+  "total_articles": 197,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Police Brutality and Racial Justice Protests",
+      "core_keywords": ["police", "black", "floyd", "protest", "officer", "white", "law", "community"],
+      "importance_ratio": 0.2335
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Tech and Policy Discourse Amid Political Shifts",
+      "core_keywords": ["trump", "sander", "policy", "website", "information", "service", "american", "action"],
+      "importance_ratio": 0.0355
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Hate Crimes and Antifa in Post-Floyd Protests",
+      "core_keywords": ["asian", "hate", "violence", "antifa", "fbi", "mask", "trump", "american"],
+      "importance_ratio": 0.0305
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Election Fraud Concerns and Mail-In Voting",
+      "core_keywords": ["vote", "fraud", "mail", "ballot", "election", "voter", "trump", "florida"],
+      "importance_ratio": 0.0051
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Response to Racial Justice Protests",
+      "core_keywords": ["trump", "president", "white", "protest", "biden", "republican", "law", "american"],
+      "importance_ratio": 0.6954
+    }
+  ]
+}

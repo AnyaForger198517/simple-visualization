@@ -1,0 +1,275 @@
+{
+  "month": "2018-12",
+  "total_articles": 129,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "criminal",
+        "crime",
+        "safety",
+        "problem",
+        "law",
+        "prison",
+        "senator",
+        "violent",
+        "percent",
+        "free",
+        "america",
+        "level",
+        "man",
+        "away",
+        "enforcement"
+      ],
+      "topic_weights": [
+        222.0987466200394,
+        218.5731461274845,
+        203.5367739934857,
+        203.31933315730356,
+        146.7807189550786,
+        144.79036676094958,
+        141.42228145960672,
+        138.76750555218223,
+        138.68337757215699,
+        136.36496589903717,
+        136.27574806306228,
+        135.79383927617914,
+        134.6479571589063,
+        133.68608273404058,
+        78.59762715977281
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "advertisement",
+        "president",
+        "american",
+        "fbi",
+        "white",
+        "medium",
+        "right",
+        "state",
+        "mueller",
+        "world",
+        "government",
+        "story"
+      ],
+      "topic_weights": [
+        209.63817544032662,
+        112.41347218760662,
+        92.83033187210927,
+        76.56555492434872,
+        71.62204303509849,
+        62.49229962534319,
+        53.4255616073568,
+        49.236564077084054,
+        48.89667961472044,
+        47.322287554760905,
+        45.70595951816617,
+        45.43661638587134,
+        44.73593611508592,
+        38.22766690884403,
+        37.77047743418021
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "election",
+        "state",
+        "vote",
+        "ballot",
+        "ha",
+        "democrat",
+        "wa",
+        "republican",
+        "trump",
+        "syria",
+        "california",
+        "county",
+        "house",
+        "board",
+        "voter"
+      ],
+      "topic_weights": [
+        73.29459433969356,
+        56.56921747151549,
+        50.297548737204224,
+        44.319148313445915,
+        40.754398430440474,
+        37.263202502204486,
+        32.58707317257148,
+        31.687264425105976,
+        28.782166430858275,
+        28.250323974914487,
+        28.09359461324811,
+        27.9278838151233,
+        27.01805047518111,
+        26.694181306910096,
+        26.103359036007237
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "law",
+        "speech",
+        "illegal",
+        "crime",
+        "state",
+        "carlson",
+        "immigrant",
+        "case",
+        "school",
+        "mean",
+        "amendment",
+        "constitution",
+        "doe",
+        "court"
+      ],
+      "topic_weights": [
+        52.43195886479656,
+        42.97760022115725,
+        35.33028273108886,
+        25.284533711885516,
+        23.514045899270855,
+        22.45342072158422,
+        17.588856443507822,
+        17.256307591465283,
+        16.610437734016454,
+        16.516822622738932,
+        15.988450171908042,
+        15.65730934618316,
+        15.418801305109364,
+        15.256623903185366,
+        14.716160893235557
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "google",
+        "trump",
+        "ha",
+        "wa",
+        "federal",
+        "president",
+        "campaign",
+        "news",
+        "law",
+        "house",
+        "percent",
+        "public",
+        "report",
+        "office",
+        "company"
+      ],
+      "topic_weights": [
+        51.632396937828965,
+        51.29931021773291,
+        49.311663753099005,
+        45.861037685215365,
+        37.356055911094586,
+        36.84518632272049,
+        34.968162976468186,
+        33.308541122425574,
+        28.554810046586333,
+        25.314645000901614,
+        23.053629456948915,
+        22.38484068249797,
+        21.793194099632505,
+        20.76514115022145,
+        20.587155639889833
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 30,
+    "2": 20,
+    "1": 71,
+    "3": 7,
+    "0": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ADVERTISEMENT SHARE There are some who will tell you that we live in an incredibly safe era. That diseases have been defeated. That cars are sturdier than ever. Most importantly: That we experience th...",
+        "upvotes": 0,
+        "url": "https://freebeacon.com/men-of-the-year/2018-man-year-tom-cotton/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement Richard Burr The Gateway Pundit reported Thursday Michael Cohen’s guilty plea developed from a criminal referral from the Senate Intel Panel’s Vice Chairman Mark Warner (D-VA). Advertise...",
+        "upvotes": 7,
+        "url": "https://www.thegatewaypundit.com/2018/11/burr-senate-intel-committee-has-made-criminal-referrals-to-mueller/"
+      },
+      {
+        "preview": "On his nationally syndicated radio talk show, “The Mark Levin Show,” on Thursday night, host and American lawyer Mark Levin said the American media are “cheering” for special counsel Robert Mueller, a...",
+        "upvotes": 14,
+        "url": "https://www.cnsnews.com/blog/emily-ward/mark-levin-media-are-cheering-mueller-they-want-president-destroyed"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Defense Secretary James MattisJames Norman Mattis20 years after 9/11, we've logged successes but the fight continues Defense & National Security — Th...",
+        "upvotes": 9,
+        "url": "https://thehill.com/policy/international/419282-mattis-russia-interfered-in-2018-midterms"
+      }
+    ],
+    "2": [
+      {
+        "preview": "LOS ANGELES (AP) — A combination of recent changes in California’s election rules have lengthened the ballot-counting process and upended traditional voting patterns in a year that Democrats captured ...",
+        "upvotes": 8,
+        "url": "https://apnews.com/3cfd93f7859149809949bd611287154e"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Associated Press on Friday retracted its call for a Republican in a House race in North Carolina after the state board of elections delayed certi...",
+        "upvotes": 15,
+        "url": "https://thehill.com/homenews/house/419212-ap-retracts-call-in-north-carolina-congress-race-amid-fraud-investigation"
+      },
+      {
+        "preview": "Nov. 30, 2018, at 5:58 PM By Nathaniel Rakich Filed under 2018 Election Alex Edelman / Getty Images After three weeks of waiting, we thought every U.S. House race in the country was finally decided. N...",
+        "upvotes": 12,
+        "url": "https://fivethirtyeight.com/features/what-the-heck-is-happening-in-that-north-carolina-house-race/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Immigration Jacob Sullum | 12.4.2018 4:45 PM Today a federal appeals court ruled that a law aimed at curtailing illegal immigration viol...",
+        "upvotes": 56,
+        "url": "http://reason.com/blog/2018/12/04/9th-circuit-says-a-law-that-makes-it-a-f"
+      },
+      {
+        "preview": "On the after show of his daily Facebook Live video podcast “The Ben Shapiro Show” Tuesday, host and Editor-in-Chief of the Daily Wire Ben Shapiro said that “[i]f you don’t think there’s a difference b...",
+        "upvotes": 458,
+        "url": "https://www.cnsnews.com/blog/michael-morris/ben-shapiro-if-you-dont-think-theres-difference-between-men-and-women-you-are#utm_source=facebook&utm_medium=cns&utm_campaign=b-ShapiroDontThinkDiffMenWomenYouAreAFool"
+      },
+      {
+        "preview": "Every once in a while, we’re offered a peek behind an ideological curtain. That’s what happened last week in The New York Times. If you were a surgeon and someone asked you to perform a surgery that w...",
+        "upvotes": 0,
+        "url": "https://www.cnsnews.com/commentary/john-stonestreet/new-york-times-reveals-serious-problems-trans-ideology-opinion-piece"
+      }
+    ],
+    "4": [
+      {
+        "preview": "ADVERTISEMENT SHARE The Texas attorney general filed a lawsuit on Friday against San Antonio and other officials over the city's sanctuary city policy, which violates state and federal immigration law...",
+        "upvotes": 94,
+        "url": "https://freebeacon.com/issues/texas-ag-sues-san-antonio-sanctuary-city-policy/"
+      },
+      {
+        "preview": "By Leah Simpson For .com Published: 14:23 EDT, 30 November 2018 | Updated: 01:14 EDT, 1 December 2018 658 View comments Google engineers discussed on email changing algorithms to disfavor conservative...",
+        "upvotes": 1,
+        "url": "https://www.dailymail.co.uk/news/article-6447403/Google-debated-punishing-high-ranking-conservative-media-outlets-Trump-won-2016-election.html"
+      },
+      {
+        "preview": "This year’s United Nations climate summit will have a carbon footprint equivalent to the yearly electricity usage of more than 8,200 American households, according to the international body’s own figu...",
+        "upvotes": 56,
+        "url": "https://www.westernjournal.com/un-climate-summit-emit-co2-8200-american-homes-year"
+      }
+    ]
+  }
+}

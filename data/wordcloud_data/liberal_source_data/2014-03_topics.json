@@ -1,0 +1,275 @@
+{
+  "month": "2014-03",
+  "total_articles": 125,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "worker",
+        "republican",
+        "wa",
+        "program",
+        "percent",
+        "tax",
+        "poverty",
+        "wage",
+        "eitc",
+        "ha",
+        "income",
+        "american",
+        "benefit",
+        "credit",
+        "family"
+      ],
+      "topic_weights": [
+        143.89666588320597,
+        140.03195679105872,
+        136.80827509671212,
+        119.61068605373939,
+        104.06550889146219,
+        102.64460490557468,
+        94.54947180256761,
+        92.48801787833648,
+        84.78576254824621,
+        82.4910245123185,
+        75.8921193725647,
+        71.33128193995348,
+        65.67113974192594,
+        64.17648290101599,
+        64.16663391459686
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "obamacare",
+        "health",
+        "koch",
+        "mother",
+        "million",
+        "ad",
+        "law",
+        "jones",
+        "state",
+        "insurance",
+        "story",
+        "marriage",
+        "doesn",
+        "case",
+        "fact"
+      ],
+      "topic_weights": [
+        104.00892635474327,
+        98.11987854916013,
+        90.84844790079353,
+        87.61093234407832,
+        81.4039585374398,
+        79.08754710239538,
+        77.1402900924309,
+        77.00521128978883,
+        70.98019249284441,
+        65.64080485755312,
+        64.55372867857434,
+        54.89399185214639,
+        54.69536489932416,
+        53.67789482647994,
+        53.677347317384466
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "job",
+        "term",
+        "long",
+        "world",
+        "unemployed",
+        "driver",
+        "graham",
+        "work",
+        "god",
+        "come",
+        "number",
+        "wa",
+        "ha",
+        "company",
+        "wealth"
+      ],
+      "topic_weights": [
+        62.03711036276779,
+        46.86180885074032,
+        42.639073840809345,
+        39.457341465169485,
+        38.360891875085116,
+        33.658179724972214,
+        32.9838366279163,
+        30.591209227342578,
+        30.187467815309176,
+        25.330422935450137,
+        24.778105348985182,
+        24.745728104703634,
+        24.738166262698456,
+        24.16095598345686,
+        23.35186920605148
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "obama",
+        "state",
+        "american",
+        "president",
+        "wing",
+        "support",
+        "political",
+        "government",
+        "policy",
+        "group",
+        "right",
+        "law",
+        "public"
+      ],
+      "topic_weights": [
+        351.6647583286971,
+        283.63004872529945,
+        233.2631746315589,
+        212.0700468102509,
+        190.9988769685025,
+        152.31997926164104,
+        148.85430810613394,
+        148.20506387571302,
+        138.32330377835973,
+        118.93574158315032,
+        114.968423335503,
+        112.39283125645848,
+        111.63882681763084,
+        104.84851330091966,
+        101.75633639030666
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "court",
+        "ford",
+        "jail",
+        "judge",
+        "fine",
+        "county",
+        "pay",
+        "company",
+        "private",
+        "work",
+        "shelby",
+        "release",
+        "case",
+        "fee"
+      ],
+      "topic_weights": [
+        663.30196423565,
+        615.707251600072,
+        410.308785677313,
+        399.1263553175853,
+        375.6981083715285,
+        363.42875950937895,
+        315.8372171236935,
+        300.3583023597046,
+        288.2019980741426,
+        282.86216442380396,
+        276.91895482955533,
+        243.27635039502306,
+        238.2837704233407,
+        206.78248085455135,
+        201.57131383206828
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 73,
+    "1": 16,
+    "0": 30,
+    "4": 1,
+    "2": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The far right had been trying to spark some sort of populist movement for decades. Finally in February 2009, as the public began to comprehend the magnitude of the financial crisis that had been killi...",
+        "upvotes": 13,
+        "url": "http://www.nationalmemo.com/5-ways-tea-party-stopped-economic-recovery/"
+      },
+      {
+        "preview": "Written by Albert Kleine Published 03/04/14 1:09 PM EST Share Comment Fox News is providing ample, uncritical airtime to hype Representative Paul Ryan's (R-WI) report on the alleged ineffectiveness of...",
+        "upvotes": 7,
+        "url": "http://mediamatters.org/research/2014/03/04/what-economists-say-about-paul-ryans-report-on/198328"
+      },
+      {
+        "preview": "The budget seeks $651 billion in new revenue from the rich. | John Shinkle/ By REID J. EPSTEIN 03/04/2014 11:32 AM EST Updated 03/04/2014 08:45 PM EST President Barack Obama’s $3.901 trillion budget w...",
+        "upvotes": 39,
+        "url": "http://www.politico.com/story/2014/03/obama-budget-2015-104229.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "It is more difficult for newly married same-sex couples in Utah to adopt, according to lawyers handling such cases, after the attorney general on Monday began urging judges to reject adoption applicat...",
+        "upvotes": 12,
+        "url": "http://www.huffingtonpost.com/2014/03/01/utah-gay-adoption_n_4876815.html?utm_hp_ref=gay-voices"
+      },
+      {
+        "preview": "From the LA Times: Russian President Vladimir Putin has agreed to a German proposal for international observers to review the tense standoff in Ukraine’s Crimea area, a Kremlin news service dispatch i...",
+        "upvotes": 0,
+        "url": "http://www.motherjones.com/kevin-drum/2014/03/putin-making-first-move-de-escalate"
+      },
+      {
+        "preview": "This article is more than 1 year old Senate Majority Leader Harry Reid took to the floor on Tuesday to denounce the spending -- now up to $14.5 million -- by Charles and David Koch on Senate races, th...",
+        "upvotes": 32,
+        "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2014/03/04/harry-reid-really-hates-the-koch-brothers/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "On Monday, the Seattle City Council voted unanimously to cap the number of rideshare drivers on the city streets. The rideshare companies Lyft, Uber and Sidecar, which pair drivers with riders through...",
+        "upvotes": 3,
+        "url": "http://inthesetimes.com/working/entry/16473/is_seattles_rideshare_crackdown_actually_a_win_for_taxi_drivers"
+      },
+      {
+        "preview": "Mar. 21, 2014, at 6:40 AM By Ben Casselman Filed under Long-Term Unemployed The nearly 5-year-old economic recovery has so far been too weak to put many of the recession’s victims back to work. And th...",
+        "upvotes": 1,
+        "url": "http://fivethirtyeight.com/features/out-of-work-out-of-luck/"
+      },
+      {
+        "preview": "Creationists are mad at Seth MacFarlane’s Cosmos reboot for not giving any airtime to their God-centric theory of the universe. Despite the fact that an estimated 99.99999 percent of scientists—includ...",
+        "upvotes": 103,
+        "url": "http://www.avclub.com/article/creationists-are-mad-cosmos-not-humoring-their-the-202557"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Rep. Lockman at a press conference – from WABI Representative Lawrence Lockman of Amherst is in his first term in office, but he has quickly established himself as a vocal leader of the GOP’s tea part...",
+        "upvotes": 9,
+        "url": "http://thetippingpoint.bangordailynews.com/2014/02/25/state-politics/maine-rep-lawrence-lockmans-deacades-long-history-of-extremism/"
+      },
+      {
+        "preview": "Net neutrality — the principle that all content on the Internet must be treated equally by service providers and the government — may not be long for this world. After anemic attempts at preserving ne...",
+        "upvotes": 4,
+        "url": "http://inthesetimes.com/article/16347/why_the_internet_will_soon_be_two_tiered_net_neutrality"
+      },
+      {
+        "preview": "Advertisement Supported by Op-Ed Contributor By Greg Hampikian BOISE, Idaho — TO the chief counsel of the Idaho State Legislature: In light of the bill permitting guns on our state’s college and unive...",
+        "upvotes": 33,
+        "url": "http://www.nytimes.com/2014/02/28/opinion/when-may-i-shoot-a-student.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "er bill. Her family managed to rustle up $2,500, but Burdette said they were told by Penny Hall, Harpersville’s clerk, that her debt was now about $5,000, and that they would have to pay all of it for...",
+        "upvotes": 67,
+        "url": "http://www.thenation.com/article/178845/town-turned-poverty-prison-sentence"
+      }
+    ]
+  }
+}

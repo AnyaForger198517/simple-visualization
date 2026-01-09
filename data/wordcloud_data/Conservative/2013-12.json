@@ -1,0 +1,36 @@
+{
+  "month": "2013-12",
+  "total_articles": 143,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Presidential Governance and Domestic Policy Agenda",
+      "core_keywords": ["obama", "president", "government", "state", "law", "income", "american"],
+      "importance_ratio": 0.5245
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Libertarian and Republican Party Social Issues Debate",
+      "core_keywords": ["libertarian", "republican", "gay", "conservative", "religion", "democrat", "vote"],
+      "importance_ratio": 0.1469
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "China-US Relations and Military-Technological Dynamics",
+      "core_keywords": ["china", "military", "technology", "state", "chinese", "sea", "data"],
+      "importance_ratio": 0.2028
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Government, Capitalism and Tax Policy Debate",
+      "core_keywords": ["government", "capitalism", "tax", "law", "irs", "charity", "obama"],
+      "importance_ratio": 0.0769
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Healthcare Policy and Tax/Insurance Regulation",
+      "core_keywords": ["obamacare", "health", "insurance", "tax", "medical", "plan", "pay"],
+      "importance_ratio": 0.0490
+    }
+  ]
+}

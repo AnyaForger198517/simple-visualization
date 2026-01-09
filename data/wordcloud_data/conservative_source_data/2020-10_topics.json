@@ -1,0 +1,285 @@
+{
+  "month": "2020-10",
+  "total_articles": 176,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "chinese",
+        "police",
+        "ha",
+        "state",
+        "ballot",
+        "mail",
+        "officer",
+        "according",
+        "news",
+        "fbi",
+        "video",
+        "charge",
+        "group",
+        "city"
+      ],
+      "topic_weights": [
+        206.36778716360433,
+        142.7837454199337,
+        115.67106532389225,
+        101.48674526583758,
+        84.11039669656284,
+        75.1632763476262,
+        73.23858399916217,
+        71.53494667717007,
+        71.01980569463714,
+        66.15649889170568,
+        61.567449209229366,
+        58.712462514425205,
+        57.558606949847416,
+        55.0887155175735,
+        52.51602380302564
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "american",
+        "trump",
+        "wa",
+        "vote",
+        "asian",
+        "court",
+        "election",
+        "state",
+        "ha",
+        "republican",
+        "voter",
+        "community",
+        "president",
+        "democrat",
+        "justice"
+      ],
+      "topic_weights": [
+        452.0472131283001,
+        244.8358337386184,
+        197.78037473843196,
+        193.6408229815293,
+        193.6003259327639,
+        192.116526109536,
+        191.33820193968398,
+        177.22887246042802,
+        159.0764091250598,
+        152.2744501747564,
+        141.7253822434464,
+        121.57392079822613,
+        115.09630820688727,
+        114.52505622477925,
+        114.51402662818813
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "biden",
+        "hunter",
+        "joe",
+        "wa",
+        "president",
+        "ha",
+        "news",
+        "trump",
+        "email",
+        "twitter",
+        "post",
+        "campaign",
+        "vice",
+        "laptop",
+        "medium"
+      ],
+      "topic_weights": [
+        603.1501118954064,
+        212.32813701346905,
+        179.2398242326289,
+        164.67983853186584,
+        129.24368126316187,
+        117.66787018496588,
+        98.11817337415178,
+        85.15381991897517,
+        84.27462020279032,
+        81.54111999330803,
+        73.19050917339553,
+        70.20386386731766,
+        67.90363166849161,
+        65.95378172648154,
+        64.91830393065678
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "school",
+        "policy",
+        "ha",
+        "child",
+        "student",
+        "covid",
+        "wa",
+        "white",
+        "theory",
+        "medium",
+        "social",
+        "black",
+        "world",
+        "life",
+        "government"
+      ],
+      "topic_weights": [
+        77.12227257909639,
+        52.46434466036655,
+        45.97074401073195,
+        41.57270805117062,
+        39.73667497479077,
+        38.042024119336894,
+        35.797480941071015,
+        34.71233189568907,
+        34.35670178959072,
+        33.34360940835861,
+        32.41291643570835,
+        31.988692635617998,
+        31.687169176458156,
+        31.368424648414738,
+        28.056434174065508
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "news",
+        "white",
+        "biden",
+        "debate",
+        "mask",
+        "october",
+        "study",
+        "did",
+        "black",
+        "percent",
+        "donald"
+      ],
+      "topic_weights": [
+        449.0462661030411,
+        245.62387515213928,
+        202.95458788738537,
+        160.3876289908872,
+        111.6169151913595,
+        97.70286934743496,
+        92.62985384898553,
+        89.80754749925453,
+        88.40815242188792,
+        74.21091694120875,
+        71.6486380340564,
+        65.9304530041765,
+        63.856250555856775,
+        59.90172084810125,
+        59.71327840949247
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 44,
+    "0": 38,
+    "1": 41,
+    "3": 17,
+    "2": 36
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "(CNS News) -- In a testy exchange between Sen. Ted Cruz (R-Texas) and ex-FBI Director James Comey about the FBI's spying on the 2016 Trump campaign, Cruz quoted sworn testimony by Comey that contradic...",
+        "upvotes": 41,
+        "url": "https://www.cnsnews.com/article/washington/michael-w-chapman/sen-cruz-ex-fbi-director-comey-under-oath-whos-telling-truth"
+      },
+      {
+        "preview": "Students vandalized a display intended to memorialize aborted babies on the campus of the University of North Texas (UNT) on Wednesday and also sent threatening texts to the leader of the conservative...",
+        "upvotes": 1,
+        "url": "https://www.dailywire.com/news/a-horrible-thing-conservative-student-groups-abortion-memorial-vandalized-leader-threatened"
+      },
+      {
+        "preview": "Advertisement By Neil Vigdor Two right-wing political operatives were charged Thursday with a series of felonies in connection with a robocall scheme that Michigan’s attorney general said was part of ...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/10/01/us/elections/jacob-wohl-jack-burkman-michigan-felony.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Consumer confidence spiked higher through August as Americans' expectations for economic recovery s...",
+        "upvotes": 1,
+        "url": "https://www.businessinsider.com/consumer-confidence-surges-economic-recovery-hopes-stimulus-conference-board-2020-9"
+      },
+      {
+        "preview": "The Philadelphia Inquirer reported yesterday: A laptop and several memory sticks used to program Philadelphia’s voting machines were stolen from a city warehouse in East Falls, officials confirmed Wed...",
+        "upvotes": 84,
+        "url": "https://www.thegatewaypundit.com/2020/10/philadelphias-horrible-record-democrat-voter-fraud-hits-new-low-voting-machine-laptop-memory-sticks-stolen/"
+      },
+      {
+        "preview": "By LifeZette October 4, 2020 at 12:39pm The mayor of San Francisco has announced plans to help pregnant women with the financial difficulties of raising children, but only women that are a certain col...",
+        "upvotes": 1055,
+        "url": "https://thepoliticalinsider.com/mayor-announces-plans-for-city-to-pay-some-pregnant-women-1k-per-month-but-only-if-theyre-black-or-pacific-islander/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "NEW YORK (CBSNewYork) — The NYPD confirms actor Rick Moranis was randomly attacked by a stranger Thursday on the Upper West Side. Police said it happened in broad daylight just before 7:30 a.m. on Cen...",
+        "upvotes": 55,
+        "url": "https://newyork.cbslocal.com/2020/10/02/rick-moranis-random-attack-on-upper-west-side/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved C-SPAN said the Twitter account of the moderator for the second debate, C-SPAN journalist Steve Scully, was hacked, and that this accounts for a twee...",
+        "upvotes": 40,
+        "url": "https://thehill.com/homenews/media/520347-debate-moderator-deletes-tweet-asking-scaramucci-should-i-respond-to-trump"
+      },
+      {
+        "preview": "Advertisement Fires burn in New York City on June 1, 2020 (video screenshot) The growing division in America is becoming a national security concern, a defense expert warns. \"This is scary what we're ...",
+        "upvotes": 179,
+        "url": "https://www.wnd.com/2020/10/expert-warns-divided-u-s-becomes-national-security-issue/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Social Media Robby Soave | 10.1.2020 12:35 PM The Senate Commerce Committee voted on Thursday to subpoena various \"Big Tech\" CEOs in adv...",
+        "upvotes": 18,
+        "url": "https://reason.com/2020/10/01/senate-commerce-big-tech-ceos-subpoena-election/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FHitandRun+%28Reason+Online+-+Hit+%26+Run+Blog%29"
+      },
+      {
+        "preview": " 7/24/2020 6:30:00 PM Share This WASHINGTON, D.C. (July 24, 2020) – Pharmaceutical Research and Manufacturers of America President and CEO Stephen J. Ubl made the following statement: “In his 2020 Sta...",
+        "upvotes": 0,
+        "url": "https://www.phrma.org/Press-Release/PhRMA-Statement-on-Drug-Pricing-Executive-Orders"
+      },
+      {
+        "preview": "\"Inside Every Progressive Is A Totalitarian Screaming To Get Out\" When modern secularists try (and fail) to fill the “God-shaped hole” in man. Riots broke out in the spring of 2020. Rioters burned cit...",
+        "upvotes": 22,
+        "url": "https://www.frontpagemag.com/fpm/2020/10/how-activist-scholarship-harms-everybody-danusha-v-goska/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Consider Frank Luntz flabbergasted. The experienced focus-group handler collected a number of undecided voters for the presidential debate, as he has in several cycles, in order to test the initial mo...",
+        "upvotes": 15,
+        "url": "https://hotair.com/archives/ed-morrissey/2020/09/30/luntz-first-time-ever-undecideds-debate-focus-group-decided-not-vote/"
+      },
+      {
+        "preview": "Follow Us National Review The Myth of the Red Pill Study: Ivermectin ‘Exhibits Efficacy’ as Therapeutic for COVID Why Isn’t the Attack on Larry Elder the Biggest Story in America? The Media’s COVID Wh...",
+        "upvotes": 6,
+        "url": "https://www.nationalreview.com/2020/09/the-proud-boys-debate-moment-a-case-study-in-the-medias-mishandling-of-trump/"
+      },
+      {
+        "preview": "By Megan Sheets For .com Published: 14:17 EDT, 1 October 2020 | Updated: 15:17 EDT, 1 October 2020 40 View comments New York has launched a new contact tracing app that will alert users if they've bee...",
+        "upvotes": 226,
+        "url": "https://www.dailymail.co.uk/news/article-8795361/New-York-rolls-COVID-19-app-uses-Bluetooth-trace-infections.html"
+      }
+    ]
+  }
+}

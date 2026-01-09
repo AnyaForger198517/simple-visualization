@@ -1,0 +1,275 @@
+{
+  "month": "2017-08",
+  "total_articles": 194,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "party",
+        "republican",
+        "trump",
+        "political",
+        "policy",
+        "democrat",
+        "american",
+        "tax",
+        "voter",
+        "percent",
+        "power",
+        "liberal"
+      ],
+      "topic_weights": [
+        400.53041648005495,
+        339.6259682808522,
+        319.189240146445,
+        301.4622072670132,
+        270.22996276228116,
+        244.19968043935106,
+        219.82442132925766,
+        218.862952613408,
+        214.62169285888186,
+        213.40120257716296,
+        187.73378854915302,
+        183.86924251574646,
+        156.91775205540046,
+        147.40724811656537,
+        143.63278142674247
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "white",
+        "wa",
+        "group",
+        "hate",
+        "charlottesville",
+        "ha",
+        "community",
+        "woman",
+        "supremacist",
+        "nazi",
+        "rally",
+        "violence",
+        "black",
+        "anti",
+        "alt"
+      ],
+      "topic_weights": [
+        413.02506098193857,
+        307.67961352178065,
+        289.16419432312705,
+        227.34082870094832,
+        163.5193616897557,
+        157.58272655694248,
+        152.65777874490084,
+        140.74608769392853,
+        140.06407719745275,
+        139.72856066274724,
+        133.92781508175162,
+        126.48460338137733,
+        122.65004274441029,
+        115.09583590975828,
+        113.44818476819113
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "national",
+        "park",
+        "alaska",
+        "act",
+        "provision",
+        "hunting",
+        "including",
+        "administration",
+        "service",
+        "wa",
+        "preserve",
+        "trump",
+        "legislation",
+        "interior",
+        "association"
+      ],
+      "topic_weights": [
+        541.2712487009696,
+        528.4036878963492,
+        173.19449415602182,
+        169.03275586681724,
+        157.95485890979455,
+        154.42477118711463,
+        152.08357196510315,
+        136.1124537474168,
+        130.49826087079387,
+        128.94422042340727,
+        124.45486717749202,
+        114.97575924715058,
+        111.71725954839118,
+        108.31875833058923,
+        106.35530133521917
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "white",
+        "bannon",
+        "house",
+        "news",
+        "administration",
+        "donald",
+        "russia",
+        "election",
+        "russian",
+        "american",
+        "campaign"
+      ],
+      "topic_weights": [
+        1135.6660805248507,
+        691.1793259958993,
+        385.5524703440876,
+        330.48226091564965,
+        193.5011623589114,
+        181.31241098544552,
+        174.93634754904343,
+        164.07417215112477,
+        152.4885850889149,
+        144.04839416640465,
+        142.183154025458,
+        136.97475926789505,
+        123.81848329359651,
+        117.25315149312127,
+        110.51753548278346
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "carson",
+        "wa",
+        "hud",
+        "housing",
+        "government",
+        "department",
+        "million",
+        "money",
+        "secretary",
+        "child",
+        "friedman",
+        "employee",
+        "ha",
+        "campaign",
+        "donor"
+      ],
+      "topic_weights": [
+        124.95378554551918,
+        97.81074046994858,
+        78.02062249297008,
+        66.7024286232103,
+        51.66185149373743,
+        50.97750971512835,
+        46.04245279224379,
+        37.964310736848354,
+        37.6216271954506,
+        36.28387449336621,
+        35.811960757257275,
+        34.98017294660567,
+        33.04033087007818,
+        31.949509764536813,
+        30.871103251921298
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 4,
+    "3": 63,
+    "0": 69,
+    "1": 57,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The redistricting group backed by former President Barack Obama has raised nearly $11 million. | Getty By EDWARD-ISAAC DOVERE 07/31/2017 05:35 AM EDT The National Democratic Redistricting Committee, t...",
+        "upvotes": 12,
+        "url": "http://www.politico.com/story/2017/07/31/democratic-redistricting-fundraising-obama-241154"
+      },
+      {
+        "preview": "The dramatic and stunning failure of the GOP’s Obamacare repeal efforts have sent single-payer advocates into a tizzy. Emboldened by public interest in new health care solutions, progressive activists...",
+        "upvotes": 1,
+        "url": "https://extranewsfeed.com/single-payer-is-making-us-the-stupid-party-49d7abaebfaa"
+      },
+      {
+        "preview": "UPDATE: Georgia cancels fewer voter registrations after surge last year Georgia canceled the registration of more than a half-million voters over the weekend, part of an ongoing round of maintenance t...",
+        "upvotes": 1,
+        "url": "http://www.myajc.com/news/state--regional-govt--politics/georgia-cancels-registration-more-than-591-500-voters/ozSuX227UpNe18YGQ0hYUJ/amp.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The Politicus Create | Share | Influence Home » Jose Williams on March on Washington, Trump called out by Biden, Press slams Trump Trump thinks the Law and Order message will sell, but the failure is ...",
+        "upvotes": 8,
+        "url": "http://thepoliticus.com/content/chaos-erupts-press-briefing-trump-advisor-freaks-out-cnn-reporter-video#.WYNNrdzPyiI.reddit"
+      },
+      {
+        "preview": "The city of Chicago will file a lawsuit against the Trump administration on Monday over Attorney General Jeff Sessions’ July announcement that the federal government would withhold certain grant fundi...",
+        "upvotes": 23,
+        "url": "http://talkingpointsmemo.com/livewire/chicago-lawsuit-doj-sanctuary-cities"
+      },
+      {
+        "preview": "By Damien McGuinness News, Berlin With its red-brick spire and stained-glass windows, St Johannes looks like any other 19th-Century Protestant church. Go around the back, however, head up a few flight...",
+        "upvotes": 1,
+        "url": "http://www.bbc.com/news/world-europe-40802538"
+      }
+    ],
+    "2": [
+      {
+        "preview": "d out were NPS concerns over a provision in the bill that would prevent the national parks from setting stricter standards for lead content in ammunition than states have established. In a policy stat...",
+        "upvotes": 5,
+        "url": "http://www.denverpost.com/2017/08/24/donald-trump-national-park-service-nra-bill/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Anthony Scaramucci has resigned from his role as White House communications director. Scaramucci was named communications director on July 21, a mere 10 days ago. Axios reports he resigned at the requ...",
+        "upvotes": 16,
+        "url": "http://www.huffingtonpost.com/entry/anthony-scaramucci-out-as-communications-director_us_597f78abe4b00bb8ff38849f?ncid=inblnkushpmg00000009"
+      },
+      {
+        "preview": "Advertisement Supported by By Michael D. Shear, Glenn Thrush and Maggie Haberman WASHINGTON — John F. Kelly, President Trump’s new chief of staff, firmly asserted his authority on his first day in the...",
+        "upvotes": 184,
+        "url": "https://www.nytimes.com/2017/07/31/us/politics/anthony-scaramucci-white-house.html"
+      },
+      {
+        "preview": "On the sidelines of the Group of 20 summit in Germany last month, President Trump’s advisers discussed how to respond to a new revelation that Trump’s oldest son had met with a Russian lawyer during t...",
+        "upvotes": 6,
+        "url": "https://www.washingtonpost.com/politics/trump-dictated-sons-misleading-statement-on-meeting-with-russian-lawyer/2017/07/31/04c94f96-73ae-11e7-8f39-eeb7d3a2d304_story.html?hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar&tid=a_breakingnews&utm_term=.2013b38b8ed6"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Bernie Sanders On the Right-Wing Ideology That Rules Our Economy Milton Friedman is still the false prophet of Wall Street. By Bernie Sanders July 26, 2017 | Excerpt For over 40 years, In These Times ...",
+        "upvotes": 34,
+        "url": "http://inthesetimes.com/features/bernie_sanders_milton_friedman_wall_street.html"
+      },
+      {
+        "preview": "Getty Images Politics Trump-era Republicans learned from Bernie Sandersâ success. The Democratic National Committee still hasnât. And that fact threatens to undo Demsâ potential gains. By MICHAE...",
+        "upvotes": 10,
+        "url": "http://www.politico.com/magazine/story/2017/08/10/the-democratic-partys-looming-fundraising-crisis-215474"
+      },
+      {
+        "preview": "cializes in infrastructure, health care, and workforce development, was showing up on email chains within the department and appearing often at headquarters. One day, he was seen leaving the tenth-flo...",
+        "upvotes": 20,
+        "url": "http://nymag.com/daily/intelligencer/2017/08/ben-carson-hud-secretary.html"
+      }
+    ]
+  }
+}

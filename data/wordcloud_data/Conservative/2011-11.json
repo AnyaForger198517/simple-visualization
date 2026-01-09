@@ -1,0 +1,36 @@
+{
+  "month": "2011-11",
+  "total_articles": 73,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Government Governance, Legal Affairs and Public Health Issues",
+      "core_keywords": ["government", "law", "court", "healthcare", "state policy", "war affairs", "legal cases", "public support", "administrative regulation"],
+      "importance_ratio": 21.92
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Occupy Wall Street Movement and Social Protest Dynamics",
+      "core_keywords": ["Occupy Wall Street", "protesters", "social movement", "police response", "civil unrest", "political activism", "urban protest", "public support", "arrest incidents"],
+      "importance_ratio": 34.25
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2012 US Presidential Election Campaign and Polling Trends",
+      "core_keywords": ["presidential election", "Republican candidates", "polling data", "voter sentiment", "conservative politics", "election polls", "Obama administration", "state-level voting", "campaign rhetoric"],
+      "importance_ratio": 24.66
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Economic Monopoly, Market Competition and Government Policies",
+      "core_keywords": ["economic monopoly", "market competition", "government intervention", "corporate power", "global economy", "capital markets", "price regulation", "firm strategy", "state economics"],
+      "importance_ratio": 13.70
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Renewable Energy, Corporate Tax and Legal Enforcement Matters",
+      "core_keywords": ["wind energy", "corporate tax reform", "environmental impact", "legal charges", "business operations", "residential issues", "farm policy", "network regulation", "criminal arrests"],
+      "importance_ratio": 5.48
+    }
+  ]
+}

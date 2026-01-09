@@ -1,0 +1,275 @@
+{
+  "month": "2018-06",
+  "total_articles": 164,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "child",
+        "trump",
+        "policy",
+        "parent",
+        "family",
+        "border",
+        "ha",
+        "wa",
+        "tax",
+        "immigration",
+        "administration",
+        "order",
+        "immigrant",
+        "separated",
+        "american"
+      ],
+      "topic_weights": [
+        410.4104557373043,
+        314.4751035045448,
+        217.76975550804127,
+        202.08962528550464,
+        196.83943217574299,
+        169.21404690081872,
+        148.77874552316874,
+        142.12211716022838,
+        140.594298905807,
+        131.11725924443942,
+        127.3206913809763,
+        83.80145145203807,
+        81.9384828226002,
+        81.16377425131826,
+        80.92887424421302
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "child",
+        "wa",
+        "american",
+        "parent",
+        "kid",
+        "come",
+        "border",
+        "law",
+        "mexican",
+        "race",
+        "boarding",
+        "family",
+        "concentration",
+        "generation",
+        "camp"
+      ],
+      "topic_weights": [
+        510.72919675098206,
+        406.24471403723226,
+        314.0757813844945,
+        244.5433692953655,
+        231.07706683368838,
+        182.58661320415396,
+        180.93121559390212,
+        171.0696060471506,
+        156.5348296937669,
+        156.47898797393293,
+        154.7857871855831,
+        154.26302460108664,
+        152.0351202972418,
+        150.03232038399085,
+        143.48040136423154
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "election",
+        "party",
+        "right",
+        "political",
+        "republican",
+        "state",
+        "democrat",
+        "american",
+        "house",
+        "country",
+        "democratic"
+      ],
+      "topic_weights": [
+        581.0563457405477,
+        563.7728829634865,
+        400.6585011012114,
+        245.4384809286987,
+        180.7780675980037,
+        175.3605305204345,
+        174.38466438333333,
+        168.9107711258579,
+        166.42866110092166,
+        165.73923106338552,
+        158.6773485431392,
+        154.99664826566593,
+        140.33750534175138,
+        136.21946616684377,
+        129.72145438443383
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "worker",
+        "officer",
+        "police",
+        "poverty",
+        "sex",
+        "wage",
+        "wa",
+        "email",
+        "work",
+        "rate",
+        "job",
+        "ha",
+        "union",
+        "enter",
+        "valid"
+      ],
+      "topic_weights": [
+        98.96599943800824,
+        41.33160077610349,
+        40.56639656761854,
+        39.85071632212474,
+        39.53054622355936,
+        35.492567165291455,
+        34.07310379697644,
+        33.347103566104046,
+        32.76000589136527,
+        32.322001254651155,
+        28.650001179763816,
+        27.532346105192907,
+        23.56355145903479,
+        17.92864469678707,
+        17.681644258634055
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "court",
+        "law",
+        "state",
+        "supreme",
+        "wa",
+        "health",
+        "ha",
+        "justice",
+        "case",
+        "circuit",
+        "appeal",
+        "judge",
+        "gorsuch",
+        "trump",
+        "phone"
+      ],
+      "topic_weights": [
+        463.5858714578894,
+        170.9294318240459,
+        161.35276865768967,
+        159.66447616791632,
+        146.8558659299153,
+        117.45139656639329,
+        110.52210795540834,
+        109.56253335839435,
+        105.6877828014045,
+        89.26691740802939,
+        84.99938805197777,
+        79.54609471239789,
+        75.15228049620453,
+        74.25723749945674,
+        64.18340541276203
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 26,
+    "0": 52,
+    "2": 76,
+    "3": 9,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Illustrated | Spencer Platt/Getty Images True reproductive freedom is not just about birth control and abortion. It also necessitates a welfare state that allows families and single women to have the ...",
+        "upvotes": 2,
+        "url": "http://theweek.com/articles/775752/right-raise-family-without-going-broke"
+      },
+      {
+        "preview": "Select this reward You'll receive a shout-out on social media and exclusive backer updates throughout the campaign. By pledging you agree to Kickstarter's Terms of Use, Privacy Policy, and Cookie Poli...",
+        "upvotes": 0,
+        "url": "http://kck.st/2JZlvMP"
+      },
+      {
+        "preview": "Watch CBSN Live June 1, 2018 / 7:45 AM / CBS News A Georgia couple who says they gave their son marijuana to treat his seizures, is fighting to regain custody of him. The state took custody of Matthew...",
+        "upvotes": 6,
+        "url": "https://www.cbsnews.com/news/georgia-couple-loses-custody-of-15-year-old-son-after-giving-him-marijuana-for-seizures/?ftag=CNM-00-10aac3a"
+      }
+    ],
+    "1": [
+      {
+        "preview": "held are barely a step above a prison camp, complete with chain-link fences holding them in, mattresses and foil blankets for sleeping, and communal living. The border patrol agents running these plac...",
+        "upvotes": 1,
+        "url": "https://socialnewsdaily.com/71493/what-history-teaches-us-about-child-displacement/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Supported by By Paul Krugman Opinion Columnist On Wednesday, Virginia’s legislature voted to expand Medicaid, accepting a key piece of the Affordable Care Act. Around 400,000 people will...",
+        "upvotes": 4,
+        "url": "https://www.nytimes.com/2018/05/31/opinion/republicans-health-care.html"
+      },
+      {
+        "preview": "Discussions of LGBT rights at the United Nations have included resolutions and joint statements in the United Nations General Assembly and the United Nations Human Rights Council (UNHRC), attention to...",
+        "upvotes": 1,
+        "url": "https://en.wikipedia.org/wiki/LGBT_rights_at_the_United_Nations"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved President TrumpDonald TrumpThe Memo: Biden comes out punching on COVID-19 Ex-Kansas state rep charged with fraud of more than 0K in COVID-19 relief m...",
+        "upvotes": 277,
+        "url": "http://thehill.com/opinion/campaign/390218-trump-war-against-mueller-will-make-dem-midterm-turnout-soar"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Consensual and legal sex workers’ lives have been upended since the United States Congress passed a bill with the stated intention of helping trafficked persons in the sex trade - and it’s also made i...",
+        "upvotes": 154,
+        "url": "https://broadly.vice.com/en_us/article/a3aj3k/congress-attacked-sex-workers-now-we-need-you-to-stand-with-us"
+      },
+      {
+        "preview": "Niall Ferguson’s leaked emails show what’s really going on in the campus free speech fight. The latest campus free speech controversy has a twist: It involves a conservative professor conspiring with ...",
+        "upvotes": 10,
+        "url": "https://www.vox.com/policy-and-politics/2018/6/1/17417042/niall-ferguson-stanford-emails"
+      },
+      {
+        "preview": "Your browser does not support the <audio> element. Enjoy more audio and podcasts on iOS or Android. “IT’S just not going to happen,” said Troy Taylor, the boss of a Coca Cola bottling company, when as...",
+        "upvotes": 6,
+        "url": "https://www.economist.com/finance-and-economics/2018/06/02/if-wages-are-to-rise-workers-need-more-bargaining-power"
+      }
+    ],
+    "4": [
+      {
+        "preview": "In the days since Neil Gorsuch issued his opinion in in Epic Systems v. Lewis — which will allow employers to force their workers to sign away many of their legal rights under pain of termination — th...",
+        "upvotes": 17,
+        "url": "https://thinkprogress.org/meet-the-big-winners-in-neil-gorsuchs-america-c07e1f7a7e23/"
+      },
+      {
+        "preview": "Chris Kleponis/ZUMA President Donald Trump has yet to comment on a devastating new study published by Harvard researchers this week estimating that 4,645 people died in Puerto Rico after Hurricane Mar...",
+        "upvotes": 40,
+        "url": "https://www.motherjones.com/politics/2018/06/trump-puerto-rico-hurricane-maria-still-bragging/"
+      },
+      {
+        "preview": "A Montgomery crime sweep this week that netted 15 arrests on federal gun charges is part of a national push, spearheaded by U.S. Attorney General Jeff Sessions, to reinvigorate a Bush-era crime progra...",
+        "upvotes": 1,
+        "url": "https://www.montgomeryadvertiser.com/story/news/crime/2018/03/23/were-coming-after-you-gun-arrests-part-national-initiative/452647002/"
+      }
+    ]
+  }
+}

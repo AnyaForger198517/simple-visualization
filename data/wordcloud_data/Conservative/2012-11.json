@@ -1,0 +1,36 @@
+{
+  "month": "2012-11",
+  "total_articles": 105,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Racial and Political Identity in America",
+      "core_keywords": ["black", "white", "obama", "president", "american", "democrat", "romney"],
+      "importance_ratio": 0.1810
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Federal-State Governance and National Unity",
+      "core_keywords": ["state", "government", "federal", "secession", "constitution", "war", "union"],
+      "importance_ratio": 0.1524
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2012 Election Results and Party Dynamics",
+      "core_keywords": ["obama", "romney", "election", "vote", "president", "republican", "voter"],
+      "importance_ratio": 0.3238
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Benghazi Incident and National Security",
+      "core_keywords": ["benghazi", "attack", "security", "military", "obama", "election", "marine"],
+      "importance_ratio": 0.1143
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Tax Policy and Economic Regulation",
+      "core_keywords": ["tax", "rate", "income", "gun", "crime", "republican", "business"],
+      "importance_ratio": 0.2286
+    }
+  ]
+}

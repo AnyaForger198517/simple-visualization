@@ -1,0 +1,275 @@
+{
+  "month": "2012-08",
+  "total_articles": 118,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "poverty",
+        "edelman",
+        "income",
+        "ha",
+        "child",
+        "million",
+        "wa",
+        "question",
+        "life",
+        "job",
+        "low",
+        "family",
+        "mississippi",
+        "obama",
+        "policy"
+      ],
+      "topic_weights": [
+        364.7605823860448,
+        191.66278562465618,
+        142.11388666283585,
+        123.91217314063718,
+        118.3199422503858,
+        101.48549539174402,
+        96.3909839466667,
+        94.55609932264036,
+        92.59495831936664,
+        90.52580307239897,
+        90.47126562688503,
+        90.20110076760557,
+        69.35983074436975,
+        64.50358409145161,
+        63.95781875206793
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "wa",
+        "ha",
+        "voter",
+        "law",
+        "public",
+        "america",
+        "american",
+        "org",
+        "drug",
+        "policy",
+        "program",
+        "support",
+        "right",
+        "political"
+      ],
+      "topic_weights": [
+        305.611441344222,
+        289.556269783807,
+        287.48126936311064,
+        179.10761034891735,
+        170.13739826320062,
+        160.407380256988,
+        144.379606856285,
+        143.0257272366158,
+        129.86453132866004,
+        117.78356871648369,
+        114.04362993085219,
+        110.12413099949241,
+        109.05531374089415,
+        107.25282316631773,
+        106.97457638171407
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "romney",
+        "wa",
+        "ha",
+        "ryan",
+        "tax",
+        "obama",
+        "christian",
+        "american",
+        "post",
+        "political",
+        "republican",
+        "president",
+        "conservative",
+        "america",
+        "party"
+      ],
+      "topic_weights": [
+        393.7674308008768,
+        385.237611766689,
+        282.6162550633134,
+        256.9822120307405,
+        177.37573477992203,
+        173.4846532395318,
+        159.9598475783007,
+        144.09872042288734,
+        142.76612358415127,
+        142.35796290635673,
+        138.96013402680177,
+        131.18060979401966,
+        124.2627683565873,
+        123.39268294802805,
+        120.18612554118374
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "akin",
+        "platform",
+        "republican",
+        "rape",
+        "ryan",
+        "liberal",
+        "romney",
+        "abortion",
+        "ha",
+        "schlafly",
+        "life",
+        "todd",
+        "woman",
+        "distance",
+        "gop"
+      ],
+      "topic_weights": [
+        351.40381688665553,
+        229.58098830089003,
+        213.96129315814767,
+        180.70872547384178,
+        165.26450241560713,
+        156.47420485742026,
+        145.28517013646615,
+        125.95544407390439,
+        111.58241172606047,
+        103.69922130932301,
+        98.32426926085166,
+        91.16575606803174,
+        89.13968543262126,
+        88.01410779019773,
+        85.77540312078474
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "gun",
+        "nra",
+        "obama",
+        "industry",
+        "wa",
+        "state",
+        "control",
+        "law",
+        "weapon",
+        "house",
+        "million",
+        "lobby",
+        "crime",
+        "sale",
+        "right"
+      ],
+      "topic_weights": [
+        2201.1286904109484,
+        971.2477142244667,
+        352.8954773646286,
+        294.5602497661344,
+        284.73775562747585,
+        255.20518834595526,
+        225.04930554394775,
+        209.0428452785882,
+        198.24555197890368,
+        197.26768496190462,
+        196.19712822887072,
+        194.43051139526528,
+        191.8315031998157,
+        183.54955771664623,
+        169.1006342246995
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 38,
+    "2": 70,
+    "0": 2,
+    "4": 2,
+    "3": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": " Staff Members of the Dolan family walk home with bags of food from the Southern Tier Mobile Food Pantry in Oswego, N.Y., in June. Food banks across the nation are reporting giant spikes in demand. Sp...",
+        "upvotes": 8,
+        "url": "http://www.npr.org/2012/08/04/158141728/how-americas-losing-the-war-on-poverty"
+      },
+      {
+        "preview": "st in 1965; Eastern Kentucky, where the children of former coal miners were going hungry because the mines had closed; and the fields of Delano, in California’s San Joaquin valley, where migrant farmw...",
+        "upvotes": 10,
+        "url": "http://www.thenation.com/blog/169319/talk-about-poverty-tap-peter-edelmans-questions-obama-and-romney"
+      }
+    ],
+    "1": [
+      {
+        "preview": "By Jeb. Monday, July 30 2012 Economic Fairness | Eye-Opening | Hyatt | jobs | labor | Nonpartisan | Unions | videos It’s about time these women got some respect. For more information about the Hyatt b...",
+        "upvotes": 61,
+        "url": "http://front.moveon.org/eight-hotel-workers-made-a-powerful-video-that-hyatt-is-probably-freaking-out-about/"
+      },
+      {
+        "preview": "Advertisement Supported by Man in the News| Rafael Edward Cruz By Erik Eckholm HOUSTON — As a teenager, Ted Cruz was an intense and eloquent parser of free-market economics, dazzling Rotary Clubs here...",
+        "upvotes": 0,
+        "url": "http://www.nytimes.com/2012/08/02/us/politics/republican-senate-candidate-in-texas-is-known-as-an-intellectual-force.html"
+      },
+      {
+        "preview": "Welcome, Locking up the innocent. Arresting his critics. Racial profiling. Meet America’s meanest and most corrupt politician. Reporter Joe Arpaio with detainees at his Tent City, which has been slapp...",
+        "upvotes": 89,
+        "url": "http://www.rollingstone.com/culture/news/the-long-lawless-ride-of-sheriff-joe-arpaio-20120802"
+      }
+    ],
+    "2": [
+      {
+        "preview": "bout Gore’s piece. Carter replied, “What do you think we are? It’s The Nation, not the Jewish Federation Newsletter.” Victor called that “passing the Gore test.” Gore was glorious before live audience...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/blog/169182/remembering-gore-vidal"
+      },
+      {
+        "preview": "Yesterday, Mitt Romney blamed his embarrassing week abroad on the media. \"I realize,\" Romney said, \"that there will be some in the Fourth Estate, or whichever estate, [ed. note: apparently Mitt has tr...",
+        "upvotes": 22,
+        "url": "http://www.dailykos.com/story/2012/08/01/1115684/-Even-Republicans-say-Romney-wasn-t-prepared-to-handle-his-overseas-trip"
+      },
+      {
+        "preview": "This is not the same as affordable birth control.<a  Foran</a>/Flickr According to Rep. Mike Kelly (R-Pa.), today is a day akin to 9/11 and the Japanese surprise attack on Pearl Harbor. No, really. “I...",
+        "upvotes": 60,
+        "url": "http://www.motherjones.com/mojo/2012/08/free-birth-control-day-not-all-911"
+      }
+    ],
+    "3": [
+      {
+        "preview": "”You keep using that word, I do not think it means what you think it means.” -- Inigo Montoya, The Princess Bride 1) Being Open Minded: To a liberal, this has nothing at all to do with seriously consi...",
+        "upvotes": 1,
+        "url": "http://townhall.com/columnists/johnhawkins/2012/07/31/10_concepts_liberals_talk_about_incessantly_but_dont_understand/page/full/"
+      },
+      {
+        "preview": "The Missouri Republican's decision to stay in the race hurts the GOP at all levels, from Missouri to the national ticket. \"We are going to continue with this race for the U.S. Senate,\" Rep. Todd Akin ...",
+        "upvotes": 10,
+        "url": "http://www.theatlantic.com/politics/archive/2012/08/why-todd-akin-isnt-dropping-out-and-what-it-means/261398/"
+      },
+      {
+        "preview": "By now you’ve likely heard -- and perhaps felt your jaw drop over -- Todd Akin’sinterview, in which the Republican Senate candidate from Missouri admitted that he believes abortion should be illegal e...",
+        "upvotes": 35,
+        "url": "http://www.alternet.org/8-worst-things-republicans-have-said-about-rape-sex-and-womens-bodies?paging=off"
+      }
+    ],
+    "4": [
+      {
+        "preview": "As the country reels from two mass shootings in two weeks, meaningful gun restrictions feel as far away as ever. By signing up, you confirm that you are over the age of 16 and agree to receive occasio...",
+        "upvotes": 3,
+        "url": "http://www.thenation.com/article/169295/gun-control-dream"
+      },
+      {
+        "preview": "islative updates on its homepage. Crimson Trace, which makes laser sights, calls itself “an NRA company” and donates 10 percent from each sale to the association. An NRA Golden Ring of Freedom honors ...",
+        "upvotes": 29,
+        "url": "http://www.thenation.com/article/169518/how-gun-industry-got-rich-stoking-fear-about-obama"
+      }
+    ]
+  }
+}

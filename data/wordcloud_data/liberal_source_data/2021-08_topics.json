@@ -1,0 +1,285 @@
+{
+  "month": "2021-08",
+  "total_articles": 47,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "cuomo",
+        "wa",
+        "governor",
+        "state",
+        "report",
+        "woman",
+        "attorney",
+        "ha",
+        "office",
+        "york",
+        "investigation",
+        "general",
+        "harassment",
+        "tuesday",
+        "did"
+      ],
+      "topic_weights": [
+        245.51907183864506,
+        123.23223589430931,
+        115.77347986225851,
+        114.38185009233052,
+        101.19070313513072,
+        81.89861427176257,
+        74.12724008120854,
+        71.13636565350161,
+        68.69330458465473,
+        64.8306514088554,
+        64.386199390532,
+        58.358080034024134,
+        43.408580213406914,
+        38.311257890316014,
+        37.795255843075346
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "vaccine",
+        "ha",
+        "state",
+        "facebook",
+        "election",
+        "county",
+        "post",
+        "case",
+        "covid",
+        "company",
+        "president",
+        "medium",
+        "report",
+        "trump"
+      ],
+      "topic_weights": [
+        88.19334439835202,
+        67.95814752715008,
+        57.90046834570917,
+        51.64884204068056,
+        49.87415519821624,
+        44.886519594145724,
+        44.731638696465,
+        42.84960585209166,
+        42.59911980203853,
+        41.41086297948104,
+        36.39406251044092,
+        36.082505187492174,
+        29.92616197038314,
+        29.065852318883373,
+        28.78810591058506
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "email",
+        "valid",
+        "jones",
+        "mother",
+        "stock",
+        "mensah",
+        "love",
+        "country",
+        "today",
+        "american",
+        "gold",
+        "ha",
+        "donation",
+        "privacy",
+        "policy"
+      ],
+      "topic_weights": [
+        27.937174877931056,
+        24.32700357306866,
+        19.344107607525004,
+        18.835131993800182,
+        13.204886960102446,
+        13.16130021737158,
+        13.090435881173526,
+        12.480989164533458,
+        10.479593481696236,
+        10.426574139397292,
+        9.707184728415486,
+        9.163071612169036,
+        9.064126681235075,
+        8.835989432685922,
+        8.71856602986795
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "election",
+        "wa",
+        "republican",
+        "ha",
+        "president",
+        "candidate",
+        "voter",
+        "state",
+        "jan",
+        "gop",
+        "house",
+        "conspiracy",
+        "political",
+        "vote"
+      ],
+      "topic_weights": [
+        191.75600183390674,
+        102.79585853693935,
+        58.372893037163344,
+        57.199739706570725,
+        50.99413077240219,
+        50.818143264013884,
+        35.17277730563151,
+        34.081360487593486,
+        33.25409690881044,
+        32.73204264103337,
+        32.562067968196054,
+        28.952222263211752,
+        24.963846027605385,
+        23.47142731146893,
+        21.722573304954295
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "vote",
+        "senate",
+        "house",
+        "democrat",
+        "american",
+        "biden",
+        "party",
+        "act",
+        "democratic",
+        "conservative",
+        "republican",
+        "administration"
+      ],
+      "topic_weights": [
+        68.41858977231934,
+        64.47497387199397,
+        39.15681865276998,
+        38.90638109260134,
+        37.466326548659616,
+        30.844558449218066,
+        29.91528079783146,
+        28.308133177678567,
+        28.229397598579133,
+        25.35013252271274,
+        24.44967906983904,
+        24.34365528727461,
+        24.163735926477404,
+        23.990997981180243,
+        23.867420534217707
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 8,
+    "3": 14,
+    "0": 5,
+    "4": 13,
+    "2": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "WASHINGTON (AP) — The Russian hackers behind the massive SolarWinds cyberespionage campaign broke into the email accounts of some of the most prominent federal prosecutors’ offices around the country ...",
+        "upvotes": 8,
+        "url": "https://apnews.com/article/technology-europe-russia-election-2020-5486323e455277b39cd3283d70a7fd64"
+      },
+      {
+        "preview": "Deepa Shivaram New York City has started the Behavioral Health Emergency Assistance Response Division, or B-HEARD, to provide more targeted care for those struggling with mental health issues. Here in...",
+        "upvotes": 78,
+        "url": "https://www.npr.org/2021/07/23/1019704823/police-mental-health-crisis-calls-new-york-city"
+      },
+      {
+        "preview": "Donald Trump’s former personal attorney Rudy Giuliani is almost broke and Trump doesn’t seem to care all that much, sources have told The New York Times. Giuliani is currently struggling under a mount...",
+        "upvotes": 428,
+        "url": "https://www.huffpost.com/entry/rudy-giuliani-trump-legal-fees-stiffed-dominion-lawsuit_n_61074e92e4b0d3b5897efc5c"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Daily Distortions Times reporters will chronicle and debunk false and misleading information that is going viral online. By Davey Alba Follow our latest updates on the California Recall Election and G...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#social-media-anti-semitism"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since A conservative talk-show host who downplayed the coronavirus has contracted a severe COVID-19 infec...",
+        "upvotes": 470,
+        "url": "https://www.businessinsider.com/conservative-radio-host-downplayed-vaccines-on-oxygen-machine-2021-7"
+      },
+      {
+        "preview": "Maricopa County ballots cast in the 2020 general election are being examined and recounted by contractors working for Florida-based company Cyber Ninjas at Veterans Memorial Coliseum in Phoenix. Maric...",
+        "upvotes": 31,
+        "url": "https://tucson.com/news/local/maricopa-county-dominion-voting-systems-defy-new-arizona-senate-subpoenas/article_76d05bf8-f3b5-11eb-8690-8b0a518f50e3.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Matias J. Ocner/ZUMA Having raised more money than anyone else in the Republican Party so far this year, new filings show Donald Trump is flush with cash. Absolutely swimming in it. But even as the mo...",
+        "upvotes": 813,
+        "url": "https://www.motherjones.com/politics/2021/08/rudy-giuliani-broke-trump-fundraising-legal-bills/"
+      },
+      {
+        "preview": " the type of journalism 2021 demands. Mother Jones was founded as a nonprofit in 1976 because we knew corporations and billionaire owners wouldn't fund the type of hard-hitting journalism we set out t...",
+        "upvotes": 2,
+        "url": "https://www.motherjones.com/politics/2021/08/will-this-court-case-end-the-mining-industrys-150-year-dominance-of-the-west/"
+      },
+      {
+        "preview": "Your donation matters In the rare case something isn’t right, we will work with you to determine if misuse occurred. Hello everyone, im starting this of by thanking each and every single one of you bl...",
+        "upvotes": 3,
+        "url": "https://gofund.me/e200d218"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Former White House Chief of Staff Mark Meadows still believes there is hope for TrumpWorld to progress. On Friday, July 29, Meadows appeared on Newsmax where he offered some details about Trump's poli...",
+        "upvotes": 20,
+        "url": "https://www.alternet.org/2021/07/mark-meadows-trump-2024/"
+      },
+      {
+        "preview": "Advertisement Supported by Maureen Dowd By Maureen Dowd Opinion Columnist WASHINGTON — It was, I must admit, a virtuoso performance by Sean Hannity. Not since the sheriff in “Blazing Saddles” put a gu...",
+        "upvotes": 7,
+        "url": "https://www.nytimes.com/2021/07/31/opinion/republicans-police-capitol-riot-trump.html"
+      },
+      {
+        "preview": "A citizens watchdog organization has called for a federal criminal investigation into former President Donald Trump’s suspected “weaponization” of the Justice Department in an attempt to seize control...",
+        "upvotes": 386,
+        "url": "https://www.huffpost.com/entry/crew-merrick-garland-investigation-trump-weaponize-justice-department_n_610603bde4b0048f361e0715"
+      }
+    ],
+    "4": [
+      {
+        "preview": "George Carlin once said, “Think of how stupid the average person is, and realize half of them are stupider than that”. And it’s true. You, yes our lovely reader, are another random average person of t...",
+        "upvotes": 2,
+        "url": "https://demlotteries.substack.com/p/normal-people-are-stupid-stop-democratic"
+      },
+      {
+        "preview": "The Associated Press People from a coalition of housing justice groups hold signs protesting evictions during a news conference outside the Statehouse on Friday in Boston. Michael Dwyer/AP hide captio...",
+        "upvotes": 99,
+        "url": "https://www.npr.org/2021/08/01/1023581861/pelosi-democrats-call-on-biden-to-extend-eviction-ban"
+      },
+      {
+        "preview": "New research from the Pew Research Center shows how the idea that raising the minimum wage being a radical idea is nothing short of a misconception. 62% of US adults say they favor raising the federal...",
+        "upvotes": 1,
+        "url": "https://www.promethean.news/news/90-of-americans-support-raising-the-minimum-wage"
+      }
+    ]
+  }
+}

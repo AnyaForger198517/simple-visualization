@@ -1,0 +1,285 @@
+{
+  "month": "2020-08",
+  "total_articles": 113,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "conservative",
+        "trump",
+        "woman",
+        "news",
+        "company",
+        "player",
+        "statement",
+        "officer",
+        "nra",
+        "liberal",
+        "combat",
+        "law",
+        "infantry"
+      ],
+      "topic_weights": [
+        133.42662767157472,
+        66.36386605035796,
+        58.374215803337904,
+        49.69275429160728,
+        44.88842596300362,
+        41.440460192407805,
+        38.34941544939329,
+        35.32599134928731,
+        32.38135389738233,
+        31.70956329491465,
+        29.7224641920185,
+        29.680258351943063,
+        29.57672528593436,
+        29.171865203515416,
+        27.034558395525316
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "health",
+        "public",
+        "state",
+        "department",
+        "service",
+        "local",
+        "wa",
+        "county",
+        "postal",
+        "worker",
+        "ha",
+        "mail",
+        "pandemic",
+        "federal",
+        "spending"
+      ],
+      "topic_weights": [
+        513.6574530244181,
+        297.78180272866103,
+        269.1582460165484,
+        258.74943615398354,
+        141.54941286954633,
+        127.17511082934429,
+        118.79328964521066,
+        109.06213840804173,
+        104.07907468866875,
+        103.80067825469355,
+        99.24648471939412,
+        84.02681547334875,
+        79.9757105106021,
+        79.04693367650228,
+        71.9375035695155
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "trump",
+        "country",
+        "ha",
+        "american",
+        "white",
+        "president",
+        "state",
+        "government",
+        "life",
+        "work",
+        "history",
+        "america",
+        "child",
+        "policy"
+      ],
+      "topic_weights": [
+        212.90527880148142,
+        187.45866301544382,
+        146.73820747679054,
+        142.3094724217446,
+        130.36935971505048,
+        101.4009551187697,
+        95.8505996339747,
+        92.61759017097138,
+        82.66828144893633,
+        72.26906960589504,
+        62.53748577746773,
+        58.093806520896266,
+        57.83984886520702,
+        57.13965172060509,
+        55.898043755400515
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "election",
+        "trump",
+        "vote",
+        "state",
+        "voter",
+        "mail",
+        "ballot",
+        "ha",
+        "biden",
+        "republican",
+        "voting",
+        "tiktok",
+        "president",
+        "wa",
+        "electoral"
+      ],
+      "topic_weights": [
+        176.6718724485732,
+        167.1296261289569,
+        120.8330285824653,
+        116.35712752016902,
+        107.73001414559768,
+        86.11820606200547,
+        84.93063922126443,
+        72.6268998025309,
+        65.08802611653552,
+        62.679613202270666,
+        62.34912973998418,
+        48.999809599862864,
+        40.70734153617491,
+        36.355382641650486,
+        34.71547517769951
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "biden",
+        "president",
+        "harris",
+        "ha",
+        "republican",
+        "campaign",
+        "party",
+        "state",
+        "democratic",
+        "election",
+        "american",
+        "political",
+        "joe"
+      ],
+      "topic_weights": [
+        326.1827061213705,
+        219.60134928281568,
+        210.40452959455112,
+        189.9760086601566,
+        146.83223765671198,
+        143.30331505320652,
+        122.07632986273056,
+        120.46439734533675,
+        111.92516585462177,
+        88.45895870998321,
+        78.75496996096439,
+        77.04406886721392,
+        69.18220149198129,
+        66.9551433828102,
+        63.96466190133287
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 42,
+    "0": 21,
+    "3": 18,
+    "2": 23,
+    "1": 9
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "James Murdoch resigned Friday from the board of News Corp, effective immediately, due to \"disagreements over certain editorial content\" published by the company’s news outlets, which include The Wall ...",
+        "upvotes": 6,
+        "url": "https://www.usatoday.com/story/money/2020/07/31/james-murdoch-resigns-news-corp-editorial-content/5559450002/"
+      },
+      {
+        "preview": "There has been much talk of late about Donald Trump and the law. In addition to his regular threats to sue Ted Cruz, LawNewz.com discovered Trump has been named as a plaintiff and defendant in at leas...",
+        "upvotes": 1,
+        "url": "https://lawandcrime.com/high-profile/exclusive-inside-the-donald-trump-sexual-assault-lawsuit/"
+      },
+      {
+        "preview": "A group of students at the University of Illinois at Urbana-Champaign signed a letter of demands to the Federalist Society chapter at the university after the chapter stated it would remain neutral on...",
+        "upvotes": 0,
+        "url": "https://www.campusreform.org/?ID=15311"
+      }
+    ],
+    "1": [
+      {
+        "preview": "LITTLE ROCK, Ark. (AP) — Arkansas is requiring schools to stay open five days a week when classes resume this month, state education officials said Wednesday, complicating efforts by some districts to...",
+        "upvotes": 1,
+        "url": "https://apnews.com/fc9d292679c2619ff0c331703b9f76c4"
+      },
+      {
+        "preview": "imes, the federal government has promised to support local public health efforts, to help prevent similar calamities. But those promises were ephemeral. Two large sources of money established after Se...",
+        "upvotes": 1,
+        "url": "https://khn.org/news/us-public-health-system-underfunded-under-threat-faces-more-cuts-amid-covid-pandemic/"
+      },
+      {
+        "preview": "Economic Indicators | Jobs and Unemployment Economic Indicators • By Elise Gould • August 7, 2020 Today’s jobs report from the Bureau of Labor Statistics shows three months in a row of payroll employm...",
+        "upvotes": 6,
+        "url": "https://www.epi.org/press/the-bounceback-deflates-job-gains-slow-considerably-in-july/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "In his quest for reelection, President Donald Trump has gone hunting for demons. Federal law enforcement officers entered cities including Portland, Oregon; Chicago; Kansas City, Missouri; and Albuque...",
+        "upvotes": 1,
+        "url": "https://www.huffpost.com/entry/donald-trump-portland-american-repression_n_5f231c9cc5b68fbfc8809a1d"
+      },
+      {
+        "preview": "This article is more than 1 year old Lt. Col. Alexander Vindman (Ret.), a career U.S. Army officer, served on the National Security Council as the director for Eastern European, Caucasus and Russian a...",
+        "upvotes": 192,
+        "url": "https://www.washingtonpost.com/opinions/2020/08/01/alexander-vindman-retiring-oped/#click=https://t.co/BcrhI9bUWP"
+      },
+      {
+        "preview": " and pious platitudes. This was the reason for my opposition to Communism then — and it is my reason now.” “I am still a little astonished, at times, that too many adult Americans do not understand th...",
+        "upvotes": 0,
+        "url": "https://www.lifeinnorway.net/scandinavian-socialism/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The US general manager of TikTok has said the Chinese-owned video-sharing app is \"here for the long run\", after President Donald Trump said he would ban it in the US. Vanessa Pappas told TikTok users ...",
+        "upvotes": 1,
+        "url": "https://www.bbc.com/news/world-us-canada-53622799"
+      },
+      {
+        "preview": "Biden’s lead in the polls has Democrats searching for what could possibly go wrong. But some worries should be taken less seriously than others. Just about every Democrat I know wants to punish him/he...",
+        "upvotes": 1,
+        "url": "https://weeklysift.com/2020/08/03/the-election-worry-or-dont-worry/"
+      },
+      {
+        "preview": "Singer-songwriter discusses her new covers collaboration with The Parkington Sisters ﻿Listen via Apple Podcasts | Spotify | Google Play | Stitcher | Radio Public | RSSTanya Donelly speaks with Kyle Me...",
+        "upvotes": 1,
+        "url": "https://consequenceofsound.net/2020/08/kyle-meredith-with-tanya-donelly/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by Pro-democracy politicians, who had hoped to ride widespread discontent to big gains in the fall, saw the yearlong delay as an attempt to thwart their momentum. By Austin Ram...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/07/31/world/asia/hong-kong-election-delayed.html"
+      },
+      {
+        "preview": "Advertisement Supported by The six-day pause was ordered by the president’s new campaign manager, Bill Stepien. By Nick Corasaniti, Annie Karni and Shane Goldmacher Since Joseph R. Biden Jr. became th...",
+        "upvotes": 403,
+        "url": "https://www.nytimes.com/2020/07/31/us/politics/trump-campaign-tv-advertising.html"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. So much for Democratic enthusiasm for Joe Biden. A co-chair of Bernie Sanders’ presidential campaign vividly described how she feels about cho...",
+        "upvotes": 1,
+        "url": "https://nypost.com/2020/07/27/sanders-co-chair-voting-for-biden-like-eating-half-a-bowl-of-s-t/"
+      }
+    ]
+  }
+}

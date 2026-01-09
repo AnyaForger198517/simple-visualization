@@ -1,0 +1,285 @@
+{
+  "month": "2019-11",
+  "total_articles": 107,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "aba",
+        "question",
+        "fair",
+        "trump",
+        "president",
+        "did",
+        "gay",
+        "claim",
+        "committee",
+        "nominee",
+        "public",
+        "vandyke",
+        "housing"
+      ],
+      "topic_weights": [
+        244.66339813360642,
+        119.29741834788499,
+        115.59083454944133,
+        109.04043321281294,
+        101.3783121999712,
+        97.30862508235303,
+        95.43232971407578,
+        80.92683094037123,
+        61.63118272555299,
+        60.64387772094578,
+        60.44050011865114,
+        59.01539379195739,
+        58.992826533302136,
+        57.77204451503503,
+        56.82313691946719
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "president",
+        "morale",
+        "country",
+        "conservative",
+        "support",
+        "government",
+        "biden",
+        "secretary",
+        "state",
+        "republican",
+        "american",
+        "medium"
+      ],
+      "topic_weights": [
+        123.2818334118137,
+        62.90567128843577,
+        60.15500435116888,
+        48.920054779926716,
+        37.5087823643291,
+        35.918557268868895,
+        34.844549281693915,
+        33.58959137367113,
+        29.374822116561667,
+        29.25685983964256,
+        29.209685801686483,
+        29.147256604459564,
+        29.13944820835514,
+        28.11341935269909,
+        26.67073864725455
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "president",
+        "ha",
+        "state",
+        "wa",
+        "democrat",
+        "impeachment",
+        "house",
+        "percent",
+        "election",
+        "biden",
+        "china",
+        "republican",
+        "democratic",
+        "voter"
+      ],
+      "topic_weights": [
+        315.54854479438904,
+        159.58510265553008,
+        124.2812479291599,
+        112.87666280756135,
+        110.2588730018925,
+        103.99297246372045,
+        94.975803196077,
+        90.62696521871213,
+        80.42746245389866,
+        67.10111962763665,
+        65.65429562810112,
+        56.29540174917888,
+        47.913912821399144,
+        47.51624902568482,
+        47.43683822973004
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "tax",
+        "wa",
+        "ha",
+        "labour",
+        "warren",
+        "life",
+        "plan",
+        "woman",
+        "home",
+        "pay",
+        "abortion",
+        "million",
+        "black",
+        "income",
+        "hill"
+      ],
+      "topic_weights": [
+        98.41562798377103,
+        86.12164117520675,
+        54.32810549269681,
+        45.58169396761575,
+        39.295179809227456,
+        33.78142875563811,
+        31.947138303611794,
+        30.781527263877322,
+        29.8955507658532,
+        29.616555444752542,
+        28.201825375731776,
+        27.580746851804417,
+        26.81542505649187,
+        26.264247724369365,
+        23.917091509401626
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "school",
+        "student",
+        "wa",
+        "white",
+        "board",
+        "book",
+        "ha",
+        "college",
+        "parent",
+        "child",
+        "county",
+        "conservative",
+        "state",
+        "told",
+        "change"
+      ],
+      "topic_weights": [
+        89.1585438258532,
+        83.97503839746612,
+        51.09505412529426,
+        42.8278008293379,
+        40.57302281977742,
+        34.25958668442143,
+        33.008699176913225,
+        31.729969656046023,
+        31.213942280993976,
+        29.59050933954001,
+        27.25388826028414,
+        26.822980204223903,
+        24.217434035906898,
+        21.857767774306204,
+        21.021370319886913
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 37,
+    "0": 27,
+    "4": 12,
+    "3": 13,
+    "1": 18
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sign In Justices unanimously rule that group bringing the case did not have standing to sue Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 v...",
+        "upvotes": 147,
+        "url": "https://www.washingtontimes.com/news/2019/oct/31/kentucky-supreme-court-rules-in-favor-of-christian/"
+      },
+      {
+        "preview": "ified” response. Lazy, arrogant, lacks judicial temprament, DOES NOT KNOW HOW TO NAVIGATE COURTROOM PROCESSES. Jesus, Armchair. How many disqualifying characteristics do you need to stop supporting on...",
+        "upvotes": 15,
+        "url": "https://reason.com/2019/10/30/judicial-nominees-should-only-meet-with-aba-investigators-if-a-court-reporter-is-present/"
+      },
+      {
+        "preview": "Army Lieutenant Colonel Alexander Vindman, a military officer at the National Security Council, center, arrives on Capitol Hill in Washington, Tuesday, Oct. 29, 2019, to appear before a House Committe...",
+        "upvotes": 13,
+        "url": "https://www.redstate.com/nick-arama/2019/11/03/trump-tidbit-there-may-be-more-coming-on-vindman/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Source: AP Photo/Seth Wenig New York Gov. Andrew Cuomo (D) once told conservative pro-lifers that they weren't real New Yorkers. The list of true New Yorkers is getting pretty slim after Cuomo just di...",
+        "upvotes": 1,
+        "url": "https://townhall.com/tipsheet/cortneyobrien/2019/11/01/andrew-cuomo-tries-to-explain-why-trump-was-never-a-new-yorker-n2555750"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News The nine U.S. citizens who were killed in a brutal ambush by drug cartel gunmen Monday while traveling in Mexico belonged to a Mormon offshoot group ...",
+        "upvotes": 0,
+        "url": "https://www.google.com/amp/s/www.nbcnews.com/news/amp/ncna1076776"
+      },
+      {
+        "preview": "Source: AP Photo/Eduardo Verdugo, File Earlier this week, nine Americans made up of women and children were slaughtered while driving in Mexico. They were shot and burned alive, despite attempts to su...",
+        "upvotes": 100,
+        "url": "https://townhall.com/tipsheet/katiepavlich/2019/11/09/arizona-sheriff-mexican-cartels-should-be-in-the-same-category-as-isis-n2556022"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ADVERTISEMENT Update: Decision comes as GOP launches ad campaign on 'straw donor' scheme SHARE A Maine ethics panel found that House Speaker Sara Gideon violated campaign finance laws when she used a ...",
+        "upvotes": 9,
+        "url": "https://freebeacon.com/politics/collins-challenger-embroiled-in-ethics-controversy/"
+      },
+      {
+        "preview": "Rep. Adam Schiff, D-Calif., ranking member of the House Intelligence Committee, accompanied by House Minority Leader Nancy Pelosi of Calif. and other congress members speaks during a news conference o...",
+        "upvotes": 76,
+        "url": "https://www.redstate.com/brandon_morse/2019/10/31/poll-battleground-states-oppose-impeaching-trump-showing-dems-desperate-fight-ahead/"
+      },
+      {
+        "preview": "It has taken a long time, but finally the Justice Department is training its guns on what heretofore was unthinkable, unless you’re a career civil libertarian. It has taken a long time, but finally th...",
+        "upvotes": 3,
+        "url": "https://patriotpost.us/opinion/66456-the-bell-is-about-to-toll-2019-10-31"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Rep. Katie Hill (D-CA) is gone. Well, it’s not official until tomorrow, but she has resigned in disgrace after it was revealed that she was having an improper relationship with a subordinate. That’s u...",
+        "upvotes": 10,
+        "url": "https://townhall.com/tipsheet/mattvespa/2019/10/31/katie-hills-farewell-address-n2555689"
+      },
+      {
+        "preview": "A prominent abortionist who argued before the Supreme Court twice once kept on his desk a placard reading, “Even on my worst days, I’M KILLING IT.” Former Planned Parenthood Clinic Director Abby Johns...",
+        "upvotes": 8,
+        "url": "https://pjmedia.com/trending/even-on-my-worst-days-im-killing-it-prominent-abortionists-plaque-reads/"
+      },
+      {
+        "preview": "Source: AP Photo/Steve Helber Virginia Del. Kathy Tran was re-elected on Tuesday despite introducing perhaps the most radical piece of legislation in the state's history. Her bill, which she presented...",
+        "upvotes": 4,
+        "url": "https://townhall.com/tipsheet/cortneyobrien/2019/11/06/kathy-tran-wins-reelection-despite-radical-abortion-bill-controversy-n2555963"
+      }
+    ],
+    "4": [
+      {
+        "preview": "2020 US Election, Democratic party, ENEMY OF PEOPLE, Gun Control, gun rights, House Democrats, US News, WORLD NEWS Source: Adan Salazar | Infowars.com An irate woman angrily confronted Democrat Beto O...",
+        "upvotes": 50,
+        "url": "https://nworeport.me/2019/10/31/epic-woman-confronts-beto-at-town-hall-bring-it-on-were-not-taking-your-bullshit-anymore/"
+      },
+      {
+        "preview": "Screenshot Fox 45 Baltimore School systems across the country are seeking to abolish honors classes, teach how math has been used to oppress people, and let truant students into gifted schools. Advoca...",
+        "upvotes": 698,
+        "url": "https://dailycaller.com/2019/10/31/honors-classes-math-racist-activists/"
+      },
+      {
+        "preview": "Resources recently circulated at Evergreen State College appear to indicate that at its Writing Center proper grammar is not taught to students in the country illegally over sensitivity concerns. One ...",
+        "upvotes": 11,
+        "url": "https://www.thecollegefix.com/colleges-tutors-dont-correct-undocumented-students-grammar-just-give-culturally-sensitive-feedback/"
+      }
+    ]
+  }
+}

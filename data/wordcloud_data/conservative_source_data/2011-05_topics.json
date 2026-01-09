@@ -1,0 +1,285 @@
+{
+  "month": "2011-05",
+  "total_articles": 63,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "game",
+        "american",
+        "ha",
+        "wa",
+        "society",
+        "chinese",
+        "world",
+        "modern",
+        "war",
+        "country",
+        "china",
+        "soldier",
+        "state",
+        "man",
+        "america"
+      ],
+      "topic_weights": [
+        118.16043175564661,
+        71.76581823398809,
+        63.59502561681899,
+        58.90154758166114,
+        49.80032310404992,
+        48.215286642990925,
+        42.45897221680713,
+        41.06098145768361,
+        36.11072797253919,
+        33.22645315804083,
+        33.15575829766573,
+        32.05699511416605,
+        28.436517483668656,
+        27.85153215525191,
+        27.536935977031227
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "jones",
+        "war",
+        "wa",
+        "afghanistan",
+        "ha",
+        "congress",
+        "republican",
+        "house",
+        "iraq",
+        "state",
+        "end",
+        "military",
+        "american",
+        "man",
+        "obama"
+      ],
+      "topic_weights": [
+        347.943770475922,
+        264.5196040867615,
+        250.3676348265107,
+        176.95035819532416,
+        160.80011244190945,
+        126.70187604894667,
+        120.74923749596195,
+        97.84838223403798,
+        96.56483315439442,
+        91.82508811293386,
+        85.87951813860954,
+        81.61928582809921,
+        76.49832677609639,
+        75.33245748643769,
+        70.6059408825979
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "court",
+        "law",
+        "domain",
+        "police",
+        "justice",
+        "arizona",
+        "supreme",
+        "officer",
+        "state",
+        "indiana",
+        "home",
+        "kagan",
+        "ruling",
+        "illegal",
+        "business"
+      ],
+      "topic_weights": [
+        24.503588320098487,
+        19.583595628176358,
+        15.973784436129602,
+        13.782610237608877,
+        13.155974807161524,
+        9.695858509423143,
+        9.415143475587904,
+        9.153921843704321,
+        9.102300495758728,
+        8.074632339158741,
+        7.772373111479078,
+        7.523950142996393,
+        7.224193854480771,
+        6.149357603286696,
+        5.9917883778271595
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "obama",
+        "president",
+        "republican",
+        "ha",
+        "party",
+        "kahn",
+        "strauss",
+        "state",
+        "candidate",
+        "york",
+        "gingrich",
+        "gop",
+        "house",
+        "democrat"
+      ],
+      "topic_weights": [
+        74.57280518971261,
+        55.16504760309768,
+        50.615532248242324,
+        44.349337987067265,
+        40.76383587895183,
+        38.898696905337175,
+        33.16299945856476,
+        32.17450106240899,
+        31.410727794683815,
+        30.510307116247798,
+        25.193282415684788,
+        24.324237846607257,
+        23.53338183953,
+        23.22487129983923,
+        20.615058542915502
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "white",
+        "wa",
+        "ha",
+        "state",
+        "point",
+        "society",
+        "american",
+        "work",
+        "america",
+        "group",
+        "islam",
+        "government",
+        "culture",
+        "problem",
+        "nationalism"
+      ],
+      "topic_weights": [
+        137.5383494286945,
+        110.15826147842351,
+        87.2914355115423,
+        63.91038778724011,
+        59.03294767757695,
+        53.3209038612518,
+        51.92739849620733,
+        50.89213836085965,
+        48.825295728254865,
+        48.557667325876515,
+        48.271151865210996,
+        47.21294257059697,
+        46.60599279607705,
+        45.21685459156317,
+        42.85190639089954
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 6,
+    "4": 22,
+    "0": 10,
+    "2": 3,
+    "3": 22
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Our results underscore the decisive relevance of cognitive ability—particularly of an intellectual class with high cognitive ability and accomplishments in science, technology, engineering, and math—f...",
+        "upvotes": 0,
+        "url": "http://isteve.blogspot.com/2011/05/in-new-paper-in-psychological-science.html"
+      },
+      {
+        "preview": "by Brett Stevens on May 5, 2011 Just about any issue you encounter in the modern world can be separated according to the salesperson model. There is a surface layer, in which broad positive assertions...",
+        "upvotes": 0,
+        "url": "http://www.amerika.org/politics/class-war-in-reverse/"
+      },
+      {
+        "preview": "by Brett Stevens on April 17, 2011 You probably figured out that most people aren’t equal early in your life. Some kids played nice, even contributed something not just materially but emotionally; oth...",
+        "upvotes": 0,
+        "url": "http://www.amerika.org/politics/tax-the-rich-so-we-can-waste-it/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Military • Utah Rep. Jason Chaffetz agrees with other war critics that time has come. By Thomas Burr And Matt Canham The Salt Lake Tribune This is an archived article that was published on .com in 201...",
+        "upvotes": 1,
+        "url": "http://www.sltrib.com/sltrib/politics/51736113-90/bin-laden-afghanistan-chaffetz.html.csp"
+      },
+      {
+        "preview": "In a story about the resurrection of the harsh interrogation techniques debate slated to run on The New York Times’ front page Wednesday morning, reporters Scott Shane and Charlie Savage completely ig...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2011/05/04/the-new-york-times-ignores-leon-panetta%E2%80%99s-confirmation-of-waterboarding%E2%80%99s-role-in-bin-laden-assassination-in-harsh-interrogation-story/"
+      },
+      {
+        "preview": "Sign In It would take one giant leap for mankind to ignore our true visionaries Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attac...",
+        "upvotes": 0,
+        "url": "http://www.washingtontimes.com/news/2011/may/5/obama-got-bin-laden-just-like-nixon-reached-the-mo/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Buy now for: $3,695 Make 24 monthly payments of $153.96 | Pay 0% interest | Start using the domain today. See details. Call us to learn how we can help you get more value from your domain Turbocharge ...",
+        "upvotes": 1,
+        "url": "http://www.afroarticles.com/article-dashboard/Article/Papa-President--Keep-us-from-what-is-Silly-or-Unsafe/215824"
+      },
+      {
+        "preview": "INDIANAPOLIS | Overturning a common law dating back to the English Magna Carta of 1215, the Indiana Supreme Court ruled Thursday that Hoosiers have no right to resist unlawful police entry into their ...",
+        "upvotes": 23,
+        "url": "http://www.nwitimes.com/news/local/govt-and-politics/article_ec169697-a19e-525f-a532-81b3df229697.html"
+      },
+      {
+        "preview": "Updated | WASHINGTON — A Supreme Court decision upholding an Arizona law penalizing businesses that hire illegal immigrants could spur other states to try similar measures aimed at stopping people fro...",
+        "upvotes": 18,
+        "url": "http://www.usatoday.com/news/washington/judicial/2011-05-27-supreme-court-arizona-immigration_n.htm"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By Michael Barone - May 9, 2011 Some years ago, the columnist and editor Michael Kinsley sponsored a contest to come up with the most boring headline. The winner was, \"Worthwhile Canadian Initiative.\"...",
+        "upvotes": 0,
+        "url": "http://www.realclearpolitics.com/articles/2011/05/09/what_the_gop_can_learn_from_canadas_conservatives_109783.html"
+      },
+      {
+        "preview": "Sign In Debate to restart on Mexico border Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian ov...",
+        "upvotes": 9,
+        "url": "http://www.washingtontimes.com/news/2011/may/9/democrats-hit-obama-with-gap-on-illegals/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved A majority of Republicans said for the first time that a third party was needed in American politics, according to a Gallup poll released Monday. Fif...",
+        "upvotes": 0,
+        "url": "http://thehill.com/blogs/blog-briefing-room/news/160021-gallup-poll-sees-growing-support-for-third-party-in-gop-tea-party"
+      }
+    ],
+    "4": [
+      {
+        "preview": "We’re still seeing a flood of calls from both sides of the aisle to cut subsidies as part of an overall strategy to reduce spending in Washington. While there is plenty available to cut, there has bee...",
+        "upvotes": 1,
+        "url": "http://hotair.com/archives/2011/05/03/oil-company-subsidies-clarified/"
+      },
+      {
+        "preview": "When people in Washington start creating fancy new phrases, instead of using plain English, you know they are doing something they don't want us to understand. It was an act of war when we started bom...",
+        "upvotes": 2,
+        "url": "http://townhall.com/columnists/thomassowell/2011/05/03/fed_up_with_the_fed"
+      },
+      {
+        "preview": "by Martin and Marcia The most recent double issue of the Claremont Review of Books contains an interesting essay by Richard Samuelson entitled Jefferson, Adams, and the American Future. It is adapted ...",
+        "upvotes": 0,
+        "url": "http://www.whatwouldthefoundersthink.com/adams-and-jefferson-an-interesting-dichotomy"
+      }
+    ]
+  }
+}

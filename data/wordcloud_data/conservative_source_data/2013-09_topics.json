@@ -1,0 +1,285 @@
+{
+  "month": "2013-09",
+  "total_articles": 147,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "state",
+        "ha",
+        "law",
+        "department",
+        "attack",
+        "syria",
+        "voter",
+        "federal",
+        "security",
+        "benghazi",
+        "news",
+        "official",
+        "right",
+        "report"
+      ],
+      "topic_weights": [
+        209.39423443948715,
+        190.58424784987747,
+        146.08485390958916,
+        117.36340310835433,
+        113.56223788846117,
+        98.0050814320067,
+        87.4239452987682,
+        84.90750362228117,
+        82.14283044989746,
+        81.29606621341483,
+        80.3263909798499,
+        79.35312411884307,
+        77.917910906718,
+        77.90736361885452,
+        65.88652028382175
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "obama",
+        "wa",
+        "republican",
+        "house",
+        "obamacare",
+        "ha",
+        "government",
+        "president",
+        "conservative",
+        "cruz",
+        "clinton",
+        "party",
+        "american",
+        "democrat",
+        "senate"
+      ],
+      "topic_weights": [
+        354.77856904616186,
+        300.0662241757997,
+        270.6279291326562,
+        198.3325098927018,
+        198.1879914601824,
+        174.74301754311864,
+        164.08119645480164,
+        158.73691175287772,
+        148.02008717386224,
+        137.74642074855515,
+        132.16874059195194,
+        125.23101862670805,
+        116.28737694382424,
+        115.50847798761163,
+        113.21030434902981
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "climate",
+        "ipcc",
+        "ha",
+        "wa",
+        "model",
+        "change",
+        "science",
+        "temperature",
+        "warming",
+        "problem",
+        "scientist",
+        "global",
+        "wrong",
+        "ocean",
+        "policy"
+      ],
+      "topic_weights": [
+        1741.8965072356216,
+        1191.4858264850254,
+        945.8428648807619,
+        842.3043859434057,
+        784.7385243707301,
+        759.2113626909078,
+        661.8169703940579,
+        580.2910560533918,
+        539.3436262752173,
+        494.8753853300185,
+        406.57330904357104,
+        399.7411046137158,
+        331.6914066160577,
+        331.4592319492135,
+        304.6265568615939
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "president",
+        "network",
+        "health",
+        "doctor",
+        "exchange",
+        "enemy",
+        "ha",
+        "hospital",
+        "insurer",
+        "state",
+        "plan",
+        "page",
+        "obama",
+        "provider",
+        "patient"
+      ],
+      "topic_weights": [
+        25.407751367612683,
+        25.101550833191112,
+        24.562908021957085,
+        21.462450099766812,
+        16.706448035921618,
+        16.54306929020611,
+        16.16040801207775,
+        16.00965184097056,
+        15.810071104841922,
+        15.483968677547761,
+        14.433259430145092,
+        14.150319687163368,
+        13.23129121473001,
+        12.72391260665816,
+        11.670017843626736
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "president",
+        "health",
+        "government",
+        "mandate",
+        "american",
+        "fuel",
+        "shutdown",
+        "tile",
+        "business",
+        "cost",
+        "wa",
+        "epa",
+        "percent",
+        "care"
+      ],
+      "topic_weights": [
+        160.16710103019815,
+        148.45413609232682,
+        140.5506571258434,
+        139.64642302957876,
+        130.85493771858538,
+        122.91473858943432,
+        120.01059581176973,
+        115.8053213090157,
+        114.97889097906963,
+        103.37413506034504,
+        98.13617648918891,
+        96.67365592084965,
+        93.0633710767574,
+        90.67851034383393,
+        88.98180760855993
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 36,
+    "3": 6,
+    "4": 29,
+    "0": 68,
+    "2": 8
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 2,
+        "url": "http://www.buzzfeed.com/evanmcsan/obama-i-have-decided-to-bomb-syria-but-i-want-congress-to-we"
+      },
+      {
+        "preview": "As Congress prepares to debate President Obama's proposed strike on Syria, normally taciturn foreign policy experts, including some former members of his diplomatic team, are letting the Solons know t...",
+        "upvotes": 1,
+        "url": "http://www.americanthinker.com/blog/2013/09/foreign_policy_pros_aghast_at_obamas_rookie_mistake_on_syria.html"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 4,
+        "url": "http://www.buzzfeed.com/miriamelder/foreign-policy-hands-wonder-whats-the-point-of-obamas-syria"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Posted at 8:05 pm on August 30, 2013 by Brett T. Twitter had fun Thursday night roasting ‘Rambobama,’ the army of one who made it clear he’s not afraid to go it alone in Syria if he can’t build a coal...",
+        "upvotes": 25,
+        "url": "http://twitchy.com/2013/08/30/whose-army-president-obama-riles-with-reference-to-my-military/"
+      },
+      {
+        "preview": "Late in August, Sen. Ted Cruz, R-Texas, traveled to a private residence in Dublin, N.H., to headline a fundraiser for the state Republican Party. Cruz's spiel lasted about an hour, and was packed with...",
+        "upvotes": 7,
+        "url": "http://www.salon.com/2013/09/02/republicans_arent_about_to_crackup_theyve_been_cracking_up_for_years/"
+      },
+      {
+        "preview": "The heartening success of Mark Levin's The Liberty Amendments has brought to the fore the long-standing debate over the unused second half of the Constitution's Article V. This allows two thirds of th...",
+        "upvotes": 8,
+        "url": "http://www.americanthinker.com/2013/08/enacting_the_liberty_amendments.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Trudeau announced the news on the same day that Meng Wanzhou became free to leave Canada after cementing a deal with U.S. prosecutors Featured World-renowned architect Douglas Cardinal was in Edmonton...",
+        "upvotes": 1,
+        "url": "http://www.edmontonjournal.com/business/Harper+offered+Obama+climate+action+hopes+securing+Keystone+approval/8880541/story.html"
+      },
+      {
+        "preview": "Radical socialists (often disguised with the euphemism \"progressives\") have many potential avenues they can travel to arrive at their ends -- an end that justifies its means. And, rather than a goal t...",
+        "upvotes": 13,
+        "url": "http://www.americanthinker.com/2013/09/socialist_science_in_the_climate_science_neighborhood.html"
+      },
+      {
+        "preview": "This material may not be published, broadcast, rewritten, or redistributed. ©2021 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market da...",
+        "upvotes": 6,
+        "url": "http://www.foxnews.com/science/2013/09/12/climate-models-wildly-overestimated-global-warming-study-finds/?intcmp=latestnews"
+      }
+    ],
+    "3": [
+      {
+        "preview": "We stand on the brink of an illegal exercise of military power in a part of the world we have no need to be in, except that we have a president who purposefully keeps us there by suppressing our own d...",
+        "upvotes": 3,
+        "url": "http://www.americanthinker.com/2013/09/calling_it_treason.html"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. ‘Are you sexually active? If so, with one partner, multiple partners or same-sex partners?” Be ready to answer those questions and more the ne...",
+        "upvotes": 2,
+        "url": "http://nypost.com/2013/09/15/obamacare-will-question-your-sex-life/"
+      },
+      {
+        "preview": "By Lanhee Chen - September 18, 2013 The latest bad news for the Affordable Care Act comes from California, a state that the Obama administration has consistently pointed to as an important indicator o...",
+        "upvotes": 25,
+        "url": "http://www.realclearpolitics.com/articles/2013/09/18/obamacare_doctor_rationing_begins_in_california_119983.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "“What has been will be again, what has been done will be done again; there is nothing new under the sun.”(Ecclesiastes 1:9) The Apostle Paul likely wrote his letter to the Romans about 25 years after ...",
+        "upvotes": 10,
+        "url": "http://townhall.com/columnists/mattbarber/2013/09/02/americas-fall-the-modernday-roman-empire-n1689185/page/full"
+      },
+      {
+        "preview": "One little bit of high-tech wealth brought to you by a lot of human thought. Wealth consists of the life-promoting goods and services that people have access to. Wealth, (beyond fruit) does not grow o...",
+        "upvotes": 2,
+        "url": "http://objectivismforintellectuals.wordpress.com/2013/08/31/wealth-is-created-by-action-based-on-rational-thought/"
+      },
+      {
+        "preview": "Last February, Glenn Reynolds wrote a great piece on the many elitist Hollywood liberals that are all too content to deride the insatiably and ignobly greedy tactics of other, more pedestrian industri...",
+        "upvotes": 0,
+        "url": "http://hotair.com/archives/2013/09/01/north-carolina-looks-to-scale-back-on-their-film-tax-credits-hollywood-doth-protest/"
+      }
+    ]
+  }
+}

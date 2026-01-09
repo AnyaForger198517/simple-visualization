@@ -1,0 +1,36 @@
+{
+  "month": "2019-04",
+  "total_articles": 129,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Democratic Candidates and Urban Immigration Issues",
+      "core_keywords": ["democrat", "trump", "immigrant", "city", "school", "candidate", "party"],
+      "importance_ratio": 0.0465
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2020 Election and Democratic Presidential Candidates",
+      "core_keywords": ["democrat", "trump", "biden", "cuomo", "cnn", "president", "candidate"],
+      "importance_ratio": 0.0078
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Mueller Report and Trump's Political Legal Issues",
+      "core_keywords": ["trump", "mueller", "president", "court", "law", "house", "report"],
+      "importance_ratio": 0.5116
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Climate Change and State Political Issues",
+      "core_keywords": ["climate change", "state", "science", "global", "vote", "law", "group"],
+      "importance_ratio": 0.2713
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Border Security and Immigration Policy Debates",
+      "core_keywords": ["border", "trump", "government", "state", "tax", "transgender", "court"],
+      "importance_ratio": 0.1628
+    }
+  ]
+}

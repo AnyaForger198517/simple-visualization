@@ -1,0 +1,285 @@
+{
+  "month": "2013-12",
+  "total_articles": 143,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "president",
+        "obama",
+        "class",
+        "ha",
+        "american",
+        "state",
+        "government",
+        "law",
+        "friend",
+        "warfare",
+        "income",
+        "agenda",
+        "did",
+        "country"
+      ],
+      "topic_weights": [
+        456.05690421520774,
+        358.73319579843576,
+        333.9694969453634,
+        286.24448487844603,
+        283.96032786639773,
+        209.07374991342212,
+        173.92348978558925,
+        153.17982480041053,
+        131.70835627340858,
+        107.35439216020143,
+        103.16405802554223,
+        101.71266759487148,
+        99.50236917016602,
+        95.67677827394577,
+        94.11991909461418
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "libertarian",
+        "republican",
+        "party",
+        "gay",
+        "conservative",
+        "government",
+        "religious",
+        "group",
+        "religion",
+        "issue",
+        "wa",
+        "democrat",
+        "atheist",
+        "vote",
+        "ha"
+      ],
+      "topic_weights": [
+        787.2703296541102,
+        406.69332286530744,
+        366.2409948159906,
+        226.90931436761326,
+        210.78616383385764,
+        190.31621585535592,
+        185.62570396218254,
+        181.72461823662357,
+        181.33717050929673,
+        175.13450531411374,
+        158.2197382719197,
+        144.79955191732734,
+        144.3771770742817,
+        138.63730336864086,
+        126.42598274661462
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "china",
+        "wa",
+        "ha",
+        "military",
+        "chinese",
+        "official",
+        "state",
+        "technology",
+        "news",
+        "data",
+        "sea",
+        "service",
+        "administration",
+        "company",
+        "million"
+      ],
+      "topic_weights": [
+        228.68065139948575,
+        141.37249306825206,
+        128.87792326859355,
+        125.9316642510717,
+        97.44923438263011,
+        82.60686544753068,
+        74.73634147921662,
+        60.60130133641188,
+        60.14948192772955,
+        56.382805343525185,
+        56.12569966900442,
+        51.25672275072749,
+        50.995547257617936,
+        50.957220342073114,
+        47.173928956724936
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "government",
+        "charity",
+        "capitalism",
+        "law",
+        "power",
+        "tax",
+        "wa",
+        "executive",
+        "organization",
+        "irs",
+        "pope",
+        "market",
+        "ha",
+        "obama",
+        "free"
+      ],
+      "topic_weights": [
+        137.11538297487752,
+        130.4519586702099,
+        116.02671905213761,
+        109.2261049091934,
+        102.14100396161147,
+        100.60830554401528,
+        95.81539521827006,
+        71.35999307347247,
+        65.69231836763774,
+        65.25895406876451,
+        61.3739858806514,
+        59.8884041707019,
+        57.8573760091434,
+        57.60718069010265,
+        56.24511682896372
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "tax",
+        "insurance",
+        "glaad",
+        "plan",
+        "fee",
+        "medical",
+        "phil",
+        "health",
+        "obamacare",
+        "research",
+        "percent",
+        "ha",
+        "pay",
+        "anti",
+        "family"
+      ],
+      "topic_weights": [
+        152.02667449314313,
+        120.74864930564917,
+        112.47562124480649,
+        106.78813941448126,
+        100.82173018361532,
+        87.07680639109233,
+        87.03608942062766,
+        79.2818865283142,
+        74.88473237677297,
+        73.4962396724222,
+        73.20301981033926,
+        66.97872479128924,
+        61.6170557823274,
+        61.07127856553693,
+        59.48437855347009
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 21,
+    "3": 11,
+    "2": 29,
+    "0": 75,
+    "4": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "So far in 2021, more than 750 people came to FIRE when their rights were in jeopardy. Hear their stories — and how we're fighting back — by subscribing today. Newsdesk by Emily Buck When applying to c...",
+        "upvotes": 0,
+        "url": "http://thefire.org/article/16527.html"
+      },
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. Gov. Chris Christie’s “bizarre behavior’’ in refusing to say he’ll support a possible GOP challenger to Gov. Cuomo next year could dera...",
+        "upvotes": 10,
+        "url": "http://nypost.com/2013/12/02/christies-bizarre-behavior-could-undermine-presidential-chances/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters The death of Americans’ financial privacy Biden preaches ‘dignity’ at U.N. If not for double standards, liberals would have no standards at all “While there is more work to ...",
+        "upvotes": 1,
+        "url": "http://www.washingtontimes.com/news/2013/dec/1/inside-the-beltway-obamacare-team-lauds-private-se/#.Upyj91nKwjg.reddit"
+      }
+    ],
+    "1": [
+      {
+        "preview": "There are individual haters on the right and individual haters on the left. But there is no large-scale hatred in the United States of America today that compares with the hatred of the left for the r...",
+        "upvotes": 2,
+        "url": "http://www.dennisprager.com/mary-cheney-liz-cheney-left-wing-hate/"
+      },
+      {
+        "preview": "“It’s now Authoritarian vs. Libertarian…” — Matt Drudge’s tweet about Republicans who support NSA spying and Syrian intervention, September 3, 2013 The Washington Post’s Jennifer Rubin asks “Will Ted ...",
+        "upvotes": 3,
+        "url": "http://dailycaller.com/2013/12/02/will-gop-be-libertarian-or-authoritarian/"
+      },
+      {
+        "preview": "Leaders of the center-left “Third Way” think tank put out an op-ed this week that threatens to turn into a full-blown Democratic Party war. Jon Cowan and Jim Kessler warned their fellow Democrats that...",
+        "upvotes": 2,
+        "url": "http://hotair.com/archives/2013/12/06/the-warren-democrats-want-a-democratic-party-war/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "From the desk of George Handlery on Mon, 2013-11-11 19:01 Confirmed by Chamberlain: negotiations bear risks. We begin with a quote. Without intending to do so, it reveals more than its source might ca...",
+        "upvotes": 0,
+        "url": "http://www.brusselsjournal.com/node/5108"
+      },
+      {
+        "preview": "Sign In Manage Newsletters The death of Americans’ financial privacy Biden preaches ‘dignity’ at U.N. If not for double standards, liberals would have no standards at all “President Obama needs to fir...",
+        "upvotes": 1,
+        "url": "http://www.washingtontimes.com/news/2013/dec/2/inside-the-beltway-stringent-advice-from-a-reporte/#.Up35S94U-Qc.reddit"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. WASHINGTON — Seeking to regroup from his healthcare law’s disastrous rollout, President Barack Obama on Tuesday insisted that the sweeping ove...",
+        "upvotes": 2,
+        "url": "http://nypost.com/2013/12/03/obama-says-healthcare-law-working-were-not-repealing-it/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Follow Us National Review Republicans Tout ‘a More Conservative Direction’ in Defense-Policy Bill Latest Bogus White House Spin: Biden’s $3.5 Trillion Plan Actually Costs Nothing How Should Conservati...",
+        "upvotes": 2,
+        "url": "http://www.nationalreview.com/corner/365151/dissent-highest-form-tax-bracket-mark-steyn"
+      },
+      {
+        "preview": "After reading the gasps of despair from some of my fellow conservatives over Pope Francis’ remarks in his apostolic exhortation Evangelii Gaudium (The Joy of the Gospel), I decided to make that my hol...",
+        "upvotes": 6,
+        "url": "http://hotair.com/archives/2013/12/02/pope-francis-and-the-media-missing-the-forest-for-a-couple-of-trees/"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Christianity Shikha Dalmia | 12.3.2013 10:30 AM Pope Francis doesn't have to thank capitalism, a system that has done far more to allevi...",
+        "upvotes": 0,
+        "url": "http://reason.com/archives/2013/12/03/the-popes-self-defeating-anti-capitalist"
+      }
+    ],
+    "4": [
+      {
+        "preview": "During the past couple of months, Americans' attention has been riveted on the implementation of President Obama's signature health-care law. The focus has been on the abysmal introduction of the heal...",
+        "upvotes": 6,
+        "url": "http://www.cnbc.com/id/101241734"
+      },
+      {
+        "preview": "Subscribe for full access to The Hollywood Reporter UPDATED: The news comes after the reality star compared being gay to bestiality, drawing ire from LGBT groups including GLAAD and the Human Rights C...",
+        "upvotes": 36,
+        "url": "http://www.hollywoodreporter.com/live-feed/duck-dynastys-phil-robertson-indefinite-666808"
+      },
+      {
+        "preview": "By Will Payne Published: 02:43 EDT, 21 December 2013 | Updated: 10:49 EDT, 21 December 2013 965 View comments Duck Dynasty star Phil Robertson and his family believe they have been ‘hung out to dry’ b...",
+        "upvotes": 29,
+        "url": "http://www.dailymail.co.uk/news/article-2527430/Hung-dry-Duck-Dynasty-star-family-lash-A-E-making-controversial-interview-public-suspending-homophobic-comments.html"
+      }
+    ]
+  }
+}

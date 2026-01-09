@@ -1,0 +1,285 @@
+{
+  "month": "2021-06",
+  "total_articles": 230,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "state",
+        "wa",
+        "election",
+        "ha",
+        "vote",
+        "democrat",
+        "right",
+        "voting",
+        "voter",
+        "law",
+        "trump",
+        "party",
+        "democracy",
+        "act"
+      ],
+      "topic_weights": [
+        494.89903623709006,
+        490.6023137738829,
+        441.00668037376215,
+        321.29814742247584,
+        302.1774731389324,
+        291.7346474430028,
+        264.68463827108224,
+        248.46991601713108,
+        245.26730917624369,
+        240.96624110358925,
+        232.57005304130863,
+        210.69292073746382,
+        208.4254896571466,
+        202.88063310555552,
+        186.83636743061615
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "biden",
+        "ha",
+        "president",
+        "state",
+        "american",
+        "government",
+        "police",
+        "china",
+        "world",
+        "trump",
+        "russia",
+        "country",
+        "told",
+        "news"
+      ],
+      "topic_weights": [
+        459.8412572586726,
+        196.5158588670473,
+        166.0287451660816,
+        142.97522127707558,
+        126.21991419117886,
+        120.72858430864993,
+        109.3482600998819,
+        105.0733416294213,
+        103.36214050638453,
+        98.91286280040286,
+        95.7469958279716,
+        90.20136703802372,
+        86.8554895111767,
+        86.00854378574171,
+        84.44908633626667
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "email",
+        "valid",
+        "enter",
+        "arizona",
+        "audit",
+        "home",
+        "election",
+        "wa",
+        "ha",
+        "company",
+        "county",
+        "president",
+        "biden",
+        "told"
+      ],
+      "topic_weights": [
+        156.26651443187362,
+        154.06909557821933,
+        144.30066938012928,
+        140.9695797973336,
+        133.26946740977417,
+        117.58940017202646,
+        108.47322824871132,
+        105.27724177983612,
+        101.87543778814326,
+        97.21324764712018,
+        95.56368258530004,
+        90.97786598077647,
+        60.14551644425737,
+        50.086789287444404,
+        48.36587115886844
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "election",
+        "department",
+        "house",
+        "justice",
+        "biden",
+        "ha",
+        "attorney",
+        "court",
+        "general",
+        "official",
+        "investigation",
+        "capitol"
+      ],
+      "topic_weights": [
+        964.8815174312135,
+        295.4665192342474,
+        283.78200974161996,
+        261.90444297674003,
+        244.46919247113166,
+        169.96869763605247,
+        167.96767443287908,
+        161.47643538133315,
+        152.81289179466012,
+        148.32932220313066,
+        144.23666021176342,
+        130.77916874355927,
+        127.35916654853054,
+        122.69434683714316,
+        120.2153865491542
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "wa",
+        "theory",
+        "race",
+        "school",
+        "qanon",
+        "critical",
+        "news",
+        "republican",
+        "district",
+        "white",
+        "medium",
+        "fox",
+        "conservative",
+        "greene"
+      ],
+      "topic_weights": [
+        282.02652268084506,
+        268.13833911180086,
+        240.7215102885683,
+        231.48508613267887,
+        191.2113689963974,
+        168.05628481265867,
+        150.9823467816197,
+        128.5291058643227,
+        120.19400050425125,
+        101.8375174376261,
+        96.8313565548449,
+        92.37344069447285,
+        91.10892054116727,
+        88.03642797447112,
+        85.27753277215662
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 74,
+    "0": 58,
+    "4": 31,
+    "2": 14,
+    "1": 53
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sarah McCammon President Joe Biden speaks during the National Memorial Day Observance at Arlington National Cemetery Monday. His budget proposal drops a decades-long ban on public funding for abortion...",
+        "upvotes": 323,
+        "url": "https://www.npr.org/2021/05/31/1001881788/bidens-budget-proposal-reverses-a-decades-long-ban-on-abortion-funding"
+      },
+      {
+        "preview": "Every product was carefully curated by an  editor. We may earn a commission from these links. This goes way beyond Michael Flynn and Myanmar-style military coups. Vice President Kamala Harris made the...",
+        "upvotes": 1,
+        "url": "https://www.esquire.com/news-politics/a36593399/michael-flynn-myanmar-coup-trump-republicans/"
+      },
+      {
+        "preview": "Given the Republican ferocity in trying to destroy basic rights, the road back to democracy is not civic but political. by Robert Kuttner June 1, 2021 5:10 AM MEG KINNARD/AP PHOTO A statue of pro-slav...",
+        "upvotes": 67,
+        "url": "https://prospect.org/culture/books/minority-rule-adam-jentleson-kill-switch-review/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The corrections department has spent more than $2,000 on ingredients to make cyanide gas, the same used in Auschwitz Last modified on Fri 28 May 2021 01.02 EDT The state of Arizona is preparing to kil...",
+        "upvotes": 5,
+        "url": "https://www.theguardian.com/us-news/2021/may/28/arizona-gas-chamber-executions-documents"
+      },
+      {
+        "preview": "Following a previous Trump executive order that banned some Chinese companies from buying U.S.-made tech, this week President Biden issued a new executive order banning U.S. entities from investing in...",
+        "upvotes": 11,
+        "url": "https://gizmodo.com/new-biden-executive-order-bans-u-s-investment-in-huawe-1847033326"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. Oh, how the mighty have fallen. This week, a Freedom of Information Act request led to a trove of emails from Dr. Anthony Fauci being released...",
+        "upvotes": 0,
+        "url": "https://nypost.com/2021/06/03/faucis-emails-should-put-an-end-to-the-cult-media-built-around-him/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Miles Parks Contractors working for Cyber Ninjas, the company hired by the Republican-led Arizona state Senate, examine and recount ballots from the 2020 general election on May 3. Courtney Pedroza/Th...",
+        "upvotes": 125,
+        "url": "https://www.npr.org/2021/06/03/1000954549/experts-call-it-a-clown-show-but-arizona-audit-is-a-disinformation-blueprint"
+      },
+      {
+        "preview": "Observers of Arizona’s Republican-led recount have found security gates left open, confidential manuals left unattended and quality-control measures disregarded, according to the Arizona secretary of ...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/politics/trump-election-arizona-audit/2021/06/02/56de9282-c3af-11eb-9a8d-f95d7724967c_story.html"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 5,
+        "url": "https://www.axios.com/scoop-bush-family-nonprofits-5-million-deal-with-china-influence-group-886e7d7a-36c3-471b-a582-31b0c2e50eeb.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Even though the Secret Service is charged with protecting former President Donald Trump even now that he's left office, the agency could in the future face a unique challenge if he's eventually convic...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/trump-prison-2653175522/"
+      },
+      {
+        "preview": "Former national security adviser Michael Flynn said over the weekend that a Myanmar-like coup — in which the military overthrew a democratically elected government — “should happen” in the U.S. Appear...",
+        "upvotes": 261,
+        "url": "https://www.marketwatch.com/story/ex-trump-adviser-michael-flynn-says-myanmar-like-coup-should-happen-in-u-s-11622426143"
+      },
+      {
+        "preview": "Juan Williams, Fox News’ left-leaning political analyst who departed “The Five” talk panel last week, took another defiant step away from his network’s right-wing attitude. In a Memorial Day essay for...",
+        "upvotes": 111,
+        "url": "https://www.huffpost.com/entry/juan-williams-republican-extremism_n_60b4e609e4b0ead2796b4a04"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Sign In Rashad Turner now heads Minnesota Parent Union Manage Newsletters A look back at the 9/11 commission as Biden coddles terrorists Democrats shouldn’t bet on abortion in 2022 Feebleminded Joe Bi...",
+        "upvotes": 1,
+        "url": "https://www.washingtontimes.com/news/2021/may/31/rashad-turner-black-lives-matter-st-paul-founder-s/"
+      },
+      {
+        "preview": "Research/Study Research/Study The QAnon conspiracy theory was linked to the Capitol insurrection. Here are 45 congressional candidates who have embraced it. Written by Alex Kaplan Research contributio...",
+        "upvotes": 8,
+        "url": "https://www.mediamatters.org/qanon-conspiracy-theory/here-are-qanon-supporters-running-congress-2022"
+      },
+      {
+        "preview": "To revisit this article, select My Account, then To revisit this article, visit My Profile, then View saved stories By Charles Bethea Georgia’s Fourteenth Congressional District was created by Republi...",
+        "upvotes": 1,
+        "url": "https://www.newyorker.com/news/us-journal/how-the-qanon-candidate-marjorie-taylor-greene-reached-the-doorstep-of-congress"
+      }
+    ]
+  }
+}

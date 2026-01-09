@@ -1,0 +1,36 @@
+{
+  "month": "2020-06",
+  "total_articles": 199,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "COVID-19 and NASCAR-related Incidents",
+      "core_keywords": ["covid", "coronavirus", "nascar", "health", "cdc", "noose", "virus"],
+      "importance_ratio": 0.0754
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Election and Police-related Social Issues",
+      "core_keywords": ["police", "election", "ballot", "voter", "statue", "city", "monument"],
+      "importance_ratio": 0.0754
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "George Floyd Incident and Police Brutality",
+      "core_keywords": ["police", "george floyd", "black", "justice", "seattle", "protester", "death"],
+      "importance_ratio": 0.3317
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "2020 Election and Trump-Biden Political Rivalry",
+      "core_keywords": ["trump", "biden", "president", "racism", "covid", "facebook", "twitter"],
+      "importance_ratio": 0.3367
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Racial Tensions and Social Unrest",
+      "core_keywords": ["white", "black", "protest", "antifa", "violence", "china", "america"],
+      "importance_ratio": 0.1808
+    }
+  ]
+}

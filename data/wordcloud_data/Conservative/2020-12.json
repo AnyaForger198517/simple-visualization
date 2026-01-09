@@ -1,0 +1,36 @@
+{
+  "month": "2020-12",
+  "total_articles": 153,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2020 Election Recount and Voter Disputes",
+      "core_keywords": ["election", "trump", "biden", "vote", "ballot", "voter", "state"],
+      "importance_ratio": 0.3268
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Regional Politics and Social Welfare",
+      "core_keywords": ["texas", "school", "child", "family", "health", "state", "cruz"],
+      "importance_ratio": 0.0458
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "COVID-19 Vaccine Development and Services",
+      "core_keywords": ["vaccine", "coronavirus", "health", "service", "student", "expert", "report"],
+      "importance_ratio": 0.1046
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Pandemic Restrictions and Economic Impact",
+      "core_keywords": ["pandemic", "coronavirus", "state", "government", "china", "business", "freedom"],
+      "importance_ratio": 0.1634
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Presidential Transition and National Policy",
+      "core_keywords": ["trump", "biden", "president", "china", "policy", "national", "american"],
+      "importance_ratio": 0.3594
+    }
+  ]
+}

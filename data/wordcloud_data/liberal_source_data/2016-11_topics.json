@@ -1,0 +1,285 @@
+{
+  "month": "2016-11",
+  "total_articles": 329,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "news",
+        "election",
+        "clinton",
+        "president",
+        "donald",
+        "campaign",
+        "site",
+        "told",
+        "medium",
+        "story",
+        "post",
+        "white"
+      ],
+      "topic_weights": [
+        1394.269165339124,
+        1038.7797022399807,
+        432.25563074921837,
+        392.3658614974415,
+        345.9832057995658,
+        344.35863218894394,
+        341.22067250219925,
+        328.5376066939144,
+        270.7747327432539,
+        237.34390565059851,
+        224.75820219932677,
+        216.622658654811,
+        177.25582834516126,
+        171.5919047688815,
+        161.26857298001536
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "party",
+        "trump",
+        "republican",
+        "state",
+        "democrat",
+        "democratic",
+        "ha",
+        "wa",
+        "clinton",
+        "policy",
+        "senate",
+        "working",
+        "sander",
+        "plan",
+        "house"
+      ],
+      "topic_weights": [
+        644.3609654095005,
+        635.4938437447233,
+        529.17086899352,
+        432.6701829878882,
+        398.63246701951016,
+        393.0078837356184,
+        372.6628674552202,
+        314.3662092674761,
+        293.3404081679525,
+        238.0438877464352,
+        229.86986628423222,
+        200.30506148114048,
+        199.74139689257154,
+        199.12275842764666,
+        186.23840849568433
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "vote",
+        "election",
+        "voter",
+        "poll",
+        "county",
+        "pipeline",
+        "voting",
+        "ha",
+        "clinton",
+        "percent",
+        "candidate",
+        "nov",
+        "ballot",
+        "chance"
+      ],
+      "topic_weights": [
+        517.8141363412749,
+        426.5689454763569,
+        327.71946025755847,
+        318.1667504155697,
+        245.82833474001762,
+        224.93968321228047,
+        191.57229715513813,
+        170.02819154733322,
+        162.1597498902396,
+        158.48233316517667,
+        138.22633964234802,
+        133.00064073325336,
+        132.23501817946033,
+        131.4054971698057,
+        128.38452229128103
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "ha",
+        "wa",
+        "american",
+        "white",
+        "president",
+        "law",
+        "government",
+        "state",
+        "black",
+        "country",
+        "right",
+        "policy",
+        "federal",
+        "power"
+      ],
+      "topic_weights": [
+        770.3983645654298,
+        644.2780321508936,
+        485.75028735371365,
+        406.4888298010359,
+        351.520758741043,
+        306.1491369110909,
+        301.46340083793154,
+        292.12752195426754,
+        265.452635683939,
+        252.50207822620237,
+        229.26584618621905,
+        207.79595744058034,
+        204.59355114827855,
+        197.5050206886374,
+        193.73938299507665
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "election",
+        "wa",
+        "vote",
+        "obama",
+        "white",
+        "republican",
+        "clinton",
+        "won",
+        "trump",
+        "woman",
+        "democrat",
+        "american",
+        "win",
+        "electoral",
+        "voter"
+      ],
+      "topic_weights": [
+        439.79385092141587,
+        414.15338865252994,
+        259.93413655474853,
+        253.80768212297244,
+        240.00549784590814,
+        214.58300092686787,
+        189.25245164180296,
+        189.14615935166438,
+        186.13777868324462,
+        179.13178119239177,
+        169.47844125882125,
+        150.51612246199468,
+        150.23765721040328,
+        144.44754716557594,
+        144.2358692960094
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 113,
+    "3": 85,
+    "4": 25,
+    "2": 25,
+    "1": 81
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Rep. Elijah Cummings (D-MD) is furious that the FBI is caving to GOP pressure without giving the same treatment to Republican presidential candidate Donald Trump. In a Monday morning interview with CN...",
+        "upvotes": 28,
+        "url": "http://www.rawstory.com/2016/10/cummings-shocker-americans-dont-have-a-clue-how-hard-the-gop-pushed-the-fbi-to-attack-clinton/"
+      },
+      {
+        "preview": "FBI Director James Comey argued privately that it was too close to Election Day for the United States government to name Russia as meddling in the U.S. election and ultimately ensured that the FBI's n...",
+        "upvotes": 56,
+        "url": "http://www.cnbc.com/2016/10/31/fbis-comey-opposed-naming-russians-citing-election-timing-source.html"
+      },
+      {
+        "preview": "Jonathan Ernst/Reuters Read Franklin Foer's follow-up story for new statements from the Trump campaign and Alfa Bank and analysis of the competing theories about the server and its activity.â â Fran...",
+        "upvotes": 1,
+        "url": "http://www.slate.com/articles/news_and_politics/cover_story/2016/10/was_a_server_registered_to_the_trump_organization_communicating_with_russia.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Bangor Daily News Maine news, sports, politics, election results, and obituaries American democracy is in trouble, but with a “yes” vote on Question 5 Mainers could do something significant to begin t...",
+        "upvotes": 1,
+        "url": "http://bangordailynews.com/2016/10/06/opinion/contributors/maine-can-bring-out-the-better-angels-of-our-democracy-with-ranked-choice-voting/"
+      },
+      {
+        "preview": "Two Massachusetts teachers unions filed a formal complaint Monday against financial firms whose executives have funded committees supporting a charter school ballot measure. The unions allege that in ...",
+        "upvotes": 20,
+        "url": "http://www.ibtimes.com/political-capital/wall-street-money-charter-schools-fight-teachers-unions-file-complaint-about-gov"
+      },
+      {
+        "preview": "A voter revolt is brewing in America. People are fed up, and they should be. The super rich are destroying our economy, sending our jobs overseas and making our planet uninhabitable. But instead of of...",
+        "upvotes": 1,
+        "url": "http://www.chicagotribune.com/news/opinion/commentary/ct-jill-stein-third-party-candidates-perspec-1021-20161020-story.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Please log in, or sign up for a new account and purchase a subscription to continue reading. Please purchase a subscription to continue reading. Your current subscription does not provide access to th...",
+        "upvotes": 1,
+        "url": "http://www.southernminn.com/faribault_daily_news/opinion/article_69d7686a-f6f1-5427-8402-34410fd0580f.html"
+      },
+      {
+        "preview": "Advertisement Supported by The 2016 Race By Nate Cohn There have been surprisingly few election polls since the F.B.I. director James Comey’s letter to Congress last week. The dearth of polls has actu...",
+        "upvotes": 3,
+        "url": "http://www.nytimes.com/2016/11/03/upshot/what-to-look-for-when-the-polling-drought-ends.html?_r=0"
+      },
+      {
+        "preview": "Discover Thomson  By Julia Harte 8 Min Read (This version of the November 3 story officially corrects paragraph 13 to read Chapel Hill, instead of Raleigh. The White House initially misidentified Obam...",
+        "upvotes": 106,
+        "url": "http://www.reuters.com/article/idUSKBN12Y0ZY"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The past two election cycles, my wife and I have hosted a “No Cheers, No Jeers,” non-partisan election returns party. Our friend circle is politically diverse, so the party consists of discussing the ...",
+        "upvotes": 1,
+        "url": "https://www.lawfareblog.com/coalition-all-democratic-forces-part-i-political-focus-whats-truly-important"
+      },
+      {
+        "preview": " Magazine Archive 1994 - 2018  For decades, I have been obsessed with exposing the Clintons and like-minded Democratic politicians’ dangerous foreign policies, challenging liberal naiveté that ignores...",
+        "upvotes": 3,
+        "url": "http://www.tikkun.org/nextgen/overcoming-bitterness-and-recognizing-the-need-to-support-imperfect-democrats"
+      },
+      {
+        "preview": "Advertisement Supported by By Thomas L. Friedman This is my last column until after the election, so I’d like to address the people least likely to read it: Donald Trump voters. Who knows? Maybe I’ll ...",
+        "upvotes": 1,
+        "url": "http://www.nytimes.com/2016/11/02/opinion/donald-trump-voters-just-hear-me-out.html?_r=0"
+      }
+    ],
+    "4": [
+      {
+        "preview": "In 2012, about the same number of votes were cast in these 160 counties as were cast in the rest of the country. But, your run-of-the-mill election map won't show you that. Wash. Maine Mont. N.D. Minn...",
+        "upvotes": 12,
+        "url": "https://www.washingtonpost.com/graphics/politics/2016-election/how-election-maps-lie/?tid=sm_tw"
+      },
+      {
+        "preview": "Nov. 2, 2016, at 10:31 AM By Julia Azari Filed under 2016 Election Let an election go on long enough, and the press is bound to work its way around to covering a candidate’s “mandate” before she’s eve...",
+        "upvotes": 7,
+        "url": "http://fivethirtyeight.com/features/presidential-mandates-arent-real-but-congress-sometimes-acts-as-if-they-are/"
+      },
+      {
+        "preview": "Advertisement Supported by Reader Forum By Toni Monkovic It’s probably the biggest demographic story of this election: Hillary Clinton has made big gains with well-educated whites, particularly women....",
+        "upvotes": 1,
+        "url": "http://mobile.nytimes.com/2016/11/02/upshot/why-does-education-translate-to-less-support-for-donald-trump.html"
+      }
+    ]
+  }
+}

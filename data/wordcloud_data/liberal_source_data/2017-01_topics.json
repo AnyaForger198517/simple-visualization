@@ -1,0 +1,285 @@
+{
+  "month": "2017-01",
+  "total_articles": 301,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "american",
+        "world",
+        "woman",
+        "movement",
+        "state",
+        "health",
+        "political",
+        "white",
+        "obama",
+        "change",
+        "job",
+        "group",
+        "gay"
+      ],
+      "topic_weights": [
+        527.651491834757,
+        439.95251830253216,
+        389.0712687339047,
+        298.1173035051056,
+        246.31301427122887,
+        212.69458035686387,
+        211.41855759555182,
+        205.36444608866213,
+        199.08779766220272,
+        196.37077017009926,
+        189.6538046190254,
+        182.68229260686226,
+        171.47812051361552,
+        171.00894668320612,
+        165.64677875432005
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "democrat",
+        "party",
+        "clinton",
+        "wa",
+        "trump",
+        "republican",
+        "election",
+        "state",
+        "democratic",
+        "vote",
+        "voter",
+        "obama",
+        "candidate",
+        "campaign",
+        "ha"
+      ],
+      "topic_weights": [
+        350.7878335286821,
+        329.9751642695811,
+        311.30617343255653,
+        279.1821594042843,
+        268.6732219300237,
+        245.4874687019511,
+        243.82937313017854,
+        216.28004709328954,
+        212.5656331216231,
+        207.87270549754527,
+        181.71816835341085,
+        154.65732469357636,
+        135.73319972345323,
+        132.83296922256247,
+        130.07637505427329
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "penny",
+        "school",
+        "jones",
+        "worker",
+        "mother",
+        "tax",
+        "state",
+        "policy",
+        "news",
+        "ha",
+        "public",
+        "indiana",
+        "education",
+        "family"
+      ],
+      "topic_weights": [
+        403.0454938095419,
+        364.1052426078116,
+        246.31956486194863,
+        145.7013412683298,
+        135.1070269039167,
+        133.88728521379957,
+        133.74598397158667,
+        128.25903936778028,
+        126.06336357880804,
+        123.68714273579275,
+        123.62242611409584,
+        121.59692595339278,
+        117.33621074074416,
+        111.08919170773068,
+        105.70771678243133
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "blasio",
+        "city",
+        "mayor",
+        "progressive",
+        "wa",
+        "police",
+        "housing",
+        "ha",
+        "york",
+        "trump",
+        "income",
+        "work",
+        "number",
+        "affordable",
+        "crime"
+      ],
+      "topic_weights": [
+        845.0451067789893,
+        719.3144943673103,
+        571.1516412360642,
+        382.9464365196004,
+        373.2956195320234,
+        356.51358583462445,
+        352.8080814255824,
+        344.11957664768636,
+        248.50748164960947,
+        192.69799721683776,
+        189.3877236864961,
+        181.6166113156282,
+        152.4440035885798,
+        150.7249796677703,
+        147.10096637343418
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "state",
+        "order",
+        "american",
+        "country",
+        "donald",
+        "house",
+        "executive",
+        "muslim",
+        "medium",
+        "news",
+        "administration"
+      ],
+      "topic_weights": [
+        2859.0180009007745,
+        1177.2263662673722,
+        1002.6297828234109,
+        746.5474658454292,
+        694.9484455704867,
+        449.82687519053616,
+        441.5011477142702,
+        428.39361457206263,
+        410.74297109514964,
+        341.33398763916136,
+        309.0259648820257,
+        303.37512832323483,
+        289.7100525685935,
+        286.6871973576835,
+        284.4979814489195
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 78,
+    "4": 165,
+    "2": 31,
+    "1": 24,
+    "3": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Jump to navigation I continue to be struck by this quote from Hannah Arendt in The Origins of Totalitarianism: “This method [of infallible prediction] is foolproof only after the movements have seized...",
+        "upvotes": 15,
+        "url": "https://www.christiancentury.org/blog-post/fascismfactchecking"
+      },
+      {
+        "preview": "Amy McCoy, spokeswoman for the Iowa Department of Human Resources, and Gov. Terry Branstad answer questions regarding the proposed privatization of Medicaid services during a town hall meeting last ye...",
+        "upvotes": 42,
+        "url": "http://qctimes.com/news/opinion/editorial/editorial-medicaid-in-iowa-is-crumbling/article_e88abdef-8c15-5142-82cf-370c519ac21e.html?"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. \" Common sense and the ...",
+        "upvotes": 3,
+        "url": "http://www.commondreams.org/views/2017/01/01/media-fell-nazi-manufactured-white-genocide-scandal"
+      }
+    ],
+    "1": [
+      {
+        "preview": "See our research on: Abortion | Afghanistan | COVID-19 See our research on: Abortion | Afghanistan | COVID-19 Two years ago, Pew Research Center found that Republicans and Democrats were more divided ...",
+        "upvotes": 22,
+        "url": "http://www.people-press.org/2016/04/26/a-wider-ideological-gap-between-more-and-less-educated-adults/"
+      },
+      {
+        "preview": "Danielle Kurtzleben House Speaker Paul Ryan, Senate Majority Leader Mitch McConnell and Senate Minority Leader Harry Reid bow their heads in prayer in this 2015 photo. All three are Christians, as are...",
+        "upvotes": 66,
+        "url": "http://www.npr.org/2017/01/03/508037656/non-religious-americans-remain-far-underrepresented-in-congress"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. People protest in suppo...",
+        "upvotes": 1,
+        "url": "http://www.commondreams.org/views/2017/01/04/three-steps-progressive-resistance-and-rebuilding-trump-era-launches"
+      }
+    ],
+    "2": [
+      {
+        "preview": "By Hannah Al-Othman For MailOline Published: 09:40 EDT, 31 December 2016 | Updated: 15:55 EDT, 5 January 2017 112 View comments French companies will be required to guarantee their employees a 'right ...",
+        "upvotes": 20,
+        "url": "http://www.dailymail.co.uk/news/article-4078274/French-workers-guaranteed-right-disconnect-stop-employees-checking-emails-outside-work-time.html"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. Kamala Harris, pictured...",
+        "upvotes": 1,
+        "url": "http://www.commondreams.org/news/2017/01/01/days-moderate-democratic-party-are-over-analyst-declares"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. Sen. Bernie Sanders (I-...",
+        "upvotes": 1,
+        "url": "http://www.commondreams.org/news/2017/01/03/alongside-sanders-new-york-governor-announces-first-nation-free-tuition-plan"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The president of the Sergeants Benevolent Association—a longtime foe of Mayor Bill de Blasio—penned a letter in support of two Republican legislators’ lawsuit aimed at stopping the liberal administrat...",
+        "upvotes": 3,
+        "url": "http://observer.com/2017/01/nypd-union-head-joins-gop-fight-to-stop-nyc-from-flushing-records-on-the-undocumented/"
+      },
+      {
+        "preview": "of Baruch College’s School of Public and International Affairs. But the mayor’s numbers don’t reflect a runaway success. His 47–47 split in a November Quinnipiac survey suggests that de Blasio faces a...",
+        "upvotes": 2,
+        "url": "https://www.thenation.com/article/new-york-city-mayor-bill-de-blasio-wants-to-be-the-anti-trump/"
+      },
+      {
+        "preview": "The  archives brought to you by WNYC.Read the press release here. CHICAGO — The names and badge numbers of Chicago police officers — which must be included on the two-page form they complete every tim...",
+        "upvotes": 11,
+        "url": "https://www.dnainfo.com/chicago/20170112/englewood/aclu-will-no-longer-get-names-of-officers-who-make-stops-on-street"
+      }
+    ],
+    "4": [
+      {
+        "preview": "BISMARCK, N.D., Dec. 30 () -- Police in Morton County, N.D., called in a SWAT team to the site of a Dakota Access Pipeline protest for the first time in several weeks, arresting five people. The Morto...",
+        "upvotes": 2,
+        "url": "http://www.upi.com/Top_News/US/2016/12/30/Five-arrested-as-Dakota-Access-Pipeline-protest-flares/6551483112588/"
+      },
+      {
+        "preview": "The number of people who have drowned fleeing to Europe via the Mediterranean this year has risen to more than 5,000, according to the official data of the United Nations Refugee Agency (UNHCR). Accor...",
+        "upvotes": 1,
+        "url": "https://www.wsws.org/en/articles/2016/12/31/refu-d31.html"
+      },
+      {
+        "preview": "News Thousands will head to Washington, D.C. on Jan. 20 to celebrate Donald Trump's inauguration â and then there's everybody else. If you're one of the millions of Americans less than thrilled abou...",
+        "upvotes": 5,
+        "url": "https://www.bustle.com/p/how-to-find-inauguration-protest-near-me-to-rally-against-donald-trump-26748"
+      }
+    ]
+  }
+}

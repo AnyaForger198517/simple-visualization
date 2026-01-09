@@ -1,0 +1,275 @@
+{
+  "month": "2021-07",
+  "total_articles": 185,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "ha",
+        "drug",
+        "american",
+        "state",
+        "policy",
+        "wa",
+        "price",
+        "government",
+        "liberal",
+        "world",
+        "worker",
+        "company",
+        "work",
+        "democracy",
+        "united"
+      ],
+      "topic_weights": [
+        131.47829988313225,
+        109.52774762616804,
+        106.33424249264051,
+        98.98155807738402,
+        94.38474148826323,
+        91.08415203335555,
+        80.0950366047094,
+        78.54061472968544,
+        76.89087755170523,
+        74.16016151190797,
+        72.53036928181328,
+        71.5030973515065,
+        65.01796176342918,
+        64.98604468894676,
+        56.67292508060581
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "capitol",
+        "wa",
+        "trump",
+        "jan",
+        "republican",
+        "house",
+        "committee",
+        "police",
+        "officer",
+        "pelosi",
+        "mccarthy",
+        "leader",
+        "attack",
+        "rep",
+        "rioter"
+      ],
+      "topic_weights": [
+        314.0124867683969,
+        267.3271030929403,
+        247.6040175987512,
+        227.29845368056803,
+        209.00482990194024,
+        202.1557747228975,
+        193.04054325430215,
+        187.95436985901452,
+        169.82377307988793,
+        164.21764794857944,
+        160.06275243429823,
+        124.65287877507187,
+        124.63499195191548,
+        123.93033011290942,
+        117.36054735335853
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "representative",
+        "address",
+        "house",
+        "hearing",
+        "city",
+        "demand",
+        "medicare",
+        "action",
+        "constituency",
+        "ultimately",
+        "passage",
+        "prepared",
+        "failure",
+        "phone",
+        "improved"
+      ],
+      "topic_weights": [
+        184.11228252016667,
+        137.3267134275444,
+        111.54281769943601,
+        100.67948551054037,
+        99.51217647231505,
+        95.41329150940228,
+        95.04081766523778,
+        94.48804981486501,
+        93.79272969033065,
+        93.54148168423103,
+        93.14983461442846,
+        93.01223367433278,
+        92.82836947910673,
+        92.74390566687215,
+        91.8988655027028
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "republican",
+        "state",
+        "democrat",
+        "voter",
+        "voting",
+        "biden",
+        "election",
+        "senate",
+        "vote",
+        "ha",
+        "mcconnell",
+        "wa",
+        "democratic",
+        "law",
+        "right"
+      ],
+      "topic_weights": [
+        263.613770220567,
+        251.5858949763635,
+        221.32077064097723,
+        197.65562132702345,
+        197.16577253232174,
+        178.13140912449376,
+        171.22907586055038,
+        149.6988014268972,
+        149.2372880917887,
+        132.0559900486644,
+        131.19005405396732,
+        123.18188036898894,
+        115.52314419993598,
+        107.16987682090632,
+        103.69259751970789
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "president",
+        "vaccine",
+        "state",
+        "official",
+        "biden",
+        "did",
+        "news",
+        "covid",
+        "medium",
+        "republican",
+        "told",
+        "election"
+      ],
+      "topic_weights": [
+        1176.990692669994,
+        1043.2045683275849,
+        386.8382254667012,
+        332.8605182681151,
+        243.52199859745377,
+        221.17411679183445,
+        212.03005429470457,
+        202.90705679477975,
+        200.7317362828479,
+        195.36297619483784,
+        188.75124868902253,
+        186.75781250463876,
+        175.0826193328447,
+        166.08788466843504,
+        162.17661839858167
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 30,
+    "3": 35,
+    "4": 90,
+    "0": 29,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Leftists are some of the most passionate people in politics but also fucking braindead. We often argue and bicker about stupid pointless solutions to problems that we mostly agree upon. Yet we still h...",
+        "upvotes": 1,
+        "url": "https://metros.substack.com/p/small-steps-in-workplace-democracy"
+      },
+      {
+        "preview": "A Safer Nevada Home About Get Involved Resources Contact News More Just like with any successful campaign, our PAC needs money to hire staff, legal counsel, pollsters and signature gatherers. While we...",
+        "upvotes": 1,
+        "url": "http://www.asafernevada.org/donate"
+      },
+      {
+        "preview": "WASHINGTON (AP) — In an encouraging burst of hiring, America’s employers added 850,000 jobs in June, well above the average of the previous three months and a sign that companies may be having an easi...",
+        "upvotes": 81,
+        "url": "https://apnews.com/article/19c34ac90dbfa0f45bc9dac2a086cbfc"
+      }
+    ],
+    "1": [
+      {
+        "preview": "new video loaded: Day of Rage: An In-Depth Look at How a Mob Stormed the Capitol transcript “I pledge allegiance to the flag of the United States of America, and to the republic for which it stands, o...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/video/us/politics/100000007606996/capitol-riot-trump-supporters.html"
+      },
+      {
+        "preview": "A previous version of this article incorrectly reported the day David Moerschel was charged, his alleged username in an encrypted messaging group and Mark Grods’s age. A previous headline incorrectly ...",
+        "upvotes": 95,
+        "url": "https://www.washingtonpost.com/local/legal-issues/oathkeeper-arrested-david-moerschel/2021/07/02/0f54d5aa-db5d-11eb-9bbb-37c30dcf9363_story.html"
+      },
+      {
+        "preview": " organized actor — for example, a Proud Boy identifying a weakness in the police line near a set of stairs — set off a surge by the mob. Evidence collected by the F.B.I. suggests that the Proud Boys i...",
+        "upvotes": 2,
+        "url": "https://www.nytimes.com/2021/06/30/us/jan-6-capitol-attack-takeaways.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "constituency will ultimately lead to the loss of your seat in The House of Representatives. We will achieve Improved Medicare for All with or without you. -Printed Name:_______________________________...",
+        "upvotes": 5,
+        "url": "https://m4m4all.org"
+      }
+    ],
+    "3": [
+      {
+        "preview": "1. Senate Forecast2. Governor Forecast - 2021-2022 (All Races)3. Joe Biden Approval Rating - National and State Map 4. 2024 Republican Primary Polling5. Race for the Vaccine6.  Track Record Former Dem...",
+        "upvotes": 1,
+        "url": "https://www.racetothewh.com/virginia"
+      },
+      {
+        "preview": "Advertisement Supported by President Biden cut into Donald Trump’s margins with married men and veteran households, a Pew survey shows. But there was a far deeper well of support for Mr. Trump than ma...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2021/06/30/us/politics/pew-election-2020.html"
+      },
+      {
+        "preview": "The Pennsylvania Supreme Court overturned Bill Cosby’s 2018 sexual assault conviction on Wednesday in a 6–1 decision. By a 4–3 vote, the court also prohibited the future prosecution of Cosby for his c...",
+        "upvotes": 1,
+        "url": "https://slate.com/news-and-politics/2021/06/bill-cosby-bruce-castor-pennsylvania-supreme-court.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "SEARCH Bill Cosby, who has admitted to using drugs to target women, is out of prison. And Bruce Castor is the disastrous Trump impeachment lawyer who set the stage. It started with a press release. On...",
+        "upvotes": 1,
+        "url": "https://www.thedailybeast.com/bill-cosby-walks-free-because-of-power-hungry-prosecutor-bruce-castor"
+      },
+      {
+        "preview": "Posted By: Media Bias Fact Check June 30, 2021 Each day Media Bias Fact Check selects and publishes fact checks from around the world. We only utilize fact-checkers that are either a signatory of the ...",
+        "upvotes": 4,
+        "url": "https://mediabiasfactcheck.com/2021/06/30/the-latest-fact-checks-curated-by-media-bias-fact-check-6-30-2021/"
+      },
+      {
+        "preview": "Advertisement Supported by Charges against the former president’s company and a top executive, explained. By Ben Protess, Kate Christobek and William K. Rashbaum The Manhattan district attorney’s offi...",
+        "upvotes": 11,
+        "url": "https://www.nytimes.com/2021/07/01/nyregion/trump-organization-indictment-explained.html"
+      }
+    ]
+  }
+}

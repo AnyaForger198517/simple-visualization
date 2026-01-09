@@ -1,0 +1,275 @@
+{
+  "month": "2012-03",
+  "total_articles": 119,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "obama",
+        "republican",
+        "conservative",
+        "president",
+        "percent",
+        "woman",
+        "law",
+        "american",
+        "state",
+        "bernanke",
+        "liberal",
+        "government",
+        "fed"
+      ],
+      "topic_weights": [
+        538.3645604980329,
+        316.4966346064727,
+        283.3597354410335,
+        182.7143952429499,
+        166.99131163220542,
+        165.14244403969326,
+        154.93154254655755,
+        154.78147626772878,
+        151.94422049823322,
+        136.97635484432885,
+        133.15474588525032,
+        125.9444979685461,
+        124.51616445652186,
+        121.77573478488766,
+        110.1461034895337
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "health",
+        "ha",
+        "spending",
+        "cbo",
+        "koch",
+        "government",
+        "free",
+        "care",
+        "budget",
+        "economic",
+        "point",
+        "report",
+        "cato",
+        "billion"
+      ],
+      "topic_weights": [
+        56.78379564810816,
+        36.055251405633314,
+        34.20903971652585,
+        30.774841634179236,
+        30.75558536746857,
+        30.735654276723814,
+        30.172200586317032,
+        29.303379737057966,
+        28.43558232543753,
+        27.584528875245155,
+        26.38518290203799,
+        25.970833627594203,
+        25.20767676332831,
+        24.9995627028091,
+        24.55155359007959
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "abortion",
+        "american",
+        "price",
+        "compliant",
+        "gasoline",
+        "chu",
+        "san",
+        "lunch",
+        "tobacco",
+        "energy",
+        "state",
+        "obama",
+        "lobbyist",
+        "issue",
+        "free"
+      ],
+      "topic_weights": [
+        76.49730192395589,
+        64.68370815750076,
+        47.869986711484984,
+        40.013564300940125,
+        36.058111191759146,
+        34.31643509259301,
+        33.098241405697244,
+        31.758661788991112,
+        30.810630854008284,
+        30.725238537510286,
+        30.09513797001368,
+        29.861277245363087,
+        29.1341549118069,
+        28.472964550452943,
+        28.045037151342225
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "romney",
+        "santorum",
+        "state",
+        "delegate",
+        "ha",
+        "gas",
+        "wa",
+        "campaign",
+        "win",
+        "vote",
+        "fuel",
+        "republican",
+        "gingrich",
+        "paul",
+        "candidate"
+      ],
+      "topic_weights": [
+        213.06077703435875,
+        178.45308421355998,
+        130.02892367788948,
+        122.27566894124045,
+        84.473635425702,
+        75.28725633259893,
+        73.2713585222624,
+        64.07025843776805,
+        60.80891480097322,
+        59.21190820267985,
+        58.29545838198377,
+        57.36904733883602,
+        56.5875956477843,
+        54.973379453331255,
+        52.42936411025623
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "society",
+        "medical",
+        "care",
+        "wa",
+        "practice",
+        "david",
+        "health",
+        "service",
+        "physician",
+        "member",
+        "cost",
+        "review",
+        "insurance",
+        "state",
+        "press"
+      ],
+      "topic_weights": [
+        243.19987273304102,
+        208.5049016962705,
+        174.71435132568092,
+        167.6854377479332,
+        118.76273343173567,
+        114.55365765045495,
+        109.85276896666208,
+        80.947440541879,
+        74.49113675893985,
+        73.90126207298398,
+        69.46440990389434,
+        67.7924828353235,
+        67.38138404988229,
+        63.768961100968944,
+        61.820085466209306
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 75,
+    "3": 16,
+    "1": 22,
+    "2": 5,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "David Brooks’ Sad Elite: David Brooks says extremist “wingers” have taken over the Republican party–because those condemned as RINOs are too timid to “stand up to those who would destroy them.” (1) It...",
+        "upvotes": 1,
+        "url": "http://dailycaller.com/2012/02/28/david-broooks-sad-elite/"
+      },
+      {
+        "preview": "Even when I agree with Rick Santorum, listening to him argue the point almost makes me change my mind. I also wonder why he’s running for president, rather than governor, when the issues closest to hi...",
+        "upvotes": 1,
+        "url": "http://dailycaller.com/2012/02/29/the-problem-with-santorum/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "http://www.washingtontimes.com/news/2012/feb/29/inside-the-beltway-hilarity-was-anything-but-funny/#.T09yrZLiPtI.reddit"
+      }
+    ],
+    "1": [
+      {
+        "preview": "We get on President Obama’s case for neglecting to keep his campaign promises, so it’s only fair to note when he fulfills them. In January 2008, Obama promised to bankrupt coal-fired power plants with...",
+        "upvotes": 5,
+        "url": "http://hotair.com/archives/2012/03/01/five-coal-fueled-power-plants-to-close-due-to-obama-administration-regulation/"
+      },
+      {
+        "preview": "North Korean workers sort fortified biscuits at a factory supported by the United Nations World Food Programme in Pyongyang, North Korea Gerald Bourke/WFP via Getty Images. North Korea has agreed to s...",
+        "upvotes": 3,
+        "url": "http://www.slate.com/articles/news_and_politics/explainer/2012/03/north_korea_nuclear_deal_why_does_the_hermit_kingdom_suffer_so_many_famines_.html"
+      },
+      {
+        "preview": "NASA's data shows the 60-meter asteroid, spotted by Spanish stargazers in February, will whistle by Eah in 11 months. Its trajectory will bring it within a hair’s breadth of our planet, raising fears ...",
+        "upvotes": 0,
+        "url": "http://rt.com/news/paint-asteroid-earth-nasa-767/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "By Lori Robertson Posted on February 24, 2012 An anti-abortion group is making the shocking claim that Mitt Romney “enforced a law which required Catholic hospitals to provide abortions.” To call this...",
+        "upvotes": 5,
+        "url": "http://factcheck.org/2012/02/pac-strains-abortion-facts/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 41,
+        "url": "http://www.buzzfeed.com/awesomer/10-things-that-are-banned-in-san-francisco"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Energy Secretary Steven Chu on Tuesday disavowed his 2008 comments about increasing gas prices to European levels, remarks that Republicans have poun...",
+        "upvotes": 1,
+        "url": "http://thehill.com/blogs/e2-wire/e2-wire/215751-energy-secretary-chu-disavows-2008-gas-price-remarks"
+      }
+    ],
+    "3": [
+      {
+        "preview": "While Mitt Romney continues to rack up delegates, each of the other three GOP candidates must still be able to see a path to the nomination for himself. Otherwise, they’d drop out, right? For Newt Gin...",
+        "upvotes": 0,
+        "url": "http://hotair.com/archives/2012/02/29/whats-up-with-newt-gingrich-gallups-daily-tracking-poll-for-one-thing/"
+      },
+      {
+        "preview": "() – Republican presidential candidate Mitt Romney has won the Wyoming caucuses,  projects. Based on straw-poll results compiled and released by the Wyoming Republican Party, Romney won 39% of the vot...",
+        "upvotes": 3,
+        "url": "http://politicalticker.blogs.cnn.com/2012/02/29/breaking-romney-wins-wyoming-caucuses-cnn-projects/"
+      },
+      {
+        "preview": "() – In the race to accumulate delegates to the GOP convention, Rick Santorum faces what could be a setback in Ohio. Santorum, the former senator from neighboring Pennsylvania, has topped his rivals i...",
+        "upvotes": 7,
+        "url": "http://politicalticker.blogs.cnn.com/2012/03/03/santorum-ineligible-for-some-ohio-delegates/"
+      }
+    ],
+    "4": [
+      {
+        "preview": " indirectly; but the essential result was the same. Medical societies like the AMA imposed sanctions on doctors who dared to sign lodge practice contracts. This might have been less effective if such ...",
+        "upvotes": 3,
+        "url": "http://www.freenation.org/a/f12l3.html"
+      }
+    ]
+  }
+}

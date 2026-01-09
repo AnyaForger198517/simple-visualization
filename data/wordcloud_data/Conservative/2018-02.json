@@ -1,0 +1,36 @@
+{
+  "month": "2018-02",
+  "total_articles": 219,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Immigration and Social Equity Issues",
+      "core_keywords": ["immigrant", "migration", "family", "black", "legal", "journalist", "country"],
+      "importance_ratio": 0.2237
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "School Safety and Legal System Discourse",
+      "core_keywords": ["school", "shooting", "law", "sheriff", "student", "court", "press"],
+      "importance_ratio": 0.1917
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump and US Party Political Dynamics",
+      "core_keywords": ["trump", "president", "democrat", "republican", "tax", "house", "senate"],
+      "importance_ratio": 0.2466
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Gun Control and American Social Policy",
+      "core_keywords": ["gun", "nra", "government", "policy", "child", "obama", "state"],
+      "importance_ratio": 0.1324
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "FBI and Russian Election Interference Probe",
+      "core_keywords": ["fbi", "russian", "memo", "trump", "election", "intelligence", "foreign"],
+      "importance_ratio": 0.2056
+    }
+  ]
+}

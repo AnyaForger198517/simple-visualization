@@ -1,0 +1,280 @@
+{
+  "month": "2018-06",
+  "total_articles": 164,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "ice",
+        "border",
+        "city",
+        "child",
+        "ha",
+        "immigration",
+        "family",
+        "june",
+        "wa",
+        "trump",
+        "portland",
+        "law",
+        "country",
+        "occupy",
+        "migrant"
+      ],
+      "topic_weights": [
+        257.4353295989112,
+        181.21970610314895,
+        151.0744765978115,
+        140.39838072690029,
+        138.26835486772563,
+        134.06276406106343,
+        133.82974480621343,
+        121.73440625625321,
+        121.11853124723596,
+        120.20812395519458,
+        113.04554097519727,
+        109.59439451576895,
+        98.5926194006528,
+        89.00784525929582,
+        81.64330126343498
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "temperature",
+        "heat",
+        "wa",
+        "ha",
+        "warming",
+        "energy",
+        "change",
+        "station",
+        "climate",
+        "data",
+        "bank",
+        "doe",
+        "increase",
+        "money",
+        "model"
+      ],
+      "topic_weights": [
+        363.9492260208378,
+        297.11829940420694,
+        296.10284805342724,
+        288.56673610891255,
+        250.06284337756682,
+        241.79673767973506,
+        190.34134685836028,
+        172.40844113738686,
+        170.0065182822835,
+        166.12595788771299,
+        162.80643439230226,
+        161.67128432708103,
+        154.80186817885837,
+        150.42020043150646,
+        138.58252537143557
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "court",
+        "state",
+        "google",
+        "case",
+        "employee",
+        "woman",
+        "justice",
+        "ha",
+        "supreme",
+        "trump",
+        "law",
+        "kennedy",
+        "company",
+        "speech"
+      ],
+      "topic_weights": [
+        219.50281051188458,
+        213.43874819655906,
+        175.6327417645259,
+        130.34070780313152,
+        100.47211616158242,
+        94.70270687378587,
+        93.74888561915671,
+        92.00825126561125,
+        89.34283131755947,
+        83.12354039374605,
+        75.61010968403426,
+        70.87348924937723,
+        59.67820463258861,
+        56.74576468999072,
+        54.96212780315315
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "ha",
+        "democrat",
+        "republican",
+        "wa",
+        "state",
+        "president",
+        "voter",
+        "american",
+        "tax",
+        "democratic",
+        "party",
+        "price",
+        "sander",
+        "percent"
+      ],
+      "topic_weights": [
+        256.24450059861624,
+        236.56629534465037,
+        171.88069330200142,
+        141.90996939933802,
+        135.40551774311797,
+        126.40649546593855,
+        123.81345576661276,
+        112.71061249524425,
+        104.91289406634276,
+        101.69777051695559,
+        99.86778410216264,
+        98.84481721496215,
+        97.19160237585383,
+        96.76927554489225,
+        92.27042845215777
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "fbi",
+        "mueller",
+        "advertisement",
+        "investigation",
+        "president",
+        "agent",
+        "clinton",
+        "ha",
+        "report",
+        "robert",
+        "attack",
+        "story",
+        "told"
+      ],
+      "topic_weights": [
+        271.0113064332339,
+        171.1586720153304,
+        153.26605793994497,
+        119.91618987145952,
+        119.4675616323126,
+        106.7002363596881,
+        105.3864959450336,
+        100.24147367803388,
+        97.15816052874172,
+        92.86117206387647,
+        91.83575373237932,
+        70.13795897274863,
+        68.07992739889039,
+        64.13190611565473,
+        61.18174075578069
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 56,
+    "4": 53,
+    "2": 32,
+    "0": 21,
+    "1": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "efore commencing this review it might prove useful to review the reviewer, who nearly two decades ago published a history of the American Communist Party during World War II, entitled ''Which Side Wer...",
+        "upvotes": 3,
+        "url": "https://archive.nytimes.com/www.nytimes.com/books/99/05/09/reviews/990509.09issermt.html"
+      },
+      {
+        "preview": "If you’re horrified by news of families being separated at the borders, here’s a bit of news you can use. First, the policy: It helps to be incredibly clear on what the law is, and what has and has no...",
+        "upvotes": 7,
+        "url": "http://amp.slate.com/news-and-politics/2018/06/how-you-can-fight-family-separation-at-the-border.html"
+      },
+      {
+        "preview": "There is much concern from those against the House-passed FIRST STEP Act that it will cause a plethora of chaos and more gang-riddled communities due to its attempt to reduce recidivism. The bill is u...",
+        "upvotes": 5,
+        "url": "https://hotair.com/archives/2018/06/17/no-house-passed-first-step-act-wont-release-criminal-aliens-prison/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The world's most viewed site on global warming and climate change On June 23 1988, NASA’s James Hansen testified before Congress and made very specific predictions about global warming. In this video ...",
+        "upvotes": 175,
+        "url": "https://wattsupwiththat.com/2018/06/23/thirty-years-of-failed-climate-predictions-the-video/"
+      },
+      {
+        "preview": "According to a poll conducted by City AM on behalf of the “sovereign money” advocates Positive Money, 84% of British lawmakers don’t know that banks create money when they lend. This is despite the fa...",
+        "upvotes": 0,
+        "url": "https://www.forbes.com/sites/francescoppola/2017/10/31/how-bank-lending-really-creates-money-and-why-the-magic-money-tree-is-not-cost-free/#5aacfc1b3073"
+      }
+    ],
+    "2": [
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 9,
+        "url": "https://www.dailysignal.com/2018/06/01/new-jersey-imposes-state-obamacare-style-individual-mandate/"
+      },
+      {
+        "preview": "Get updates from Through Catholic Lenses delivered straight to your inbox CC0 image from Pixabay The Sunday Guardian (of India) published a report about a new “vaccine” to prevent pregnancy or abort a...",
+        "upvotes": 1,
+        "url": "http://www.patheos.com/blogs/throughcatholiclenses/2018/05/vaccine-designed-to-sterilize-women-in-developing-nations/"
+      },
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 14,
+        "url": "https://www.dailysignal.com/2018/06/02/7-reasons-us-should-not-ratify-un-convention-on-the-law-of-the-sea/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Scott Neuman President Trump talks with Japanese Prime Minister Shinzo Abe before dinner at Trump's private Mar-a-Lago club, in April in Palm Beach, Fla. Pablo Martinez Monsivais/AP hide caption Presi...",
+        "upvotes": 20,
+        "url": "https://www.npr.org/sections/thetwo-way/2018/05/31/615706365/abe-japan-cannot-accept-new-tariffs-on-u-s-auto-imports?"
+      },
+      {
+        "preview": "John Kasich is cheerleading the rise of a group of Republicans in Congress who are willing to challenge GOP leadership on immigration. No, he's not supporting the House Freedom Caucus' fight to get a ...",
+        "upvotes": 358,
+        "url": "https://www.conservativereview.com/news/john-kasich-is-the-last-person-in-america-republicans-should-listen-to/"
+      },
+      {
+        "preview": "Would you have kids if you were drowning in debt? Outside contributors' opinions and analysis of the most important issues in politics, science, and culture. The birthrate in the United States is the ...",
+        "upvotes": 0,
+        "url": "https://www.vox.com/the-big-idea/2018/5/31/17413356/low-birthrate-millennials-economy"
+      }
+    ],
+    "4": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Fox News senior political analyst Brit Hume fact-checked President TrumpDonald TrumpCapitol Police recommend disciplinary action for six officers in ...",
+        "upvotes": 12,
+        "url": "http://thehill.com/homenews/media/390090-foxs-hume-checks-trump-on-comey-potus-told-nbc-the-firing-was-about-the-russia"
+      },
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. ESPN managers are telling their most outspoken broadcasters and writers to be careful on social media in light of Disney axing Roseanne...",
+        "upvotes": 8,
+        "url": "https://nypost.com/2018/05/31/espn-warns-outspoken-talent-in-wake-of-roseanne-controversy/"
+      },
+      {
+        "preview": "Advertisement Hillary Clinton’s State Department gave stand down orders to Special Ops forces ready to go in and help Americans who were surrounded by hundreds of Islamic insurgents in Benghazi, Libya...",
+        "upvotes": 88,
+        "url": "https://www.thegatewaypundit.com/2018/06/fbi-releases-docs-showing-hillarys-state-department-shopped-benghazi-story-to-compliant-wsj-reporter-one-week-after-attack/"
+      }
+    ]
+  }
+}

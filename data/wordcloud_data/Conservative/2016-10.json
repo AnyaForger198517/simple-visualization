@@ -1,0 +1,36 @@
+{
+  "month": "2016-10",
+  "total_articles": 325,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2016 US Presidential Election (Trump & Clinton Campaign)",
+      "core_keywords": ["trump", "clinton", "hillary", "election", "campaign", "president", "vote", "republican", "woman"],
+      "importance_ratio": 0.7754
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Hillary Clinton's Email Scandal and FBI Investigation",
+      "core_keywords": ["hillary", "email", "fbi", "investigation", "law", "obama", "benghazi", "justice"],
+      "importance_ratio": 0.0154
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gun Control and Legal Issues in the US",
+      "core_keywords": ["gun", "police", "law", "court", "crime", "state", "officer", "ice", "attack"],
+      "importance_ratio": 0.1108
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Government and Social Policy Debates",
+      "core_keywords": ["government", "state", "war", "science", "america", "progressive", "civil", "care"],
+      "importance_ratio": 0.0923
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "War and Military-Related Public Discussion",
+      "core_keywords": ["war", "army", "men", "general", "post", "reply", "german", "great"],
+      "importance_ratio": 0.0062
+    }
+  ]
+}

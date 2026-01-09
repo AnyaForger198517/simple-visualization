@@ -1,0 +1,275 @@
+{
+  "month": "2013-08",
+  "total_articles": 162,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "wage",
+        "worker",
+        "health",
+        "cost",
+        "economic",
+        "care",
+        "job",
+        "insurance",
+        "policy",
+        "wa",
+        "food",
+        "price",
+        "work",
+        "percent"
+      ],
+      "topic_weights": [
+        123.59775215928029,
+        120.74756942188527,
+        110.92749857737329,
+        101.27301932391259,
+        91.39102219358152,
+        77.21014587448728,
+        73.83326215399923,
+        67.36252483426901,
+        60.0966054589878,
+        59.506471663789995,
+        58.972841660028976,
+        58.70854481753479,
+        55.392454551739775,
+        53.99242078408314,
+        53.83646403310145
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "prosecutor",
+        "court",
+        "state",
+        "attorney",
+        "case",
+        "ha",
+        "list",
+        "misconduct",
+        "government",
+        "orleans",
+        "evidence",
+        "law",
+        "office",
+        "louisiana"
+      ],
+      "topic_weights": [
+        131.5358210145308,
+        110.81238509012569,
+        97.80083760518757,
+        75.62244267719558,
+        65.51347116395918,
+        63.82843757392781,
+        57.17575657844734,
+        52.66380282240517,
+        44.75723382234191,
+        42.08311640469488,
+        40.491658797692885,
+        40.43315226393124,
+        39.40440592057178,
+        33.927353846144534,
+        32.02115688503618
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "child",
+        "provider",
+        "wa",
+        "union",
+        "hour",
+        "home",
+        "parent",
+        "jersey",
+        "state",
+        "care",
+        "worker",
+        "pay",
+        "rate",
+        "contract",
+        "work"
+      ],
+      "topic_weights": [
+        501.4277799722113,
+        413.30943358106066,
+        353.9706069935531,
+        328.4586323817302,
+        311.13339673263727,
+        255.37277584898817,
+        236.82042176408788,
+        230.59878035881664,
+        220.73569461100502,
+        197.45748806852615,
+        175.41294587936534,
+        160.11448834622323,
+        158.43282605368145,
+        157.0954014385847,
+        154.8965141738038
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "president",
+        "american",
+        "obama",
+        "black",
+        "republican",
+        "white",
+        "right",
+        "state",
+        "conservative",
+        "party",
+        "government",
+        "king",
+        "political"
+      ],
+      "topic_weights": [
+        534.9481309385154,
+        340.2772344578953,
+        228.45179537980047,
+        211.35110856195,
+        199.60050183675858,
+        188.5102893322678,
+        188.06574218623524,
+        168.5484981178703,
+        135.35845633917538,
+        125.06810973309774,
+        123.86607687375243,
+        116.68350958192605,
+        116.68324221300816,
+        115.78985087641085,
+        113.99024379097403
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "state",
+        "ha",
+        "manning",
+        "voter",
+        "right",
+        "strike",
+        "law",
+        "prison",
+        "voting",
+        "jones",
+        "mother",
+        "prisoner",
+        "edt",
+        "security"
+      ],
+      "topic_weights": [
+        266.960943384883,
+        232.7120174998218,
+        221.1447216565914,
+        166.96965522089508,
+        131.582738609197,
+        127.23315751360663,
+        126.6543157145952,
+        122.6101603223466,
+        119.39132105390485,
+        113.47508741928138,
+        106.07485652203833,
+        104.29164934734007,
+        103.64196569156802,
+        102.84440367065378,
+        99.82192660693806
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 13,
+    "0": 30,
+    "3": 86,
+    "4": 32,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Tomorrow, the U.S. House Committee on the Budget is holding a hearing on the progress of the War on Poverty. While the United States is still slowly recovering from the worst recession since the Great...",
+        "upvotes": 73,
+        "url": "http://www.epi.org/blog/social-security-effective-anti-poverty-program/"
+      },
+      {
+        "preview": "Supporters and opponents of the Next Generation Science Standards sparred during hearings in Kentucky last week, as critics took issue with the standards’ teaching of evolution and climate change. The...",
+        "upvotes": 18,
+        "url": "http://www.huffingtonpost.com/2013/07/29/next-generation-science-standards_n_3672418.html"
+      },
+      {
+        "preview": "If it's late summer, it's \"grand bargain\" season -- and President Obama rolled out the latest sequel in the franchise Tuesday. The new iteration is decidedly less grand than previous ones; instead of ...",
+        "upvotes": 13,
+        "url": "http://www.salon.com/2013/08/01/lonely_grover_norquist_keeps_losing_allies/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "by The Lapine · Published July 25, 2013 · Updated April 22, 2015 In a skirmish at the University of Texas Medical School in Houston about the state’s new ultra-restrictive abortion law, Democratic Sen...",
+        "upvotes": 63,
+        "url": "http://thelapine.ca/gov-perry-unable-to-find-vagina-on-anatomical-doll/"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Filner's private lawyer Harvey Berger wrote in a letter to City Attorney Jan Goldsmith on Monday th...",
+        "upvotes": 4,
+        "url": "http://www.businessinsider.com/bob-filner-lawyer-fees-sexual-harassment-training-2013-7"
+      },
+      {
+        "preview": "r Connick assistant testified in 2007 that the office policy when it came to exculpatory evidence was to be \"as restrictive as possible,\" and, \"when in doubt, don't give it up.\" The trial jury ruled f...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/2013/08/01/prosecutorial-misconduct-new-orleans-louisiana_n_3529891.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ld raise their private-pay rates or impose strict late fees to make up the difference; but Jimenez, like all the providers I spoke with, says this is unrealistic. Her clients are simply too poor—for e...",
+        "upvotes": 35,
+        "url": "http://www.thenation.com/article/175546/why-do-people-raising-our-children-earn-poverty-wages"
+      }
+    ],
+    "3": [
+      {
+        "preview": "It has been difficult to follow politics over the past several months without sensing the presence of a new John McCain. (Again.) He was a crucial player in the passage of immigration reform through t...",
+        "upvotes": 5,
+        "url": "http://www.newrepublic.com/article/114082/john-mccain-interview#"
+      },
+      {
+        "preview": "Pragmatic. Progressive. Politics. Home » Hip-Hop » Macklemore Has Added More Clarity to Same-Sex Marriage Than Most Politicians Have Macklemore. Image from Wikimedia Commons Traditionally, people have...",
+        "upvotes": 11,
+        "url": "http://centerleftorg.wordpress.com/2013/08/01/macklemore-has-added-more-clarity-to-same-sex-marriage-than-most-politicians/"
+      },
+      {
+        "preview": "Published — August 1, 2013 Updated — May 13, 2014 at 2:49 pm ET Liberal groups outraise conservative counterparts 2-to-1 during first half of 2013 Michael Beckel Former Arizona Rep. Gabrielle Giffords...",
+        "upvotes": 1,
+        "url": "http://www.publicintegrity.org/2013/08/01/13104/democrats-seize-super-pac-crown"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Neil CavutoAndrea Renault/Globe Photos/ZumaPress.com Fox News host Neil Cavuto has a special message for living-wage activists: Deal with it. “It’s like jobs aren’t enough these days,” he said on Tues...",
+        "upvotes": 11,
+        "url": "http://www.motherjones.com/mojo/2013/07/neil-cavuto-doesnt-know-how-minimum-wage-works"
+      },
+      {
+        "preview": "Written by Jeremy Holden Published 07/31/13 6:10 PM EDT Share Comment Fox News dishonestly accused White House spokesman Jay Carney of calling the September 2012 attacks in Benghazi, Libya, a “phony a...",
+        "upvotes": 38,
+        "url": "http://mediamatters.org/blog/2013/07/31/fox-fabricates-quote-to-accuse-carney-of-callin/195162"
+      },
+      {
+        "preview": "Pragmatic. Progressive. Politics. Home » Foreign Policy » Hindsight is 20/13: A Brief History of Blowback and Why We Should Expect It in Syria Iran Hostage Crisis student demonstration, Washington, D....",
+        "upvotes": 1,
+        "url": "http://centerleftorg.wordpress.com/2013/08/01/hindsight-is-2013-a-brief-history-of-blowback-and-why-we-should-expect-it-in-syria/"
+      }
+    ]
+  }
+}

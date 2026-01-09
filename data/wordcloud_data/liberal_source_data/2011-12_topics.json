@@ -1,0 +1,265 @@
+{
+  "month": "2011-12",
+  "total_articles": 71,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "health",
+        "insurance",
+        "care",
+        "medical",
+        "profit",
+        "legislation",
+        "santorum",
+        "company",
+        "law",
+        "election",
+        "today",
+        "state",
+        "license",
+        "language",
+        "loss"
+      ],
+      "topic_weights": [
+        24.397918457845993,
+        14.169329626077003,
+        14.04849317216791,
+        10.401952466080866,
+        10.400569015416227,
+        8.19433791813895,
+        7.738894570518337,
+        7.623777120121357,
+        7.567128108128654,
+        7.468432531775502,
+        6.912770624363726,
+        5.983534801213105,
+        5.827727164152715,
+        5.813663616092037,
+        5.797095880539498
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "paul",
+        "biden",
+        "ha",
+        "state",
+        "american",
+        "political",
+        "newsletter",
+        "president",
+        "liberal",
+        "america",
+        "policy",
+        "candidate",
+        "republican",
+        "racist"
+      ],
+      "topic_weights": [
+        181.56708209482503,
+        173.34328331546493,
+        118.95028866496722,
+        117.66898767413439,
+        92.80669178803645,
+        73.90814460936275,
+        65.31055664493056,
+        64.07312181108063,
+        58.56161631812726,
+        53.74030014884534,
+        53.210767782371335,
+        51.22094964843198,
+        50.79821127393579,
+        48.46069151490093,
+        48.149272476326786
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "woman",
+        "child",
+        "parent",
+        "immigration",
+        "undocumented",
+        "ha",
+        "deportation",
+        "immigrant",
+        "law",
+        "border",
+        "wa",
+        "federal",
+        "group",
+        "fear",
+        "community"
+      ],
+      "topic_weights": [
+        386.1002166857025,
+        323.39816214892824,
+        217.9121088548716,
+        147.59195370566107,
+        142.60431672567418,
+        120.49321868213262,
+        108.47766048804462,
+        104.96031986960283,
+        103.37528142226486,
+        102.09785622318863,
+        101.70915988875726,
+        88.97319094488194,
+        83.28052739134478,
+        80.34929628790216,
+        71.42520598913698
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "commissioner",
+        "report",
+        "wa",
+        "force",
+        "task",
+        "commission",
+        "safety",
+        "nuclear",
+        "senate",
+        "committee",
+        "voted",
+        "industry",
+        "chairman",
+        "vote",
+        "public"
+      ],
+      "topic_weights": [
+        163.29392829210005,
+        93.47195819928298,
+        76.95164225669001,
+        74.16599823412268,
+        73.19032417676699,
+        66.70399159500072,
+        64.55741791400241,
+        60.526094867628196,
+        59.1467552042179,
+        59.03369457152157,
+        54.25719901448001,
+        46.94194682067267,
+        45.845704613823614,
+        44.83603336752535,
+        44.05777343912096
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "tax",
+        "mother",
+        "jones",
+        "gingrich",
+        "worker",
+        "state",
+        "republican",
+        "government",
+        "job",
+        "warehouse",
+        "policy",
+        "today",
+        "law"
+      ],
+      "topic_weights": [
+        335.7419060161237,
+        196.87872896391488,
+        191.94289720257325,
+        141.29925050489504,
+        140.07590700388909,
+        134.6816554331681,
+        129.43671089963712,
+        125.22771477973474,
+        117.430614875237,
+        102.645768603241,
+        102.39401945555593,
+        90.56681713463348,
+        88.99284172877944,
+        87.16692440372876,
+        80.08164825450183
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 42,
+    "0": 4,
+    "1": 23,
+    "2": 1,
+    "3": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Image by AFP via @daylife (Note to readers: This article was originally posted in December of 2011 and gained quite a large following at that time. The story now appears to have new resonance as a res...",
+        "upvotes": 2,
+        "url": "http://www.forbes.com/sites/rickungar/2011/12/02/the-bomb-buried-in-obamacare-explodes-today-halleluja/"
+      },
+      {
+        "preview": "SIOUX CENTER, Iowa - Rick Santorum is usually quite amiable on the trail, but Monday evening at a campaign event at a small Christian college in Sioux Center, he had some tense back-and-forth exchange...",
+        "upvotes": 3,
+        "url": "http://abcnews.go.com/blogs/politics/2011/12/rick-santorum-has-tense-exchange-on-gay-rights-and-health-care-in-iowa/"
+      },
+      {
+        "preview": "With Newt Gingrich, the not-Romney du jour in the Republican front ranks spouting off about English as an official language, it's time once again to have another look at this solution in search of a p...",
+        "upvotes": 16,
+        "url": "http://www.dailykos.com/story/2011/12/11/1044169/-English-only-laws-advance--whats-really-going-on?via=spotlight"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Every product was carefully curated by an  editor. We may earn a commission from these links. I have long proposed that every single major elite political pundit be frog-marched away from the buffet t...",
+        "upvotes": 1,
+        "url": "http://www.esquire.com/blogs/politics/jon-meacham-on-newt-and-fdr-6610880"
+      },
+      {
+        "preview": "The ghost of Theodore Roosevelt presided over President Obama's speech yesterday afternoon in Osawatomie, Kansas. Indeed, in the week leading up to the president’s Osawatomie address, the White House ...",
+        "upvotes": 3,
+        "url": "http://www.tnr.com/article/politics/98233/barack-obama-teddy-roosevelt#.TuAFn0DdAmo.reddit"
+      },
+      {
+        "preview": "Anderson Cooper does some fact-checking into Gov. Perry's remarks that the left is waging a war on religious traditions. Perry is rapidly showing all of us what a backstabbing hippocrit he is, as we a...",
+        "upvotes": 13,
+        "url": "http://ac360.blogs.cnn.com/2011/12/07/video-perry-obama-at-war-on-religious-traditions/?hpt=ac_bn4"
+      }
+    ],
+    "2": [
+      {
+        "preview": " a client who arrived, as many deportees do, in a crammed van, shackled to her seat. She had no criminal record and had left behind two US-born children. Under official policy, that should have made h...",
+        "upvotes": 2,
+        "url": "http://www.thenation.com/article/165014/why-immigration-feminist-issue"
+      }
+    ],
+    "3": [
+      {
+        "preview": "m many Republicans on Capitol Hill, who not incidentally also oppose tougher regulation. Issa has been hitting the airwaves today in support of the four commissioners, and bashing Jaczko. Senator Lisa...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/blog/165109/meltdown-nuclear-regulatory-commission"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A message for regular readers of this blog: unless something big breaks later today, this will be my last day blogging AT THIS SITE. The Times is consolidating the process, so future blog-like entries...",
+        "upvotes": 16,
+        "url": "http://krugman.blogs.nytimes.com/"
+      },
+      {
+        "preview": "Jakarta—Despite the boom of recent years, Indonesia is still the sort of place from which young people seek to escape. Nearly all Indonesians who can afford it send their children to study in universi...",
+        "upvotes": 8,
+        "url": "http://www.tnr.com/article/world/97934/legal-immigration-lottery-chain-migration"
+      },
+      {
+        "preview": "Link copied. We want to bridge divides to reach everyone. The White House on Thursday rejected as insubstantial a GOP proposal to curtail unemployment insurance and food stamps for the rich as an offs...",
+        "upvotes": 8,
+        "url": "http://www.csmonitor.com/USA/Politics/The-Vote/2011/1201/Can-the-GOP-be-tough-on-the-rich-How-about-no-food-stamps"
+      }
+    ]
+  }
+}

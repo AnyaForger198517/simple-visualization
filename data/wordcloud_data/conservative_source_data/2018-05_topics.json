@@ -1,0 +1,285 @@
+{
+  "month": "2018-05",
+  "total_articles": 188,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "gun",
+        "wa",
+        "ha",
+        "law",
+        "muslim",
+        "state",
+        "student",
+        "shooting",
+        "school",
+        "fact",
+        "islam",
+        "police",
+        "story",
+        "matthew",
+        "speech"
+      ],
+      "topic_weights": [
+        158.22047497426234,
+        150.7005598437475,
+        126.33633969014252,
+        124.10644361235292,
+        85.8714302742271,
+        68.34063356455007,
+        66.33309843436635,
+        63.45204625111738,
+        60.43426584648802,
+        57.41249995823499,
+        56.07030057783584,
+        53.470033536342925,
+        53.35883847047039,
+        51.92546767521327,
+        51.62051323940442
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "campaign",
+        "twitter",
+        "obama",
+        "official",
+        "government",
+        "public",
+        "state",
+        "democrat",
+        "law",
+        "fbi",
+        "house"
+      ],
+      "topic_weights": [
+        800.195736344963,
+        413.6622955904363,
+        379.5027163069371,
+        364.9783417127327,
+        257.59318055159906,
+        208.11873563441267,
+        185.22313149087597,
+        182.57987446505769,
+        172.96662987819676,
+        167.4800732315009,
+        154.59392040672816,
+        153.26504306279807,
+        151.79694634151616,
+        146.48860076195953,
+        134.8587926342967
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "advertisement",
+        "video",
+        "wa",
+        "facebook",
+        "story",
+        "news",
+        "continues",
+        "family",
+        "gateway",
+        "pundit",
+        "trump",
+        "baby",
+        "newsletter",
+        "getty",
+        "abortion"
+      ],
+      "topic_weights": [
+        117.1820628674838,
+        71.59244679169129,
+        68.19219293543814,
+        62.35106739780286,
+        57.09167320808295,
+        53.33652325871483,
+        44.17650525916738,
+        39.89163195325303,
+        33.465726052894595,
+        33.34322385579251,
+        30.428482249753355,
+        30.419288081394917,
+        29.436116701733468,
+        28.499969318084187,
+        28.128256335266986
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "energy",
+        "white",
+        "north",
+        "ha",
+        "black",
+        "korea",
+        "movie",
+        "power",
+        "war",
+        "price",
+        "america",
+        "cost",
+        "west",
+        "kim",
+        "state"
+      ],
+      "topic_weights": [
+        136.25307654716045,
+        92.32227876124387,
+        75.29510412258853,
+        66.15854733125421,
+        60.73586347483149,
+        60.3374925897526,
+        57.90439079884414,
+        54.70678037831559,
+        53.76271681594764,
+        52.568716207893644,
+        46.27667338197784,
+        44.63136112003323,
+        41.84004540382489,
+        38.065541161244674,
+        36.464794072557225
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "american",
+        "school",
+        "child",
+        "refugee",
+        "public",
+        "education",
+        "right",
+        "human",
+        "government",
+        "country",
+        "world",
+        "political"
+      ],
+      "topic_weights": [
+        287.27468823235284,
+        166.05614260541722,
+        151.3911351742815,
+        120.42931585921306,
+        118.24203824207606,
+        115.61843385281212,
+        104.30045361073714,
+        90.77263991737897,
+        89.65312190679033,
+        85.69499775817823,
+        82.2481864289932,
+        81.67760559907518,
+        81.12646651236781,
+        78.53851973784,
+        78.39392497482037
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 82,
+    "4": 57,
+    "0": 24,
+    "3": 9,
+    "2": 16
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Associated Press issued a correction on Monday afternoon after claiming that the National Rifle Association (NRA) had banned guns in the audience...",
+        "upvotes": 14,
+        "url": "http://thehill.com/homenews/media/385563-ap-corrects-earlier-report-that-nra-banned-guns-at-pence-speech"
+      },
+      {
+        "preview": "Not just the libs. Some self-professed gun owners claim to be angry too. Brian Kemp’s running in the Republican primary for governor of Georgia. The good news is that there’s no clear-cut frontrunner;...",
+        "upvotes": 0,
+        "url": "https://hotair.com/archives/2018/05/01/triggering-libs-georgia-tv-viewers-complain-gop-gubernatorial-candidates-shotgun-ad/"
+      },
+      {
+        "preview": "by A. Z. Mohamed April 29, 2018 at 4:30 am  Pope Francis fails to differentiate between violence motivated by religious faith and violence committed by followers of all religions, but motivated by rea...",
+        "upvotes": 6,
+        "url": "https://www.gatestoneinstitute.org/12190/pope-francis-quran"
+      }
+    ],
+    "1": [
+      {
+        "preview": "According to Edward Snowden, a brilliant intelligence analyst and NSA (National Security Agency) contractor and patriot, watching the National Intelligence Director James Clapper lie under oath was th...",
+        "upvotes": 35,
+        "url": "https://thehayride.com/2018/04/clapper-lying-oath-motivated-snowden-expose-illegal-nsa-activities-videos/"
+      },
+      {
+        "preview": "Everyone who works in political media is required by law to have a Take on the WHCD. Time to fulfill my legal obligation. “Trump won the WHCD” was a popular reaction among the media and the righty cha...",
+        "upvotes": 3,
+        "url": "https://hotair.com/archives/2018/04/30/mika-brzezinski-lets-face-white-house-correspondents-dinner-disaster-win-trump/"
+      },
+      {
+        "preview": "I’d rather been hoping that this was just a one-off campaign rally moment which was good for a few laughs, but it seems to be gaining some traction among President Trump’s base and even other world le...",
+        "upvotes": 2,
+        "url": "https://hotair.com/archives/2018/04/30/lets-not-rush-another-nobel-peace-prize-debacle-trump/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The pilot and crew of Flight 1380 were praised for remaining calm after a catastrophic engine breakdown which killed one passenger. Trump meets heroic Southwest flight crew. Video, 00:01:19Trump meets...",
+        "upvotes": 17,
+        "url": "http://www.bbc.com/news/av/world-us-canada-43970963/president-trump-meets-heroic-southwest-airlines-crew"
+      },
+      {
+        "preview": "Advertisement Top conservative websites have seen a stunning drop in their Facebook traffic. This was no accident. This was the plan. In January 2017, Facebook began making algorithm changes to make s...",
+        "upvotes": 117,
+        "url": "http://www.thegatewaypundit.com/2018/05/zuckerbergs-announcement-means-final-remaining-conservative-voices-on-facebook-will-be-eliminated-by-election-day-2018/"
+      },
+      {
+        "preview": "Advertisement So who’s paying Stormy Daniels’ lawyer? Advertisement - story continues below The Daily Caller’s Peter Hasson spoke to Avenatti and asked him who is paying for his legal battle against P...",
+        "upvotes": 12,
+        "url": "http://www.thegatewaypundit.com/2018/05/stormys-lawyer-denies-hes-being-funded-by-left-wing-political-interests-utter-bullsht/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Rep. Maxine Waters (D-CA) reportedly blasted musician Kanye West on Monday evening for talking “out of turn” when asked about West’s recent praise for President Donald Trump. “Kanye West is a very cre...",
+        "upvotes": 17,
+        "url": "http://www.breitbart.com/big-government/2018/05/01/maxine-waters-kanye-talking-out-of-turn-should-think-twice-about-politics/"
+      },
+      {
+        "preview": "Two dozen skinheads turn out for a rally in rural Georgia, and the New York Times suddenly takes an interest in what goes on in the Bible Belt—if only to spite its denizens. Jacey Fortin writes: A neo...",
+        "upvotes": 1,
+        "url": "https://amgreatness.com/2018/05/01/the-myth-of-american-racism/"
+      },
+      {
+        "preview": "Read The Diplomat, Know The Asia-Pacific A new paper examines the contours of war termination in the U.S.-China context. The question “How could war start between China and the United States?” has, qu...",
+        "upvotes": 7,
+        "url": "https://thediplomat.com/2018/01/how-would-a-war-between-the-us-and-china-end/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Do you want a case of vodka with your ObamaCare this year? Or perhaps a barrel of brandy? More people do than used to be the case, and it ain’t pretty. Only a few years into Obama’s signature healthca...",
+        "upvotes": 5,
+        "url": "https://pjmedia.com/news-and-politics/obamacare-could-be-driving-people-to-drink-study-finds/"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. By Emily Smith Submit April 30, 2018 | 8:46pm Female staffers at NBC News are complaining they felt under huge pressure to sign the “women’s l...",
+        "upvotes": 15,
+        "url": "https://pagesix.com/2018/04/30/nbc-staffers-felt-pressured-to-sign-letter-defending-brokaw/?_ga=2.129703756.1715664595.1524303580-1866535745.1518874548"
+      },
+      {
+        "preview": "By Tim Stickings For Mailonline Published: 13:02 EDT, 1 May 2018 | Updated: 12:09 EDT, 2 May 2018 147 View comments Protesters marked International Workers' Day with a rally in London's Trafalgar Squa...",
+        "upvotes": 144,
+        "url": "http://www.dailymail.co.uk/news/article-5679069/International-Workers-Day-rally-Trafalgar-Square-features-banners-Stalin.html"
+      }
+    ]
+  }
+}

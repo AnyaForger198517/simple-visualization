@@ -1,0 +1,270 @@
+{
+  "month": "2014-10",
+  "total_articles": 135,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "obama",
+        "democrat",
+        "senate",
+        "party",
+        "election",
+        "president",
+        "house",
+        "gop",
+        "ha",
+        "national",
+        "democratic",
+        "win",
+        "state",
+        "wave"
+      ],
+      "topic_weights": [
+        285.63029910503843,
+        256.3053895644108,
+        243.66619266073872,
+        197.0730680326025,
+        182.31897014935006,
+        171.49418097855653,
+        165.95489338752634,
+        145.14592765031347,
+        130.86356704486155,
+        123.11065274477542,
+        118.15527766390508,
+        109.75943096183427,
+        103.62345325732716,
+        95.64517775766183,
+        93.40775104799992
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "convention",
+        "congress",
+        "article",
+        "amendment",
+        "government",
+        "constitution",
+        "ha",
+        "power",
+        "john",
+        "view",
+        "constitutional",
+        "page",
+        "popular",
+        "author"
+      ],
+      "topic_weights": [
+        234.06839856635563,
+        226.70160752801183,
+        164.3209870089188,
+        113.76195261632188,
+        102.51760848129324,
+        95.30234145377436,
+        94.68141927605951,
+        77.38033772689943,
+        65.0145357677433,
+        64.37555224067172,
+        64.30822144015747,
+        55.742059826596204,
+        50.87802414308947,
+        43.58391733730461,
+        42.753357800131525
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "house",
+        "official",
+        "libertarian",
+        "white",
+        "state",
+        "ha",
+        "comment",
+        "administration",
+        "wa",
+        "minister",
+        "obama",
+        "liberal",
+        "policy",
+        "department",
+        "money"
+      ],
+      "topic_weights": [
+        311.28797583521504,
+        303.5808237125392,
+        249.955414344389,
+        248.70358917427114,
+        220.35796769346223,
+        205.03515244964916,
+        162.77066412222945,
+        148.20573470067635,
+        133.4686006977326,
+        131.36408585932583,
+        130.09448142855373,
+        121.78380874044815,
+        113.11274844114499,
+        105.5534750390144,
+        101.94153464971068
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "gun",
+        "law",
+        "ebola",
+        "black",
+        "public",
+        "point",
+        "police",
+        "american",
+        "officer",
+        "america",
+        "news",
+        "woman",
+        "country"
+      ],
+      "topic_weights": [
+        327.9798251823336,
+        160.0159682244312,
+        107.02269795530188,
+        93.26370484089553,
+        91.91420079606476,
+        91.23771243368924,
+        80.49622284712132,
+        77.63370297376042,
+        73.52665299678583,
+        73.1741487806372,
+        68.96679953830612,
+        67.10562813439411,
+        66.01746880542872,
+        64.7876362811852,
+        64.20393561907972
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "mcconnell",
+        "china",
+        "ha",
+        "cocaine",
+        "wife",
+        "james",
+        "million",
+        "marijuana",
+        "gift",
+        "law",
+        "drug",
+        "chinese",
+        "personal",
+        "nation",
+        "coal"
+      ],
+      "topic_weights": [
+        3413.067582574091,
+        991.0664302123236,
+        846.9765767723189,
+        648.0680675698852,
+        630.6505062490336,
+        629.0836868411428,
+        568.5307332354951,
+        559.4624205336273,
+        542.8548979712549,
+        531.7263522609792,
+        502.22616876372877,
+        462.4921614167842,
+        454.67029739635194,
+        453.9324608813918,
+        441.4514304124813
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 104,
+    "0": 25,
+    "1": 2,
+    "2": 3,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 7,
+        "url": "http://newsbusters.org/blogs/jeffrey-meyer/2014/10/05/van-jones-dems-should-use-ebola-campaign-talking-point-against-gop?utm_source=facebook&utm_medium=marketing&utm_campaign=van-jones"
+      },
+      {
+        "preview": "Illinois’ comeback story starts here. The Great Recession knocked 500,000 Illinoisans out of work from January 2008 to November 2009, according to the Bureau of Labor Statistics’ household survey. And...",
+        "upvotes": 3,
+        "url": "http://www.nytimes.com/2014/10/08/us/politics/in-this-election-obamas-party-benches-him.html"
+      },
+      {
+        "preview": "If there are two things MSNBC host Chris Matthews is known for, they’re his love for President Barack Obama and his knack for assuming that everyone who disagrees with him is a racist. It’s a bit shoc...",
+        "upvotes": 19,
+        "url": "http://e.nrsc.org/t/j-0C431FF6C7C81FD5"
+      }
+    ],
+    "1": [
+      {
+        "preview": "By Heather Wilhelm - October 23, 2014 When it comes to public image, the millennial generation isn’t exactly knocking the cover off the ball. Just Google something like “Millennials are the worst” and...",
+        "upvotes": 1,
+        "url": "http://www.thenewamerican.com/usnews/health-care/item/19058-calif-forces-catholic-universities-to-cover-employees-abortions"
+      },
+      {
+        "preview": "We’ve had an avalanche of polling this week that shows Republicans making major inroads on the midterm electorate, both on the national level and in state-by-state surveys. Polling, however, isn’t an ...",
+        "upvotes": 5,
+        "url": "http://www.opednews.com/articles/Democracy-oligarchy-a-co-by-Neal-Herrick-Congress_Democracy_Democracy_Democracy-History-141029-72.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Hillary Clinton has apparently taken a page out of Lizzy Warren’s “you didn’t build that” playbook. The following audio is not very clear but it you listen closely you will hear her say not to “let an...",
+        "upvotes": 3,
+        "url": "http://www.vox.com/2014/10/24/7053561/rand-paul-foreign-policy-speech"
+      },
+      {
+        "preview": "The Michigan legislature's April vote to call for a constitutional convention could trigger a people's movement capable of ending our oligarchy and restoring our democracy. It is possible, though impr...",
+        "upvotes": 1,
+        "url": "http://reason.com/archives/2014/10/29/as-election-looms-optimistic-amash-sees"
+      },
+      {
+        "preview": "To go along with yesterday’s story about the public getting served good and hard, the tale of a friend who flew to Los Angeles with the temerity to wear a belt buckle that looks like a mid-century toy...",
+        "upvotes": 1,
+        "url": "http://thecable.foreignpolicy.com/posts/2014/10/29/white_house_distances_itself_from_netanyahu_chickenshit_comment"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 36,
+        "url": "http://newsbusters.org/blogs/tom-blumer/2014/09/30/politico-mag-pic-implies-george-wallace-was-gop-article-claims-countrys"
+      },
+      {
+        "preview": "This article was first published on June 21, 2015. (.com) -- Dr. Paul R. McHugh, the former psychiatrist-in-chief for Johns Hopkins Hospital and its current Distinguished Service Professor of Psychiat...",
+        "upvotes": 84,
+        "url": "http://cnsnews.com/news/article/michael-w-chapman/johns-hopkins-psychiatrist-transgender-mental-disorder-sex-change"
+      },
+      {
+        "preview": "Happy Anniversary everybody! What anniversary am I talking about? Well, if you read this post that I wrote last week you know that today marks the 18th anniversary (at least) of there being no global ...",
+        "upvotes": 1,
+        "url": "http://americaswatchtower.com/2014/10/01/weather-satellite-data-shows-there-has-been-no-global-warming-for-18-years/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "What’s the best metric to determine whether a wave election is coming? The generic Congressional ballot margins in polls certainly can give us an indication, as can presidential approval ratings and p...",
+        "upvotes": 8,
+        "url": "http://www.thenation.com/article/186689/mitch-mcconnells-freighted-ties-shadowy-shipping-company"
+      }
+    ]
+  }
+}

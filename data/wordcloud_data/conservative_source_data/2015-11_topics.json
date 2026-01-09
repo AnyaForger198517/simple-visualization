@@ -1,0 +1,285 @@
+{
+  "month": "2015-11",
+  "total_articles": 345,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "cruz",
+        "ha",
+        "wa",
+        "percent",
+        "clinton",
+        "rubio",
+        "state",
+        "carson",
+        "climate",
+        "obama",
+        "government",
+        "candidate",
+        "company",
+        "hillary",
+        "global"
+      ],
+      "topic_weights": [
+        401.9466875546254,
+        336.5958036999397,
+        316.4748043726119,
+        268.78201345022296,
+        253.38721290358333,
+        221.6895027544332,
+        219.94228275761847,
+        191.98374764585154,
+        160.90651062407832,
+        153.24417363550015,
+        141.22074071575068,
+        139.44639485241268,
+        138.51049613505987,
+        135.78402983061622,
+        130.10805093397266
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "november",
+        "posted",
+        "wa",
+        "jay",
+        "oke",
+        "guevara",
+        "white",
+        "jane",
+        "ha",
+        "great",
+        "did",
+        "bruce",
+        "fsuad",
+        "university",
+        "point"
+      ],
+      "topic_weights": [
+        3788.0146315161755,
+        3775.588343382555,
+        417.00731166360913,
+        192.14736795942872,
+        185.26555584255007,
+        183.45993861005314,
+        152.80417455991673,
+        112.98369796714839,
+        109.84989048730333,
+        105.41656497368577,
+        104.14772720175677,
+        102.64087352525245,
+        93.57474224447905,
+        89.42745159928202,
+        83.48921177086834
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "student",
+        "wa",
+        "white",
+        "speech",
+        "university",
+        "ha",
+        "black",
+        "party",
+        "campus",
+        "old",
+        "free",
+        "college",
+        "law",
+        "freedom",
+        "american"
+      ],
+      "topic_weights": [
+        481.37976753847653,
+        304.1605650674675,
+        288.3872436344437,
+        260.6123940090754,
+        239.4737638866552,
+        236.24005920412375,
+        227.38973939964106,
+        209.40391012682852,
+        181.45976205625124,
+        157.68615446647698,
+        156.95399070054418,
+        129.2169162589003,
+        128.7665529879187,
+        128.62441288098503,
+        127.2783740503757
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "refugee",
+        "obama",
+        "ha",
+        "state",
+        "attack",
+        "isi",
+        "american",
+        "country",
+        "president",
+        "terrorist",
+        "war",
+        "muslim",
+        "advertisement",
+        "paris"
+      ],
+      "topic_weights": [
+        654.3976077257754,
+        545.2916265235522,
+        462.2185067690001,
+        418.87602732496475,
+        319.352056216794,
+        309.54063299236697,
+        306.56731738464424,
+        291.2801325423039,
+        259.6528170258118,
+        240.37829945695722,
+        237.87257193764643,
+        217.3176535088047,
+        216.79948305741078,
+        211.27428571847184,
+        204.43953507826888
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "state",
+        "trump",
+        "ha",
+        "republican",
+        "immigration",
+        "candidate",
+        "president",
+        "conservative",
+        "issue",
+        "american",
+        "campaign",
+        "policy",
+        "election",
+        "law"
+      ],
+      "topic_weights": [
+        667.248801070738,
+        395.56532880892956,
+        374.6881609155098,
+        362.2799285627146,
+        279.795003549283,
+        192.68990063906793,
+        175.15210633495172,
+        163.38697440864465,
+        143.76346369817966,
+        143.39541787839164,
+        141.84012812030352,
+        138.7304943231928,
+        134.9384069884855,
+        134.262367814249,
+        131.26527602611256
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 97,
+    "4": 116,
+    "2": 56,
+    "0": 73,
+    "1": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Bernie Sanders has long referred to himself as a socialist rather than a member of the Democratic Party, which has naturally led to a lot of questions about what socialism means to him. He consistentl...",
+        "upvotes": 57,
+        "url": "http://www.vox.com/2015/10/31/9650030/denmark-prime-minister-bernie-sanders"
+      },
+      {
+        "preview": "The first poll taken after the CNBC Republican debate finds Donald Trump and Ben Carson still ahead of the Republican field. With 26 percent support each, the two first-time candidates command support...",
+        "upvotes": 30,
+        "url": "http://www.breitbart.com/big-government/2015/10/31/post-debate-poll-trump-carson-lead-cruz-third/"
+      },
+      {
+        "preview": "Photo by Rick Wilking/Reuters Jeb Bush’s campaign has been pronounced dead about 100 different ways by almost every media outlet. This is great and funny. Is it true? So far only Bush seems to think h...",
+        "upvotes": 11,
+        "url": "http://www.slate.com/articles/news_and_politics/politics/2015/10/the_gop_may_protect_marco_rubio_from_jeb_bush_s_worst_attacks_the_party.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": " to show everybody how they can get whatever they want by crying loudly enough. No. We're firing the University President for not having the JUDGMENT to know how to kow tow to ridiculous grievance-mon...",
+        "upvotes": 17,
+        "url": "http://acecomments.mu.nu/?post=359991"
+      },
+      {
+        "preview": "37 seconds. 15 queries taking 0.0168 seconds, 360 records returned.Page size 184 kb.Powered by Minx 0.7 alpha. underB at November 19, 2015 06:48 PM (zOTsN) 315 [Dr. Ruth voice] Oh boy! The people with...",
+        "upvotes": 10,
+        "url": "http://acecomments.mu.nu/?post=360175"
+      },
+      {
+        "preview": "es and illegal aliens. Do we really mean to hurt them, do we really mean to make them cry? .... Posted by: ThunderB at November 24, 2015 05:21 PM (zOTsN) 228 In other news, Johnny Manziel is a retard....",
+        "upvotes": 8,
+        "url": "http://acecomments.mu.nu/?post=360259"
+      }
+    ],
+    "2": [
+      {
+        "preview": "HBO’s “Real Time” host Bill Maher railed against “the PC police” and the “lazy liberalism” they practice by being offended over Halloween costumes on Friday. Maher said, “the PC police have to stop le...",
+        "upvotes": 164,
+        "url": "http://www.breitbart.com/video/2015/10/30/maher-pc-police-getting-offended-over-halloween-costumes-is-just-lazy-liberalism/"
+      },
+      {
+        "preview": "In a frightening sign of how even the youngest of children can now be exploited by gender-confused fanatics, six-year-old Devina Keswani—originally named Dev and born male but now assuming the role of...",
+        "upvotes": 109,
+        "url": "http://www.breitbart.com/big-journalism/2015/10/30/transgender-6-year-old-stars-people-com-web-series/"
+      },
+      {
+        "preview": "Is it wrong to call someone who steals a \"criminal\"? In a recent thread on NextDoor, a group of neighbors living in the Noe Valley-Glen Park area were engaged in a discussion around the city's crime a...",
+        "upvotes": 112,
+        "url": "http://www.sfgate.com/news/article/Political-correctness-San-Francisco-criminal-6598509.php"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Swedish journalist Valentina Xhaferi set out to report on a Muslim no-go zone in Stockholm. The reporter ended up being chased out of the district by a stone-throwing Muslim mob. Reporte...",
+        "upvotes": 63,
+        "url": "http://www.thegatewaypundit.com/2015/10/video-journalist-stoned-while-trying-to-film-muslim-no-go-zone-in-sweden/"
+      },
+      {
+        "preview": "Your FP Insider Access: Trudeau’s risky gamble may spell his end. France recalls its envoys to Washington and Canberra over a dispute ahead of the major U.N. summit. The Israeli government is ramping ...",
+        "upvotes": 6,
+        "url": "http://foreignpolicy.com/2015/10/30/putin-and-politics-are-behind-obamas-decision-to-send-troops-to-syria/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Officials in Hillary ClintonHillary Diane Rodham ClintonThe risks of running as Trump-lite If another 9/11 happened in a divided 2021, could national...",
+        "upvotes": 15,
+        "url": "http://thehill.com/blogs/blog-briefing-room/news/258794-libya-embassy-email-warned-clinton-not-to-emphasize-video"
+      }
+    ],
+    "4": [
+      {
+        "preview": "RNC Chairman Reince Priebus declared that CNBC “betrayed” both the RNC and the candidates on Friday’s “On the Record with Greta Van Susteren” on the Fox News Channel. Priebus said, “the truth is is th...",
+        "upvotes": 8,
+        "url": "http://www.breitbart.com/video/2015/10/30/rnc-chairman-priebus-cnbc-betrayed-us-and-the-candidates/"
+      },
+      {
+        "preview": "The CNBC executive who oversaw the disastrous Republican presidential debate is a former Clinton White House staffer,  News has learned. Brian Steel, senior vice president of communications at CNBC, w...",
+        "upvotes": 16,
+        "url": "http://www.breitbart.com/big-government/2015/10/31/cnbc-debate-executive-worked-clinton-white-house-al-gore/"
+      },
+      {
+        "preview": "In the wake of the debate debacle that’s delivered a gut punch to CNBC, many staffers at the business network are divided over whether “extremely biased” and “far left” correspondent and moderator Joh...",
+        "upvotes": 19,
+        "url": "https://www.yahoo.com/tv/s/cnbc-staffers-divided-whether-extremely-biased-john-harwood-182221377.html?soc_src=social-sh&soc_trk=tw"
+      }
+    ]
+  }
+}

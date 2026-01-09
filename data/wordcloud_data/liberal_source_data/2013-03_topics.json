@@ -1,0 +1,285 @@
+{
+  "month": "2013-03",
+  "total_articles": 95,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "paul",
+        "american",
+        "ha",
+        "jones",
+        "mother",
+        "president",
+        "power",
+        "obama",
+        "government",
+        "bank",
+        "question",
+        "drone",
+        "policy",
+        "house"
+      ],
+      "topic_weights": [
+        174.06438778115538,
+        132.35821733948498,
+        91.3291650620572,
+        89.62863642492445,
+        84.35793828682239,
+        80.9184150540761,
+        76.84623666374263,
+        71.26790210536005,
+        62.29423635807371,
+        61.576069112622214,
+        54.26187821208638,
+        52.601660894539265,
+        48.66583864877742,
+        47.712988959606264,
+        44.23223614082522
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "prison",
+        "wa",
+        "party",
+        "reform",
+        "republican",
+        "democrat",
+        "immigrant",
+        "immigration",
+        "house",
+        "private",
+        "bush",
+        "democratic",
+        "obama",
+        "american"
+      ],
+      "topic_weights": [
+        165.4346013153926,
+        148.5868185274501,
+        121.14148306404874,
+        116.03264075311408,
+        114.74843316117085,
+        100.52321401017363,
+        97.58042844282252,
+        86.91534798966758,
+        76.8591773356695,
+        75.88241114853734,
+        71.85084770645975,
+        68.96849733573323,
+        67.13352336965285,
+        66.80882061114809,
+        65.80036138713089
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "sick",
+        "leave",
+        "paid",
+        "alec",
+        "ha",
+        "member",
+        "city",
+        "legislation",
+        "local",
+        "law",
+        "pre",
+        "wisconsin",
+        "level",
+        "business"
+      ],
+      "topic_weights": [
+        472.0483728615009,
+        379.6307845947735,
+        376.8362817207029,
+        299.42218173007683,
+        185.04582966300566,
+        179.82745453582226,
+        144.91149189829753,
+        136.55236247431267,
+        112.17128858948698,
+        111.72353384815534,
+        109.23749522237802,
+        107.6347127845192,
+        99.95943360879102,
+        99.00935352030636,
+        93.79723815686081
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "gun",
+        "government",
+        "ha",
+        "state",
+        "law",
+        "amendment",
+        "vote",
+        "control",
+        "war",
+        "right",
+        "america",
+        "life",
+        "american",
+        "free"
+      ],
+      "topic_weights": [
+        270.72616222052113,
+        213.7923061922419,
+        133.31945261781738,
+        123.06463534202298,
+        109.89276812128453,
+        82.85077003843749,
+        82.13123558055777,
+        72.99763262700004,
+        72.67077865131444,
+        69.45658885248668,
+        68.85591184175004,
+        65.53781237739035,
+        65.36401927115676,
+        63.23053184396099,
+        62.192922650371756
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "budget",
+        "tax",
+        "percent",
+        "policy",
+        "cut",
+        "economic",
+        "work",
+        "billion",
+        "spending",
+        "republican",
+        "job",
+        "fiscal",
+        "plan",
+        "ha",
+        "deficit"
+      ],
+      "topic_weights": [
+        230.52896142680103,
+        202.94956831102388,
+        148.45369086870843,
+        135.54939173386688,
+        134.1662456950638,
+        118.93629734664573,
+        93.8080590076654,
+        92.6785891535167,
+        86.32134728701539,
+        71.24957133387275,
+        68.32796508251496,
+        67.76287592092457,
+        63.45344416441501,
+        62.19105654801242,
+        62.11953094686221
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 40,
+    "1": 16,
+    "0": 24,
+    "4": 11,
+    "2": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Dinosaurs lived during the Ice Age, right? Obama: <a  Freed</a> / <a  dinosaur: <a  In general, I’m no fan of intellectual whack-a-mole. Nevertheless, there’s one bad idea that circulates and recircul...",
+        "upvotes": 1,
+        "url": "http://www.motherjones.com/politics/2013/03/theres-no-such-thing-liberal-war-science"
+      },
+      {
+        "preview": " be imposed on the victims of the meltdown rather than the perpetrators of their financial ruin. Occupy Wall Street is gone, but the headline in Monday’s WSJ states “New York City Leads Jump in Homele...",
+        "upvotes": 8,
+        "url": "http://www.thenation.com/article/173188/whiny-billionaires-need-sequestration"
+      },
+      {
+        "preview": "This year Democracy Now! is celebrating our 25th anniversary—that's 25 years of bringing you fearless, independent reporting. Since our very first broadcast in 1996, Democracy Now! has refused to take...",
+        "upvotes": 1,
+        "url": "http://www.democracynow.org/2013/3/7/headlines#370"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Don't look at Obama or Republicans in Congress. The failure of the bipartisan \"supercommittee\" 15 months ago created the current mess. Patty Murray. Jon Kyl. Max Baucus. Rob Portman. John Kerry. Pat T...",
+        "upvotes": 45,
+        "url": "http://www.theatlantic.com/politics/archive/2013/02/heres-who-is-really-to-blame-for-sequestration/273587/"
+      },
+      {
+        "preview": "rants, average citizens want more prisons or the enforcement-first mentality, so that shows that these politicians are listening to the prison lobbyists, not voters.” Want to learn more about the repr...",
+        "upvotes": 15,
+        "url": "http://www.thenation.com/article/173120/how-private-prisons-game-immigration-system"
+      },
+      {
+        "preview": "WASHINGTON -- A new short-term budget bill introduced on Monday by House Republicans includes a bizarre provision banning federal funding to anti-poverty group ACORN, despite the fact that the group h...",
+        "upvotes": 0,
+        "url": "http://www.huffingtonpost.com/2013/03/05/acorn-gop-budget-bill_n_2810345.html?utm_hp_ref=politics"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Progressives are making real headway on mandatory paid sick leave at the local level—but the conservative pushback is on. By signing up, you confirm that you are over the age of 16 and agree to receiv...",
+        "upvotes": 3,
+        "url": "http://www.thenation.com/blog/173265/paid-sick-leave-battle-widens-states"
+      },
+      {
+        "preview": "Last month, the Phoenix City Council passed a package of nondiscrimination protections to ensure that people have equal access to employment, housing and public accommodations regardless of sexual ori...",
+        "upvotes": 6,
+        "url": "http://www.salon.com/2013/03/20/arizona_lawmaker_wants_to_ban_trans_people_from_using_the_wrong_bathroom/"
+      },
+      {
+        "preview": "The Republican-controlled Kansas House of Representatives on Tuesday approved legislation that would require drug testing for members of the state Legislature along with those seeking welfare and unem...",
+        "upvotes": 4,
+        "url": "http://www.huffingtonpost.com/2013/03/27/kansas-drug-testing_n_2965176.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The US soldier accused of leaking large numbers of secret documents to Wikileaks has pleaded guilty to 10 of the 22 charges against him. But Pfc Bradley Manning, 25, denied the most serious charge aga...",
+        "upvotes": 30,
+        "url": "http://www.bbc.co.uk/news/world-us-canada-21610811"
+      },
+      {
+        "preview": "Sean Hannity attempted to tie Muslim Rep. Keith Ellison, D-Minn., to controversial Nation of Islam pastor Louis Farrakhan and his national assistant Khalid Mohammed, following an explosive interview o...",
+        "upvotes": 17,
+        "url": "http://www.salon.com/2013/03/01/hannity_accuses_keith_ellison_of_a_host_of_radical_connections/"
+      },
+      {
+        "preview": "The historically liberal school has seen a remarkable surge in hate crimes in recent weeks. Finney Chapel at Oberlin College. Follow @Newsfeed Oberlin College, a private, small liberal arts college in...",
+        "upvotes": 20,
+        "url": "http://newsfeed.time.com/2013/03/04/kkk-figure-prompts-oberlin-college-to-cancel-classes/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Guest Accurately Identified Specific Cuts Obama Supports Written by Chelsea Rudman Published 03/05/13 9:03 PM EST Share Comment Fox News host Bill O'Reilly broke down and screamed at his guest Alan Co...",
+        "upvotes": 35,
+        "url": "http://mediamatters.org/blog/2013/03/05/confronted-with-facts-oreilly-screams-bullshit/192927"
+      },
+      {
+        "preview": "Why mainstream media pundits keep punting. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs that support The Nation’s journali...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/blog/173199/cognitus-interruptus-sunday-morning-talk-shows"
+      },
+      {
+        "preview": "things at any given moment makes it more inefficient and expensive for government to make up the ground down the road. This conservative retreat from a simple understanding of government spending as i...",
+        "upvotes": 2,
+        "url": "http://www.thenation.com/blog/173168/nothing-new-under-wingnut-sun-reckless-spending-cuts"
+      }
+    ]
+  }
+}

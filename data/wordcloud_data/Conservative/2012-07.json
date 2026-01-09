@@ -1,0 +1,36 @@
+{
+  "month": "2012-07",
+  "total_articles": 86,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Urban Governance and Public Security",
+      "core_keywords": ["city", "tax", "police", "shooting", "officer", "business"],
+      "importance_ratio": 0.1744
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Obama Administration and Supreme Court Rulings",
+      "core_keywords": ["obama", "supreme court", "romney", "law", "mandate", "campaign", "tax"],
+      "importance_ratio": 0.3953
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Bush Administration and Iraq War Legacy",
+      "core_keywords": ["bush", "iraq", "war", "president", "american", "website"],
+      "importance_ratio": 0.0349
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Labor Unions and Economic Issues",
+      "core_keywords": ["union", "labor", "worker", "economic", "company", "president"],
+      "importance_ratio": 0.0349
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2012 Presidential Election Politics",
+      "core_keywords": ["romney", "obama", "republican", "government", "america", "job", "political"],
+      "importance_ratio": 0.3505
+    }
+  ]
+}

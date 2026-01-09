@@ -1,0 +1,36 @@
+{
+  "month": "2017-10",
+  "total_articles": 139,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US federal law, intelligence and privacy issues related to foreign affairs",
+      "core_keywords": ["federal law", "intelligence", "FBI", "foreign", "privacy", "government", "American"],
+      "importance_ratio": 4.32
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Manafort's foreign money and indictment related to Trump-Russia investigation",
+      "core_keywords": ["Manafort", "indictment", "foreign money", "Mueller", "Trump", "conspiracy", "violation"],
+      "importance_ratio": 1.44
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's tax policy, campaign and election with Russia investigation context",
+      "core_keywords": ["Trump", "tax", "campaign", "election", "Mueller", "Russia", "president"],
+      "importance_ratio": 30.22
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "American social issues involving women, race and life experience",
+      "core_keywords": ["American", "woman", "white", "life", "property", "human", "student"],
+      "importance_ratio": 46.76
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "US political parties, Trump and Obama-Clinton related political issues",
+      "core_keywords": ["Republican", "Trump", "Obama", "Clinton", "political", "FBI", "president"],
+      "importance_ratio": 17.27
+    }
+  ]
+}

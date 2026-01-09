@@ -1,0 +1,285 @@
+{
+  "month": "2012-01",
+  "total_articles": 70,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "poverty",
+        "wa",
+        "child",
+        "percent",
+        "job",
+        "american",
+        "work",
+        "money",
+        "family",
+        "police",
+        "million",
+        "youth",
+        "opportunity",
+        "income",
+        "white"
+      ],
+      "topic_weights": [
+        490.19302920069714,
+        456.61518389285214,
+        410.86119263573534,
+        385.1158299476006,
+        331.42160405021724,
+        251.41534422291423,
+        221.5893212957475,
+        210.80950472644366,
+        206.65549899156628,
+        193.44681228967042,
+        190.3865511043285,
+        176.26556748047122,
+        168.5045340200683,
+        163.8415232794259,
+        163.51128182799448
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "conservative",
+        "romney",
+        "santorum",
+        "republican",
+        "candidate",
+        "ha",
+        "gingrich",
+        "vote",
+        "party",
+        "primary",
+        "social",
+        "wa",
+        "iowa",
+        "race",
+        "court"
+      ],
+      "topic_weights": [
+        157.47222409360964,
+        131.91441590449506,
+        98.60437512368006,
+        90.9786654456909,
+        85.21963319715874,
+        75.25550507438683,
+        74.61700405203594,
+        70.84881184705786,
+        69.96331543312512,
+        66.54140955232789,
+        66.38746707676617,
+        65.93632914616889,
+        55.019283264489864,
+        52.834331838350714,
+        48.86147074623228
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "wa",
+        "paul",
+        "hampshire",
+        "ha",
+        "iowa",
+        "ron",
+        "government",
+        "country",
+        "republican",
+        "national",
+        "medium",
+        "american",
+        "president",
+        "black"
+      ],
+      "topic_weights": [
+        356.0535537194637,
+        311.6335100655984,
+        257.1890051668031,
+        231.5584485181034,
+        222.32227125175365,
+        201.12712043472317,
+        183.01845350260038,
+        144.30428706396705,
+        142.34706891760064,
+        141.7687422206536,
+        138.2949796959651,
+        137.73467492165642,
+        133.80754530174715,
+        126.62956939106265,
+        126.21987822663345
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "school",
+        "mother",
+        "jones",
+        "wa",
+        "ha",
+        "policy",
+        "law",
+        "story",
+        "today",
+        "support",
+        "term",
+        "privacy",
+        "child",
+        "journalism",
+        "agree"
+      ],
+      "topic_weights": [
+        138.0958438980087,
+        124.0911556089361,
+        121.57622486009075,
+        111.98992994660426,
+        84.23136320157109,
+        68.0425229310819,
+        67.43428065957235,
+        60.729176487486335,
+        59.460306006990756,
+        58.20170310067315,
+        50.65328953120462,
+        48.885660659076215,
+        48.85824243887058,
+        47.072793919253115,
+        45.530845851779326
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "obama",
+        "wa",
+        "ha",
+        "recall",
+        "state",
+        "republican",
+        "walker",
+        "million",
+        "united",
+        "wisconsin",
+        "ad",
+        "election",
+        "governor",
+        "citizen",
+        "political"
+      ],
+      "topic_weights": [
+        246.73397676402817,
+        183.44919068494445,
+        136.2749221687261,
+        134.56872926954554,
+        131.69584943656318,
+        118.01061283657253,
+        116.19765605604567,
+        112.03198447846489,
+        99.31495460421363,
+        96.99231310371376,
+        94.21664143882755,
+        93.16606779809283,
+        92.61343736972627,
+        88.00839679568077,
+        85.41597210127354
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 11,
+    "2": 31,
+    "3": 15,
+    "4": 6,
+    "0": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Three big points, here. First, the fact that all the lines in the second graph are above zero suggest that the vast majority of households that don't pay federal income taxes do pay federal taxes. (Th...",
+        "upvotes": 63,
+        "url": "http://www.theatlantic.com/business/archive/2012/01/the-gops-weird-obsession-with-poor-people-not-paying-enough-taxes/250928/"
+      },
+      {
+        "preview": "Advertisement Supported by Op-Ed Contributors By Alfred Blumstein and Kiminori Nakamura IN 2010, the Chicago Public Schools declined to hire Darrell Langdon for a job as a boiler-room engineer, becaus...",
+        "upvotes": 25,
+        "url": "http://www.nytimes.com/2012/01/10/opinion/paying-a-price-long-after-the-crime.html?nl=todaysheadlines&emc=tha212"
+      },
+      {
+        "preview": "The clash between rich and poor ranks as the greatest U.S. social conflict, pollsters find. By MACKENZIE WEINGER 01/11/2012 02:48 PM EST Although the Occupy Wall Street movement has receded from the h...",
+        "upvotes": 1,
+        "url": "http://www.politico.com/news/stories/0112/71338.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Social Security? Obamacare? Dodd-Frank? Nope. Virginia’s ballot-access laws. Of the seven candidates still in serious contention for the Republican nomination for the presidency, only two of them — Mi...",
+        "upvotes": 3,
+        "url": "http://www.dailykos.com/story/2011/12/31/1050105/-This-week-in-the-War-on-Voting:-When-Republicans-hate-ballot-restrictions"
+      },
+      {
+        "preview": "Chief Justice John G. Roberts Jr. defended his colleagues as “jurists of exceptional integrity and experience” and said Saturday that it was a misconception that Supreme Court justices do not follow t...",
+        "upvotes": 4,
+        "url": "http://www.washingtonpost.com/politics/roberts-defends-supreme-court-colleagues-on-recusal-issue/2011/12/29/gIQAp9fySP_story.html"
+      },
+      {
+        "preview": "Enter your email address to follow this blog and receive notifications of new posts by email. Join 46 other followers Email Address: Sign me up! We have several hours to go here in Texas before we rai...",
+        "upvotes": 1,
+        "url": "http://wp.me/p1vJED-e5"
+      }
+    ],
+    "2": [
+      {
+        "preview": "NEW YORK -- New York Times staffers unhappy with management are letting publisher Arthur Sulzberger Jr. know it. In recent days, more than 270 current and former Times employees have signed an open le...",
+        "upvotes": 7,
+        "url": "http://www.huffingtonpost.com/2011/12/26/new-york-times-arthur-sulzberger-letter_n_1170401.html"
+      },
+      {
+        "preview": "Iowa and New Hampshire voters are supposedly better informed because they get to meet the presidential candidates in person. They aren’t. By signing up, you confirm that you are over the age of 16 and...",
+        "upvotes": 8,
+        "url": "http://www.thenation.com/blog/165383/handful-white-people-who-choose-your-presidential-candidates"
+      },
+      {
+        "preview": "Enter your email address to follow this blog and receive notifications of new posts by email. Join 46 other followers Email Address: Sign me up! Michelle Bachmann saying she has made zero gaffes while...",
+        "upvotes": 1,
+        "url": "http://wp.me/p1vJED-eA"
+      }
+    ],
+    "3": [
+      {
+        "preview": "John Locke FRS (/lɒk/; 29 August 1632 – 28 October 1704) was an English philosopher and physician, widely regarded as one of the most influential of Enlightenment thinkers and commonly known as the \"F...",
+        "upvotes": 1,
+        "url": "http://en.wikipedia.org/wiki/John_Locke"
+      },
+      {
+        "preview": "So then: Ron Paul. Should we lefties be happy he’s in the presidential race, giving noninterventionism a voice, even if he has other beliefs we find less agreeable? Should we be happy that his nonmain...",
+        "upvotes": 107,
+        "url": "http://motherjones.com/kevin-drum/2012/01/crackpots-messengers"
+      },
+      {
+        "preview": "Illustration: Zina Saunders See a related slideshow of Santorum illustration outtakes here, or watch related Santorum animations here and here. Rick Santorum would very much like to be president. For ...",
+        "upvotes": 58,
+        "url": "http://motherjones.com/politics/2010/08/rick-santorum-google-problem-dan-savage"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by News Analysis By Elisabeth Bumiller and Thom Shanker WASHINGTON — President Obama has for the first time put his own stamp on an all-encompassing American military policy by...",
+        "upvotes": 58,
+        "url": "http://www.nytimes.com/2012/01/06/us/obama-at-pentagon-to-outline-cuts-and-strategic-shifts.html"
+      },
+      {
+        "preview": "Walker has told allies there’s “no doubt” that Republican governors would back off attacks on unions if he loses. By signing up, you confirm that you are over the age of 16 and agree to receive occasi...",
+        "upvotes": 30,
+        "url": "http://www.thenation.com/blog/165715/scott-walker-admits-his-defeat-would-stall-gops-antilabor-push"
+      },
+      {
+        "preview": "A week full of progressives victories—SOPA, Keystone and Wisconsin recall efforts—bring great reminders about the long game of organizing. By signing up, you confirm that you are over the age of 16 an...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/blog/165781/what-if-citizens-united-actually-united-citizens"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "month": "2015-02",
+  "total_articles": 204,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "obama",
+        "tax",
+        "senate",
+        "republican",
+        "house",
+        "amnesty",
+        "president",
+        "obamacare",
+        "democrat",
+        "federal",
+        "immigration",
+        "security",
+        "congress",
+        "ha",
+        "vote"
+      ],
+      "topic_weights": [
+        176.3566011083007,
+        150.0548480626353,
+        138.6371405743285,
+        128.75325068098323,
+        118.25879511912487,
+        104.44011469163996,
+        104.40652543387974,
+        102.68370526406848,
+        96.82538181483042,
+        91.58875973269834,
+        88.42721759018286,
+        84.16149601123016,
+        79.80284812940269,
+        77.11013839507388,
+        77.10018433927308
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "obama",
+        "wa",
+        "state",
+        "terrorist",
+        "muslim",
+        "president",
+        "islamic",
+        "advertisement",
+        "ha",
+        "american",
+        "attack",
+        "group",
+        "vaccine",
+        "news",
+        "sharpton"
+      ],
+      "topic_weights": [
+        137.0034076904934,
+        135.80459156096362,
+        135.76670056779307,
+        96.09753929647654,
+        93.92450981376606,
+        82.10369867575051,
+        79.01732563768563,
+        74.68273339716339,
+        74.08256896876406,
+        71.5747573004704,
+        67.6043004981666,
+        62.93493961941223,
+        59.73756117897455,
+        58.52440303962023,
+        56.994033884467655
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ha",
+        "obama",
+        "wa",
+        "republican",
+        "state",
+        "walker",
+        "percent",
+        "political",
+        "president",
+        "conservative",
+        "party",
+        "union",
+        "speech",
+        "policy",
+        "democrat"
+      ],
+      "topic_weights": [
+        330.89748798438524,
+        236.03767237448724,
+        213.49092190587703,
+        197.4673672399114,
+        192.9103459692433,
+        178.90579397872088,
+        176.56471826210657,
+        173.94550800859798,
+        158.57557853034797,
+        139.8448233074041,
+        139.1715292563893,
+        133.32945565117043,
+        133.17935938176018,
+        114.80901075028784,
+        109.17079029046214
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "american",
+        "police",
+        "black",
+        "glenn",
+        "fcc",
+        "clinton",
+        "university",
+        "comment",
+        "student",
+        "news",
+        "did",
+        "law",
+        "pat"
+      ],
+      "topic_weights": [
+        447.7060449060814,
+        162.2259836753908,
+        112.04081829331811,
+        101.85904479269321,
+        98.56784059811612,
+        97.69380960393784,
+        83.05884817174389,
+        82.80213597790174,
+        74.79296215629677,
+        67.83739210077202,
+        66.8621483563874,
+        65.13984931802037,
+        63.074725162304084,
+        61.33882804069779,
+        60.8137677981053
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "reply",
+        "post",
+        "view",
+        "posted",
+        "private",
+        "amendment",
+        "senator",
+        "article",
+        "legislature",
+        "government",
+        "power",
+        "party",
+        "constitution",
+        "republic"
+      ],
+      "topic_weights": [
+        646.6214604793782,
+        547.6392253853513,
+        216.87206392365772,
+        215.31353241844255,
+        208.72674635821443,
+        201.835699437177,
+        178.71682317432084,
+        173.94374726377106,
+        160.22355044272663,
+        152.19545168164674,
+        150.6619829564042,
+        143.71568926744365,
+        111.89702876776748,
+        105.35213605434328,
+        101.63281695069283
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 70,
+    "3": 46,
+    "1": 51,
+    "0": 36,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Follow Us National Review From the final Morning Jolt of the week… Despite an Ominous New Poll, Speaker Boehner Isn’t Going Anywhere House Speaker John Boehner is not particularly popular with Republi...",
+        "upvotes": 6,
+        "url": "http://www.nationalreview.com/campaign-spot/395614/new-poll-shows-tepid-gop-support-boehner-role-speaker-jim-geraghty"
+      },
+      {
+        "preview": "President Barack Obama has quietly handed out an extra 5.46 million work permits for non-immigrant foreigners who arrived as tourists, students, illegal immigrants or other types of migrants since 200...",
+        "upvotes": 40,
+        "url": "http://dailycaller.com/2015/02/02/obama-quietly-adds-5-46-million-foreigners-to-economy/"
+      },
+      {
+        "preview": "President Obama released his blueprint for the federal budget Monday. Unsurprisingly, it is expected to boost federal spending far higher than recent years. His tenure has already witnessed a greater ...",
+        "upvotes": 38,
+        "url": "http://www.breitbart.com/big-government/2015/02/02/obama-tax-plan-president-goes-all-in-on-confiscation/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 10,
+        "url": "http://newsbusters.org/blogs/melissa-mullins/2015/01/31/harris-perry-imagines-abortion-just-removing-cancerous-tumor-or"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE Barack Obama does not believe the Islamic State is a threat to the United States. \"What I do insist on is we maintain a proper perspective and that we do not provide a victory to t...",
+        "upvotes": 23,
+        "url": "http://freebeacon.com/national-security/obama-downplays-terror-threat-we-cant-play-whac-a-mole-wherever-a-terrorist-group-appears/"
+      },
+      {
+        "preview": "Follow Us National Review The Bizarre Political Ideology of Netflix’s La Casa de Papel The Myth of the Red Pill ‘Thither You’ll Come, Late or Never’: The Richness of East O’ the Sun and West O’ the Mo...",
+        "upvotes": 9,
+        "url": "http://www.nationalreview.com/article/397654/belle-knoxious-kevin-d-williamson"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 19,
+        "url": "http://www.washingtontimes.com/news/2015/jan/29/inside-the-beltway-baby-boomers-turn-conservative/"
+      },
+      {
+        "preview": "Advertisement Supported by Op-Ed Columnist By Paul Krugman In the five years (!) that have passed since the euro crisis began, clear thinking has been in notably short supply. But that fuzziness must ...",
+        "upvotes": 22,
+        "url": "http://www.nytimes.com/2015/01/30/opinion/paul-krugman-europes-greek-test.html?smid=fb-share&_r=0"
+      },
+      {
+        "preview": "By Corey Charlton for MailOnline Published: 13:38 EDT, 31 January 2015 | Updated: 07:15 EDT, 1 February 2015 926 View comments Hundreds of thousands of people marched through Madrid today in a show of...",
+        "upvotes": 8,
+        "url": "http://www.dailymail.co.uk/news/article-2934527/Anti-austerity-anger-sweeps-Spain-hundreds-thousands-march-Madrid-support-fledgling-radical-leftist-party.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "In an interview with CNN’s Anderson Cooper on Thursday’s “AC360,” New York Times op-ed columnist Charles Blow refused to back off allegations of racism involved in his son’s arrest at gunpoint by Yale...",
+        "upvotes": 15,
+        "url": "http://www.breitbart.com/video/2015/01/30/blow-doubles-down-on-racism-charge-doesnt-matter-cop-was-black/"
+      },
+      {
+        "preview": "James Mercer Langston Hughes (February 1, 1901[1] – May 22, 1967) was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri. One of the earliest innovators of th...",
+        "upvotes": 8,
+        "url": "http://en.wikipedia.org/wiki/Langston_Hughes#Political_views"
+      },
+      {
+        "preview": "If you’ve ever wondered “What the Hell Does ‘Politically Correct’ Mean?” and would like to hear the Marxist origins of the phrase, and how it mutated into one of the catchphrases of the 1990s until to...",
+        "upvotes": 44,
+        "url": "http://pjmedia.com/eddriscoll/2015/01/31/the-left-devours-itself/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Skip to comments. Posted on 02/06/2015 1:16:27 PM PST by Jacquerie A common solution at  for the ills of our nation is to just enforce the constitution we have. Elect enough Tea Party conservatives an...",
+        "upvotes": 5,
+        "url": "http://freerepublic.com/focus/f-news/3254882/posts"
+      }
+    ]
+  }
+}

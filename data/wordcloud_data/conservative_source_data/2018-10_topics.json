@@ -1,0 +1,285 @@
+{
+  "month": "2018-10",
+  "total_articles": 222,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "trump",
+        "court",
+        "president",
+        "republican",
+        "kavanaugh",
+        "democrat",
+        "ha",
+        "senate",
+        "vote",
+        "ford",
+        "election",
+        "party",
+        "case",
+        "supreme"
+      ],
+      "topic_weights": [
+        557.8447437632271,
+        454.1216205915825,
+        364.8841140928902,
+        362.55771380913905,
+        359.02001620541404,
+        354.4111969757911,
+        344.5213088376922,
+        332.6133805222286,
+        260.93075494424477,
+        175.70603942134304,
+        171.38919952878112,
+        171.109180794874,
+        170.93042526492107,
+        163.7545558125141,
+        160.87733770103435
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "advertisement",
+        "ha",
+        "story",
+        "woman",
+        "school",
+        "video",
+        "student",
+        "child",
+        "police",
+        "world",
+        "email",
+        "worker",
+        "news",
+        "continues"
+      ],
+      "topic_weights": [
+        358.60713451108813,
+        192.55986221562878,
+        178.1568763597084,
+        111.18900246219839,
+        101.22351570936037,
+        87.71886500681467,
+        86.43821400365805,
+        84.83483812663063,
+        75.4064292335503,
+        73.92658114972333,
+        73.05496137395869,
+        71.52412277616146,
+        66.82907245264339,
+        65.75112842676653,
+        63.81047365436623
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "american",
+        "medium",
+        "news",
+        "twitter",
+        "word",
+        "committee",
+        "state",
+        "research",
+        "beto",
+        "warren",
+        "abortion",
+        "ha",
+        "center",
+        "early",
+        "planned"
+      ],
+      "topic_weights": [
+        79.5544925056933,
+        66.41350910583799,
+        65.28987226520572,
+        61.97300558086744,
+        61.03163039043823,
+        56.982753147764925,
+        56.28422320826161,
+        55.421607457765724,
+        49.53490417795395,
+        45.03128883399886,
+        43.74142863216729,
+        43.41776500164746,
+        42.92173982773393,
+        42.777899333694485,
+        39.24987824692624
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "state",
+        "amendment",
+        "ha",
+        "black",
+        "citizenship",
+        "united",
+        "illegal",
+        "american",
+        "border",
+        "child",
+        "president",
+        "citizen",
+        "born"
+      ],
+      "topic_weights": [
+        166.6958740354374,
+        129.96940354551793,
+        126.49172944449981,
+        105.05867491684666,
+        104.69956321288007,
+        97.81640014959919,
+        93.0614093534931,
+        92.9332807013682,
+        82.1850128394106,
+        76.72311193328018,
+        73.7833717770738,
+        66.35730319660809,
+        65.55337708927821,
+        64.62691339565139,
+        61.02261647380254
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "party",
+        "rate",
+        "wa",
+        "merkel",
+        "energy",
+        "bolsonaro",
+        "wind",
+        "market",
+        "government",
+        "term",
+        "percent",
+        "federal",
+        "tax",
+        "dollar"
+      ],
+      "topic_weights": [
+        87.49147853662042,
+        70.14350713665516,
+        63.04961050507916,
+        51.31891557112192,
+        50.616212339308476,
+        50.6135086824442,
+        47.95198034262006,
+        45.77744475089834,
+        44.747923717342246,
+        44.06414378841972,
+        39.34169235768185,
+        39.21226864786505,
+        38.41656093346874,
+        37.73194213754128,
+        34.40165583537334
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 86,
+    "2": 31,
+    "4": 18,
+    "1": 61,
+    "3": 26
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Washington () Former FBI Director James Comey expressed his approval of the reopening of the bureau's background check into Supreme Court nominee Brett Kavanaugh, writing in a New York Times op-ed tha...",
+        "upvotes": 1,
+        "url": "https://amp.cnn.com/cnn/2018/09/30/politics/james-comey-op-ed-fbi-investigation/index.html"
+      },
+      {
+        "preview": "ADVERTISEMENT Emails solicit corroboration from Georgetown Prep community SHARE Emails sent last week by a friend of Debra Katz, the lawyer representing Christine Blasey Ford who was recommended for t...",
+        "upvotes": 120,
+        "url": "https://freebeacon.com/politics/friend-ford-lawyer-asks-women-come-forward-kavanaugh/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 365,
+        "url": "https://www.washingtontimes.com/news/2018/sep/30/brett-kavanaugh-witnesses-stick-denials-fbi-invest/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubsc...",
+        "upvotes": 1,
+        "url": "https://conservatives.today/?wpd_redirect=1&pid=4242"
+      },
+      {
+        "preview": "Advertisement This is today’s Democrat Party. Angry, unhinged, repulsive, hateful and without boundaries. The left is using Brett Kavanaugh’s 10-year-old daughter to take down the conservative judge. ...",
+        "upvotes": 1,
+        "url": "https://www.thegatewaypundit.com/2018/10/disgusting-liberal-cartoonist-uses-brett-kavanaughs-10-year-old-daughter-in-appalling-attack-on-her-father/"
+      },
+      {
+        "preview": "Now that the high school days of Brett Kavanaugh and Christine Blasey Ford are the most important issue facing Americans (according to the media, anyway), it is certainly odd that evidence of student ...",
+        "upvotes": 233,
+        "url": "https://www.americanthinker.com/blog/2018/10/website_that_archived_blasey_fords_high_school_yearbook_disappears_from_googleowned_blogspot.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sunday on CBS’s “Face The Nation,” Sen. Tom Cotton (R-AR) echoed Supreme Court associate justice nominee Brett Kavanaugh’s words and said Democrats behavior through the confirmation process for Kavana...",
+        "upvotes": 66,
+        "url": "https://www.breitbart.com/video/2018/09/30/tom-cotton-dems-turned-advice-and-consent-into-search-and-destroy/"
+      },
+      {
+        "preview": "See our research on: Abortion | Afghanistan | COVID-19 See our research on: Abortion | Afghanistan | COVID-19 This story, plus how Facebook users consume news, a judge orders The New York Times to set...",
+        "upvotes": 1,
+        "url": "http://www.journalism.org/2018/09/25/partisans-remain-sharply-divided-in-their-attitudes-about-the-news-media/v"
+      },
+      {
+        "preview": "Remember Larry King? My grandmother used to watch him religiously. He was the man who had the open-ended interviews with some of the biggest names in the news, politics, and popular culture. He left C...",
+        "upvotes": 82,
+        "url": "https://townhall.com/tipsheet/mattvespa/2018/09/30/larry-king-criticizes-cnn-theyre-sorta-liberal-and-no-one-does-news-anymore-n2524090"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Former Tennessee Governor Phil Bredesen — running against conservative Rep. Marsha Blackburn (R-TN) for the state’s open Senate seat — said previously he does not “believe” a border wall is “the right...",
+        "upvotes": 16,
+        "url": "https://www.breitbart.com/big-government/2018/10/01/watch-democrat-phil-bredesen-i-dont-believe-the-wall-is-the-right-answer/"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 1,
+        "url": "https://www.axios.com/consumers-prepare-for-first-presidential-alert-test-e200ee90-c21f-4765-93f7-968eb930a9ab.html"
+      },
+      {
+        "preview": "The place was rocking. The energy inside the Mayo Civic Auditorium equaled that only found when the U of M Gophers play hockey against the UMD Bulldogs in Duluth. It’s an energy that cannot be fully e...",
+        "upvotes": 1374,
+        "url": "https://townhall.com/columnists/gilgutknecht/2018/10/07/the-trump-effect-n2526104"
+      }
+    ],
+    "4": [
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 13,
+        "url": "https://www.dailysignal.com/2018/09/28/as-obamacare-premiums-continue-to-rise-time-to-look-at-real-health-care-solutions/"
+      },
+      {
+        "preview": "The review in Columbia University's student newspaper offers another glimpse of the former life of Texas Senate candidate Beto O'Rourke. | Laura Roberts/Invision/AP Images Elections By ALEX ISENSTADT ...",
+        "upvotes": 68,
+        "url": "https://www.politico.com/story/2018/10/01/beto-orourke-musical-review-855385"
+      },
+      {
+        "preview": "President Barack Obama's first education secretary, Arne Duncan, gave a speech on the 45th anniversary of \"Bloody Sunday\" at the Edmund Pettus Bridge in Selma, Alabama, where, in 1965, state troopers ...",
+        "upvotes": 13,
+        "url": "https://townhall.com/columnists/walterewilliams/2018/10/03/racial-disparities-in-school-discipline-n2524317"
+      }
+    ]
+  }
+}

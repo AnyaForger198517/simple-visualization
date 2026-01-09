@@ -1,0 +1,280 @@
+{
+  "month": "2015-05",
+  "total_articles": 230,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "government",
+        "woman",
+        "law",
+        "american",
+        "abortion",
+        "group",
+        "republican",
+        "program",
+        "story",
+        "president",
+        "news",
+        "conservative"
+      ],
+      "topic_weights": [
+        596.5623153532043,
+        338.60286670128977,
+        281.4882697328981,
+        213.55182876035198,
+        195.3822674341092,
+        158.1444757482946,
+        156.43335884594603,
+        145.37261732999514,
+        129.65281628597486,
+        120.99397024836296,
+        116.78757180366989,
+        105.13016735937734,
+        104.97822397179995,
+        102.37120505959888,
+        102.15531583840077
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "hersh",
+        "kissinger",
+        "military",
+        "target",
+        "paper",
+        "white",
+        "cambodia",
+        "bombing",
+        "house",
+        "history",
+        "book",
+        "force",
+        "conspiracy",
+        "coordinate"
+      ],
+      "topic_weights": [
+        465.0942666264959,
+        375.0826509673654,
+        285.52655830322715,
+        144.0698346014483,
+        136.73244900397464,
+        129.87213640943654,
+        126.7938983448909,
+        124.61297581438282,
+        123.2489467376303,
+        116.92899891675675,
+        115.91804095798572,
+        92.26594566275314,
+        82.55064108271486,
+        80.03595993937354,
+        75.52066015266121
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "soldier",
+        "silence",
+        "breaking",
+        "protective",
+        "edge",
+        "testimony",
+        "civilian",
+        "israeli",
+        "idf",
+        "gaza",
+        "operation",
+        "told",
+        "nation",
+        "israel",
+        "killed"
+      ],
+      "topic_weights": [
+        209.52518454999063,
+        157.53718486077696,
+        155.71349773028797,
+        154.78670849595903,
+        153.79462697436807,
+        151.48726397523782,
+        132.10743960154832,
+        121.0026185184177,
+        114.35109359997277,
+        103.79019178929437,
+        99.89094579249956,
+        85.05704580676516,
+        81.90514727932295,
+        81.2839170349713,
+        75.34908575103408
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wage",
+        "percent",
+        "income",
+        "poverty",
+        "baltimore",
+        "ha",
+        "rate",
+        "wa",
+        "black",
+        "work",
+        "worker",
+        "police",
+        "tax",
+        "economic",
+        "city"
+      ],
+      "topic_weights": [
+        376.41573902778777,
+        365.3457031349245,
+        348.98357034952534,
+        333.0983215959615,
+        296.68239570788285,
+        263.44606343013436,
+        260.7785380627287,
+        246.88843230518265,
+        233.29467062948575,
+        232.92868803522495,
+        231.82976136695981,
+        229.83564918215615,
+        223.4802824061519,
+        222.63984333976904,
+        219.28035345668405
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "clinton",
+        "sander",
+        "ha",
+        "wa",
+        "campaign",
+        "party",
+        "democratic",
+        "trade",
+        "republican",
+        "percent",
+        "democrat",
+        "support",
+        "obama",
+        "liberal",
+        "hillary"
+      ],
+      "topic_weights": [
+        406.7080638597684,
+        380.576798973962,
+        332.07260576558036,
+        294.01608658252377,
+        259.6642889752265,
+        233.50916977774457,
+        226.65624069436618,
+        187.84399373930592,
+        186.22432140378734,
+        185.25755746024944,
+        179.00635132377647,
+        179.0048891249464,
+        171.50323291048713,
+        161.98351818474882,
+        155.69277036086484
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 60,
+    "0": 104,
+    "3": 60,
+    "2": 2,
+    "1": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "You have probably heard these lyrics at least a thousand times at televised Republican rallies: And I'm proud to be an American Where at least I know I'm free And I won't forget the men who died Who g...",
+        "upvotes": 14,
+        "url": "http://www.salon.com/2015/04/30/right_wing_lunatics_think_the_military_is_planning_to_invade_texas_heres_why/"
+      },
+      {
+        "preview": "Billionaire casino mogul slams executives raking in millions in ‘outrageous’ bonuses and stock options – including those in his own company Last modified on Mon 2 Oct 2017 05.46 EDT No one has ever de...",
+        "upvotes": 14,
+        "url": "http://www.theguardian.com/us-news/2015/apr/29/sheldon-adelson-las-vegas-courtroom"
+      },
+      {
+        "preview": "By Ellie Zolfagharifard For .com Published: 18:49 EDT, 29 April 2015 | Updated: 21:57 EDT, 29 April 2015 45 View comments While racism is thought to be rife in the Southern US states, a new 'hate map ...",
+        "upvotes": 0,
+        "url": "http://www.dailymail.co.uk/sciencetech/article-3061567/Is-region-racist-Hate-map-reveals-dramatic-divide-eastern-western-states.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » President Obama this week app...",
+        "upvotes": 0,
+        "url": "http://pando.com/2015/05/14/lapdogs-redux-how-the-press-tried-to-discredit-seymour-hershs-bombshell-expose-of-the-cias-domestic-spying/"
+      },
+      {
+        "preview": "This article is more than 1 year old On Tuesday, Sen. Bernie Sanders (I->D-Vt.) will formally kick off his by-all-accounts-doomed bid for the Democratic presidential nomination. Sanders hasn't generat...",
+        "upvotes": 16,
+        "url": "http://www.salon.com/2015/05/25/the_rights_big_history_lie_reagan_disney_vietnam_and_the_war_to_redefine_america/"
+      },
+      {
+        "preview": "It may be early to say this as the 2016 “presidential” marathon grinds through the first of two long years, but the Republican contenders — including the ones who are faking indecision to rake in dark...",
+        "upvotes": 2,
+        "url": "http://www.wsws.org/en/articles/2015/05/27/nyti-m27.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "A new report from the Israeli veterans group Breaking the Silence says the IDF fails to distinguish between civilians and combatants. An Israeli paratrooper at the border with Gaza during Operation Pr...",
+        "upvotes": 6,
+        "url": "http://www.thenation.com/article/206945/anyone-you-see-you-shoot-israeli-soldiers-recall-2014-gaza-war"
+      },
+      {
+        "preview": "This post first appeared at OtherWords.org. (Photo: Justin Norman/flickr CC 2.0) After I blew the whistle on the CIA’s torture program in 2007, the fallout for me was brutal. To make a long story shor...",
+        "upvotes": 3,
+        "url": "http://www.independent.co.uk/news/world/middle-east/fire-at-every-person-you-see-israeli-soldiers-reveal-they-were-ordered-to-shoot-to-kill-in-gaza--even-if-the-targets-may-have-been-civilians-10223427.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "To prevent more violent uprisings and protests, we need to take their causes seriously. When tensions in Charlotte, North Carolina, over the police shooting of Keith Lamont Scott quickly boiled over i...",
+        "upvotes": 23,
+        "url": "https://www.vox.com/2015/4/30/8518681/protests-riots-work"
+      },
+      {
+        "preview": "Just in case this segment left you scratching your head, let's break down what it all means. This brilliantly scathing piece was meant to show the hypocrisy in how news media talks criminal behavior i...",
+        "upvotes": 1,
+        "url": "https://www.upworthy.com/he-shows-how-the-news-talks-about-black-people-by-talking-about-white-people-instead?c=hpstream"
+      },
+      {
+        "preview": "Freddie Gray, who died a week after suffering injuries while in Baltimore police custody, had a lengthy criminal record, mainly for drug-related offenses, according to state court records. Police clai...",
+        "upvotes": 0,
+        "url": "http://heavy.com/news/2015/04/freddie-gray-arrest-record-criminal-history-rap-sheet-why-was-freddie-gray-arrested/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. Karl Rove is a Wall Street Journal opinion columnist, Republican fund-raiser ...",
+        "upvotes": 3,
+        "url": "http://nymag.com/daily/intelligencer/2015/04/roves-bush-administration-post-traumatic-shock.html"
+      },
+      {
+        "preview": "Judith Miller is making her rounds with a new memoir titled \"The Story: A Reporter’s Journey.\" Or, as Jon Stewart is more aptly calling it: \"The 'Eat Pray Love' of getting us into the Iraq war.\" It's ...",
+        "upvotes": 17,
+        "url": "http://www.salon.com/2015/04/30/jon_stewart_smacks_down_judith_miller_you_drove_us_into_the_devastating_iraq_war/"
+      },
+      {
+        "preview": "Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else. Thank you. Please check your inbox to confirm. Lisa Desjardins Lisa Desjardins Leave your feedback Broo...",
+        "upvotes": 21,
+        "url": "http://www.pbs.org/newshour/updates/bernie-sanders-believe-candidate-stands-10-issues/"
+      }
+    ]
+  }
+}

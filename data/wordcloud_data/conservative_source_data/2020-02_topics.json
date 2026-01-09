@@ -1,0 +1,285 @@
+{
+  "month": "2020-02",
+  "total_articles": 105,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "met",
+        "study",
+        "criterion",
+        "ha",
+        "black",
+        "wa",
+        "evidence",
+        "american",
+        "political",
+        "president",
+        "macron",
+        "trump",
+        "law",
+        "obama",
+        "france"
+      ],
+      "topic_weights": [
+        100.47310281014627,
+        96.38967521584671,
+        93.72916336641823,
+        77.12757940038948,
+        76.63007903980547,
+        68.73143403088217,
+        64.3720426656282,
+        62.8409645951857,
+        62.04369137830075,
+        61.00055429042398,
+        54.79061295498224,
+        53.96176010342946,
+        50.77855733235712,
+        44.523222374355186,
+        44.013291975222245
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "democrat",
+        "sander",
+        "trump",
+        "president",
+        "ha",
+        "party",
+        "democratic",
+        "bernie",
+        "state",
+        "iowa",
+        "voter",
+        "candidate",
+        "bloomberg",
+        "vote"
+      ],
+      "topic_weights": [
+        225.59405356768016,
+        221.04139238901683,
+        215.63806887690194,
+        206.2504643585412,
+        146.30857389334122,
+        143.84961308443343,
+        132.5865823848616,
+        130.2900674910332,
+        126.4762340300146,
+        111.22666354779865,
+        102.51142498000945,
+        99.43939977029771,
+        94.08127997973592,
+        93.50588141699312,
+        81.98631234521473
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "sander",
+        "campaign",
+        "ha",
+        "wa",
+        "content",
+        "information",
+        "american",
+        "ocasio",
+        "yang",
+        "lincoln",
+        "cortez",
+        "support",
+        "state",
+        "government",
+        "immigration"
+      ],
+      "topic_weights": [
+        71.7321724725663,
+        52.74708831569535,
+        50.47074454876356,
+        36.082605983299054,
+        34.346103173098896,
+        31.749163749033322,
+        22.40642320367571,
+        21.40029926440901,
+        20.606190510619637,
+        20.40333596194989,
+        19.84097358692915,
+        18.694771490068103,
+        18.475334266945683,
+        17.92897697871283,
+        17.692968096275955
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "school",
+        "wa",
+        "american",
+        "woman",
+        "ha",
+        "city",
+        "high",
+        "student",
+        "native",
+        "life",
+        "law",
+        "york",
+        "police",
+        "public",
+        "child"
+      ],
+      "topic_weights": [
+        86.00015490637846,
+        83.76557037933068,
+        59.78005434912269,
+        53.254169424259324,
+        42.475489890209424,
+        39.40884950033062,
+        37.26852048795716,
+        35.35511369508098,
+        35.09920113047358,
+        32.871401702431534,
+        32.829379611080974,
+        30.74340527732096,
+        30.357358824026154,
+        29.977749287509777,
+        23.903339512013183
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "state",
+        "trump",
+        "ha",
+        "president",
+        "twitter",
+        "government",
+        "national",
+        "mcfarland",
+        "american",
+        "united",
+        "didn",
+        "voter",
+        "asked",
+        "february"
+      ],
+      "topic_weights": [
+        123.65526107345616,
+        73.3243214593658,
+        72.63237000087247,
+        51.934144658836466,
+        51.617598631800576,
+        39.84297862486131,
+        34.43290913968448,
+        33.02759300373757,
+        32.46554510363653,
+        27.656475465662314,
+        26.411676594085307,
+        25.3724686096212,
+        24.910123914059742,
+        24.057025784060226,
+        23.68763163941175
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 23,
+    "2": 13,
+    "1": 41,
+    "3": 12,
+    "0": 16
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The primary focus of our analysis was the systematic review of 18 broad classes of gun policies that have been implemented in some states and the effects of those policies on eight outcomes. We produc...",
+        "upvotes": 1,
+        "url": "https://www.rand.org/research/gun-policy/analysis.html"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 54,
+        "url": "https://www.newsbusters.org/blogs/nb/kristine-marsh/2020/02/05/view-hosts-lose-it-over-racist-limbaugh-getting-award-supposed-go"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 22,
+        "url": "https://www.newsbusters.org/blogs/nb/alex-christy/2020/02/06/cnn-newsrooms-fact-checkers-give-obama-credit-good-economy"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Failed presidential candidate Hillary Clinton criticized the Iowa caucus system in a new interview, calling it “a very undemocratic” way to elect a presidential candidate. “It is a very undemocratic w...",
+        "upvotes": 12,
+        "url": "https://www.breitbart.com/politics/2020/02/01/hillary-clinton-criticizes-iowa-caucuses-as-very-undemocratic/"
+      },
+      {
+        "preview": "Follow Us National Review Andrew Yang to Abandon Democrats and Start a Third Party Trump Endorses Primary Challenger to Liz Cheney Why Isn’t the Attack on Larry Elder the Biggest Story in America? Vir...",
+        "upvotes": 1,
+        "url": "https://www.nationalreview.com/2020/02/michael-bloomberg-candidate-progressives-independents-say-they-want/"
+      },
+      {
+        "preview": "April Poley is a broker and real estate agent in Gillette, Wyoming. Lately she's been getting a lot of her potential clients through a business called Conservative Move. \"Really it's a referral servic...",
+        "upvotes": 173,
+        "url": "https://www.boisestatepublicradio.org/post/real-estate-business-caters-conservatives-looking-redder-pastures"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Charles Reed/U.S. Immigration and Customs Enforcement/Handout via REUTERS Democratic Texas Rep. Vicente Gonzalez said he was “disturbed” to hear that Immigration and Customs Enforcement (ICE) arrested...",
+        "upvotes": 29,
+        "url": "https://dailycaller.com/2020/02/01/vicente-gonzalez-disturbed-ice-arrest/"
+      },
+      {
+        "preview": "TIRANA, Albania (AP) — Kosovo’s outgoing prime minister on Monday considered as “positive signs” two recently-achieved agreements with Serbia that will restore air and railway traffic between the two ...",
+        "upvotes": 3,
+        "url": "https://apnews.com/0d6f87e98f9d82e5e275fb1137a0932d"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE The Bernie Sanders campaign spent just under $1.2 million on private jet travel last quarter, outpacing the entire 2020 Democratic presidential primary field. The most recent filin...",
+        "upvotes": 29,
+        "url": "https://freebeacon.com/issues/bernie-leads-2020-field-in-private-jet-spending/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "As you watch Super Bowl LIV, bear in mind that rooting for the Kansas City Chiefs and taking no issue with either their mascot or their fans' traditions means rooting for racism. Similarly, cheering f...",
+        "upvotes": 92,
+        "url": "https://www.salon.com/2020/02/02/both-super-bowl-liv-team-names-are-pretty-racist--kansas-city-chiefs-and-san-francisco-49ers/"
+      },
+      {
+        "preview": "We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubsc...",
+        "upvotes": 694,
+        "url": "https://www.express.co.uk/news/politics/774503/Nexit-more-than-half-Dutch-voters-follow-Brexit-leave-EU-Wilders-poll"
+      },
+      {
+        "preview": "Pro-transgender protesters tried and failed to block a Seattle debate by “gender critical” feminists who argue that women’s rights and status will be lost if men can switch legal sexes whenever they w...",
+        "upvotes": 9,
+        "url": "https://www.breitbart.com/politics/2020/02/05/women-slam-transgender-ideology-amid-left-wing-blockade/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "2020 Elections The talks reveal rising anxiety over the Vermont senator's momentum on the eve of voting. Sen. Bernie Sanders. | John Locher/AP Photo By DAVID SIDERS 01/31/2020 05:31 PM EST Updated: 01...",
+        "upvotes": 83,
+        "url": "https://www.politico.com/news/2020/01/31/dnc-superdelegates-110083"
+      },
+      {
+        "preview": "An official website of the United States government Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websi...",
+        "upvotes": 26,
+        "url": "https://www.justice.gov/opa/pr/fugitive-wanted-iraq-murder-iraqi-police-officers-arrested-arizona"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved A former writer for “The Simpsons” on Wednesday ripped Secretary of State Mike PompeoMike PompeoHarris to hold fundraiser for McAuliffe ahead of Virg...",
+        "upvotes": 15,
+        "url": "https://thehill.com/homenews/administration/481574-former-simpsons-writer-slams-pompeo-tweet-please-do-not-ever-ever"
+      }
+    ]
+  }
+}

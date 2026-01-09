@@ -1,0 +1,275 @@
+{
+  "month": "2013-11",
+  "total_articles": 180,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "walmart",
+        "worker",
+        "employee",
+        "company",
+        "job",
+        "ha",
+        "wage",
+        "store",
+        "labor",
+        "work",
+        "food",
+        "friday",
+        "black",
+        "financial",
+        "sector"
+      ],
+      "topic_weights": [
+        958.211663867144,
+        468.7681681240001,
+        349.66186642910543,
+        293.99695767976857,
+        240.92031126813123,
+        240.50939138698388,
+        212.12479678021523,
+        171.79049419240724,
+        165.96964319945977,
+        165.1654454850999,
+        155.3955596881836,
+        146.3676931913904,
+        144.2960522868812,
+        129.56949865815875,
+        127.90968066451332
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "child",
+        "wa",
+        "kennedy",
+        "care",
+        "cbs",
+        "subsidy",
+        "program",
+        "edt",
+        "state",
+        "parent",
+        "minute",
+        "work",
+        "income",
+        "report",
+        "news"
+      ],
+      "topic_weights": [
+        134.68865391260607,
+        104.11971746732465,
+        86.52657116377812,
+        80.19411741837071,
+        74.44559237873345,
+        65.34940988502397,
+        47.782409154934086,
+        44.4418517293175,
+        42.79593864649784,
+        41.46025307704159,
+        39.32605310496354,
+        35.4911583210663,
+        35.43584207715023,
+        35.41095913766931,
+        34.2335711370135
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "kelly",
+        "president",
+        "policy",
+        "obama",
+        "friend",
+        "republican",
+        "ray",
+        "public",
+        "group",
+        "student",
+        "power",
+        "tax",
+        "free"
+      ],
+      "topic_weights": [
+        535.4795377548668,
+        417.47804183935784,
+        280.85645950775836,
+        197.18836100104852,
+        188.59967190102554,
+        187.0417521687423,
+        185.92498235171172,
+        181.7123385883683,
+        168.68593096390813,
+        165.72743224291025,
+        165.50665172753529,
+        158.37620903636505,
+        153.62675504102003,
+        153.107306757638,
+        151.8902298098213
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "box",
+        "work",
+        "warehouse",
+        "worker",
+        "job",
+        "hour",
+        "wa",
+        "supervisor",
+        "machine",
+        "ha",
+        "hand",
+        "wage",
+        "tell",
+        "ipad",
+        "line"
+      ],
+      "topic_weights": [
+        1459.2157858542184,
+        1451.4273988508794,
+        1429.2095184324419,
+        972.1543058695642,
+        958.8500713724086,
+        751.7286813650708,
+        735.430668909306,
+        734.9659356278745,
+        697.3329507939839,
+        555.5621755415806,
+        511.81304074393483,
+        489.6903760645336,
+        483.7707364089059,
+        445.2561606115012,
+        432.73520014599745
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "state",
+        "health",
+        "republican",
+        "ha",
+        "insurance",
+        "plan",
+        "law",
+        "care",
+        "heritage",
+        "american",
+        "house",
+        "exchange",
+        "obama",
+        "week"
+      ],
+      "topic_weights": [
+        659.9754876261932,
+        368.2813256793249,
+        355.96410668321175,
+        312.80876576084864,
+        302.97263397764266,
+        295.2084806137099,
+        290.5766847448502,
+        236.16704302340912,
+        221.40441568460128,
+        197.23988766474366,
+        169.49301505974037,
+        167.92431596611203,
+        162.08141094340246,
+        158.69553209223733,
+        142.98946651154472
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 62,
+    "4": 100,
+    "0": 8,
+    "1": 9,
+    "3": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Imagine you could genetically engineer a creature, and you chose to omit a brain, opting instead for local controls that cause each part to do whatever it does, while generally ignoring the state of t...",
+        "upvotes": 1,
+        "url": "http://objectivismforintellectuals.wordpress.com/2013/11/03/how-business-executives-and-investors-create-wealth-and-earn-large-incomes/"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Beyond the charts and warnings from economists and investors, perhaps the most disturbing commentar...",
+        "upvotes": 57,
+        "url": "http://www.businessinsider.com/an-investment-managers-view-2013-11"
+      },
+      {
+        "preview": "It is not clear how closely Doug Phillips adheres to Rushdoony's notions of Biblical Law. Suffice to say that Rushdoony and his followers assert that the laws of Old Testament Israel are applicable to...",
+        "upvotes": 1,
+        "url": "http://www.talk2action.org/story/2013/11/13/17466/060/Front_Page/A_Theocratic_Star_Flames_Out"
+      }
+    ],
+    "1": [
+      {
+        "preview": "This story has been corrected since it was originally published. Conservatives have two favorite ways to deal with liberals. The first, Plan A, is to slander and demonize them. It was part of Rick San...",
+        "upvotes": 75,
+        "url": "http://www.salon.com/2013/11/03/stop_calling_jfk_conservative_the_rights_favorite_new_lie_is_filled_with_historical_flaws/"
+      },
+      {
+        "preview": "Written by Solange Uwimana Published 11/06/13 5:27 PM EST Share Comment Fox News cherry-picked from reports by the Department of Health and Human Services Office of Inspector General to single out und...",
+        "upvotes": 19,
+        "url": "http://mediamatters.org/blog/2013/11/06/fox-news-ignores-medicare-facts-to-scapegoat-il/196769"
+      },
+      {
+        "preview": "Network Chairman Ignored His Own Standards Written by Eric Boehlert Published 11/08/13 8:51 AM EST Share Comment CBS News' extended refusal to specifically address questions at the heart of its contro...",
+        "upvotes": 15,
+        "url": "http://mediamatters.org/blog/2013/11/08/how-cbs-could-have-avoided-the-60-minutes-bengh/196798"
+      }
+    ],
+    "2": [
+      {
+        "preview": "<a  In May, Mother Jones reported on a Wall Street-friendly bill that was largely written by Citigroup lobbyists. On Wednesday, that bill passed the House—but with fewer yes votes than expected. The b...",
+        "upvotes": 12,
+        "url": "http://www.motherjones.com/mojo/2013/10/citigroup-bill-passes-house"
+      },
+      {
+        "preview": "This was in part filling the Republican promise to blockade all of President Obama's nominees to the D.C. Circuit court. Senate Majority Leader Harry Reid vowed to bring the other two nominees to the ...",
+        "upvotes": 7,
+        "url": "http://www.dailykos.com/story/2013/10/31/1252105/-It-s-a-banner-day-for-Republican-obstruction"
+      },
+      {
+        "preview": "Susie Duncan Sexton's second essay collection of provocative, funny, and heartwarming/heartbreaking observations will be released today, October 31.Entitled Misunderstood Gargoyles & Overrated Angels,...",
+        "upvotes": 1,
+        "url": "http://www.broadwayworld.com/article/Susie-Duncan-Sextons-MISUNDERSTOOD-GARGOYLES-OVERRATED-ANGELS-Set-for-Release-1031-20131030"
+      }
+    ],
+    "3": [
+      {
+        "preview": "has become trapped in the revolving gears of the belt, threatening to suck his hand into churning metal. As he yanks, I pull the machine in the opposite direction, and after a moment of struggle he’s ...",
+        "upvotes": 35,
+        "url": "http://www.thenation.com/article/177377/holiday-crush?page=full"
+      }
+    ],
+    "4": [
+      {
+        "preview": "DALE CITY, VA — Bill Clinton, the nation’s politician-in-chief, is on a roll on behalf of his friend Terry McAuliffe, the frontrunner in next week’s election for governor of Virginia. “If we become id...",
+        "upvotes": 1,
+        "url": "http://www.nationalmemo.com/prof-clinton-explains-the-far-right/"
+      },
+      {
+        "preview": "Visit Our Media Department October 31, 2013 Buried in the massive omnibus legislation are unrelated measures that limit the power of federal employees and their unions to engage in workplace action, i...",
+        "upvotes": 11,
+        "url": "http://www.ibew.org/articles/13daily/1310/131031_FederalRights.htm"
+      },
+      {
+        "preview": "Draconian new laws restrict suffrage in North Carolina, Texas, and Alabama—and point to a glaring omission. It is becoming increasingly obvious that the Supreme Court decision in Shelby County v. Hold...",
+        "upvotes": 9,
+        "url": "http://www.theatlantic.com/politics/archive/2013/10/the-us-needs-a-constitutional-right-to-vote/281033/"
+      }
+    ]
+  }
+}

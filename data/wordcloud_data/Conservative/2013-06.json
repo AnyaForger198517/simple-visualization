@@ -1,0 +1,36 @@
+{
+  "month": "2013-06",
+  "total_articles": 120,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Presidential Policy and National Governance",
+      "core_keywords": ["obama", "president", "government", "policy", "american", "state", "administration"],
+      "importance_ratio": 0.4417
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Partisan Politics and Social Issues",
+      "core_keywords": ["republican", "democrat", "obama", "abortion", "party", "senator", "right"],
+      "importance_ratio": 0.2917
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Foreign Policy and Egyptian Affairs",
+      "core_keywords": ["egypt", "egyptian", "american", "war", "military", "government", "power"],
+      "importance_ratio": 0.0417
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Immigration Reform and Border Control",
+      "core_keywords": ["immigration", "border", "illegal", "law", "immigrant", "state", "security"],
+      "importance_ratio": 0.1583
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Sexual Orientation and Public Health Debates",
+      "core_keywords": ["sexual", "abuse", "gay", "homosexuality", "conservative", "woman", "study"],
+      "importance_ratio": 0.0667
+    }
+  ]
+}

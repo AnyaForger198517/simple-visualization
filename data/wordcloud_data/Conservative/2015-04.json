@@ -1,0 +1,36 @@
+{
+  "month": "2015-04",
+  "total_articles": 245,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Federal Policy and Education Issues",
+      "core_keywords": ["government", "obama", "federal", "policy", "education", "school", "university"],
+      "importance_ratio": 0.3673
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "ISIS and Political Events in April",
+      "core_keywords": ["isis", "obama", "april", "vote", "participation", "defense"],
+      "importance_ratio": 0.0041
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Social Life and Public Welfare Issues",
+      "core_keywords": ["child", "food", "tax", "job", "homeless", "population", "life"],
+      "importance_ratio": 0.1714
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "2016 Presidential Election and Political Parties",
+      "core_keywords": ["clinton", "hillary", "republican", "democrat", "president", "campaign", "iran"],
+      "importance_ratio": 0.3429
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Religious Freedom and Gay Marriage Legislation",
+      "core_keywords": ["gay", "marriage", "religious", "law", "freedom", "right", "business"],
+      "importance_ratio": 0.1143
+    }
+  ]
+}

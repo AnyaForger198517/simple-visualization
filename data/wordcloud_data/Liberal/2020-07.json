@@ -1,0 +1,36 @@
+{
+  "month": "2020-07",
+  "total_articles": 108,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2020 Election Voting Rights and Democratic Politics",
+      "core_keywords": ["voting", "biden", "vote", "election", "trump", "democratic", "voter", "american"],
+      "importance_ratio": 0.0741
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Police Reform and Social Issues Post-Floyd",
+      "core_keywords": ["police", "woman", "abortion", "child", "officer", "city", "life", "matter"],
+      "importance_ratio": 0.2130
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Racial Policies and White House Discourse",
+      "core_keywords": ["trump", "white", "president", "black", "american", "state", "policy", "house"],
+      "importance_ratio": 0.2130
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump vs Biden Campaign and COVID-19 Response",
+      "core_keywords": ["trump", "biden", "president", "election", "coronavirus", "health", "pandemic", "campaign"],
+      "importance_ratio": 0.3704
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Texas Economic Policies Amid COVID-19 Pandemic",
+      "core_keywords": ["texas", "state", "unemployment", "pandemic", "vaccine", "company", "republican", "million"],
+      "importance_ratio": 0.1296
+    }
+  ]
+}

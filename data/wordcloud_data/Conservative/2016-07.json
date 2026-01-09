@@ -1,0 +1,36 @@
+{
+  "month": "2016-07",
+  "total_articles": 249,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Police Shooting Incidents and Racial Issues (Black vs White)",
+      "core_keywords": ["police", "shooting", "black", "white", "officer", "clinton", "hillary"],
+      "importance_ratio": 0.3494
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Hillary Clinton's Email Scandal and DNC Events",
+      "core_keywords": ["clinton", "hillary", "email", "dnc", "democratic", "obama", "sander"],
+      "importance_ratio": 0.1847
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Border Security and Immigration Enforcement",
+      "core_keywords": ["border", "immigration", "law", "illegal", "agent", "patrol", "government"],
+      "importance_ratio": 0.0442
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Republican Convention and Trump's Presidential Campaign",
+      "core_keywords": ["trump", "republican", "convention", "delegate", "campaign", "donald", "conservative"],
+      "importance_ratio": 0.1606
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "US National Policy and Global Political Issues",
+      "core_keywords": ["trump", "american", "president", "obama", "government", "country", "world"],
+      "importance_ratio": 0.2610
+    }
+  ]
+}

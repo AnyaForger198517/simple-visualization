@@ -1,0 +1,285 @@
+{
+  "month": "2020-02",
+  "total_articles": 103,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "black",
+        "buttigieg",
+        "south",
+        "wa",
+        "bend",
+        "vote",
+        "white",
+        "plan",
+        "officer",
+        "ha",
+        "community",
+        "douglas",
+        "pete",
+        "police",
+        "mayor"
+      ],
+      "topic_weights": [
+        575.3877280657689,
+        310.7060896690117,
+        204.39731244449985,
+        200.36985017907375,
+        173.70763674549775,
+        135.34759483397892,
+        117.69707598720362,
+        109.80905346191687,
+        97.9699432484934,
+        97.28391027799145,
+        96.33545559924077,
+        84.29946154109135,
+        82.82359056632191,
+        75.70287443377241,
+        73.98447093273028
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "sander",
+        "ha",
+        "wa",
+        "campaign",
+        "democratic",
+        "biden",
+        "state",
+        "candidate",
+        "warren",
+        "bloomberg",
+        "health",
+        "iowa",
+        "voter",
+        "percent",
+        "democrat"
+      ],
+      "topic_weights": [
+        200.91569591363404,
+        139.7317220209426,
+        137.8816988588875,
+        137.1393279254875,
+        128.9858811250126,
+        115.08783625061916,
+        113.13964117985428,
+        111.92424876731883,
+        101.62853994470089,
+        93.47503723646645,
+        82.42391599972267,
+        79.75070982321877,
+        77.80573947431891,
+        77.04094541831587,
+        76.23129798893535
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "intelligence",
+        "official",
+        "ha",
+        "security",
+        "house",
+        "president",
+        "medicaid",
+        "election",
+        "federal",
+        "department",
+        "program",
+        "national",
+        "grant"
+      ],
+      "topic_weights": [
+        111.58723508134106,
+        81.09840551144569,
+        78.70468213559651,
+        66.68070143653321,
+        61.69963168304504,
+        53.740482130275176,
+        48.23392756639798,
+        46.97547273423264,
+        36.42451375704225,
+        35.38329075861004,
+        33.699493131374105,
+        33.211752072427224,
+        33.08605324518256,
+        32.479196784883534,
+        31.750983120636608
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "republican",
+        "vote",
+        "state",
+        "house",
+        "case",
+        "stone",
+        "court",
+        "news",
+        "american",
+        "justice",
+        "white"
+      ],
+      "topic_weights": [
+        571.55103102927,
+        418.39848502202426,
+        333.2335589382324,
+        185.17010138506367,
+        124.20569588214644,
+        116.80299708870591,
+        108.52206306990692,
+        101.10192481103783,
+        100.7494920302673,
+        85.14457258046014,
+        84.9860041301348,
+        84.49527383017801,
+        81.93642702027212,
+        80.99735197630739,
+        80.65431409935273
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wage",
+        "worker",
+        "growth",
+        "data",
+        "state",
+        "minimum",
+        "college",
+        "figure",
+        "gap",
+        "change",
+        "woman",
+        "white",
+        "men",
+        "economic",
+        "policy"
+      ],
+      "topic_weights": [
+        561.5776309771079,
+        220.26013506409794,
+        159.3905906660265,
+        89.15643230210387,
+        78.42689729199961,
+        72.09024353153268,
+        69.71922501992924,
+        62.15081499623741,
+        61.520786703515355,
+        58.33918479016646,
+        57.92450512860943,
+        56.008134971105484,
+        55.32566663684427,
+        54.245468829564125,
+        54.154426663820274
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 53,
+    "2": 14,
+    "1": 30,
+    "4": 3,
+    "0": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "© First Look Institute. All rights reserved First Look Institute is a 501(c)(3) nonprofit organization. It was a sunny day in July 2014 when Eric Garner was killed. The 43-year-old African American ma...",
+        "upvotes": 1,
+        "url": "https://theintercept.com/2019/12/19/pete-buttigieg-south-bend-i-cant-breathe-shirts/"
+      },
+      {
+        "preview": "uglass Plan seeks to end the War on Drugs, proposing to legalize marijuana, eliminate the prosecution of drug offenses, and improve police recruitment practices. It also calls for a reduction of sente...",
+        "upvotes": 133,
+        "url": "https://www.thenation.com/article/politics/buttigieg-south-bend-black/"
+      },
+      {
+        "preview": "Given the choice of superpowers, would you rather have the ability to fly or the power of invisibility? This comic book-based Rorschach test allegedly reveals deep-seated personality traits. Supposedl...",
+        "upvotes": 2,
+        "url": "https://www.theroot.com/mayor-pete-s-invisible-black-police-1840727624"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Sen. Elizabeth Warren (D-Mass) is known for more than just having a well-thought-out plan for everything; she’s also gained a reputation for meeting Black women at their own tables, allowing them to b...",
+        "upvotes": 2,
+        "url": "https://www.essence.com/news/politics/elizabeth-warren-2020-racial-justice-presidential-candidate-scorecard/"
+      },
+      {
+        "preview": "SOMERSWORTH, N.H. (AP) — Facing questions about his campaign’s viability, Joe Biden escalated his criticism of his top Democratic rivals on Wednesday, suggesting both Bernie Sanders and Pete Buttigieg...",
+        "upvotes": 1,
+        "url": "https://apnews.com/8a6ea236b5abcb43b40f79cfbf3f8c20"
+      },
+      {
+        "preview": "2020 elections ‘We had precinct captains who didn’t know how to run a caucus. And a few didn’t even show,’ said a top Biden campaign official. The partial numbers out of Iowa show Democratic president...",
+        "upvotes": 2,
+        "url": "https://www.politico.com/news/2020/02/05/biden-campaign-staff-firing-iowa-110874"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved An emergency room doctor and former Democratic congressional candidate confronted Vice President Pence in a diner on Thursday over proposed cuts to M...",
+        "upvotes": 465,
+        "url": "https://thehill.com/policy/healthcare/480944-er-doctor-confronts-pence-over-medicaid-cuts-in-diner"
+      },
+      {
+        "preview": "Using a resolution of disapproval, Democrats can force every senator and representative to state their position on the Trump administration’s block grant scheme. by David Dayen February 3, 2020 2:51 P...",
+        "upvotes": 477,
+        "url": "https://prospect.org/health/democrats-can-get-every-republican-in-congress-on-the-record-medicaid/"
+      },
+      {
+        "preview": "Discover Thomson  By Sarah N. Lynch 11 Min Read WASHINGTON () - A U.S. Justice Department anti-human trafficking grant program is facing internal complaints, after two nonprofits were denied funding i...",
+        "upvotes": 136,
+        "url": "https://www.reuters.com/article/us-usa-justice-grants-exclusive-idUSKBN20425G"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The 10 things you need to understand about the Senate trial and the historic moment our country is in right now by Robert Reich January 30, 2020 5:30 AM Dana Verkouteren via AP An artist sketch of the...",
+        "upvotes": 1,
+        "url": "https://prospect.org/impeachment/trump-senate-trial-the-big-picture/"
+      },
+      {
+        "preview": "Advertisement Supported by Republican legislators abdicated their duty by refusing to seek the truth. By The Editorial Board The editorial board is a group of opinion journalists whose views are infor...",
+        "upvotes": 155,
+        "url": "https://www.nytimes.com/2020/01/31/opinion/republicans-impeachment-congress.html"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. In May of 2019, President Trump held an Oval Office meeting in which he tried...",
+        "upvotes": 117,
+        "url": "http://nymag.com/intelligencer/2020/01/trump-bolton-giuliani-ukraine-impeachment-book-witness.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » In Tuesday’s State of the Uni...",
+        "upvotes": 494,
+        "url": "https://www.brookings.edu/blog/the-avenue/2020/02/05/trumps-state-of-the-union-declared-were-in-a-blue-collar-boom-workers-dont-agree/"
+      },
+      {
+        "preview": "Report | State of Working America Report • By Elise Gould • February 20, 2020 Download PDF Press release Rising wage inequality and slow and uneven hourly wage growth for the vast majority of workers ...",
+        "upvotes": 13,
+        "url": "https://www.epi.org/publication/swa-wages-2019/"
+      },
+      {
+        "preview": "Last week, we launched the U.S. Tax & Spending Explorer on the  website. It’s an interactive web feature designed to shed light on how the government (mostly the federal government) raises and spends ...",
+        "upvotes": 159,
+        "url": "https://www.epi.org/blog/federal-tax-and-spending-system-combat-inequality/"
+      }
+    ]
+  }
+}

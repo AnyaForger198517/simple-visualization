@@ -1,0 +1,36 @@
+{
+  "month": "2011-06",
+  "total_articles": 70,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Political Landscape with Republican, Obama and Social Legal Issues",
+      "core_keywords": ["republican", "obama", "state", "law", "president", "marriage", "sex", "american", "candidate", "court", "freedom", "york", "anti"],
+      "importance_ratio": 32.86
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Congressional Affairs and Political Figures with Voting & Policy",
+      "core_keywords": ["jones", "congress", "johnson", "state", "advertisement", "house", "obama", "government", "beck", "amendment", "vote", "section", "hope"],
+      "importance_ratio": 15.71
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Labor & Employment Dynamics with Election and Obama Administration",
+      "core_keywords": ["election", "union", "obama", "labor", "worker", "job", "employee", "employer", "president", "boss", "american", "world", "big"],
+      "importance_ratio": 5.71
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Liberal-Conservative Ideological Debates with Abortion & Society",
+      "core_keywords": ["liberal", "individual", "baby", "law", "liberalism", "abortion", "world", "book", "coulter", "conservative", "life", "society", "joyce"],
+      "importance_ratio": 20.00
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Tax Policies & Conservative Politics with Tea Party & Immigration",
+      "core_keywords": ["tax", "american", "law", "party", "obama", "republican", "government", "tea", "conservative", "nation", "immigration", "war", "alabama"],
+      "importance_ratio": 25.71
+    }
+  ]
+}

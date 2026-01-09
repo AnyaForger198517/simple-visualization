@@ -1,0 +1,285 @@
+{
+  "month": "2020-07",
+  "total_articles": 108,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "voting",
+        "biden",
+        "vote",
+        "voter",
+        "american",
+        "ha",
+        "election",
+        "wa",
+        "democratic",
+        "trump",
+        "public",
+        "state",
+        "democrat",
+        "progressive",
+        "right"
+      ],
+      "topic_weights": [
+        78.5432945556959,
+        75.00167411350571,
+        63.325808064710614,
+        61.05939615348381,
+        57.329941194167645,
+        56.748231046539544,
+        52.15621274805352,
+        45.60998272436162,
+        36.35327683653716,
+        33.736010281377446,
+        32.65105430967265,
+        32.16063580211722,
+        32.036233846483654,
+        31.539980632123296,
+        28.405599564787707
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "police",
+        "woman",
+        "child",
+        "ha",
+        "abortion",
+        "care",
+        "life",
+        "study",
+        "city",
+        "work",
+        "issue",
+        "officer",
+        "school",
+        "matter"
+      ],
+      "topic_weights": [
+        117.90135456365574,
+        106.834300804087,
+        77.35578753534762,
+        56.11097524539685,
+        51.049787828543415,
+        41.99642878256555,
+        37.67703514528275,
+        36.23115102169707,
+        34.284051734390346,
+        32.758057632073594,
+        32.15548747345766,
+        30.35165200946506,
+        29.78618248593142,
+        29.577947850445792,
+        28.357867676878588
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "white",
+        "ha",
+        "president",
+        "black",
+        "wa",
+        "email",
+        "state",
+        "american",
+        "valid",
+        "news",
+        "enter",
+        "policy",
+        "house",
+        "woman"
+      ],
+      "topic_weights": [
+        156.9523037987792,
+        118.38030809969098,
+        115.62072246277143,
+        113.38300150265603,
+        105.02913929107558,
+        88.83836247248536,
+        68.88028980233784,
+        68.28014245477378,
+        59.055646993919986,
+        52.46485000140975,
+        51.34728351389282,
+        51.31557884958629,
+        49.616876743610035,
+        48.446989299761114,
+        48.02994676340874
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "election",
+        "biden",
+        "health",
+        "state",
+        "public",
+        "coronavirus",
+        "campaign",
+        "house",
+        "american",
+        "pandemic",
+        "covid"
+      ],
+      "topic_weights": [
+        280.26599849143054,
+        214.6360291274508,
+        135.1463450238257,
+        125.2105662796379,
+        114.37991903205862,
+        99.75539815677041,
+        86.04863509976805,
+        84.66294531803126,
+        70.81154960352396,
+        68.76460804632215,
+        66.44449429758909,
+        57.89981983610565,
+        56.89993098171671,
+        55.833221948737226,
+        55.589794422616315
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "texas",
+        "wa",
+        "ha",
+        "state",
+        "million",
+        "company",
+        "week",
+        "republican",
+        "program",
+        "pandemic",
+        "claim",
+        "vaccine",
+        "share",
+        "government",
+        "unemployment"
+      ],
+      "topic_weights": [
+        65.6059536210571,
+        62.4296193597245,
+        57.430655412166914,
+        57.411725814618315,
+        56.455495212463056,
+        51.63912840667067,
+        47.58302285505799,
+        47.370769668318374,
+        46.69574098783602,
+        38.41166683775288,
+        35.57811194496476,
+        35.06741020933821,
+        31.850245469670135,
+        30.92164988986592,
+        30.269935091045603
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 23,
+    "3": 40,
+    "1": 23,
+    "0": 8,
+    "4": 14
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Mobilizing the Muslim community. On Tuesday, the Council on American-Islamic Relations launched a new website designed to empower American Muslims by increasing their political capacity and presence i...",
+        "upvotes": 1,
+        "url": "https://www.sasentinel.com/new-election-website-aims-to-mobilize-muslim-voters"
+      },
+      {
+        "preview": "'s Who Counts? series is made possible by the support of  Plus members and readers like you. The Supreme Court all but guaranteed that nearly 1 million Floridians will be unable to vote in the 2020 el...",
+        "upvotes": 9,
+        "url": "https://slate.com/news-and-politics/2020/07/supreme-court-florida-felons-poll-tax.html"
+      },
+      {
+        "preview": "“The most transformative presidents in our nation’s history — Lincoln, FDR, LBJ — were not ideologues.” Progressive groups overwhelmingly favored confrontational leftists like Bernie Sanders or Elizab...",
+        "upvotes": 94,
+        "url": "https://www.vox.com/21322478/joe-biden-overton-window-bidenism"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Legendary Jam singer-songwriter discusses his 15th studio album, On Sunset ﻿Listen via Apple Podcasts | Spotify | Google Play | Stitcher | Radio Public Paul Weller rings Kyle Meredith to discuss his 1...",
+        "upvotes": 3,
+        "url": "https://consequenceofsound.net/2020/07/kyle-meredith-with-paul-weller/"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Two Fort Lauderdale police officers laughed and derided Black Lives Matter protesters after shooting them with rubber bullets at a demon...",
+        "upvotes": 1,
+        "url": "https://www.insider.com/video-florida-officers-laugh-after-shooting-protesters-with-rubber-bullets-2020-7"
+      },
+      {
+        "preview": "The Factual | Blog Unbiased news. Trending topics. Americans believe the time has come for police reform. In the wake of the George Floyd protests, support for measures to reform the police has surged...",
+        "upvotes": 21,
+        "url": "https://blog.thefactual.com/reforming-police-george-floyd-defund"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Login John Bolton's absurd, self-aggrandizing new book reveals a shocking secret: Donald Trump knows next to nothing about Africa. The continent is better off without his ignorant meddling. Donald Tru...",
+        "upvotes": 1,
+        "url": "https://www.jacobinmag.com/2020/06/john-bolton-book-trump-africa"
+      },
+      {
+        "preview": "On June 22, U.S. President Donald Trump ordered the temporary suspension of new work visas for temporary workers, including highly skilled workers (H-1B visa). Trump’s decision may appear to be based ...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/2020/06/trump-signals-he-is-willing-to-play-to-his-far-right-base-even-if-it-undermines-americas-economic-interests/"
+      },
+      {
+        "preview": "The Century Foundation The Century Foundation The Century Foundation Two years before his assassination in Memphis, Martin Luther King Jr. marched through Chicago’s Southwest Side to protest housing s...",
+        "upvotes": 9,
+        "url": "https://tcf.org/content/commentary/exclusionary-zoning-continues-racial-segregations-ugly-work/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Your account has been created Twitch said that it does not 'make exceptions for political or newsworthy content' Find your bookmarks in your  Premium section, under my profile Video game streaming pla...",
+        "upvotes": 1,
+        "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/twitch-streaming-trump-account-ban-hateful-conduct-a9592786.html"
+      },
+      {
+        "preview": "Discover Thomson  By Joseph Ax 3 Min Read () - Presumptive Democratic presidential nominee Joe Biden’s campaign on Tuesday criticized U.S. Senate Republicans for blocking legislation to require campai...",
+        "upvotes": 532,
+        "url": "https://www.reuters.com/article/us-usa-election-biden-russia-idUSKBN2413OW"
+      },
+      {
+        "preview": "Advertisement Supported by It’s an example of the unpredictable way health prices can vary for patients who receive identical care. By Sarah Kliff Before a camping and kayaking trip along the Texas Co...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/06/29/upshot/coronavirus-tests-unpredictable-prices.html?smtyp=cur&smid=ig-nytimes"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Mother Jones illustration; Courtesy of Harvard T.H. Chan School of Public Health As the world grapples with the devastation of the coronavirus, one thing is clear: The United States simply wasn’t prep...",
+        "upvotes": 13,
+        "url": "https://www.motherjones.com/politics/2020/07/how-to-protect-americas-public-health-system-from-leaders-like-trump/"
+      },
+      {
+        "preview": "Last week, 2.4 million workers applied for unemployment insurance (UI) benefits. This is the 16th week in a row that unemployment claims have been more than twice the worst week of the Great Recession...",
+        "upvotes": 2,
+        "url": "https://www.epi.org/blog/almost-four-months-in-joblessness-remains-at-historic-levels-congress-must-extend-the-extra-600-in-ui-benefits-which-expires-in-a-little-more-than-two-weeks/"
+      },
+      {
+        "preview": "Big companies received PPP loans. Other companies returned the money while others were sued for not using it properly. The Paycheck Protection Program (PPP) is part of the CARES Act to provide small b...",
+        "upvotes": 1,
+        "url": "https://www.latinpost.com/articles/146358/20200712/parents-white-house-press-secretary-kayleigh-mcenany-received-up-2.htm"
+      }
+    ]
+  }
+}

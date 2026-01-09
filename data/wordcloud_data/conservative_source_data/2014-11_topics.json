@@ -1,0 +1,285 @@
+{
+  "month": "2014-11",
+  "total_articles": 95,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "poll",
+        "wa",
+        "race",
+        "point",
+        "election",
+        "percent",
+        "state",
+        "voter",
+        "democrat",
+        "tax",
+        "senate",
+        "candidate",
+        "polling",
+        "virginia",
+        "woman"
+      ],
+      "topic_weights": [
+        64.68929940173072,
+        58.52171763423543,
+        52.037854549053584,
+        36.226571932294384,
+        29.490878834394888,
+        28.904017440690502,
+        27.44757649273458,
+        27.184500484743392,
+        27.044162181934887,
+        25.580644311966818,
+        25.565690085878398,
+        22.79380041757345,
+        22.51783632237174,
+        21.60514775275986,
+        20.279829436202032
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "american",
+        "riot",
+        "ha",
+        "black",
+        "law",
+        "country",
+        "gun",
+        "human",
+        "history",
+        "sign",
+        "wa",
+        "state",
+        "ferguson",
+        "event",
+        "police"
+      ],
+      "topic_weights": [
+        29.889335618508714,
+        27.244616371085595,
+        25.533730965589143,
+        24.819271350379562,
+        22.532695839424104,
+        17.665882486812492,
+        17.629937441844604,
+        17.30680073166849,
+        16.405290027737664,
+        16.39191839154771,
+        15.89822515422319,
+        15.0387905532149,
+        14.390973920951737,
+        14.290973969434432,
+        14.07557142586991
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "obama",
+        "president",
+        "republican",
+        "wa",
+        "ha",
+        "state",
+        "law",
+        "democrat",
+        "senate",
+        "party",
+        "house",
+        "congress",
+        "election",
+        "obamacare",
+        "government"
+      ],
+      "topic_weights": [
+        187.60302567289855,
+        159.9058576266274,
+        150.21864471498415,
+        146.77779251568728,
+        140.6057666466048,
+        126.55471010682815,
+        117.32335394572246,
+        91.20385426507195,
+        89.91831486521009,
+        80.88371995056478,
+        80.19927271024557,
+        79.49289356365345,
+        77.53616579273776,
+        74.32696477834853,
+        72.53844724823932
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "likeliked",
+        "brown",
+        "likelike",
+        "wilson",
+        "change",
+        "account",
+        "log",
+        "commenting",
+        "ha",
+        "using",
+        "won",
+        "medium",
+        "endorsed",
+        "obama"
+      ],
+      "topic_weights": [
+        84.19531555269685,
+        62.05699465847255,
+        55.80667513333743,
+        36.7034501976663,
+        34.996270766618814,
+        34.14808900544685,
+        31.752844943208622,
+        31.59472814464336,
+        29.47889201945615,
+        26.39729550882587,
+        25.743030154957406,
+        24.957347808204023,
+        21.760874533771734,
+        21.692894004941433,
+        21.653920169881864
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "gruber",
+        "story",
+        "did",
+        "advertisement",
+        "police",
+        "cbs",
+        "medium",
+        "american",
+        "told",
+        "video",
+        "work",
+        "health",
+        "obamacare"
+      ],
+      "topic_weights": [
+        185.7235615983559,
+        72.50290760056,
+        64.65686945441364,
+        62.69836761448341,
+        49.85202361221204,
+        43.26418076863083,
+        40.86046717361326,
+        40.28227786982627,
+        40.23592867920238,
+        37.29606911634354,
+        32.22387617733673,
+        29.873931287451725,
+        29.248422126538244,
+        28.88263915672333,
+        24.81946819596868
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 7,
+    "1": 8,
+    "2": 44,
+    "4": 25,
+    "3": 11
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Watch CBSN Live Updated on: October 23, 2014 / 8:04 AM / CBS/AP WASHINGTON -- Four former Blackwater security guards were convicted Wednesday in the 2007 shootings of more than 30 Iraqis in Baghdad, a...",
+        "upvotes": 2,
+        "url": "http://www.cbsnews.com/news/blackwater-case-former-guards-convicted-in-baghdad-mass-shootings/"
+      },
+      {
+        "preview": "Everyone seems to be worried about voter suppression or intimidation (such as that which totally failed to materialize in North Carolina) this year. Well, fear not. Eric Holder has your back. “One of ...",
+        "upvotes": 35,
+        "url": "http://hotair.com/archives/2014/11/04/eric-holder-will-be-watching-for-discrimination-in-voting-today/"
+      },
+      {
+        "preview": "Nov. 5, 2014, at 9:08 AM By Nate Silver Filed under 2014 Midterms Bill O'Leary / Getty Images Bill O'Leary / Getty Images For much of this election cycle, Democrats complained the polls were biased ag...",
+        "upvotes": 21,
+        "url": "http://fivethirtyeight.com/features/the-polls-were-skewed-toward-democrats/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "WASHINGTON, D.C. -- Less than half of Americans, 47%, say they favor stricter laws covering the sale of firearms, similar to views found last year. But this percentage is significantly below the 58% r...",
+        "upvotes": 14,
+        "url": "http://www.gallup.com/poll/179045/less-half-americans-support-stricter-gun-laws.aspx"
+      },
+      {
+        "preview": "It has all come down to this. After two years of sloganeering, more than $2 billion in ads, and all the phony umbrage the two parties could muster, it’s finally  for America to vote. The truth is that...",
+        "upvotes": 2,
+        "url": "https://time.com/3555253/2014-midterm-election-drinking-game/"
+      },
+      {
+        "preview": "In one well-intentioned airdrop, all of the fears about arming militias in Syria came to pass. Throughout the three-plus years of the Syrian civil war, one oft-sung refrain among some American officia...",
+        "upvotes": 7,
+        "url": "http://www.theatlantic.com/international/archive/2014/10/american-weapons-find-their-way-to-isis-again/381733/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Stay up to speed on all the latest local and national political news. Democrats across the state recently got something in the mail that many people consider startling. It’s a flier that uses historic...",
+        "upvotes": 6,
+        "url": "http://www.wbaltv.com/politics/political-flier-stirs-racebased-controversy/29325908"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Democratic National Committee (DNC) Chairwoman Debbie Wasserman Schultz (D-Fla.) predicted Sunday that her party would hold the Senate in Tuesday's m...",
+        "upvotes": 22,
+        "url": "http://thehill.com/blogs/ballot-box/senate-races/222582-dnc-chair-were-going-to-hold-the-senate"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Polls show the GOP is on the verge of taking the Senate majority from the Democrats and expanding i...",
+        "upvotes": 17,
+        "url": "http://www.businessinsider.com/white-house-dont-freak-out-if-democrats-get-crushed-tomorrow-2014-11"
+      }
+    ],
+    "3": [
+      {
+        "preview": "A couple of days ago outgoing Democratic Senator from Iowa Tom Harkin implied that people were only intending to vote for Joni Ernst because she was attractive. In addition to insulting the voters of ...",
+        "upvotes": 1,
+        "url": "http://americaswatchtower.com/2014/11/03/tom-harkin-backtracks-from-his-sexist-joni-ernst-comment/"
+      },
+      {
+        "preview": "In so doing, the Second Amendment annihilated the left’s relentless claim that 90 percent of Americans support more gun control. On the gubernatorial level, in Arizona, pro-Second Amendment candidate ...",
+        "upvotes": 59,
+        "url": "http://www.breitbart.com/Big-Government/2014/11/04/Second-Amendment-Crushes-Gun-Control-Candidates-In-Midterm-Elections"
+      },
+      {
+        "preview": "Unfazed by their shellacking last Tuesday, Democrats plan to keep pushing the notion that the Koch Brothers are the root of all evil. Or something. More cow bell, in other words. Warner Todd Huston wr...",
+        "upvotes": 43,
+        "url": "http://www.americanthinker.com/blog/2014/11/stuck_on_stupid_dems_plan_to_continue_attack_on_koch_brothers.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Some lessons for today’s public health crises from the storied past of Ellis Island Immigrant Health Hospital. This Halloween, if you’re willing to wear a hard hat and brave a late October sea breeze,...",
+        "upvotes": 5,
+        "url": "http://www.the-american-interest.com/2014/10/31/the-ghosts-of-quarantines-past/"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE British Islamist Abu Rumaysah said he wants to see every woman in the UK \"covered from head to toe.\" Rumaysah and his Islamist confidants patrol the streets of East London, chastis...",
+        "upvotes": 49,
+        "url": "http://freebeacon.com/culture/uk-islamist-i-want-to-see-every-single-woman-in-this-country-covered-from-head-to-toe/"
+      },
+      {
+        "preview": "Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter \"I kind of assume I'm on a list. I don’t think I'm the only one\" By Paul Bond author Sharyl Attk...",
+        "upvotes": 33,
+        "url": "http://www.hollywoodreporter.com/news/cbs-news-reporter-sharyl-attkisson-745982"
+      }
+    ]
+  }
+}

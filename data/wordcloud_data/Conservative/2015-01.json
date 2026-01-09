@@ -1,0 +1,36 @@
+{
+  "month": "2015-01",
+  "total_articles": 226,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Government policies on tax, healthcare and education",
+      "core_keywords": ["tax", "obama", "healthcare", "education", "federal", "government", "state"],
+      "importance_ratio": "26.55%"
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gender issues and islam-related social problems",
+      "core_keywords": ["woman", "men", "muslim", "rape", "islam", "feminist", "gender"],
+      "importance_ratio": "15.49%"
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Freedom of speech and islam-related legal issues",
+      "core_keywords": ["speech", "freedom", "islam", "law", "hate", "police", "muslim"],
+      "importance_ratio": "24.78%"
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Online forum discussions and political comments",
+      "core_keywords": ["reply", "posted", "post", "private", "free", "republic", "news"],
+      "importance_ratio": "0.88%"
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Republican and Democrat political competition",
+      "core_keywords": ["republican", "obama", "president", "democrat", "house", "senate", "election"],
+      "importance_ratio": "32.30%"
+    }
+  ]
+}

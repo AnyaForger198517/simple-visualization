@@ -1,0 +1,285 @@
+{
+  "month": "2017-12",
+  "total_articles": 141,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "woman",
+        "wa",
+        "feminism",
+        "ha",
+        "feminist",
+        "advertisement",
+        "story",
+        "men",
+        "sexual",
+        "review",
+        "trump",
+        "harassment",
+        "election",
+        "come",
+        "cnn"
+      ],
+      "topic_weights": [
+        316.9472207720457,
+        148.27511677539508,
+        141.70610372947917,
+        140.69725913995643,
+        105.69822393140264,
+        104.37785415277742,
+        103.69729372928762,
+        97.48685456745764,
+        85.78979781518842,
+        74.45542329604237,
+        70.4221635430136,
+        61.21054624418507,
+        58.23873674624634,
+        56.15057518865733,
+        53.32914882025161
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "korea",
+        "north",
+        "china",
+        "ship",
+        "security",
+        "ha",
+        "state",
+        "council",
+        "gun",
+        "trump",
+        "official",
+        "united",
+        "percent",
+        "told"
+      ],
+      "topic_weights": [
+        176.98309211812705,
+        144.0498644162215,
+        142.67875584191296,
+        96.30677889185434,
+        93.74533244917731,
+        89.03418120976423,
+        69.82732943872121,
+        66.45238327516103,
+        65.67419699461551,
+        54.382464758524634,
+        52.80922477035321,
+        51.61646687177529,
+        48.14010246589609,
+        47.43153574738228,
+        46.4064562301246
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "tax",
+        "ha",
+        "state",
+        "president",
+        "medium",
+        "democrat",
+        "america",
+        "world",
+        "republican",
+        "obama",
+        "did",
+        "american",
+        "party"
+      ],
+      "topic_weights": [
+        1589.4610983215314,
+        746.59590215752,
+        586.0410549940532,
+        498.0254009194466,
+        455.469687012113,
+        334.25460561675186,
+        265.2751960726079,
+        239.36030272028165,
+        230.18181565073436,
+        223.09452598893986,
+        220.52411334897738,
+        214.32028031507167,
+        211.9507887141842,
+        203.498023095117,
+        199.76688301843257
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "property",
+        "seattle",
+        "rent",
+        "housing",
+        "land",
+        "wa",
+        "ha",
+        "law",
+        "discrimination",
+        "inflation",
+        "science",
+        "applicant",
+        "tenant",
+        "market",
+        "city"
+      ],
+      "topic_weights": [
+        472.439848929953,
+        406.38106117590866,
+        364.03354187168463,
+        355.15096534886027,
+        343.5037724099055,
+        309.61241170204414,
+        309.32532816870787,
+        288.75991243524743,
+        279.89673721991255,
+        242.716955566616,
+        221.6285635188625,
+        204.42593064863146,
+        203.66850185878766,
+        202.6700622548266,
+        193.98431663777092
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "court",
+        "president",
+        "washington",
+        "state",
+        "american",
+        "department",
+        "national",
+        "order",
+        "military",
+        "work",
+        "doe",
+        "kennedy",
+        "news",
+        "united"
+      ],
+      "topic_weights": [
+        165.03158132801724,
+        55.40729723822287,
+        54.24885244427896,
+        54.228217790612305,
+        53.020091049988025,
+        51.378336015137826,
+        47.390920402340996,
+        40.93386862347725,
+        40.02679533292803,
+        37.4185193529398,
+        36.51482162137341,
+        36.0132859338517,
+        35.83475894214068,
+        35.092434998705414,
+        34.7990018262398
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 34,
+    "1": 27,
+    "4": 14,
+    "2": 62,
+    "3": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement Advertisement - story continues below Here is the video: The arrest of @lucianwintrich makes it abundantly clear that it is no longer “OK to be White” on American college campuses.#movin...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2017/11/quinebaug-valley-college-releases-statement-says-ok-advisor-stole-lucian-wintrichs-speech-uconn/"
+      },
+      {
+        "preview": "Americans were rightfully outraged when they learned that members of Congress had used taxpayer dollars to pay settlement claims to alleged victims of sexual harassment. They were even more outraged w...",
+        "upvotes": 67,
+        "url": "https://townhall.com/tipsheet/cortneyobrien/2017/11/30/blackburn-were-going-to-release-names-of-congressmen-who-used-hush-fund-n2416191"
+      },
+      {
+        "preview": "Rep. Kathleen Rice: Senator Al Franken and Rep. Conyers should step down: âThereâs no reason for the public to trust us if we canât even call people outâ  pic.twitter.com/hIT1797r60 Rep. Kathl...",
+        "upvotes": 10,
+        "url": "https://www.realclearpolitics.com/video/2017/11/27/dem_rep_kathleen_rice_al_franken_conyers_should_resign.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Marijuana Jacob Sullum | 11.29.2017 9:35 AM Hawaii is one of 29 states that allow medical use of marijuana, but it is the only state tha...",
+        "upvotes": 134,
+        "url": "http://reason.com/blog/2017/11/29/hawaii-which-requires-registration-of-al"
+      },
+      {
+        "preview": "On Thursday night, Ben Shapiro weighed in on the shocking verdict of the Kate Steinle murder trial. When Steinle was shot in San Francisco in July 2015, it sparked a national dialogue of sanctuary cit...",
+        "upvotes": 475,
+        "url": "https://www.mediaite.com/tv/ben-shapiro-on-kate-steinle-the-notion-that-illegals-can-commit-crimes-and-reenter-us-is-why-trump-won/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. Ted CruzRafael (Ted) Edward CruzAllies see rising prospect of Trump 2024 White House bid Why is Biden hesitating to challenge China as East Asia...",
+        "upvotes": 46,
+        "url": "http://thehill.com/blogs/blog-briefing-room/362710-cruz-angry-at-not-guilty-verdict-in-kate-steinle-case-justice-must"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 0,
+        "url": "http://www.nationalreview.com/corner/454264/michael-flynn-charge-monstrous-injustice-or-prelude-bigger-things"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since As Michael Flynn, the former White House national security adviser, left a federal courthouse in Wa...",
+        "upvotes": 5,
+        "url": "http://www.businessinsider.com/michael-flynn-plea-hearing-lock-him-up-2017-12"
+      },
+      {
+        "preview": "A San Francisco Clean Patrol truck finishes hosing down the sidewalk across the street from the San Francisco Chronicle and  building after tweets of homeless men defecating on the streets go viral. S...",
+        "upvotes": 1,
+        "url": "http://www.sfgate.com/news/article/How-to-solve-San-Francisco-s-homeless-pooping-6465355.php"
+      }
+    ],
+    "3": [
+      {
+        "preview": "To revisit this article, select My Account, then To revisit this article, visit My Profile, then View saved stories By Jeannie Suk Gersen The application process for schools, fellowships, and jobs alw...",
+        "upvotes": 27,
+        "url": "https://www.newyorker.com/news/news-desk/the-uncomfortable-truth-about-affirmative-action-and-asian-americans"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 7,
+        "url": "http://www.nationalreview.com/corner/454962/martin-center-article-research-supports-bennett-hypothesis"
+      },
+      {
+        "preview": "Follow Us National Review The Bizarre Political Ideology of Netflix’s La Casa de Papel The Myth of the Red Pill ‘Thither You’ll Come, Late or Never’: The Richness of East O’ the Sun and West O’ the Mo...",
+        "upvotes": 25,
+        "url": "http://www.nationalreview.com/article/454964/age-outrage"
+      }
+    ],
+    "4": [
+      {
+        "preview": "(.com) – Presiding over the annual lighting of the national Christmas tree on Thursday night, President Trump highlighted the season’s Christian message, invoking “our Lord and Savior Jesus Christ” an...",
+        "upvotes": 62,
+        "url": "https://www.cnsnews.com/news/article/patrick-goodenough/trump-invokes-our-lord-and-savior-jesus-christ-natl-christmas-tree"
+      },
+      {
+        "preview": "The Supreme Court will permit the full enforcement of the \"travel ban\" proposed by President Donald Trump that prohibits people from Chad, Iran, Libya, Somalia, Syria and Yemen from coming to the Unit...",
+        "upvotes": 9,
+        "url": "https://townhall.com/tipsheet/christinerousselle/2017/12/04/breaking-supreme-court-approves-travel-ban-n2417974"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 5,
+        "url": "http://www.nationalreview.com/corner/454377/four-promising-takeaways-masterpiece-cakeshop-oral-argument"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2020-03",
+  "total_articles": 141,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump's Policies and Federal Government Affairs",
+      "core_keywords": ["trump", "president", "government", "texas", "reform", "federal", "university"],
+      "importance_ratio": 0.0496
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Coronavirus Pandemic and US Government Response",
+      "core_keywords": ["coronavirus", "virus", "health", "death", "test", "trump", "state"],
+      "importance_ratio": 0.4043
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Coronavirus-related Social and Economic Issues",
+      "core_keywords": ["covid", "italy", "twitter", "obamacare", "bank", "dollar", "digital"],
+      "importance_ratio": 0.0426
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "2020 US Presidential Election and Campaign",
+      "core_keywords": ["biden", "sander", "trump", "joe", "democratic", "candidate", "campaign"],
+      "importance_ratio": 0.3546
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "US Congressional Politics and Economic Policies",
+      "core_keywords": ["democrat", "republican", "pelosi", "house", "senate", "tax", "economic"],
+      "importance_ratio": 0.1489
+    }
+  ]
+}

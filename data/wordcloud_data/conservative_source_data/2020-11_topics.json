@@ -1,0 +1,280 @@
+{
+  "month": "2020-11",
+  "total_articles": 133,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "president",
+        "biden",
+        "wa",
+        "medium",
+        "election",
+        "republican",
+        "ha",
+        "donald",
+        "evidence",
+        "vote",
+        "democrat",
+        "voter",
+        "campaign",
+        "party"
+      ],
+      "topic_weights": [
+        222.3275931264617,
+        189.83739723127138,
+        151.11576619442542,
+        130.53843391964554,
+        95.15810663467556,
+        93.50354547004913,
+        93.17714925414664,
+        84.01912407941815,
+        83.83440371508509,
+        75.30561068657502,
+        70.98633048341,
+        64.32852362807623,
+        62.35430342757994,
+        59.45940551626306,
+        59.351786126263605
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "covid",
+        "wa",
+        "ha",
+        "school",
+        "police",
+        "city",
+        "coronavirus",
+        "health",
+        "government",
+        "officer",
+        "governor",
+        "news",
+        "order",
+        "court"
+      ],
+      "topic_weights": [
+        73.38385818705459,
+        41.86772936838573,
+        41.13755821980135,
+        34.94515106778862,
+        31.222678951163896,
+        30.040776403528866,
+        29.679120878324078,
+        28.55477426796454,
+        27.535999856732786,
+        27.5267946839026,
+        27.093981116258448,
+        24.832066102560805,
+        24.382698448573233,
+        23.803251261196582,
+        22.580661176696733
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "team",
+        "ha",
+        "wa",
+        "campaign",
+        "russian",
+        "claim",
+        "case",
+        "life",
+        "leave",
+        "update",
+        "money",
+        "article",
+        "platform",
+        "individual",
+        "public"
+      ],
+      "topic_weights": [
+        344.067821745686,
+        272.6074094141603,
+        229.46775607923144,
+        133.47706402917836,
+        116.55316111965075,
+        115.1181568808357,
+        80.59577490374659,
+        60.22160850459521,
+        59.27201950530641,
+        58.37009278093997,
+        48.807975312327784,
+        45.862098780527106,
+        45.71748864673004,
+        45.398847463829895,
+        44.33414804785199
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "ha",
+        "american",
+        "wa",
+        "america",
+        "black",
+        "biden",
+        "state",
+        "white",
+        "president",
+        "hollywood",
+        "election",
+        "country",
+        "political",
+        "world"
+      ],
+      "topic_weights": [
+        154.65226474918262,
+        84.79481062979553,
+        73.06252144342065,
+        61.307499899462975,
+        52.45827189593104,
+        43.07256464160853,
+        42.153636724993376,
+        41.3669338451657,
+        34.876324277452106,
+        34.52401913721841,
+        28.677270967022825,
+        27.479594660140418,
+        27.29076140367051,
+        26.271756568456837,
+        26.182947569698573
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "election",
+        "ballot",
+        "state",
+        "vote",
+        "trump",
+        "biden",
+        "advertisement",
+        "wa",
+        "percent",
+        "mail",
+        "georgia",
+        "hanson",
+        "voter",
+        "county",
+        "poll"
+      ],
+      "topic_weights": [
+        430.9513128474705,
+        363.059109525564,
+        325.43088570084285,
+        308.46540345556565,
+        275.56552616585685,
+        219.668613759629,
+        190.60434782014568,
+        170.3157887063947,
+        159.86730285137213,
+        147.76443138799047,
+        141.30178638896075,
+        135.7341965105896,
+        131.55950658176553,
+        117.17507335093839,
+        111.25187614691478
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 23,
+    "0": 61,
+    "1": 34,
+    "4": 13,
+    "2": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Source: AP Photo/Susan Walsh Department of Homeland Security (DHS) Acting Secretary Chad Wolf called on Twitter to cease obstruction of Americans' inalienable right to free speech and communication wi...",
+        "upvotes": 14,
+        "url": "https://townhall.com/tipsheet/bronsonstocking/2020/10/31/dhs-lables-twitter-n2579145"
+      },
+      {
+        "preview": "2020 US Election, President Trump, US News, Vice President Mike Pence Source: Joshua Caplan President Donald Trump is leading former Vice President Joe Biden in the battleground state of Iowa in the f...",
+        "upvotes": 437,
+        "url": "https://nworeport.me/2020/11/01/iowa-poll-donald-trump-leading-joe-biden-by-7-points-2/"
+      },
+      {
+        "preview": "ABC News/KCRG-TV Presidential candidate Joe Biden said Friday that a story linking him with son Hunter Biden’s business dealings in Ukraine is “all a smear” from Russia and that “serious” investigator...",
+        "upvotes": 129,
+        "url": "https://dailycaller.com/2020/10/31/joe-biden-major-outlet-serious-investigator-hunter-biden-laptop-story-smear/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Justice Amy Coney BarrettAmy Coney BarrettTo infinity and beyond: What will it take to create a diverse and representative judiciary? Merriam-Webster...",
+        "upvotes": 1007,
+        "url": "https://thehill.com/regulation/court-battles/523973-barrett-sits-for-first-supreme-court-argument"
+      },
+      {
+        "preview": "Zack Sharf Nov 2, 2020 10:42 am @zsharf John Boyega in “Star Wars: The Rise of Skywalker” Disney John Boyega says in a new interview with The Hollywood Reporter that a Disney executive reached out to ...",
+        "upvotes": 1,
+        "url": "https://www.indiewire.com/2020/11/john-boyega-disney-meeting-star-wars-criticisms-1234596487/"
+      },
+      {
+        "preview": "As Congress enters a contentious lame duck session in which some Republican leaders have yet to acknowledge President-elect Biden’s victory, Senate Republicans on Tuesday released a $1.4 trillion spen...",
+        "upvotes": 87,
+        "url": "https://www.forbes.com/sites/sarahhansen/2020/11/10/senate-republicans-release-14-trillion-spending-plan-without-covid-19-relief-ahead-of-december-11-government-shutdown-deadline/?sh=60c3b297796f"
+      }
+    ],
+    "2": [
+      {
+        "preview": "A small but significant event has just occurred. This morning the legal case between Arron Banks and the journalist Carole Cadwalladr was due to start. The case came about because of Cadwalladr’s clai...",
+        "upvotes": 0,
+        "url": "https://www.spectator.co.uk/article/carole-cadwalladr-should-now-return-her-orwell-prize/amp"
+      },
+      {
+        "preview": "balajids Aug 17, 2021 0 423  Team Jul 14, 2021 0 27  Team Jul 12, 2021 0 32  Team Jul 4, 2021 0 44  Team Jun 30, 2021 0 59 balajids Sep 12, 2021 4 483  Team Jul 14, 2021 0 33  Team Jul 7, 2021 0 35  T...",
+        "upvotes": 1,
+        "url": "https://www.naradasbuzz.com/Boko-Haram-assaulted-workers-and-labours"
+      }
+    ],
+    "3": [
+      {
+        "preview": "You can also follow us on Facebook, Twitter and Instagram. Fake news you can trust, delivered straight to your inbox. WASHINGTON, D.C.—\"There is absolutely nothing happening today here in Washington, ...",
+        "upvotes": 11,
+        "url": "https://babylonbee.com/news/absolutely-nothing-happening-today-says-cnn-reporter-gesturing-toward-massive-crowd-at-march-for-life"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 50,
+        "url": "https://www.nationalreview.com/2020/11/why-the-left-is-mad-about-the-supreme-court/"
+      },
+      {
+        "preview": "e poverty stats from 2016 to 2019. Both the midwest and south went down in poverty. I have changed my mind. Arkansas fell from 19 percent to 16.2 percent in 2019. The poorer southern and Appalachian s...",
+        "upvotes": 1,
+        "url": "https://amgreatness.com/2020/11/01/donald-trump-counterrevolutionary/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Despite speculation among some voters, Sharpies are safe to use when casting ballots in Maricopa County and in fact, are the preferred type of ink. Arizona election officials confirm that Sharpies do ...",
+        "upvotes": 1,
+        "url": "https://www.azfamily.com/news/politics/election_headquarters/yes-sharpies-are-fine-for-maricopa-county-ballots/article_b4906792-1e88-11eb-9ff1-4fd0a99ca009.html"
+      },
+      {
+        "preview": "WHY AP CALLED PENNSYLVANIA FOR BIDEN: Four years ago, President Donald Trump breached the Democrats’ “blue wall,” narrowly winning Pennsylvania, Michigan and Wisconsin — a trio of Great Lakes states t...",
+        "upvotes": 49,
+        "url": "https://apnews.com/article/election-2020-joe-biden-donald-trump-pennsylvania-f7dba7b31bd21ec2819a7ac9d2b028d3"
+      },
+      {
+        "preview": "Advertisement Michigan Attorney General Dana Nessel sent a ‘cease and desist’ letter to Big League Politics about their exclusive content #DetroitLeaks that outlined poll worker training wherein worke...",
+        "upvotes": 2,
+        "url": "https://www.thegatewaypundit.com/2020/11/huge-exclusive-michigan-ag-dana-nessel-sends-cease-desist-order-journalist-demanding-erase-detroitleaks-video-showing-voter-fraud-training-face-criminal-prosecution/"
+      }
+    ]
+  }
+}

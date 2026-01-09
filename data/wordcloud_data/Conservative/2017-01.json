@@ -1,0 +1,36 @@
+{
+  "month": "2017-01",
+  "total_articles": 300,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump's Presidency and US Political Landscape",
+      "core_keywords": ["trump", "president", "obama", "republican", "election", "white house", "administration"],
+      "importance_ratio": 0.4600
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Media and Advertisement with Trump-related Narratives",
+      "core_keywords": ["advertisement", "trump", "media", "health care", "american", "president", "refugee"],
+      "importance_ratio": 0.0667
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Campus Politics and Free Speech Debates",
+      "core_keywords": ["university", "student", "professor", "campus", "conservative", "speech", "lecture"],
+      "importance_ratio": 0.0200
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Federal and State Policy on Refugees and Law",
+      "core_keywords": ["state", "federal", "trump", "refugee", "law", "court", "government policy"],
+      "importance_ratio": 0.1967
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Gender, American Society and Trump's Impact",
+      "core_keywords": ["woman", "men", "american", "trump", "police", "power", "political view"],
+      "importance_ratio": 0.2566
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2015-06",
+  "total_articles": 288,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Social Identity and National Issues",
+      "core_keywords": ["woman", "black", "gun", "flag", "party", "democrat", "american"],
+      "importance_ratio": 0.3229
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Supreme Court and Marriage Legislation",
+      "core_keywords": ["court", "law", "marriage", "gay", "supreme", "constitution", "justice"],
+      "importance_ratio": 0.1806
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Education System and Government Finance",
+      "core_keywords": ["school", "teacher", "student", "tax", "education", "job", "government"],
+      "importance_ratio": 0.1389
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "2016 Election Candidates and News Events",
+      "core_keywords": ["bush", "cruz", "email", "president", "dolezal", "texas", "news"],
+      "importance_ratio": 0.0833
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Obama Administration and Republican Opposition",
+      "core_keywords": ["obama", "republican", "clinton", "president", "campaign", "party", "patriot act"],
+      "importance_ratio": 0.2743
+    }
+  ]
+}

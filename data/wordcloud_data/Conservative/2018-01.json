@@ -1,0 +1,36 @@
+{
+  "month": "2018-01",
+  "total_articles": 209,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Gender Issues and Sexual Harassment Discussion",
+      "core_keywords": ["gender", "sexual harassment", "women's rights", "men", "female", "life", "pakistan"],
+      "importance_ratio": 0.1579
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Tax Policy and Political Election Dynamics",
+      "core_keywords": ["tax", "election", "democrat", "republican", "trump", "state", "house", "voter"],
+      "importance_ratio": 0.1053
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Presidency and National Political News",
+      "core_keywords": ["trump", "president", "white house", "american", "state", "democrat", "news"],
+      "importance_ratio": 0.3301
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Conservative Politics and US Government Policies",
+      "core_keywords": ["conservative", "government", "abortion", "law", "america", "trump", "president"],
+      "importance_ratio": 0.2967
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "FBI Investigation and Political Controversies",
+      "core_keywords": ["fbi", "investigation", "clinton", "trump", "email", "information", "employee"],
+      "importance_ratio": 0.1100
+    }
+  ]
+}

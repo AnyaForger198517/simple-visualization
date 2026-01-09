@@ -1,0 +1,285 @@
+{
+  "month": "2013-02",
+  "total_articles": 91,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "shooter",
+        "seal",
+        "guy",
+        "team",
+        "ha",
+        "bin",
+        "laden",
+        "shot",
+        "dorner",
+        "family",
+        "told",
+        "man",
+        "did",
+        "mission"
+      ],
+      "topic_weights": [
+        317.7150662586071,
+        103.84455470204665,
+        88.21746774388775,
+        66.05108409542346,
+        62.96973533553189,
+        53.864837701421386,
+        51.78673660897456,
+        51.64571911372855,
+        43.46403282732614,
+        39.02714671852066,
+        38.98699743657944,
+        38.614705254124516,
+        37.66302854229935,
+        35.44583570588333,
+        34.31955727738027
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "spending",
+        "obama",
+        "advertisement",
+        "cut",
+        "ha",
+        "budget",
+        "tax",
+        "government",
+        "wa",
+        "republican",
+        "health",
+        "president",
+        "care",
+        "problem",
+        "video"
+      ],
+      "topic_weights": [
+        107.84108738529143,
+        92.2404912886956,
+        82.55683586697133,
+        81.48793843892093,
+        71.71640420654317,
+        64.64005469463457,
+        63.77040028406947,
+        56.97167365041983,
+        52.02185054827196,
+        50.31979345588203,
+        50.15091676308936,
+        42.94025683582496,
+        42.7282528489888,
+        41.217435696374366,
+        38.365804791996425
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "law",
+        "regulation",
+        "government",
+        "bank",
+        "wa",
+        "free",
+        "speech",
+        "ha",
+        "gun",
+        "player",
+        "hagel",
+        "union",
+        "amendment",
+        "philadelphia"
+      ],
+      "topic_weights": [
+        76.88238474266522,
+        59.06883033641966,
+        57.35788789646466,
+        51.828686926956,
+        49.714123657803604,
+        42.87018538526687,
+        41.03628918038902,
+        40.87550304122544,
+        36.18994968955034,
+        31.9189448022877,
+        30.169383978247332,
+        29.185508143359357,
+        28.53923341480674,
+        26.592623135513662,
+        26.241007884719984
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "republican",
+        "wa",
+        "ha",
+        "house",
+        "party",
+        "obama",
+        "democrat",
+        "american",
+        "conservative",
+        "state",
+        "food",
+        "president",
+        "used",
+        "senate",
+        "car"
+      ],
+      "topic_weights": [
+        135.2967997160895,
+        98.59974673471908,
+        89.69832279805247,
+        82.155606495092,
+        77.39039469119362,
+        73.7989183523224,
+        71.47569751540799,
+        64.18324590252313,
+        62.03398470629554,
+        50.536363236338616,
+        50.14548038751155,
+        48.18209941325398,
+        44.54571759038036,
+        44.040102465649746,
+        43.4680555813589
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "work",
+        "individual",
+        "social",
+        "government",
+        "country",
+        "disability",
+        "state",
+        "public",
+        "dewey",
+        "french",
+        "education",
+        "ayers",
+        "progressive"
+      ],
+      "topic_weights": [
+        115.4653742922491,
+        104.10107999389551,
+        56.88184369434347,
+        48.227042880053176,
+        46.63031859572698,
+        46.179261803312144,
+        44.56362885944475,
+        43.77998137827062,
+        42.8615473550389,
+        42.3732743882789,
+        41.02914397324277,
+        40.7874484808826,
+        37.515064359180116,
+        37.44482173980498,
+        36.616024723149515
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 13,
+    "3": 25,
+    "1": 32,
+    "2": 9,
+    "0": 12
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Special TCR Harris County Round-Up Controversial Contract, Shady Backroom Deals Bedevil Hidalgo And Garcia County Dems Put Constables/Public Safety In The Crosshairs Gold Star Families Abused By Biden...",
+        "upvotes": 0,
+        "url": "http://texasconservativereview.com/#art2"
+      },
+      {
+        "preview": " said to myself the George Bush 9/11 quote: Freedom itself was attacked this morning by a faceless coward, and freedom will be defended. I could just hear his voice, and that was neat. I started sayin...",
+        "upvotes": 6,
+        "url": "http://www.esquire.com/features/man-who-shot-osama-bin-laden-0313"
+      },
+      {
+        "preview": "Police records have raised the possibility that there is a legitimate grievance behind Christopher Dorner's homicidal vendetta against the Los Angeles police department. Dorner, a former LAPD officer,...",
+        "upvotes": 0,
+        "url": "http://www.guardian.co.uk/world/2013/feb/11/christopher-dorner-lapd-grievance-judge"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement Obama Administration Backs Off on Controversial HHS Mandates for Catholic Institutions The Obama Administration backed down for their controversial HHS mandates that force Catholic hospi...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2013/02/obama-administration-backs-off-on-controversial-hhs-mandates-for-catholic-institutions-video/"
+      },
+      {
+        "preview": "This is Part IV of \"A lex Jones, Guns, Piers Morgan & My Penis ,\" my first series of columns for Vice magazine. Get the whole series at www.Vice.com - including the full version of this story. This we...",
+        "upvotes": 0,
+        "url": "http://www.opednews.com/articles/Aaron-Swartz-Died-For-Pier-by-Greg-Palast-130131-64.html"
+      },
+      {
+        "preview": "Ok. First. Think about how much you pay for health insurance currently. Now, think about how much you are going to have to pay under the new ObamaCare laws. Well according to a new IRS regulation rele...",
+        "upvotes": 3,
+        "url": "http://townhall.com/tipsheet/heatherginsberg/2013/02/03/obamacare-will-cost-your-family-at-least-20000-n1504326"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ADVERTISEMENT Phelim McAleer: ‘No one tells me to shut up’ SHARE \"I’m a journalist from Northern Ireland,\" Phelim McAleer said. \"No one tells me to shut up.\" McAleer, co-director of the recently relea...",
+        "upvotes": 0,
+        "url": "http://freebeacon.com/taking-on-the-eco-fraudsters/"
+      },
+      {
+        "preview": "\"I'm a big football fan, but I have to tell you if I had a son, I'd have to think long and hard before I let him play football,\" President Obama said in an interview with the New Republic. \"In some ca...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/2013/02/obama_the_left_and_the_national_football_league.html"
+      },
+      {
+        "preview": "SocietyCommentary PoliticsNews LawNews InternationalCommentary SocietyAnalysis SocietyNews SocietyNews SocietyNews SocietyNews SecurityCommentary SecurityNews SecurityCommentary InternationalNews Inte...",
+        "upvotes": 4,
+        "url": "http://blog.heritage.org/2013/02/08/morning-bell-getting-a-meddling-government-out-of-our-lives/?nomobile"
+      }
+    ],
+    "3": [
+      {
+        "preview": "New York Democratic Sen. Chuck Schumer on Monday applauded Florida Republican Sen. Marco Rubio for helping craft a blueprint for a bipartisan rewrite of immigration law. But on Thursday, Schumer dropp...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2013/02/01/schumer-pulls-rubios-trigger-feature/"
+      },
+      {
+        "preview": "Former Nebraska Sen. Chuck Hagel’s nomination to be Secretary of Defense should be withdrawn now. He delivered what may be the worst performance at a confirmation hearing ever given. He was described ...",
+        "upvotes": 0,
+        "url": "http://patriotpost.us/opinion/16541"
+      },
+      {
+        "preview": "Speaker John Boehner feels regret -- or so we learned last week from The Hill. The speaker now believes he should have taken a different approach to the fiscal cliff dealings. The speaker has cause fo...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/2013/02/fights_worth_having.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "SMALLISH countries are often in the vanguard when it comes to reforming government. In the 1980s Britain was out in the lead, thanks to Thatcherism and privatisation. Tiny Singapore has long been a ro...",
+        "upvotes": 0,
+        "url": "http://www.economist.com/news/leaders/21571136-politicians-both-right-and-left-could-learn-nordic-countries-next-supermodel"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Pension Crisis Mark Lagerkvist | 2.2.2013 12:00 PM Timothy Carroll retired at age 33. He claimed he was \"totally and permanently\" disabl...",
+        "upvotes": 0,
+        "url": "http://reason.com/archives/2013/02/02/exposing-fraud-in-new-jerseys-broken-pen"
+      },
+      {
+        "preview": "The subversion of modern education, and hence of modern civilization, is grounded in carefully designed manipulations of language, a kind of conceptual hypnotism designed to lull an incautious populat...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/2013/02/a_sleepy_compliance_with_tyranny.html"
+      }
+    ]
+  }
+}

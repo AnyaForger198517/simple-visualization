@@ -1,0 +1,36 @@
+{
+  "month": "2021-08",
+  "total_articles": 49,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "COVID-19 Delta Variant and US Public Health",
+      "core_keywords": ["covid", "vaccine", "delta", "case", "china", "health", "virus", "test"],
+      "importance_ratio": 0.2857
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US State and Federal Election Reviews",
+      "core_keywords": ["state", "federal", "election", "delta", "variant", "government", "county", "official"],
+      "importance_ratio": 0.1224
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gender and Ethnic Issues in US Politics",
+      "core_keywords": ["woman", "trans", "muslim", "iran", "cuomo", "attack", "governor", "right"],
+      "importance_ratio": 0.1633
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Biden Administration and Congressional Politics",
+      "core_keywords": ["biden", "pelosi", "democrat", "mask", "house", "texas", "american", "ballot"],
+      "importance_ratio": 0.3469
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Identity Politics and Pandemic-related Social Issues",
+      "core_keywords": ["identity", "politics", "vaccinated", "social", "pandemic", "blame", "group", "work"],
+      "importance_ratio": 0.0816
+    }
+  ]
+}

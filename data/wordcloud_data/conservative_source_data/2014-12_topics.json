@@ -1,0 +1,285 @@
+{
+  "month": "2014-12",
+  "total_articles": 86,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "december",
+        "posted",
+        "wa",
+        "cuba",
+        "house",
+        "boehner",
+        "smith",
+        "cuban",
+        "updated",
+        "vote",
+        "session",
+        "yoho",
+        "castro",
+        "rep",
+        "bell"
+      ],
+      "topic_weights": [
+        590.2526556945269,
+        555.9733421828163,
+        101.06673866765692,
+        67.64741346790042,
+        52.08947528441538,
+        43.05345064617996,
+        39.508002361885474,
+        35.99851202302423,
+        33.82929465599108,
+        33.36779461787463,
+        32.51351570371006,
+        30.761975893433902,
+        29.09868709412845,
+        28.40981024826779,
+        26.1697636519974
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "obama",
+        "president",
+        "congress",
+        "wa",
+        "presidential",
+        "executive",
+        "republican",
+        "bush",
+        "romney",
+        "power",
+        "progressive",
+        "america",
+        "office",
+        "try"
+      ],
+      "topic_weights": [
+        98.12959954518853,
+        79.34790051912779,
+        66.21944137879174,
+        64.67592934118883,
+        47.62696488642544,
+        46.28455592839889,
+        45.45637865527437,
+        43.22460782368665,
+        41.09656567580027,
+        41.03144194830724,
+        33.285251880871606,
+        32.74325412934563,
+        30.05144155661051,
+        29.653450461994215,
+        29.46807688240044
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "ha",
+        "score",
+        "wa",
+        "doj",
+        "whitehouse",
+        "irs",
+        "university",
+        "news",
+        "stone",
+        "rolling",
+        "gruber",
+        "cnn",
+        "rape",
+        "fact"
+      ],
+      "topic_weights": [
+        26.994403271667725,
+        25.226564581927267,
+        24.527103621045846,
+        20.92505273790821,
+        20.613780286636636,
+        16.12277969172015,
+        15.217460495614766,
+        14.779975807298255,
+        14.041610681693458,
+        12.747831249874174,
+        12.730220264254475,
+        11.778869085967102,
+        11.442176538996808,
+        10.697248771343617,
+        9.930152939770752
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "american",
+        "president",
+        "law",
+        "police",
+        "white",
+        "state",
+        "black",
+        "republican",
+        "party",
+        "medium",
+        "democrat",
+        "change"
+      ],
+      "topic_weights": [
+        277.45793064722255,
+        198.7491377105793,
+        154.54750608199848,
+        118.64160880413544,
+        109.89216224148906,
+        92.7116237033109,
+        88.04991135987432,
+        82.3500871980847,
+        81.7038512760386,
+        73.21323764312261,
+        72.79559363290183,
+        67.39549842111418,
+        66.50916486006423,
+        61.01622243916624,
+        60.5183507499619
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "school",
+        "ha",
+        "work",
+        "men",
+        "kid",
+        "percent",
+        "girl",
+        "woman",
+        "state",
+        "white",
+        "child",
+        "student",
+        "class",
+        "social"
+      ],
+      "topic_weights": [
+        92.66519021305778,
+        92.47760541606957,
+        61.39121142230057,
+        59.57037058824462,
+        55.00043150969774,
+        52.249747719349166,
+        50.5518586820044,
+        47.038224469892,
+        46.739726650621314,
+        42.34709421897115,
+        40.9741622218097,
+        38.14585118189659,
+        38.03633158288419,
+        35.27357251996466,
+        35.192269482428465
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 61,
+    "4": 9,
+    "2": 8,
+    "0": 4,
+    "1": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "In a lengthy interview on Friday afternoon, Rep. Louie Gohmert (R-TX) exposed how House Speaker John Boehner, Majority Leader Kevin McCarthy and Majority Whip Steve Scalise strengthened President Bara...",
+        "upvotes": 5,
+        "url": "http://www.breitbart.com/Big-Government/2014/12/07/Exclusive-House-GOP-Leaders-Trick-216-House-Republicans-Into-Accidentally-Supporting-Obama-s-Executive-Amnesty"
+      },
+      {
+        "preview": "Sheppard Smith, Arch-Progressive Crank Yes, in the middle of FoxNews' broadcast day, they have sg, condescending, reflexive and dogmatic progressive anchoring the news. As Shep Smith said about the th...",
+        "upvotes": 6,
+        "url": "http://acecomments.mu.nu/?post=353824"
+      },
+      {
+        "preview": "Sunday, September 19, 2021 Already a subscriber? LOGIN » As part of their first September meeting, the Gila County Board of Supervisors voted to accept a $600,000 federal grant that will assist with h...",
+        "upvotes": 8,
+        "url": "http://www.silverbelt.com/v2_news_articles.php?heading=0&page=79&story_id=6499"
+      }
+    ],
+    "1": [
+      {
+        "preview": "He has sounded unimpressed with the emerging GOP field, associates say. By BEN WHITE and MAGGIE HABERMAN 12/11/2014 06:25 PM EST Updated 12/12/2014 08:19 PM EST For most of the past year, Mitt Romney ...",
+        "upvotes": 11,
+        "url": "http://politi.co/1GqQXun"
+      },
+      {
+        "preview": "The Intersection of faith, culture, and politics Saturday Insight Published Nov. 29, 2014 Alicia Colon: Jewish self-loathing Dmitriy Shapiro: Rand repents? Kelsey Dallas: OMG: Is profanity losing its ...",
+        "upvotes": 2,
+        "url": "http://www.jewishworldreview.com/cols/will112914.php3"
+      },
+      {
+        "preview": "The Dish Nate Silver and his team created “ideological scores for a set of plausible 2016 Republican candidates based on a combination of three statistical indices: DW-Nominate scores (which are based...",
+        "upvotes": 8,
+        "url": "http://dish.andrewsullivan.com/2014/12/17/how-good-are-jebs-chances/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "In an interview in which she tried to distance herself from Jonathan Gruber’s remarks about how Obamacare was crafted, former Health and Human Services Secretary Kathleen Sebelius sounded a lot like t...",
+        "upvotes": 26,
+        "url": "http://dailycaller.com/2014/12/03/sebelius-financial-literacy-of-a-lot-of-people-is-very-low/"
+      },
+      {
+        "preview": "The ”State of the Union“ host exits CNN after 27 years Longtime CNN political anchor Candy Crowley is leaving the network, insiders familiar with the situation confirmed to The Wrap. Also read: Candy ...",
+        "upvotes": 11,
+        "url": "http://www.thewrap.com/candy-crowley-out-at-cnn/"
+      },
+      {
+        "preview": "Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter The controversial artist papered L.A. early Monday with posters featuring a photo of Dunham and ...",
+        "upvotes": 36,
+        "url": "http://www.hollywoodreporter.com/news/street-artist-sabo-blasts-lena-754819"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Like many in the media, the paper seems to accept at face value that Ferguson is a seminal moment for race in America based on the hyperbolic claim that little has changed in race relations. And in it...",
+        "upvotes": 26,
+        "url": "http://www.breitbart.com/Big-Journalism/2014/11/29/USA-Today-Ferguson-a-Defining-Moment-for-Race-Relations-Notes-Calls-for-Bloodshed"
+      },
+      {
+        "preview": "The NBC political news director started out his interview dismissing assertions that “Meet The Press” is a “broken” program, saying that instead of fixing the program, he is only trying to “make it be...",
+        "upvotes": 7,
+        "url": "http://www.breitbart.com/Big-Journalism/2014/11/29/NBCs-Chuck-Todd-I-Already-Have-Hilary-Fatigue"
+      },
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. Correction: This story was based on a pool report from President Obama’s bookstore visit. Video of the event, released later, shows it’...",
+        "upvotes": 6,
+        "url": "http://nypost.com/2014/11/29/obama-calls-chuck-todd-sad-during-visit-to-bookstore/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 1,
+        "url": "http://www.nationalreview.com/corner/393554/obama-american-worker-happy-thanksgiving-sucker-peter-kirsanow"
+      },
+      {
+        "preview": "The inmates are running the asylum in Indy. Until recently I had not heard of the National Federation of State High School Associations, or NFHS. This Indianapolis-based organization has, since 1920, ...",
+        "upvotes": 9,
+        "url": "https://www.lifesitenews.com/opinion/radical-leftists-now-endangering-female-athletes"
+      },
+      {
+        "preview": "The American people must make a fundamental decision. Do we continue the 40-year decline of our middle class and the growing gap between the very rich and everyone else, or do we fight for a progressi...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/rep-bernie-sanders/an-economic-agenda-for-am_b_6249022.html"
+      }
+    ]
+  }
+}

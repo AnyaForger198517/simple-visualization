@@ -1,0 +1,285 @@
+{
+  "month": "2016-09",
+  "total_articles": 285,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "clinton",
+        "trump",
+        "hillary",
+        "wa",
+        "state",
+        "ha",
+        "republican",
+        "campaign",
+        "advertisement",
+        "poll",
+        "email",
+        "voter",
+        "news",
+        "debate",
+        "election"
+      ],
+      "topic_weights": [
+        1083.3595519055461,
+        664.4966938178812,
+        429.4556641783178,
+        407.1531259783721,
+        360.381847647187,
+        278.00981558908126,
+        237.03032420411986,
+        230.10986215599843,
+        228.42847061222227,
+        219.59248593088788,
+        216.50255635791135,
+        201.33191316742267,
+        188.96191398565324,
+        173.64393085255776,
+        173.37875715504916
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "obama",
+        "state",
+        "ha",
+        "refugee",
+        "wa",
+        "government",
+        "united",
+        "administration",
+        "president",
+        "house",
+        "family",
+        "department",
+        "senate",
+        "american",
+        "court"
+      ],
+      "topic_weights": [
+        305.0548348793292,
+        207.4064248371577,
+        183.95383366136804,
+        177.34653533468745,
+        140.99336938978342,
+        134.01746440426027,
+        115.32735040502222,
+        112.10825981013868,
+        109.1074169284986,
+        102.11738304883701,
+        83.25802916500776,
+        80.72540317309006,
+        76.93971160184178,
+        74.43213253645017,
+        74.34778969961086
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "black",
+        "ha",
+        "woman",
+        "life",
+        "white",
+        "american",
+        "police",
+        "men",
+        "gun",
+        "man",
+        "student",
+        "family",
+        "university",
+        "social"
+      ],
+      "topic_weights": [
+        610.0684394966601,
+        383.04212794978895,
+        280.208836012107,
+        227.4828211332654,
+        201.51283183684117,
+        194.5145728988703,
+        192.03399296324463,
+        187.8622581681934,
+        166.9612984978615,
+        156.6790176470127,
+        141.49810088181601,
+        141.33486360881872,
+        135.82737028621565,
+        130.7751500085519,
+        124.23122846256373
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "president",
+        "house",
+        "didn",
+        "told",
+        "air",
+        "got",
+        "plane",
+        "bush",
+        "force",
+        "asked",
+        "card",
+        "white",
+        "press",
+        "muslim"
+      ],
+      "topic_weights": [
+        733.8814293428992,
+        196.3023905187613,
+        86.34172879506343,
+        84.27268588874374,
+        78.017678476979,
+        76.49016964923399,
+        74.4058162892057,
+        69.17260990050984,
+        66.96920719141698,
+        62.49539637682678,
+        57.45700486104151,
+        54.88552592654808,
+        52.35573801988535,
+        49.45508903470425,
+        48.82141710134347
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "ha",
+        "tax",
+        "percent",
+        "billion",
+        "american",
+        "clinton",
+        "state",
+        "business",
+        "cuba",
+        "policy",
+        "government",
+        "plan",
+        "rate",
+        "country"
+      ],
+      "topic_weights": [
+        563.0332701847336,
+        214.9112762051662,
+        203.77469537072088,
+        166.74620884809747,
+        153.97329101026062,
+        151.53453317174728,
+        146.89041225149458,
+        138.28254226486382,
+        132.787877742024,
+        130.39451054092257,
+        127.58149314400563,
+        127.20181514990281,
+        114.91354337166894,
+        105.08106415650373,
+        98.14791947748334
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 134,
+    "2": 79,
+    "4": 35,
+    "3": 9,
+    "1": 28
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "RCP co-founder and executive editor Tom Bevan joins MSNBC to discuss whether or not Donald Trump is dragging down Republican Senate candidates. \"If you look at the states individually, there are a lot...",
+        "upvotes": 5,
+        "url": "http://www.realclearpolitics.com/video/2016/08/30/tom_bevan_gop_senate_candidates_not_dragged_down_by_trump.html"
+      },
+      {
+        "preview": "\"We should carefully consider whether our election system, our election process, is critical infrastructure like the financial sector, like the power grid,\" Homeland Security Secretary Jeh Johnson sai...",
+        "upvotes": 11,
+        "url": "http://conservativehq.com/node/23977"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 21,
+        "url": "http://newsbusters.org/blogs/culture/sarah-stites/2016/08/29/really-gotopless-movement-compared-womens-suffrage?utm_source=facebook&utm_medium=marketing&utm_campaign=topless-suffrage"
+      }
+    ],
+    "1": [
+      {
+        "preview": "REUTERS/Pascal Lauener Leaked documents from left-wing financier George Soros’s Open Society Foundations continue to reveal the extent to which the group has influenced the political response to Europ...",
+        "upvotes": 26,
+        "url": "http://dailycaller.com/2016/09/04/leaked-documents-soros-group-spent-600k-to-mainstream-pro-refugee-attitudes/"
+      },
+      {
+        "preview": "Watch CBSN Live September 5, 2016 / 11:28 AM / AP FAIRFAX, Va. — Supreme Court Justice Antonin Scalia’s funeral was attended by thousands and carried on live television, but when the hearse pulled awa...",
+        "upvotes": 3,
+        "url": "http://www.cbsnews.com/news/antonin-scalia-burial-spot-is-public-thanks-to-the-internet/"
+      },
+      {
+        "preview": "Mel Gibson’s World War II drama Hacksaw Ridge drew a ten-minute standing ovation during its world premiere at the Venice Film Festival on the Lido Sunday night, according to reports. Hacksaw Ridge — w...",
+        "upvotes": 14,
+        "url": "http://www.breitbart.com/big-hollywood/2016/09/05/mel-gibsons-hacksaw-ridge-gets-10-minutes-standing-ovation-venice/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Black Lives Matter Getty Images/DANIEL LEAL-OLIVAS A newly-leaked memo from the Democratic Congressional Campaign Committee offers new insights into how leading Democrats view and discuss Black Lives ...",
+        "upvotes": 12,
+        "url": "http://dailycaller.com/2016/08/31/newly-leaked-democratic-memo-calls-black-lives-matter-radical-tells-staff-not-to-offer-support/"
+      },
+      {
+        "preview": "Students in at least one Rutgers University residence hall are being encouraged to use only language that is “helpful” and “necessary” to avoid committing microaggressions. The display, photos of whic...",
+        "upvotes": 7,
+        "url": "http://www.campusreform.org/?ID=8081"
+      },
+      {
+        "preview": "The Trayvon Martin case was a virtual perfect storm of bad facts and bad decisions. Trayvon Martin was a violence prone teenager who beat a man he didn’t know nearly to death before he was shot and ki...",
+        "upvotes": 36,
+        "url": "http://www.redstate.com/streiff/2016/08/31/trayvon-martin-case-claims-new-victim/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "A Minnesota elementary school teacher and his husband died in a murder-suicide after a teen boy reported that they had sex with him, documents showed. South St. Paul teacher Aric Babbitt, 40, and Matt...",
+        "upvotes": 3,
+        "url": "http://www.nydailynews.com/news/crime/couple-dead-murder-suicide-sex-crimes-investigation-article-1.2776263"
+      },
+      {
+        "preview": "ion attack\" before, but people like Andy, who had been there during the Cold War and had the training, he knew what was going on. The training and the thinking of the military and the Secret Service i...",
+        "upvotes": 8,
+        "url": "http://www.politico.com/magazine/story/2016/09/were-the-only-plane-in-the-sky-214230"
+      },
+      {
+        "preview": "Speaking to the Sunday Times, Javaria Saeed, who worked for the Metropolitan police’s counteerrorism depament, took exception to comments made by a Muslim constable who said that female genital mutila...",
+        "upvotes": 14,
+        "url": "https://www.rt.com/uk/358994-muslim-police-london-extremism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+      }
+    ],
+    "4": [
+      {
+        "preview": "It wasn’t Churchill, but if you’re a border hawk there’s little more you could have wanted from last night’s speech than what you got. It was almost pure Grade-A red meat. Build a wall, end catch-and-...",
+        "upvotes": 7,
+        "url": "http://hotair.com/archives/2016/09/01/trumps-immigration-speech-illegals-must-leave-u-s-well-figure-remain-later/"
+      },
+      {
+        "preview": "Our president announced on Saturday that the US would formally join an onerous global emissions-cutting agreement reached last year to bring the accord into effect by the end of 2016. He hasn’t offici...",
+        "upvotes": 39,
+        "url": "http://www.independentsentinel.com/serious-repercussions-as-obama-signs-climate-change-treaty-without-senate-ratification/?utm_content=buffer9cd02&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+      },
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 2,
+        "url": "http://dailysignal.com/2016/09/02/back-again-this-time-obama-administration-wants-a-taxpayer-bailout-for-puerto-rico/"
+      }
+    ]
+  }
+}

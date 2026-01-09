@@ -1,0 +1,285 @@
+{
+  "month": "2013-03",
+  "total_articles": 96,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "obama",
+        "house",
+        "president",
+        "white",
+        "republican",
+        "pakistan",
+        "state",
+        "afghanistan",
+        "clinton",
+        "ha",
+        "policy",
+        "administration",
+        "america",
+        "war"
+      ],
+      "topic_weights": [
+        394.21473962021304,
+        201.3445628471413,
+        199.84918353673237,
+        185.34105455216968,
+        172.1699103118636,
+        111.986263759381,
+        103.61241208107403,
+        100.82066199035259,
+        96.65923423664044,
+        81.1482414554418,
+        79.86273181773507,
+        75.88902941825556,
+        72.96219376715676,
+        68.42350587306912,
+        67.57997038318534
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "paul",
+        "republican",
+        "mccain",
+        "wa",
+        "rand",
+        "ha",
+        "obama",
+        "school",
+        "immigration",
+        "american",
+        "john",
+        "graham",
+        "party",
+        "immigrant",
+        "state"
+      ],
+      "topic_weights": [
+        131.787503782611,
+        90.61413923466371,
+        88.54830116895258,
+        65.46006139162138,
+        62.0872316726815,
+        52.42690928755019,
+        52.37251372470956,
+        48.21274998705091,
+        46.76822962337978,
+        43.690436212009686,
+        40.44017172202128,
+        39.788331033853055,
+        35.31143976244665,
+        34.88607675281624,
+        30.217906068167157
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "obama",
+        "government",
+        "party",
+        "ha",
+        "state",
+        "wa",
+        "tea",
+        "american",
+        "president",
+        "jewish",
+        "business",
+        "medium",
+        "country",
+        "israel",
+        "america"
+      ],
+      "topic_weights": [
+        103.72835676766205,
+        75.41800718835239,
+        69.45167652772504,
+        63.21619431826811,
+        61.27449020755151,
+        61.27118558364276,
+        48.869876784745856,
+        36.46704899139428,
+        34.622672492573315,
+        29.63960745290532,
+        28.949397756769365,
+        28.806010854768527,
+        26.896183756120998,
+        25.86440532351221,
+        25.863295556741104
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "republican",
+        "ha",
+        "advertisement",
+        "state",
+        "election",
+        "right",
+        "gun",
+        "party",
+        "voter",
+        "data",
+        "news",
+        "campaign",
+        "ban",
+        "video"
+      ],
+      "topic_weights": [
+        111.85568387218594,
+        84.72380538789506,
+        77.30913821314674,
+        71.87868360469656,
+        56.86702617357778,
+        53.472027574983436,
+        47.080347746845156,
+        45.95143667675444,
+        45.18192565343927,
+        42.80458337302699,
+        38.560915316931265,
+        38.079356779202634,
+        36.20862020647047,
+        34.981508119717205,
+        34.23552469401145
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "abortion",
+        "woman",
+        "week",
+        "state",
+        "health",
+        "wa",
+        "condition",
+        "medicaid",
+        "return",
+        "life",
+        "exchange",
+        "ha",
+        "limit",
+        "availability",
+        "million"
+      ],
+      "topic_weights": [
+        85.75724708255984,
+        78.4905897392526,
+        73.03235689549955,
+        67.10839028471743,
+        55.592615770504956,
+        55.55898595330578,
+        42.88525317499305,
+        40.02111219389648,
+        32.582109852396165,
+        30.52814878571402,
+        29.74671918634359,
+        29.471014325539723,
+        28.63685585550483,
+        28.055257521757028,
+        25.2748071659065
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 31,
+    "0": 23,
+    "2": 17,
+    "1": 17,
+    "4": 8
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ADVERTISEMENT How money changed the president's tune on America's largest retailer SHARE President Barack Obama on Monday nominated Sylvia Mathews Burwell, president of the Walmart Foundation, to be d...",
+        "upvotes": 0,
+        "url": "http://freebeacon.com/walmart-moves-into-the-white-house/"
+      },
+      {
+        "preview": "The White House announced Tuesday that it is canceling tours of the president’s home for the foreseeable future as the sequester spending cuts begin to bite and the administration makes good on its wa...",
+        "upvotes": 0,
+        "url": "http://m.washingtontimes.com/news/2013/mar/5/email-tells-feds-make-sequester-painful-promised/"
+      },
+      {
+        "preview": "A few days ago, I noted that a Reason/Rupe poll had Barack Obama’s approval rating underwater at 47/49, even with a sample that gave Democrats an 11-point edge over Republicans. At the time, I called ...",
+        "upvotes": 174,
+        "url": "http://hotair.com/archives/2013/03/06/reuters-poll-obama-approval-drops-to-43/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "WASHINGTON — The results of the 2012 election stopped Republicans from achieving their dream of a full repeal of the Affordable Care Act, but the GOP is not done fighting Obamacare yet. In a letter to...",
+        "upvotes": 10,
+        "url": "http://dailycaller.com/2013/03/05/house-republicans-outline-new-fight-on-obamacare/"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Rand Paul Brian Doherty | 3.7.2013 12:09 PM The anti-Rand Pauls, Sen. John McCain of Arizona and Lindsey Graham of South Carolina, took ...",
+        "upvotes": 21,
+        "url": "http://reason.com/blog/2013/03/07/john-mccain-and-lindsey-graham-declare-w"
+      },
+      {
+        "preview": "Twitter reported Thursday afternoon on its blog that more than a million tweets were sent during Kentucky Republican Sen. Rand Paul’s near-13 hour filibuster on the Senate floor Wednesday, placing the...",
+        "upvotes": 30,
+        "url": "http://dailycaller.com/2013/03/07/twitter-over-a-million-tweets-sent-about-rand-paul-filibuster/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Stan Honda/AFP/Getty Images Wondering if sequestration will make wait times at your airport even longer on your day of travel? Two vernment websites help passengers plan ahead for lengthy lines or a s...",
+        "upvotes": 0,
+        "url": "http://abcnews.go.com/blogs/politics/2013/03/on-day-3-of-sequester-government-sites-show-few-flight-delays/"
+      },
+      {
+        "preview": "House Speaker John Boehner shakes hands with President Barack Obama in the Capitol on Jan. 21, 2013. (AP Photo/Jonathan Ernst) (.com) - The federal debt has increased $2.5 trillion over the past two y...",
+        "upvotes": 19,
+        "url": "http://cnsnews.com/news/article/boehner-obama-deals-produce-25t-new-debt-2-years-21817-household"
+      },
+      {
+        "preview": "The Democrats are getting close to introducing their new gun control legislation and yesterday Dianne Feinstein upped her anti-gun rhetoric by claiming it was legal to hunt humans. This is what she ha...",
+        "upvotes": 1,
+        "url": "http://americaswatchtower.com/2013/03/09/dianne-feinstein-claims-it-is-legal-to-hunt-humans-with-assault-weapons-and-high-capacity-magazines/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "ADVERTISEMENT Warns company may leave Maryland over O’Malley bill SHARE Beretta USA, one of the nation’s largest firearms manufacturers, compared a Maryland gun-control bill to a book ban Friday and w...",
+        "upvotes": 1,
+        "url": "http://freebeacon.com/beretta-exec-likens-gun-ban-to-book-ban/"
+      },
+      {
+        "preview": "Did they erupt in joy for the children who now have a real opportunity to choose success over failure? Er, not exactly: Republicans dropped a legislative bombshell tonight as they slammed through a dr...",
+        "upvotes": 4,
+        "url": "http://hotair.com/archives/2013/03/01/alabama-passes-school-vouchers-for-students-at-failing-schools-dems-erupt/"
+      },
+      {
+        "preview": "Back in January, on the 40th anniversary of Roe v. Wade, a group of 13 students destroyed a makeshift memorial for aborted babies on the main campus of DePaul University. The display — 500 pink and bl...",
+        "upvotes": 1,
+        "url": "http://news.yahoo.com/depaul-punishes-student-exposed-vandals-memorial-aborted-babies-082949003.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "AUSTRIA Availability: On request Gestational limit: First three months - in practice often before 12 weeks Conditions: Must have medical consultation. May be performed after 12 weeks if necessary to a...",
+        "upvotes": 1,
+        "url": "http://news.bbc.co.uk/2/hi/europe/6235557.stm"
+      },
+      {
+        "preview": "The White House has cancelled tours, the Pentagon is furloughing workers, and yet the US government scraped up enough coin to give Egypt $250 million. And they wanted to give a lot more. The Hill: Sec...",
+        "upvotes": 8,
+        "url": "http://www.americanthinker.com/blog/2013/03/house_committee_prevented_kerry_from_throwing_even_more_money_at_egyptians.html"
+      },
+      {
+        "preview": "Editor's note: This is Part II in a series. Part I can be found here. Once we recognize that large differences in achievement among races, nations and civilizations have been the rule, not the excepti...",
+        "upvotes": 4,
+        "url": "http://townhall.com/columnists/thomassowell/2013/03/13/intellectuals-and-race-part-ii-n1531114/page/full/"
+      }
+    ]
+  }
+}

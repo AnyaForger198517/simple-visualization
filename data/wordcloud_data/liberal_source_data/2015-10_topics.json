@@ -1,0 +1,275 @@
+{
+  "month": "2015-10",
+  "total_articles": 400,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "clinton",
+        "percent",
+        "state",
+        "democratic",
+        "sander",
+        "public",
+        "candidate",
+        "debate",
+        "ha",
+        "voter",
+        "employee",
+        "biden",
+        "election",
+        "poll",
+        "campaign"
+      ],
+      "topic_weights": [
+        818.4099853728958,
+        642.5120575104551,
+        501.22619925063816,
+        420.0024109322665,
+        412.72027713159616,
+        397.99297512561697,
+        396.4103337973066,
+        370.06294835638147,
+        339.37260939343815,
+        329.84908833747505,
+        285.6488923770872,
+        261.86313909152784,
+        255.3185640292305,
+        254.65110468218924,
+        250.1590949780486
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "koch",
+        "university",
+        "foundation",
+        "center",
+        "school",
+        "charles",
+        "research",
+        "student",
+        "public",
+        "state",
+        "million",
+        "funding",
+        "money",
+        "george",
+        "college"
+      ],
+      "topic_weights": [
+        775.0638647062038,
+        649.2277103620581,
+        495.14096097509,
+        372.15768755288474,
+        315.41492554503424,
+        308.4120935127271,
+        259.050071034568,
+        247.36049947161447,
+        233.85614944098424,
+        231.1022411657453,
+        227.44406486029675,
+        199.4953632619177,
+        197.3939251132711,
+        197.23142887793392,
+        196.24166426205105
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ryan",
+        "janesville",
+        "ha",
+        "street",
+        "wall",
+        "house",
+        "trade",
+        "wisconsin",
+        "congress",
+        "deal",
+        "republican",
+        "general",
+        "speaker",
+        "hard",
+        "wa"
+      ],
+      "topic_weights": [
+        2346.938465533959,
+        1637.6063388227012,
+        1524.5837898107634,
+        1025.5008666607562,
+        1022.5485610443827,
+        832.8014269269737,
+        684.912795846778,
+        587.0176747006374,
+        576.302071020516,
+        545.6015729843334,
+        545.142718390165,
+        530.3417003207753,
+        520.5797817403786,
+        483.50045687199304,
+        456.4948465770392
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "sander",
+        "tax",
+        "american",
+        "woman",
+        "child",
+        "candidate",
+        "policy",
+        "plan",
+        "family",
+        "government",
+        "bernie",
+        "change",
+        "care"
+      ],
+      "topic_weights": [
+        556.0680426113757,
+        470.0323586805196,
+        362.0811234845406,
+        307.8504971775344,
+        255.0614596654623,
+        209.90536949607662,
+        205.83580956685537,
+        205.20872692912778,
+        198.92248130046104,
+        187.51706722499608,
+        178.99048924036984,
+        163.17897437507625,
+        160.22548727407357,
+        153.05027928786848,
+        151.34257920765035
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "gun",
+        "republican",
+        "ha",
+        "party",
+        "clinton",
+        "state",
+        "committee",
+        "political",
+        "house",
+        "obama",
+        "group",
+        "leader",
+        "gop",
+        "president"
+      ],
+      "topic_weights": [
+        1382.9154776765545,
+        768.0993577321233,
+        665.1424900820764,
+        664.4657163002978,
+        570.7726421308138,
+        564.2977601900031,
+        444.70239010438684,
+        422.25162895215794,
+        399.99390431724987,
+        381.58585461368483,
+        333.2855834362081,
+        273.25372124836986,
+        266.3882731672734,
+        266.22857281891356,
+        263.4993364137055
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 115,
+    "4": 206,
+    "0": 74,
+    "1": 4,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Economic Snapshot | Budget, Taxes, and Public Investment Economic Snapshot • By Valerie Wilson • September 30, 2015 In early 2014, the private sector finally returned to its pre-Great Recession level ...",
+        "upvotes": 7,
+        "url": "http://www.epi.org/publication/african-americans-and-women-disproportionately-pay-the-price-for-austerity-and-congressional-dysfunction/"
+      },
+      {
+        "preview": "Update: The campaign of Senator Bernie Sanders of Vermont has since revised their numbers: It had raised about $26 million since July and has more than $26 million in cash on hand. BURLINGTON, Vt. — S...",
+        "upvotes": 2,
+        "url": "http://www.nytimes.com/politics/first-draft/2015/09/30/bernie-sanders-raises-24-million-powered-by-online-donations-exceeding-obamas-2008-pace/?smprod=nytcore-iphone&smid=nytcore-iphone-share"
+      },
+      {
+        "preview": "The former secretary of state leads the Vermont independent senator 41% to 23% The poll also found that 54% of those surveyed do not want more debates than the six already approved Hillary Clinton is ...",
+        "upvotes": 16,
+        "url": "http://www.cnn.com/2015/10/01/politics/bernie-sanders-hillary-clinton-poll/index.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "In 16 states, there are more people in prisons and jails than in college housing. This map by MetricMaps shows which states (blue) have more people in college housing and which states (red) have more ...",
+        "upvotes": 63,
+        "url": "http://www.vox.com/2015/1/21/7865887/map-prison-college"
+      },
+      {
+        "preview": "Published — October 30, 2015 Updated — May 7, 2018 at 4:19 pm ET A screen shot from a promotional video about the Fontana Leadership Intervention Program (FLIP). The Fontana Unified School Police Depa...",
+        "upvotes": 8,
+        "url": "http://www.publicintegrity.org/2015/10/30/18684/koch-brothers-higher-ed-investments-advance-political-goals"
+      },
+      {
+        "preview": "Trending: In an oped posted online Friday, Santa Clara County District Attorney Jeff Rosen cheered on sentencing reform in California that’s allowing many minor offenders a second chance through short...",
+        "upvotes": 18,
+        "url": "http://www.mercurynews.com/opinion/ci_29049700/mercury-news-editorial-feds-follow-california-returning-sane"
+      }
+    ],
+    "2": [
+      {
+        "preview": "r that: Wall Street now has a favorite son as the speaker of the House. Janesville, on the other hand, has a few too many shuttered factories. And it faces the prospect that another flawed trade agree...",
+        "upvotes": 41,
+        "url": "http://www.thenation.com/article/paul-ryan-r-wall-street/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Who Rigged It, and How We Fix It Order here:AmazoniBookstoreBN.comIndieBoundRandomHouse Why we must restore the idea of the common good to the center of our economics and politics Order here:AmazoniBo...",
+        "upvotes": 7,
+        "url": "http://robertreich.org/post/130158250735"
+      },
+      {
+        "preview": "Former chairman and CEO of Massey Energy Company Don Blankenship, here pictured testifying before a Senate committee, May 20, 2010, in Washington, D.C. Photo by Alex Wong/Getty Images At 9 a.m. on Oct...",
+        "upvotes": 7,
+        "url": "http://www.slate.com/articles/news_and_politics/jurisprudence/2015/09/don_blankenship_trial_boss_of_massey_during_upper_big_branch_explosion_ignored.html"
+      },
+      {
+        "preview": "Drug warriors claim that marijuana is a \"gateway drug.\" On the contrary, it is the policy of drug prohibition--not the drug per se--that creates a gateway into a criminal underworld of crime and conta...",
+        "upvotes": 5,
+        "url": "http://www.huffingtonpost.com/inge-fryklund/prohibition-is-the-real-g_b_8210802.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Featured Shows  TV More More Shows Follow  More Brands More Shows The video depicting a live fetus allegedly being kept alive to harvest its organs that Carly Fiorina described during the last Republi...",
+        "upvotes": 2,
+        "url": "http://www.msnbc.com/msnbc/video-featuring-fetus-referenced-carly-fiorina-released"
+      },
+      {
+        "preview": "This article is more than 1 year old Sean Hannity was pushing hard, asking House Majority Leader Kevin McCarthy to name some promises his Republicans had actually delivered on. He scoffed when McCarth...",
+        "upvotes": 21,
+        "url": "http://www.washingtonpost.com/news/post-politics/wp/2015/09/30/boehners-likely-successor-credits-benghazi-committee-for-lowering-hillary-clintons-poll-numbers/"
+      },
+      {
+        "preview": "Some missteps are born scandals. Some achieve scandal status. Still others have the appellation forced determinedly upon them by scandal-mongers hoping for political advantage. After all, sometimes th...",
+        "upvotes": 6,
+        "url": "http://www.bostonglobe.com/opinion/2015/09/29/perspective-please-hillary-clinton-mails/hn0INVelwffcNPQI6x48SJ/story.html"
+      }
+    ]
+  }
+}

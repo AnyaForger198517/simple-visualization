@@ -1,0 +1,285 @@
+{
+  "month": "2016-08",
+  "total_articles": 230,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "wa",
+        "court",
+        "black",
+        "ha",
+        "case",
+        "law",
+        "federal",
+        "woman",
+        "american",
+        "police",
+        "city",
+        "justice",
+        "public",
+        "michael"
+      ],
+      "topic_weights": [
+        322.10788363973035,
+        301.4870115525003,
+        269.28090737414783,
+        245.67678901562127,
+        238.68812760037937,
+        172.41898156340727,
+        167.74676302343045,
+        141.83584351447251,
+        133.20721443898043,
+        130.91754683781446,
+        124.16082910144512,
+        121.05381761338548,
+        113.74316853930242,
+        108.69713897605547,
+        108.12391940507668
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "clinton",
+        "ha",
+        "campaign",
+        "white",
+        "donald",
+        "news",
+        "republican",
+        "khan",
+        "american",
+        "medium",
+        "hillary",
+        "political",
+        "muslim"
+      ],
+      "topic_weights": [
+        1626.7037461803338,
+        722.4289919234575,
+        541.3558969668048,
+        501.2852262602632,
+        386.96930392648477,
+        251.88303210363568,
+        239.49659653659458,
+        227.5918690575272,
+        221.34173692515,
+        185.8309093563844,
+        172.78937918346375,
+        162.530121599644,
+        161.2217389109872,
+        130.41770846752942,
+        127.59459049392757
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "party",
+        "vote",
+        "candidate",
+        "ha",
+        "trump",
+        "clinton",
+        "wa",
+        "sander",
+        "state",
+        "republican",
+        "hillary",
+        "voter",
+        "election",
+        "political",
+        "stein"
+      ],
+      "topic_weights": [
+        525.0474577516131,
+        391.6253134700777,
+        290.0025900425616,
+        260.4318488564506,
+        243.16344596300476,
+        222.5932120478917,
+        190.58569879204438,
+        177.54845646848452,
+        173.73339494710123,
+        161.30833096133455,
+        157.56564792367382,
+        151.47329423120914,
+        150.53422023007096,
+        150.43432085410015,
+        149.7286163349996
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "ha",
+        "policy",
+        "president",
+        "state",
+        "military",
+        "american",
+        "obama",
+        "foundation",
+        "foreign",
+        "deal",
+        "war",
+        "government",
+        "russia"
+      ],
+      "topic_weights": [
+        327.76826316652284,
+        239.94415195771109,
+        226.04447298951024,
+        183.25519489403445,
+        146.47611016032232,
+        145.6464906005845,
+        134.7916644870338,
+        113.69824416583445,
+        97.53527945680891,
+        95.00629162903977,
+        87.06122643490987,
+        85.94551650344343,
+        84.41356198333392,
+        82.57338247378168,
+        79.9877957375365
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "democrat",
+        "voter",
+        "republican",
+        "election",
+        "percent",
+        "clinton",
+        "trump",
+        "vote",
+        "democratic",
+        "poll",
+        "point",
+        "progressive",
+        "ha",
+        "party"
+      ],
+      "topic_weights": [
+        417.00022118499015,
+        350.5025074705467,
+        333.74380540741925,
+        332.5007124143585,
+        327.45515215649107,
+        295.33359185304056,
+        278.79456275091474,
+        266.61000013703335,
+        248.53476861877846,
+        224.09475702013978,
+        205.43706871688264,
+        181.74591669225447,
+        174.8240238859756,
+        169.1433175966543,
+        149.48247587179122
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 48,
+    "2": 32,
+    "1": 90,
+    "3": 30,
+    "4": 30
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement Supported by Opinion By Jacob S. Hacker and Paul Pierson HOW can America’s leaders foster broad prosperity? For most Republicans — including Donald J. Trump — the main answer is to “cut ...",
+        "upvotes": 42,
+        "url": "http://www.nytimes.com/2016/07/31/opinion/campaign-stops/the-path-to-prosperity-is-blue.html?smprod=nytcore-iphone&smid=nytcore-iphone-share"
+      },
+      {
+        "preview": "At a meeting in March, Green Party presidential candidate Jill Stein told the assembled crowd that wireless Internet technology is dangerous for developing children. In the video, posted Monday by Pat...",
+        "upvotes": 4,
+        "url": "https://www.rawstory.com/2016/08/jill-stein-says-its-dangerous-to-expose-kids-to-wifi-signals/"
+      },
+      {
+        "preview": "This year Democracy Now! is celebrating our 25th anniversary—that's 25 years of bringing you fearless, independent reporting. Since our very first broadcast in 1996, Democracy Now! has refused to take...",
+        "upvotes": 2,
+        "url": "http://www.democracynow.org/2016/7/28/michael_eric_dyson_vs_eddie_glaude"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Spencer Platt/Getty Images She just can’t help herself. Jill Stein, the Harvard-educated doctor and Green Party candidate for president, was given yet another opportunity to clarify her position on wh...",
+        "upvotes": 38,
+        "url": "http://www.slate.com/blogs/moneybox/2016/07/29/jill_stein_continues_pandering_to_anti_vaxxers.html"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 34,
+        "url": "http://www.rightwingwatch.org/content/trump-ally-roger-stone-pushes-claim-humayun-khan-was-terrorist-father-muslim-brotherhood-spy"
+      },
+      {
+        "preview": "This article is more than 1 year old Sixty-five years ago, America faced the challenge of a snarling demagogue, who captured the imagination of millions by fusing legitimate fears of an external enemy...",
+        "upvotes": 114,
+        "url": "https://www.washingtonpost.com/posteverything/wp/2016/08/01/joe-mccarthy-was-brought-down-by-attacks-on-his-decency-trump-will-lose-the-same-way/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sign in Tony Brasunas Jul 20, 2016·10 min read The “lesser-of-evils” argument might not work for independent voters this year. For those who hope for swift unity in the Democratic Party, there are rea...",
+        "upvotes": 1,
+        "url": "https://medium.com/@tonybrasunas/the-deeper-reason-independents-and-progressives-will-not-support-hillary-clinton-db79a10b23c7#.mu5l54tbq"
+      },
+      {
+        "preview": "News So youâre at a party, and someone says something ignorant. And while you know that theyâre in the wrong, and that you could totally engage them and win if you were a bit more prepared, your w...",
+        "upvotes": 7,
+        "url": "http://www.bustle.com/articles/158814-how-to-argue-against-bernie-or-bust-and-convince-someone-to-not-vote-trump"
+      },
+      {
+        "preview": "Young people on the defining issues of our time This week’s Democratic National Convention in Philadelphia was about much more then Hilary Clinton officially becoming the party’s nominee, it was about...",
+        "upvotes": 1,
+        "url": "https://pertinentproblems.com/2016/07/29/what-is-obamas-legacy/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "President Obama took a not-so-subtle dig at Donald Trump Monday when he told a group of veterans at the Disabled American Veterans National Convention that he's “pretty tired of some folks trash talki...",
+        "upvotes": 15,
+        "url": "http://www.dailykos.com/stories/2016/8/1/1555370/-Obama-I-m-pretty-tired-of-some-folks-trash-talking-our-troops"
+      },
+      {
+        "preview": "Donald Trump has denigrated Mexicans and Muslims, threatened to break international prohibitions on torture and shown a shocking disregard for the importance of a free press. But none of that may be a...",
+        "upvotes": 93,
+        "url": "http://www.huffingtonpost.com/entry/donald-trump-nuclear-weapons-disqualifying_us_57a22e86e4b04414d1f2ffc5"
+      },
+      {
+        "preview": "Signs are held as Gen. John Allen speaks during the final day of the Democratic National Convention in Philadelphia on July 28, 2016. (Paul Sancya / AP Photo) By signing up, you confirm that you are o...",
+        "upvotes": 1,
+        "url": "https://www.thenation.com/article/the-temptations-of-militarism-general-john-allen-at-the-dnc/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Hillary Clinton leads, with 52 percent support. Hillary Clinton Gets Post-Convention Bounce — -- Hillary Clinton is leading Donald Trump by 9 percentage points in a new national CNN/ORC poll released ...",
+        "upvotes": 111,
+        "url": "http://abcnews.go.com/Politics/hillary-clinton-opens-point-lead-trump-national-poll/story?id=41053374"
+      },
+      {
+        "preview": "Advertisement Supported by The 2016 Race By Brendan Nyhan As public support turns against him, Donald Trump is suggesting without evidence that the election could be “rigged” by Democrats using vote f...",
+        "upvotes": 12,
+        "url": "http://www.nytimes.com/2016/08/06/upshot/how-donald-trumps-rigged-claim-chips-away-at-democracy.html"
+      },
+      {
+        "preview": "The polls don’t look good at all for Donald Trump right now. The RealClearPolitics average of the polls has Hillary Clinton up by 6.7 points. The Huffington Post Pollster has Clinton up by 7.4 points....",
+        "upvotes": 133,
+        "url": "http://www.vox.com/2016/8/5/12386128/trump-clinton-biased-polls"
+      }
+    ]
+  }
+}

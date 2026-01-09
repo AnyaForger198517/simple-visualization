@@ -1,0 +1,275 @@
+{
+  "month": "2017-09",
+  "total_articles": 163,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "school",
+        "district",
+        "court",
+        "county",
+        "student",
+        "black",
+        "department",
+        "white",
+        "case",
+        "justice",
+        "wa",
+        "desegregation",
+        "order",
+        "federal",
+        "percent"
+      ],
+      "topic_weights": [
+        2197.2476535930555,
+        1081.6069483834845,
+        819.582590606171,
+        816.2434560130974,
+        696.0938056741028,
+        545.204676375849,
+        541.8172754887732,
+        452.2092053698417,
+        450.31224503513465,
+        443.9909363728882,
+        370.7512838606835,
+        349.3987718373191,
+        343.66267698292666,
+        339.4295769927041,
+        317.4350444746367
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "school",
+        "district",
+        "black",
+        "county",
+        "white",
+        "student",
+        "case",
+        "court",
+        "desegregation",
+        "high",
+        "department",
+        "justice",
+        "wa",
+        "percent",
+        "ha"
+      ],
+      "topic_weights": [
+        2430.496705029121,
+        1797.8049620513098,
+        1460.5784152040064,
+        1085.5768657875756,
+        1011.4492631918123,
+        794.6343708800144,
+        715.6254710895928,
+        678.6944352186249,
+        643.8347973266714,
+        638.9899542268224,
+        635.4203856929968,
+        547.8721547129148,
+        533.3848205516969,
+        448.7301607636208,
+        428.6617615329689
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "arbitration",
+        "wa",
+        "mandatory",
+        "ha",
+        "president",
+        "employment",
+        "white",
+        "email",
+        "official",
+        "house",
+        "employee",
+        "american",
+        "administration",
+        "worker"
+      ],
+      "topic_weights": [
+        484.53234801077645,
+        298.30748527344093,
+        233.62710029738813,
+        216.94363217176948,
+        216.44561156709761,
+        210.555941540332,
+        183.23392041211048,
+        178.1316088303703,
+        162.61078650406995,
+        158.3745553528845,
+        147.9716158845277,
+        143.09184905016485,
+        140.99244111963446,
+        140.9163868468111,
+        138.92552789479365
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "party",
+        "ha",
+        "political",
+        "voter",
+        "election",
+        "state",
+        "clinton",
+        "campaign",
+        "trump",
+        "liberal",
+        "community",
+        "american",
+        "democratic",
+        "idea"
+      ],
+      "topic_weights": [
+        610.3555281009857,
+        462.1171637195072,
+        429.5713817764412,
+        367.25707048012254,
+        298.7278329916205,
+        297.0221847218554,
+        290.2846392293505,
+        242.47278664548074,
+        228.61750083690146,
+        207.80602791500323,
+        196.45789752235595,
+        188.3987750546201,
+        181.39470060306945,
+        180.63737084737522,
+        165.35922208638544
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "tax",
+        "republican",
+        "wa",
+        "ha",
+        "trump",
+        "cut",
+        "american",
+        "party",
+        "democrat",
+        "money",
+        "state",
+        "percent",
+        "change",
+        "antifa",
+        "policy"
+      ],
+      "topic_weights": [
+        651.6342213598341,
+        361.1647682938351,
+        306.2793212502786,
+        300.7987899129255,
+        291.0054967435113,
+        247.13813824669438,
+        244.42413103400872,
+        189.79541448035855,
+        178.8293804322367,
+        174.04054726197145,
+        172.33010425353126,
+        171.3885362514942,
+        168.25570177300324,
+        163.67537520757386,
+        163.14845321247813
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 68,
+    "2": 29,
+    "4": 61,
+    "0": 4,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "When Michael Padilla was in elementary school in Albuquerque, New Mexico, his family couldn’t afford to send him to school with lunch money, so he worked extra hours mopping the school’s cafeteria to ...",
+        "upvotes": 42,
+        "url": "http://www.motherjones.com/food/2017/09/michael-padilla-school-lunch-shaming-hunger-health/"
+      },
+      {
+        "preview": "Anya Kamenetz Education Secretary Betsy DeVos speaks about campus sexual assault and enforcement of Title IX on Thursday at George Mason University in Arlington, Va. \"One rape is one too many ... one ...",
+        "upvotes": 1,
+        "url": "http://www.npr.org/sections/ed/2017/09/07/549197971/betsy-devos-signals-a-pullback-on-campus-sex-misconduct-enforcement"
+      },
+      {
+        "preview": "The Education Issue Statistics show just how profound the inequalities in America’s education system have become. Credit...Devin Yalkin for The New York Times Supported by By Alice Yin There are as ma...",
+        "upvotes": 43,
+        "url": "https://www.nytimes.com/2017/09/08/magazine/education-by-the-numbers.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "tion system, at a time when nearly 8.4 million black and Latino children are learning in segregated and high-poverty schools.53 The Justice Department failed to respond to multiple requests for commen...",
+        "upvotes": 6,
+        "url": "https://www.thenation.com/article/the-department-of-justice-is-overseeing-the-resegregation-of-american-schools"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The U.S. Department of the Interior’s decision to retain all 27 national monument designations created under three previous presidents sheds little light on what, if any, management changes might be m...",
+        "upvotes": 78,
+        "url": "http://mainepublic.org/post/utah-congressman-seeks-prevent-future-land-gifts-katahdin-woods-waters"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Justice Department confirmed in a court filing late Friday that neither it nor the FBI has evidence that Trump Tower was the target of surveillan...",
+        "upvotes": 136,
+        "url": "http://thehill.com/homenews/administration/348987-justice-dept-says-it-has-no-evidence-of-trump-tower-wiretapping?rnd=1504374823"
+      },
+      {
+        "preview": "Defense A self-assessment by the 173rd Airborne Brigade is called ‘a real eye-opener’ to how some critical capabilities to deter Russia have eroded. By WESLEY MORGAN 09/02/2017 07:32 AM EDT Updated 09...",
+        "upvotes": 1,
+        "url": "http://www.politico.com/story/2017/09/02/army-study-173rd-airborne-brigade-europe-russia-242273"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Sign in Kira Bushman Aug 28, 2017·4 min read Maya Angelou once said that “it is time for parents to teach young people early on that in diversity there is beauty and there is strength.” Although I rec...",
+        "upvotes": 1,
+        "url": "https://medium.com/@krosemarieb/from-one-blue-bubble-to-another-6dc3344fec93"
+      },
+      {
+        "preview": "WASHINGTON ― Jeff Sessions’ Justice Department plans to put a woman who laughed at the now-attorney general back on trial yet again, a federal prosecutor told a D.C. judge here on Friday. Desiree Fair...",
+        "upvotes": 147,
+        "url": "http://www.huffingtonpost.com/entry/woman-laughed-jeff-sessions_us_59a8cb8ae4b0b5e530fd7c8b"
+      },
+      {
+        "preview": "The president of a Pennsylvania police union responded to Black Lives Matter activists demanding accountability for the police killing of a black man by calling the group a “pack of rabid animals.” Ph...",
+        "upvotes": 3,
+        "url": "http://www.huffingtonpost.com/entry/philly-police-union-president-calls-black-lives-matter-activists-a-pack-of-rabid-animals_us_59aacc02e4b0dfaafcf0bc55"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Danielle Kurtzleben Since the violence in Charlottesville, Va., the president has said that job creation will ease America's racial tensions. That is not likely. Jim Watson/AFP/Getty Images hide capti...",
+        "upvotes": 1,
+        "url": "http://www.npr.org/2017/09/01/546199256/trump-says-jobs-can-close-racial-divides-here-s-why-that-s-unlikely"
+      },
+      {
+        "preview": "POLITICS Confidential documents call the anarchists that seek to counter white supremacists ‘domestic terrorists.’ By JOSH MEYER 09/01/2017 04:55 AM EDT Protesters in black, associated with Antifa, sh...",
+        "upvotes": 0,
+        "url": "http://www.politico.com/story/2017/09/01/antifa-charlottesville-violence-fbi-242235"
+      },
+      {
+        "preview": "Advertisement Supported by By Helene Cooper WASHINGTON — President Obama has made good on a promise to give his $1.4 million in Nobel Peace Prize money to charity, releasing on Thursday the names of t...",
+        "upvotes": 155,
+        "url": "http://www.nytimes.com/2010/03/12/us/12nobel.html"
+      }
+    ]
+  }
+}

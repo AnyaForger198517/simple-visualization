@@ -1,0 +1,285 @@
+{
+  "month": "2018-08",
+  "total_articles": 175,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "party",
+        "democrat",
+        "democratic",
+        "ha",
+        "voter",
+        "wa",
+        "state",
+        "percent",
+        "support",
+        "million",
+        "vote",
+        "pelosi",
+        "election",
+        "candidate"
+      ],
+      "topic_weights": [
+        161.80296074964025,
+        142.93442747243864,
+        139.2654907556027,
+        134.85935508979614,
+        132.98350809062174,
+        115.59412188643917,
+        109.33226765772191,
+        102.08955019432548,
+        99.09862846366605,
+        91.81906666102441,
+        73.53722693613688,
+        72.60763646878664,
+        70.19589552868845,
+        67.36908578610239,
+        64.05005605854966
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "cohen",
+        "percent",
+        "wa",
+        "president",
+        "ha",
+        "campaign",
+        "federal",
+        "tenant",
+        "court",
+        "case",
+        "manafort",
+        "building",
+        "woman",
+        "group"
+      ],
+      "topic_weights": [
+        289.70807204067376,
+        147.09653521922854,
+        138.17234746233018,
+        132.97651018894035,
+        89.30126690613999,
+        85.66887346803853,
+        76.32020285751089,
+        72.00451054851062,
+        64.41783586641495,
+        62.17142959269721,
+        54.33121438161526,
+        53.72949716837997,
+        50.720048106201425,
+        48.086118459386185,
+        47.144960098903866
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "job",
+        "income",
+        "work",
+        "government",
+        "worker",
+        "basic",
+        "universal",
+        "poverty",
+        "american",
+        "benefit",
+        "pay",
+        "prison",
+        "federal",
+        "policy",
+        "company"
+      ],
+      "topic_weights": [
+        291.1910753437859,
+        185.11329256040935,
+        183.55983100522224,
+        177.59767488197457,
+        142.352593921544,
+        140.85764158778582,
+        124.46124717577572,
+        117.75649835222515,
+        108.14248155917707,
+        108.10620586611532,
+        100.2833216602185,
+        98.63242429485653,
+        97.56741739605158,
+        96.18063932322274,
+        90.77448734266271
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "mccain",
+        "ha",
+        "russia",
+        "house",
+        "putin",
+        "white",
+        "republican",
+        "election",
+        "russian",
+        "mcgahn",
+        "john",
+        "political"
+      ],
+      "topic_weights": [
+        1262.9861421120434,
+        620.7639687617744,
+        383.049897110448,
+        376.8249661740627,
+        320.0327214537866,
+        252.05491100396395,
+        251.63603963738154,
+        234.47193304577257,
+        234.36314981691282,
+        205.77060349165507,
+        198.57390737588318,
+        195.736611148696,
+        136.4750520207383,
+        133.11455491366698,
+        128.07804958510906
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "white",
+        "child",
+        "ha",
+        "black",
+        "america",
+        "american",
+        "immigrant",
+        "parent",
+        "family",
+        "administration",
+        "policy",
+        "immigration",
+        "story",
+        "today"
+      ],
+      "topic_weights": [
+        230.6276734432173,
+        144.06079699805295,
+        133.50215456111243,
+        122.1951285975937,
+        95.24815816263995,
+        83.94115578953918,
+        82.07585494259057,
+        80.17932022246038,
+        68.90802626547494,
+        67.83404113377522,
+        56.96337707607019,
+        56.31659942361623,
+        55.88845476945825,
+        55.27995016625968,
+        42.635613013941786
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 62,
+    "0": 36,
+    "1": 24,
+    "2": 14,
+    "4": 39
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The fate of this nation depends on every one of us becoming an activist, joining with others, and reclaiming this land from those bent on destroying it. by Robert Reich July 31, 2018 12:12 PM Willy Sa...",
+        "upvotes": 8,
+        "url": "http://prospect.org/article/six-reasons-hope-trump-times"
+      },
+      {
+        "preview": "Editor’s Note: David A. Love is a writer and commentator based in Philadelphia. He contributes to a number of publications, including Atlanta Black Star, theGrio.com, WHYY and Al Jazeera. Follow him o...",
+        "upvotes": 1,
+        "url": "https://www.cnn.com/2018/07/17/opinions/russian-bots-2018-midterm-elections-opinion-love/index.html"
+      },
+      {
+        "preview": "You thought the US cheese surplus was huge? Get a load of the excess meat. There’s a lot of uncertainty these days. So here’s a comforting thought: The United States of America will not run out of che...",
+        "upvotes": 2,
+        "url": "https://www.vox.com/science-and-health/2018/7/24/17606958/meat-cheese-surplus-visualized"
+      }
+    ],
+    "1": [
+      {
+        "preview": "President Donald Trump and his administration have repeatedly peddled the lie that, according to government data, foreigners who come to the United States are more likely to be convicted of terrorism ...",
+        "upvotes": 101,
+        "url": "https://talkingpointsmemo.com/livewire/doj-finally-admits-it-has-no-data-to-support-trump-lie-on-foreign-terrorists"
+      },
+      {
+        "preview": "Gun rights activist groups found a way around the temporary halting of 3D-printed gun blueprints by publishing another set of blueprints on a new website Tuesday, which they say is activity protected ...",
+        "upvotes": 266,
+        "url": "https://www.huffingtonpost.com/entry/activists-3d-printed-gun-blueprints_us_5b616691e4b0b15aba9df36a"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved California's Attorney General is preparing a lawsuit against the Trump administration's proposal to dramatically roll back Obama-era vehicle emission...",
+        "upvotes": 455,
+        "url": "http://thehill.com/policy/energy-environment/400076-california-readies-lawsuit-against-trump-administration-over-car"
+      }
+    ],
+    "2": [
+      {
+        "preview": "In the wake of last June’s formal death of net neutrality, ISP lobbyists are hard at work trying to convince the public that the coming fractured, non-neutral internet is going to be a truly wonderful...",
+        "upvotes": 2,
+        "url": "https://motherboard.vice.com/en_us/article/xwkvqn/big-telecom-says-anti-competitive-internet-fast-lanes-will-be-wonderful"
+      },
+      {
+        "preview": "New York has a single-payer plan, and the numbers add up this time. I hope you aren’t sick of single-payer projections yet. RAND has a fascinating new one, looking at a New York plan for universal cov...",
+        "upvotes": 284,
+        "url": "https://www.vox.com/policy-and-politics/2018/8/3/17648860/single-payer-explained-3-charts"
+      },
+      {
+        "preview": "This article is more than 1 year old Unlike his predecessor, President Trump is a man who neither appreciates nuance nor believes that others do, either. To him, everything is either black or white, a...",
+        "upvotes": 9,
+        "url": "https://www.washingtonpost.com/blogs/plum-line/wp/2018/08/03/trump-says-youve-never-had-it-so-good-do-you-believe-him/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Facebook has revealed a new coordinated disinformation campaign ahead of November's elections that used dozens of fake accounts and pages on its plat...",
+        "upvotes": 17,
+        "url": "http://thehill.com/policy/technology/399691-facebook-has-identified-new-political-influence-campaign-report"
+      },
+      {
+        "preview": "The question of whether President Trump obstructed justice in the FBI’s investigation of Michael Flynn has always hinged on his familiarity with the details of that probe — and when he learned them. A...",
+        "upvotes": 61,
+        "url": "https://talkingpointsmemo.com/muckraker/report-trump-knew-flynn-under-fbi-investigation-obstruction"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Few matters more powerfully prove the crisis of modern conservatism than the attack against the Koch brothers by President TrumpDonald TrumpThe Memo:...",
+        "upvotes": 3,
+        "url": "http://thehill.com/opinion/white-house/399844-george-will-koch-brothers-and-conservatives-in-crisis"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The New York Times has published yet another in its interminable series of articles explaining that Trump's supporters aren't really bad people and we just need to reach out to them: If, on the other ...",
+        "upvotes": 1,
+        "url": "https://thedailybanter.com/issues/2018/08/01/please-stop-telling-me-how-to-talk-to-racists/"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. \"This has very serious ...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/news/2018/08/01/dont-be-evil-unless-its-worth-untold-new-riches-whistleblower-reveals-google-plan"
+      },
+      {
+        "preview": "In October of last year, Amazon founder Jeff Bezos passed Mr. Microsoft Bill Gates on the Bloomberg Billionaires Index after tripling his own already-extraordinary net worth during the past two years....",
+        "upvotes": 0,
+        "url": "https://munchies.vice.com/en_us/article/j5bax7/bill-gates-is-adorably-terrible-at-guessing-the-cost-of-everyday-groceries"
+      }
+    ]
+  }
+}

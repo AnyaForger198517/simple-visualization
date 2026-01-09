@@ -1,0 +1,275 @@
+{
+  "month": "2014-01",
+  "total_articles": 85,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "reply",
+        "posted",
+        "view",
+        "post",
+        "jim",
+        "private",
+        "life",
+        "tax",
+        "ha",
+        "sanction",
+        "party",
+        "date",
+        "republic",
+        "free",
+        "american"
+      ],
+      "topic_weights": [
+        336.83454403747874,
+        131.59561511068486,
+        127.28330206886505,
+        123.03999360441142,
+        116.79406587459563,
+        113.42663257888131,
+        50.58221204795785,
+        41.20803663744579,
+        35.440699453453384,
+        29.30716555630859,
+        28.947036231687747,
+        28.45135433978182,
+        28.353246920901427,
+        26.763983396090627,
+        26.419119723918758
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "job",
+        "world",
+        "economy",
+        "survival",
+        "adventure",
+        "state",
+        "novel",
+        "power",
+        "real",
+        "build",
+        "career",
+        "technology",
+        "radically",
+        "beneficial",
+        "creating"
+      ],
+      "topic_weights": [
+        144.319598528657,
+        128.6776989241909,
+        119.77975626851388,
+        111.87371088051063,
+        107.88628434534378,
+        98.6908313457085,
+        97.15935306793978,
+        81.40232779805406,
+        74.16031348043148,
+        74.13973083524839,
+        73.58583831956223,
+        71.53530375401819,
+        70.37427323997757,
+        70.1587282632378,
+        69.91588651028768
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "state",
+        "republican",
+        "ha",
+        "woman",
+        "conservative",
+        "law",
+        "house",
+        "party",
+        "government",
+        "senate",
+        "democrat",
+        "president",
+        "campaign",
+        "democratic"
+      ],
+      "topic_weights": [
+        148.5383177103473,
+        123.60704620723416,
+        117.1092226034654,
+        116.42303969748701,
+        78.13366825924686,
+        77.98582938915847,
+        61.892747647944525,
+        60.51807212105615,
+        59.67961465536595,
+        52.121882423968465,
+        50.86056273457916,
+        49.98446895826349,
+        48.9048771053641,
+        48.513481990370245,
+        44.72055233637263
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "america",
+        "country",
+        "american",
+        "world",
+        "president",
+        "life",
+        "january",
+        "city",
+        "war",
+        "government",
+        "did",
+        "economic"
+      ],
+      "topic_weights": [
+        108.2807997530084,
+        96.43589065268802,
+        81.15833147839886,
+        59.6367613338334,
+        58.698180829176124,
+        56.71697823598432,
+        53.26910693877285,
+        45.51893894314024,
+        44.190558910731816,
+        42.376627548367104,
+        41.26163258648303,
+        33.53442449858671,
+        32.20911591631112,
+        30.008149620866458,
+        29.832687779311687
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "percent",
+        "wa",
+        "unemployment",
+        "obamacare",
+        "government",
+        "american",
+        "job",
+        "obama",
+        "state",
+        "work",
+        "advertisement",
+        "insurance",
+        "ha",
+        "group",
+        "tax"
+      ],
+      "topic_weights": [
+        119.00953766408503,
+        116.35926615465992,
+        45.20066285381462,
+        42.779281488513995,
+        40.54121935036628,
+        38.0674073348168,
+        37.743061873676055,
+        33.48922899970571,
+        33.074172885709245,
+        32.003635595448614,
+        31.512570212299426,
+        31.309209018341434,
+        31.066880370964363,
+        30.05236852499756,
+        29.98104629710044
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 26,
+    "2": 38,
+    "3": 17,
+    "0": 3,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Skip to comments. Posted on 01/05/2014 11:51:18 AM PST by Jim Robinson To hell with a million man march. We need a TEN MILLION man march!! Fill the mall and every street in DC!! Time to raise the puck...",
+        "upvotes": 0,
+        "url": "http://www.freerepublic.com/focus/f-news/3108619/posts"
+      },
+      {
+        "preview": "By Jim Sciutto The Obama administration's efforts to negotiate a final deal with Iran over its nuclear program faces a potential new hurdle as the Senate moves toward a veto-proof majority supporting ...",
+        "upvotes": 0,
+        "url": "http://security.blogs.cnn.com/2014/01/10/iran-sanctions-bill-moves-toward-veto-proof-majority-in-senate-creating-potential-new-hurdle-for-iran-nuclear-deal/"
+      },
+      {
+        "preview": "This article was updated at 11:51 a.m. In the latest indication of a growing libertarian wing of the GOP, the Republican National Committee passed a resolution Friday calling for an investigation into...",
+        "upvotes": 29,
+        "url": "http://swampland.time.com/2014/01/24/exclusive-republican-party-calls-for-investigation-into-nsa-snooping/?iid=sl-main-lead"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Will You Be Richer or Poorer? Profit, Power and A.I. in a Traumatized World ($6.95) Pathfinding our Destiny ($6.95) Money and Work Unchained ($6.95) Inequality and the Collapse of Privilege ($3.95) Sp...",
+        "upvotes": 0,
+        "url": "http://charleshughsmith.blogspot.com/2014/01/pimping-empire-progressive-style.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "There’s a disturbing new law being proposed in Ohio. It will fundamentally change homeschoolers lives and bring the government right into their homes. Teddy’s Law is being sponsored by Capri Cafaro (D...",
+        "upvotes": 0,
+        "url": "http://politichicks.tv/column/homeschoolers-beware-ohio-attack/#dRIK3dIceQcrakPq.16"
+      },
+      {
+        "preview": "Organizing for Action, the community organizing group rebooted from President Barack Obama’s re-election campaign remnants that uses BarackObama.com as its website, has thanked House Budget Committee ...",
+        "upvotes": 0,
+        "url": "http://www.breitbart.com/Big-Government/2013/12/31/OFA-thanks-Paul-Ryan-McCain-others-like-them-in-GOP-for-helping-amnesty-in-2013-into-2014"
+      },
+      {
+        "preview": "(AP) 2013: fewest police deaths by firearms since 1887WASHINGTONThe number of law-enforcement officers killed by firearms in 2013 fell to levels not seen since the days of the Wild West, according to ...",
+        "upvotes": 0,
+        "url": "http://www.breitbart.com/Big-Government/2013/12/30/2013--fewest-police-deaths-by-firearms-since-1887"
+      }
+    ],
+    "3": [
+      {
+        "preview": "In the history of mankind, many republics have risen, have flourished for a less or greater time, and then have fallen because their citizens lost the power of governing themselves and thereby of gove...",
+        "upvotes": 0,
+        "url": "http://www.whitehousedossier.com/2014/01/04/fallujah-falls/"
+      },
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. All the political talk of tackling inequality should warm the hearts of Jets fans. After next month’s game in the Meadowlands, it will ...",
+        "upvotes": 0,
+        "url": "http://nypost.com/2014/01/05/democrats-fairness-catch-22/"
+      },
+      {
+        "preview": "Dear Mayor de Blasio: In your inaugural address you called for an end to economic and social inequality in New York. You said you wanted to improve education and build a strong economy, taking dead ai...",
+        "upvotes": 0,
+        "url": "http://www.theblaze.com/contributions/dear-mayor-de-blasio-dont-condemn-new-york-to-detroits-fate/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Pakistani Islamists burn an American flag in Karachi on Friday, Nov. 1, 2013. (AP Photo/Shakil Adil) (.com) – The past year witnessed bloodshed in Syria and Iraq, turmoil in Egypt, anarchy in Central ...",
+        "upvotes": 14,
+        "url": "http://www.cnsnews.com/news/article/patrick-goodenough/and-country-posing-greatest-threat-peace-2013-ends"
+      },
+      {
+        "preview": "WASHINGTON (AP) — More than half of female Marines in boot camp can't do three pullups, the minimum standard that was supposed to take effect with the new year, prompting the Marine Corps to delay the...",
+        "upvotes": 63,
+        "url": "http://www.usatoday.com/story/news/nation/2014/01/02/marines-female-fitness-pullups/4294313/"
+      },
+      {
+        "preview": "Cato education scholar Neal McCluskey revealed how a little-reported feature of the Affordable Care Act uses shady accounting to hide its overall cost. “The change in student loans was part of Obamaca...",
+        "upvotes": 4,
+        "url": "http://dailycaller.com/2014/01/05/funny-money-how-student-loan-profits-make-obamacare-look-good-video/"
+      }
+    ]
+  }
+}

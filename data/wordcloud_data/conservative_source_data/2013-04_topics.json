@@ -1,0 +1,285 @@
+{
+  "month": "2013-04",
+  "total_articles": 104,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "gun",
+        "vote",
+        "ha",
+        "state",
+        "obama",
+        "democrat",
+        "wa",
+        "senate",
+        "republican",
+        "north",
+        "report",
+        "american",
+        "house",
+        "sen",
+        "immigration"
+      ],
+      "topic_weights": [
+        78.18905803570547,
+        76.35016196872343,
+        76.31794784058341,
+        66.08990077905571,
+        63.63610279507898,
+        60.0377584892717,
+        59.39206403251383,
+        59.31000027808625,
+        52.86264666969421,
+        50.832379948561496,
+        49.58030771774167,
+        48.30066048126049,
+        46.32163198653865,
+        44.737157222691096,
+        42.989100402219144
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "gun",
+        "law",
+        "state",
+        "wa",
+        "ha",
+        "black",
+        "magazine",
+        "american",
+        "weapon",
+        "obama",
+        "government",
+        "president",
+        "right",
+        "african",
+        "house"
+      ],
+      "topic_weights": [
+        143.41038133242432,
+        114.7377568173676,
+        104.96644010619006,
+        90.06272416111864,
+        84.16976739450976,
+        82.01876516735096,
+        79.66949836264851,
+        66.88260466558496,
+        63.968764895446654,
+        56.15461598751522,
+        44.8607386639525,
+        41.53921740836691,
+        40.859911539904424,
+        39.97627887409833,
+        39.46701742492153
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "tax",
+        "period",
+        "cut",
+        "medium",
+        "democrat",
+        "republican",
+        "story",
+        "symbol",
+        "narrative",
+        "political",
+        "reagan",
+        "mainstream",
+        "term",
+        "cognitive"
+      ],
+      "topic_weights": [
+        161.23071431082894,
+        134.64561874745786,
+        86.27262087356405,
+        74.02027812836795,
+        72.93377002565347,
+        70.81449563150812,
+        67.20951655833771,
+        65.15802855418362,
+        61.399471196236235,
+        58.549730181619374,
+        55.467036478667424,
+        55.019137781594864,
+        49.29854478113242,
+        47.82828427545007,
+        46.56351832466564
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "advertisement",
+        "obama",
+        "ha",
+        "border",
+        "president",
+        "group",
+        "american",
+        "story",
+        "house",
+        "photo",
+        "bush",
+        "republican",
+        "world",
+        "help"
+      ],
+      "topic_weights": [
+        102.14301512160107,
+        91.81818372595777,
+        84.67128815858318,
+        63.88025342321065,
+        59.06850858107956,
+        41.36768933220596,
+        33.64687030146879,
+        32.6091183669433,
+        32.346730155367894,
+        32.3137483135158,
+        29.544101057231046,
+        28.690246435871572,
+        28.545401413626976,
+        28.10912976123565,
+        27.29448828135192
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "state",
+        "government",
+        "amendment",
+        "federal",
+        "law",
+        "ha",
+        "power",
+        "right",
+        "court",
+        "constitution",
+        "news",
+        "abortion",
+        "illegal",
+        "case"
+      ],
+      "topic_weights": [
+        131.56556121954375,
+        112.66170481524621,
+        81.58923323423224,
+        69.34435725925628,
+        69.12627427328043,
+        61.10473453902075,
+        57.447320481330536,
+        48.88217766886709,
+        40.64569494114314,
+        40.30918160848975,
+        40.22506893540661,
+        36.05671364603166,
+        34.81170041271871,
+        33.28977479970695,
+        31.94554738713861
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 22,
+    "3": 25,
+    "1": 27,
+    "0": 26,
+    "2": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Alternate title: Self-realization can take years in coming. One might have thought Democrats understood this after the 2010 midterms, when Barack Obama could barely be bothered to lend his organizatio...",
+        "upvotes": 3,
+        "url": "http://hotair.com/archives/2013/04/02/dems-wonder-is-obama-just-in-it-for-himself/"
+      },
+      {
+        "preview": "Sen. Ted Cruz of Texas will headline a GOP fundraiser in South Carolina on May 3. The speech is widely seen as Cruz testing the waters ahead of a possible presidential run in 2016. By that time, Cruz ...",
+        "upvotes": 65,
+        "url": "http://pjmedia.com/tatler/2013/04/02/ted-cruz-does-what-texans-sent-him-to-washington-to-do-the-obama-democrats-have-a-problem-with-this/"
+      },
+      {
+        "preview": "President Obama has a situation on his hands where charisma and media support do him no good. He is dealing with a nuclear-armed regime with a history of military attacks, provocations as a means of e...",
+        "upvotes": 5,
+        "url": "http://www.americanthinker.com/2013/04/its_almost_3_am_and_north_koreas_calling.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Here's Connecticut's former Attorney General, phony Vietnam war veteran, and senior US Senator tacitly admitting the obvious: \"How would anything in the bill, as it currently stands, have stopped anyt...",
+        "upvotes": 35,
+        "url": "http://townhall.com/tipsheet/guybenson/2013/04/01/blumenthal-our-gun-control-legislation-wouldnt-have-prevented-newtown-n1554518"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Texas Gov. Rick Perry (R) doubled down Monday in his opposition to expanding Medicaid under President Obama's healthcare law, even though opposing it...",
+        "upvotes": 7,
+        "url": "http://thehill.com/blogs/healthwatch/medicaid/291257-perry-doubles-down-against-medicaid-expansion#.UVoX42u8jzM.reddit"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved One small group is curiously immune from the sequester and the related furloughs that are about to become a fact of life in Washington: Congress. Hun...",
+        "upvotes": 13,
+        "url": "http://thehill.com/blogs/on-the-money/budget/291303-why-members-of-congress-are-exempt-from-the-sequester"
+      }
+    ],
+    "2": [
+      {
+        "preview": " of both parties. Its cognitive character is evident in the lengthy discussions of its validity, those discussions’ focus on evidence, argument, and experts, and the way that Democrats as well as Repu...",
+        "upvotes": 10,
+        "url": "http://link.springer.com/article/10.1007/s11133-012-9242-4"
+      },
+      {
+        "preview": "by Brett Stevens on April 11, 2013 Millennials are in a bubble of their own creation. Others watch them, but don’t communicate, because we know the bubble is there and are aware we will be attacking w...",
+        "upvotes": 0,
+        "url": "http://www.amerika.org/culture/monsters-2010/"
+      },
+      {
+        "preview": "Advertisement Dr. Ezekiel Emanuel, the brother of former White House Chief of Staff and current Chicago Mayor Rahm Emanuel, was interviewed this week on the implementation of Obamacare. Ezekiel, a hea...",
+        "upvotes": 8,
+        "url": "http://www.firstthings.com/blogs/postmodernconservative/2013/04/13/abortion-the-mainstream-media-and-the-limits-of-shaming/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "It is a great formula: Lobby the nation to go to war over false pretenses. Stir up as much fear as possible. Ignore and discredit those who claim the threat is misrepresented. Destroy the target with ...",
+        "upvotes": 0,
+        "url": "http://www.dailykos.com/story/2013/03/31/1198319/-Market-Solutions-in-Education-Reform-Panacea-or-Hoax"
+      },
+      {
+        "preview": "Advertisement It’s about time. Missouri Republicans passed “right to work” legislation, HB77, out of committee on Wednesday. The proposed legislation specifies that no person can be required to engage...",
+        "upvotes": 14,
+        "url": "http://www.thegatewaypundit.com/2013/04/missouri-republicans-pass-right-to-work-legislation-out-of-committee/"
+      },
+      {
+        "preview": "SEARCH Thanks to a previously unreported drone flying over the U.S.-Mexico border, we now know that more people are crossing than previously thought—and getting away with it, reports Andrew Becker of ...",
+        "upvotes": 7,
+        "url": "http://www.thedailybeast.com/articles/2013/04/04/new-drone-report-our-border-is-not-as-secure-as-we-thought.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Veil Of Politics Does there remain any governmental Horatius who can stand in the gap; who can lead the Battle for America and restore the Constitution? There is. Lock and load, mount up and prepare f...",
+        "upvotes": 17,
+        "url": "http://politicalvelcraft.org/2011/09/21/the-sheriff-has-more-power-in-his-county-than-the-president-of-the-united-states-u-s-constitution-u-s-supreme-court-quashes-obamas-claim-to-supremacy-clause/"
+      },
+      {
+        "preview": "Your account has been created Danish toy giant says production of ‘Jabba’s Palace’ building set was always slated to cease at the end of 2013 Find your bookmarks in your  Premium section, under my pro...",
+        "upvotes": 1,
+        "url": "http://www.independent.co.uk/news/world/europe/the-racist-menace-muslims-declare-victory-in-fight-over-antiislamic-lego-8555610.html"
+      },
+      {
+        "preview": "In an unprecedented decision in January of 2010, a U.S. immigration judge, Lawrence O. Burman, granted asylum in the United States to Uwe and Hannalore Romeike. It was the first case ever to recognize...",
+        "upvotes": 0,
+        "url": "http://www.breitbart.com/Big-Peace/2013/03/29/US-Government-Seeks-To-Deport-Family-Threatened-in-Germany-For-Homeschooling"
+      }
+    ]
+  }
+}

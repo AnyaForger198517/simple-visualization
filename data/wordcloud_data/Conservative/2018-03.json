@@ -1,0 +1,36 @@
+{
+  "month": "2018-03",
+  "total_articles": 213,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "School Racial Issues and Gun Control Debate",
+      "core_keywords": ["student", "school", "gun", "racist", "black", "white", "law", "state"],
+      "importance_ratio": 0.2535
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Administration and Fiscal Policy",
+      "core_keywords": ["trump", "president", "state", "debt", "tax", "spending", "government"],
+      "importance_ratio": 0.2207
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gun Rights and Political Events Coverage",
+      "core_keywords": ["gun", "amendment", "march", "trump", "cia", "hollywood", "state"],
+      "importance_ratio": 0.0798
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Presidency and Media Coverage",
+      "core_keywords": ["trump", "president", "news", "media", "gun", "woman", "cnn", "fox"],
+      "importance_ratio": 0.2582
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump and US International Trade Relations",
+      "core_keywords": ["trump", "china", "trade", "state", "american", "election", "world"],
+      "importance_ratio": 0.1878
+    }
+  ]
+}

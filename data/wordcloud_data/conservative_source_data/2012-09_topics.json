@@ -1,0 +1,280 @@
+{
+  "month": "2012-09",
+  "total_articles": 118,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "reply",
+        "money",
+        "post",
+        "posted",
+        "fed",
+        "bank",
+        "private",
+        "view",
+        "pdt",
+        "economy",
+        "mortgage",
+        "price",
+        "ha",
+        "job",
+        "asset"
+      ],
+      "topic_weights": [
+        1812.1704650895704,
+        841.1537612939189,
+        750.2794650678934,
+        681.9424142862774,
+        680.0322646167052,
+        630.3654770305294,
+        620.8198840008844,
+        606.8637030485697,
+        606.6752026821017,
+        526.6165430471774,
+        427.4393184028948,
+        358.3123543751828,
+        341.0971156463711,
+        340.55870973419525,
+        318.44624318865766
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "attack",
+        "american",
+        "house",
+        "obama",
+        "state",
+        "president",
+        "white",
+        "administration",
+        "ha",
+        "government",
+        "libya",
+        "benghazi",
+        "national",
+        "muslim"
+      ],
+      "topic_weights": [
+        217.79528512208992,
+        147.28007539931542,
+        124.51009413167372,
+        98.21229131642541,
+        96.98825273253178,
+        91.62052501593436,
+        84.61480364842951,
+        80.9624359009848,
+        80.3541735736636,
+        76.91582808394568,
+        72.53205519726045,
+        64.22095755514627,
+        62.002514500736844,
+        57.11921060962075,
+        56.76019245052899
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "democrat",
+        "president",
+        "romney",
+        "party",
+        "clinton",
+        "american",
+        "state",
+        "democratic",
+        "republican",
+        "trump",
+        "campaign",
+        "fact"
+      ],
+      "topic_weights": [
+        856.6012400583468,
+        625.3977573072142,
+        408.89767738790846,
+        355.5454729072418,
+        309.25561368944665,
+        276.099166237558,
+        264.80830555216494,
+        219.42649242853292,
+        216.1250412484511,
+        187.12024523101445,
+        184.5884106680261,
+        184.4366637920738,
+        155.60252175107428,
+        152.46293575310088,
+        144.50068408171182
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "gun",
+        "ha",
+        "case",
+        "law",
+        "warren",
+        "guy",
+        "brown",
+        "adam",
+        "business",
+        "money",
+        "comment",
+        "firearm",
+        "state",
+        "able"
+      ],
+      "topic_weights": [
+        69.50177345307297,
+        59.27702236220189,
+        47.84359814665418,
+        43.144195485967025,
+        42.772646806026835,
+        38.91910866438596,
+        31.56964870212606,
+        26.593865906856074,
+        23.23273657677464,
+        22.923464163134422,
+        21.621464370702316,
+        21.575919778269487,
+        19.590292719917386,
+        19.097801579008724,
+        19.057258826028953
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "government",
+        "debt",
+        "spending",
+        "obama",
+        "ha",
+        "federal",
+        "president",
+        "american",
+        "family",
+        "money",
+        "tax",
+        "credit",
+        "million",
+        "trillion",
+        "young"
+      ],
+      "topic_weights": [
+        130.74048362802424,
+        65.56307452303686,
+        56.227904991438976,
+        53.76985611336191,
+        46.40247569914746,
+        43.713787430762885,
+        42.14749009841543,
+        36.93323607224337,
+        34.735840876207824,
+        34.36348954421155,
+        31.747594923911798,
+        31.565203791077398,
+        29.97943988081904,
+        28.59099510007639,
+        23.868172107967748
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 75,
+    "1": 27,
+    "4": 5,
+    "3": 9,
+    "0": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Patrick J.  - Official Website The authors of the Democratic platform have inadvertently revealed to the world the sea change that has taken place in that party we once knew. For the first time — and ...",
+        "upvotes": 1,
+        "url": "http://www.freerepublic.com/focus/f-bloggers/2914176/posts"
+      },
+      {
+        "preview": "On Friday, the House of Representatives voted 233 to 175 to stop the Obama administration’s so-called “war on coal,” passing a bill that would limit the EPA’s regulatory authority over greenhouse gase...",
+        "upvotes": 0,
+        "url": "http://www.freerepublic.com/focus/f-news/2934953/posts"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Healthy body & mind FREE SHIPPING on all orders $50+ Explore Our Best Sellers Choose from popular categories and more Get NAC supplements — while supplies last! Powerful antioxidant for whole-body hea...",
+        "upvotes": 5,
+        "url": "http://www.lef.org/magazine/mag2012/sep2012_Protective-Effects-Of-Coffee_01.htm"
+      },
+      {
+        "preview": "Skip to comments. Posted on 08/03/2012 7:57:06 AM PDT by maggiesnotebook Some 49.5% of American entitleists and all persons from Muslim countries will line up to receive this hat created exclusively f...",
+        "upvotes": 11,
+        "url": "http://www.theverge.com/2012/9/8/3303258/cybersecurity-executive-order-obama-white-house"
+      },
+      {
+        "preview": "First lady Michelle Obama. (AP Photo/J. Scott Applewhite, File) (.com) – First Lady Michelle Obama delivered a back to school message for children to inform them of the “exciting changes” to their lun...",
+        "upvotes": 62,
+        "url": "http://www.breitbart.com/Big-Government/2012/09/10/Firestorm-Obama-Misses-Over-Half-His-Intelligence-Briefings-WH-Calls-Report-Hilarious"
+      }
+    ],
+    "2": [
+      {
+        "preview": "'There was no talk of the Federal Reserve,' Paul said. By KEVIN CIRILLI 08/31/2012 03:41 PM EDT Rep. Ron Paul said GOP presidential nominee Mitt Romney’s convention speech left him “very skeptical” th...",
+        "upvotes": 0,
+        "url": "http://www.politico.com/news/stories/0812/80540.html"
+      },
+      {
+        "preview": "See our research on: Abortion | Afghanistan | COVID-19 See our research on: Abortion | Afghanistan | COVID-19 As the American public has learned more about Mitt Romney over the course of the past year...",
+        "upvotes": 3,
+        "url": "http://www.people-press.org/2012/08/29/romney-in-a-word-honest-businessman-rich/"
+      },
+      {
+        "preview": "TAMPA, Fla. — Academy award-winning actor and conservative activist Jon Voight told The Daily Caller that he is “feeding” his daughter, actress Angelina Jolie, political “information” with the hope of...",
+        "upvotes": 26,
+        "url": "http://losangeles.cbslocal.com/2012/08/31/woman-82-suspected-of-burglary-rap-sheet-dates-back-to-1955/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Bishop Vashti Murphy McKenzie, a speaker Tuesday night at the Democratic National Convention in Charlotte, is a close associate of Rev. Jeremiah Wright. Church bulletins obtained by The Daily Caller s...",
+        "upvotes": 0,
+        "url": "http://reason.com/blog/2012/09/04/democrats-have-nominally-changed-their-t"
+      },
+      {
+        "preview": "In an academic article published last year, contraception advocate Sandra Fluke made the case that private health insurers should be required to pay for sex change operations. Fluke has become a vocal...",
+        "upvotes": 6,
+        "url": "http://moneymorning.com/ob/jim-rogers-its-going-to-get-really-bad-after-the-next-election/?utm_expid=5485297-8&utm_referrer=http%3A%2F%2Fpaid.outbrain.com%2Fnetwork%2Fredir%3Fkey%3D9b749afe0a597feb817e74899db1b05b%26rdid%3D368944946%26type%3DRPM_d%2Ft2_stg%26in-site%3Dfalse%26pc_id%3D9513251%26req_id%3D5fe41eb158e024076e97eb7084201492%26agent%3Dblog_JS_rec%26recMode%3D7%26reqType%3D1%26wid%3D106%26imgType%3D0%26adsCats%3D1708%2C-1%2C-1%26refPub%3D388%26prs%3Dtrue%26scp%3Dfalse%26fcapElementId%3D6439"
+      },
+      {
+        "preview": "“It’s revealing that Mr. Carney did not dispute the Government Accountability Institute’s actual numbers,” said Government Accountability Institute President Peter Schweizer in an interview with  News...",
+        "upvotes": 10,
+        "url": "http://www.chron.com/default/article/Abby-Waiter-s-use-of-makeup-shocks-diner-3845684.php"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Thanks for contacting us. We've received your submission. Democrats convened in Charlotte, NC, will double down on their claim that Bain Capital is really the Bain crime family. They will accuse Repub...",
+        "upvotes": 5,
+        "url": "http://hotair.com/archives/2011/08/24/flashback-obama-calls-adding-4-trillion-to-national-debt-unpatriotic/"
+      },
+      {
+        "preview": "TAMPA, Fla. — At the end of a hallway inside the convention center at the Republican National Convention last week, rising Republican star Ted Cruz took a seat in a folding chair and answered eight qu...",
+        "upvotes": 30,
+        "url": "http://www.nypost.com/p/news/opinion/opedcolumnists/look_who_parks_their_cash_at_bain_88KSQrw8BXciEidja2ZQXN#.UEIO3tQLHys.email"
+      },
+      {
+        "preview": "By Fiona Macrae for the Daily Mail Published: 09:19 EDT, 4 September 2012 | Updated: 19:10 EDT, 4 September 2012 84 View comments Hidden risks: Women who end their first pregnancy with abortion are 37...",
+        "upvotes": 3,
+        "url": "http://www.forbes.com/sites/peterferrara/2012/08/02/theres-no-mystery-to-slow-economic-growth-progressives-are-the-problem/"
+      }
+    ]
+  }
+}

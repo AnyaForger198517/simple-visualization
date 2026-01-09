@@ -1,0 +1,36 @@
+{
+  "month": "2012-06",
+  "total_articles": 108,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2012 US Presidential Election and National Politics",
+      "core_keywords": ["obama", "romney", "president", "republican", "campaign", "state", "government", "american"],
+      "importance_ratio": 39.81
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Justice Department and Fast and Furious Scandal",
+      "core_keywords": ["justice department", "holder", "fast and furious", "vote", "congress", "obama", "attorney general"],
+      "importance_ratio": 17.59
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Obama, Tax Policy and Occupy Movement",
+      "core_keywords": ["obama", "tax", "occupy movement", "clinton", "conservative", "government", "american"],
+      "importance_ratio": 8.33
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Obamacare and Supreme Court Ruling",
+      "core_keywords": ["obama", "health care", "law", "court", "federal", "state", "republican", "justice"],
+      "importance_ratio": 30.56
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Civil Political Debate and Communication",
+      "core_keywords": ["political debate", "agree", "point", "news", "language", "fact", "medium"],
+      "importance_ratio": 3.70
+    }
+  ]
+}

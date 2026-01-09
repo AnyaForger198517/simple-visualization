@@ -1,0 +1,285 @@
+{
+  "month": "2018-11",
+  "total_articles": 174,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "wa",
+        "democrat",
+        "republican",
+        "trump",
+        "party",
+        "ha",
+        "president",
+        "percent",
+        "election",
+        "black",
+        "tax",
+        "government",
+        "american",
+        "court"
+      ],
+      "topic_weights": [
+        372.25497571179955,
+        278.88299763951767,
+        272.22330210155826,
+        220.60183780148532,
+        197.85112106657542,
+        192.62002933853796,
+        184.6250157656193,
+        184.40706690448738,
+        165.83240929613726,
+        145.1379516961973,
+        134.89113684176255,
+        125.49716783760071,
+        118.32541729715116,
+        108.25181742922192,
+        106.34801554739946
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "vote",
+        "house",
+        "ballot",
+        "county",
+        "trump",
+        "white",
+        "election",
+        "race",
+        "president",
+        "medium",
+        "ha",
+        "right",
+        "news",
+        "student"
+      ],
+      "topic_weights": [
+        116.15005685241228,
+        103.03032395826408,
+        84.1787731277817,
+        72.19461066541922,
+        69.32991713253824,
+        68.33609954085341,
+        66.44693929149042,
+        65.12858147689336,
+        65.12024701520994,
+        52.48969967538273,
+        51.77760005749562,
+        47.203424801267936,
+        46.368193811687135,
+        45.562094241157105,
+        43.48151181163926
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "world",
+        "trump",
+        "country",
+        "migrant",
+        "climate",
+        "border",
+        "american",
+        "war",
+        "state",
+        "china",
+        "economic",
+        "mexico",
+        "government"
+      ],
+      "topic_weights": [
+        435.8885881890864,
+        408.7789456465336,
+        224.413654892178,
+        177.1384897306373,
+        170.14798680746824,
+        155.46942722896432,
+        155.3387301756894,
+        154.4695103154595,
+        139.8315060220539,
+        133.50941917930004,
+        129.595202179335,
+        125.19351464426285,
+        122.8559142669122,
+        114.61156227033523,
+        111.22348831795401
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "advertisement",
+        "wa",
+        "september",
+        "park",
+        "china",
+        "church",
+        "city",
+        "god",
+        "sep",
+        "life",
+        "ha",
+        "kansa",
+        "story",
+        "woman",
+        "college"
+      ],
+      "topic_weights": [
+        93.6096180741695,
+        92.18436889588838,
+        88.42168716523801,
+        87.48949699645101,
+        84.02405086809789,
+        76.02897562046634,
+        64.53656800608812,
+        62.602966613505544,
+        58.159299308732884,
+        54.53778844819078,
+        54.39722135451526,
+        54.16992291944919,
+        49.942630496518525,
+        49.190695652679466,
+        47.02641270213864
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "email",
+        "ha",
+        "family",
+        "corsi",
+        "house",
+        "pelosi",
+        "wa",
+        "stone",
+        "cortez",
+        "ocasio",
+        "committee",
+        "democratic",
+        "home",
+        "speaker",
+        "trump"
+      ],
+      "topic_weights": [
+        88.36210531476937,
+        86.35883439565833,
+        82.90073884971778,
+        70.22452334629105,
+        61.251939010068234,
+        53.47183685365404,
+        51.04580000821899,
+        49.21947284342775,
+        39.2959348996405,
+        39.24047865178905,
+        38.760997985373805,
+        37.30926151262769,
+        36.221494017223534,
+        35.53137620901326,
+        32.79424290240741
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 11,
+    "0": 62,
+    "2": 46,
+    "1": 42,
+    "4": 13
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "WASHINGTON – Steven Clifford, author and former CEO of the King Broadcasting Company and National Mobile Television, told PJM that the federal government should “prohibit straight white males from vot...",
+        "upvotes": 89,
+        "url": "https://pjmedia.com/election/former-tv-ceo-says-u-s-should-ban-straight-white-males-from-voting/"
+      },
+      {
+        "preview": "A Project Veritas video released Wednesday night deals a shocking blow to the campaign of Florida’s Democrat gubernatorial hopeful Andrew Gillum. Omar Smith, who is a staffer for Gillum, said that if ...",
+        "upvotes": 6,
+        "url": "https://www.breitbart.com/politics/2018/10/31/andrew-gillum-exposed-by-staffers-in-undercover-video-this-is-a-fed-up-state/"
+      },
+      {
+        "preview": "There are nearly 300,000 children of illegal aliens born in the United States every year, exceeding the total number of U.S. births in 48 states. New wide-ranging analysis by the Center for Immigratio...",
+        "upvotes": 80,
+        "url": "https://www.breitbart.com/politics/2018/10/31/study-300k-anchor-babies-born-every-year-exceeding-u-s-births-in-48-states/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Every product was carefully curated by an  editor. We may earn a commission from these links. Trump is pushing propaganda about immigrants, fueling anti-Semitic conspiracy theories, and failing to add...",
+        "upvotes": 0,
+        "url": "https://www.esquire.com/news-politics/a24509738/president-trump-conspiracy-theories-pittsburgh-shooter/"
+      },
+      {
+        "preview": "Thursday on the radio, LevinTV host Mark Levin shared the results of a Politico poll by Morning Consult released Thursday morning. The poll asked if the media or President Trump were dividing the coun...",
+        "upvotes": 52,
+        "url": "https://www.conservativereview.com/news/levin-the-american-people-know-whos-creating-division-and-its-not-the-president/"
+      },
+      {
+        "preview": "Take a look at the beta version of .com. We're not done yet! Your opinion can help us make it better. We use cookies to improve our service for you. You can find more information in our data protectio...",
+        "upvotes": 49,
+        "url": "https://www.dw.com/en/brazils-jair-bolsonaro-to-move-embassy-to-jerusalem/a-46126040"
+      }
+    ],
+    "2": [
+      {
+        "preview": "There are two facts about antisemitism in America. One is that the United States is the least antisemitic country in the history of civilization, aside from Israel itself. The other is that antisemiti...",
+        "upvotes": 1,
+        "url": "https://www.breitbart.com/2nd-amendment/2018/10/28/pollak-we-jews-have-the-second-amendment-we-should-use-it/"
+      },
+      {
+        "preview": "NEW YORK (CBSNewYork/AP) – Milo Yiannopoulos, an icon of the far-right, is pushing back after New York University postponed a scheduled appearance by the speaker. “New York City Mayor Bill de Blasio t...",
+        "upvotes": 8,
+        "url": "https://newyork.cbslocal.com/2018/10/31/milo-yiannopoulos-nyu-speech-postponed/"
+      },
+      {
+        "preview": "Three academics rewrote parts of Adolf Hitler’s book “Mein Kampf,” infused it with far-left buzzwords, and made it a major part of an intentionally absurd “research paper.” And a notable feminist-orie...",
+        "upvotes": 38,
+        "url": "https://www.theepochtimes.com/scholars-rewrite-of-mein-kampf-as-feminist-screed-accepted-by-academic-journal-for-publication_2678375.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement In 1972 “Hanoi” Jane Fonda applauded an NVA anti-aircraft gun crew during her trip to North Vietnam. These guns were used to shoot down American planes and contributed to the deaths of A...",
+        "upvotes": 8,
+        "url": "https://www.thegatewaypundit.com/2018/10/hanoi-jane-fonda-and-liberal-hollywood-elites-to-appear-on-democrat-voter-telethon/"
+      },
+      {
+        "preview": "Advertisement This frightening video was released this past weekend. Advertisement - story continues below C’mon, the polls close Tuesday night! #DemocratTsunami pic.twitter.com/iProRrjAgk — James Woo...",
+        "upvotes": 9,
+        "url": "https://www.thegatewaypundit.com/2018/11/huh-reuters-reporter-urges-us-government-to-give-each-caravan-member-1-million-and-save-the-us-175-million/"
+      },
+      {
+        "preview": "November 8, 2018 Venerable U.S. Supreme Court Justice Ruth Bader Ginsburg has been hospitalized after a serious fall in her office. The court made the announcement Thursday morning (Nov. 8). The 85-ye...",
+        "upvotes": 5,
+        "url": "http://metrovoicenews.com/ginsburg-falls-and-is-admitted-to-hospital/#.W-RPwGy227s.reddit"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 60,
+        "url": "https://www.axios.com/sean-hannity-rush-limbaugh-join-trump-missouri-rally-71178978-d62d-4495-94c9-c953cf6ca78d.html"
+      },
+      {
+        "preview": "President Donald Trump, right, encourages Rep. Jim Jordan, R-Ohio, left, to speak during a rally, Saturday, Aug. 4, 2018, in Lewis Center, Ohio. (John Minchillo, Associated Press) WASHINGTON, D. C. - ...",
+        "upvotes": 1,
+        "url": "https://www.cleveland.com/metro/index.ssf/2018/11/rep_jim_jordan_announces_hes_r.html"
+      },
+      {
+        "preview": "”This investigation points to an egregious breach of that trust that is an offense to readers and journalists alike,“ says executive editor Nancy Barnes Creative Commons The Houston Chronicle announce...",
+        "upvotes": 1,
+        "url": "https://www.thewrap.com/houston-chronicle-retracts-8-stories-after-fraud-investigation-we-apologize-to-our-readers/"
+      }
+    ]
+  }
+}

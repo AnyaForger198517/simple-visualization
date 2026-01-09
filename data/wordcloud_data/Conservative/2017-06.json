@@ -1,0 +1,36 @@
+{
+  "month": "2017-06",
+  "total_articles": 275,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Gun Policy and Paris Climate Agreement Withdrawal",
+      "core_keywords": ["gun", "trump", "paris", "climate", "republican", "agreement", "congress"],
+      "importance_ratio": 0.1491
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "FBI Investigation into Trump-Russia Links and Comey",
+      "core_keywords": ["comey", "trump", "fbi", "russia", "investigation", "clinton", "attorney"],
+      "importance_ratio": 0.1709
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump and Political Discourse on Social Media",
+      "core_keywords": ["trump", "political", "woman", "twitter", "conservative", "news", "medium"],
+      "importance_ratio": 0.4182
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Tax and Property Issues in New York",
+      "core_keywords": ["tax", "trump", "property", "new york", "muslim", "million", "estate"],
+      "importance_ratio": 0.0764
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Climate Policy and State Court Legal Issues",
+      "core_keywords": ["climate", "court", "state", "law", "science", "policy", "government"],
+      "importance_ratio": 0.1854
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2019-07",
+  "total_articles": 162,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Free Speech and Gun Rights for Conservative Groups",
+      "core_keywords": ["free speech", "gun", "conservative", "hate", "amendment", "twitter", "law"],
+      "importance_ratio": 0.0741
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Political Influence on American Government",
+      "core_keywords": ["trump", "government", "state", "republican", "american", "child", "twitter"],
+      "importance_ratio": 0.4074
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Supreme Court and Abortion Policy Debates",
+      "core_keywords": ["court", "supreme", "abortion", "trump", "democrat", "republican", "vote"],
+      "importance_ratio": 0.1173
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Kavanaugh Nomination and Constitutional Law Cases",
+      "core_keywords": ["kavanaugh", "court", "justice", "constitution", "law", "judge", "government"],
+      "importance_ratio": 0.0741
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Campaign and Russian Election Interference",
+      "core_keywords": ["trump", "russian", "election", "fbi", "clinton", "obama", "campaign"],
+      "importance_ratio": 0.3272
+    }
+  ]
+}

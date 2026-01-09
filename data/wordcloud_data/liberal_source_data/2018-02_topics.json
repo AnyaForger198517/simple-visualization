@@ -1,0 +1,285 @@
+{
+  "month": "2018-02",
+  "total_articles": 215,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "republican",
+        "ha",
+        "house",
+        "spending",
+        "election",
+        "cut",
+        "party",
+        "democrat",
+        "president",
+        "democratic",
+        "state",
+        "campaign",
+        "candidate"
+      ],
+      "topic_weights": [
+        481.2970200700137,
+        423.72774266456014,
+        352.57985166478835,
+        287.7735227867442,
+        257.86878466460513,
+        231.81414407104697,
+        213.16715089451995,
+        208.6913050108277,
+        193.0764283175018,
+        189.09994278256661,
+        179.86468653535616,
+        172.08679993097806,
+        167.53216670065584,
+        148.5981751627616,
+        142.63909940554566
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "court",
+        "state",
+        "black",
+        "american",
+        "liberal",
+        "political",
+        "justice",
+        "government",
+        "conservative",
+        "right",
+        "liberalism",
+        "case",
+        "life"
+      ],
+      "topic_weights": [
+        186.1480615798095,
+        182.46575482646315,
+        155.6356782856819,
+        152.24107826621687,
+        140.58483273010665,
+        138.20318483431026,
+        136.9059062372969,
+        122.03129584207949,
+        119.05447343264534,
+        111.43477997071804,
+        105.69420407626396,
+        102.08614421496722,
+        101.96829176363295,
+        90.63693561771126,
+        87.70194572936188
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "public",
+        "trump",
+        "wage",
+        "plan",
+        "worker",
+        "funding",
+        "percent",
+        "market",
+        "news",
+        "ha",
+        "infrastructure",
+        "labor",
+        "project",
+        "federal"
+      ],
+      "topic_weights": [
+        198.35460524554117,
+        192.0705838845474,
+        190.54880367995221,
+        176.3226912404135,
+        151.80896257411356,
+        116.4640146701798,
+        107.16564942758434,
+        104.01958700096505,
+        99.60674450797136,
+        98.4891676645829,
+        93.47563205369441,
+        91.63792185659729,
+        91.40820977565386,
+        91.16836548653497,
+        89.62109945010124
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "memo",
+        "wa",
+        "fbi",
+        "president",
+        "intelligence",
+        "russia",
+        "republican",
+        "house",
+        "committee",
+        "campaign",
+        "russian",
+        "ha",
+        "investigation",
+        "nunes"
+      ],
+      "topic_weights": [
+        342.02210480321423,
+        194.27291774106007,
+        153.35850894009917,
+        147.5501402599636,
+        144.41431469247038,
+        130.699180073504,
+        115.85347332866424,
+        107.91162475753836,
+        104.14433758492038,
+        87.80694561616552,
+        87.65147756456079,
+        86.9103446774361,
+        86.21998685496489,
+        84.83512337237205,
+        83.73738116955775
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "gun",
+        "ha",
+        "trump",
+        "school",
+        "shooting",
+        "state",
+        "nra",
+        "group",
+        "member",
+        "law",
+        "told",
+        "campaign",
+        "president",
+        "russian"
+      ],
+      "topic_weights": [
+        474.34128698680456,
+        449.6634681384592,
+        293.4520723760921,
+        224.95656011702079,
+        193.1407022506374,
+        190.20828871571152,
+        175.61853988643554,
+        169.1196781316316,
+        156.56954494151506,
+        149.19328614991377,
+        128.79563433328642,
+        118.32476555691099,
+        115.23619217513422,
+        114.61101167318873,
+        113.8808571360676
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 52,
+    "1": 38,
+    "3": 30,
+    "4": 73,
+    "2": 22
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Getty Joe Kennedy For someone who was relatively unknown until a couple years ago despite serving his third term in the House, Rep. Joe Kennedy III is now talked about practically everywhere in Democr...",
+        "upvotes": 1,
+        "url": "https://heavy.com/news/2018/01/is-joe-kennedy-iii-running-for-president-2020/"
+      },
+      {
+        "preview": "Jan. 31, 2018, at 6:00 AM By Perry Bacon Jr. Filed under The Trump Administration A year into his term, President Trump has not yet completely dismantled President Barack Obama’s signature achievement...",
+        "upvotes": 2,
+        "url": "https://fivethirtyeight.com/features/is-trump-delivering-on-his-promises-to-reverse-obamas-policies/"
+      },
+      {
+        "preview": "Advertisement Supported by By Paul Krugman A few days after President Trump was inaugurated, Benjamin Wittes, editor of the influential Lawfare blog, came up with a pithy summary of the new administra...",
+        "upvotes": 3,
+        "url": "https://www.nytimes.com/2018/02/01/opinion/trump-appointees-incompetent.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "JavaScript is disabled You need to enable JavaScript to use  The gang are down to two this week, as Rowan walks the streets of Brussels in search of shelter. We'll keep you updated on his deterioratin...",
+        "upvotes": 1,
+        "url": "https://soundcloud.com/connectedanddisaffected/s2e11-voodoo-economics-a-brief-history-of-neoliberalism-pt3"
+      },
+      {
+        "preview": "Advertisement Supported by By Linda Greenhouse This column is not — repeat, not — going to argue that our conservative chief justice, John G. Roberts Jr., has morphed into a moderate. With important d...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2018/02/01/opinion/chief-justice-roberts-middle.html"
+      },
+      {
+        "preview": "More results... The Cleveland Indians’ mascot, Chief Wahoo, is a racist caricature that they should have stopped using a long time ago, argues Jon Tayler of Sports Illustrated. Fans that want to keep ...",
+        "upvotes": 0,
+        "url": "https://www.theperspective.com/perspectives/sports/indians-right-change-mascot/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "by Justin Miller February 2, 2018 5:29 PM The first jobs report of 2018 is out, and overall the news is pretty good. President Donald Trump and congressional Republicans will certainly try to take cre...",
+        "upvotes": 0,
+        "url": "http://prospect.org/blog/tapped/proof-jobs-report-minimum-wage-hikes-work"
+      },
+      {
+        "preview": "This article is more than 1 year old The Dow Jones industrial average plunged 2.5 percent Friday — closing down 666 points — and suffered its worst week in two years as concerns over rising interest r...",
+        "upvotes": 0,
+        "url": "https://www.washingtonpost.com/business/capitalbusiness/2018/02/02/cc0949cc-084f-11e8-94e8-e8b8600ade23_story.html?utm_term=.0b2d113ccf5d"
+      },
+      {
+        "preview": "This article is more than 1 year old Monday is the 25th anniversary of the Then-President Bill Clinton signing the Family and Medical Leave Act, which mandated that employers with 50 or more employees...",
+        "upvotes": 3,
+        "url": "https://www.washingtonpost.com/blogs/plum-line/wp/2018/02/05/trump-says-he-wants-paid-family-leave-it-isnt-happening-anytime-soon/?utm_term=.28f5f7105706"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Discover Thomson  By Pete Schroeder 3 Min Read (This January 31 story corrects date of original court ruling in paragraph two) WASHINGTON () - A U.S. appeals court on Wednesday upheld the structure of...",
+        "upvotes": 2,
+        "url": "https://www.reuters.com/article/us-usa-cfpb-court/appeals-court-upholds-structure-of-u-s-consumer-bureau-idUSKBN1FK29S"
+      },
+      {
+        "preview": "The FBI has issued a rare public statement regarding the secret document Rep. Devin Nunes created with the Trump White House to try to derail the Mueller investigation into Trump's Russia ties. Now th...",
+        "upvotes": 59,
+        "url": "https://www.dailykos.com/stories/2018/1/31/1737609/-Paul-Ryan-has-a-choice-Stick-by-Nunes-or-by-his-oath-of-office"
+      },
+      {
+        "preview": "On Monday, the Republican majority of the House Intelligence Committee voted to release a memo produced by committee Chairman Devin Nunes, reportedly professing to show evidence that the FBI and the D...",
+        "upvotes": 1,
+        "url": "https://slate.com/news-and-politics/2018/01/democrats-should-counter-the-nunes-memo-by-spilling-classified-info-on-trump.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A Republican who formerly chaired the House Intelligence Committee said Thursday that President Donald Trump's legal team has reason to keep him from testifying before special counsel Robert Mueller i...",
+        "upvotes": 34,
+        "url": "https://www.rawstory.com/2018/02/ex-house-intel-chairman-says-trumps-lawyers-dont-want-testify-hell-say-something-hes-not-supposed/"
+      },
+      {
+        "preview": "Matt Gaetz says Charles Johnson, banned from Twitter for seeking help ‘taking out’ Black Lives Matter activist, is not white supremacist Last modified on Fri 2 Feb 2018 11.33 EST A Florida congressman...",
+        "upvotes": 291,
+        "url": "https://www.theguardian.com/us-news/2018/feb/01/state-of-the-union-matt-gaetz-charles-johnson?CMP=Share_iOSApp_Other"
+      },
+      {
+        "preview": "I’ve summed up the week in internet indignation so you can adjust your anger levels accordingly. Enjoy! Last modified on Sat 3 Feb 2018 03.02 EST The online outrage cycle comes at you fast. One minute...",
+        "upvotes": 3,
+        "url": "https://www.theguardian.com/commentisfree/2018/feb/03/showering-rat-video-trump-outrage-skincare-olive-garden?CMP=Share_iOSApp_Other"
+      }
+    ]
+  }
+}

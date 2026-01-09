@@ -1,0 +1,36 @@
+{
+  "month": "2020-03",
+  "total_articles": 141,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Economic Aid Packages and Corporate Finances",
+      "core_keywords": ["money", "company", "stock", "aid", "billion", "worker", "tax", "package"],
+      "importance_ratio": 0.0567
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Response to Coronavirus Pandemic",
+      "core_keywords": ["trump", "coronavirus", "pandemic", "president", "state", "government", "crisis", "emergency"],
+      "importance_ratio": 0.3262
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Public Health Measures for Coronavirus",
+      "core_keywords": ["coronavirus", "health", "mask", "covid", "virus", "state", "public", "outbreak"],
+      "importance_ratio": 0.2624
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Legal Investigations and Court Cases",
+      "core_keywords": ["court", "walmart", "attorney", "investigation", "judge", "case", "doj", "trump"],
+      "importance_ratio": 0.0851
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Democratic Presidential Primary Elections",
+      "core_keywords": ["biden", "sander", "warren", "campaign", "trump", "president", "democratic", "candidate"],
+      "importance_ratio": 0.2695
+    }
+  ]
+}

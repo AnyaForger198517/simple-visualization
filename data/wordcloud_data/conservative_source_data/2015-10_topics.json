@@ -1,0 +1,285 @@
+{
+  "month": "2015-10",
+  "total_articles": 393,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "gun",
+        "medium",
+        "ha",
+        "black",
+        "hillary",
+        "life",
+        "crime",
+        "clinton",
+        "police",
+        "news",
+        "control",
+        "american",
+        "government",
+        "research"
+      ],
+      "topic_weights": [
+        840.1447311663873,
+        540.3320435550507,
+        284.11604932185423,
+        273.2137514304078,
+        266.35091945776657,
+        257.8254133320719,
+        244.81788088068902,
+        182.1216656134794,
+        180.53865693194084,
+        178.31265740843642,
+        173.64438727753424,
+        169.3080528119902,
+        163.48896197778163,
+        162.4461858895683,
+        152.13463896412713
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "cruz",
+        "clinton",
+        "ha",
+        "marriage",
+        "campaign",
+        "president",
+        "rafael",
+        "house",
+        "son",
+        "debate",
+        "white",
+        "sex",
+        "ted",
+        "state"
+      ],
+      "topic_weights": [
+        1511.118005160457,
+        1315.2387855784323,
+        1240.5391048877254,
+        887.0360458687258,
+        736.5659350760352,
+        618.4893346133146,
+        537.077063851354,
+        535.2870061473394,
+        505.58807401258514,
+        472.1406829032845,
+        441.2935958455953,
+        440.3793992085837,
+        412.92004253544917,
+        408.5933970466859,
+        392.3430481492909
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "wa",
+        "democrat",
+        "income",
+        "american",
+        "work",
+        "ha",
+        "social",
+        "percent",
+        "university",
+        "science",
+        "school",
+        "world",
+        "america",
+        "example"
+      ],
+      "topic_weights": [
+        214.3469701446635,
+        212.67577704777634,
+        211.47337654039217,
+        207.91349039794326,
+        206.52076290034412,
+        203.46248499986407,
+        168.92586183389903,
+        163.50167129956458,
+        162.23486742961404,
+        161.51044873324358,
+        153.91724988109468,
+        150.89140686489793,
+        150.6353079796614,
+        123.07752067077679,
+        121.97332521606474
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "october",
+        "posted",
+        "trump",
+        "republican",
+        "ha",
+        "ryan",
+        "party",
+        "vote",
+        "bush",
+        "rubio",
+        "conservative",
+        "wa",
+        "candidate",
+        "house",
+        "country"
+      ],
+      "topic_weights": [
+        562.1364298117097,
+        537.5627427565685,
+        307.97137775105153,
+        258.90496132816924,
+        217.27564155784066,
+        185.0886574062298,
+        181.7499672007754,
+        169.73634748008655,
+        160.04985546122796,
+        156.00625590770704,
+        132.92413084153858,
+        132.5296645082173,
+        124.43912001820124,
+        116.84795145646915,
+        109.72793552171512
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "obama",
+        "law",
+        "ha",
+        "email",
+        "wa",
+        "national",
+        "government",
+        "president",
+        "official",
+        "american",
+        "rule",
+        "court",
+        "review",
+        "department"
+      ],
+      "topic_weights": [
+        544.3213628007123,
+        287.07807749935176,
+        281.0854529819395,
+        277.3840878933276,
+        228.13380979507858,
+        196.4216928918163,
+        181.04803534757272,
+        166.14423882059364,
+        161.2730762884388,
+        160.18747234274042,
+        151.3275741454556,
+        142.22592844882146,
+        139.24419010425396,
+        134.280844618543,
+        132.67158857484404
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 163,
+    "3": 63,
+    "4": 111,
+    "2": 38,
+    "1": 18
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 46,
+        "url": "http://dailysignal.com/2015/08/17/planned-parenthood-loses-government-funding-heres-map-health-clinics-take-place/"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Victim Ronald Bailey | 9.11.2015 1:30 PM In \"Microaggression and Moral Cultures,\" the UCLA* California State University, Los Angeles soc...",
+        "upvotes": 53,
+        "url": "https://reason.com/blog/2015/09/11/victimhood-culture-in-america-beyond-dig"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. Bad news for New Yorkers, thanks to ObamaCare: More than 100,000 policyholders just learned that their Health Republic insurance plans will be...",
+        "upvotes": 18,
+        "url": "http://nypost.com/2015/09/29/obamacares-latest-victims-100000-new-yorkers-and-taxpayers-everywhere/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Oh? Which one of Davis’s views does Francis not necessarily endorse? It’s clear enough that he opposes gay marriage, however delicately he might frame that opposition. Given what he said to reporters ...",
+        "upvotes": 0,
+        "url": "http://hotair.com/archives/2015/10/02/vatican-pope-franciss-meeting-with-kim-davis-was-not-intended-as-an-endorsement-of-her-views/"
+      },
+      {
+        "preview": "Clinton has consistently run late for recent events that are meant to energize Democratic volunteers and voters in key states. Clinton aides contend that sometimes the candidate runs late because of u...",
+        "upvotes": 44,
+        "url": "http://www.cnn.com/2015/10/02/politics/hillary-clinton-running-late-bernie-sanders/index.html"
+      },
+      {
+        "preview": "In yet another example of why Hillary Clinton probably should hire some new staffers, we stop by a speech that she gave in Washington, D.C. today which focused on gay rights. There were some pretty go...",
+        "upvotes": 101,
+        "url": "http://hotair.com/archives/2015/10/03/hillary-mocks-carson-cruz-over-lgbt-positions-she-previously-held/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "(.com) - A record 94,610,000 Americans were not in the American labor force last month -- an increase of 579,000 from August -- and the labor force participation rate reached its lowest point in 38 ye...",
+        "upvotes": 337,
+        "url": "http://www.cnsnews.com/news/article/susan-jones/record-94610000-americans-not-labor-force-participation-rate-lowest-38"
+      },
+      {
+        "preview": "The Colorado School of Mines has taken speech codes to a nonsensical level. More than that, they are making it up as they go along. Those are the only conclusions you can draw from a the events surrou...",
+        "upvotes": 4,
+        "url": "http://www.americanthinker.com/blog/2015/10/at_colorado_college_a_ban_on_the_words_god_jesus_and_lord.html#ixzz3nRsqVxK9"
+      },
+      {
+        "preview": "Because it has suddenly become relevant, thanks to Pope Francis' first Evangelii Gaudium, we thought we might revisit the trends in income inequality in the United States. In the chart below, we've pr...",
+        "upvotes": 0,
+        "url": "http://politicalcalculations.blogspot.com/2013/12/the-major-trends-in-us-income.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By Nikki Schwab, U.s. Political Reporter For .com Published: 12:27 EDT, 30 September 2015 | Updated: 18:33 EDT, 30 September 2015 44 View comments Donald Trump's tax plan is so friendly to low-income ...",
+        "upvotes": 360,
+        "url": "http://www.dailymail.co.uk/news/article-3255076/Jimmy-Kimmel-punks-Hillary-supporters-reading-parts-Trump-s-tax-plan-making-think-s-Clinton-s-Oh-God-hate-him.html#ixzz3nFQmYUKF"
+      },
+      {
+        "preview": "The funniest part of this story isn’t that they’re obsessing over an online predictions website. The funniest part is that Jeb’s standing in that market really might be the best argument they have lef...",
+        "upvotes": 2,
+        "url": "http://hotair.com/archives/2015/09/29/panic-in-bushworld-rubio-now-most-likely-gop-nominee-in-predictions-market/"
+      },
+      {
+        "preview": "In an appearance on “CNN Tonight” on Wednesday, 2016 Republican presidential front-runner Donald Trump once again was asked to respond to a question he received at a town hall in New Hampshire a few w...",
+        "upvotes": 27,
+        "url": "http://www.breitbart.com/video/2015/09/30/trump-certain-segment-of-muslims-are-a-problem/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Emails released on Wednesday show hackers sent infected emails to then-secretary of state in an attempted breach Russia-linked hackers tried to hack into Hillary Clinton's private email at least five ...",
+        "upvotes": 13,
+        "url": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11903343/Hackers-with-Russian-ties-tried-to-hack-into-Hillary-Clintons-email-five-times.html"
+      },
+      {
+        "preview": "Follow Us National Review The Bizarre Political Ideology of Netflix’s La Casa de Papel The Myth of the Red Pill ‘Thither You’ll Come, Late or Never’: The Richness of East O’ the Sun and West O’ the Mo...",
+        "upvotes": 32,
+        "url": "http://www.nationalreview.com/article/424860/New-York-City-Honors-Communist-Monster-Ethel-Rosenberg?utm_campaign=trueAnthem%3A+Trending+Content&utm_content=560cefbf04d30124e4000001&utm_medium=trueAnthem&utm_source=twitter"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 16,
+        "url": "http://www.nationalreview.com/corner/424902/obamas-stubborn-refusal-see-putin-what-he-jim-geraghty"
+      }
+    ]
+  }
+}

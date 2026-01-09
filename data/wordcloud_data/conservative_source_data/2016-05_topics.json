@@ -1,0 +1,280 @@
+{
+  "month": "2016-05",
+  "total_articles": 290,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "level",
+        "sea",
+        "rise",
+        "climate",
+        "ha",
+        "wa",
+        "data",
+        "global",
+        "change",
+        "coastal",
+        "rate",
+        "tide",
+        "ice",
+        "science",
+        "increase"
+      ],
+      "topic_weights": [
+        707.8720367480427,
+        677.6181271927214,
+        398.6580699367416,
+        396.6855011667421,
+        319.70269184582094,
+        302.07950597790636,
+        283.91947763229905,
+        281.44280555636624,
+        221.21812778205853,
+        189.16386581420505,
+        181.29430188062054,
+        176.49631101230344,
+        169.3574075245238,
+        150.35148603666477,
+        150.11788447819063
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "muslim",
+        "ha",
+        "post",
+        "christian",
+        "school",
+        "child",
+        "ryan",
+        "country",
+        "world",
+        "policy",
+        "news",
+        "woman",
+        "islam",
+        "family"
+      ],
+      "topic_weights": [
+        326.6515792537204,
+        249.74810267498697,
+        244.45609436752898,
+        194.6407793356663,
+        181.56711201020318,
+        159.28346396680294,
+        140.79644339167686,
+        139.77223026089112,
+        132.80968489550435,
+        128.43465539877621,
+        114.94729478501753,
+        105.16605206158873,
+        102.73355997596013,
+        98.29246282694778,
+        88.13680752057356
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "american",
+        "asian",
+        "republican",
+        "party",
+        "racial",
+        "study",
+        "vote",
+        "immigrant",
+        "white",
+        "likely",
+        "social",
+        "political",
+        "democratic",
+        "feeling",
+        "state"
+      ],
+      "topic_weights": [
+        1000.3112301511908,
+        862.2457489172051,
+        328.00674254355187,
+        319.7414363404156,
+        215.82639588653262,
+        180.91037838350616,
+        168.03917996935553,
+        165.8633851865024,
+        159.39611737533005,
+        155.38088418378004,
+        149.58653036855745,
+        144.32509283990564,
+        138.89795105422934,
+        136.031613049659,
+        134.63475124386684
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "student",
+        "war",
+        "obama",
+        "ha",
+        "state",
+        "police",
+        "president",
+        "woman",
+        "american",
+        "college",
+        "group",
+        "life",
+        "anti",
+        "facebook"
+      ],
+      "topic_weights": [
+        648.9186791493883,
+        305.0207100702495,
+        273.7303789234855,
+        248.29079909887705,
+        190.7956592920717,
+        176.48489126723794,
+        162.6943233089776,
+        155.872298519476,
+        154.9711549868853,
+        140.58698897658138,
+        124.24215713528102,
+        121.9545427358106,
+        119.56872005716905,
+        116.14357462875763,
+        115.75946854699694
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "ha",
+        "wa",
+        "republican",
+        "party",
+        "clinton",
+        "hillary",
+        "state",
+        "conservative",
+        "sander",
+        "candidate",
+        "campaign",
+        "donald",
+        "medium",
+        "election"
+      ],
+      "topic_weights": [
+        1442.8563084210582,
+        498.39084791448954,
+        457.07561219556214,
+        431.22256133163575,
+        381.3455298303881,
+        378.8100965740692,
+        271.8778828575913,
+        266.96656650803897,
+        254.73976697538228,
+        232.49182382229904,
+        224.5150281762713,
+        223.67208923727412,
+        221.6917918516819,
+        198.23621211863497,
+        194.34217490683798
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 148,
+    "3": 81,
+    "1": 52,
+    "0": 7,
+    "2": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "I’m going up the country, babe, don’t you wanna go? I’m going to some place where I’ve never been before. I’m going, I’m going where the water tastes like wine. Well, I’m going where the water tastes ...",
+        "upvotes": 3,
+        "url": "http://hotair.com/archives/2016/05/03/flee-the-cities-now-and-beat-the-rush/"
+      },
+      {
+        "preview": "The media is claiming Hillary Clinton apologized for saying “we’re going to put a lot of coal miners and coal companies out of business” during a town hall event in March. They are wrong. Mrs. Clinton...",
+        "upvotes": 6,
+        "url": "http://hotair.com/archives/2016/05/03/no-hillary-did-not-apologize-for-bragging-about-putting-coal-miners-out-of-business/"
+      },
+      {
+        "preview": "Rabbit hutches are simple and very good accommodation for these furry little creatures.. If you’re a sort of person who loves animals and fancies keeping some of the less aggressive ones as pets in th...",
+        "upvotes": 0,
+        "url": "http://garyjohnson2016.com"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Indeed. I look at the annual May Day festivities hostilities in places like Seattle, and think \"If you are a private citizen (ch less a cop) and someone throws a brick at you, or swings a club at you,...",
+        "upvotes": 8,
+        "url": "http://ace.mu.nu/archives/363176.php"
+      },
+      {
+        "preview": "Victimhood is profitable. On the internet, it can get you thousands of dollars in crowdfunding donations. In the media, it can win you national prominence and a cooing audience of credulous sycophants...",
+        "upvotes": 10,
+        "url": "http://www.breitbart.com/milo/2016/05/02/hate-crime-hoaxes-growing-epidemic/"
+      },
+      {
+        "preview": "also claimed that climate change is “a real, imminent threat”. Nice impartiality there. And they linked a climate change quiz at the top of the article titled “Is your opinion informed by science”. No...",
+        "upvotes": 2,
+        "url": "https://wattsupwiththat.com/2016/05/03/the-climate-hustle-movie-packs-em-in/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Senators are expected to vote tomorrow on a bill that would raise the minimum wage from $7.25 to $10.10, a well-intentioned though economically irrational policy change that few Democrats realize has ...",
+        "upvotes": 8,
+        "url": "http://www.forbes.com/sites/carriesheffield/2014/04/29/on-the-historically-racist-motivations-behind-minimum-wage/#575115ef1957"
+      },
+      {
+        "preview": "lf were randomly subjected to a seemingly benign racial microaggression like Trump’s clueless remarks to Choe before being asked to fill out a political survey. The white assistant was instructed to t...",
+        "upvotes": 7,
+        "url": "http://observer.com/2016/02/why-asian-americans-dont-vote-republican/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "A Hindu tailor has been hacked to death in a district of central Bangladesh, police say, the latest of a number of Islamist killings in the country. Nikhil Joarder, who was in his early 50s, was attac...",
+        "upvotes": 14,
+        "url": "http://www.bbc.com/news/world-asia-36177810"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 66,
+        "url": "http://www.newsbusters.org/blogs/latino/daniel-garza/2016/05/02/fusion-writer-im-afraid-my-child-will-be-white?utm_source=facebook&utm_medium=marketing&utm_campaign=b-fusion-white"
+      },
+      {
+        "preview": "Advertisement Supported by By Kamel Daoud ORAN, Algeria — For a few years now, families of migrants from sub-Saharan Africa have been gathering at major street crossings in the large cities of norther...",
+        "upvotes": 23,
+        "url": "https://www.nytimes.com/2016/05/03/opinion/kamel-daoud-black-in-algeria-then-youd-better-be-muslim.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Apr. 29, 2016, at 2:52 PM By Nate Silver Filed under 2016 Election AJ Mast / AP Indiana Gov. Mike Pence endorsed Ted Cruz on Friday, which may not be enough to help Cruz win Indiana, where he currentl...",
+        "upvotes": 2,
+        "url": "http://fivethirtyeight.com/features/republicans-in-competitive-races-have-shunned-trump/"
+      },
+      {
+        "preview": "Advertisement Bernie Sanders always says he wants big money out of politics but he has a funny way of showing it. He has outspent every single candidate so far in 2016. The Washington Post reports: Sa...",
+        "upvotes": 49,
+        "url": "http://www.progressivestoday.com/man-wants-big-money-politics-spent-anyone-2016/"
+      },
+      {
+        "preview": "In Virginia, NBC affiliate WWBT ran an investigation into the local KKK after fliers were circulated in the area recruiting new members. As part of their coverage, the station interviewed the “Imperia...",
+        "upvotes": 1,
+        "url": "http://www.redstate.com/absentee/2016/04/30/kkk-leader-hates-ted-cruz-endorses-donald-trump-believes-believe-in./"
+      }
+    ]
+  }
+}

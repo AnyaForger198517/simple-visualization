@@ -1,0 +1,36 @@
+{
+  "month": "2020-10",
+  "total_articles": 171,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump vs Biden Presidential Campaign and Policies",
+      "core_keywords": ["trump", "biden", "president", "administration", "covid", "tax", "government", "campaign"],
+      "importance_ratio": 0.7018
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Supreme Court Nomination and Election Fairness",
+      "core_keywords": ["court", "barrett", "senate", "republican", "democrat", "justice", "election", "vote"],
+      "importance_ratio": 0.1579
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "State-Level Election Races and Campaign Funding",
+      "core_keywords": ["state", "candidate", "senate", "house", "campaign", "money", "voter", "win"],
+      "importance_ratio": 0.0175
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Economic Data and Unemployment Benefits",
+      "core_keywords": ["economic", "job", "unemployment", "benefit", "mcconnell", "million", "data", "state"],
+      "importance_ratio": 0.0175
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Election Ballot and Voter Fraud Concerns",
+      "core_keywords": ["election", "ballot", "voter", "trump", "mail", "voting", "state", "russian"],
+      "importance_ratio": 0.1053
+    }
+  ]
+}

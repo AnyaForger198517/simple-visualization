@@ -1,0 +1,36 @@
+{
+  "month": "2012-08",
+  "total_articles": 118,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Tax Policy and Government Regulation",
+      "core_keywords": ["tax", "government", "law", "business", "state", "million"],
+      "importance_ratio": 0.1271
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Republican Party and 2012 Election Campaign",
+      "core_keywords": ["romney", "ryan", "republican", "obama", "delegate", "voter", "party"],
+      "importance_ratio": 0.2797
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Obama Presidency and Racial Politics",
+      "core_keywords": ["obama", "president", "race", "romney", "campaign", "america", "black", "white"],
+      "importance_ratio": 0.2373
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Legal and Social Issues in Governance",
+      "core_keywords": ["government", "law", "court", "freedom", "advertisement", "story"],
+      "importance_ratio": 0.1441
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Election Polls and Immigration Policy",
+      "core_keywords": ["obama", "republican", "immigrant", "percent", "jobs", "amnesty", "state"],
+      "importance_ratio": 0.2119
+    }
+  ]
+}

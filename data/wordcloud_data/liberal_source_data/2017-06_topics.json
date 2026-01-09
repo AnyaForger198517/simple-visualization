@@ -1,0 +1,285 @@
+{
+  "month": "2017-06",
+  "total_articles": 272,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "ha",
+        "political",
+        "wa",
+        "news",
+        "world",
+        "common",
+        "social",
+        "support",
+        "american",
+        "politics",
+        "check",
+        "medium",
+        "point",
+        "america"
+      ],
+      "topic_weights": [
+        455.54537171384476,
+        232.3177248337922,
+        218.0615310511527,
+        188.04604717054949,
+        141.9621922446314,
+        140.72900106571873,
+        136.39430211328985,
+        120.7656698066188,
+        116.59405871488899,
+        110.68831730104804,
+        109.43467854377228,
+        106.33579771357152,
+        104.74191497968461,
+        103.37786287670943,
+        101.61098084011144
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wage",
+        "minimum",
+        "worker",
+        "percent",
+        "care",
+        "health",
+        "increase",
+        "pay",
+        "labor",
+        "employer",
+        "raise",
+        "insurance",
+        "state",
+        "policy",
+        "rate"
+      ],
+      "topic_weights": [
+        582.2597536602774,
+        343.33942439189656,
+        304.5906482345194,
+        210.46501152783514,
+        190.43914750278165,
+        189.2823100881416,
+        132.77450083651223,
+        118.83980896377426,
+        115.0299662045169,
+        112.12507051941853,
+        109.91047699731907,
+        108.85037712386344,
+        108.09354558832965,
+        107.03302531540403,
+        105.5990642113317
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "ha",
+        "wa",
+        "house",
+        "president",
+        "republican",
+        "care",
+        "health",
+        "senate",
+        "report",
+        "state",
+        "russia",
+        "white",
+        "russian",
+        "intelligence"
+      ],
+      "topic_weights": [
+        1154.930288358195,
+        786.8260206216288,
+        754.2064537999235,
+        733.8286199158917,
+        628.9952600095623,
+        577.9793807186084,
+        514.5325190363321,
+        478.9769679198562,
+        476.3268394401261,
+        411.65430798000614,
+        397.63765554824244,
+        369.6448235795056,
+        368.71933789417903,
+        354.7917460966813,
+        293.35169493765335
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "government",
+        "woman",
+        "american",
+        "law",
+        "school",
+        "country",
+        "public",
+        "student",
+        "class",
+        "right",
+        "free",
+        "group"
+      ],
+      "topic_weights": [
+        598.4198020272446,
+        278.2312488107614,
+        240.591253121161,
+        163.66857652844755,
+        145.68741342173232,
+        144.7271914004956,
+        139.43011272982085,
+        123.36325912186088,
+        111.15852713564712,
+        111.11059839918461,
+        108.69543305572347,
+        106.26374332408894,
+        103.53108065338824,
+        102.52453657931665,
+        102.02426196917392
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "election",
+        "democrat",
+        "party",
+        "district",
+        "voter",
+        "democratic",
+        "trump",
+        "republican",
+        "clinton",
+        "special",
+        "wa",
+        "candidate",
+        "state",
+        "ha",
+        "sander"
+      ],
+      "topic_weights": [
+        572.748827526096,
+        491.4368463464311,
+        432.71351109177203,
+        398.8938541099526,
+        393.67649977484456,
+        382.516944077808,
+        330.84554103665073,
+        325.0508705750899,
+        258.87553378657844,
+        240.51822467137006,
+        239.80329625186616,
+        233.76538485046385,
+        211.64238109508474,
+        203.92520145930936,
+        196.42122944981108
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 90,
+    "0": 49,
+    "1": 15,
+    "4": 39,
+    "2": 79
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. Sean Hannity speaking w...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/views/2017/05/31/conspiracy-theories-and-right-wing-ecosystem"
+      },
+      {
+        "preview": "For Take Action Now Law-enforcement and intelligence agencies have been the other big source of leaks. They’re not all right-wingers, of course, and their motives for leaking include, depending on how...",
+        "upvotes": 1,
+        "url": "https://www.thenation.com/article/conservatives-complain-republicans-liberal-bias/"
+      },
+      {
+        "preview": "Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else. Thank you. Please check your inbox to confirm. Jessica Yarvin Jessica Yarvin Leave your feedback Sen. A...",
+        "upvotes": 323,
+        "url": "http://www.pbs.org/newshour/rundown/u-s-withdrawal-paris-climate-deal-disaster-sen-franken-says/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Report | Unions and Labor Standards Report • By Celine McNicholas and Marni von Wilpert • May 31, 2017 Download PDF Press release Over the last two years, Republicans in Congress have sought unsuccess...",
+        "upvotes": 5,
+        "url": "http://www.epi.org/publication/the-joint-employer-standard-and-the-national-labor-relations-board-what-is-at-stake-for-workers/"
+      },
+      {
+        "preview": " each state’s workforce that would be affected if the federal minimum wage were raised to $15 by 2024. Because California will already have a state minimum wage of $15 in 2023, no California workers w...",
+        "upvotes": 1,
+        "url": "http://www.epi.org/publication/15-by-2024-would-lift-wages-for-41-million/"
+      },
+      {
+        "preview": "Advertisement Supported by By Vindu Goel SAN FRANCISCO — When a withered Yahoo is absorbed by Verizon Communications in the next week or so, it will be the end of an era for one of the pioneering name...",
+        "upvotes": 4,
+        "url": "https://www.nytimes.com/2017/06/03/technology/yahoo-marissa-mayer-compensation.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "This article is more than 1 year old The Post reports: “The Trump administration is moving toward handing back to Russia two diplomatic compounds, near New York City and on Maryland’s Eastern Shore, t...",
+        "upvotes": 31,
+        "url": "https://www.washingtonpost.com/blogs/right-turn/wp/2017/06/01/what-is-trumps-possible-justification-for-this-gift-to-putin/?tid=hybrid_experimentrandom_1_na"
+      },
+      {
+        "preview": "SEARCH President Donald Trump delivered on his promise to scrap the Paris climate deal while chief strategist Steve Bannon looked on approvingly from the shade. Senior Political Reporter Reporter The ...",
+        "upvotes": 137,
+        "url": "http://www.thedailybeast.com/paris-climate-deals-demise-means-bannon-winsand-the-planet-loses"
+      },
+      {
+        "preview": "Filed under: Critics say new questionnaire may deter students and researchers from coming to the US US visa applicants may be required to disclose any social media handles, email addresses, and phone ...",
+        "upvotes": 1,
+        "url": "https://www.google.com/amp/s/www.theverge.com/platform/amp/2017/6/2/15728222/trump-extreme-vetting-social-media-visa-questionnaire"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Former Oklahoma Sen. Tom Coburn (R), a frequent denier of climate science, on Wednesday said that the Paris Climate Agreement was created by \"emotional\" liberals. Following the news that President Don...",
+        "upvotes": 6,
+        "url": "http://www.rawstory.com/2017/05/ex-gop-sen-tom-coburn-up-to-75-percent-of-scientists-think-climate-change-is-a-hoax/"
+      },
+      {
+        "preview": "Social media posts from your local merchants 'We're in a dire state, but I am seeing some signs that this is going to level out in the next week.' Inside the intensive care unit at OHSU last month, nu...",
+        "upvotes": 4,
+        "url": "http://cni.pmgnews.com/pt/361000"
+      },
+      {
+        "preview": "Donald Trump spent years lambasting the administration of President Obama for refusing to say “radical Islamic terrorism” and other variants of that phrase. One of the pillars of his campaign was that...",
+        "upvotes": 1,
+        "url": "http://likethedew.com/2017/05/23/president-coward/#.WS-u04EpCEc"
+      }
+    ],
+    "4": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Former Vice President Joe BidenJoe BidenKentucky state lawmakers vote to scrap school mask mandate Arkansas governor pushes back against Biden's vacc...",
+        "upvotes": 6,
+        "url": "http://thehill.com/homenews/news/335852-biden-launching-pac-report"
+      },
+      {
+        "preview": "Edited by Larry J. Sabato, Kyle Kondik, and J. Miles Coleman In the immediate aftermath of the 2016 presidential election, many observers understandably focused on the numerous places that swung from ...",
+        "upvotes": 3,
+        "url": "http://www.centerforpolitics.org/crystalball/articles/just-how-many-obama-2012-trump-2016-voters-were-there/"
+      },
+      {
+        "preview": "Quick Links Act Now › Led by the oil and gas industry, this sector regularly pumps the vast majority of its campaign contributions into Republican coffers. Even as other traditionally GOP-inclined ind...",
+        "upvotes": 30,
+        "url": "https://www.opensecrets.org/industries/indus.php?ind=E01"
+      }
+    ]
+  }
+}

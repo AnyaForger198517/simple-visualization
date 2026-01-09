@@ -1,0 +1,268 @@
+{
+  "month": "2019-12",
+  "total_articles": 91,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "president",
+        "impeachment",
+        "house",
+        "wa",
+        "ha",
+        "republican",
+        "democrat",
+        "senate",
+        "biden",
+        "state",
+        "court",
+        "vote",
+        "party",
+        "pelosi"
+      ],
+      "topic_weights": [
+        406.54961477504133,
+        232.6204390307076,
+        203.3706025708978,
+        203.24032058120008,
+        185.50587389948348,
+        177.0881073781454,
+        171.41080484478735,
+        150.4395450901823,
+        130.05240439449787,
+        108.3339923054116,
+        102.78952234338462,
+        99.37627678946896,
+        98.53991692680195,
+        93.03089202775257,
+        76.84685166427337
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "plan",
+        "security",
+        "social",
+        "retirement",
+        "tax",
+        "benefit",
+        "ha",
+        "worker",
+        "cost",
+        "public",
+        "state",
+        "employer",
+        "policy",
+        "pension",
+        "economic"
+      ],
+      "topic_weights": [
+        198.5697641506011,
+        146.75752160225807,
+        142.17263710159642,
+        130.480878087084,
+        126.80073173007207,
+        106.58029040875556,
+        103.81767282231587,
+        98.19670844199318,
+        95.4677224332706,
+        92.56196164531238,
+        86.12132508738814,
+        84.9037837457555,
+        73.09071204421343,
+        68.23377432829325,
+        67.08922728416769
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "barr",
+        "wa",
+        "trump",
+        "president",
+        "investigation",
+        "ha",
+        "mueller",
+        "justice",
+        "department",
+        "attorney",
+        "law",
+        "report",
+        "fbi",
+        "general",
+        "court"
+      ],
+      "topic_weights": [
+        153.3498605255699,
+        88.75282239844583,
+        81.67758903685997,
+        53.24157352819971,
+        49.392017492437354,
+        42.49101769227245,
+        42.363574747341616,
+        39.52295186957716,
+        33.90931078458077,
+        31.938352031350643,
+        30.245508223064398,
+        25.715121546929318,
+        25.356326639363427,
+        24.152616787137973,
+        23.6733469525627
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "political",
+        "american",
+        "group",
+        "war",
+        "country",
+        "member",
+        "election",
+        "state",
+        "world",
+        "post",
+        "campaign"
+      ],
+      "topic_weights": [
+        226.67105732920498,
+        197.1114717035948,
+        116.6797505772448,
+        65.60204379651498,
+        64.61104028224582,
+        49.01099223289953,
+        46.97044166305593,
+        45.90608643716262,
+        44.00121707251904,
+        39.823220097685855,
+        36.27805504239383,
+        35.764462353194844,
+        35.5455297404672,
+        35.385580687591556,
+        33.728677688032334
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "sander",
+        "wa",
+        "ha",
+        "tax",
+        "social",
+        "buttigieg",
+        "union",
+        "plan",
+        "support",
+        "trump",
+        "american",
+        "democratic",
+        "worker",
+        "supporter",
+        "wing"
+      ],
+      "topic_weights": [
+        0.7395218751965444,
+        0.5876912676821608,
+        0.5713435010355082,
+        0.5025430578671984,
+        0.4986424196806557,
+        0.457688233943053,
+        0.4475593930940587,
+        0.4424077717151979,
+        0.4413708648610569,
+        0.4320400003273216,
+        0.4309678216573765,
+        0.4188464814989603,
+        0.4177776242776655,
+        0.4121565904280671,
+        0.40759810921936945
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 43,
+    "1": 14,
+    "2": 4,
+    "3": 30
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "A majority of Republicans say President Trump is a better leader than former President Lincoln, according to this week's Economist/YouGov weekly tracking poll. Fifty-three percent of Republicans said ...",
+        "upvotes": 5,
+        "url": "https://thehill-com.cdn.ampproject.org/v/s/thehill.com/homenews/administration/472460-poll-majority-of-republicans-say-trump-better-president-than-lincoln?amp_js_v=a2&amp_gsa=1&amp&usqp=mq331AQCKAE%3D#aoh=15751390787011&csi=1&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fthehill.com%2Fhomenews%2Fadministration%2F472460-poll-majority-of-republicans-say-trump-better-president-than-lincoln"
+      },
+      {
+        "preview": "Lev Parnas, an associate of Rudy Giuliani, says he helped arrange meetings between Nunes and Ukrainians. Ed MacMahon, a lawyer for Rudy Giuliani associate Lev Parnas, who faces charges of campaign fin...",
+        "upvotes": 412,
+        "url": "https://www.vox.com/policy-and-politics/2019/11/23/20979143/giuliani-lev-parnas-devin-nunes-biden-investigation-impeachment-inquiry"
+      },
+      {
+        "preview": "Trump called Democratic Rep. Adam Schiff \"deranged\" and \"a very sick man.\" House Democrats expected to released impeachment report A day before the next public hearing in the impeachment inquiry into ...",
+        "upvotes": 4,
+        "url": "https://abcnews.go.com/Politics/trump-pompeo-mulvaney-testify-senate-impeachment-trial/story?id=67463857&cid=clicksource_77_null_articleroll_hed"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. A cosmopolitan elite is eroding the integrity of America’s borders and the so...",
+        "upvotes": 1,
+        "url": "http://nymag.com/intelligencer/2019/12/if-you-cant-have-wealth-taxes-you-dont-have-a-country.html"
+      },
+      {
+        "preview": "This article is more than 1 year old Lobbyists either helped draft or made extensive revisions to opinion columns published by three state lawmakers in a way that suggested Medicare-for-all and other ...",
+        "upvotes": 4,
+        "url": "https://www.washingtonpost.com/business/2019/12/02/state-lawmakers-acknowledge-lobbyists-helped-craft-their-op-eds-attacking-medicare-for-all/"
+      },
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » Today, the U.S. Department of...",
+        "upvotes": 4,
+        "url": "https://www.brookings.edu/blog/up-front/2019/12/04/new-snap-rule-change-just-made-it-harder-to-combat-future-recessions/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Roughly two years after her anti-Donald Trump text messages were released to Congress and she became a public target of the President’s ire, Lisa Page said it’s time to break her silence. The embattle...",
+        "upvotes": 163,
+        "url": "https://www.cnn.com/2019/12/02/politics/lisa-page-interview/index.html"
+      },
+      {
+        "preview": " whistle-blower’s complaint, the OLC issued an opinion that said it could be withheld from Congress on the grounds that the applicable law did not cover presidential misconduct. The department also de...",
+        "upvotes": 2,
+        "url": "http://nymag.com/intelligencer/2019/12/attorney-general-william-barr-donald-trump-impeachment-hearings.html"
+      },
+      {
+        "preview": "President Donald Trump has continued to use a cellphone that U.S. officials warn may be vulnerable to hacking by Russian intelligence, according to a report Thursday in The Washington Post. The House ...",
+        "upvotes": 2,
+        "url": "https://www.huffpost.com/entry/trump-unsecure-cellphone-personal-device-use_n_5de9df80e4b0913e6f8de8d3?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuaHVmZnBvc3QuY29tL25ld3Mv&guce_referrer_sig=AQAAAK2A7PJkuWgKT-9Jy8RRqiB5OF4rGe9SNrYsX1PblzF-YgzeFg6mPMPEsBWxbkc14oLrl0a-ej3_GzAtdl_ZcGxM1-Xzm2d0YDmwKCQk-ixo7orSJc43g3lgjy-fXYR3cJDO4AFn9yU-HSc1mJRqREwnflzN1qhNO_5UIyiv3owa"
+      }
+    ],
+    "3": [
+      {
+        "preview": "You will love this site if you: (1) want accurate national election predictions, (2) are a political junkie, (3) don't have the time to track the campaigns, and/or (4) crave an informed overview of wh...",
+        "upvotes": 1,
+        "url": "http://www.borntorunthenumbers.com/2019/12/btrtn-if-this-is-not-impeachable.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved President TrumpDonald TrumpThe Memo: Biden comes out punching on COVID-19 Ex-Kansas state rep charged with fraud of more than 0K in COVID-19 relief m...",
+        "upvotes": 7,
+        "url": "https://thehill.com/homenews/administration/472768-trump-macron-hold-tense-meeting-would-you-like-some-nice-isis"
+      },
+      {
+        "preview": "When Donald Trump was running his horrifying 2016 campaign for president, it was still quite difficult to imagine what an administration with the bloviating reality TV star at its helm would look like...",
+        "upvotes": 5,
+        "url": "https://www.alternet.org/2019/12/my-darkest-nightmare-about-trump-from-2016-is-coming-true-its-worse-than-i-feared/"
+      }
+    ],
+    "4": []
+  }
+}

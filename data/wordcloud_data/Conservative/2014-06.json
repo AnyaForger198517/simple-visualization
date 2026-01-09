@@ -1,0 +1,36 @@
+{
+  "month": "2014-06",
+  "total_articles": 117,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Election competition and partisan power",
+      "core_keywords": ["republican", "democrat", "election", "candidate", "senate", "cochran"],
+      "importance_ratio": 7.69
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Federal administration and IRS issues",
+      "core_keywords": ["obama", "president", "irs", "government", "congress", "tax"],
+      "importance_ratio": 44.44
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gender differences and Iraq affairs",
+      "core_keywords": ["woman", "men", "gender", "iraq", "science", "test"],
+      "importance_ratio": 5.13
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Bergdahl case and border issues",
+      "core_keywords": ["bergdahl", "taliban", "border", "obama", "prisoner", "chicago"],
+      "importance_ratio": 20.51
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Employment and economic policy",
+      "core_keywords": ["job", "work", "percent", "school", "irs", "student"],
+      "importance_ratio": 22.22
+    }
+  ]
+}

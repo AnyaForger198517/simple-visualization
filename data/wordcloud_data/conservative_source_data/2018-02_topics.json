@@ -1,0 +1,285 @@
+{
+  "month": "2018-02",
+  "total_articles": 219,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "immigrant",
+        "cnn",
+        "black",
+        "child",
+        "family",
+        "migration",
+        "journalist",
+        "country",
+        "city",
+        "email",
+        "question",
+        "number",
+        "legal"
+      ],
+      "topic_weights": [
+        203.21306786350212,
+        145.75668868034253,
+        98.76833703311279,
+        86.2442562550817,
+        82.31650847644909,
+        76.40541912661307,
+        76.07558901397677,
+        75.93239574336741,
+        73.31258220896382,
+        71.14401741329986,
+        68.46294082959874,
+        57.141326111340994,
+        56.8965680135306,
+        56.318715546050214,
+        55.77396903265881
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "school",
+        "ha",
+        "law",
+        "sheriff",
+        "thomas",
+        "press",
+        "cruz",
+        "student",
+        "state",
+        "court",
+        "office",
+        "israel",
+        "county",
+        "shooting"
+      ],
+      "topic_weights": [
+        366.78335577398474,
+        241.3491157274762,
+        144.96867038500056,
+        121.88283066380994,
+        119.35827787021145,
+        118.10561327724363,
+        116.50573719910237,
+        113.85333638123615,
+        109.68522839422447,
+        97.21502407699309,
+        96.51741562813525,
+        90.8159965656739,
+        88.6485695077732,
+        83.64669894586,
+        79.7658432469769
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "republican",
+        "ha",
+        "house",
+        "state",
+        "democrat",
+        "email",
+        "enter",
+        "party",
+        "tax",
+        "senate",
+        "woman",
+        "white"
+      ],
+      "topic_weights": [
+        239.60775535230718,
+        180.52283902226418,
+        169.0994505396817,
+        158.6745848876113,
+        136.01487771279082,
+        135.00174336619386,
+        121.1932779927162,
+        120.13305252204412,
+        97.27142640830256,
+        90.87036624155876,
+        87.76283441320578,
+        87.60397061561889,
+        83.45735394283344,
+        82.89540306403715,
+        81.07364724872366
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "gun",
+        "wa",
+        "nra",
+        "ha",
+        "school",
+        "social",
+        "state",
+        "power",
+        "control",
+        "american",
+        "mentally",
+        "policy",
+        "child",
+        "government",
+        "obama"
+      ],
+      "topic_weights": [
+        249.84101594543657,
+        178.66914678570004,
+        130.82852957529423,
+        109.99886388649512,
+        97.23226048706492,
+        83.06175330899713,
+        81.5184132328106,
+        81.30005006117779,
+        70.31785517855218,
+        70.00863075040994,
+        63.604601560685474,
+        63.52154079826089,
+        63.46397736698691,
+        62.311759076375694,
+        58.56846338242465
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "fbi",
+        "russian",
+        "memo",
+        "ha",
+        "american",
+        "election",
+        "russia",
+        "netanyahu",
+        "information",
+        "campaign",
+        "committee",
+        "intelligence",
+        "foreign"
+      ],
+      "topic_weights": [
+        288.1564088757174,
+        219.40695939409412,
+        217.58693959557462,
+        170.5462390736758,
+        147.61095412810565,
+        132.0932917012137,
+        129.33470706541948,
+        125.5943552275154,
+        116.27700122796055,
+        109.25880120959823,
+        102.97990164914856,
+        99.53627557883036,
+        98.92383037760122,
+        97.95365623821037,
+        89.71141654269653
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 54,
+    "0": 49,
+    "4": 45,
+    "1": 42,
+    "3": 29
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Follow Us National Review The Bizarre Political Ideology of Netflix’s La Casa de Papel The Myth of the Red Pill ‘Thither You’ll Come, Late or Never’: The Richness of East O’ the Sun and West O’ the Mo...",
+        "upvotes": 5,
+        "url": "http://www.nationalreview.com/article/455977/john-ford-cinema-left-right-leaning-politics"
+      },
+      {
+        "preview": "YouTube CEO Susan Wojcicki and Google CEO Sundar Pichai recently spoke at an MSNBC town hall where their comments echoed much of the sentiment expressed in the viewpoint diversity memo published by fi...",
+        "upvotes": 120,
+        "url": "http://www.breitbart.com/tech/2018/01/31/youtube-and-google-ceos-accidentally-agree-with-james-damore-memo-at-town-hall/"
+      },
+      {
+        "preview": "Reply of the Zaporozhian Cossacks, by Ilya Repin. The Cossacks reject the Ottomans demand to submit. As of 2016, there were over 25 million Muslims estimated to be living in Europe. Spread over the en...",
+        "upvotes": 25,
+        "url": "http://clovisinstitute.org/europes-growing-muslim-population/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Ronald Radosh The death of Tom Hayden last Sunday at the age of 76 produced obituaries and tributes in scores of newspapers throughout the United States, as well as notices of his passing on major net...",
+        "upvotes": 1,
+        "url": "https://www.hudson.org/research/12954-the-truth-about-the-late-tom-hayden-whitewashed-by-the-msm"
+      },
+      {
+        "preview": "Advertisement Armed gunman who killed five in the Cascade Mall, Burlington, Washington CORRECTION: This story, reported by  and other news media including KING-TV in Seattle, originally indicated susp...",
+        "upvotes": 570,
+        "url": "http://mobile.wnd.com/2016/09/mall-shooter-not-a-u-s-citizen-voted-in-3-elections/"
+      },
+      {
+        "preview": "Advertisement The mayor of Stockton, California, is leading an experiment with \"universal basic income,\" which is set to start by giving low-income residents $500 a month, no questions asked. Mayor Mi...",
+        "upvotes": 134,
+        "url": "http://www.wnd.com/2018/02/u-s-city-to-experiment-with-universal-basic-income/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "U.S. Rep. Trey Gowdy, R-S.C., announced Wednesday that he will not seek re-election, saying his skills “are better utilized in a courtroom than in Congress.” “The book of Ecclesiastes teaches us there...",
+        "upvotes": 9,
+        "url": "http://www.goupstate.com/news/20180131/trey-gowdy-not-seeking-re-election-to-congress"
+      },
+      {
+        "preview": " University Polling Institute GOP gains on Dems in generic House ballot West Long Branch, NJ – Donald Trump’s job approval rating has bounced back from the record low registered in last month’s  Unive...",
+        "upvotes": 74,
+        "url": "https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_US_013118/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 4,
+        "url": "https://www.washingtontimes.com/news/2018/jan/31/frank-luntz-former-trump-hater-i-owe-donald-trump-/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Political battles in the US are often portrayed as a clash between \"bleeding heart\" liberals and \"p...",
+        "upvotes": 2,
+        "url": "http://www.businessinsider.com/liberals-and-conservatives-process-disgust-and-empathy-differently-2018-1"
+      },
+      {
+        "preview": "By Dominic Patten Senior Editor, Legal & TV Critic UPDATE, 1:13 PM: As late as it went and as rowdy as it got, the City of Brotherly Love made pretty swift progress this morning picking up the debris ...",
+        "upvotes": 64,
+        "url": "http://deadline.com/2018/02/super-bowl-ratings-eagles-patriots-this-is-us-nbc-1202278181/"
+      },
+      {
+        "preview": "This is a transcript of Todd’s opening monologue. Click here to listen to the full program. The Super Bowl was a star-spangled celebration that focused on God and Country. And when it came time for th...",
+        "upvotes": 0,
+        "url": "https://www.toddstarnes.com/faith/faith-super-champion-eagles-save-nfl/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day in Liberal Judicial Activism—September 12 The Supreme Court in the American Constitutional Order ...",
+        "upvotes": 5,
+        "url": "http://www.nationalreview.com/article/455988/devin-nunes-memo-freakout-media-overblown"
+      },
+      {
+        "preview": "Against a newly discovered likelihood the Robert Mueller investigation began under false pretenses; and against the backdrop that FBI surveillance and wiretaps were obtained through materially (intent...",
+        "upvotes": 1,
+        "url": "https://theconservativetreehouse.com/2018/01/31/robert-mueller-requests-postponement-of-general-mike-flynn-sentencing/"
+      },
+      {
+        "preview": "Advertisement Fox News contributor Sara A. Carter reports FBI Director Christopher Wray, along with the Justice Department, are pressuring the White House to redact all names in the FISA abuse memo pr...",
+        "upvotes": 7,
+        "url": "http://www.thegatewaypundit.com/2018/02/report-fbi-director-wray-demanding-names-redacted-fisa-memo/"
+      }
+    ]
+  }
+}

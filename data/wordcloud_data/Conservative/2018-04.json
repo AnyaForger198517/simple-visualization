@@ -1,0 +1,36 @@
+{
+  "month": "2018-04",
+  "total_articles": 251,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Cultural Values and Political Ideology Debate",
+      "core_keywords": ["liberal", "american", "woman", "truth", "trump", "national", "human"],
+      "importance_ratio": 0.1315
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gun Policy and Partisan Legal Battles",
+      "core_keywords": ["gun", "law", "republican", "democrat", "amendment", "court", "trump"],
+      "importance_ratio": 0.1474
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Political Figures and Social Issues Coverage",
+      "core_keywords": ["clinton", "president", "muslim", "fbi", "news", "family", "american"],
+      "importance_ratio": 0.2430
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Campaign and Russia Investigation",
+      "core_keywords": ["trump", "mueller", "election", "comey", "china", "white house", "republican"],
+      "importance_ratio": 0.2072
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "State Governance and Social Demographics",
+      "core_keywords": ["state", "california", "school", "tax", "police", "black", "white", "american"],
+      "importance_ratio": 0.2709
+    }
+  ]
+}

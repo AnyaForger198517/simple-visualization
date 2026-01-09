@@ -1,0 +1,36 @@
+{
+  "month": "2012-02",
+  "total_articles": 60,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2012 Republican Presidential Campaign and Ideology",
+      "core_keywords": ["republican", "romney", "obama", "santorum", "conservative", "campaign", "president"],
+      "importance_ratio": 0.3000
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Santorum and Romney in Republican Senate Politics",
+      "core_keywords": ["santorum", "romney", "senate", "republican", "senator", "gingrich", "capitalism"],
+      "importance_ratio": 0.2000
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Ron Paul's Republican Party Support and Campaign",
+      "core_keywords": ["paul", "ron", "republican", "party", "supporter", "vote", "candidate"],
+      "importance_ratio": 0.1500
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Obama, National Motto and American Values",
+      "core_keywords": ["god", "obama", "president", "american", "state", "trust", "court"],
+      "importance_ratio": 0.0667
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Federal Budget and Government Spending Under Obama",
+      "core_keywords": ["obama", "federal", "government", "budget", "spending", "state", "republican"],
+      "importance_ratio": 0.2833
+    }
+  ]
+}

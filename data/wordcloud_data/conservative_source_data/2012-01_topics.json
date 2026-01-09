@@ -1,0 +1,285 @@
+{
+  "month": "2012-01",
+  "total_articles": 68,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "romney",
+        "percent",
+        "republican",
+        "gingrich",
+        "obama",
+        "president",
+        "wa",
+        "ha",
+        "candidate",
+        "state",
+        "campaign",
+        "paul",
+        "mitt",
+        "poll",
+        "american"
+      ],
+      "topic_weights": [
+        164.52664554563444,
+        149.06644415145033,
+        108.27235889524387,
+        104.57807592837618,
+        104.06015645617424,
+        84.32645065167972,
+        82.60004700113421,
+        76.13680110610416,
+        69.84018530262136,
+        67.38427215445397,
+        57.139689688378596,
+        52.33566915725833,
+        51.99940260821846,
+        49.086010148954436,
+        44.75051686566044
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "online",
+        "dan",
+        "vote",
+        "party",
+        "game",
+        "election",
+        "house",
+        "ha",
+        "candidate",
+        "seat",
+        "voting",
+        "government",
+        "state",
+        "girl"
+      ],
+      "topic_weights": [
+        127.7730787310976,
+        121.28524684899043,
+        105.90203882895757,
+        95.92002067655561,
+        77.30396177146709,
+        59.35661091500145,
+        49.99973906658031,
+        46.40761061358685,
+        41.822026604317855,
+        39.423335707252086,
+        36.42162473642764,
+        35.188229845354876,
+        33.28136422412552,
+        32.34188161823402,
+        31.049844151690724
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "romney",
+        "huntsman",
+        "gingrich",
+        "vote",
+        "state",
+        "tax",
+        "obama",
+        "wa",
+        "republican",
+        "ha",
+        "board",
+        "election",
+        "candidate",
+        "fellow",
+        "editorial"
+      ],
+      "topic_weights": [
+        42.53064339138498,
+        20.75650635996488,
+        19.4952325419533,
+        19.48599244815416,
+        18.58423698555047,
+        17.579881258351893,
+        14.137030981607083,
+        13.999040440716868,
+        13.037227047457176,
+        12.669358004300811,
+        12.355190523925636,
+        11.90323243014183,
+        11.5075753663356,
+        11.449042032982927,
+        11.060363086327746
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "tax",
+        "ha",
+        "government",
+        "wa",
+        "state",
+        "war",
+        "security",
+        "reagan",
+        "federal",
+        "money",
+        "social",
+        "policy",
+        "american",
+        "market",
+        "spending"
+      ],
+      "topic_weights": [
+        138.6211349586288,
+        113.0824677065186,
+        107.46140014994049,
+        94.16422123832935,
+        55.28215420635752,
+        54.688719459431,
+        49.702282614384686,
+        48.31988212813019,
+        47.79578194461906,
+        47.686394811086245,
+        46.816876043857704,
+        42.8731257073034,
+        40.73043084106006,
+        38.4190832474241,
+        38.00348916724279
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "union",
+        "state",
+        "military",
+        "wa",
+        "district",
+        "wisconsin",
+        "reform",
+        "school",
+        "defense",
+        "strategy",
+        "public",
+        "study",
+        "health",
+        "pentagon",
+        "obama"
+      ],
+      "topic_weights": [
+        28.097467540252673,
+        27.718994623475066,
+        19.705726796458723,
+        18.31283783890413,
+        14.90820995377166,
+        14.43431356600962,
+        14.164425404117065,
+        13.975321637491867,
+        13.29265889685538,
+        13.197742168053,
+        13.028240956552764,
+        12.78560271817827,
+        12.413800315498662,
+        12.287784017302679,
+        11.668926838432878
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 13,
+    "0": 28,
+    "1": 17,
+    "4": 4,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Gingrich 'doesn't speak in sound bites,' a spokesman said. By JAMES HOHMANN and GINGER GIBSON 12/31/2011 04:08 PM EST ATLANTIC, Iowa — After months of bringing his legendary rhetorical meanderings to ...",
+        "upvotes": 0,
+        "url": "http://www.politico.com/news/stories/1211/70981.html"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 12,
+        "url": "http://www.washingtontimes.com/news/2012/jan/1/curl-is-romney-the-next-kerry/"
+      },
+      {
+        "preview": "By Scott Conroy - January 3, 2012 DES MOINES, Iowa -- On Jan. 7, 2008, Barack Obama appeared to have all of the momentum on his side. As New Hampshire voters prepared to head to the polls the next day...",
+        "upvotes": 18,
+        "url": "http://www.realclearpolitics.com/articles/2012/01/03/iowa_win_unlikely_to_make_romney_inevitable_nominee_112617.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Robert Henry Winborne Welch Jr. (December 1, 1899 – January 6, 1985) was an American businessman and political organizer. He was wealthy following his retirement from the candy business and used it to...",
+        "upvotes": 0,
+        "url": "http://en.wikipedia.org/wiki/Robert_W._Welch,_Jr."
+      },
+      {
+        "preview": "Advertisement Supported by By Elizabeth A. Harris A Fire Department official on Monday said it was fortunate that the damage was minimal from a series of arson attacks across eastern Queens on Sunday ...",
+        "upvotes": 0,
+        "url": "http://www.nytimes.com/2012/01/02/nyregion/four-attacks-in-queens-with-homemade-firebombs.html"
+      },
+      {
+        "preview": "Yes, again. Those bulldozers are working overtime. Over Thanksgiving, I told you about the last batch of White House visitor logs quietly dumped over a busy holiday season. I noted MSNBC host Rachel M...",
+        "upvotes": 0,
+        "url": "http://michellemalkin.com/2012/01/02/did-you-miss-the-christmas-white-house-visitor-log-document-dump/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Jon Huntsman was endorsed for president by The Boston Globe on Thursday. The endorsement comes just five days before the New Hampshire caucus and is ...",
+        "upvotes": 0,
+        "url": "http://thehill.com/blogs/blog-briefing-room/news/202673-romneys-hometown-paper-endorses-huntsman"
+      },
+      {
+        "preview": "8:56 p.m. | Updated Newt Gingrich has ramped up his attacks on Mitt Romney as a heartless leveraged buyout executive for his years at Bain Capital, asking reporters in Manchester on Monday, “Is capita...",
+        "upvotes": 6,
+        "url": "http://thecaucus.blogs.nytimes.com/2012/01/09/gingrichs-own-close-tie-to-buyout-industry/?hp&"
+      },
+      {
+        "preview": "() - South Carolina's largest newspaper, The State, endorsed former Utah Gov. Jon Huntsman Sunday, just six days before the state's Republican presidential primary. The paper's editorial board stated ...",
+        "upvotes": 0,
+        "url": "http://politicalticker.blogs.cnn.com/2012/01/15/huntsman-picks-up-big-endorsement-from-s-c-newspaper/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Those of us who follow the news closely often forget that probably 80% of the adult population (seen as 85% some time ago, but likely lower than that thanks to New Media and the Tea Party movement) is...",
+        "upvotes": 0,
+        "url": "http://pjmedia.com/blog/ten-2011-examples-of-major-media-malfeasance/"
+      },
+      {
+        "preview": "Your FP Insider Access: Trudeau’s risky gamble may spell his end. France recalls its envoys to Washington and Canberra over a dispute ahead of the major U.N. summit. The Israeli government is ramping ...",
+        "upvotes": 0,
+        "url": "http://shadow.foreignpolicy.com/posts/2012/01/06/why_we_need_to_move_beyond_the_two_war_doctrine"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 3,
+        "url": "http://www.nationalreview.com/corner/287843/attack-iran-or-not-attack-iran-michael-auslin"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 5,
+        "url": "http://www.washingtontimes.com/news/2012/jan/5/panetta-smaller-military-means-extra-risk/"
+      },
+      {
+        "preview": "NEW: Crew of Iranian vessel was forced to help pirate operations, U.S. Navy says Members of the U.S. Navy board the hijacked ship, free its crew The U.S. took 15 pirates into custody, a Navy spokesman...",
+        "upvotes": 7,
+        "url": "http://www.cnn.com/2012/01/06/world/meast/iran-us-navy-rescue/index.html?hpt=hp_t3"
+      },
+      {
+        "preview": "One morning last February, Wisconsin governor Scott Walker called his staff into his office. “Guys,” he warned, “it’s going to be a tough week.” Walker had recently sent a letter to state employees pr...",
+        "upvotes": 1,
+        "url": "http://www.city-journal.org/2012/22_1_scott-walker.html"
+      }
+    ]
+  }
+}

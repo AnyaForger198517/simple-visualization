@@ -1,0 +1,280 @@
+{
+  "month": "2013-01",
+  "total_articles": 165,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "gun",
+        "wa",
+        "obama",
+        "ha",
+        "house",
+        "party",
+        "democrat",
+        "news",
+        "senate",
+        "gop",
+        "president",
+        "boehner",
+        "white",
+        "data"
+      ],
+      "topic_weights": [
+        252.1103329323921,
+        163.33177890130298,
+        158.50530813880283,
+        136.4268459525438,
+        125.38606494863848,
+        117.94473719837754,
+        114.84135410124838,
+        110.13928682247891,
+        106.60288631388738,
+        104.44272705568186,
+        99.99353092123471,
+        93.75612794930186,
+        85.13982952603726,
+        74.75522064034979,
+        65.58155403110474
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "gun",
+        "wa",
+        "law",
+        "state",
+        "ha",
+        "government",
+        "constitution",
+        "control",
+        "likelike",
+        "american",
+        "president",
+        "force",
+        "york",
+        "hostage",
+        "abortion"
+      ],
+      "topic_weights": [
+        282.26807148920113,
+        280.4317913676957,
+        209.2804480970559,
+        200.39143145283026,
+        195.89711480056846,
+        176.28637565987063,
+        134.2619012833613,
+        98.03830803901697,
+        83.83560900891646,
+        83.23742271672313,
+        80.36615433879332,
+        78.99172430423229,
+        78.01367729249121,
+        77.1382370534592,
+        73.99806150922176
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "obama",
+        "tax",
+        "ha",
+        "government",
+        "spending",
+        "wa",
+        "american",
+        "barack",
+        "class",
+        "cut",
+        "middle",
+        "president",
+        "rate",
+        "state",
+        "million"
+      ],
+      "topic_weights": [
+        397.50842813263824,
+        356.66440199487374,
+        255.6602403009799,
+        232.77043921092206,
+        214.26619645947787,
+        201.0724867599058,
+        199.41060560059546,
+        158.03669106484236,
+        155.94123309392586,
+        149.68569338567158,
+        139.85762959188116,
+        135.2173369946936,
+        130.14870237251785,
+        111.80662941845809,
+        102.88292466806868
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "war",
+        "ha",
+        "life",
+        "world",
+        "wa",
+        "libertarian",
+        "woman",
+        "military",
+        "human",
+        "conservative",
+        "long",
+        "hagel",
+        "child",
+        "population",
+        "advertisement"
+      ],
+      "topic_weights": [
+        133.16170497147,
+        128.43111295908864,
+        109.36162625270505,
+        104.70973936075954,
+        100.34336749360833,
+        99.30150235858841,
+        85.87391881157696,
+        85.20028786745823,
+        79.0610010112096,
+        76.2777874039391,
+        71.29405230942055,
+        70.80624614168644,
+        68.93859203194674,
+        57.04844285836097,
+        56.59799668254241
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "guy",
+        "little",
+        "fight",
+        "government",
+        "black",
+        "williams",
+        "liberal",
+        "poverty",
+        "stay",
+        "man",
+        "fellow",
+        "thomas",
+        "certificate",
+        "society",
+        "problem"
+      ],
+      "topic_weights": [
+        255.60698305951865,
+        233.78336963830554,
+        187.87718686606834,
+        164.902604151209,
+        161.18764499835345,
+        151.96961784587944,
+        150.34969143307518,
+        149.24293545593648,
+        148.68230110192962,
+        148.23545211737974,
+        146.7383933313553,
+        143.32405218634307,
+        143.27574377153692,
+        136.13864542154036,
+        134.84767441702118
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 28,
+    "1": 61,
+    "0": 34,
+    "2": 40,
+    "4": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "WASHINGTON -- As 2012 comes to a close, the 112th Congress is set to go down in American history as the most unproductive session since the 1940s. According to a Huffington Post review of all the bill...",
+        "upvotes": 0,
+        "url": "http://www.huffingtonpost.com/2012/12/28/congress-unproductive_n_2371387.html"
+      },
+      {
+        "preview": "Upon hearing that the Florida School Board of Education has officially lowered academic expectations for black students over whites, as a black Conservative, I felt outraged -- but also vindicated. We...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/2012/10/academic_expectations_lowered_another_democrat_hit_to_black_intellect.html"
+      },
+      {
+        "preview": "Boehner is now turning toward lawmakers like Tom Cotton and away from Obama. | AP Photos By JIM VANDEHEI and MIKE ALLEN 01/08/2013 04:31 AM EST Behind the Curtain: About this weekly feature Behind the...",
+        "upvotes": 10,
+        "url": "http://www.politico.com/story/2013/01/behind-the-curtain-the-hell-no-caucus-85872.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "21 death by March 26. One early April One on May 16, One on June 11-12 One on June 9 One June 21 One on July second One on July 11 One on August 30 One on September 11 One on September 14 One on Octob...",
+        "upvotes": 1,
+        "url": "http://www.americanthinker.com/blog/2012/12/mayor_bloombergs_double_standard_on_the_availability_of_lethal_objects.html"
+      },
+      {
+        "preview": "Monday, December 31, 2012 URGENT: Illinois Anti-Gun Legislators That YOU Voted Out of Office to Use Their Last Remaining Days in Legislature Exploiting Lame Duck Session and Holiday Break To Impose a ...",
+        "upvotes": 1,
+        "url": "http://www.nraila.org/legislation/state-legislation/2012/12/urgent-illinois-legislature-to-attempt-passage-of-gun-ban-this-week.aspx"
+      },
+      {
+        "preview": "The deep-seated fear that such disobedience would unravel our social fabric is mere superstition. As we have seen, the country has successfully survived numerous examples of constitutional infidelity....",
+        "upvotes": 11,
+        "url": "http://www.americanthinker.com/blog/2012/12/subverting_the_constitution.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 5,
+        "url": "http://www.nationalreview.com/articles/336481/risk-relativism-and-resources-kevin-d-williamson"
+      },
+      {
+        "preview": "A while back, I wrote here that Washington is getting richer while the rest of America is mostly getting poorer. I made the comparison, as did some others I quoted, to the fictional world of the Hunge...",
+        "upvotes": 0,
+        "url": "http://www.usatoday.com/story/opinion/2012/12/31/washington-dc-money-power-marion-barry/1798897/"
+      },
+      {
+        "preview": "The Senate voted early Tuesday morning 89-8 in favor of the scaled-down bipartisan package that would halt historic tax hikes for many Americans and postpone automatic spending cuts for two months. Th...",
+        "upvotes": 0,
+        "url": "http://townhall.com/tipsheet/leahbarkoukis/2013/01/01/senate-passes-bill-to-avoid-fiscal-cliff-n1477119"
+      }
+    ],
+    "3": [
+      {
+        "preview": " impermissible enslavement and an aggression upon his right of self-ownership for them to use force to compel him to return. The absolute right to run away is the child’s ultimate expression of his ri...",
+        "upvotes": 13,
+        "url": "http://www.imaginativeconservative.org/2012/04/why-i-am-not-libertarian.html#.UOG88OW3M94"
+      },
+      {
+        "preview": "Clinton was admitted to New York-Presbyterian Hospital on Sunday night. By KEVIN ROBILLARD 12/31/2012 10:10 AM EST The top science reporter for NBC News raised questions Monday about Secretary of Stat...",
+        "upvotes": 0,
+        "url": "http://www.politico.com/story/2012/12/nbc-reporter-raises-hillary-questions-85611.html#.UOHJX9c4fXx.reddit"
+      },
+      {
+        "preview": "US President Barack Obama speaks at a memorial service for the victims of the Sandy Hook Elementary School shooting on December 16, 2012 in Newtown, Connecticut. — Photo by AFP “MERE words cannot matc...",
+        "upvotes": 0,
+        "url": "http://dawn.com/2012/12/19/no-obama-tears-for-children-killed-by-drones-in-pakistan/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "I don’t think liberals are actually racist. I don’t think liberals intend to perpetuate racism. The reality is, intentional or not, liberals are guilty of racism. I’m sure if you were to ask a liberal...",
+        "upvotes": 2,
+        "url": "http://www.redstate.com/jeffs65/2012/12/30/liberal-racism-is-apparently-ok/"
+      },
+      {
+        "preview": "'I'm something that's not supposed to exist - a Hispanic Republican,' said Cruz. By KATE NOCERA 01/17/2013 09:38 PM EST As the Republican Party continues to do some soul-searching and ask questions af...",
+        "upvotes": 2,
+        "url": "http://townhall.com/columnists/johnhawkins/2013/01/29/25-great-quotes-from-black-conservatives-n1500015?utm_source=thdaily&amp;utm_medium=email&amp;utm_campaign=nl"
+      }
+    ]
+  }
+}

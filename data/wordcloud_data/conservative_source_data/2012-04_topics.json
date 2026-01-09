@@ -1,0 +1,285 @@
+{
+  "month": "2012-04",
+  "total_articles": 98,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "romney",
+        "paul",
+        "wa",
+        "ha",
+        "ron",
+        "santorum",
+        "delegate",
+        "republican",
+        "obama",
+        "state",
+        "conservative",
+        "vote",
+        "campaign",
+        "candidate",
+        "mitt"
+      ],
+      "topic_weights": [
+        211.553434310115,
+        210.330810024419,
+        121.02202573096267,
+        116.04896344985912,
+        110.83923657856158,
+        103.40465068864516,
+        88.15649629959327,
+        85.7775230204526,
+        73.28953757453803,
+        72.65806157488883,
+        66.19530137322721,
+        64.01488163328573,
+        62.867047365263,
+        61.95788853574053,
+        49.01403663693467
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "percent",
+        "ha",
+        "republican",
+        "obama",
+        "american",
+        "romney",
+        "president",
+        "state",
+        "democrat",
+        "tax",
+        "senate",
+        "budget",
+        "election",
+        "poll",
+        "vote"
+      ],
+      "topic_weights": [
+        99.40519951574427,
+        82.11626420814034,
+        80.10546484680357,
+        67.94647505170244,
+        53.64785188838694,
+        53.48773652614431,
+        49.96018157356961,
+        48.130883026529276,
+        45.469928932115664,
+        41.05541290588838,
+        40.78605410661339,
+        38.557086486984105,
+        38.171477470827156,
+        38.021254984033895,
+        36.934624105615356
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "page",
+        "reload",
+        "cooky",
+        "stand",
+        "network",
+        "browser",
+        "enable",
+        "checking",
+        "redirecting",
+        "nasa",
+        "device",
+        "run",
+        "att",
+        "infected",
+        "scan"
+      ],
+      "topic_weights": [
+        54.16635271632642,
+        41.9371938948353,
+        29.401826800072627,
+        28.64653616768053,
+        28.27692461077148,
+        28.066345597700575,
+        28.061405109563044,
+        28.05865298204311,
+        27.989051225313055,
+        25.259818466858768,
+        20.08558790967325,
+        19.895545588327266,
+        18.79958422921994,
+        18.79031267633211,
+        18.79011911923662
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "obama",
+        "law",
+        "court",
+        "president",
+        "ha",
+        "care",
+        "federal",
+        "state",
+        "case",
+        "government",
+        "email",
+        "american",
+        "health",
+        "comment"
+      ],
+      "topic_weights": [
+        157.46977373489963,
+        126.45242571478386,
+        116.47530646557901,
+        99.42286345148065,
+        93.34292229600251,
+        82.20062336125362,
+        59.603758601341276,
+        56.518497815155186,
+        56.232464185734706,
+        56.16945389731899,
+        54.63780083278169,
+        47.1859905291007,
+        46.87671527476821,
+        45.94494439509183,
+        44.9945322015983
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "science",
+        "conservative",
+        "ha",
+        "political",
+        "breitbart",
+        "twitter",
+        "group",
+        "warming",
+        "edward",
+        "data",
+        "change",
+        "government",
+        "liberal",
+        "medium"
+      ],
+      "topic_weights": [
+        199.1735123579295,
+        131.52576512323148,
+        90.89468091230366,
+        70.563978516971,
+        48.595122455703844,
+        44.06466927077662,
+        42.58653325889658,
+        41.07468524743889,
+        39.28278259461467,
+        38.7596972025886,
+        37.913380855433104,
+        35.9578314617307,
+        35.61567890375303,
+        35.20329975233582,
+        34.34322778444576
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 30,
+    "4": 16,
+    "1": 20,
+    "2": 6,
+    "0": 26
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "During the Wednesday edition of Morning Joe, host Joe Scarborough observed that “nobody” was expecting Republican hopeful Mitt Romney to beat President Obama in 2012. “Nobody thinks Romney’s going to ...",
+        "upvotes": 10,
+        "url": "http://www.mediaite.com/tv/joe-scarborough-nobody-thinks-romney-is-going-to-win/"
+      },
+      {
+        "preview": "UCLA is preparing for the visit of Republican presidential candidate Ron Paul to its campus Wednesday evening. The 12-term Texas congressman, who is campaigning against Mitt Romney, Rick Santorum and ...",
+        "upvotes": 2,
+        "url": "http://latimesblogs.latimes.com/lanow/2012/04/ron-paul-to-visit-ucla-drawing-4900-rsvps.html"
+      },
+      {
+        "preview": "The author may have decided to delete it, or there could be an error with the URL that you are using:  There is no greater desire for evil than to pull us away from God and His plan for us. While the ...",
+        "upvotes": 2,
+        "url": "http://jasonrmanning.hubpages.com/hub/Nation-Under-One"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Mitt Romney will begin raising money jointly with the Republican National Committee, as the GOP front-runner's campaign moves its focus from a protra...",
+        "upvotes": 3,
+        "url": "http://thehill.com/blogs/ballot-box/fundraising/219625-report-rnc-romney-campaign-to-launch-joint-fundraising-efforts"
+      },
+      {
+        "preview": "The Latest Politics, News & Election Videos White House press secretary Jay Carney goes it at with FOX News' Bret Baier in an interview that aired on the network's news program \"Special Report.\" Bret ...",
+        "upvotes": 1,
+        "url": "http://www.realclearpolitics.com/video/2012/04/03/baier_vs_carney_press_sec_says_leadership_is_not_presenting_a_budget.html"
+      },
+      {
+        "preview": "One of the most time-honored tricks in politics is the act of accusing your opponent of your own worst crime. Doing so confuses the mass of the population. It allows the trickster to assume the mantle...",
+        "upvotes": 0,
+        "url": "http://www.theblaze.com/contributions/big-government-is-extremism/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 2,
+        "url": "http://www.examiner.com/libertarian-in-denver/ron-paul-winning-delegates"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 1,
+        "url": "http://www.examiner.com/conservative-in-national/president-obama-s-habit-of-attacking-the-supreme-court"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 0,
+        "url": "http://www.examiner.com/conservative-in-national/trayvon-martin-shooting-continues-to-trigger-racial-divide-and-civil-unrest?cid=db_articles"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The reign of empathy is upon us. Mock me you cannot sir, for I was once the subject of peer cruelty. The childish mob had rendered me meek, lowly and powerless. I had no control of the physical pressu...",
+        "upvotes": 2,
+        "url": "http://jasonrmanning.hubpages.com/hub/Empathy-The-Reign-of-Sensitivity"
+      },
+      {
+        "preview": "Despite liberal protesters’ claims that Florida’s so-called “stand your ground” gun law demonstrates that Republican policymakers are responsible for the February death of 17-year-old Trayvon Martin, ...",
+        "upvotes": 1,
+        "url": "http://dailycaller.com/2012/04/01/stand-your-ground-laws-not-just-gop-policy-records-show/"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 5,
+        "url": "http://www.nationalreview.com/corner/295180/appeals-court-not-amused-obama-jonah-goldberg"
+      }
+    ],
+    "4": [
+      {
+        "preview": "r the period January 1900 to December 2006 is estimated to rise at a rate of 1.56 ? 0.25 mm/yr which is ably consistent with earlier estimates, but we do not find significant acceleration The regional...",
+        "upvotes": 17,
+        "url": "http://reason.com/blog/2012/03/30/why-dont-conservatives-trust-scientists"
+      },
+      {
+        "preview": "Your account has been created Defector tells how US officials 'sexed up' his fictions to make the case for 2003 invasion Find your bookmarks in your  Premium section, under my profile BBC AFP Getty Im...",
+        "upvotes": 6,
+        "url": "http://www.independent.co.uk/news/world/politics/man-whose-wmd-lies-led-to-100000-deaths-confesses-all-7606236.html"
+      },
+      {
+        "preview": "The University of California once led the way for the rest of the nation in building great public university systems. Now, sadly, it is now leading the decline. UC’s financial crisis is common knowled...",
+        "upvotes": 9,
+        "url": "http://www.popecenter.org/commentaries/article.html?id=2674"
+      }
+    ]
+  }
+}

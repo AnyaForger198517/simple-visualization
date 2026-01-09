@@ -1,0 +1,285 @@
+{
+  "month": "2017-05",
+  "total_articles": 310,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "house",
+        "comey",
+        "ha",
+        "republican",
+        "clinton",
+        "campaign",
+        "white",
+        "official",
+        "russian",
+        "news",
+        "investigation",
+        "election"
+      ],
+      "topic_weights": [
+        2192.404863840505,
+        992.9710249896192,
+        852.2894964483236,
+        556.5051816095621,
+        479.5396510064696,
+        479.33633626185724,
+        478.43377282776436,
+        396.72642197595457,
+        378.7714850256887,
+        350.890545620638,
+        338.4300179184414,
+        326.594610961467,
+        318.81806375140917,
+        303.63092644520987,
+        290.0665787961364
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "voter",
+        "party",
+        "election",
+        "wa",
+        "democratic",
+        "democrat",
+        "state",
+        "republican",
+        "vote",
+        "voting",
+        "conservative",
+        "trump",
+        "dnc",
+        "ha",
+        "court"
+      ],
+      "topic_weights": [
+        657.194284630588,
+        589.9214075334305,
+        384.30680908461585,
+        378.5391301497921,
+        353.9824146250128,
+        342.2147283924652,
+        323.5117279727869,
+        322.33873988054944,
+        294.4256166304565,
+        289.2847456300463,
+        249.7783316273682,
+        240.6605555838632,
+        228.5819768698428,
+        223.7821192123524,
+        212.40202412237701
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "health",
+        "ha",
+        "tax",
+        "trump",
+        "wa",
+        "care",
+        "american",
+        "percent",
+        "government",
+        "policy",
+        "plan",
+        "union",
+        "program",
+        "insurance"
+      ],
+      "topic_weights": [
+        549.619961060434,
+        444.386379462258,
+        436.9046305123313,
+        341.11218902505266,
+        316.0512854547491,
+        302.7607366248966,
+        297.6580299124998,
+        258.6989534682794,
+        252.75535409648884,
+        239.07755091581987,
+        212.34262016262062,
+        209.95121137419468,
+        205.81285841384727,
+        196.2134917207056,
+        190.22908202265165
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "law",
+        "report",
+        "group",
+        "police",
+        "woman",
+        "government",
+        "security",
+        "power",
+        "company",
+        "country",
+        "public",
+        "attack"
+      ],
+      "topic_weights": [
+        735.6464124779003,
+        332.53242758017495,
+        281.42522882585047,
+        269.56234127369487,
+        168.4403133176861,
+        161.12551900665264,
+        160.90791231687595,
+        154.81361194670916,
+        150.79031428389965,
+        141.78762587216633,
+        141.28230784880859,
+        141.27782566524112,
+        135.0081246768753,
+        131.24840113978894,
+        125.06137068018324
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "franken",
+        "white",
+        "ha",
+        "black",
+        "hate",
+        "palmer",
+        "slave",
+        "racist",
+        "drug",
+        "student",
+        "change",
+        "speech",
+        "history",
+        "trump"
+      ],
+      "topic_weights": [
+        355.4144696992552,
+        299.79958751341155,
+        241.73530416851605,
+        181.64410514090434,
+        126.62173441793597,
+        112.33105076602011,
+        89.98866760888382,
+        81.04383533160212,
+        76.44191682228048,
+        75.25566653139549,
+        75.25387299992349,
+        71.63433776013326,
+        69.87553330034586,
+        68.96207741103392,
+        68.41274210299993
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 58,
+    "1": 36,
+    "0": 106,
+    "4": 29,
+    "2": 81
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "One senior administration official said Gorka might take another job inside the administration, but added it's more likely he will leave Gorka has worked as a counterterrorism adviser and as a member ...",
+        "upvotes": 3,
+        "url": "http://www.cnn.com/2017/04/30/politics/gorka-leaving-white-house/index.html"
+      },
+      {
+        "preview": "Posted By: Media Bias Fact Check April 18, 2017 On 4/18/17 Bill Palmer of the Palmer Report decided to make up another false claim, without evidence, against Media Bias Fact Check. In his libelous art...",
+        "upvotes": 1,
+        "url": "https://mediabiasfactcheck.com/2017/04/18/palmer-report-makes-yet-another-false-claim-about-media-bias-fact-check/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 95,
+        "url": "https://www.buzzfeed.com/jasonleopold/if-you-keep-fucking-with-mr-trump-we-know-where-you-live?s=webapp&utm_term=.pi3gJPZLM#.rbPPqEz6p"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A class-action lawsuit by Bernie Sanders supporters against the Democratic National Committee is getting pretty quotable. Plaintiffs accuse the defendants of being biased on behalf of former Secretary...",
+        "upvotes": 1,
+        "url": "http://lawnewz.com/high-profile/dnc-lawyer-reportedly-said-they-could-have-chosen-between-clinton-sanders-over-cigars-in-back-rooms/"
+      },
+      {
+        "preview": "es.7 The essential mathematical concept that a shockingly large number of people in politics fail to understand is the difference between percentages and raw numbers. Reporters see that Tom Price, a R...",
+        "upvotes": 63,
+        "url": "https://www.thenation.com/article/democrats-can-retake-the-house-in-2018-without-converting-a-single-trump-voter/"
+      },
+      {
+        "preview": "On April 28 the transcript was released from the most recent hearing at a federal court in Fort Lauderdale, Fla., on the lawsuit filed on behalf of Bernie Sanders supporters against the Democratic Nat...",
+        "upvotes": 1,
+        "url": "http://observer.com/2017/05/dnc-lawsuit-presidential-primaries-bernie-sanders-supporters/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Discover Thomson  By Lucia Mutikani 5 Min Read WASHINGTON () - U.S. factory activity slowed in April while consumer spending was unchanged in March and a key inflation measure recorded its first month...",
+        "upvotes": 42,
+        "url": "http://www.reuters.com/article/us-usa-economy-idUSKBN17X1P4?il=0"
+      },
+      {
+        "preview": "ion of resources currently spent on health coverage, including federal payments for Medicare and Medicaid, major savings from elimination of insurance waste, other bureaucracy, and profits with coordi...",
+        "upvotes": 1,
+        "url": "https://www.thenation.com/article/single-payer-medicare-for-all-is-the-only-healthcare-system-that-makes-sense/"
+      },
+      {
+        "preview": "May 2, 2017, at 12:16 PM By Harry Enten Filed under Health Care President Trump stormed into the White House thanks, in part, to working-class voters. Well, that was the conventional wisdom, in any ca...",
+        "upvotes": 9,
+        "url": "https://fivethirtyeight.com/features/trumps-health-care-bill-could-cost-him-working-class-voters/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Thirty-six members of the Yazidi religious minority are free after nearly three years in the hands of so-called Islamic State (IS), the UN says. They have been taken to UN centres in Dohuk in Kurdish ...",
+        "upvotes": 6,
+        "url": "http://www.bbc.com/news/world-middle-east-39762790"
+      },
+      {
+        "preview": "The \"Let Girls Learn\" program was launched by Michelle Obama A Trump administration memo says it is discontinuing it The Trump administration is discontinuing a signature girls education initiative ch...",
+        "upvotes": 1,
+        "url": "http://www.cnn.com/2017/05/01/politics/trump-michelle-obama-girls-education/"
+      },
+      {
+        "preview": "Peter Overby As Trump appointees take their new positions in the federal bureaucracy, a legal battle is escalating over alleged intimidation of the civil servants who make the government function. The...",
+        "upvotes": 76,
+        "url": "http://www.npr.org/2017/05/01/525960279/trump-administration-is-sued-over-alleged-intimidation-of-federal-workers"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Over the weekend, the National Rifle Association held its annual convention, this time in Atlanta. On Friday President Donald Trump spoke to the convention delegates, the first time a sitting presiden...",
+        "upvotes": 87,
+        "url": "http://www.salon.com/2017/05/01/donald-trump-and-the-nra-a-festival-of-racial-fear-and-dark-fantasy/"
+      },
+      {
+        "preview": "Donald Trump received criticism Monday for comments he made about the American Civil War. According to the New York Times, Trump was being interviewed on a SiriusXM radio program when he said that, ha...",
+        "upvotes": 1,
+        "url": "http://www.inquisitr.com/4187402/donald-trump-mocked-on-twitter-for-civil-war-comments-with-trumpteacheshistory-hashtag/"
+      },
+      {
+        "preview": "In a ranking of the scariest phrases in the English language, coming in somewhere between the terms “states’ rights” and “The 45th president of the United States tweeted ... ” are the words “disgruntl...",
+        "upvotes": 23,
+        "url": "http://www.theroot.com/trump-supporter-targets-non-republicans-in-machete-atta-1794805050"
+      }
+    ]
+  }
+}

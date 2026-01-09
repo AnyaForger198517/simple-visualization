@@ -1,0 +1,285 @@
+{
+  "month": "2019-12",
+  "total_articles": 90,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "impeachment",
+        "democrat",
+        "house",
+        "vote",
+        "climate",
+        "state",
+        "news",
+        "report",
+        "pelosi",
+        "voter",
+        "article"
+      ],
+      "topic_weights": [
+        275.6038076886313,
+        223.7464631632089,
+        208.6611568402458,
+        147.4784908572236,
+        131.76616347128046,
+        107.58938507533144,
+        85.02738541111293,
+        69.83117185869723,
+        64.49791861198264,
+        61.87282607152779,
+        58.283518160959915,
+        51.9951027426707,
+        51.357176053544194,
+        50.50703771641416,
+        50.3943796544962
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "law",
+        "wa",
+        "city",
+        "nato",
+        "trump",
+        "fbi",
+        "christian",
+        "ha",
+        "political",
+        "american",
+        "military",
+        "policy",
+        "president",
+        "group",
+        "advertisement"
+      ],
+      "topic_weights": [
+        52.43057761606611,
+        42.01826454891305,
+        41.4250864880867,
+        38.79482682221502,
+        35.73708614348236,
+        31.656132698042185,
+        30.30452801853252,
+        28.654272370385968,
+        28.437726277875072,
+        27.473031702708298,
+        25.712138520092225,
+        25.398000604537863,
+        25.252501933923924,
+        25.159445941774525,
+        24.217111611752873
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "epstein",
+        "bank",
+        "trump",
+        "private",
+        "house",
+        "ha",
+        "million",
+        "democrat",
+        "conservative",
+        "trade",
+        "wealth",
+        "censure",
+        "leader",
+        "wa",
+        "government"
+      ],
+      "topic_weights": [
+        29.04040835040712,
+        27.78888138102693,
+        18.68963434859976,
+        18.535160399726244,
+        16.054229897421525,
+        15.557786871505133,
+        13.95789228823,
+        13.710835634544045,
+        12.555280018940499,
+        12.362895185956745,
+        12.315595133317824,
+        11.441072698215804,
+        11.168544262805137,
+        10.728899969864653,
+        10.540069578281521
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "union",
+        "ha",
+        "child",
+        "president",
+        "federal",
+        "family",
+        "according",
+        "flag",
+        "labor",
+        "corruption",
+        "national",
+        "court",
+        "leader",
+        "detroit"
+      ],
+      "topic_weights": [
+        104.1348533916603,
+        60.008533645126576,
+        47.69361426387802,
+        46.97578168271053,
+        30.60215366475343,
+        29.550169608783545,
+        29.002094502175602,
+        25.917403881558453,
+        25.662504122567956,
+        24.392300386954833,
+        23.575288595940115,
+        23.390240753273233,
+        23.029204583858935,
+        21.96834852251927,
+        21.091143666601898
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "american",
+        "search",
+        "arctic",
+        "gender",
+        "term",
+        "russia",
+        "china",
+        "wa",
+        "ha",
+        "identity",
+        "topic",
+        "individual",
+        "poll",
+        "gas",
+        "men"
+      ],
+      "topic_weights": [
+        21.45215520074188,
+        19.441175096194687,
+        17.91164078745287,
+        14.721089887435573,
+        13.46692558864918,
+        13.327374396143112,
+        13.243396821893628,
+        12.331788704827302,
+        11.487857797720487,
+        9.688699448736122,
+        9.622783361919133,
+        9.445409780154623,
+        9.407103796785712,
+        9.31338959602836,
+        9.04034299945361
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 54,
+    "4": 6,
+    "1": 11,
+    "3": 13,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "VINELAND, N.J. – Amid glossy photos of prominent politicians adorning Democratic Congressman Jefferson Van Drew's Capitol Hill office is a framed picture of him with Donald Trump. It's from 2008 when ...",
+        "upvotes": 27,
+        "url": "https://news.yahoo.com/unsavory-not-impeachable-democratic-lawmaker-110013699.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Google and YouTube have taken down hundreds of video advertisements for President TrumpDonald TrumpCapitol Police recommend disciplinary action for s...",
+        "upvotes": 7,
+        "url": "https://thehill.com/policy/technology/472566-google-and-youtube-took-down-more-than-300-trump-video-ads-report"
+      },
+      {
+        "preview": "Anyone who knows me knows that I’m a sucker for good satire. The closer you get to the truth while still being absurd, the better. As such, the man known as Carpe Donktum, most popularly known as Pres...",
+        "upvotes": 3,
+        "url": "https://www.redstate.com/brandon_morse/2019/12/03/hilarious-twitter-thread-year-shows-social-media-reacts-anything-trump/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "LONDON — As heads of state and government meet in the U.K. for the 70th anniversary of the military alliance NATO, discussions are likely to focus on shifting geopolitical relations and military threa...",
+        "upvotes": 1,
+        "url": "https://news.google.com/articles/CAIiEIPG8tiKjoj8-pYR5pp-TBYqGQgEKhAIACoHCAow2Nb3CjDivdcCMJ_d7gU?hl=en-US&gl=US&ceid=US%3Aen"
+      },
+      {
+        "preview": "Attorney General William Barr reportedly disagrees with a finding by the forthcoming Department of Justice (DOJ) Inspector General (IG) report that the FBI had sufficient reason to monitor the Trump c...",
+        "upvotes": 10,
+        "url": "https://www.breitbart.com/politics/2019/12/02/report-ag-barr-disagrees-with-ig-report-on-whether-trump-surveillance-justified/"
+      },
+      {
+        "preview": "We all know some individuals who are so obviously good and kind that we are certain if anyone were to dislike them, that's all we would need to know about the person. We would immediately assume he or...",
+        "upvotes": 72,
+        "url": "https://www.realclearpolitics.com/articles/2019/12/03/the_left_hates_the_salvation_army_thats_all_you_need_to_know_about_the_left_141865.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Please select a featured image for your post Jeffrey Epstein’s private wealth banker, who brokered and signed off on untold multiple millions of dollars in controversial Deutsche Bank and Citibank loa...",
+        "upvotes": 1,
+        "url": "https://truepundit.com/jeffrey-epsteins-private-banker-at-deutsche-executive-suicide-before-feds-questioned-him/"
+      },
+      {
+        "preview": "congress It's an unlikely outcome, but it underscores lingering angst among some moderates. President Donald Trump (right) and Rep. Josh Gottheimer. | Win McNamee/Getty Images By SARAH FERRIS and MELA...",
+        "upvotes": 16,
+        "url": "https://www.politico.com/news/2019/12/10/democrats-censure-impeachment-080311"
+      },
+      {
+        "preview": "REUTERS/Carlo Allegri Former Vice President Al Gore believes the Green New Deal (GND) could be a winning issue for Democrats in 2020. The GND is a “broad brushstroke, bold proclamation, the details of...",
+        "upvotes": 49,
+        "url": "https://dailycaller.com/2019/12/13/democrats-green-new-deal-election/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 10,
+        "url": "https://www.nationalreview.com/corner/exactly-what-do-you-mean-by-diversity/"
+      },
+      {
+        "preview": "Vanderbilt baseball’s 2019 national championship team declined an invitation to the White House because of a scheduling conflict and not politics, coach Tim Corbin said. He said a “Trump” Vanderbilt j...",
+        "upvotes": 4,
+        "url": "https://www.tennessean.com/story/sports/college/vanderbilt/2019/12/02/trump-white-house-visit-trump-vanderbilt-baseball/2585864001/"
+      },
+      {
+        "preview": "Follow Us National Review Twenty Years Ago, the World Changed New Chinese Ambassador Snaps at U.S.: ‘Please Shut Up’ The Collapse of Biden’s China Doctrine ‘The World Will Never Be the Same’ Searching...",
+        "upvotes": 24,
+        "url": "https://www.nationalreview.com/2019/12/london-bridge-terror-attack-put-public-safety-before-fashionable-ideologies/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "One of the few contributions to modern society is to serve as a test bed to prove just how silly and inane “academic” research has become. Usually the format is to pick some “woke” topic and construct...",
+        "upvotes": 3,
+        "url": "https://www.redstate.com/streiff/2019/12/01/new-study-trump-supporters-insecure-impotent-wives-possibly-sleeping-around/"
+      },
+      {
+        "preview": "Elizabeth Warren gave a shocking answer to a question at a campaign event in Iowa on Sunday. “As a presidential candidate, what are your thoughts on the Electoral College?” she was asked. “I want to g...",
+        "upvotes": 33,
+        "url": "https://pjmedia.com/election/elizabeth-warren-promises-to-abolish-the-electoral-college-if-elected/"
+      },
+      {
+        "preview": "If you want this website to work, you must enable javascript. I recently gave a presentation on transgenderism to a group of suburban Minnesotans. After my talk, an operating room nurse who had been p...",
+        "upvotes": 24,
+        "url": "https://www.firstthings.com/web-exclusives/2019/12/fairness-for-all-is-unfair"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2014-03",
+  "total_articles": 119,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Political Party Dynamics and Presidential Politics",
+      "core_keywords": ["republican", "democrat", "obama", "president", "state", "voter", "government"],
+      "importance_ratio": 0.5126
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Military and Federal Government Oversight",
+      "core_keywords": ["military", "state", "obama", "law", "fbi", "america", "government"],
+      "importance_ratio": 0.1933
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Social Issues and Immigration Debates",
+      "core_keywords": ["game", "woman", "immigration", "law", "american", "problem", "group"],
+      "importance_ratio": 0.0756
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Income Equality and State Policy Issues",
+      "core_keywords": ["income", "state", "police", "obama", "student", "email", "amendment"],
+      "importance_ratio": 0.0840
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Obamacare and Healthcare Policy Impact",
+      "core_keywords": ["health", "obama", "obamacare", "government", "insurance", "state", "woman"],
+      "importance_ratio": 0.1345
+    }
+  ]
+}

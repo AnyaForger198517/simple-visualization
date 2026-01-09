@@ -1,0 +1,285 @@
+{
+  "month": "2019-06",
+  "total_articles": 121,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "china",
+        "ha",
+        "jun",
+        "posted",
+        "government",
+        "chinese",
+        "world",
+        "american",
+        "border",
+        "state",
+        "party",
+        "news",
+        "child",
+        "student"
+      ],
+      "topic_weights": [
+        256.8143168415409,
+        193.87139964579944,
+        141.40577598194568,
+        105.14265991238217,
+        103.35499818133667,
+        101.48579777702449,
+        94.1519949986322,
+        80.65585569545603,
+        80.64164859111561,
+        65.90662302855648,
+        64.07317107913246,
+        63.20384100943599,
+        55.101864837804264,
+        51.60395353452394,
+        49.312159413319534
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "student",
+        "university",
+        "advertisement",
+        "college",
+        "trump",
+        "conservative",
+        "white",
+        "life",
+        "city",
+        "state",
+        "woman",
+        "abortion",
+        "story"
+      ],
+      "topic_weights": [
+        127.28593143037793,
+        70.00192925671622,
+        62.75157244939509,
+        60.93750049697545,
+        58.482864995822275,
+        52.0051712690304,
+        47.843357873621216,
+        40.99274614449097,
+        40.0870925310729,
+        39.57136350445714,
+        38.79567549609592,
+        38.28349069753202,
+        33.5715267309026,
+        31.531183508788537,
+        30.753899182981176
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "state",
+        "president",
+        "ha",
+        "vote",
+        "mueller",
+        "election",
+        "house",
+        "democrat",
+        "report",
+        "republican",
+        "biden",
+        "voter",
+        "campaign"
+      ],
+      "topic_weights": [
+        274.1885043759362,
+        214.7704209153041,
+        210.62263976582847,
+        190.73978141469854,
+        178.97428840590584,
+        131.89115692701267,
+        123.58193671015846,
+        116.10563985842056,
+        114.13372776174546,
+        111.42063012277738,
+        85.7050944410778,
+        83.98560261299635,
+        83.7696581477093,
+        80.56760987404488,
+        79.58258577684886
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "gun",
+        "wa",
+        "chernobyl",
+        "study",
+        "ha",
+        "nuclear",
+        "nadler",
+        "state",
+        "rate",
+        "law",
+        "crime",
+        "homicide",
+        "percent",
+        "did",
+        "fact"
+      ],
+      "topic_weights": [
+        79.26000049822072,
+        42.61556496520081,
+        41.08058772831422,
+        39.80347646520676,
+        38.52078852826207,
+        35.15416920575962,
+        34.903346389696004,
+        34.87998803658746,
+        34.06692982775268,
+        33.226901531968856,
+        32.92834477108767,
+        25.135209658840104,
+        20.916353561618166,
+        20.377965529372585,
+        19.64758768229335
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "youtube",
+        "ha",
+        "crowder",
+        "wa",
+        "video",
+        "hong",
+        "american",
+        "law",
+        "content",
+        "kong",
+        "platform",
+        "gay",
+        "maza",
+        "usmca",
+        "policy"
+      ],
+      "topic_weights": [
+        71.69507862103875,
+        53.821847806173906,
+        48.42184437938723,
+        46.876228607650035,
+        37.851995619900535,
+        34.205949995229155,
+        32.848889293544744,
+        30.576734584321976,
+        29.648443191603157,
+        29.58056111291867,
+        27.14472436431593,
+        26.861384568237106,
+        25.25149899398862,
+        24.409072446001296,
+        24.182392272545638
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 7,
+    "2": 38,
+    "4": 17,
+    "1": 29,
+    "0": 30
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Just over 10 years ago, the world lost Michael Crichton, bestselling author and screenwriter, who succumbed to cancer at age 66. His loss was greater than we could have known at the time. During the f...",
+        "upvotes": 0,
+        "url": "https://amgreatness.com/2019/05/30/crichtons-rational-environmentalism-needs-a-reawakening/"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE Former commissioner of U.S. Customs and Border Protection Gil Kerlikowske told CNN anchor Poppy Harlow on Monday that the number of migrants crossing the border constitutes a crisi...",
+        "upvotes": 51,
+        "url": "https://freebeacon.com/issues/obama-border-official-these-numbers-are-a-crisis/"
+      },
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. Democratic presidential hopefuls Joe Biden and Elizabeth Warren on Tuesday unveiled their ambitious plans to fight climate change and t...",
+        "upvotes": 11,
+        "url": "https://nypost.com/2019/06/04/biden-announces-5-trillion-plan-for-net-zero-emissions-by-2050/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Thanks for contacting us. We've received your submission. People used to talk about the ends of the university and how the academic establishment was failing its students. Today, more and more people ...",
+        "upvotes": 91,
+        "url": "https://nypost.com/2019/05/31/pc-insanity-may-mean-the-end-of-american-universities/"
+      },
+      {
+        "preview": "Recently, New York writer Fran Lebowitz told Bill Maher on his HBO program that the U.S. government should turn President Donald Trump “over to the Saudis, his buddies—the same Saudis who got rid of t...",
+        "upvotes": 8,
+        "url": "https://amgreatness.com/2019/06/02/tired-boring-and-dangerous-celebrity-death-wishing/"
+      },
+      {
+        "preview": "You can also follow us on Facebook, Twitter and Instagram. Fake news you can trust, delivered straight to your inbox. ENGLAND—England has reluctantly ceded control of their country over to Donald Trum...",
+        "upvotes": 211,
+        "url": "https://babylonbee.com/news/england-forced-to-recognize-trump-as-king-after-strange-woman-lying-in-pond-lobs-a-sword-at-him"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Advertisement - story continues below Despite the fact that this senior FBI official, who was not named in the summary, clearly broke multiple laws, the Department of Justice declined to...",
+        "upvotes": 92,
+        "url": "https://www.thegatewaypundit.com/2019/05/revealed-rep-collins-identifies-peter-strzok-as-top-deep-state-official-who-leaked-classified-documents-to-media-and-doj-declined-to-prosecute/"
+      },
+      {
+        "preview": "In articles about President Trump Fake News usually make a few mistakes, but Quint Forgey from Politico must be trying to break the record. Worse still, he sneers like the SS‑doctor who found fleas on...",
+        "upvotes": 6,
+        "url": "https://www.leftyliars.com/trumps-use-of-nasty-and-how-politico-lied/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved SAN FRANCISCO — Democratic activists booed former Colorado Gov. John HickenlooperJohn HickenlooperNY Democrat tests positive for COVID-19 in latest H...",
+        "upvotes": 15,
+        "url": "https://thehill.com/homenews/campaign/446500-hickenlooper-booed-in-san-francisco-for-denouncing-socialism"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The Daily Caller BuzzFeed News suggested this week that Ben Shapiro, a popular conservative commentator, was responsible for inspiring an anti-Semitic hate crime. Shapiro, of course, is Jewish. In thi...",
+        "upvotes": 99,
+        "url": "https://dailycaller.com/2019/05/31/unfit-to-print-ben-shapiro-alt-right-buzzfeed/"
+      },
+      {
+        "preview": "Robert Mueller stirred the pot, then retreated from the chaos. Sitting in his comfy sinecure, funded by the American taxpayers, he absolves himself of any heavy lifting. Like the second-leg relay race...",
+        "upvotes": 17,
+        "url": "https://www.americanthinker.com/articles/2019/06/in_all_the_mueller_talk_dont_forget_the_embarrassing_jerrold_nadler.html"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News At least 52 people were shot and 10 killed in Chicago's most violent weekend so far this year, leading police Superintendent Eddie Johnson on Monday ...",
+        "upvotes": 1,
+        "url": "https://www.nbcnews.com/news/us-news/chicago-sees-52-shot-10-killed-weekend-despicable-violence-officials-n1013236"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Free trade is at the heart of the US economy. Each year, our companies sell more than $2.5 trillion worth of goods and services to custo...",
+        "upvotes": 10,
+        "url": "https://amp.businessinsider.com/opinion-congress-trump-usmca-canada-mexico-trade-deal-2019-5"
+      },
+      {
+        "preview": "The Free Thought Project June 3, 2019 (TAC) It has been nearly two years since I reported on the dangers of creating a law enforcement run Mental Health Assessment (MHA) program. In Texas, police use ...",
+        "upvotes": 1,
+        "url": "https://thefreethoughtproject.com/congress-bill-threat-assessment/"
+      },
+      {
+        "preview": "Update: YouTube is going after Crowder and others anyway. Original Story: We live in a hypersensitive society in which certain words, when said as a humorous insult, really get some people angry. I’m ...",
+        "upvotes": 42,
+        "url": "https://noqreport.com/2019/06/05/carlos-maza-wrong-steven-crowder/"
+      }
+    ]
+  }
+}

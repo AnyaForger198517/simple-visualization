@@ -1,0 +1,285 @@
+{
+  "month": "2018-09",
+  "total_articles": 274,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "social",
+        "woman",
+        "state",
+        "society",
+        "men",
+        "life",
+        "socialism",
+        "family",
+        "student",
+        "country",
+        "work",
+        "did",
+        "market"
+      ],
+      "topic_weights": [
+        774.2113275812713,
+        287.5831785355544,
+        243.9437911360009,
+        229.13832588756395,
+        176.58415225962625,
+        139.26267735909522,
+        132.54308778399403,
+        130.59317438280326,
+        124.46473421674413,
+        118.9580255978655,
+        117.25396840748385,
+        108.83732193187092,
+        101.15430837276374,
+        99.4123481787319,
+        98.45772482987893
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "kavanaugh",
+        "ford",
+        "woman",
+        "allegation",
+        "ha",
+        "wa",
+        "rape",
+        "sexual",
+        "claim",
+        "blasey",
+        "committee",
+        "evidence",
+        "court",
+        "judge",
+        "letter"
+      ],
+      "topic_weights": [
+        510.12168086174654,
+        409.5910052354845,
+        256.8410221768777,
+        255.33527951230022,
+        239.7631537645811,
+        206.60055727822433,
+        203.98804678879793,
+        176.9530953171289,
+        158.43396807312146,
+        153.67254984853065,
+        152.53412863208328,
+        138.48487300088217,
+        130.86659576020708,
+        122.02737013628915,
+        116.40724097664712
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "state",
+        "percent",
+        "democrat",
+        "republican",
+        "rate",
+        "biden",
+        "government",
+        "corporate",
+        "voter",
+        "federal",
+        "election",
+        "ha",
+        "trump",
+        "pay"
+      ],
+      "topic_weights": [
+        261.5394305166155,
+        201.70530356247474,
+        146.07414593805223,
+        132.7965333767724,
+        117.17549489006977,
+        113.24619804384345,
+        110.45889287513192,
+        107.89730561350268,
+        96.20987586615156,
+        94.92819497992691,
+        87.2919324877939,
+        86.3442054878717,
+        85.86774437255465,
+        82.29730174453239,
+        75.98952030233153
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "trump",
+        "event",
+        "president",
+        "hosted",
+        "house",
+        "american",
+        "ha",
+        "public",
+        "national",
+        "hearing",
+        "state",
+        "congressional",
+        "director",
+        "book"
+      ],
+      "topic_weights": [
+        485.2828489760673,
+        277.7119516930393,
+        257.80067930630594,
+        222.72582805589101,
+        182.27032124856694,
+        180.6581492805707,
+        166.07496858176518,
+        157.53010596686494,
+        126.06892319328097,
+        124.61949806569989,
+        114.36796390730842,
+        112.89238754071468,
+        101.25170791397876,
+        101.0539408020823,
+        100.37864298158036
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "kavanaugh",
+        "wa",
+        "senate",
+        "democrat",
+        "vote",
+        "sen",
+        "ha",
+        "court",
+        "senator",
+        "nomination",
+        "committee",
+        "republican",
+        "hearing",
+        "supreme",
+        "nominee"
+      ],
+      "topic_weights": [
+        416.34971862377284,
+        292.1812468602757,
+        267.8277617143122,
+        242.14757964186182,
+        213.06088631565973,
+        167.54415744792024,
+        162.88102211345137,
+        146.52115227143918,
+        138.106412555146,
+        134.04078238067893,
+        125.26590159482964,
+        123.96550787042096,
+        119.45523593435065,
+        113.27002718735413,
+        100.33810215476828
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 41,
+    "0": 106,
+    "4": 33,
+    "2": 41,
+    "1": 53
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "I am sure you have tried just like I have. Every time you make a point based on facts it does not matter – you are shot down. It does not matter what good is being done or who has benefited. You will ...",
+        "upvotes": 13,
+        "url": "https://townhall.com/columnists/brucebialosky/2018/09/02/its-time-to-give-up-on-them--the-antitrumpers-n2514433"
+      },
+      {
+        "preview": "Democratic Socialist Alexandria Ocasio-Cortez campaigned with New York Lt. Governor candidate Jumaane Williams in Queens on Saturday where she recruited young kids to \"fight Trump\" and help mobilize v...",
+        "upvotes": 19,
+        "url": "https://www.theblaze.com/news/2018/09/02/watch-socialist-ocasio-cortez-recruits-children-to-fight-trump-help-impeach-him-from-office"
+      },
+      {
+        "preview": "The site navigation utilizes arrow, enter, escape, and space bar key commands. Left and right arrows move across top level links and expand / close menus in sub levels. Up and Down arrows will open ma...",
+        "upvotes": 121,
+        "url": "https://www.intellectualtakeout.org/article/social-justice-fake-scholarship-oxford-philosopher-says"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. Marco RubioMarco Antonio RubioOvernight Hillicon Valley — Hacking goes global Rubio knocks CIA over consideration of TikTok presence Overnight H...",
+        "upvotes": 1,
+        "url": "http://thehill.com/policy/technology/405150-sen-rubio-and-alex-jones-spat-outside-senate-intelligence-hearing"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill New York H...",
+        "upvotes": 18,
+        "url": "https://www.nationalreview.com/news/hillary-clinton-repeats-kamala-harriss-false-kavanaugh-claim/"
+      },
+      {
+        "preview": "The White House responded Thursday to an attempt by Senate Democrats to smear Judge Brett Kavanaugh with unfounded allegations. “Senator Schumer promised to ‘oppose Judge Kavanaugh’s nomination with e...",
+        "upvotes": 3,
+        "url": "https://www.breitbart.com/big-government/2018/09/13/white-house-questions-last-minute-democrat-attempt-to-smear-brett-kavanaugh/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The city of Golden, Colo., is set to vote in November on whether to lower the minimum voting age in local elections from 18 to 16, The Denver Post re...",
+        "upvotes": 60,
+        "url": "http://thehill.com/blogs/blog-briefing-room/404831-colorado-city-to-vote-on-lowering-voting-age-to-16"
+      },
+      {
+        "preview": "Sign In Of 19 charged with illegally voting, at least 18 registered at DMVs Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on...",
+        "upvotes": 56,
+        "url": "https://www.washingtontimes.com/news/2018/sep/3/illegal-immigrants-use-motor-voter-get-rolls-cant-/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 12,
+        "url": "https://www.washingtontimes.com/news/2018/sep/3/gop-candidates-pressure-donald-trump-abandon-pay-f/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "In the wake of a landmark U.S. Supreme Court decision curbing the power of public employee labor unions, the state of New Mexico has stopped deducting \"fair share\" fees from the wages of workers who h...",
+        "upvotes": 5,
+        "url": "https://www.lcsun-news.com/story/news/local/new-mexico/2018/08/26/new-mexico-asks-union-workers-waive-first-amendment-rights/1104683002/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 5,
+        "url": "https://www.washingtontimes.com/news/2018/aug/31/ian-smith-ex-dhs-analyst-linked-white-nationalists/"
+      },
+      {
+        "preview": "YANGON, Myanmar (AP) — A Myanmar court sentenced two Reuters journalists to seven years in prison Monday on charges of illegal possession of official documents, a ruling met with international condemn...",
+        "upvotes": 33,
+        "url": "https://apnews.com/bd0f856e7eaa46ffb744d1909c29d9f1/Myanmar-court-sentences-Reuters-reporters-to-7-years-in-jail"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Over the past couple of years, while the battles over kneeling during the National Anthem frequently drew more attention than the struggles on the line of scrimmage, the NFL’s ratings have been droppi...",
+        "upvotes": 13,
+        "url": "https://hotair.com/archives/2018/09/02/nfl-looks-get-viewers-back-digital-streaming-good-luck/"
+      },
+      {
+        "preview": "Massachusetts Democratic Sen. Elizabeth Warren said she was glad a group of protesters gathered inside the Hart Senate office building during the confirmation of Supreme Court nominee Brett Kavanaugh ...",
+        "upvotes": 142,
+        "url": "https://dailycaller.com/2018/09/04/elizabeth-warren-protesters-kavanaugh/"
+      },
+      {
+        "preview": "The left is out of ideas. Leftists have absolutely no grounds for opposing the nomination of Judge Brett Kavanaugh to the Supreme Court. Yet they do, and with a passion. Attempting to politicize the n...",
+        "upvotes": 33,
+        "url": "https://www.americanthinker.com/blog/2018/09/three_frauds_ginned_up_by_democrats_at_the_kavanaugh_hearing.html"
+      }
+    ]
+  }
+}

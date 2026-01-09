@@ -1,0 +1,280 @@
+{
+  "month": "2017-10",
+  "total_articles": 139,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "podesta",
+        "group",
+        "firm",
+        "law",
+        "foreign",
+        "fbi",
+        "intelligence",
+        "american",
+        "ha",
+        "information",
+        "government",
+        "wa",
+        "privacy",
+        "search",
+        "federal"
+      ],
+      "topic_weights": [
+        204.40035883132822,
+        111.32105662500179,
+        99.14177992103161,
+        90.24321452374062,
+        89.75345231867658,
+        87.24317935442814,
+        85.02354466164755,
+        81.69398503083329,
+        75.69055628852297,
+        74.90014079714092,
+        58.76827001886266,
+        48.434465051029015,
+        48.10559529020758,
+        46.440521467213784,
+        43.94093345660059
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "manafort",
+        "foreign",
+        "money",
+        "count",
+        "indictment",
+        "agent",
+        "mueller",
+        "section",
+        "violation",
+        "ha",
+        "trump",
+        "wa",
+        "activity",
+        "conspiracy",
+        "statement"
+      ],
+      "topic_weights": [
+        146.73837939369457,
+        110.06783477307165,
+        109.55958774254037,
+        94.07915249504626,
+        86.87338980414235,
+        81.21521651521041,
+        71.66428386119631,
+        68.39389303701466,
+        60.14531254301501,
+        56.37823150946169,
+        55.283118071692904,
+        51.200076834888634,
+        51.01616386867491,
+        48.75705751304591,
+        47.621489739912484
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "tax",
+        "medium",
+        "event",
+        "campaign",
+        "president",
+        "wa",
+        "news",
+        "ha",
+        "mueller",
+        "election",
+        "research",
+        "house",
+        "state",
+        "russia"
+      ],
+      "topic_weights": [
+        291.87434239930144,
+        120.90901189652742,
+        100.52211995498189,
+        92.26148328101813,
+        90.94143320609852,
+        69.33226918716667,
+        68.47064580467429,
+        65.85928185340605,
+        65.38933640538798,
+        62.03967267559537,
+        61.330340497335264,
+        60.19362369453161,
+        55.86842504583302,
+        45.01280080073317,
+        44.708604253922914
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "experience",
+        "white",
+        "american",
+        "woman",
+        "mind",
+        "property",
+        "human",
+        "world",
+        "matter",
+        "national",
+        "student",
+        "men",
+        "life"
+      ],
+      "topic_weights": [
+        214.3002599890779,
+        136.5489162252859,
+        85.04164554792126,
+        83.24515478633792,
+        73.52507603369466,
+        72.41970218190153,
+        66.40252109239357,
+        65.21866167085405,
+        65.17849586296138,
+        63.82192035251506,
+        63.52596666664199,
+        62.74826917910178,
+        58.762791315985936,
+        52.68998066842652,
+        49.792676610249266
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "republican",
+        "wa",
+        "obama",
+        "clinton",
+        "trump",
+        "advertisement",
+        "president",
+        "ha",
+        "state",
+        "political",
+        "problem",
+        "champion",
+        "hillary",
+        "fbi",
+        "deal"
+      ],
+      "topic_weights": [
+        482.6778446016702,
+        357.00672281746046,
+        249.56490657683992,
+        230.63026706472826,
+        226.33446169923454,
+        207.67510913657313,
+        197.44497990219207,
+        145.43802327974657,
+        145.37787162489312,
+        134.41910443893664,
+        131.69429666050166,
+        131.2030272734364,
+        124.10837172457485,
+        119.28041948658964,
+        110.27643296302978
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 24,
+    "3": 65,
+    "2": 42,
+    "1": 2,
+    "0": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "House Minority leader Rep. Nancy Pelosi today described Donald Trump’s popular immigration principles as “trash” and as “brutal” towards illegal immigrants, despite repeated election results showing t...",
+        "upvotes": 124,
+        "url": "http://www.breitbart.com/big-government/2017/10/11/pelosi-donald-trumps-immigration-principles-trash-brutal/"
+      },
+      {
+        "preview": "By KrisAnne Hall, JD U.S. Attorney General Jeff Sessions has vowed to exceed the Obama Administration’s level of violations on American property and due process rights through the draconian use of the...",
+        "upvotes": 97,
+        "url": "https://therevolutionaryact.com/america-guilty-proven-innocent-nation/"
+      },
+      {
+        "preview": "A federal court appeared to rebuke North Carolina Republicans on Thursday for failing to fully fix election districts illegally drawn because they weakened the influence of black voters. Judges on the...",
+        "upvotes": 1,
+        "url": "https://m.huffpost.com/us/entry/us_59f23725e4b03cd20b805ace"
+      }
+    ],
+    "1": [
+      {
+        "preview": "1603.3. (a) Before donation of blood or blood components, a donor shall be notified in writing of, and shall have signed a written statement confirming the notifition of, all of the following:(1) That...",
+        "upvotes": 16,
+        "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB239"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 19,
+        "url": "http://www.nationalreview.com/article/453244/manafort-indictment-no-signs-trump-russia-collusion"
+      }
+    ],
+    "2": [
+      {
+        "preview": "REUTERS/ Kyle Grillot Illegal immigrants and their children eat up $135 billion in public funds every year, according to a report that examines the fiscal impact of unauthorized immigration in the U.S...",
+        "upvotes": 20,
+        "url": "http://dailycaller.com/2017/09/28/the-total-fiscal-cost-of-illegal-immigration-is-a-staggering-135-billion-report-says/"
+      },
+      {
+        "preview": "Says he wants to focus on those who \"have really suffered.\" Millions desperate for food, water and fuel in Puerto Rico — -- President Trump dedicated the trophy of the Presidents Cup lf tournament to ...",
+        "upvotes": 3,
+        "url": "http://abcnews.go.com/Politics/trump-dedicates-golf-trophy-hurricane-victims-amid-controversy/story?id=50219943"
+      },
+      {
+        "preview": "There appears to be a wide rift between federal Democratic lawmakers and the voters who put them in office on the question of investigating campus sexual assault. In contrast to two thirds of Senate D...",
+        "upvotes": 14,
+        "url": "https://www.thecollegefix.com/bulletin-board/vast-majority-democratic-voters-support-due-process-accused-students/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 15,
+        "url": "http://www.nationalreview.com/corner/452068/pushing-euthanasia-depressed"
+      },
+      {
+        "preview": "A genital reconstructive surgeon who specializes in transgender reversal operations has received dozens of requests for operations, according to a report. The Telegraph interviewed Professor Miroslav ...",
+        "upvotes": 41,
+        "url": "http://www.breitbart.com/tech/2017/10/02/report-genital-reconstructive-surgeon-receives-dozens-requests-reversal-trans-ops/"
+      },
+      {
+        "preview": "Global warming has become a religion. This is the opinion of Nobel Prize Winning Physicist Dr. Ivar Giaever , Prof. Richard Lindzen, and many others. Climate change alarmism has a surprising number of...",
+        "upvotes": 9,
+        "url": "https://defyccc.com/cult-of-climate-change/?LL"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Just four days ago San Juan, Puerto Rico Mayor Carmen Yulin Cruz Soto praised FEMA for the work on the island. Puerto Rico was devastated by Hurricane Irma and then Hurricane Maria a cat...",
+        "upvotes": 113,
+        "url": "http://www.thegatewaypundit.com/2017/09/san-juan-mayor-tells-liberal-media-getting-no-help-trump-stands-front-pallets-aid/"
+      },
+      {
+        "preview": "Advertisement This comes after thousands of hours of testimony and investigations. Advertisement - story continues below The Russian hoax continues! TRENDING: Kentucky Health Care Workers Refused to C...",
+        "upvotes": 52,
+        "url": "http://www.thegatewaypundit.com/2017/10/disgraceful-gop-senate-intel-leader-burr-found-no-evidence-russian-collusion-will-keep-looking-video/"
+      },
+      {
+        "preview": "Advertisement In a video announcement released on September 18th, Project Veritas founder and guerrilla journalist James O’Keefe warned his organization was currently operating one of the biggest ever...",
+        "upvotes": 10,
+        "url": "http://www.thegatewaypundit.com/2017/10/nyt-deputy-managing-editor-responds-james-okeefes-undercover-video-launches-internal-investigation/"
+      }
+    ]
+  }
+}

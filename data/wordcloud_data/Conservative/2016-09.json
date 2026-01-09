@@ -1,0 +1,36 @@
+{
+  "month": "2016-09",
+  "total_articles": 285,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2016 US Presidential Election Campaign (Clinton vs Trump)",
+      "core_keywords": ["election", "clinton", "trump", "hillary", "campaign", "poll", "email", "debate", "voter"],
+      "importance_ratio": 0.4702
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Obama Administration and Refugee Policy",
+      "core_keywords": ["obama", "refugee", "government", "administration", "president", "state", "senate", "court"],
+      "importance_ratio": 0.0982
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Racial Issues and Social Justice in America",
+      "core_keywords": ["black", "white", "police", "woman", "gun", "american", "social", "university", "student"],
+      "importance_ratio": 0.2772
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Presidential Affairs and National Security",
+      "core_keywords": ["president", "white house", "air force", "plane", "muslim", "press", "bush"],
+      "importance_ratio": 0.0316
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Economic Policies and Tax Reform",
+      "core_keywords": ["trump", "tax", "business", "policy", "clinton", "american", "rate", "country"],
+      "importance_ratio": 0.1228
+    }
+  ]
+}

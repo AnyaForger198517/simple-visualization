@@ -1,0 +1,285 @@
+{
+  "month": "2012-02",
+  "total_articles": 60,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "ha",
+        "percent",
+        "romney",
+        "obama",
+        "conservative",
+        "state",
+        "campaign",
+        "president",
+        "liberal",
+        "group",
+        "wa",
+        "million",
+        "political",
+        "santorum"
+      ],
+      "topic_weights": [
+        105.07883396136229,
+        84.55041497397643,
+        83.21482495880204,
+        81.68560622849407,
+        80.96670868546859,
+        74.87183994306949,
+        56.35337924985137,
+        52.62239340530085,
+        51.23585040422909,
+        51.14132817468332,
+        44.56382574517956,
+        41.445471447251194,
+        41.237648490018984,
+        40.55076657991461,
+        39.935504700638134
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "santorum",
+        "ha",
+        "desk",
+        "romney",
+        "senate",
+        "candy",
+        "senator",
+        "republican",
+        "capitalism",
+        "free",
+        "chip",
+        "pen",
+        "gingrich",
+        "american"
+      ],
+      "topic_weights": [
+        86.02660209233177,
+        74.2851606396318,
+        54.902452070107906,
+        49.63368735860576,
+        49.18488239637961,
+        40.74153046368358,
+        40.26507787899866,
+        33.63851313752092,
+        26.24561310308974,
+        25.251933586843077,
+        24.18148067701213,
+        23.470923463357074,
+        22.521178812941784,
+        22.46215352484046,
+        22.13486239813861
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "paul",
+        "wa",
+        "ron",
+        "party",
+        "republican",
+        "supporter",
+        "ha",
+        "state",
+        "vote",
+        "candidate",
+        "gop",
+        "libertarian",
+        "obama",
+        "did",
+        "government"
+      ],
+      "topic_weights": [
+        366.0693811859446,
+        198.87666044121465,
+        146.4552471530153,
+        116.61602958672431,
+        81.39883306534317,
+        75.59743791676699,
+        67.88900009898398,
+        65.90651227226488,
+        59.6463739363955,
+        55.56734061420667,
+        53.908522695290095,
+        43.61058012563544,
+        42.21892332294108,
+        36.35453820238199,
+        33.97431747238856
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "god",
+        "trust",
+        "wa",
+        "state",
+        "obama",
+        "coin",
+        "ha",
+        "president",
+        "phrase",
+        "court",
+        "american",
+        "chrysler",
+        "united",
+        "lobbyist",
+        "million"
+      ],
+      "topic_weights": [
+        81.82443746507393,
+        65.27775683065833,
+        63.799035081485016,
+        43.634770923417626,
+        41.556353178064555,
+        40.98636563676862,
+        32.087257519703684,
+        30.980681908126193,
+        27.034748868055537,
+        23.680304674119824,
+        20.896756465195196,
+        19.386238748481055,
+        18.569675535144036,
+        16.823359553156763,
+        16.479172027931522
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "wa",
+        "obama",
+        "federal",
+        "president",
+        "american",
+        "government",
+        "house",
+        "state",
+        "billion",
+        "budget",
+        "republican",
+        "million",
+        "pay",
+        "gingrich"
+      ],
+      "topic_weights": [
+        58.187961929757044,
+        57.04181306412049,
+        55.72411938962498,
+        49.34757013476954,
+        46.58913547912371,
+        43.86777773111487,
+        43.758493897010545,
+        30.716086156793143,
+        29.730244725113785,
+        28.76972857522068,
+        28.31580764922245,
+        27.89710925019274,
+        26.933204617668398,
+        24.950262207072683,
+        24.011407641605494
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 12,
+    "0": 18,
+    "4": 17,
+    "2": 9,
+    "3": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Romney's powerful fundraising network has effectively existed since before 2008. By DAVE LEVINTHAL 01/31/2012 07:55 PM EST Updated 01/31/2012 11:08 PM EST As Republican Mitt Romney tonight scored an e...",
+        "upvotes": 0,
+        "url": "http://www.politico.com/news/stories/0112/72261.html"
+      },
+      {
+        "preview": "Will Nevada TV viewers get a replay of the nasty ad war between Mitt Romney and Newt Gingrich in Florida? The Las Vegas Sun reports Gingrich and Winning Our Future, the super PAC that supports the for...",
+        "upvotes": 3,
+        "url": "http://content.usatoday.com/communities/onpolitics/post/2012/02/mitt-romney-newt-gingrich-nevada-caucuses-ads/1"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "http://www.washingtontimes.com/news/2012/feb/1/inside-the-beltway-288948244/#.TyrY1p9aeT0.reddit"
+      }
+    ],
+    "1": [
+      {
+        "preview": "His bid is dividing her fans, some of whom object to his character problems and big-government tendencies. Beware, Tea Partiers. When Newt Gingrich proclaimed in early December that he would be the GO...",
+        "upvotes": 1,
+        "url": "http://www.theatlantic.com/politics/archive/2012/01/on-sarah-palins-facebook-page-a-revolt-against-newt-gingrich/252176/"
+      },
+      {
+        "preview": "WINDERMERE, Fla.--Next time, Eddie Dillard won't wear flip-flops. Dillard, a 29-year-old Ron Paul supporter from this suburb near Orlando, arrived to vote at his precinct at Winderemere Baptist Church...",
+        "upvotes": 20,
+        "url": "http://news.yahoo.com/blogs/ticket/everyone-step-toes-gingrich-security-harasses-ron-paul-165042767.html"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Economics A. Barton Hinkle | 1.31.2012 12:00 PM The glories of free-market capitalism are capacious. It has lifted hundreds of millions ...",
+        "upvotes": 14,
+        "url": "http://reason.com/archives/2012/01/31/the-glories-of-capitalism"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 4,
+        "url": "http://www.buzzfeed.com/buzzfeedpolitics/ron-pauls-biggest-supporter-is-a-bilderberger"
+      },
+      {
+        "preview": "Advertisement Supported by By Richard A. Oppel Jr. HENDERSON, Nev. — Four years ago, an angry and dispirited educational database expert named Carl Bunce walked out of Nevada’s state Republican conven...",
+        "upvotes": 4,
+        "url": "http://www.nytimes.com/2012/02/02/us/politics/paul-supporters-go-from-outsiders-to-vanguard-in-nevada-gop.html"
+      },
+      {
+        "preview": "Members of the nationalist American Third Position Party (A3P), whose website was defaced by Anonymous, organised Republican presidential candidate Ron Paul's meetings and campaigns, according to emai...",
+        "upvotes": 1,
+        "url": "http://www.ibtimes.co.uk/articles/291000/20120201/anonymous-ron-paul-neo-nazi-bnp-a3p.htm"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Dissembling on ethics, jobs and oil imports By Robert Farley Posted on January 20, 2012 | Corrected on January 21, 2012 President Obama’s first 2012 campaign ad misleads on ethics, “clean-energy” jobs...",
+        "upvotes": 6,
+        "url": "http://factcheck.org/2012/01/misleading-claims-in-obamas-first-2012-spot/"
+      },
+      {
+        "preview": "ADVERTISEMENT Warren Buffett’s Net Worth Jumps $154M Thanks to Mortgage Settlement SHARE Warren Buffett’s stake in Bank of America Corp. increased in value by $154 million after President Obama and th...",
+        "upvotes": 6,
+        "url": "http://freebeacon.com/warren-buffetts-net-worth-jumps-154m-thanks-to-mortgage-settlement/"
+      },
+      {
+        "preview": "\"In God We Trust\" (sometimes rendered \"In God we trust\") is the official motto of the United States[1][2][3] and of the U.S. state of Florida.[4][5] It was adopted by the U.S. Congress in 1956, replac...",
+        "upvotes": 50,
+        "url": "http://en.wikipedia.org/wiki/In_God_We_Trust"
+      }
+    ],
+    "4": [
+      {
+        "preview": "By Daniel McGroarty Republicans, Democrats, the Tea Party and the Occupy movement -- it seems every American from 1 to 99 has his own favorite plan on how to tackle taxes and federal spending. Assumin...",
+        "upvotes": 2,
+        "url": "http://www.oregonlive.com/opinion/index.ssf/2012/01/bonfire_of_the_billionaires.html"
+      },
+      {
+        "preview": "Trending: President Barack Obama delivers his State of the Union address on Capitol Hill in Washington, Tuesday, Jan. 24, 2012. Had I been asked to deliver the State of the Union address, it would not...",
+        "upvotes": 7,
+        "url": "http://www.ocregister.com/opinion/government-337716-obama-president.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Senate voted 96 to 3 Thursday to prohibit members of Congress from using non-public information for personal financial gain but beat back a slew ...",
+        "upvotes": 34,
+        "url": "http://thehill.com/blogs/floor-action/senate/208423-senate-approves-bill-to-ban-insider-trading-by-lawmakers"
+      }
+    ]
+  }
+}

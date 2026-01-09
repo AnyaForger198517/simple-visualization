@@ -1,0 +1,36 @@
+{
+  "month": "2017-04",
+  "total_articles": 266,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump's Tax Policy and Republican Federal Budget Reform",
+      "core_keywords": ["trump", "tax", "republican", "budget", "federal", "cut", "policy"],
+      "importance_ratio": 0.0714
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Partisan Politics and Social Issues like Abortion",
+      "core_keywords": ["party", "democrat", "conservative", "abortion", "woman", "election", "trump"],
+      "importance_ratio": 0.1128
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Law Enforcement and Racial Issues in Washington",
+      "core_keywords": ["police", "black", "law", "enforcement", "trump", "washington", "charge"],
+      "importance_ratio": 0.1504
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Presidency and North Korea Nuclear Tensions",
+      "core_keywords": ["trump", "president", "north korea", "nuclear", "military", "senate", "obama"],
+      "importance_ratio": 0.2444
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social Issues: Students, Climate and Gun Policies",
+      "core_keywords": ["student", "visa", "climate", "gun", "university", "black", "science"],
+      "importance_ratio": 0.4210
+    }
+  ]
+}

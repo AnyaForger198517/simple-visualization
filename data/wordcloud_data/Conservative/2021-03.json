@@ -1,0 +1,36 @@
+{
+  "month": "2021-03",
+  "total_articles": 122,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Biden's Administration and Border Policy Debates",
+      "core_keywords": ["biden", "president", "border", "democrat", "republican", "military", "trump", "policy"],
+      "importance_ratio": 0.3607
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Anti-Asian Attacks and School Community Issues",
+      "core_keywords": ["asian", "attack", "school", "china", "student", "police", "community", "american"],
+      "importance_ratio": 0.1230
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Vaccine Distribution and State Mask Mandate Policies",
+      "core_keywords": ["vaccine", "mask", "state", "governor", "texas", "trump", "johnson", "gun"],
+      "importance_ratio": 0.1066
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Capitol Incident and Racial Justice Protests",
+      "core_keywords": ["capitol", "trump", "police", "black lives matter", "attack", "video", "family", "advertisement"],
+      "importance_ratio": 0.2377
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Election Security and Structural Racism Discussions",
+      "core_keywords": ["election", "racism", "court", "law", "vote", "ballot", "security", "community"],
+      "importance_ratio": 0.1721
+    }
+  ]
+}

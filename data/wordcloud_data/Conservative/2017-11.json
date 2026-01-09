@@ -1,0 +1,36 @@
+{
+  "month": "2017-11",
+  "total_articles": 181,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US racial issues in education (black-white, college/university context)",
+      "core_keywords": ["black", "white", "student", "school", "college", "Yale", "American culture"],
+      "importance_ratio": 4.42
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump, Clinton and sexual harassment scandals in US politics",
+      "core_keywords": ["Trump", "Clinton", "sexual", "woman", "Moore", "Franken", "Republican"],
+      "importance_ratio": 54.69
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US tax policy, income and political party (Democrat/Republican) debates",
+      "core_keywords": ["tax", "income", "Democrat", "Republican", "state", "business", "cut"],
+      "importance_ratio": 18.23
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US social revolution, race and democratic society issues",
+      "core_keywords": ["revolution", "white", "black", "social", "democracy", "election", "elite"],
+      "importance_ratio": 1.10
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump administration, CFPB and Russian investigation legal issues",
+      "core_keywords": ["Trump", "president", "CFPB", "law", "court", "Russian", "agency"],
+      "importance_ratio": 21.55
+    }
+  ]
+}

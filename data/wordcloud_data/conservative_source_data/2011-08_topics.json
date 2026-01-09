@@ -1,0 +1,285 @@
+{
+  "month": "2011-08",
+  "total_articles": 71,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "perry",
+        "texas",
+        "ha",
+        "state",
+        "wa",
+        "republican",
+        "tax",
+        "obama",
+        "conservative",
+        "paul",
+        "candidate",
+        "party",
+        "campaign",
+        "president",
+        "government"
+      ],
+      "topic_weights": [
+        124.89850123756833,
+        112.25346667540879,
+        79.34650649870379,
+        78.96107745951767,
+        58.168025632343884,
+        47.64784326630914,
+        46.47255869702401,
+        44.9383054366577,
+        36.54055347206679,
+        34.052670088542335,
+        32.19064797995166,
+        29.661466003997045,
+        29.409823769148954,
+        28.453213978326286,
+        28.048759658530376
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "wa",
+        "gun",
+        "obama",
+        "president",
+        "government",
+        "state",
+        "budget",
+        "law",
+        "american",
+        "debt",
+        "spending",
+        "house",
+        "america",
+        "republican"
+      ],
+      "topic_weights": [
+        193.5812149660134,
+        174.82889597509944,
+        127.5457391456394,
+        122.38462378849486,
+        118.15563333727931,
+        114.69943752595678,
+        100.47122959162155,
+        91.35754399512581,
+        89.03949581483246,
+        78.23064760044898,
+        75.22959235344038,
+        73.95170614009612,
+        63.037504476110634,
+        58.64506756844078,
+        57.406533604578634
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "corporation",
+        "tax",
+        "wa",
+        "business",
+        "liability",
+        "rich",
+        "government",
+        "romney",
+        "market",
+        "corporate",
+        "individual",
+        "ha",
+        "income",
+        "owner",
+        "money"
+      ],
+      "topic_weights": [
+        121.08675718165472,
+        106.82502006003432,
+        89.80060771753132,
+        79.57866485609732,
+        61.92341425385935,
+        57.88592402255525,
+        49.75169191427416,
+        48.04478725056683,
+        43.894972210601516,
+        42.60531753758014,
+        41.84812128919173,
+        41.07113108647863,
+        39.27300844167198,
+        37.4468712820461,
+        37.28830281843087
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "black",
+        "wa",
+        "white",
+        "riot",
+        "ha",
+        "race",
+        "leader",
+        "point",
+        "ethnic",
+        "book",
+        "london",
+        "culture",
+        "community",
+        "did",
+        "country"
+      ],
+      "topic_weights": [
+        145.76778356069212,
+        129.69069665918488,
+        82.37371486964888,
+        61.733781072634805,
+        39.18281795745335,
+        38.02680603109843,
+        34.60690044313082,
+        29.15359405986787,
+        27.676592963908554,
+        27.326218376740126,
+        26.929029071935297,
+        26.353630582772325,
+        25.598075997009822,
+        24.68936207059589,
+        24.209942179980704
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "september",
+        "child",
+        "percent",
+        "speech",
+        "poverty",
+        "state",
+        "statute",
+        "group",
+        "family",
+        "ha",
+        "wa",
+        "pedophile",
+        "report",
+        "law",
+        "conference"
+      ],
+      "topic_weights": [
+        61.379423614335586,
+        46.957232278105046,
+        27.674441992319483,
+        21.46892446624269,
+        17.98939005508912,
+        17.32238952103916,
+        17.072344201803965,
+        16.178483147862547,
+        13.645660434769018,
+        13.598277942643477,
+        13.389709281385207,
+        13.20845166183278,
+        12.743087930423037,
+        12.481093081902666,
+        11.391796562193365
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 6,
+    "1": 45,
+    "3": 7,
+    "2": 7,
+    "4": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "So the loss of 3 groups who have been sponsors longer than GOProud is less important?Regardless of the supposed reason behind their withdrawal, they count less? Plus do we know the reasons that GOProu...",
+        "upvotes": 8,
+        "url": "http://yidwithlid.blogspot.com/2011/07/stupid-stupid-decision-by-cpac.html"
+      },
+      {
+        "preview": "WASHINGTON—Calling a GOP victory in the 2012 presidential election antithetical to the party platform, top Republicans revealed a new long-term political strategy Tuesday: reelecting Barack Obama and ...",
+        "upvotes": 0,
+        "url": "http://www.theonion.com/articles/new-gop-strategy-involves-reelecting-obama-making,21113/"
+      },
+      {
+        "preview": "Despite Texas not being so miraculous(low paying jobs for illegals and low youth employment), I doubt any opponent would call him on that.On the fertility front aren't second generation hispanics fall...",
+        "upvotes": 1,
+        "url": "http://isteve.blogspot.com/2011/08/texas-miracle.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "by Michael Newton The only thing that has grown faster than the national debt is the number of laws and regulations with which a bloated federal government has burdened its beleaguered citizenry. The ...",
+        "upvotes": 0,
+        "url": "http://www.whatwouldthefoundersthink.com/what-would-james-madison-say-about-our-legal-code"
+      },
+      {
+        "preview": "Traditionalist conservatives and classical liberals need Charles Darwin. They need him because a Darwinian science of human nature supports Burkean conservatives and Lockean liberals in their realist ...",
+        "upvotes": 1,
+        "url": "http://darwinianconservatism.blogspot.com/2011/07/does-gay-marriage-perform-functions-of.html"
+      },
+      {
+        "preview": "Sign In $2,200 a month for cottage use Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overre...",
+        "upvotes": 1,
+        "url": "http://www.washingtontimes.com/news/2011/jul/31/biden-charging-secret-service-cottage-rental/print/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Blame the Rich! Oh how I loath the tall American standing in line in front of me. He who stepped out from his titanium silver Maserati Qauttroporte with its gleaming triton emblem. The afternoon sun i...",
+        "upvotes": 1,
+        "url": "http://jasonrmanning.hubpages.com/hub/Blame-the-Rich"
+      },
+      {
+        "preview": "please join the sach rb group here on  I just sent a complaint to the BBC. This is totally disgusting. What kind of a world do we live in?? The Facebook page is a start but you should post what you've...",
+        "upvotes": 1,
+        "url": "http://paulweston101.blogspot.com/2011/08/bbc-sarah-palin-downs-syndrome-babies.html"
+      },
+      {
+        "preview": "ing, threatning, violent, unAmerican sort of activity that the Left so often accused the Tea Party of engaging in two summers ago? Yeah, but it is different when they do it. “Another bonus moment from...",
+        "upvotes": 26,
+        "url": "http://reason.com/blog/2011/08/11/romney-corporations-are-people"
+      }
+    ],
+    "3": [
+      {
+        "preview": "by Brett Stevens on August 1, 2011 People think in binary terms: would I want this? Would other people want this? It doesn’t occur to them that beneath this rigid, conformist and authoritarian yes / n...",
+        "upvotes": 2,
+        "url": "http://www.amerika.org/politics/cause-for-war/"
+      },
+      {
+        "preview": "by Brett Stevens on August 14, 2011 The pundits are lining up to kick Obama while he’s down, and as usual, they’re merely bleating what the Crowd wants them to hear. Right now, what the Crowd wants to...",
+        "upvotes": 0,
+        "url": "http://www.amerika.org/politics/scapegoat/"
+      },
+      {
+        "preview": "Extremely interesting, and the results certainly are the type to make the media squirm. The thing is, only with an honest assessment of the riots can we begin finding actual solutions. Obviously somet...",
+        "upvotes": 1,
+        "url": "http://humstats.blogspot.com/2011/08/uk-riots-ethnicity-statistics.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "If a small group of psychiatrists and other mental health professionals have their way at a conference this week, pedophiles themselves could play a role in removing pedophilia from the American Psych...",
+        "upvotes": 1,
+        "url": "http://dailycaller.com/2011/08/15/conference-aims-to-normalize-pedophilia/"
+      },
+      {
+        "preview": "One in five US children lives in poverty, according to a new report. As families suffer under the weight of joblessness, low wages and the housing crisis, it is the youngest members of American societ...",
+        "upvotes": 2,
+        "url": "http://wsws.org/articles/2011/aug2011/pove-a19.shtml"
+      },
+      {
+        "preview": "September 19, 2021 September 19, 2021 September 19, 2021 September 19, 2021 September 19, 2021 September 19, 2021 September 19, 2021 September 19, 2021 September 19, 2021 September 19, 2021 September ...",
+        "upvotes": 0,
+        "url": "http://newsflavor.com/politics/us-politics/white-house-insider-the-obama-plan-part-three-2/"
+      }
+    ]
+  }
+}

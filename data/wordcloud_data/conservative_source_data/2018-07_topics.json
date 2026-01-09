@@ -1,0 +1,285 @@
+{
+  "month": "2018-07",
+  "total_articles": 162,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "speech",
+        "wa",
+        "group",
+        "free",
+        "gun",
+        "ha",
+        "ben",
+        "conservative",
+        "hate",
+        "law",
+        "amendment",
+        "news",
+        "organization",
+        "shapiro",
+        "twitter"
+      ],
+      "topic_weights": [
+        113.66753232999118,
+        99.50670664210568,
+        98.01232486189869,
+        83.56156699359398,
+        81.92735629916913,
+        65.8566956742919,
+        63.69782131369152,
+        58.13160877011059,
+        56.679079122440385,
+        48.11504429914131,
+        43.32789254131282,
+        40.061249645835595,
+        37.2003772617618,
+        35.93453638564071,
+        35.76490052778444
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "state",
+        "government",
+        "political",
+        "twitter",
+        "republican",
+        "american",
+        "national",
+        "medium",
+        "child",
+        "nation",
+        "report",
+        "news"
+      ],
+      "topic_weights": [
+        278.3422634611177,
+        210.74668398002066,
+        160.88500357350495,
+        108.41694121878085,
+        81.88613164602152,
+        81.21590909927554,
+        71.52542943720653,
+        70.73430930043055,
+        66.43602029269702,
+        65.11158605738682,
+        63.78707577057856,
+        63.67328737809282,
+        62.51723869315204,
+        61.972065225629244,
+        59.569936510708445
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "court",
+        "percent",
+        "ha",
+        "wa",
+        "republican",
+        "president",
+        "democrat",
+        "state",
+        "trump",
+        "abortion",
+        "supreme",
+        "life",
+        "roe",
+        "vote",
+        "cent"
+      ],
+      "topic_weights": [
+        158.46609065966416,
+        110.89840218866892,
+        110.19195351035752,
+        105.12701811484557,
+        85.25170626196191,
+        84.18863831734502,
+        81.57265702552377,
+        76.64788240564445,
+        70.41736174325423,
+        63.826828466184764,
+        59.827818270200524,
+        54.3585897218005,
+        52.03424303200724,
+        49.414745221629666,
+        47.847665626522065
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "court",
+        "law",
+        "judge",
+        "kavanaugh",
+        "case",
+        "justice",
+        "company",
+        "state",
+        "wa",
+        "constitution",
+        "supreme",
+        "ha",
+        "employee",
+        "business",
+        "government"
+      ],
+      "topic_weights": [
+        149.79028369462407,
+        146.55096787547825,
+        145.79156597722505,
+        124.7015021497694,
+        111.8739319264324,
+        81.06835869024452,
+        75.71920972727602,
+        74.30562315217311,
+        72.18107811029428,
+        64.90671172635373,
+        58.202014058879406,
+        53.1041508305514,
+        44.96282497085403,
+        43.69141900799964,
+        43.01724939310809
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "american",
+        "russian",
+        "clinton",
+        "obama",
+        "campaign",
+        "fbi",
+        "ha",
+        "election",
+        "house",
+        "news",
+        "medium",
+        "white"
+      ],
+      "topic_weights": [
+        576.9571311274539,
+        277.50899892065286,
+        259.54254460739486,
+        155.46800276137543,
+        145.40838171001786,
+        135.51154841270485,
+        129.55418842883805,
+        124.68659015397961,
+        120.26441882558574,
+        118.66494016306005,
+        113.78728491099767,
+        112.5809293134335,
+        111.34405356838539,
+        106.12639988778402,
+        91.73155980689124
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 53,
+    "0": 12,
+    "1": 66,
+    "2": 19,
+    "3": 12
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Alexandria Ocasio-Cortez shocked the political world earlier this week by defeating New York’s 14th Congressional district’s long time incumbent, Rep. Joe Crowley. Many speculate that this win is a me...",
+        "upvotes": 63,
+        "url": "https://townhall.com/tipsheet/timothymeads/2018/06/30/meet-the-new-democratic-socialists-same-as-the-old-democratic-socialists-n2496171"
+      },
+      {
+        "preview": "As the leaders of Western Europe continue to surrender their countries to Islam – and to punish those who resist by trying to shut them up – one fact of which we’ve all been reminded is that Americans...",
+        "upvotes": 5,
+        "url": "https://pjmedia.com/trending/fighting-free-speech-at-the-new-york-times/"
+      },
+      {
+        "preview": "You can also follow us on Facebook, Twitter and Instagram. Fake news you can trust, delivered straight to your inbox. U.S.—While most Americans are hostile to socialism, touching a hot stove, and stic...",
+        "upvotes": 139,
+        "url": "https://babylonbee.com/news/report-millennials-more-open-to-socialism-touching-hot-stove-sticking-face-in-sack-full-of-badgers/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "SEARCH The false threat of murderous immigrants, the draconian response, a government agency going rogue—it’s all been seen before and it’s very dangerous. Is there a moment when a fanatical leader ca...",
+        "upvotes": 1,
+        "url": "https://www.thedailybeast.com/it-is-happening-here-trump-is-already-early-stage-mussolini"
+      },
+      {
+        "preview": "June is behind us, but it is not too late to look back on what official resources federal agencies have used to celebrate LGBT Pride Month. Just how much time and money have been allocated is not clea...",
+        "upvotes": 8,
+        "url": "https://www.breitbart.com/big-government/2018/07/01/federal-government-resources-used-promote-lgbt-pride/"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill New York H...",
+        "upvotes": 111,
+        "url": "https://www.nationalreview.com/news/harvey-weinstein-faces-life-in-prison-on-new-charges/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Democratic Senator Maria Cantwell of Washington showed up on Meet the Press this week along with Lindsey Graham. The topic choice was obvious since it’s nearly the only thing anyone is talking about t...",
+        "upvotes": 81,
+        "url": "https://hotair.com/archives/2018/07/01/dem-senator-vote-trumps-scotus-pick-career-toast-video/"
+      },
+      {
+        "preview": "A modest proposal: We've all heard about \"shop local\" and \"get your food from local farmers, not distant corporate farms.\" Lots of people have apple trees in their backyards. Often they can't begin to...",
+        "upvotes": 14,
+        "url": "https://www.americanthinker.com/articles/2018/07/the_incredible_scam_of_rooftop_solar.html"
+      },
+      {
+        "preview": "If you previously used a social network to login to .com, click the “Forgot your password” link to reset your password. \"A heart of gold:\" Family releases statement on arrest in case of UNC student Fa...",
+        "upvotes": 9,
+        "url": "https://www.wral.com/red-state-democrats-face-terrible-bind-on-supreme-court-pick/17681882/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Freedom from religion was not what those who fled the oppression and persecution of European monarchies sought and not what the Founding Fathers had in mind when they wrote the Constitution. Yet the F...",
+        "upvotes": 6,
+        "url": "https://www.americanthinker.com/articles/2018/07/freedom_from_religion_atheists_ignorant_of_the_constitution.html"
+      },
+      {
+        "preview": "Advertisement Supported by Fact Check of the Day As they try to block his nomination to the Supreme Court, Senate Democrats have exaggerated Judge Brett M. Kavanaugh’s hostility to the Affordable Care...",
+        "upvotes": 4,
+        "url": "https://www.nytimes.com/2018/07/12/us/politics/fact-check-democrats-kavanaugh-obamacare.html?partner=rss&emc=rss"
+      },
+      {
+        "preview": "On Friday morning, former Secretary of State Hillary Clinton suggested that President Donald Trump’s Supreme Court nominee, Judge Brett Kavanaugh, would bring back slavery if he is confirmed to the na...",
+        "upvotes": 94,
+        "url": "https://pjmedia.com/video/hillary-clinton-says-supreme-court-nominee-brett-kavanaugh-will-bring-back-slavery/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement In a moment of extreme irony, pro-life activists were shouted down by a mob of Democratic Party protesters during the “Families Belong Together” march in Washington, DC. The protests aga...",
+        "upvotes": 8,
+        "url": "https://www.thegatewaypundit.com/2018/06/irony-pro-life-activists-shouted-down-by-mob-of-familiesbelongtogethermarch-protesters-video/"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now The Billionaires’ Party Bush, Harris Laud Passengers of Flight 93 at Memorial Ceremony New York Mark...",
+        "upvotes": 27,
+        "url": "https://www.nationalreview.com/2018/06/media-bias-annapolis-shooting/"
+      },
+      {
+        "preview": "Gregory Viscusi Saturday, 30 June 2018 05:13 PM The collapse of Iran’s Islamic regime “is around the corner,” and the U.S. will keep increasing sanctions until it happens, President Donald Trump’s att...",
+        "upvotes": 1,
+        "url": "https://www.newsmax.com/t/newsmax/article/869333/16"
+      }
+    ]
+  }
+}

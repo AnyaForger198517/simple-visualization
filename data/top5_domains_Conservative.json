@@ -1,0 +1,41 @@
+{
+    "top5_domains": [
+        {
+            "domain": "breitbart",
+            "post_count": 17261,
+            "post_ratio(%)": 8.4839
+        },
+        {
+            "domain": "townhall",
+            "post_count": 7738,
+            "post_ratio(%)": 3.8033
+        },
+        {
+            "domain": "thegatewaypundit",
+            "post_count": 7720,
+            "post_ratio(%)": 3.7944
+        },
+        {
+            "domain": "nationalreview",
+            "post_count": 7495,
+            "post_ratio(%)": 3.6838
+        },
+        {
+            "domain": "dailycaller",
+            "post_count": 7101,
+            "post_ratio(%)": 3.4902
+        }
+    ],
+    "top5_total_posts": 47315,
+    "top5_total_ratio(%)": 23.2556,
+    "other_than_top5": {
+        "post_count": 156141,
+        "post_ratio(%)": 76.7444
+    },
+    "no_domain_posts": {
+        "post_count": 0,
+        "post_ratio(%)": 0.0
+    },
+    "total_posts": 203456,
+    "total_valid_domain_posts": 203456
+}

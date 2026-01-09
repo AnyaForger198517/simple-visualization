@@ -1,0 +1,36 @@
+{
+  "month": "2013-10",
+  "total_articles": 244,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Government Shutdown and Partisan Political Conflict",
+      "core_keywords": ["obama", "republican", "democrat", "government", "shutdown", "congress", "debt"],
+      "importance_ratio": 0.2746
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Federal Fiscal Policy and Government Spending Analysis",
+      "core_keywords": ["spending", "budget", "federal", "debt", "medicare", "state", "data"],
+      "importance_ratio": 0.0164
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Online Interaction and Social Discussion on Policy Issues",
+      "core_keywords": ["post", "reply", "link", "tax", "liberal", "abuse", "software"],
+      "importance_ratio": 0.0409
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Social Life and Economic Survival in Daily Context",
+      "core_keywords": ["child", "job", "economy", "family", "gay", "marriage", "survival"],
+      "importance_ratio": 0.0082
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Obamacare Implementation and Health Policy Debate",
+      "core_keywords": ["obamacare", "health", "insurance", "government", "republican", "law", "state"],
+      "importance_ratio": 0.6598
+    }
+  ]
+}

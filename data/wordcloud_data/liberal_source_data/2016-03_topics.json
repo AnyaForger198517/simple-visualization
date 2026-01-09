@@ -1,0 +1,280 @@
+{
+  "month": "2016-03",
+  "total_articles": 322,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "tax",
+        "policy",
+        "mother",
+        "ha",
+        "wa",
+        "jones",
+        "government",
+        "water",
+        "coal",
+        "budget",
+        "today",
+        "program",
+        "free",
+        "plan",
+        "term"
+      ],
+      "topic_weights": [
+        218.76219214741326,
+        146.69383513001767,
+        144.67876857479757,
+        144.0244426910879,
+        138.5858487886198,
+        134.69210977409298,
+        117.16503981058345,
+        106.760104017146,
+        90.61990174460993,
+        84.05288045695686,
+        84.02095677949112,
+        80.06803050566934,
+        79.07777059470376,
+        78.54478802863457,
+        76.9073993870747
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "income",
+        "retirement",
+        "account",
+        "family",
+        "saving",
+        "benefit",
+        "data",
+        "senior",
+        "share",
+        "chart",
+        "plan",
+        "pension",
+        "percent",
+        "age",
+        "social"
+      ],
+      "topic_weights": [
+        302.3751561255885,
+        264.6288453167676,
+        196.89202237005674,
+        181.79079116080354,
+        180.1698355017242,
+        148.76059783878677,
+        145.02353695811954,
+        130.96406379044726,
+        126.3826491122138,
+        121.1633099494365,
+        114.9137876855004,
+        111.77938936482396,
+        103.05328117671321,
+        102.3157173679387,
+        101.57107850905231
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "court",
+        "election",
+        "candidate",
+        "vote",
+        "state",
+        "republican",
+        "supreme",
+        "abortion",
+        "law",
+        "president",
+        "senate",
+        "voter",
+        "voting",
+        "wa",
+        "obama"
+      ],
+      "topic_weights": [
+        427.63549528628903,
+        261.743490746001,
+        259.34248434029627,
+        258.7145269443015,
+        239.81656822930105,
+        200.6216085493704,
+        197.3971167841198,
+        185.89028989120186,
+        184.18028690577708,
+        177.74119630828113,
+        174.10564779095606,
+        173.61952892745668,
+        170.70247401427523,
+        160.33439153800686,
+        156.29689464312372
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "sander",
+        "clinton",
+        "state",
+        "voter",
+        "delegate",
+        "democratic",
+        "party",
+        "primary",
+        "ha",
+        "republican",
+        "democrat",
+        "vote",
+        "wa",
+        "bernie",
+        "hillary"
+      ],
+      "topic_weights": [
+        1051.6893800794587,
+        961.658005707349,
+        498.23443523738206,
+        407.9074835001473,
+        374.2360521106455,
+        358.9288402239139,
+        324.2237332827636,
+        299.85393633751784,
+        295.3091377292149,
+        291.9041014764172,
+        281.5801241904469,
+        272.8034621156513,
+        257.2016325216526,
+        253.67981834101363,
+        247.3546530561823
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "campaign",
+        "republican",
+        "american",
+        "donald",
+        "state",
+        "cruz",
+        "president",
+        "clinton",
+        "political",
+        "hillary",
+        "candidate",
+        "country"
+      ],
+      "topic_weights": [
+        1804.761093555875,
+        1074.3198194735714,
+        758.845248433651,
+        457.63393786825395,
+        362.2366513919951,
+        331.20233753885185,
+        317.0942352513013,
+        286.03080081850806,
+        276.2777864819235,
+        261.1445233714687,
+        240.7500855684886,
+        221.78527604326362,
+        216.48805167467304,
+        211.75873263165707,
+        205.120855744927
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 41,
+    "3": 67,
+    "0": 41,
+    "4": 171,
+    "1": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": " Print Plus Subscriber  Print Plus Subscriber  Print Plus Subscriber  Print Plus Subscriber  Print Plus Subscriber By Dave McNary Film Reporter “The Big Short,” a darkly comic look at the 2008 financi...",
+        "upvotes": 1,
+        "url": "http://variety.com/2016/film/news/the-big-short-oscars-2016-adapted-screenplay-adam-mckay-1201717504/"
+      },
+      {
+        "preview": "<a  katz</a>/Shutterstock This story originally appeared on Grist and is reproduced here as part of the Climate Desk collaboration. Donald Trump has won the last three Republican presidential nominati...",
+        "upvotes": 23,
+        "url": "http://www.motherjones.com/environment/2016/03/trump-budget-plan"
+      },
+      {
+        "preview": "Rex Shutterstock/ZUMA Bernie Sanders has been increasingly direct in his attacks against Hillary Clinton’s past positions. But there’s only one problem with his holier-than- thou narrative: Sanders’ o...",
+        "upvotes": 3,
+        "url": "http://www.motherjones.com/politics/2016/03/bernie-sanders-hillary-clinton-voting-history"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » People with more education ha...",
+        "upvotes": 9,
+        "url": "http://www.brookings.edu/blogs/social-mobility-memos/posts/2016/02/19-college-degree-worth-less-raised-poor-hershbein"
+      },
+      {
+        "preview": "age 32–61 with retirement account savings by race, 1989–2013 (2013 dollars)11 White non-Hispanic Black Hispanic 1989 $25,306 $14,461 $9,038 1992 $27,621 $12,998 $11,373 1995 $30,358 $15,179 $18,215 19...",
+        "upvotes": 7,
+        "url": "http://www.epi.org/publication/retirement-in-america/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Logan Graham, a student at North Carolina State University, recently wrote a column in the university’s newspaper, The Technician, expressing his outrage over the troubles he faced when he tried to ge...",
+        "upvotes": 16,
+        "url": "http://reverbpress.com/politics/out-of-state-student-voter-id-north-carolina/"
+      },
+      {
+        "preview": "Mandel Ngan/Thinkstock It’s been almost two weeks now, and the talk of who Obama may appoint to replace Justice Antonin Scalia has already been pushed off the front pages. The White House rather brill...",
+        "upvotes": 17,
+        "url": "http://www.slate.com/articles/news_and_politics/jurisprudence/2016/02/the_case_for_nominating_elizabeth_warren_to_the_supreme_court.html"
+      },
+      {
+        "preview": "This year Democracy Now! is celebrating our 25th anniversary—that's 25 years of bringing you fearless, independent reporting. Since our very first broadcast in 1996, Democracy Now! has refused to take...",
+        "upvotes": 9,
+        "url": "http://www.democracynow.org/2016/2/29/16_states_face_new_voting_restrictions"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Last summer, my 16-year-old daughter asked me whether I felt the Bern. “Did you leave the stove on again?” I asked her. Now, after listening to We, the People, I feel the Bern. I hereby endorse Bernie...",
+        "upvotes": 1,
+        "url": "http://alangraysonemails.tumblr.com/post/140215957691/i-feel-the-bern"
+      },
+      {
+        "preview": "Marc Piscotty/Getty Images CHARLESTON, S.C.—The only question with South Carolina and Hillary Clinton was the final margin. Would Clinton win by 20 points, following her lead in the polls, or would Be...",
+        "upvotes": 31,
+        "url": "http://www.slate.com/articles/news_and_politics/politics/2016/02/bernie_sanders_loses_south_carolina_but_not_the_war.html"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 160,
+        "url": "http://www.buzzfeed.com/natemcdermott/congressman-alan-grayson-endorses-bernie-sanders-after-onlin#.fwjD177gW"
+      }
+    ],
+    "4": [
+      {
+        "preview": "othetical tales of job-saving, talking about how she could never convince Detroit carmakers out of moving a factory to Mexico. Unions have been abused so much by both parties in the past decades that ...",
+        "upvotes": 3,
+        "url": "http://www.rollingstone.com/politics/news/how-america-made-donald-trump-unstoppable-20160224"
+      },
+      {
+        "preview": "Your account has been created The anchor’s two teenage children reportedly said they wanted to live with their mother full-time Find your bookmarks in your  Premium section, under my profile Fox News ...",
+        "upvotes": 8,
+        "url": "http://www.independent.co.uk/news/people/fox-news-host-bill-o-reilly-loses-custody-of-his-children-after-alleged-domestic-violence-incident-a6904336.html"
+      },
+      {
+        "preview": "SEARCH The GOP frontrunner likes to brag that he self-funds his presidential campaign. What he doesn’t mention is that he’s profiting off it as well. To sift through the disbursements of presidential ...",
+        "upvotes": 179,
+        "url": "http://www.thedailybeast.com/articles/2016/03/01/donald-trump-is-paying-himself-to-run-for-president.html"
+      }
+    ]
+  }
+}

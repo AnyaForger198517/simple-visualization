@@ -1,0 +1,285 @@
+{
+  "month": "2021-04",
+  "total_articles": 278,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "law",
+        "school",
+        "university",
+        "state",
+        "court",
+        "ha",
+        "right",
+        "border",
+        "american",
+        "wa",
+        "professor",
+        "justice",
+        "member",
+        "review",
+        "freedom"
+      ],
+      "topic_weights": [
+        322.89697946054923,
+        150.02024483494972,
+        144.53087863125901,
+        132.46734674861034,
+        130.50874320741542,
+        129.60577915828998,
+        129.37514196362866,
+        107.28185665430699,
+        100.45490060312397,
+        78.93121699668836,
+        76.84881149111975,
+        74.89604932549123,
+        74.46754781201012,
+        66.18794663509291,
+        64.24718440031366
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "biden",
+        "state",
+        "president",
+        "american",
+        "democrat",
+        "ha",
+        "republican",
+        "america",
+        "gun",
+        "country",
+        "wa",
+        "voting",
+        "law",
+        "georgia",
+        "business"
+      ],
+      "topic_weights": [
+        357.3635025131876,
+        197.05018026061796,
+        193.8364504833876,
+        168.46682830058225,
+        166.83676129077594,
+        154.2939528418543,
+        130.27628593570833,
+        129.87738435466605,
+        125.86760772586301,
+        115.70481041691794,
+        115.42180766281601,
+        106.03814137751718,
+        105.6458635769658,
+        99.32915755121503,
+        97.91550882848367
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "police",
+        "vaccine",
+        "video",
+        "officer",
+        "ha",
+        "covid",
+        "death",
+        "health",
+        "old",
+        "drug",
+        "twitter",
+        "shot",
+        "according",
+        "news"
+      ],
+      "topic_weights": [
+        364.10867431974873,
+        273.39311146327503,
+        179.62195900799625,
+        171.83905888639276,
+        161.37182486606488,
+        157.25043652737568,
+        140.01374910162835,
+        119.27815635763886,
+        111.79095449888084,
+        103.92352537018382,
+        101.0000470129213,
+        98.4711929642559,
+        87.81001480979981,
+        87.56139940939579,
+        79.47631999961737
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "government",
+        "tax",
+        "wa",
+        "biden",
+        "state",
+        "federal",
+        "water",
+        "ha",
+        "dollar",
+        "work",
+        "shit",
+        "money",
+        "world",
+        "value",
+        "georgia"
+      ],
+      "topic_weights": [
+        313.9909001779969,
+        167.91270140334362,
+        167.4350206628476,
+        156.32126713316686,
+        153.42579480252323,
+        142.1078634303737,
+        126.9953674953453,
+        115.63510733623163,
+        113.40601379588742,
+        106.60832694996691,
+        102.95196353115202,
+        99.91022603287772,
+        98.92367929069673,
+        98.55500103781294,
+        97.27602816837906
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "biden",
+        "ha",
+        "president",
+        "white",
+        "house",
+        "medium",
+        "did",
+        "comment",
+        "attack",
+        "democrat",
+        "state",
+        "news",
+        "story"
+      ],
+      "topic_weights": [
+        818.7830224456007,
+        399.5363021841103,
+        289.87599999534075,
+        234.37934829073382,
+        184.02839228346957,
+        169.72727530332588,
+        167.42947871260392,
+        165.88435018807627,
+        132.78431964981152,
+        131.7715636975565,
+        122.56960796834817,
+        121.19599154620249,
+        120.29041628279865,
+        114.9818470607785,
+        111.73997833592327
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 67,
+    "0": 26,
+    "4": 100,
+    "1": 64,
+    "3": 21
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "A leading international LGBTI organisation is trying to erase child protection policies and lower the age of consent for minors. During the late 1970s and early 1980s an organisation called the Paedop...",
+        "upvotes": 1,
+        "url": "https://grahamlinehan.substack.com/p/a-piece-of-the-pie"
+      },
+      {
+        "preview": "Iowa Democrat Rita Hart has dropped her election challenge to Republican Rep. Mariannette Miller-Meeks’s 2020 victory in Iowa’s 2nd Congressional District. Hart on March 31 withdrew her challenge to h...",
+        "upvotes": 498,
+        "url": "https://www.theepochtimes.com/democrat-drops-election-challenge-over-iowa-house-race-giving-republicans-another-2020-victory_3757341.html?utm_source=news&utm_medium=reddit"
+      },
+      {
+        "preview": "More and more states are introducing legislation to ban Critical Race Theory indoctrination. Now, a bill has been introduced in Texas to ban it as well. The key passage in HB 4093 reads as follows: (5...",
+        "upvotes": 55,
+        "url": "http://politicalhat.com/2021/04/05/texas-vs-critical-race-theory/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A new caravan has formed in Central America and is traveling north with the goal of reaching the U.S.-Mexico Border. The caravan formed earlier this week as several hundred migrants left San Pedro Sul...",
+        "upvotes": 24,
+        "url": "https://www.breitbart.com/border/2021/04/01/new-migrant-caravan-begins-trek-to-u-s-from-honduras/"
+      },
+      {
+        "preview": "By: Thomas Catenacci President Joe Biden tacked on measures to his infrastructure plan that make it easier for workers to organize and more difficult for them to avoid unionization. The $2 trillion in...",
+        "upvotes": 1,
+        "url": "https://www.tampafp.com/white-house-wedges-pro-union-provisions-into-infrastructure-plan/"
+      },
+      {
+        "preview": " by: Kevin Accettulla, Nexstar Media Wire A baseball with MLB logo is seen at Citizens Bank Park before a game between the Washington Nationals and Philadelphia Phillies on June 28, 2018 in Philadelph...",
+        "upvotes": 112,
+        "url": "https://www.kark.com/sports/mlb-moves-all-star-game-out-of-atlanta-over-georgia-voter-restrictions/?utm_medium=referral&utm_source=facebook.com&utm_campaign=socialflow&fbclid=IwAR2L-cnGz5QZZxwYUF0zB3OKaprArvyhBpqbSUGMlhnlFCK1DwwZlc5szSQ"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Wisconsin's Supreme Court is striking down Gov. Tony Evers' statewide face mask mandate. Wisconsin's Supreme Court is striking down Gov. Tony Evers' statewide face mask mandate. The latest breaking up...",
+        "upvotes": 52,
+        "url": "https://www.wisn.com/article/state-supreme-court-expected-to-rule-wednesday-on-mask-mandate/35984925"
+      },
+      {
+        "preview": "A sheriff in North Carolina said the suspect in the senseless road rage murder of 47-year-old Pennsylvania mother of six Julie Eberly has a lengthy criminal record that includes a conviction for assau...",
+        "upvotes": 1,
+        "url": "https://lawandcrime.com/high-profile/sheriff-says-suspect-in-julie-eberly-murder-should-have-been-locked-up/"
+      },
+      {
+        "preview": "The United States has become the first nation to inoculate 100 million people with at least one dose of the COVID-19 vaccine, according to updated data from the Centers for Disease Control and Prevent...",
+        "upvotes": 19,
+        "url": "https://link.theepochtimes.com/mkt_app/over-100-million-americans-have-received-at-least-one-vaccine-dose-cdc_3760847.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "We use cookies for a number of reasons, such as keeping  Sites reliable and secure, personalising content and ads, providing social media features and to analyse how our Sites are used. A new world is...",
+        "upvotes": 6,
+        "url": "https://www.ft.com/content/1cbbb6d5-1676-43dd-a1cb-232f92ebb876"
+      },
+      {
+        "preview": "21 February 2021, North Rhine-Westphalia, Cologne: An electric car charging at an electric vehicle charging station Photo by Horst Galuschka/picture alliance via Getty Images By Patrick Tucker Electri...",
+        "upvotes": 0,
+        "url": "https://www.nextgov.com/cybersecurity/2021/04/electric-cars-smart-refrigerators-pose-cyber-risk-us-utilities-gao-finds/173108/"
+      },
+      {
+        "preview": " uses cookies and similar technologies to give you a better experience, enabling things like: Detailed information can be found in ’s Cookies & Similar Technologies Policy and our Privacy Policy. Some...",
+        "upvotes": 130,
+        "url": "https://www.etsy.com/listing/978354272/biden-anyway-quote-shirt?ref=shop_home_active_2&crt=1"
+      }
+    ],
+    "4": [
+      {
+        "preview": "President Donald Trump speaks in the Oval Office of the White House, Friday, Sept. 4, 2020, in Washington.AP Photo/Evan Vucci Washington, D.C. — Democratic presidential nominee Joe Biden declared Pres...",
+        "upvotes": 1,
+        "url": "https://www.google.com/amp/s/www.syracuse.com/us-news/2020/09/fox-news-confirms-trump-mocked-us-troops-as-suckers-biden-calls-him-a-disgrace.html%3foutputType=amp"
+      },
+      {
+        "preview": "Sign In On Good Friday and Easter Monday, we remember that God loves us, wants us to be happy and our travails are temporary Manage Newsletters Shameless politicians use 9/11 to lecture America about ...",
+        "upvotes": 0,
+        "url": "https://www.washingtontimes.com/news/2021/mar/31/jesus-life-teachings-have-driven-humanity-for-2000/"
+      },
+      {
+        "preview": "Screenshot/@Forbes Democratic New York Rep. Alexandria Ocasio-Cortez demanded Wednesday that migrant families separated at the border under former President Donald Trump’s administration be paid “repa...",
+        "upvotes": 43,
+        "url": "https://dailycaller.com/2021/04/01/alexandria-ocasio-cortez-aoc-reparations-migrants-crisis-border-trump-administration/"
+      }
+    ]
+  }
+}

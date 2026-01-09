@@ -1,0 +1,36 @@
+{
+  "month": "2018-10",
+  "total_articles": 222,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Kavanaugh's Supreme Court Nomination and Election Politics",
+      "core_keywords": ["kavanaugh", "trump", "supreme court", "senate", "election", "democrat", "republican"],
+      "importance_ratio": 0.3874
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Daily Life and Social News with Advertisement Elements",
+      "core_keywords": ["advertisement", "woman", "school", "student", "police", "news", "video"],
+      "importance_ratio": 0.2748
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "American Media and Political Issues Like Abortion",
+      "core_keywords": ["american", "media", "twitter", "abortion", "state", "committee", "election"],
+      "importance_ratio": 0.1396
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Immigration and Citizenship Policy Debates",
+      "core_keywords": ["trump", "immigration", "citizenship", "border", "state", "illegal", "american"],
+      "importance_ratio": 0.1171
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Economic and Political Issues Including Tax and Energy",
+      "core_keywords": ["tax", "energy", "government", "market", "percent", "federal", "dollar"],
+      "importance_ratio": 0.0811
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2011-11",
+  "total_articles": 73,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "advertisement",
+        "war",
+        "health",
+        "government",
+        "court",
+        "care",
+        "general",
+        "comment",
+        "email",
+        "law",
+        "support",
+        "case"
+      ],
+      "topic_weights": [
+        88.09932491595416,
+        71.20106544043712,
+        43.985369829873314,
+        39.18764676467866,
+        38.85393014091288,
+        37.56224752734405,
+        36.47018513384464,
+        32.25370652776728,
+        32.221686616863416,
+        30.784495458115074,
+        30.655028075586976,
+        28.38873226532713,
+        27.69775228238303,
+        25.797710433957185,
+        24.87061952640761
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "occupy",
+        "ows",
+        "ha",
+        "protester",
+        "movement",
+        "police",
+        "street",
+        "wall",
+        "arrested",
+        "city",
+        "american",
+        "political",
+        "group",
+        "support"
+      ],
+      "topic_weights": [
+        241.53354606535285,
+        157.03264535595375,
+        150.68227109682817,
+        111.58070563613892,
+        109.23078961786678,
+        92.63077330449217,
+        85.57949818530479,
+        84.06120243073354,
+        67.35429859978387,
+        65.55265709721074,
+        61.79390335650748,
+        59.04317792118376,
+        57.49881925512392,
+        54.93564243971565,
+        51.61108772087826
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "percent",
+        "republican",
+        "romney",
+        "ha",
+        "candidate",
+        "cain",
+        "obama",
+        "president",
+        "poll",
+        "state",
+        "wa",
+        "life",
+        "vote",
+        "conservative",
+        "mitt"
+      ],
+      "topic_weights": [
+        99.88556084172589,
+        76.69312495081624,
+        61.62523999394127,
+        59.829474024898346,
+        50.89442424878982,
+        49.17128503600075,
+        48.85611861624447,
+        42.46733892959035,
+        36.44543461957652,
+        30.318832316099932,
+        27.771952450821765,
+        27.33622835994331,
+        26.118645653813633,
+        25.585022580353517,
+        24.4888081650936
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "monopoly",
+        "ha",
+        "government",
+        "competition",
+        "market",
+        "economic",
+        "world",
+        "state",
+        "power",
+        "firm",
+        "corporation",
+        "capital",
+        "economy",
+        "price"
+      ],
+      "topic_weights": [
+        261.8596222387801,
+        170.23440503325753,
+        129.60093728387716,
+        123.13126039219898,
+        115.6595306540723,
+        114.47467796901174,
+        111.89363404771419,
+        104.89103010549529,
+        103.28191810005319,
+        92.01252315273024,
+        89.36381430604662,
+        81.66446820973928,
+        73.9805009441988,
+        72.15635337615126,
+        64.80554395088721
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wind",
+        "bird",
+        "page",
+        "arrested",
+        "reload",
+        "company",
+        "eagle",
+        "tax",
+        "home",
+        "farm",
+        "stand",
+        "change",
+        "network",
+        "run",
+        "charged"
+      ],
+      "topic_weights": [
+        30.480538951570686,
+        24.673885450640494,
+        20.7835712413863,
+        19.487528645890755,
+        17.02857850474684,
+        16.941095558032917,
+        16.822204738049795,
+        14.693094193150031,
+        11.737595332794124,
+        11.683359176426912,
+        11.508856994877064,
+        11.462488810195994,
+        11.429916005257553,
+        10.196012552350188,
+        9.865978678576441
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 16,
+    "1": 25,
+    "3": 10,
+    "2": 18,
+    "4": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The Occupy Wall Street movement has received so much media coverage in recent weeks that it’s nearly impossible to keep abreast of all the developments. So many endorsements and criticisms coming from...",
+        "upvotes": 13,
+        "url": "http://pjmedia.com/zombie/2011/10/31/the-99-official-list-of-ows/"
+      },
+      {
+        "preview": "EconomyCommentary Commentary EconomyCommentary SocietyCommentary SocietyNews SocietyNews SocietyNews SocietyNews PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews SecurityN...",
+        "upvotes": 1,
+        "url": "http://blog.heritage.org/2011/11/01/back-door-amnesty-dhss-deportation-claims-questioned/"
+      },
+      {
+        "preview": "By Pentagon Correspondent Barbara Starr The commander of NATO's international security force in Afghanistan sacked a senior U.S. Army general Friday for making disparaging comments about the Afghan go...",
+        "upvotes": 1,
+        "url": "http://security.blogs.cnn.com/2011/11/04/u-s-general-disparages-afghan-government/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Though presidential candidate Herman Cain has been somewhat vague on the campaign trail about several important foreign policy challenges confronting America, over a dozen of his syndicated columns le...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2011/10/31/cains-foreign-policy-vague-while-campaigning-hawkish-in-syndicated-columns/"
+      },
+      {
+        "preview": "Jan Šejna (Honza Šejna), also Sejna in English, (12 May 1927 in Radhostice, Czechoslovakia – 23 August 1997 in New York City) was, in the time of communist Czechoslovakia, a Major General of the Czech...",
+        "upvotes": 1,
+        "url": "http://en.wikipedia.org/wiki/Jan_Šejna#Facts_and_fiction"
+      },
+      {
+        "preview": "Sign In Pulitzer snobs blew it by ignoring supermarket tabloid Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities D...",
+        "upvotes": 82,
+        "url": "http://www.washingtontimes.com/news/2011/jun/3/miller-john-edwards-indictment-vindication-nationa/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Trending: Election judge Paul Aragon puts ballots in the drop-box at a drive-through ballot drop-off lane, Tuesday Nov. 1, 2011, outside the Denver Elections Division on 14th Avenue. Too Taxing for Co...",
+        "upvotes": 1,
+        "url": "http://www.denverpost.com/breakingnews/ci_19243074"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 5,
+        "url": "http://www.washingtontimes.com/news/2011/nov/6/inside-the-beltway-721717022/#.TrfyyWc8oZw.reddit"
+      },
+      {
+        "preview": "President Ronald Reagan, who served from 1981 to 1989, was a self-professed conservative. (AP Photo) (.com) - Self-professed conservatives now outnumber self-professed liberals in the United States, 4...",
+        "upvotes": 27,
+        "url": "http://cnsnews.com/news/article/gallup-poll-conservatives-42-liberals-21"
+      }
+    ],
+    "3": [
+      {
+        "preview": "it’s not the comparative numbers that will kill you. It’s the sheer dollar sums. _____________ There were three great citadels of Western civilization: Rome, Athens, and Jerusalem. It took a fourth, L...",
+        "upvotes": 3,
+        "url": "http://www.commentarymagazine.com/article/the-case-for-pessimism/"
+      },
+      {
+        "preview": "By PETER HITCHENS Updated: 07:00 EDT, 28 September 2008 View comments Narrow escape: Peter Hitchens I think I am probably going to die any minute now. An inflamed, deceived mob of about 50 desperate m...",
+        "upvotes": 8,
+        "url": "http://www.dailymail.co.uk/news/article-1063198/PETER-HITCHENS-How-China-created-new-slave-empire-Africa.html"
+      },
+      {
+        "preview": "JOIN OR RENEW TODAY JOIN OR RENEW TODAY Tags History of the Austrian School of Economics [Faith and Liberty: The Economic Thought of the Late Scholastics • By Alejandro A. Chafuen • Lexington Books, 2...",
+        "upvotes": 3,
+        "url": "http://mises.org/daily/5779/The-FreeMarket-Economics-of-the-Late-Scholastics"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A new study conducted by Citizens for Tax Justice and The Institute on Taxation and Economic Policy depicts the inefficiency of our corporate tax code, highlighting the need for corporate tax reform. ...",
+        "upvotes": 1,
+        "url": "http://tbrickert.wordpress.com/2011/11/03/corporate-tax-reform-is-needed/"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 2,
+        "url": "http://www.examiner.com/political-buzz-in-lafayette-la/the-teocon-the-well-hidden-perversion-of-the-tea-party-movement"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 0,
+        "url": "http://www.examiner.com/liberal-in-orlando/tea-party-nation-founder-calls-herman-cain-simply-clueless-not-qualified"
+      }
+    ]
+  }
+}

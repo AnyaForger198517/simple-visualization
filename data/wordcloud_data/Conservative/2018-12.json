@@ -1,0 +1,36 @@
+{
+  "month": "2018-12",
+  "total_articles": 129,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Crime and Law Enforcement in American Society",
+      "core_keywords": ["crime", "law", "prison", "violent", "safety", "enforcement", "american"],
+      "importance_ratio": 0.0078
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump and Federal Investigations (Mueller Probe)",
+      "core_keywords": ["trump", "president", "fbi", "mueller", "government", "white house", "american"],
+      "importance_ratio": 0.5504
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Election and Voting Issues Across US States",
+      "core_keywords": ["election", "vote", "ballot", "state", "democrat", "republican", "voter"],
+      "importance_ratio": 0.1550
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Immigration Law and Constitutional Speech Rights",
+      "core_keywords": ["immigration", "law", "speech", "constitution", "court", "state", "illegal"],
+      "importance_ratio": 0.0543
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump and Corporate/Legal Issues (Google, Immigration Law)",
+      "core_keywords": ["trump", "google", "immigration law", "federal", "president", "company", "news"],
+      "importance_ratio": 0.2326
+    }
+  ]
+}

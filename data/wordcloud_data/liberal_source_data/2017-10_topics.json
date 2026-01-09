@@ -1,0 +1,265 @@
+{
+  "month": "2017-10",
+  "total_articles": 139,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "online",
+        "buy",
+        "generic",
+        "prescription",
+        "site",
+        "pill",
+        "blog",
+        "cheap",
+        "doe",
+        "post",
+        "price",
+        "canada",
+        "article",
+        "best",
+        "work"
+      ],
+      "topic_weights": [
+        420.7124295630197,
+        372.898231294295,
+        299.0735849026485,
+        163.00390627290545,
+        145.06284709949654,
+        142.6663872448131,
+        139.01586932130294,
+        119.38711973522037,
+        113.52791646237979,
+        107.48424112363844,
+        103.81283294486953,
+        103.45153170829171,
+        89.75194864131892,
+        88.31190906785407,
+        82.62923354145745
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "set",
+        "default",
+        "value",
+        "option",
+        "filter",
+        "frame",
+        "input",
+        "stream",
+        "output",
+        "number",
+        "file",
+        "following",
+        "audio",
+        "video",
+        "range"
+      ],
+      "topic_weights": [
+        915.9142615766647,
+        761.8332377678421,
+        680.2977515036391,
+        448.11947743204377,
+        419.2082934685425,
+        372.5395275388721,
+        343.40446035901863,
+        315.5864460572655,
+        234.19533969173514,
+        218.29311493040444,
+        215.12504661640332,
+        213.44441139062764,
+        212.42136826860647,
+        209.69420187717313,
+        204.50866172431046
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "white",
+        "ha",
+        "percent",
+        "president",
+        "american",
+        "state",
+        "obama",
+        "republican",
+        "house",
+        "black",
+        "country",
+        "america",
+        "penny"
+      ],
+      "topic_weights": [
+        658.2297118392244,
+        643.2148638251979,
+        456.1870412497143,
+        454.3029558069251,
+        302.9191321006483,
+        298.70245848065656,
+        279.94790708975563,
+        277.0567338255705,
+        259.4874906290822,
+        248.3819418599361,
+        211.79605263844047,
+        164.31083675814045,
+        160.34023306597064,
+        159.36145088633612,
+        156.39153231347154
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "election",
+        "ad",
+        "facebook",
+        "company",
+        "political",
+        "google",
+        "russian",
+        "rule",
+        "ha",
+        "wa",
+        "law",
+        "request",
+        "gun",
+        "public",
+        "effort"
+      ],
+      "topic_weights": [
+        167.98320766904473,
+        162.03771310471282,
+        156.37368124581778,
+        141.0290906587472,
+        109.07645869698968,
+        86.91988436008631,
+        85.9009006216185,
+        73.46104743842871,
+        72.4897014134208,
+        70.37033229847614,
+        58.348902071772024,
+        49.15438403346994,
+        47.80944221390578,
+        46.96827553758596,
+        46.305836163910755
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "mueller",
+        "campaign",
+        "manafort",
+        "investigation",
+        "russian",
+        "papadopoulos",
+        "russia",
+        "ha",
+        "president",
+        "charge",
+        "election",
+        "official",
+        "email"
+      ],
+      "topic_weights": [
+        1128.293955490839,
+        778.4197524772387,
+        772.6183516007683,
+        693.8355096888001,
+        643.8809434995645,
+        466.67276058444224,
+        381.62639978109996,
+        347.2014436868998,
+        346.1802700236969,
+        338.93424319754297,
+        306.9769779631991,
+        292.9083946019048,
+        257.74060716402687,
+        255.41711533707812,
+        244.28031902152455
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 117,
+    "4": 16,
+    "3": 4,
+    "1": 1,
+    "0": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ь в простом магазине, поскольку это противозаконно. cialis stories cialis 5mg prix pharmacie le prix de medicament cialis au maroc où acheter du cialis en ligne compare price zyrtec benadryl canada zy...",
+        "upvotes": 1,
+        "url": "http://patriotnotpartisan.com/general-commentary/critical-thinking-era-trumpian-rhetoric/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "deos. Both input videos must have the same resolution and pixel format for this filter to work correctly. Also it assumes that both inputs have the same number of frames, which are compared one by one...",
+        "upvotes": 43,
+        "url": "https://ffmpeg.org/ffmpeg-all.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Juliette Kayyem: President Trump's response to the island will be what future presidents will try to avoid during crisis Instead of people wondering if a tragedy will be the next Hurricane Katrina, th...",
+        "upvotes": 46,
+        "url": "http://www.cnn.com/2017/09/30/opinions/trump-tweet-puerto-ricos-mayor-kayyem-opinion/index.html"
+      },
+      {
+        "preview": "Sep. 30, 2017, at 1:26 PM By Nate Silver Filed under The Trump Administration Andrew Harnik / AP Whenever President Trump lashes out against someone or something in a way that defies traditional expec...",
+        "upvotes": 103,
+        "url": "https://fivethirtyeight.com/features/the-media-needs-to-stop-rationalizing-president-trumps-behavior/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 13,
+        "url": "https://www.buzzfeed.com/albertsamaha/they-cant-fire-you-for-whats-in-your-head?utm_term=.ea4oL06EL#.tfy4Y2xrY"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The leaders of the Senate Intelligence Committee on Wednesday largely endorsed the findings of the intelligence community that Russia sought to sway the 2016 U.S. elections through a hacking and influ...",
+        "upvotes": 100,
+        "url": "https://www.washingtonpost.com/powerpost/senate-intelligence-committee-leaders-russia-did-interfere-in-2016-elections/2017/10/04/1459291c-a91f-11e7-850e-2bdd1236be5d_story.html"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since On Wednesday, the two lawmakers leading a Senate inquiry into Russian efforts to meddle in the 2016...",
+        "upvotes": 162,
+        "url": "http://www.businessinsider.com/facebook-needs-to-stop-hiding-behind-excuses-and-release-the-fake-russian-ads-2017-10"
+      },
+      {
+        "preview": "The FBI had obtained a warrant to monitor former Trump adviser Carter Page Page has demanded an opportunity to testify publicly Former Trump foreign policy adviser Carter Page told  Monday he is going...",
+        "upvotes": 9,
+        "url": "http://www.cnn.com/2017/10/10/politics/carter-page-pleads-fifth-senate-intelligence/index.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Mary Altaffer/AP Photo Law And Order His case is still alive. It could test the limits of pardon powerâand not just for Trump. By RICHARD PRIMUS October 04, 2017 Richard Primus is the Theodore J. St...",
+        "upvotes": 112,
+        "url": "http://www.politico.com/magazine/story/2017/10/04/trump-arpaio-break-pardon-215676"
+      },
+      {
+        "preview": "To revisit this article, select My Account, then To revisit this article, visit My Profile, then View saved stories By Ryan Lizza On Wednesday, Richard Burr and Mark Warner, the two leaders of the Sen...",
+        "upvotes": 2,
+        "url": "https://www.newyorker.com/news/ryan-lizza/the-secrecy-undermining-the-senate-intelligence-committees-russia-probe"
+      },
+      {
+        "preview": "Former Equifax CEO Richard Smith, who stepped down after the breach, endured a bipartisan shaming Tuesday at a hearing of a House Energy and Commerce subcommittee. | Chip Somodevilla/Getty Images The ...",
+        "upvotes": 5,
+        "url": "http://politi.co/2fIQpMa#undefined.sfju"
+      }
+    ]
+  }
+}

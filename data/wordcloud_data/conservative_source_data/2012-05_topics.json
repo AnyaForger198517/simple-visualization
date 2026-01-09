@@ -1,0 +1,280 @@
+{
+  "month": "2012-05",
+  "total_articles": 95,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "moral",
+        "problem",
+        "save",
+        "man",
+        "wright",
+        "did",
+        "study",
+        "individual",
+        "liberal",
+        "track",
+        "conservative",
+        "received",
+        "kill",
+        "choose"
+      ],
+      "topic_weights": [
+        12.804267350406167,
+        11.705206969625113,
+        11.217433755768726,
+        9.364150559027006,
+        8.38870944998095,
+        8.378296078636007,
+        8.369317394222838,
+        7.579533971476167,
+        6.534166276834337,
+        6.52155040248362,
+        5.687999734658278,
+        5.627809814565486,
+        4.854624930958967,
+        4.800823331435607,
+        4.782747645583764
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "obama",
+        "romney",
+        "president",
+        "republican",
+        "wa",
+        "ha",
+        "campaign",
+        "state",
+        "paul",
+        "party",
+        "vote",
+        "percent",
+        "voter",
+        "democrat",
+        "election"
+      ],
+      "topic_weights": [
+        362.6309028860208,
+        244.18075239655795,
+        194.1555634172523,
+        164.15696250030044,
+        160.8096086577246,
+        135.35037487983988,
+        123.001714822688,
+        92.93590081624876,
+        84.75041053258184,
+        83.13923944277951,
+        74.66894224630191,
+        72.84190301275734,
+        67.98933082340402,
+        67.75553556155592,
+        63.06307289377657
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "american",
+        "work",
+        "government",
+        "state",
+        "political",
+        "language",
+        "life",
+        "tax",
+        "money",
+        "family",
+        "bank",
+        "pro",
+        "policy"
+      ],
+      "topic_weights": [
+        163.58100642320295,
+        145.30813514036615,
+        134.24002670794377,
+        91.86799549636662,
+        87.62775306580038,
+        76.82206878074498,
+        70.46985676186863,
+        68.28837166455205,
+        62.25697491371543,
+        59.87872020338151,
+        57.69144187636381,
+        52.19394092193583,
+        52.0751254788204,
+        47.55410859457052,
+        45.97699854925678
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "gay",
+        "conservative",
+        "marriage",
+        "wa",
+        "love",
+        "anti",
+        "utah",
+        "hate",
+        "activist",
+        "video",
+        "sex",
+        "black",
+        "church",
+        "religion",
+        "man"
+      ],
+      "topic_weights": [
+        26.73447246065428,
+        20.24382179261439,
+        18.83314164800239,
+        17.061669999126277,
+        13.668379145970409,
+        12.926747886194235,
+        12.704730158600603,
+        11.960829020100215,
+        11.282086307120187,
+        10.843356641733546,
+        10.55309352644976,
+        10.412408012108274,
+        10.375856973756264,
+        10.188608761977921,
+        10.141723322618558
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "obama",
+        "wa",
+        "born",
+        "ha",
+        "page",
+        "kenya",
+        "hawaii",
+        "president",
+        "did",
+        "data",
+        "story",
+        "reload",
+        "america",
+        "fact",
+        "glenn"
+      ],
+      "topic_weights": [
+        138.9909557431372,
+        119.1086019220706,
+        58.99449550259974,
+        50.477124594571336,
+        39.891336590779375,
+        38.82081670496061,
+        32.408157619430256,
+        32.31073035585096,
+        31.198403030724783,
+        30.661569294498094,
+        29.74810279931509,
+        25.47927405053769,
+        25.05343294832152,
+        24.06163772967267,
+        23.471319763357105
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 45,
+    "2": 29,
+    "3": 4,
+    "4": 15,
+    "0": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Thanks for contacting us. We've received your submission. When sermons of Obama’s Chicago pastor, Jeremiah Wright, surfaced during the Iowa primaries, it threatened to derail Obama’s campaign. ABC air...",
+        "upvotes": 76,
+        "url": "http://www.nypost.com/p/news/national/the_bribe_to_silence_wright_io9jneobl3fUF0cb7LpcNM"
+      },
+      {
+        "preview": "To revist this article, visit My Profile, then View saved stories. To revist this article, visit My Profile, then View saved stories. David Dobbs To revist this article, visit My Profile, then View sa...",
+        "upvotes": 65,
+        "url": "http://www.wired.com/wiredscience/2012/05/kill-whitey-its-the-right-thing-to-do-repost/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Huffington called the Osama ad 'one of the most despicable things you can do.' By DARIUS DIXON 04/30/2012 01:17 PM EDT Updated 05/01/2012 06:13 AM EDT Huffington Post editor-in-chief Arianna Huffingto...",
+        "upvotes": 9,
+        "url": "http://www.politico.com/news/stories/0412/75742.html"
+      },
+      {
+        "preview": "(Image Credit: AP Photos) ABC News' Michael Falcone reports: The Obama campaign opened up a new line of attack on Mitt Romney Friday, suggesting that as commander-in-chief Romney might not have made t...",
+        "upvotes": 2,
+        "url": "http://abcnews.go.com/blogs/politics/2012/04/flashback-obama-campaign-accused-clinton-of-using-bin-laden-to-score-political-points-in-2008/"
+      },
+      {
+        "preview": "By Toby Harnden for the Daily Mail Published: 19:35 EDT, 30 April 2012 | Updated: 11:42 EDT, 1 May 2012 683 View comments Serving and former US Navy SEALs have slammed President Barack Obama for takin...",
+        "upvotes": 115,
+        "url": "http://www.dailymail.co.uk/news/article-2137636/SEALs-slam-Obama-using-ammunition-bid-credit-bin-Laden-killing-election-campaign.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "To readers of THE CONTRARIAN TAKE, it will come as no surprise that we are fond of the Austrian School’s take on monetary matters, specifically the unintended consequences of monetary largesse - econo...",
+        "upvotes": 0,
+        "url": "http://www.forbes.com/sites/michaelpollaro/2012/04/27/the-bernanke-bust-the-why-how-and-when/"
+      },
+      {
+        "preview": "Unbelievable reactions to seeing abortion Obama insider says CBR protests at Notre Dame helped defeat Hillary Clinton Stunning: Video of living human embryos inside their mothers’ wombs! What is the G...",
+        "upvotes": 1,
+        "url": "http://abortionno.org/"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Venezuela A. Barton Hinkle | 5.1.2012 12:00 PM The New York Times recently ran a devastating indictment of health-care reform and Washin...",
+        "upvotes": 0,
+        "url": "http://reason.com/archives/2012/05/01/central-planning-wont-fix-health-care"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By Dan Gilgoff, .com Religion Editor () - To call Mia Love a minority is an understatement. She’s a black woman who won an upset primary race to become the Republican candidate in Utah’s 4th Congressi...",
+        "upvotes": 15,
+        "url": "http://religion.blogs.cnn.com/2012/05/01/house-candidate-and-rising-gop-star-is-black-female-and-mormon/"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 4,
+        "url": "http://www.nationalreview.com/articles/299401/conservatives-and-gays-where-do-we-stand-dennis-prager"
+      },
+      {
+        "preview": "Welcome to  Catholic, a leading resource for Catholic news, commentary, and culture. Catholicism is the largest and oldest continuous religious tradition in the world. The liturgy, spirituality, theol...",
+        "upvotes": 0,
+        "url": "http://www.patheos.com/blogs/godandthemachine/2012/05/the-madness-of-hiv-prep/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement From each according to his ability, to each according to his need. (Tundra Tabloids) You just can’t make this stuff up. Barack Obama will officially launch his 2012 re-election campaign ...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2012/05/figures-obama-to-officially-launch-2012-campaign-on-karl-marxs-birthday/"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. It’s no surprise to anyone who pays attention that mainstream media tilt their coverage in favor of Democrats and leftish ideas. But it’s not ...",
+        "upvotes": 5,
+        "url": "http://www.nypost.com/p/news/opinion/spin_of_the_times_bias_cloaked_as_6JZNaz5PXr9H2Z6DkWAhdL"
+      },
+      {
+        "preview": "The U.S. is beginning to lose its satellite earth observation capabilities according to a recent National Research Council report. From Space Daily: \"The report cautions that the nation's earth observ...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/blog/2012/05/why_is_obama_degrading_our_satellite_capabilities.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2013-08",
+  "total_articles": 164,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "black",
+        "group",
+        "white",
+        "restaurant",
+        "story",
+        "race",
+        "ha",
+        "woman",
+        "party",
+        "racist",
+        "asked",
+        "large",
+        "believe",
+        "leave"
+      ],
+      "topic_weights": [
+        995.6591836770043,
+        958.581498099516,
+        559.78712403781,
+        472.61394643182473,
+        340.5343406165933,
+        335.74679665654867,
+        282.06620889700457,
+        263.5378766686466,
+        260.7372389677092,
+        244.91960984239046,
+        229.42773207658834,
+        195.88074855831476,
+        193.56136296643848,
+        189.24575115060537,
+        188.10813633498523
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "obama",
+        "wa",
+        "ha",
+        "american",
+        "policy",
+        "syria",
+        "president",
+        "world",
+        "administration",
+        "state",
+        "weapon",
+        "military",
+        "foreign",
+        "attack",
+        "power"
+      ],
+      "topic_weights": [
+        616.6677064546818,
+        441.6007399515949,
+        360.82946933633383,
+        343.06061895786945,
+        302.4790387188713,
+        282.25434570938666,
+        282.2124303025936,
+        253.08370773932458,
+        230.1793256296702,
+        210.1880620538669,
+        180.0347228114344,
+        178.34859661312174,
+        170.04712098292626,
+        163.0616195425024,
+        161.99801648866062
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "law",
+        "republican",
+        "news",
+        "obama",
+        "government",
+        "obamacare",
+        "president",
+        "american",
+        "job",
+        "gun",
+        "state",
+        "party",
+        "house"
+      ],
+      "topic_weights": [
+        339.4303848243699,
+        230.79440138615578,
+        195.55162584997123,
+        155.58638000464663,
+        155.06951523996705,
+        143.88787097352235,
+        133.52768054719806,
+        131.11645797934813,
+        121.14422930817994,
+        116.82304726046418,
+        99.12961967976433,
+        97.90039890406415,
+        89.84554414455722,
+        88.75069959447626,
+        87.25579525786299
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "child",
+        "gay",
+        "family",
+        "poor",
+        "men",
+        "immigration",
+        "woman",
+        "immigrant",
+        "life",
+        "parent",
+        "percent",
+        "wa",
+        "american",
+        "society",
+        "illegal"
+      ],
+      "topic_weights": [
+        170.89569396489702,
+        106.70716226182564,
+        98.81329552629718,
+        95.15717205302026,
+        86.23286485376583,
+        84.2623409463454,
+        83.41170202087302,
+        79.15502068900187,
+        67.89758584263907,
+        66.69990121315533,
+        61.41335097715924,
+        51.93661036045375,
+        51.53719521887963,
+        50.62486848968385,
+        49.19774265947395
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "convention",
+        "wa",
+        "amendment",
+        "congress",
+        "germany",
+        "constitution",
+        "ha",
+        "german",
+        "american",
+        "government",
+        "case",
+        "constitutional",
+        "meeting",
+        "court"
+      ],
+      "topic_weights": [
+        124.03986695118301,
+        116.56529159696879,
+        94.81281576825498,
+        77.97229919927703,
+        74.89356217913057,
+        59.990859440740344,
+        57.84528043097685,
+        57.15874179351237,
+        55.98221877849523,
+        52.74631620450687,
+        51.226165305406816,
+        49.58910240970438,
+        42.23910213253699,
+        41.3188058569727,
+        40.05118731451806
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 104,
+    "4": 12,
+    "1": 28,
+    "0": 6,
+    "3": 14
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Rush Limbaugh, who on Aug. 1, 2013 celebrated the 25th anniversary of his top-rated nationally syndicated talk radio show, which first aired on Aug. 1, 1988. (AP Photo) (.com) - Rush Limbaugh today ce...",
+        "upvotes": 14,
+        "url": "http://cnsnews.com/news/article/limbaugh-celebrates-25th-anniversary-pinnacle-talk-radio"
+      },
+      {
+        "preview": "The police should no longer be accused of institutional racism, the UK's equalities chief has said. But what has changed over the last 10 years? Ten years ago, if you asked an average police officer a...",
+        "upvotes": 1,
+        "url": "http://news.bbc.co.uk/1/hi/uk_politics/7838071.stm"
+      },
+      {
+        "preview": "On Thursday, CNN’s Anderson Cooper interviewed Oprah Winfrey and Forest Whitaker, stars of Oscar-bait The Butler. During the interview, in which Cooper thoughtfully nodded as Winfrey and Whitaker race...",
+        "upvotes": 6,
+        "url": "http://www.breitbart.com/Big-Hollywood/2013/08/16/Oprah-racism-Trayvon-Cooper"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Anchored by Jake Tapper, The Lead airs at 4 p.m. ET on . We've moved! Come join us at our new show page.  has uncovered exclusive new information about what is allegedly happening at the CIA, in the w...",
+        "upvotes": 60,
+        "url": "http://thelead.blogs.cnn.com/2013/08/01/exclusive-dozens-of-cia-operatives-on-the-ground-during-benghazi-attack/"
+      },
+      {
+        "preview": "CNN reports that dozens of CIA agents were on the ground there -- and that they're being pressured to keep quiet. Why? Suddenly it is imperative that Congress investigate details surrounding the attac...",
+        "upvotes": 52,
+        "url": "http://www.theatlantic.com/politics/archive/2013/08/the-attack-in-benghazi-worth-investigating-after-all/278299/"
+      },
+      {
+        "preview": "A follow-up to yesterday’s post noting that, for all the dark accusations recently that the new threat has been exaggerated to tout the NSA’s terror-bustin’ skills, no one in the government’s claiming...",
+        "upvotes": 0,
+        "url": "http://hotair.com/archives/2013/08/06/u-s-intel-official-controversial-nsa-programs-played-no-role-in-detecting-initial-al-qaeda-terror-tip/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "\"Critique\" has a specific meaning and I intend that meaning. As Marx said of his plan for an endless critique of the German social order, so as to undermine it, and permit the conditions for revolutio...",
+        "upvotes": 4,
+        "url": "http://ace.mu.nu/archives/342122.php"
+      },
+      {
+        "preview": "Lee rightly observes that conservatives aren't exactly threatening to shut down the government, nor do they want to. Their goal is to fully fund the government -- prioritizing key line items like payi...",
+        "upvotes": 7,
+        "url": "http://townhall.com/tipsheet/guybenson/2013/07/31/should-republicans-shut-down-the-government-over-defunding-obamacare-n1652802"
+      },
+      {
+        "preview": "After Sen. Ted Cruz specifically has been accused of taking the push one step too far, Sens. Lee, Rubio, and Cruz all took to the Senate floor on Wednesday morning for a speaking session on exactly wh...",
+        "upvotes": 8,
+        "url": "http://hotair.com/archives/2013/07/31/msnbc-panel-my-ted-cruz-company-are-certainly-a-lot-like-the-taliban/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "United States Senator Jim DeMint at a rally for United States Senate candidate Rand Paul in... [+] Erlanger, Kentucky. (Photo credit: Wikipedia) As you know if you’ve been reading this blog, Obamacare...",
+        "upvotes": 8,
+        "url": "http://www.forbes.com/sites/aroy/2012/09/22/the-aarps-2-8-billion-reasons-for-supporting-obamacares-cuts-to-medicare/"
+      },
+      {
+        "preview": "children are their parents’ kids. This sounds tautological, but couple it with this fact: all human behavioral traits are heritable. Then it becomes key. First off, you can’t draw too many conclusions...",
+        "upvotes": 0,
+        "url": "http://www.returnofkings.com/13290/are-gay-parents-superior-to-straight-parents"
+      },
+      {
+        "preview": "by Brett Stevens on October 1, 2012 We all know the purpose of liberalism: to make everyone equal, so that no one is threatened, and so that no person needs to venture beyond their own mind in order t...",
+        "upvotes": 0,
+        "url": "http://www.amerika.org/politics/the-purpose-of-conservatism/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Excellent transcript, Doug! Thanks!I was hoping for something a little different from Mark, but I will give his proposal a slow, deliberate reading before jumping to a conclusion. I trust Mark and wha...",
+        "upvotes": 3,
+        "url": "http://directorblue.blogspot.com/2013/07/here-is-transcript-mark-levin.html"
+      },
+      {
+        "preview": "Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter In devastating detail, an excerpt from a controversial new book reveals how the big studios, des...",
+        "upvotes": 12,
+        "url": "http://www.hollywoodreporter.com/news/how-hollywood-helped-hitler-595684"
+      },
+      {
+        "preview": "Sign In Manage Newsletters The death of Americans’ financial privacy Biden preaches ‘dignity’ at U.N. If not for double standards, liberals would have no standards at all The Securities and Exchange C...",
+        "upvotes": 2,
+        "url": "http://www.washingtontimes.com/news/2013/aug/2/sec-investigating-company-co-founded-terry-mcaulif/"
+      }
+    ]
+  }
+}

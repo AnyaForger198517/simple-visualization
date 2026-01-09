@@ -1,0 +1,285 @@
+{
+  "month": "2015-09",
+  "total_articles": 256,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "wa",
+        "ha",
+        "trump",
+        "obama",
+        "president",
+        "party",
+        "bush",
+        "conservative",
+        "political",
+        "gop",
+        "american",
+        "nuclear",
+        "policy",
+        "boehner"
+      ],
+      "topic_weights": [
+        428.61108406600994,
+        404.3806919300106,
+        371.24236267581284,
+        317.5060572496672,
+        290.4669318554998,
+        234.99803904794578,
+        190.79855089676352,
+        190.51202586882658,
+        181.83807818930762,
+        170.4199063445208,
+        164.44969998919046,
+        160.9424781451552,
+        152.33420346591157,
+        151.55886178826802,
+        147.1369803781082
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "clinton",
+        "sander",
+        "ha",
+        "percent",
+        "campaign",
+        "democratic",
+        "state",
+        "wa",
+        "hillary",
+        "bernie",
+        "voter",
+        "poll",
+        "candidate",
+        "support",
+        "democrat"
+      ],
+      "topic_weights": [
+        872.0889080974246,
+        688.650089001192,
+        419.7276396801076,
+        373.9874335612233,
+        350.4441079772193,
+        324.013755648306,
+        269.2964816023454,
+        266.13952417210845,
+        265.90290304051183,
+        258.543517054212,
+        246.5087263890276,
+        220.8161430648516,
+        189.5556326748661,
+        167.1485092776155,
+        162.51483645656194
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "school",
+        "post",
+        "reply",
+        "student",
+        "abuse",
+        "response",
+        "police",
+        "sep",
+        "link",
+        "university",
+        "alert",
+        "kid",
+        "law",
+        "education"
+      ],
+      "topic_weights": [
+        297.33624929514485,
+        279.8502369308069,
+        256.8196240041206,
+        144.67600869151516,
+        132.84863883047475,
+        107.3777558081631,
+        106.35662710244938,
+        101.5025979346125,
+        89.29965755908384,
+        83.83798988168422,
+        81.16696129781158,
+        80.65233521645399,
+        80.36934424121199,
+        76.36547302347199,
+        73.34742773339785
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "worker",
+        "black",
+        "labor",
+        "family",
+        "work",
+        "country",
+        "american",
+        "public",
+        "law",
+        "america",
+        "drug",
+        "child"
+      ],
+      "topic_weights": [
+        515.3899902082106,
+        304.83117133825164,
+        250.6256881150761,
+        229.06902126791192,
+        228.94643400556657,
+        218.78846038849034,
+        215.68233614287223,
+        210.37346585367862,
+        198.87104098489513,
+        197.65195680379742,
+        182.75797885013387,
+        173.15477522978335,
+        169.7692006329956,
+        168.14578302413,
+        165.74217032135664
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "planned",
+        "parenthood",
+        "woman",
+        "abortion",
+        "health",
+        "wa",
+        "officer",
+        "care",
+        "law",
+        "police",
+        "center",
+        "state",
+        "service",
+        "life",
+        "county"
+      ],
+      "topic_weights": [
+        176.45446032327206,
+        174.9248133515275,
+        165.91405937633502,
+        105.93543023171196,
+        93.80597471084079,
+        93.01141777957804,
+        78.00847429455847,
+        73.59150436497157,
+        63.302505001062414,
+        62.294663965889384,
+        61.07937601355924,
+        59.22715680089287,
+        57.06832568593562,
+        55.85516599099282,
+        49.33587497518484
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 62,
+    "1": 70,
+    "0": 80,
+    "2": 22,
+    "4": 22
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement Supported by By Paul Krugman There are many things we should remember about the events of late August and early September 2005, and the political fallout shouldn’t be near the top of the...",
+        "upvotes": 6,
+        "url": "http://www.nytimes.com/2015/08/31/opinion/paul-krugman-a-heckuva-job.html?ref=opinion"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. Critics of the Iran nuclear deal have hinged their opposition on the premise ...",
+        "upvotes": 34,
+        "url": "http://nymag.com/daily/intelligencer/2015/08/cheneys-iran-ideas-as-sophisticated-as-expected.html"
+      },
+      {
+        "preview": "This article is more than 1 year old We first tallied the number of times President Obama's critics labeled events \"Obama's Katrina\" in early July. We found 19 times this had happened. In the six mont...",
+        "upvotes": 3,
+        "url": "http://www.washingtonpost.com/news/the-fix/wp/2014/07/11/which-of-these-tk-things-was-the-most-obamas-katrinas-moment/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Stay up-to-date on the latest in local and national government and political topics with our newsletter. WATERLOO | The Rev. Frantz Whitfield was ready for Hillary before she announced her second bid ...",
+        "upvotes": 7,
+        "url": "http://wcfcourier.com/news/local/govt-and-politics/rev-frantz-whitfield-switches-support-to-sanders/article_396232d3-78b3-5e81-a15d-83f1a891804a.html"
+      },
+      {
+        "preview": "Democratic presidential hopeful Bernie Sanders has made it clear that he has no love for the \"corporate media.\" The independent senator from Vermont, whose poll numbers keep creeping up on those of fo...",
+        "upvotes": 15,
+        "url": "http://www.huffingtonpost.com/entry/bernie-sanders-media_55dde96ae4b08cd3359e29a2"
+      },
+      {
+        "preview": "James O’Keefe promised a new undercover video campaign that would expose “illegal activity conducted by high-level employees within Hillary Clinton’s presidential campaign.” Tuesday, he released the f...",
+        "upvotes": 13,
+        "url": "http://talkingpointsmemo.com/dc/james-okeefe-hillary-video"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Misinformation isn't going away just because it's a new year. Support trusted, factual information with a tax deductible contribution to . More Info Bernie Sanders in Salem, N.H. Aug. 23 U.S. Sen. Ber...",
+        "upvotes": 24,
+        "url": "http://www.politifact.com/rhode-island/statements/2015/aug/30/bernie-s/bernie-sanders-right-police-do-treat-african-ameri/"
+      },
+      {
+        "preview": "At the request of Harrisburg High School student Trenton Byrd, 18, Police Chief James ‘Whipper’ Johnson searched his and another student’s vehicles Tuesday for weapons and found none. Byrd, who is req...",
+        "upvotes": 10,
+        "url": "http://thesouthern.com/news/local/dozens-rally-in-harrisburg-to-support-confederate-flag/article_dce53cb2-dc9f-565f-9af6-20d1854e629e.html"
+      },
+      {
+        "preview": "Misinformation isn't going away just because it's a new year. Support trusted, factual information with a tax deductible contribution to . More Info GOP candidate Rick Santorum and Bill Maher talk cli...",
+        "upvotes": 31,
+        "url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/02/rick-santorum/santorum-un-climate-head-debunked-widely-cited-97-/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Supported by By Noam Scheiber WASHINGTON — With little fanfare, the Obama administration has been pursuing an aggressive campaign to restore protections for workers that have been eroded...",
+        "upvotes": 6,
+        "url": "http://www.nytimes.com/2015/09/01/business/economy/as-his-term-wanes-obama-restores-workers-rights.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0"
+      },
+      {
+        "preview": "My name is Caleb Sneeringer, and I worked for Walgreens for six years. I was first hired in 2008 as an assistant manager, and in 2010 I was promoted to executive assistant manager—my first salaried po...",
+        "upvotes": 6,
+        "url": "http://www.epi.org/blog/why-i-support-raising-the-overtime-threshold/"
+      },
+      {
+        "preview": "California prison officials have agreed to limit the practice of long-term solitary confinement, four years after the first hunger strike began in protest of the practice. Under a historic agreement r...",
+        "upvotes": 0,
+        "url": "http://solitarywatch.com/2015/09/01/landmark-settlement-reached-solitary-confinement-to-be-dramatically-reduced-in-california-prisons/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Photo by Alex Wong/Getty Images For most of 2015, it seemed that the assault on women’s right to contraception coverage had reached something of a stalemate. While last year the Supreme Court did find...",
+        "upvotes": 0,
+        "url": "http://www.slate.com/blogs/xx_factor/2015/09/01/a_judge_rules_that_march_for_life_can_cut_off_contraception_access_for_non.html"
+      },
+      {
+        "preview": "Senate Majority Leader Mitch McConnell undercut threats by fellow Republicans to hold the budget process hostage in an effort to defund Planned Parenthood, saying conservatives do not have enough supp...",
+        "upvotes": 9,
+        "url": "http://www.rawstory.com/2015/09/mitch-mcconnell-republicans-dont-have-enough-votes-to-defund-planned-parenthood/"
+      },
+      {
+        "preview": "Sen. Ted Cruz (R-TX) told a bunch of lies to blame President Barack Obama and Black Lives Matter activists for the fatal shooting of a Texas sheriff's deputy. “Cops across this country are feeling the...",
+        "upvotes": 108,
+        "url": "http://www.rawstory.com/2015/09/ted-cruz-caught-blatantly-lying-about-obama-to-push-conservative-war-on-cops-narrative/"
+      }
+    ]
+  }
+}

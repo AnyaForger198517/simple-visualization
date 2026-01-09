@@ -1,0 +1,285 @@
+{
+  "month": "2017-02",
+  "total_articles": 404,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "wa",
+        "law",
+        "ha",
+        "republican",
+        "trump",
+        "court",
+        "movement",
+        "woman",
+        "american",
+        "right",
+        "president",
+        "group",
+        "government",
+        "federal"
+      ],
+      "topic_weights": [
+        663.0670703813975,
+        656.1103117531175,
+        526.2306602107952,
+        507.4808997663892,
+        418.15076503373274,
+        413.8504981171162,
+        318.68109810935096,
+        317.1437341945669,
+        299.96063608035934,
+        275.60703634711774,
+        266.52903999260184,
+        265.1084613317741,
+        263.0216434381142,
+        258.60688022671764,
+        256.0701897802171
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "russian",
+        "ha",
+        "russia",
+        "putin",
+        "state",
+        "official",
+        "administration",
+        "white",
+        "obama",
+        "american",
+        "house",
+        "political"
+      ],
+      "topic_weights": [
+        2450.108686541245,
+        1889.0910301077283,
+        803.9301781106328,
+        751.985061831895,
+        743.0210970762541,
+        650.6391511890183,
+        627.8882514662408,
+        571.4862913087021,
+        456.5725430943388,
+        450.9468171871382,
+        409.270926124182,
+        408.1755708915462,
+        371.42859994571654,
+        371.35976532947086,
+        363.14783389383894
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "state",
+        "ha",
+        "immigration",
+        "program",
+        "federal",
+        "percent",
+        "immigrant",
+        "american",
+        "policy",
+        "tax",
+        "plan",
+        "president",
+        "administration",
+        "report"
+      ],
+      "topic_weights": [
+        415.0278819183525,
+        331.94893384786917,
+        228.9117341677328,
+        224.10323198377338,
+        217.75744902100882,
+        217.27102110314382,
+        201.20664944800444,
+        195.6216659778819,
+        181.4586626878832,
+        178.22501428375804,
+        174.58724040187437,
+        161.56296620798477,
+        156.4291960301204,
+        156.39762450699212,
+        143.2376718773384
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "party",
+        "democratic",
+        "trump",
+        "clinton",
+        "democrat",
+        "republican",
+        "wa",
+        "sander",
+        "ellison",
+        "ha",
+        "campaign",
+        "election",
+        "dnc",
+        "vote",
+        "perez"
+      ],
+      "topic_weights": [
+        1240.4049618132192,
+        900.5696909009451,
+        669.8095872453574,
+        567.5644394671639,
+        548.4925537168315,
+        466.3500668423061,
+        443.43513691456127,
+        435.21492774808985,
+        388.0543238435718,
+        343.6783230002744,
+        318.4332734065472,
+        312.7701433235004,
+        273.3194399076502,
+        265.9771096123413,
+        254.28099541702636
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "medium",
+        "news",
+        "data",
+        "world",
+        "company",
+        "work",
+        "money",
+        "change",
+        "story",
+        "bannon",
+        "site",
+        "did"
+      ],
+      "topic_weights": [
+        914.1919945014647,
+        543.5904458392403,
+        359.00515796268616,
+        335.17627748796434,
+        265.7319668297382,
+        258.8657123919681,
+        224.6107017741488,
+        214.31604983335393,
+        200.72766792355196,
+        196.4537275010613,
+        187.00723706595704,
+        173.27362266240095,
+        166.0654369504406,
+        165.14472492583397,
+        163.11233075458
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 48,
+    "4": 76,
+    "1": 96,
+    "0": 141,
+    "3": 43
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Quick Links Act Now › President Donald Trump named Judge Neil Gorsuch as his pick to replace Antonin Scalia on the Supreme Court. (AP Photo/David Zalubowski) It’s official: If Neil Gorsuch, President ...",
+        "upvotes": 19,
+        "url": "https://www.opensecrets.org/news/2017/01/trumps-pick-gorsuch/"
+      },
+      {
+        "preview": "Jan. 31, 2017, at 8:04 PM By Oliver Roeder and Harry Enten Filed under Supreme Court Carolyn Kaster / AP On Tuesday evening, in the East Room of the White House in prime time, President Trump tapped N...",
+        "upvotes": 18,
+        "url": "https://fivethirtyeight.com/features/neil-gorsuch-supreme-court-trump/"
+      },
+      {
+        "preview": "Conservatives are more likely to support issues like immigration and Obamacare if the message is “morally reframed” to suit their values. Ever since Donald Trump handed down his executive order tempor...",
+        "upvotes": 3,
+        "url": "https://www.theatlantic.com/science/archive/2017/02/the-simple-psychological-trick-to-political-persuasion/515181/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement Supported by Editorial By The Editorial Board Plenty of presidents have had prominent political advisers, and some of those advisers have been suspected of quietly setting policy behind ...",
+        "upvotes": 28,
+        "url": "https://www.nytimes.com/2017/01/30/opinion/president-bannon.html"
+      },
+      {
+        "preview": "Advertisement Supported by By Paul Krugman In 2015 the city of Ashgabat, the capital of Turkmenistan, was graced with a new public monument: a giant gold-plated sculpture portraying the country’s pres...",
+        "upvotes": 41,
+        "url": "https://www.nytimes.com/2017/01/02/opinion/america-becomes-a-stan.html"
+      },
+      {
+        "preview": "On Sunday night an anti-Muslim white nationalist allegedly walked into a mosque in Canada and shot and killed six people and left at least eight others critically wounded in a hail of gunfire. All by ...",
+        "upvotes": 74,
+        "url": "http://www.nydailynews.com/news/world/king-world-grieving-canadian-mosque-shooting-article-1.2960334"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Discover Thomson  By Sankalp Phartiyal, Tanvi Mehta 3 Min Read MUMBAI/BENGALURU () - India’s IT lobby warned on Tuesday that a bill before the U.S. Congress aimed at imposing tougher visa rules unfair...",
+        "upvotes": 16,
+        "url": "http://www.reuters.com/article/us-usa-trump-immigration-india-idUSKBN15F1SE"
+      },
+      {
+        "preview": "© First Look Institute. All rights reserved First Look Institute is a 501(c)(3) nonprofit organization. President Trump has inherited a vast domestic intelligence agency with extraordinary secret powe...",
+        "upvotes": 4,
+        "url": "https://theintercept.com/2017/01/31/based-on-a-vague-tip-the-feds-can-surveil-anyone/"
+      },
+      {
+        "preview": "President Donald Trump’s sweeping visa and refugee ban is likely only the beginning. Already he has signed a variation of a “Muslim ban” — and has suggested expanding it. He has pushed forward on the ...",
+        "upvotes": 13,
+        "url": "http://www.vox.com/policy-and-politics/2017/2/2/14472404/steve-bannon-legal-immigration-problem"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Former Vice President Joe Biden, in his statement, praised Perez's tenure as a civil rights lawyer and Labor Secretary. | Joel Auerbach/AP Photo By DANIEL STRAUSS 02/01/2017 01:04 PM EST Updated 02/01...",
+        "upvotes": 6,
+        "url": "http://www.politico.com/story/2017/02/joe-biden-endorses-tom-perez-dnc-chair-234495"
+      },
+      {
+        "preview": "The president could accelerate the demographic divides between Democratic and Republican districts. Matt Cartwright, a personable Democratic attorney, hasn’t faced a truly tough race since he was elec...",
+        "upvotes": 10,
+        "url": "https://www.theatlantic.com/politics/archive/2017/02/trump-house-seats/515223/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. Bernie SandersBernie SandersDavid Sirota: Pharmaceuticals will try to make Medicare proposal as limited as possible Medicare trustees sound alar...",
+        "upvotes": 3,
+        "url": "http://thehill.com/homenews/campaign/317436-sanders-reaffirms-support-for-ellison-after-biden-backs-rival"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Steven Mnuchin at his Senate hearingJoshua Roberts/Reuters/ZUMA Update 2/1/16: Early Wednesday morning, the Republicans on the Finance Committee reconvened to approve Mnuchin and Price. The Democrats ...",
+        "upvotes": 1,
+        "url": "http://m.motherjones.com/politics/2017/01/senate-democrats-are-blocking-trumps-treasury-and-health-nominees"
+      },
+      {
+        "preview": "Nobody expects the House Science Committee!traveler1116/iStock President Donald Trump’s early moves to fill the government with climate skeptics and fossil fuel interests have enraged environmentalist...",
+        "upvotes": 4,
+        "url": "http://www.motherjones.com/environment/2017/01/house-science-committee-lamar-smith-climate-change-exxon"
+      },
+      {
+        "preview": "Login We are stepping up our audio game. Boston Public Library Our new issue, “The Working Class,” is out in print and online now. Subscribe today at a discount to get it. Podcasts, like magazines and...",
+        "upvotes": 7,
+        "url": "https://www.jacobinmag.com/2017/01/jacobin-radio-podcast-daniel-denvir-dig-rl-stephens-suzi-weissman/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "month": "2018-09",
+  "total_articles": 277,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "state",
+        "policy",
+        "democrat",
+        "election",
+        "political",
+        "manafort",
+        "campaign",
+        "house",
+        "republican",
+        "party",
+        "white"
+      ],
+      "topic_weights": [
+        925.1890912128106,
+        708.8689678646134,
+        541.5864722690327,
+        536.8119193181666,
+        262.4237804205595,
+        235.3677070604431,
+        213.79035585470706,
+        210.04740760760652,
+        197.05421993302528,
+        195.10679291905936,
+        185.85527314858533,
+        180.22431206658453,
+        175.63820312348747,
+        167.82847837333648,
+        163.25569492778865
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "reported",
+        "wa",
+        "judge",
+        "county",
+        "child",
+        "prosecutor",
+        "sexual",
+        "friday",
+        "kavanaugh",
+        "graham",
+        "president",
+        "decade",
+        "afghanistan",
+        "dead",
+        "war"
+      ],
+      "topic_weights": [
+        248.48206048311255,
+        231.0400167313564,
+        230.71933636775188,
+        211.39956235093473,
+        191.78031358411616,
+        141.80038999212525,
+        134.82312675863622,
+        132.6853998680596,
+        124.94401130998155,
+        123.03488233069707,
+        120.74642914465603,
+        120.19329024881233,
+        119.76713582211441,
+        117.13730239973769,
+        116.74443464433142
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "yls",
+        "rourke",
+        "cruz",
+        "nike",
+        "gun",
+        "law",
+        "yale",
+        "school",
+        "agalarov",
+        "nfl",
+        "player",
+        "debate",
+        "professor",
+        "kavanaugh",
+        "judge"
+      ],
+      "topic_weights": [
+        486.0642381049772,
+        58.616703092001025,
+        40.001442542773894,
+        34.769663725857214,
+        30.825261561123714,
+        30.61490217714632,
+        30.246891100465554,
+        29.0207634434687,
+        28.29086974293275,
+        27.684363181319085,
+        27.210034043058485,
+        21.673862840206183,
+        19.001150600465092,
+        18.931148137746845,
+        16.666591523880417
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "hour",
+        "work",
+        "state",
+        "government",
+        "plan",
+        "percent",
+        "american",
+        "week",
+        "health",
+        "administration",
+        "increase",
+        "premium",
+        "million",
+        "wa",
+        "public"
+      ],
+      "topic_weights": [
+        506.47788221920183,
+        476.17648384836076,
+        282.7465192912396,
+        271.29066259488667,
+        251.0621505438422,
+        249.7505916736328,
+        248.73999438913972,
+        243.55104179012966,
+        242.23544872997027,
+        236.27945213051163,
+        221.43306462096731,
+        203.72516270856755,
+        191.52015282656728,
+        168.34106261229525,
+        159.3541634108447
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "kavanaugh",
+        "wa",
+        "court",
+        "woman",
+        "ford",
+        "ha",
+        "supreme",
+        "judge",
+        "allegation",
+        "committee",
+        "brett",
+        "school",
+        "senate",
+        "republican",
+        "student"
+      ],
+      "topic_weights": [
+        1315.1913019541587,
+        714.6762807556623,
+        524.8179423759473,
+        405.343234486093,
+        398.39557630020306,
+        388.8628318251082,
+        344.6281968822755,
+        322.2988720596307,
+        308.1785504771044,
+        268.51384112798803,
+        247.63197290034068,
+        235.42222896430988,
+        231.24387879592004,
+        224.460058908985,
+        212.42087158489994
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 146,
+    "3": 7,
+    "4": 69,
+    "1": 54,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "FLINT, MICHIGAN — Though the Space Force has yet to begin accepting applications for service, 38 year old Hank Stephens says he intends to submit his as soon as the enrollment period begins. “I had no...",
+        "upvotes": 11,
+        "url": "https://www.politicalgarbagechute.com/flint-man-space-force/"
+      },
+      {
+        "preview": "Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else. Thank you. Please check your inbox to confirm. Associated Press Associated Press NEW YORK — Lawyers for...",
+        "upvotes": 27,
+        "url": "https://www.pbs.org/newshour/politics/new-yorks-attorney-general-says-trump-foundation-bankrolled-political-campaign-pursues-lawsuit"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 1,
+        "url": "http://www.rightwingwatch.org/post/history-will-record-the-greatness-that-you-have-brought-for-generations-religious-right-leaders-tell-trump/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The New York Times is reporting that special counsel Robert Mueller has issued a subpoena for right-wing conspiracy theorist Jerome Corsi, who is best known for promoting the unfounded theory that for...",
+        "upvotes": 47,
+        "url": "https://www.rawstory.com/2018/09/mueller-subpoenas-birther-king-jerome-corsi-shocking-move-yet/"
+      },
+      {
+        "preview": "David Frum, a former speechwriter for George W. Bush, told CNN on Friday that President Donald Trump has no one but himself to blame for his own administration's culture of infighting and leaking. As ...",
+        "upvotes": 19,
+        "url": "https://www.rawstory.com/2018/09/place-snake-pit-cnn-conservative-says-addled-trump-blame-vicious-infighting/"
+      },
+      {
+        "preview": "President Donald Trump believed he could lower the United States' debt by instructing the Treasury Department to print more money, according to the new book Fear: Trump in the White House by veteran i...",
+        "upvotes": 322,
+        "url": "https://www.rawstory.com/2018/09/trump-bewildered-economic-adviser-claiming-print-money-reduce-debt-woodward/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Popular You are here: by Andy Menconi July 26, 2018, 11:52 am Less than an hour after Donald Trump nominated Brett Kavanaugh to the Supreme Court, Yale Law School issued a press release praising their...",
+        "upvotes": 1,
+        "url": "https://other98.com/brett-kavanaughs-fellow-alumni-at-yale-law-school-are-calling-him-morally-bankrupt-in-a-scathing-letter/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Supported by It’s long-term G.O.P. policy, but Trump picked an odd moment to chisel the people who keep us safe By Paul Krugman Opinion Columnist You sometimes hear the claim that Republ...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2018/08/31/opinion/giving-government-workers-the-shaft.html"
+      },
+      {
+        "preview": "PORTLAND, Oren -- Nike said Friday that it has found major worker rights violations at one of its Malaysian contract factories, including squalid living conditions, garnished wages and withheld passpo...",
+        "upvotes": 1,
+        "url": "https://abcnews.go.com/Business/story?id=5503956&page=1"
+      },
+      {
+        "preview": "by Kalena Thomhave September 14, 2018 6:56 PM On Wednesday, the Census Bureau announced that median income had reached its highest recorded level in 2017, while the poverty rate declined. The report i...",
+        "upvotes": 2,
+        "url": "http://prospect.org/blog/tapped/median-income-rises-far-full-story"
+      }
+    ],
+    "4": [
+      {
+        "preview": "This article is more than 1 year old Follow live coverage of Brett Kavanaugh’s confirmation hearings here: Kavanaugh hearings off to disruptive start as Democrats and protesters push for delay Hours b...",
+        "upvotes": 3,
+        "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/09/03/hours-before-kavanaugh-nomination-hearings-bush-lawyer-releases-42000-pages-of-documents-to-judiciary-committee/?noredirect=on&utm_term=.150b90a31597"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. Protesters disrupt the ...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/news/2018/09/04/not-drill-hearings-begin-democrats-told-go-jugular-stopkavanaugh"
+      },
+      {
+        "preview": "Democrats have made Brett Kavanaugh’s Senate confirmation hearing about process. The opening hours of the Senate Judiciary Committee’s first confirmation hearing for Supreme Court nominee Brett Kavana...",
+        "upvotes": 12,
+        "url": "https://www.vox.com/2018/9/4/17819022/brett-kavanaugh-hearing-supreme-court-process"
+      }
+    ]
+  }
+}

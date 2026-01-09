@@ -1,0 +1,36 @@
+{
+  "month": "2016-06",
+  "total_articles": 374,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2016 US Presidential Election (Trump and Clinton Campaign)",
+      "core_keywords": ["trump", "clinton", "election", "republican", "democrat", "campaign", "president"],
+      "importance_ratio": 0.3556
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Climate Change and Environmental Impact",
+      "core_keywords": ["climate change", "global warming", "carbon", "temperature", "atmosphere", "earth", "increase"],
+      "importance_ratio": 0.0241
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Islamic Terrorism and Security Issues (Orlando Attack)",
+      "core_keywords": ["muslim", "terrorist", "islamic", "attack", "orlando", "security", "police"],
+      "importance_ratio": 0.2567
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Online Posts and Immigration Issues in US States",
+      "core_keywords": ["post", "illegal", "alien", "texas", "california", "video", "private"],
+      "importance_ratio": 0.0508
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "US Gun Rights and Government Legal Policies",
+      "core_keywords": ["gun", "government", "law", "right", "court", "public", "libertarian"],
+      "importance_ratio": 0.3128
+    }
+  ]
+}

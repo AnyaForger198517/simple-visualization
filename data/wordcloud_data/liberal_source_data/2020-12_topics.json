@@ -1,0 +1,285 @@
+{
+  "month": "2020-12",
+  "total_articles": 148,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "pandemic",
+        "economic",
+        "covid",
+        "help",
+        "million",
+        "study",
+        "world",
+        "american",
+        "did",
+        "business",
+        "government",
+        "market",
+        "company",
+        "tax"
+      ],
+      "topic_weights": [
+        194.44051853323043,
+        142.8072972096857,
+        84.76929095880803,
+        83.89508500782577,
+        81.38478461815488,
+        73.87602535519726,
+        73.18148434109912,
+        66.29774062778685,
+        66.12783927822821,
+        63.98726968693469,
+        61.74449642215507,
+        61.411953363254426,
+        60.23802591228971,
+        58.10862006508918,
+        54.11216766368694
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "senate",
+        "mcconnell",
+        "vote",
+        "trump",
+        "check",
+        "republican",
+        "president",
+        "stimulus",
+        "democrat",
+        "wa",
+        "relief",
+        "ha",
+        "house",
+        "leader",
+        "american"
+      ],
+      "topic_weights": [
+        272.9819678915389,
+        198.85717994974186,
+        175.65001067819142,
+        175.20752235383938,
+        172.81805576416275,
+        159.23782276785815,
+        143.53591509802968,
+        139.0403592349105,
+        124.07969091013877,
+        115.27041390537586,
+        103.3016884191263,
+        96.73273334976017,
+        95.89884457002326,
+        91.80566199047676,
+        89.87201234311692
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "million",
+        "wa",
+        "worth",
+        "net",
+        "received",
+        "company",
+        "bank",
+        "read",
+        "business",
+        "customer",
+        "member",
+        "rule",
+        "loan",
+        "story",
+        "committee"
+      ],
+      "topic_weights": [
+        101.80826209765263,
+        63.22091161794304,
+        61.387556596713246,
+        59.623060841187886,
+        56.65175850475179,
+        53.43663834071301,
+        51.217390191182965,
+        39.64730328485809,
+        36.68672715552164,
+        35.93243343994165,
+        33.47119369553678,
+        32.74479279966762,
+        32.18528771411099,
+        31.638528565277,
+        28.475046955948976
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "election",
+        "ha",
+        "wa",
+        "president",
+        "biden",
+        "state",
+        "republican",
+        "vote",
+        "result",
+        "house",
+        "electoral",
+        "court",
+        "muslim",
+        "medium"
+      ],
+      "topic_weights": [
+        556.0177405428198,
+        342.18117880738055,
+        331.3320938656183,
+        298.83753689646346,
+        285.2743188167598,
+        236.63386598893948,
+        228.68843465089654,
+        181.9990026240571,
+        134.62950005179175,
+        125.21748866162518,
+        123.68377990942346,
+        118.47402542948119,
+        115.32192460339023,
+        110.45699169662701,
+        105.43533855010226
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "ha",
+        "cooky",
+        "marijuana",
+        "site",
+        "lawmaker",
+        "biden",
+        "data",
+        "website",
+        "justice",
+        "cannabis",
+        "trump",
+        "elector",
+        "congress",
+        "administration"
+      ],
+      "topic_weights": [
+        103.75092000624895,
+        49.33311078604784,
+        48.51378310152831,
+        39.21325681236058,
+        38.71113304340618,
+        35.84718140424699,
+        34.95736226784622,
+        32.37545524229383,
+        29.842117537804032,
+        29.344396843677472,
+        28.80415497275038,
+        28.705157999251576,
+        27.794843195077974,
+        27.164566651373267,
+        26.03406232644885
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 72,
+    "2": 16,
+    "1": 19,
+    "0": 29,
+    "4": 12
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Singer-songwriter joins Kyle Meredith With... to discuss Little Oblivions ﻿Listen via Apple Podcasts | Spotify | Google Play | Stitcher | Radio Public | RSSJulien Baker hangs out with Kyle Meredith to...",
+        "upvotes": 1,
+        "url": "https://consequenceofsound.net/2020/11/kyle-meredith-with-julien-baker/"
+      },
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » In the wake of a tempestuous ...",
+        "upvotes": 1,
+        "url": "https://www.brookings.edu/opinions/is-another-progressive-era-coming/"
+      },
+      {
+        "preview": "Johnny Brennan talks to Kyle Meredith about their first new album in over 20 years ﻿Listen via Apple Podcasts | Spotify | Google Play | Stitcher | Radio Public | RSSThe Jerky Boys mastermind Johnny Br...",
+        "upvotes": 1,
+        "url": "https://consequenceofsound.net/2020/12/kyle-meredith-with-the-jerky-boys/?fbclid=IwAR0v0eNNDVF35T1EgO0snjAYD9pQScGGfS858fcHifp85zzbyVnJvMdFyQg"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Jon Ossoff, who hopes to unseat GOP Sen. David Perdue in one of two Georgia runoffs, is running on a straightforward message. It has the virtue of being not just largely true, but also one we’ve alrea...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/opinions/2020/11/30/mitch-mcconnells-ability-cripple-bidens-presidency-depends-one-thing/"
+      },
+      {
+        "preview": "A bipartisan group of senators rolled out a compromise version of an economic rescue package on Tuesday. Coming in at just over $900 billion, it moved substantially away from what Democrats want (arou...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/opinions/2020/12/01/mcconnell-just-nixed-compromise-stimulus-what-should-democrats-learn-it/"
+      },
+      {
+        "preview": "WASHINGTON -- A provision to rename 10 Army bases that honor Confederate generals has made it into the final 2021 National Defense Authorization Act, according to a Democratic aide, rejecting a veto t...",
+        "upvotes": 1,
+        "url": "https://www.stripes.com/news/us/defense-bill-moving-forward-with-measure-to-scrub-confederate-names-from-bases-rebuking-trump-s-veto-threat-1.653986"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Tech, Finance, and Business News On The Go Ajit Pai, the current Chairman of the US Federal Communications Commission (FCC), has formally announced plans to leave the commission when the next US admin...",
+        "upvotes": 1,
+        "url": "https://www.thetechee.com/2020/11/fcc-chairman-ajit-pai-to-leave-next-year.html"
+      },
+      {
+        "preview": "Cartoonish internet supervillain Ajit Pai, the Donald Trump-appointed Republican chairman of the Federal Communications Commission, announced Monday that he is leaving the agency on Jan. 20 before the...",
+        "upvotes": 1,
+        "url": "https://gizmodo.com/nobody-s-gonna-miss-you-1845774714"
+      },
+      {
+        "preview": "To revist this article, visit My Profile, then View saved stories. To revist this article, visit My Profile, then View saved stories. By Peter Hamby To revist this article, visit My Profile, then View...",
+        "upvotes": 463,
+        "url": "https://www.vanityfair.com/news/2020/12/obama-urges-activists-to-talk-reforming-not-defunding-the-police"
+      }
+    ],
+    "3": [
+      {
+        "preview": "SEARCH Bodycam video appears to show that 40-year-old Ryan Whitaker was trying to cooperate when an officer shot him on his stoop back in May. Six months on, nothing has happened. Forty-year-old Ryan ...",
+        "upvotes": 1,
+        "url": "https://www.thedailybeast.com/a-phoenix-cop-shot-this-dad-will-his-family-see-justice?via=desktop&source=Reddit"
+      },
+      {
+        "preview": "Advertisement Supported by He needs to make the G.O.P. pay a price for obstruction. By Paul Krugman Opinion Columnist When Joe Biden is inaugurated, he will immediately be confronted with an unprecede...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/11/30/opinion/biden-republican-party.html"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since President Donald Trump's personal defense attorney Rudy Giuliani talked to the president about rece...",
+        "upvotes": 219,
+        "url": "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
+      }
+    ],
+    "4": [
+      {
+        "preview": "President-elect Joe Biden's criminal justice plan includes $20 billion in grants for states. Shutterstock Your daily read on state and local government Connecting state and local government leaders By...",
+        "upvotes": 1,
+        "url": "https://www.route-fifty.com/public-safety/2020/11/biden-criminal-justice-plan/170268/"
+      },
+      {
+        "preview": "President Trump walks to a briefing in the White House Rose Garden on November 13, 2020. Official White House Photo by Tia Dufour Eric Katz President Trump came into office with a promise to slash the...",
+        "upvotes": 1,
+        "url": "https://www.govexec.com/workforce/2020/11/trump-has-slashed-jobs-nearly-every-federal-agency-biden-promises-reversal/170203/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. Jeff MerkleyJeff MerkleyMore insidious power grab than one attempted Jan. 6? Colorado River cutbacks set stage for decade of drought politics Wy...",
+        "upvotes": 38,
+        "url": "https://thehill.com/homenews/house/528448-democrats-introduce-legislation-to-close-slavery-loophole-in-13th-amendment"
+      }
+    ]
+  }
+}

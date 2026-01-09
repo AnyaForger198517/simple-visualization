@@ -1,0 +1,36 @@
+{
+  "month": "2015-11",
+  "total_articles": 345,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2016 presidential candidates (Cruz, Clinton, Rubio, climate policy)",
+      "core_keywords": ["Ted Cruz", "Hillary Clinton", "Marco Rubio", "climate policy", "Obama", "presidential candidate"],
+      "importance_ratio": 21.16
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Campus speech and social discussion in November",
+      "core_keywords": ["university", "speech", "campus", "social discussion", "November", "white"],
+      "importance_ratio": 0.87
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Campus free speech and racial issues in America",
+      "core_keywords": ["student", "free speech", "university", "racial issues", "freedom", "American"],
+      "importance_ratio": 16.23
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Refugee, terrorism and Paris attacks (Obama administration)",
+      "core_keywords": ["refugee", "Obama", "terrorist attack", "Paris", "Muslim", "war"],
+      "importance_ratio": 28.12
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump and Republican immigration policy for election",
+      "core_keywords": ["Donald Trump", "Republican", "immigration policy", "presidential election", "law", "campaign"],
+      "importance_ratio": 33.91
+    }
+  ]
+}

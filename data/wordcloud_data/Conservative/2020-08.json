@@ -1,0 +1,36 @@
+{
+  "month": "2020-08",
+  "total_articles": 115,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Racial Justice and Police Violence",
+      "core_keywords": ["white", "police", "racism", "violence", "civil right", "city", "twitter"],
+      "importance_ratio": 0.1913
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US-China Relations and 2020 Election",
+      "core_keywords": ["china", "trump", "biden", "american", "president", "tax", "official"],
+      "importance_ratio": 0.2087
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Biden-Harris Campaign and Racial Issues",
+      "core_keywords": ["biden", "harris", "black", "campaign", "democratic", "vice president", "white"],
+      "importance_ratio": 0.1826
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Election and Local Public Issues",
+      "core_keywords": ["ballot", "voter", "covid", "energy", "school", "nuclear", "oil"],
+      "importance_ratio": 0.0435
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump, COVID-19 and 2020 Election",
+      "core_keywords": ["trump", "mask", "covid", "election", "president", "mail voting", "democrat"],
+      "importance_ratio": 0.3739
+    }
+  ]
+}

@@ -1,0 +1,7622 @@
+{
+  "2011-02": {
+    "total_articles": 11,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "health",
+          "choice",
+          "labor",
+          "care",
+          "insurance"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "woman",
+          "wing",
+          "group",
+          "abortion",
+          "live"
+        ],
+        "article_count": 0
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "reagan",
+          "wa",
+          "tax",
+          "military",
+          "republican"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "state",
+          "ha",
+          "walker",
+          "wa",
+          "law"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "woman",
+          "abortion",
+          "group",
+          "wing",
+          "anti"
+        ],
+        "article_count": 1
+      }
+    ]
+  },
+  "2011-03": {
+    "total_articles": 62,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "mother",
+          "wa",
+          "jones",
+          "state",
+          "ha"
+        ],
+        "article_count": 45
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "israel",
+          "wa",
+          "ha",
+          "cut"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "ha",
+          "libya",
+          "war",
+          "wa",
+          "military"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "utility",
+          "rural",
+          "america",
+          "debate",
+          "energy"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "jones",
+          "mother",
+          "tax",
+          "state",
+          "cut"
+        ],
+        "article_count": 0
+      }
+    ]
+  },
+  "2011-04": {
+    "total_articles": 60,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "campaign",
+          "wa",
+          "obama",
+          "administration",
+          "adoption"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "mother",
+          "jones",
+          "ha",
+          "wa",
+          "trump"
+        ],
+        "article_count": 38
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "cfpb",
+          "program",
+          "nation",
+          "republican",
+          "tax"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "tax",
+          "wa",
+          "protest",
+          "uncut",
+          "pay"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "freedom",
+          "state",
+          "security",
+          "politics",
+          "equality"
+        ],
+        "article_count": 4
+      }
+    ]
+  },
+  "2011-05": {
+    "total_articles": 82,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "black",
+          "american",
+          "ha",
+          "comment"
+        ],
+        "article_count": 38
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "jones",
+          "mother",
+          "story",
+          "today",
+          "policy"
+        ],
+        "article_count": 19
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "labor",
+          "party",
+          "state",
+          "cut",
+          "union"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "state",
+          "wa",
+          "government",
+          "health",
+          "law"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "tax",
+          "republican",
+          "cut",
+          "huckabee",
+          "wa"
+        ],
+        "article_count": 12
+      }
+    ]
+  },
+  "2011-06": {
+    "total_articles": 81,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "conservative",
+          "liberal",
+          "conservatism",
+          "ha",
+          "democracy"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "tax",
+          "president",
+          "country",
+          "crisis",
+          "world"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "jones",
+          "mother",
+          "state"
+        ],
+        "article_count": 73
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "liberal",
+          "conservatism",
+          "ha",
+          "conservative",
+          "democracy"
+        ],
+        "article_count": 0
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "liberal",
+          "ha",
+          "conservative",
+          "conservatism",
+          "wa"
+        ],
+        "article_count": 0
+      }
+    ]
+  },
+  "2011-07": {
+    "total_articles": 81,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "black",
+          "white",
+          "job",
+          "discrimination",
+          "wa"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "ha",
+          "wa",
+          "state",
+          "tax",
+          "republican"
+        ],
+        "article_count": 41
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "prison",
+          "cain",
+          "prisoner",
+          "american"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "drug",
+          "dog",
+          "wa",
+          "perry",
+          "response"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "jones",
+          "mother",
+          "story",
+          "today",
+          "policy"
+        ],
+        "article_count": 21
+      }
+    ]
+  },
+  "2011-08": {
+    "total_articles": 80,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "government",
+          "ha",
+          "libertarian",
+          "corporation"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "mother",
+          "jones",
+          "wa",
+          "bachmann",
+          "story"
+        ],
+        "article_count": 21
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "department",
+          "ha",
+          "environmental",
+          "project"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "cut",
+          "tax",
+          "comment",
+          "republican",
+          "ha"
+        ],
+        "article_count": 20
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "debt",
+          "bank",
+          "wa",
+          "financial",
+          "public"
+        ],
+        "article_count": 4
+      }
+    ]
+  },
+  "2011-09": {
+    "total_articles": 70,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "job",
+          "obama",
+          "economy",
+          "ha",
+          "president"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "percent",
+          "warren",
+          "house",
+          "support",
+          "bush"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "topic",
+          "party",
+          "wa",
+          "tea",
+          "tax"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "mother",
+          "jones",
+          "wa",
+          "today",
+          "story"
+        ],
+        "article_count": 19
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "american",
+          "ha",
+          "citizen",
+          "law"
+        ],
+        "article_count": 11
+      }
+    ]
+  },
+  "2011-10": {
+    "total_articles": 76,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "liberal",
+          "public",
+          "global",
+          "democracy",
+          "job"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "street",
+          "wall",
+          "occupy",
+          "movement",
+          "party"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "tax",
+          "mother",
+          "ha",
+          "wa",
+          "jones"
+        ],
+        "article_count": 48
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "american",
+          "iraq",
+          "perry",
+          "ha"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "police",
+          "protester",
+          "nypd",
+          "wa",
+          "officer"
+        ],
+        "article_count": 3
+      }
+    ]
+  },
+  "2011-11": {
+    "total_articles": 79,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "police",
+          "protester",
+          "property",
+          "occupy",
+          "space"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "gingrich",
+          "ha",
+          "republican",
+          "npr"
+        ],
+        "article_count": 34
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "obama",
+          "ha",
+          "daley",
+          "america",
+          "house"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "bank",
+          "government",
+          "ha",
+          "wa",
+          "money"
+        ],
+        "article_count": 15
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "tax",
+          "percent",
+          "wa",
+          "cut",
+          "policy"
+        ],
+        "article_count": 23
+      }
+    ]
+  },
+  "2011-12": {
+    "total_articles": 71,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "health",
+          "insurance",
+          "care",
+          "medical",
+          "profit"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "paul",
+          "biden",
+          "ha",
+          "state"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "woman",
+          "child",
+          "parent",
+          "immigration",
+          "undocumented"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "commissioner",
+          "report",
+          "wa",
+          "force",
+          "task"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "ha",
+          "tax",
+          "mother",
+          "jones"
+        ],
+        "article_count": 42
+      }
+    ]
+  },
+  "2012-01": {
+    "total_articles": 70,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "poverty",
+          "wa",
+          "child",
+          "percent",
+          "job"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "conservative",
+          "romney",
+          "santorum",
+          "republican",
+          "candidate"
+        ],
+        "article_count": 11
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "wa",
+          "paul",
+          "hampshire",
+          "ha"
+        ],
+        "article_count": 31
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "school",
+          "mother",
+          "jones",
+          "wa",
+          "ha"
+        ],
+        "article_count": 15
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "obama",
+          "wa",
+          "ha",
+          "recall",
+          "state"
+        ],
+        "article_count": 6
+      }
+    ]
+  },
+  "2012-02": {
+    "total_articles": 58,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "state",
+          "wa",
+          "christian",
+          "romney",
+          "american"
+        ],
+        "article_count": 13
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "conservative",
+          "wa",
+          "state",
+          "ha",
+          "liberal"
+        ],
+        "article_count": 16
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "komen",
+          "wa",
+          "parenthood",
+          "planned",
+          "breast"
+        ],
+        "article_count": 11
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "ha",
+          "wa",
+          "obama",
+          "bank",
+          "release"
+        ],
+        "article_count": 11
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "hospital",
+          "catholic",
+          "woman",
+          "control",
+          "birth"
+        ],
+        "article_count": 7
+      }
+    ]
+  },
+  "2012-03": {
+    "total_articles": 125,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "law",
+          "mother",
+          "state",
+          "jones",
+          "congress"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "liberal",
+          "wa",
+          "limbaugh",
+          "state",
+          "ha"
+        ],
+        "article_count": 17
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "woman",
+          "slave",
+          "reproductive",
+          "freedom",
+          "abortion"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "ha",
+          "wa",
+          "price",
+          "country",
+          "president"
+        ],
+        "article_count": 24
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "state",
+          "ha",
+          "republican",
+          "breitbart"
+        ],
+        "article_count": 53
+      }
+    ]
+  },
+  "2012-04": {
+    "total_articles": 103,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "poverty",
+          "child",
+          "family",
+          "percent",
+          "million"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "canal",
+          "board",
+          "love",
+          "school"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "woman",
+          "tax",
+          "state",
+          "ha",
+          "mother"
+        ],
+        "article_count": 36
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "warren",
+          "brown",
+          "wa",
+          "massachusetts",
+          "democratic"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "romney",
+          "obama",
+          "ha",
+          "republican"
+        ],
+        "article_count": 58
+      }
+    ]
+  },
+  "2012-05": {
+    "total_articles": 95,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "poor",
+          "jones",
+          "mother",
+          "government",
+          "student"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "job",
+          "military",
+          "public",
+          "spending",
+          "pentagon"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "poverty",
+          "family",
+          "percent",
+          "child",
+          "republican"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "obama",
+          "ha",
+          "right",
+          "president"
+        ],
+        "article_count": 55
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "romney",
+          "wa",
+          "ha",
+          "news",
+          "obama"
+        ],
+        "article_count": 10
+      }
+    ]
+  },
+  "2012-06": {
+    "total_articles": 108,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "health",
+          "court",
+          "care",
+          "state"
+        ],
+        "article_count": 50
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "elite",
+          "agency",
+          "ha",
+          "wall"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "family",
+          "child",
+          "percent",
+          "poverty",
+          "million"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "obama",
+          "ha",
+          "state",
+          "american"
+        ],
+        "article_count": 50
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "policy",
+          "nation",
+          "agency",
+          "financial",
+          "senator"
+        ],
+        "article_count": 2
+      }
+    ]
+  },
+  "2012-07": {
+    "total_articles": 86,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "gun",
+          "wa",
+          "ha",
+          "house",
+          "july"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "obama",
+          "ha",
+          "american",
+          "jones"
+        ],
+        "article_count": 51
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "tax",
+          "state",
+          "million",
+          "medicaid",
+          "cost"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "christian",
+          "school",
+          "religion",
+          "voter"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "ha",
+          "wa",
+          "racist",
+          "support",
+          "legal"
+        ],
+        "article_count": 4
+      }
+    ]
+  },
+  "2012-08": {
+    "total_articles": 118,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "poverty",
+          "edelman",
+          "income",
+          "ha",
+          "child"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "wa",
+          "ha",
+          "voter",
+          "law"
+        ],
+        "article_count": 38
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "romney",
+          "wa",
+          "ha",
+          "ryan",
+          "tax"
+        ],
+        "article_count": 70
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "akin",
+          "platform",
+          "republican",
+          "rape",
+          "ryan"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "gun",
+          "nra",
+          "obama",
+          "industry",
+          "wa"
+        ],
+        "article_count": 2
+      }
+    ]
+  },
+  "2012-09": {
+    "total_articles": 117,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "republican",
+          "president",
+          "wa",
+          "party",
+          "obama"
+        ],
+        "article_count": 27
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "wa",
+          "learn",
+          "stats",
+          "ha"
+        ],
+        "article_count": 32
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "woman",
+          "pregnant",
+          "care",
+          "pregnancy",
+          "men"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "romney",
+          "wa",
+          "obama",
+          "student",
+          "ha"
+        ],
+        "article_count": 28
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "romney",
+          "wa",
+          "obama",
+          "ha",
+          "campaign"
+        ],
+        "article_count": 24
+      }
+    ]
+  },
+  "2012-10": {
+    "total_articles": 85,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "abortion",
+          "woman",
+          "life",
+          "wa",
+          "party"
+        ],
+        "article_count": 11
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "obama",
+          "romney",
+          "ha",
+          "state"
+        ],
+        "article_count": 56
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "tax",
+          "liberalism",
+          "rich",
+          "income"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "labor",
+          "cheap",
+          "conservative",
+          "government",
+          "public"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "tax",
+          "state",
+          "romney",
+          "wa",
+          "federal"
+        ],
+        "article_count": 16
+      }
+    ]
+  },
+  "2012-11": {
+    "total_articles": 102,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "tax",
+          "election",
+          "voting",
+          "state",
+          "voter"
+        ],
+        "article_count": 17
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "obama",
+          "republican",
+          "romney",
+          "party"
+        ],
+        "article_count": 57
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "filibuster",
+          "senate",
+          "abortion",
+          "ha",
+          "woman"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "worker",
+          "walmart",
+          "strike",
+          "jones",
+          "mother"
+        ],
+        "article_count": 20
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "state",
+          "parole",
+          "measure",
+          "public",
+          "voter"
+        ],
+        "article_count": 1
+      }
+    ]
+  },
+  "2012-12": {
+    "total_articles": 75,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "tax",
+          "rate",
+          "percent",
+          "ceo",
+          "corporate"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "gun",
+          "wa",
+          "state",
+          "republican",
+          "law"
+        ],
+        "article_count": 43
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "poverty",
+          "family",
+          "housing",
+          "percent",
+          "child"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "tax",
+          "income",
+          "republican",
+          "percent",
+          "cut"
+        ],
+        "article_count": 18
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "model",
+          "silver",
+          "ha",
+          "vote"
+        ],
+        "article_count": 10
+      }
+    ]
+  },
+  "2013-01": {
+    "total_articles": 169,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "poverty",
+          "family",
+          "percent",
+          "million",
+          "job"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "union",
+          "right",
+          "wa",
+          "government"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "gun",
+          "state",
+          "american"
+        ],
+        "article_count": 120
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "war",
+          "jones",
+          "obama",
+          "mother",
+          "wa"
+        ],
+        "article_count": 24
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "scout",
+          "vote",
+          "state",
+          "gay",
+          "republican"
+        ],
+        "article_count": 6
+      }
+    ]
+  },
+  "2013-02": {
+    "total_articles": 89,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "middle",
+          "income",
+          "republican",
+          "wa",
+          "class"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "ha",
+          "gun",
+          "state",
+          "police"
+        ],
+        "article_count": 50
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "percent",
+          "military",
+          "torture",
+          "wa",
+          "civilian"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wage",
+          "woman",
+          "percent",
+          "american",
+          "men"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "child",
+          "poverty",
+          "family",
+          "percent",
+          "million"
+        ],
+        "article_count": 1
+      }
+    ]
+  },
+  "2013-03": {
+    "total_articles": 95,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "paul",
+          "american",
+          "ha",
+          "jones"
+        ],
+        "article_count": 24
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "ha",
+          "prison",
+          "wa",
+          "party",
+          "reform"
+        ],
+        "article_count": 16
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "sick",
+          "leave",
+          "paid",
+          "alec"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "gun",
+          "government",
+          "ha",
+          "state"
+        ],
+        "article_count": 40
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "budget",
+          "tax",
+          "percent",
+          "policy",
+          "cut"
+        ],
+        "article_count": 11
+      }
+    ]
+  },
+  "2013-04": {
+    "total_articles": 109,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "gun",
+          "wa",
+          "ha",
+          "program",
+          "state"
+        ],
+        "article_count": 34
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "occ",
+          "bank",
+          "wa",
+          "foreclosure",
+          "republican"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "obama",
+          "american",
+          "justice"
+        ],
+        "article_count": 35
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "jones",
+          "mother",
+          "wa",
+          "policy",
+          "story"
+        ],
+        "article_count": 20
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "disability",
+          "wealth",
+          "security",
+          "benefit"
+        ],
+        "article_count": 17
+      }
+    ]
+  },
+  "2013-05": {
+    "total_articles": 79,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "group",
+          "irs",
+          "political",
+          "ha",
+          "percent"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "rove",
+          "group",
+          "political",
+          "conservative",
+          "election"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "gun",
+          "state",
+          "republican"
+        ],
+        "article_count": 50
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "film",
+          "child",
+          "koch",
+          "home"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "court",
+          "justice",
+          "business",
+          "case",
+          "decision"
+        ],
+        "article_count": 2
+      }
+    ]
+  },
+  "2013-06": {
+    "total_articles": 119,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "republican",
+          "state",
+          "party"
+        ],
+        "article_count": 92
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "wikileaks",
+          "ha",
+          "order",
+          "story"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "worker",
+          "guitar",
+          "center",
+          "clark",
+          "month"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "cut",
+          "program",
+          "wa",
+          "federal",
+          "reply"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "government",
+          "program",
+          "phone",
+          "nsa",
+          "ha"
+        ],
+        "article_count": 9
+      }
+    ]
+  },
+  "2013-07": {
+    "total_articles": 150,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "government",
+          "state",
+          "american"
+        ],
+        "article_count": 103
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "republican",
+          "voter",
+          "carolina",
+          "north"
+        ],
+        "article_count": 19
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "col",
+          "abuse",
+          "military",
+          "interrogation",
+          "wa"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "black",
+          "white",
+          "city",
+          "street",
+          "wa"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "energy",
+          "oil",
+          "edt",
+          "ha"
+        ],
+        "article_count": 19
+      }
+    ]
+  },
+  "2013-08": {
+    "total_articles": 162,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "state",
+          "wage",
+          "worker",
+          "health",
+          "cost"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "prosecutor",
+          "court",
+          "state",
+          "attorney"
+        ],
+        "article_count": 13
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "child",
+          "provider",
+          "wa",
+          "union",
+          "hour"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "president",
+          "american",
+          "obama"
+        ],
+        "article_count": 86
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "state",
+          "ha",
+          "manning",
+          "voter"
+        ],
+        "article_count": 32
+      }
+    ]
+  },
+  "2013-09": {
+    "total_articles": 145,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "church",
+          "wa",
+          "religious",
+          "shepard",
+          "gay"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "report",
+          "ha",
+          "climate",
+          "wa",
+          "ipcc"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "republican",
+          "wa",
+          "ha",
+          "party",
+          "obama"
+        ],
+        "article_count": 86
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "contractor",
+          "employee",
+          "worker",
+          "federal",
+          "cap"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "state",
+          "wa",
+          "money",
+          "fund",
+          "poor"
+        ],
+        "article_count": 19
+      }
+    ]
+  },
+  "2013-10": {
+    "total_articles": 246,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "state",
+          "law",
+          "voter",
+          "federal",
+          "ha"
+        ],
+        "article_count": 20
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "jones",
+          "mother",
+          "story",
+          "wa",
+          "today"
+        ],
+        "article_count": 35
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "food",
+          "government",
+          "program"
+        ],
+        "article_count": 69
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "republican",
+          "wa",
+          "party",
+          "ha",
+          "government"
+        ],
+        "article_count": 120
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "prison",
+          "company",
+          "state",
+          "wa",
+          "private"
+        ],
+        "article_count": 2
+      }
+    ]
+  },
+  "2013-11": {
+    "total_articles": 180,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "walmart",
+          "worker",
+          "employee",
+          "company",
+          "job"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "child",
+          "wa",
+          "kennedy",
+          "care",
+          "cbs"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "kelly",
+          "president",
+          "policy"
+        ],
+        "article_count": 62
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "box",
+          "work",
+          "warehouse",
+          "worker",
+          "job"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "state",
+          "health",
+          "republican",
+          "ha"
+        ],
+        "article_count": 100
+      }
+    ]
+  },
+  "2013-12": {
+    "total_articles": 142,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "energy",
+          "storage",
+          "power",
+          "ha",
+          "california"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "climate",
+          "change",
+          "sound",
+          "anderson",
+          "pushing"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "republican",
+          "conservative",
+          "american",
+          "ha"
+        ],
+        "article_count": 77
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "wage",
+          "ha",
+          "tax",
+          "income"
+        ],
+        "article_count": 44
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "marriage",
+          "sex",
+          "state",
+          "court",
+          "county"
+        ],
+        "article_count": 15
+      }
+    ]
+  },
+  "2014-01": {
+    "total_articles": 87,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "student",
+          "government",
+          "loan",
+          "debt",
+          "college"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "republican",
+          "ha",
+          "american",
+          "state"
+        ],
+        "article_count": 33
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "mother",
+          "jones",
+          "obamacare",
+          "union",
+          "medicaid"
+        ],
+        "article_count": 11
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "christie",
+          "state",
+          "gas",
+          "wa",
+          "study"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "ha",
+          "school",
+          "state",
+          "woman"
+        ],
+        "article_count": 31
+      }
+    ]
+  },
+  "2014-02": {
+    "total_articles": 63,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "climate",
+          "energy",
+          "state",
+          "ha",
+          "carbon"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "mike",
+          "deep",
+          "government",
+          "wing"
+        ],
+        "article_count": 11
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "american",
+          "wage",
+          "report"
+        ],
+        "article_count": 24
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "state",
+          "email",
+          "government",
+          "party"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "paul",
+          "religious",
+          "ha",
+          "wa",
+          "state"
+        ],
+        "article_count": 10
+      }
+    ]
+  },
+  "2014-03": {
+    "total_articles": 125,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "worker",
+          "republican",
+          "wa",
+          "program",
+          "percent"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "obamacare",
+          "health",
+          "koch",
+          "mother",
+          "million"
+        ],
+        "article_count": 16
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "job",
+          "term",
+          "long",
+          "world",
+          "unemployed"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "obama",
+          "state",
+          "american"
+        ],
+        "article_count": 73
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "court",
+          "ford",
+          "jail",
+          "judge"
+        ],
+        "article_count": 1
+      }
+    ]
+  },
+  "2014-04": {
+    "total_articles": 101,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wage",
+          "minimum",
+          "wa",
+          "hour",
+          "worker"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "christie",
+          "ha",
+          "election",
+          "state"
+        ],
+        "article_count": 43
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "city",
+          "ha",
+          "policy",
+          "law",
+          "voter"
+        ],
+        "article_count": 20
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "food",
+          "stamp",
+          "wage",
+          "store"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "health",
+          "care",
+          "medium",
+          "fox"
+        ],
+        "article_count": 31
+      }
+    ]
+  },
+  "2014-05": {
+    "total_articles": 84,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "clinton",
+          "wa",
+          "ha",
+          "wing",
+          "conservative"
+        ],
+        "article_count": 36
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "voter",
+          "republican",
+          "ha",
+          "koch"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "document",
+          "government",
+          "source",
+          "state"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "muslim",
+          "ha",
+          "islam",
+          "school"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "ha",
+          "wa",
+          "ryan",
+          "welfare",
+          "white"
+        ],
+        "article_count": 13
+      }
+    ]
+  },
+  "2014-06": {
+    "total_articles": 118,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "student",
+          "ha",
+          "state",
+          "president"
+        ],
+        "article_count": 17
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "policy",
+          "american",
+          "war",
+          "state"
+        ],
+        "article_count": 32
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "school",
+          "wage",
+          "ceo",
+          "percent",
+          "compensation"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "jones",
+          "mother",
+          "wa",
+          "libertarian",
+          "story"
+        ],
+        "article_count": 10
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "ha",
+          "wa",
+          "state",
+          "court",
+          "union"
+        ],
+        "article_count": 45
+      }
+    ]
+  },
+  "2014-07": {
+    "total_articles": 125,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "koch",
+          "school",
+          "white",
+          "power"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "court",
+          "tax",
+          "law",
+          "state",
+          "federal"
+        ],
+        "article_count": 28
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "king",
+          "martin",
+          "climate",
+          "vote"
+        ],
+        "article_count": 15
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "state",
+          "obama",
+          "republican",
+          "ha",
+          "wa"
+        ],
+        "article_count": 26
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "state",
+          "ha",
+          "policy",
+          "american"
+        ],
+        "article_count": 48
+      }
+    ]
+  },
+  "2014-08": {
+    "total_articles": 97,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "state",
+          "republican",
+          "voter",
+          "law",
+          "vote"
+        ],
+        "article_count": 21
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "tax",
+          "percent",
+          "republican",
+          "ha",
+          "wa"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "black",
+          "white",
+          "ha",
+          "bush"
+        ],
+        "article_count": 18
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "ferguson",
+          "police",
+          "swat",
+          "august",
+          "cop"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "ha",
+          "wa",
+          "state",
+          "worker",
+          "public"
+        ],
+        "article_count": 42
+      }
+    ]
+  },
+  "2014-09": {
+    "total_articles": 131,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "democrat",
+          "inequality",
+          "voter",
+          "working",
+          "political"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "ha",
+          "state",
+          "republican",
+          "american",
+          "class"
+        ],
+        "article_count": 37
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "health",
+          "care",
+          "spending",
+          "cost",
+          "reform"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "percent",
+          "american",
+          "ha",
+          "rich",
+          "tax"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "law",
+          "court"
+        ],
+        "article_count": 89
+      }
+    ]
+  },
+  "2014-10": {
+    "total_articles": 138,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "voter",
+          "law",
+          "texas",
+          "court",
+          "wa"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "republican",
+          "voter",
+          "vote",
+          "state",
+          "election"
+        ],
+        "article_count": 32
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "ebola",
+          "insurance",
+          "health",
+          "state",
+          "care"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "woman",
+          "ha",
+          "game",
+          "quinn"
+        ],
+        "article_count": 52
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "worker",
+          "wage",
+          "wa",
+          "state",
+          "work"
+        ],
+        "article_count": 33
+      }
+    ]
+  },
+  "2014-11": {
+    "total_articles": 97,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "party",
+          "wa",
+          "democrat",
+          "republican",
+          "election"
+        ],
+        "article_count": 19
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "lessig",
+          "wa",
+          "moyers",
+          "lawrence",
+          "money"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "mcconnell",
+          "chao",
+          "foremost",
+          "china",
+          "ha"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "obama",
+          "republican",
+          "president"
+        ],
+        "article_count": 75
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "begich",
+          "republican",
+          "democrat",
+          "obama"
+        ],
+        "article_count": 1
+      }
+    ]
+  },
+  "2014-12": {
+    "total_articles": 82,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "election",
+          "sander",
+          "prosecutor",
+          "party",
+          "democrat"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "bush",
+          "republican",
+          "ha",
+          "romney",
+          "state"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "israel",
+          "palestinian",
+          "scalise",
+          "report"
+        ],
+        "article_count": 11
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "fox",
+          "news",
+          "ha",
+          "clinton"
+        ],
+        "article_count": 15
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "american",
+          "white"
+        ],
+        "article_count": 47
+      }
+    ]
+  },
+  "2015-01": {
+    "total_articles": 230,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "tax",
+          "market",
+          "money",
+          "financial",
+          "worker"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "ha",
+          "wa",
+          "right",
+          "law"
+        ],
+        "article_count": 56
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "climate",
+          "wa",
+          "change",
+          "oil",
+          "company"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "republican",
+          "obama",
+          "president"
+        ],
+        "article_count": 115
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "january",
+          "posted",
+          "wa",
+          "news",
+          "gun"
+        ],
+        "article_count": 22
+      }
+    ]
+  },
+  "2015-02": {
+    "total_articles": 203,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "tax",
+          "state",
+          "paul",
+          "percent",
+          "income"
+        ],
+        "article_count": 44
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "ha",
+          "border",
+          "immigrant",
+          "state"
+        ],
+        "article_count": 56
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "told",
+          "news",
+          "house"
+        ],
+        "article_count": 42
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "clinton",
+          "ha",
+          "obama",
+          "president"
+        ],
+        "article_count": 56
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "reilly",
+          "meanguera",
+          "salvador",
+          "story"
+        ],
+        "article_count": 5
+      }
+    ]
+  },
+  "2015-03": {
+    "total_articles": 286,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "government",
+          "law",
+          "police"
+        ],
+        "article_count": 110
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "drone",
+          "pilot",
+          "war",
+          "american",
+          "ha"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "ha",
+          "american",
+          "law",
+          "wa"
+        ],
+        "article_count": 82
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "clinton",
+          "ha",
+          "wa",
+          "democrat",
+          "republican"
+        ],
+        "article_count": 88
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "socialist",
+          "wage",
+          "movement",
+          "seattle",
+          "service"
+        ],
+        "article_count": 1
+      }
+    ]
+  },
+  "2015-04": {
+    "total_articles": 244,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "clinton",
+          "obama",
+          "wa",
+          "ha",
+          "democratic"
+        ],
+        "article_count": 68
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "law",
+          "ha",
+          "state",
+          "change",
+          "american"
+        ],
+        "article_count": 49
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "state",
+          "ha",
+          "police",
+          "black"
+        ],
+        "article_count": 54
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "tax",
+          "ha",
+          "wa",
+          "million",
+          "money"
+        ],
+        "article_count": 61
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trade",
+          "wage",
+          "worker",
+          "income",
+          "tpp"
+        ],
+        "article_count": 12
+      }
+    ]
+  },
+  "2015-05": {
+    "total_articles": 230,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "government",
+          "woman"
+        ],
+        "article_count": 104
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "hersh",
+          "kissinger",
+          "military",
+          "target"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "soldier",
+          "silence",
+          "breaking",
+          "protective",
+          "edge"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wage",
+          "percent",
+          "income",
+          "poverty",
+          "baltimore"
+        ],
+        "article_count": 60
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "clinton",
+          "sander",
+          "ha",
+          "wa",
+          "campaign"
+        ],
+        "article_count": 60
+      }
+    ]
+  },
+  "2015-06": {
+    "total_articles": 289,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "ha",
+          "state",
+          "wa",
+          "percent",
+          "pay"
+        ],
+        "article_count": 93
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "ha",
+          "syria",
+          "war",
+          "administration",
+          "policy"
+        ],
+        "article_count": 13
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "clinton",
+          "sander",
+          "republican",
+          "campaign",
+          "ha"
+        ],
+        "article_count": 66
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "state",
+          "gun",
+          "law",
+          "court"
+        ],
+        "article_count": 116
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "sander",
+          "wa",
+          "clinton",
+          "gun",
+          "percent"
+        ],
+        "article_count": 1
+      }
+    ]
+  },
+  "2015-07": {
+    "total_articles": 297,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "sander",
+          "clinton",
+          "ha",
+          "campaign",
+          "bernie"
+        ],
+        "article_count": 136
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "marijuana",
+          "war",
+          "worker",
+          "nuclear",
+          "russia"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "republican",
+          "law"
+        ],
+        "article_count": 122
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "tape",
+          "police",
+          "department"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "data",
+          "wa",
+          "climate",
+          "temperature",
+          "ha"
+        ],
+        "article_count": 20
+      }
+    ]
+  },
+  "2015-08": {
+    "total_articles": 308,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "gun",
+          "black",
+          "state"
+        ],
+        "article_count": 82
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "clinton",
+          "wa",
+          "ha",
+          "state",
+          "marijuana"
+        ],
+        "article_count": 80
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "american",
+          "ha",
+          "percent",
+          "news",
+          "worker"
+        ],
+        "article_count": 61
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "sander",
+          "medium",
+          "campaign",
+          "political",
+          "social"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "republican",
+          "candidate",
+          "ha",
+          "wa"
+        ],
+        "article_count": 84
+      }
+    ]
+  },
+  "2015-09": {
+    "total_articles": 256,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "republican",
+          "wa",
+          "ha",
+          "trump",
+          "obama"
+        ],
+        "article_count": 80
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "clinton",
+          "sander",
+          "ha",
+          "percent",
+          "campaign"
+        ],
+        "article_count": 70
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "school",
+          "post",
+          "reply",
+          "student"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "worker",
+          "black"
+        ],
+        "article_count": 62
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "planned",
+          "parenthood",
+          "woman",
+          "abortion",
+          "health"
+        ],
+        "article_count": 22
+      }
+    ]
+  },
+  "2015-10": {
+    "total_articles": 400,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "clinton",
+          "percent",
+          "state",
+          "democratic",
+          "sander"
+        ],
+        "article_count": 74
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "koch",
+          "university",
+          "foundation",
+          "center",
+          "school"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "ryan",
+          "janesville",
+          "ha",
+          "street",
+          "wall"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "sander",
+          "tax",
+          "american"
+        ],
+        "article_count": 115
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "gun",
+          "republican",
+          "ha",
+          "party"
+        ],
+        "article_count": 206
+      }
+    ]
+  },
+  "2015-11": {
+    "total_articles": 341,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "clinton",
+          "sander",
+          "hillary",
+          "wa",
+          "democratic"
+        ],
+        "article_count": 56
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "ha",
+          "wa",
+          "republican",
+          "trump",
+          "tax"
+        ],
+        "article_count": 131
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "gun",
+          "ha",
+          "black",
+          "white"
+        ],
+        "article_count": 47
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "carson",
+          "wa",
+          "story",
+          "ben",
+          "campaign"
+        ],
+        "article_count": 24
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "refugee",
+          "isi"
+        ],
+        "article_count": 83
+      }
+    ]
+  },
+  "2015-12": {
+    "total_articles": 399,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "court",
+          "state",
+          "wa",
+          "arbitration",
+          "case"
+        ],
+        "article_count": 55
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "rabbi",
+          "police",
+          "black",
+          "york",
+          "fed"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "gun",
+          "american",
+          "ha",
+          "change"
+        ],
+        "article_count": 162
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "tax",
+          "family",
+          "ha",
+          "program",
+          "american"
+        ],
+        "article_count": 45
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "clinton",
+          "sander",
+          "ha",
+          "campaign"
+        ],
+        "article_count": 130
+      }
+    ]
+  },
+  "2016-01": {
+    "total_articles": 417,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "federal",
+          "state",
+          "law",
+          "ha"
+        ],
+        "article_count": 135
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "obama",
+          "wa",
+          "clinton",
+          "obamacare",
+          "health"
+        ],
+        "article_count": 62
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "clinton",
+          "sander",
+          "ha",
+          "campaign",
+          "hillary"
+        ],
+        "article_count": 155
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "woman",
+          "state",
+          "american",
+          "child",
+          "work"
+        ],
+        "article_count": 16
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "trump",
+          "republican",
+          "candidate",
+          "party"
+        ],
+        "article_count": 49
+      }
+    ]
+  },
+  "2016-02": {
+    "total_articles": 510,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "clinton",
+          "american",
+          "war",
+          "kissinger"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "south",
+          "state",
+          "carolina",
+          "water",
+          "wa"
+        ],
+        "article_count": 62
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "court",
+          "wa",
+          "justice",
+          "republican",
+          "scalia"
+        ],
+        "article_count": 98
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "clinton",
+          "wa",
+          "party",
+          "sander",
+          "black"
+        ],
+        "article_count": 128
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "sander",
+          "clinton",
+          "ha",
+          "campaign",
+          "wa"
+        ],
+        "article_count": 200
+      }
+    ]
+  },
+  "2016-03": {
+    "total_articles": 322,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "tax",
+          "policy",
+          "mother",
+          "ha",
+          "wa"
+        ],
+        "article_count": 41
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "income",
+          "retirement",
+          "account",
+          "family",
+          "saving"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "court",
+          "election",
+          "candidate",
+          "vote",
+          "state"
+        ],
+        "article_count": 41
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "sander",
+          "clinton",
+          "state",
+          "voter",
+          "delegate"
+        ],
+        "article_count": 67
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "campaign",
+          "republican"
+        ],
+        "article_count": 171
+      }
+    ]
+  },
+  "2016-04": {
+    "total_articles": 277,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "hillary",
+          "american",
+          "tax"
+        ],
+        "article_count": 53
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "law",
+          "wa",
+          "court",
+          "ha"
+        ],
+        "article_count": 95
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "clinton",
+          "sander",
+          "campaign",
+          "ha",
+          "wa"
+        ],
+        "article_count": 71
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "liberal",
+          "problem",
+          "black",
+          "white"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "woman",
+          "ha",
+          "wa",
+          "cruz"
+        ],
+        "article_count": 55
+      }
+    ]
+  },
+  "2016-05": {
+    "total_articles": 286,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "state",
+          "harris",
+          "west",
+          "school",
+          "vote"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "trump",
+          "ha",
+          "clinton",
+          "salon"
+        ],
+        "article_count": 144
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "clinton",
+          "sander",
+          "party",
+          "republican"
+        ],
+        "article_count": 94
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "liberal",
+          "american",
+          "class",
+          "white"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "obama",
+          "ha",
+          "wa",
+          "muslim"
+        ],
+        "article_count": 16
+      }
+    ]
+  },
+  "2016-06": {
+    "total_articles": 377,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "clinton",
+          "wa",
+          "hillary",
+          "ha",
+          "state"
+        ],
+        "article_count": 51
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "gun",
+          "ha",
+          "law",
+          "woman"
+        ],
+        "article_count": 137
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "clinton",
+          "sander",
+          "voter",
+          "state",
+          "party"
+        ],
+        "article_count": 79
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "care",
+          "state",
+          "wa",
+          "health",
+          "patient"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "company",
+          "judge"
+        ],
+        "article_count": 88
+      }
+    ]
+  },
+  "2016-07": {
+    "total_articles": 247,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "republican",
+          "american"
+        ],
+        "article_count": 90
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "court",
+          "police",
+          "ha",
+          "justice"
+        ],
+        "article_count": 48
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "clinton",
+          "sander",
+          "hillary",
+          "campaign",
+          "wa"
+        ],
+        "article_count": 79
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "state",
+          "wa",
+          "ha",
+          "labor",
+          "worker"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "trump",
+          "company",
+          "ha",
+          "product"
+        ],
+        "article_count": 18
+      }
+    ]
+  },
+  "2016-08": {
+    "total_articles": 230,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "state",
+          "wa",
+          "court",
+          "black",
+          "ha"
+        ],
+        "article_count": 48
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "clinton",
+          "ha",
+          "campaign"
+        ],
+        "article_count": 90
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "party",
+          "vote",
+          "candidate",
+          "ha",
+          "trump"
+        ],
+        "article_count": 32
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "clinton",
+          "wa",
+          "ha",
+          "policy",
+          "president"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "state",
+          "democrat",
+          "voter",
+          "republican",
+          "election"
+        ],
+        "article_count": 30
+      }
+    ]
+  },
+  "2016-09": {
+    "total_articles": 282,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "sander",
+          "clinton",
+          "campaign",
+          "wa",
+          "nation"
+        ],
+        "article_count": 10
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "clinton",
+          "ha",
+          "foundation"
+        ],
+        "article_count": 122
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "tax",
+          "ha",
+          "income",
+          "wa",
+          "work"
+        ],
+        "article_count": 62
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "police",
+          "officer",
+          "election",
+          "law"
+        ],
+        "article_count": 52
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "percent",
+          "clinton",
+          "poll",
+          "voter"
+        ],
+        "article_count": 36
+      }
+    ]
+  },
+  "2016-10": {
+    "total_articles": 326,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "voter",
+          "election",
+          "state",
+          "vote",
+          "voting"
+        ],
+        "article_count": 27
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "clinton",
+          "ha",
+          "republican",
+          "campaign"
+        ],
+        "article_count": 100
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "american",
+          "wa",
+          "community",
+          "democrat",
+          "country"
+        ],
+        "article_count": 27
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "clinton",
+          "ha",
+          "woman"
+        ],
+        "article_count": 114
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "ha",
+          "tax",
+          "policy",
+          "state",
+          "wa"
+        ],
+        "article_count": 58
+      }
+    ]
+  },
+  "2016-11": {
+    "total_articles": 329,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "news",
+          "election"
+        ],
+        "article_count": 113
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "party",
+          "trump",
+          "republican",
+          "state",
+          "democrat"
+        ],
+        "article_count": 81
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "vote",
+          "election",
+          "voter",
+          "poll"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "ha",
+          "wa",
+          "american",
+          "white"
+        ],
+        "article_count": 85
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "election",
+          "wa",
+          "vote",
+          "obama",
+          "white"
+        ],
+        "article_count": 25
+      }
+    ]
+  },
+  "2016-12": {
+    "total_articles": 270,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "clinton",
+          "trump",
+          "ha",
+          "party"
+        ],
+        "article_count": 60
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "wa",
+          "school",
+          "ha",
+          "child"
+        ],
+        "article_count": 62
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "thompson",
+          "trump",
+          "voter",
+          "wa",
+          "angel"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "president",
+          "wa",
+          "ha",
+          "donald"
+        ],
+        "article_count": 67
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "worker",
+          "ha",
+          "american",
+          "wa"
+        ],
+        "article_count": 59
+      }
+    ]
+  },
+  "2017-01": {
+    "total_articles": 301,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "american",
+          "world",
+          "woman"
+        ],
+        "article_count": 78
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "democrat",
+          "party",
+          "clinton",
+          "wa",
+          "trump"
+        ],
+        "article_count": 24
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "penny",
+          "school",
+          "jones",
+          "worker"
+        ],
+        "article_count": 31
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "blasio",
+          "city",
+          "mayor",
+          "progressive",
+          "wa"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "state"
+        ],
+        "article_count": 165
+      }
+    ]
+  },
+  "2017-02": {
+    "total_articles": 404,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "state",
+          "wa",
+          "law",
+          "ha",
+          "republican"
+        ],
+        "article_count": 141
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "russian",
+          "ha"
+        ],
+        "article_count": 96
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "state",
+          "ha",
+          "immigration",
+          "program"
+        ],
+        "article_count": 48
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "party",
+          "democratic",
+          "trump",
+          "clinton",
+          "democrat"
+        ],
+        "article_count": 43
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "ha",
+          "trump",
+          "medium",
+          "news"
+        ],
+        "article_count": 76
+      }
+    ]
+  },
+  "2017-03": {
+    "total_articles": 345,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "session",
+          "president",
+          "house"
+        ],
+        "article_count": 42
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "american",
+          "republican"
+        ],
+        "article_count": 158
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "rule",
+          "state",
+          "court",
+          "order"
+        ],
+        "article_count": 38
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "school",
+          "student",
+          "public",
+          "private",
+          "program"
+        ],
+        "article_count": 19
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "russian",
+          "russia",
+          "house"
+        ],
+        "article_count": 88
+      }
+    ]
+  },
+  "2017-04": {
+    "total_articles": 268,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "tax",
+          "ha",
+          "work",
+          "manafort",
+          "program"
+        ],
+        "article_count": 28
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "house",
+          "president",
+          "ha"
+        ],
+        "article_count": 104
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "getty",
+          "wa",
+          "number",
+          "military",
+          "health"
+        ],
+        "article_count": 10
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "court",
+          "judge",
+          "trump",
+          "law",
+          "federal"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "trump",
+          "ha",
+          "world",
+          "state"
+        ],
+        "article_count": 104
+      }
+    ]
+  },
+  "2017-05": {
+    "total_articles": 310,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "house",
+          "comey"
+        ],
+        "article_count": 106
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "voter",
+          "party",
+          "election",
+          "wa",
+          "democratic"
+        ],
+        "article_count": 36
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "health",
+          "ha",
+          "tax",
+          "trump"
+        ],
+        "article_count": 81
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "law",
+          "report"
+        ],
+        "article_count": 58
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "franken",
+          "white",
+          "ha",
+          "black"
+        ],
+        "article_count": 29
+      }
+    ]
+  },
+  "2017-06": {
+    "total_articles": 272,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "ha",
+          "political",
+          "wa",
+          "news"
+        ],
+        "article_count": 49
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wage",
+          "minimum",
+          "worker",
+          "percent",
+          "care"
+        ],
+        "article_count": 15
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "ha",
+          "wa",
+          "house",
+          "president"
+        ],
+        "article_count": 79
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "government",
+          "woman"
+        ],
+        "article_count": 90
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "election",
+          "democrat",
+          "party",
+          "district",
+          "voter"
+        ],
+        "article_count": 39
+      }
+    ]
+  },
+  "2017-07": {
+    "total_articles": 271,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "house",
+          "ha"
+        ],
+        "article_count": 66
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "health",
+          "republican",
+          "tax",
+          "ha",
+          "care"
+        ],
+        "article_count": 68
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "percent",
+          "american",
+          "ha",
+          "trump",
+          "group"
+        ],
+        "article_count": 63
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "voter",
+          "state",
+          "kobach",
+          "election",
+          "commission"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "trump",
+          "ha",
+          "president",
+          "administration"
+        ],
+        "article_count": 62
+      }
+    ]
+  },
+  "2017-08": {
+    "total_articles": 194,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "party",
+          "republican"
+        ],
+        "article_count": 69
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "white",
+          "wa",
+          "group",
+          "hate",
+          "charlottesville"
+        ],
+        "article_count": 57
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "national",
+          "park",
+          "alaska",
+          "act",
+          "provision"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "president",
+          "white"
+        ],
+        "article_count": 63
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "carson",
+          "wa",
+          "hud",
+          "housing",
+          "government"
+        ],
+        "article_count": 4
+      }
+    ]
+  },
+  "2017-09": {
+    "total_articles": 163,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "school",
+          "district",
+          "court",
+          "county",
+          "student"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "school",
+          "district",
+          "black",
+          "county",
+          "white"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "arbitration",
+          "wa",
+          "mandatory",
+          "ha"
+        ],
+        "article_count": 29
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "party",
+          "ha",
+          "political",
+          "voter"
+        ],
+        "article_count": 68
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "tax",
+          "republican",
+          "wa",
+          "ha",
+          "trump"
+        ],
+        "article_count": 61
+      }
+    ]
+  },
+  "2017-10": {
+    "total_articles": 139,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "online",
+          "buy",
+          "generic",
+          "prescription",
+          "site"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "set",
+          "default",
+          "value",
+          "option",
+          "filter"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "wa",
+          "white",
+          "ha",
+          "percent"
+        ],
+        "article_count": 117
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "election",
+          "ad",
+          "facebook",
+          "company",
+          "political"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "mueller",
+          "campaign",
+          "manafort"
+        ],
+        "article_count": 16
+      }
+    ]
+  },
+  "2017-11": {
+    "total_articles": 179,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "moore",
+          "ha",
+          "director",
+          "medium"
+        ],
+        "article_count": 42
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "ha",
+          "trump",
+          "republican",
+          "wa",
+          "state"
+        ],
+        "article_count": 35
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "tax",
+          "cut",
+          "percent",
+          "income",
+          "plan"
+        ],
+        "article_count": 36
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "trump",
+          "white",
+          "voter",
+          "american"
+        ],
+        "article_count": 35
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "russia",
+          "campaign"
+        ],
+        "article_count": 31
+      }
+    ]
+  },
+  "2017-12": {
+    "total_articles": 141,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "republican",
+          "wa",
+          "moore",
+          "senate",
+          "ha"
+        ],
+        "article_count": 40
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "rule"
+        ],
+        "article_count": 37
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "tax",
+          "cut",
+          "percent",
+          "ha",
+          "american"
+        ],
+        "article_count": 36
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "worker",
+          "wa",
+          "power",
+          "tip",
+          "world"
+        ],
+        "article_count": 17
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "student",
+          "wa",
+          "state",
+          "court",
+          "college"
+        ],
+        "article_count": 11
+      }
+    ]
+  },
+  "2018-01": {
+    "total_articles": 209,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "coal",
+          "wa",
+          "ha",
+          "central",
+          "company"
+        ],
+        "article_count": 17
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "state",
+          "republican",
+          "ha",
+          "trump"
+        ],
+        "article_count": 63
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "tax",
+          "percent",
+          "worker",
+          "trump",
+          "policy"
+        ],
+        "article_count": 32
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "white"
+        ],
+        "article_count": 92
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "woman",
+          "park",
+          "national",
+          "advisory",
+          "ha"
+        ],
+        "article_count": 5
+      }
+    ]
+  },
+  "2018-02": {
+    "total_articles": 215,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "republican",
+          "ha",
+          "house"
+        ],
+        "article_count": 52
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "ha",
+          "court",
+          "state",
+          "black"
+        ],
+        "article_count": 38
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "public",
+          "trump",
+          "wage",
+          "plan"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "memo",
+          "wa",
+          "fbi",
+          "president"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "gun",
+          "ha",
+          "trump",
+          "school"
+        ],
+        "article_count": 73
+      }
+    ]
+  },
+  "2018-03": {
+    "total_articles": 215,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "republican",
+          "trump",
+          "democrat",
+          "state",
+          "ha"
+        ],
+        "article_count": 61
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "organizing",
+          "immigration",
+          "immigrant",
+          "worker",
+          "california"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "facebook",
+          "data",
+          "ha",
+          "cambridge"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "white"
+        ],
+        "article_count": 88
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "gun",
+          "wage",
+          "school",
+          "wa",
+          "black"
+        ],
+        "article_count": 38
+      }
+    ]
+  },
+  "2018-04": {
+    "total_articles": 254,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "president",
+          "house"
+        ],
+        "article_count": 81
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "ha",
+          "news",
+          "trump",
+          "cohen"
+        ],
+        "article_count": 70
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "tax",
+          "republican",
+          "cut",
+          "email",
+          "percent"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "black",
+          "woman",
+          "state",
+          "ha"
+        ],
+        "article_count": 26
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "state",
+          "ha",
+          "wa",
+          "trump",
+          "government"
+        ],
+        "article_count": 54
+      }
+    ]
+  },
+  "2018-05": {
+    "total_articles": 185,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "iran",
+          "trump",
+          "deal",
+          "ha",
+          "wa"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "cohen",
+          "ha",
+          "president"
+        ],
+        "article_count": 54
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "percent",
+          "wisconsin",
+          "minnesota",
+          "data"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "american",
+          "black",
+          "white"
+        ],
+        "article_count": 36
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "republican",
+          "ha",
+          "house"
+        ],
+        "article_count": 62
+      }
+    ]
+  },
+  "2018-06": {
+    "total_articles": 164,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "child",
+          "trump",
+          "policy",
+          "parent",
+          "family"
+        ],
+        "article_count": 52
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "child",
+          "wa",
+          "american",
+          "parent",
+          "kid"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "president",
+          "election"
+        ],
+        "article_count": 76
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "worker",
+          "officer",
+          "police",
+          "poverty",
+          "sex"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "court",
+          "law",
+          "state",
+          "supreme",
+          "wa"
+        ],
+        "article_count": 26
+      }
+    ]
+  },
+  "2018-07": {
+    "total_articles": 159,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "child",
+          "public",
+          "wa",
+          "space",
+          "service"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "state",
+          "republican",
+          "ha",
+          "court"
+        ],
+        "article_count": 37
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "income",
+          "percent",
+          "state",
+          "share",
+          "city"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "president",
+          "russian"
+        ],
+        "article_count": 50
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "ha",
+          "trump",
+          "party",
+          "white"
+        ],
+        "article_count": 62
+      }
+    ]
+  },
+  "2018-08": {
+    "total_articles": 175,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "republican",
+          "party",
+          "democrat",
+          "democratic",
+          "ha"
+        ],
+        "article_count": 36
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "cohen",
+          "percent",
+          "wa",
+          "president"
+        ],
+        "article_count": 24
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "job",
+          "income",
+          "work",
+          "government",
+          "worker"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "mccain",
+          "ha"
+        ],
+        "article_count": 62
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "white",
+          "child",
+          "ha",
+          "black"
+        ],
+        "article_count": 39
+      }
+    ]
+  },
+  "2018-09": {
+    "total_articles": 277,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "president",
+          "state"
+        ],
+        "article_count": 146
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "reported",
+          "wa",
+          "judge",
+          "county",
+          "child"
+        ],
+        "article_count": 54
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "yls",
+          "rourke",
+          "cruz",
+          "nike",
+          "gun"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "hour",
+          "work",
+          "state",
+          "government",
+          "plan"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "kavanaugh",
+          "wa",
+          "court",
+          "woman",
+          "ford"
+        ],
+        "article_count": 69
+      }
+    ]
+  },
+  "2018-10": {
+    "total_articles": 216,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "president",
+          "wa",
+          "ha",
+          "republican"
+        ],
+        "article_count": 20
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "kavanaugh",
+          "court",
+          "ha",
+          "trump"
+        ],
+        "article_count": 52
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "election",
+          "voter",
+          "ha",
+          "republican"
+        ],
+        "article_count": 44
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "trump",
+          "american",
+          "white"
+        ],
+        "article_count": 92
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "tax",
+          "wa",
+          "fred",
+          "million"
+        ],
+        "article_count": 8
+      }
+    ]
+  },
+  "2018-11": {
+    "total_articles": 176,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "white",
+          "wa",
+          "american",
+          "black",
+          "house"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "mueller",
+          "manafort",
+          "ha"
+        ],
+        "article_count": 41
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "ha",
+          "wa",
+          "trump",
+          "state",
+          "country"
+        ],
+        "article_count": 49
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "whitaker",
+          "president",
+          "trump",
+          "election"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "democrat",
+          "republican",
+          "voter",
+          "trump",
+          "woman"
+        ],
+        "article_count": 42
+      }
+    ]
+  },
+  "2018-12": {
+    "total_articles": 131,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "nation",
+          "immigration",
+          "party",
+          "right"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "republican",
+          "campaign"
+        ],
+        "article_count": 113
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "worker",
+          "state",
+          "policy",
+          "economic",
+          "tax"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "christian",
+          "political",
+          "life",
+          "ha"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "percent",
+          "trade",
+          "medicare",
+          "study",
+          "deficit"
+        ],
+        "article_count": 7
+      }
+    ]
+  },
+  "2019-01": {
+    "total_articles": 139,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "percent",
+          "republican",
+          "voter",
+          "poll",
+          "democrat"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "border",
+          "wa",
+          "land",
+          "region",
+          "community"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "ha",
+          "chemical",
+          "state",
+          "child",
+          "water"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "state",
+          "war",
+          "law",
+          "power"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "president",
+          "wa",
+          "ha",
+          "american"
+        ],
+        "article_count": 119
+      }
+    ]
+  },
+  "2019-02": {
+    "total_articles": 134,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "ha",
+          "wa",
+          "democrat",
+          "run",
+          "state"
+        ],
+        "article_count": 50
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "marijuana",
+          "hemp",
+          "state",
+          "legalization",
+          "york"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "stone",
+          "law",
+          "trump",
+          "wa",
+          "cohen"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "american",
+          "king",
+          "black",
+          "street",
+          "wa"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wage",
+          "percent",
+          "president",
+          "wa"
+        ],
+        "article_count": 70
+      }
+    ]
+  },
+  "2019-03": {
+    "total_articles": 135,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "officer",
+          "police",
+          "video",
+          "did"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "state",
+          "ha",
+          "president"
+        ],
+        "article_count": 112
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "trump",
+          "ha",
+          "mueller",
+          "tax"
+        ],
+        "article_count": 13
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "vote",
+          "hillary",
+          "state",
+          "wa",
+          "trump"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "water",
+          "river",
+          "delta",
+          "state",
+          "wa"
+        ],
+        "article_count": 4
+      }
+    ]
+  },
+  "2019-04": {
+    "total_articles": 129,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "house",
+          "report",
+          "president"
+        ],
+        "article_count": 45
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "war",
+          "country",
+          "action",
+          "candidate",
+          "military"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "tax",
+          "state",
+          "wa",
+          "trump",
+          "reported"
+        ],
+        "article_count": 33
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "ha",
+          "trump",
+          "president",
+          "story"
+        ],
+        "article_count": 47
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "email",
+          "work",
+          "address",
+          "comment",
+          "early"
+        ],
+        "article_count": 2
+      }
+    ]
+  },
+  "2019-05": {
+    "total_articles": 130,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "trump",
+          "ha",
+          "state",
+          "president"
+        ],
+        "article_count": 78
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "immigration",
+          "inslee",
+          "plan",
+          "policy"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "state",
+          "socialism",
+          "ha",
+          "government"
+        ],
+        "article_count": 27
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "climate",
+          "green",
+          "deal",
+          "change",
+          "science"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "american",
+          "trump",
+          "putin",
+          "russia",
+          "political"
+        ],
+        "article_count": 1
+      }
+    ]
+  },
+  "2019-06": {
+    "total_articles": 120,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "ha",
+          "state",
+          "republican",
+          "democrat",
+          "democratic"
+        ],
+        "article_count": 35
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "ha",
+          "child",
+          "trump",
+          "border"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "wa",
+          "house",
+          "ha",
+          "president"
+        ],
+        "article_count": 33
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "sheriff",
+          "wa",
+          "office",
+          "email",
+          "enter"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "government"
+        ],
+        "article_count": 20
+      }
+    ]
+  },
+  "2019-07": {
+    "total_articles": 158,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "mueller",
+          "election",
+          "ha"
+        ],
+        "article_count": 35
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "wa",
+          "ha",
+          "trump",
+          "child"
+        ],
+        "article_count": 41
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "percent",
+          "voter",
+          "candidate",
+          "democratic",
+          "ha"
+        ],
+        "article_count": 36
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "debate",
+          "trump",
+          "climate",
+          "candidate"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "american",
+          "president"
+        ],
+        "article_count": 34
+      }
+    ]
+  },
+  "2019-08": {
+    "total_articles": 180,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "poll",
+          "biden",
+          "percent",
+          "candidate",
+          "warren"
+        ],
+        "article_count": 28
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "state",
+          "ha",
+          "immigration",
+          "shooting"
+        ],
+        "article_count": 40
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "trump",
+          "biden",
+          "ha",
+          "president"
+        ],
+        "article_count": 31
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "tax",
+          "epstein",
+          "wealth",
+          "family"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "ha",
+          "president",
+          "wa",
+          "white"
+        ],
+        "article_count": 69
+      }
+    ]
+  },
+  "2019-09": {
+    "total_articles": 123,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "impeachment",
+          "democrat",
+          "republican",
+          "state"
+        ],
+        "article_count": 17
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "climate"
+        ],
+        "article_count": 60
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "senior",
+          "food",
+          "meal",
+          "home",
+          "program"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "court",
+          "wa",
+          "state",
+          "ha"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "ha",
+          "warren",
+          "gun",
+          "biden",
+          "post"
+        ],
+        "article_count": 20
+      }
+    ]
+  },
+  "2019-10": {
+    "total_articles": 142,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "sidewalk",
+          "company",
+          "data",
+          "service",
+          "book"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "wa",
+          "court",
+          "state",
+          "house"
+        ],
+        "article_count": 22
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "school",
+          "plan",
+          "warren",
+          "education",
+          "yang"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "policy",
+          "wa",
+          "ha",
+          "growth",
+          "drug"
+        ],
+        "article_count": 19
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "house"
+        ],
+        "article_count": 93
+      }
+    ]
+  },
+  "2019-11": {
+    "total_articles": 101,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "ha",
+          "wa",
+          "state",
+          "democrat"
+        ],
+        "article_count": 38
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "ha",
+          "steel",
+          "amazon",
+          "state",
+          "company"
+        ],
+        "article_count": 15
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "wa",
+          "conspiracy",
+          "border",
+          "ha"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "game",
+          "immigration",
+          "law",
+          "social",
+          "party"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "trump",
+          "president",
+          "warren",
+          "ukraine"
+        ],
+        "article_count": 32
+      }
+    ]
+  },
+  "2019-12": {
+    "total_articles": 91,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "president",
+          "impeachment",
+          "house",
+          "wa"
+        ],
+        "article_count": 43
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "plan",
+          "security",
+          "social",
+          "retirement",
+          "tax"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "barr",
+          "wa",
+          "trump",
+          "president",
+          "investigation"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "president",
+          "political"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "sander",
+          "wa",
+          "ha",
+          "tax",
+          "social"
+        ],
+        "article_count": 0
+      }
+    ]
+  },
+  "2020-01": {
+    "total_articles": 79,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "trump",
+          "ha",
+          "american",
+          "republican"
+        ],
+        "article_count": 32
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "group",
+          "million",
+          "money",
+          "pac",
+          "campaign"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "plastic",
+          "bag",
+          "wa",
+          "state",
+          "bankruptcy"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "president",
+          "wa",
+          "ha",
+          "country"
+        ],
+        "article_count": 25
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wage",
+          "minimum",
+          "worker",
+          "state",
+          "pay"
+        ],
+        "article_count": 8
+      }
+    ]
+  },
+  "2020-02": {
+    "total_articles": 103,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "black",
+          "buttigieg",
+          "south",
+          "wa",
+          "bend"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "sander",
+          "ha",
+          "wa",
+          "campaign",
+          "democratic"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "wa",
+          "intelligence",
+          "official",
+          "ha"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "republican"
+        ],
+        "article_count": 53
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wage",
+          "worker",
+          "growth",
+          "data",
+          "state"
+        ],
+        "article_count": 3
+      }
+    ]
+  },
+  "2020-03": {
+    "total_articles": 141,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "american",
+          "billion",
+          "united",
+          "company",
+          "stock"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "ha",
+          "coronavirus",
+          "state",
+          "crisis"
+        ],
+        "article_count": 46
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "health",
+          "trump",
+          "mask",
+          "coronavirus"
+        ],
+        "article_count": 37
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "court",
+          "wa",
+          "walmart",
+          "report",
+          "attorney"
+        ],
+        "article_count": 12
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "biden",
+          "sander",
+          "ha",
+          "campaign"
+        ],
+        "article_count": 38
+      }
+    ]
+  },
+  "2020-04": {
+    "total_articles": 143,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "coronavirus",
+          "ha",
+          "hospital",
+          "trump"
+        ],
+        "article_count": 37
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "tax",
+          "percent",
+          "state",
+          "federal",
+          "income"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "ballot",
+          "trump",
+          "deficit",
+          "wa",
+          "republican"
+        ],
+        "article_count": 38
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "biden",
+          "trump",
+          "president",
+          "ha",
+          "wa"
+        ],
+        "article_count": 34
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "worker",
+          "ha",
+          "voter",
+          "trump",
+          "wa"
+        ],
+        "article_count": 11
+      }
+    ]
+  },
+  "2020-05": {
+    "total_articles": 148,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "biden",
+          "wa",
+          "trump",
+          "ha",
+          "republican"
+        ],
+        "article_count": 28
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "trump",
+          "ha",
+          "president",
+          "obama",
+          "wa"
+        ],
+        "article_count": 15
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "wa",
+          "claim",
+          "ha",
+          "covid"
+        ],
+        "article_count": 38
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "reade",
+          "biden",
+          "wa",
+          "woman",
+          "ha"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "ha",
+          "president",
+          "state"
+        ],
+        "article_count": 62
+      }
+    ]
+  },
+  "2020-06": {
+    "total_articles": 197,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "police",
+          "wa",
+          "officer",
+          "union",
+          "black"
+        ],
+        "article_count": 46
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "cooky",
+          "information",
+          "website",
+          "point",
+          "policy"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "report",
+          "wa",
+          "asian",
+          "group",
+          "fbi"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "vote",
+          "voter",
+          "fraud",
+          "mail",
+          "churchill"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "white"
+        ],
+        "article_count": 137
+      }
+    ]
+  },
+  "2020-07": {
+    "total_articles": 108,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "voting",
+          "biden",
+          "vote",
+          "voter",
+          "american"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "police",
+          "woman",
+          "child",
+          "ha"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "trump",
+          "white",
+          "ha",
+          "president",
+          "black"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "election"
+        ],
+        "article_count": 40
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "texas",
+          "wa",
+          "ha",
+          "state",
+          "million"
+        ],
+        "article_count": 14
+      }
+    ]
+  },
+  "2020-08": {
+    "total_articles": 113,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "conservative",
+          "trump",
+          "woman"
+        ],
+        "article_count": 21
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "health",
+          "public",
+          "state",
+          "department",
+          "service"
+        ],
+        "article_count": 9
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "trump",
+          "country",
+          "ha",
+          "american"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "election",
+          "trump",
+          "vote",
+          "state",
+          "voter"
+        ],
+        "article_count": 18
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "biden",
+          "president",
+          "harris"
+        ],
+        "article_count": 42
+      }
+    ]
+  },
+  "2020-09": {
+    "total_articles": 141,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "rule",
+          "administration",
+          "wa",
+          "ha"
+        ],
+        "article_count": 18
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "president",
+          "government",
+          "state",
+          "ha"
+        ],
+        "article_count": 28
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "vote",
+          "election",
+          "state",
+          "ballot",
+          "voter"
+        ],
+        "article_count": 11
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "tax",
+          "million",
+          "wa",
+          "president"
+        ],
+        "article_count": 20
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "biden",
+          "court",
+          "ginsburg",
+          "state"
+        ],
+        "article_count": 64
+      }
+    ]
+  },
+  "2020-10": {
+    "total_articles": 171,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "ha",
+          "biden"
+        ],
+        "article_count": 120
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "court",
+          "republican",
+          "barrett",
+          "election",
+          "ha"
+        ],
+        "article_count": 27
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "candidate",
+          "race",
+          "campaign",
+          "senate"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "claim",
+          "october",
+          "state",
+          "week",
+          "data"
+        ],
+        "article_count": 3
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "election",
+          "ballot",
+          "trump",
+          "state",
+          "voter"
+        ],
+        "article_count": 18
+      }
+    ]
+  },
+  "2020-11": {
+    "total_articles": 133,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "ha",
+          "life",
+          "work",
+          "village"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "biden",
+          "american"
+        ],
+        "article_count": 74
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "video",
+          "identity",
+          "didn",
+          "story",
+          "black"
+        ],
+        "article_count": 2
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "ha",
+          "company",
+          "trump",
+          "official",
+          "wa"
+        ],
+        "article_count": 13
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "election",
+          "biden",
+          "republican",
+          "president"
+        ],
+        "article_count": 40
+      }
+    ]
+  },
+  "2020-12": {
+    "total_articles": 148,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "wa",
+          "pandemic",
+          "economic",
+          "covid",
+          "help"
+        ],
+        "article_count": 29
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "senate",
+          "mcconnell",
+          "vote",
+          "trump",
+          "check"
+        ],
+        "article_count": 19
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "million",
+          "wa",
+          "worth",
+          "net",
+          "received"
+        ],
+        "article_count": 16
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "election",
+          "ha",
+          "wa",
+          "president"
+        ],
+        "article_count": 72
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "state",
+          "ha",
+          "cooky",
+          "marijuana",
+          "site"
+        ],
+        "article_count": 12
+      }
+    ]
+  },
+  "2021-01": {
+    "total_articles": 357,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "biden",
+          "trump",
+          "president",
+          "senate",
+          "election"
+        ],
+        "article_count": 53
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "black",
+          "student",
+          "school",
+          "white",
+          "wa"
+        ],
+        "article_count": 10
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "trump",
+          "ha",
+          "state",
+          "republican"
+        ],
+        "article_count": 89
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "federal",
+          "friday",
+          "dog",
+          "season"
+        ],
+        "article_count": 63
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "capitol",
+          "wa",
+          "president",
+          "ha"
+        ],
+        "article_count": 142
+      }
+    ]
+  },
+  "2021-02": {
+    "total_articles": 149,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "black",
+          "white",
+          "power",
+          "union",
+          "wa"
+        ],
+        "article_count": 23
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "cawthorn",
+          "woman",
+          "student",
+          "told"
+        ],
+        "article_count": 16
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "return",
+          "item",
+          "stone",
+          "february",
+          "event"
+        ],
+        "article_count": 4
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "ha",
+          "stimulus",
+          "covid",
+          "pandemic",
+          "biden"
+        ],
+        "article_count": 21
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "wa",
+          "republican",
+          "president",
+          "election"
+        ],
+        "article_count": 85
+      }
+    ]
+  },
+  "2021-03": {
+    "total_articles": 122,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "trump",
+          "wa",
+          "state",
+          "president",
+          "ha"
+        ],
+        "article_count": 59
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "election",
+          "china",
+          "book",
+          "lie",
+          "state"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "fox",
+          "dominion",
+          "wa",
+          "trump",
+          "money"
+        ],
+        "article_count": 6
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "louis",
+          "election",
+          "post",
+          "photo",
+          "march"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "biden",
+          "republican",
+          "democrat",
+          "child"
+        ],
+        "article_count": 42
+      }
+    ]
+  },
+  "2021-04": {
+    "total_articles": 272,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "election",
+          "republican",
+          "trump",
+          "state",
+          "wa"
+        ],
+        "article_count": 98
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "greenberg",
+          "wa",
+          "stone",
+          "gaetz",
+          "trump"
+        ],
+        "article_count": 29
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "state",
+          "black",
+          "woman",
+          "ha"
+        ],
+        "article_count": 52
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "wa",
+          "percent",
+          "american",
+          "ha",
+          "biden"
+        ],
+        "article_count": 50
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "trump",
+          "biden",
+          "wa",
+          "president",
+          "house"
+        ],
+        "article_count": 43
+      }
+    ]
+  },
+  "2021-05": {
+    "total_articles": 400,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "republican",
+          "commission",
+          "house",
+          "democrat",
+          "vote"
+        ],
+        "article_count": 44
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "state",
+          "election",
+          "voting",
+          "wa",
+          "texas"
+        ],
+        "article_count": 107
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "wa",
+          "trump",
+          "president",
+          "biden",
+          "ha"
+        ],
+        "article_count": 159
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "republican",
+          "cheney",
+          "party",
+          "wa"
+        ],
+        "article_count": 66
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "ha",
+          "israel",
+          "palestinian",
+          "israeli",
+          "wa"
+        ],
+        "article_count": 24
+      }
+    ]
+  },
+  "2021-06": {
+    "total_articles": 230,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "republican",
+          "state",
+          "wa",
+          "election",
+          "ha"
+        ],
+        "article_count": 58
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "biden",
+          "ha",
+          "president",
+          "state"
+        ],
+        "article_count": 53
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "state",
+          "email",
+          "valid",
+          "enter",
+          "arizona"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "wa",
+          "president",
+          "election",
+          "department"
+        ],
+        "article_count": 74
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "ha",
+          "wa",
+          "theory",
+          "race",
+          "school"
+        ],
+        "article_count": 31
+      }
+    ]
+  },
+  "2021-07": {
+    "total_articles": 185,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "ha",
+          "drug",
+          "american",
+          "state",
+          "policy"
+        ],
+        "article_count": 29
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "capitol",
+          "wa",
+          "trump",
+          "jan",
+          "republican"
+        ],
+        "article_count": 30
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "representative",
+          "address",
+          "house",
+          "hearing",
+          "city"
+        ],
+        "article_count": 1
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "republican",
+          "state",
+          "democrat",
+          "voter",
+          "voting"
+        ],
+        "article_count": 35
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "trump",
+          "ha",
+          "president",
+          "vaccine"
+        ],
+        "article_count": 90
+      }
+    ]
+  },
+  "2021-08": {
+    "total_articles": 47,
+    "topic_summary": [
+      {
+        "topic_id": 0,
+        "top_words": [
+          "cuomo",
+          "wa",
+          "governor",
+          "state",
+          "report"
+        ],
+        "article_count": 5
+      },
+      {
+        "topic_id": 1,
+        "top_words": [
+          "wa",
+          "vaccine",
+          "ha",
+          "state",
+          "facebook"
+        ],
+        "article_count": 8
+      },
+      {
+        "topic_id": 2,
+        "top_words": [
+          "email",
+          "valid",
+          "jones",
+          "mother",
+          "stock"
+        ],
+        "article_count": 7
+      },
+      {
+        "topic_id": 3,
+        "top_words": [
+          "trump",
+          "election",
+          "wa",
+          "republican",
+          "ha"
+        ],
+        "article_count": 14
+      },
+      {
+        "topic_id": 4,
+        "top_words": [
+          "wa",
+          "ha",
+          "state",
+          "vote",
+          "senate"
+        ],
+        "article_count": 13
+      }
+    ]
+  }
+}

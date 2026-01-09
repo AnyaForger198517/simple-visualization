@@ -1,0 +1,36 @@
+{
+  "month": "2013-11",
+  "total_articles": 182,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Political System and Democratic Governance",
+      "core_keywords": ["government", "political", "democracy", "obama", "president", "law", "state"],
+      "importance_ratio": 0.2857
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State Education and Financial Policy Issues",
+      "core_keywords": ["state", "school", "education", "pay", "money", "tax", "insurance"],
+      "importance_ratio": 0.1648
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Health Insurance and Obamacare Policy Implementation",
+      "core_keywords": ["insurance", "health", "obamacare", "obama", "care", "coverage", "state"],
+      "importance_ratio": 0.2857
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "International Politics and Regime Governance",
+      "core_keywords": ["regime", "government", "political", "iran", "war", "country", "state"],
+      "importance_ratio": 0.0549
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Partisan Politics and Tax/Fiscal Policy",
+      "core_keywords": ["republican", "democrat", "tax", "government", "president", "state", "percent"],
+      "importance_ratio": 0.2088
+    }
+  ]
+}

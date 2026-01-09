@@ -1,0 +1,285 @@
+{
+  "month": "2021-02",
+  "total_articles": 149,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "democrat",
+        "republican",
+        "election",
+        "wa",
+        "million",
+        "government",
+        "house",
+        "mccarthy",
+        "ha",
+        "voter",
+        "pandemic",
+        "week",
+        "vote",
+        "kid"
+      ],
+      "topic_weights": [
+        174.63943365209093,
+        158.1886534273282,
+        150.07290023569405,
+        136.04656904339686,
+        117.29255078990123,
+        88.21996442870895,
+        84.02538077605354,
+        82.10803579374674,
+        81.68261483937043,
+        81.41327451355885,
+        76.54502554693423,
+        72.91452689391312,
+        69.14519576195458,
+        67.05836552871429,
+        66.61589158044899
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "trump",
+        "biden",
+        "ha",
+        "president",
+        "medium",
+        "news",
+        "house",
+        "white",
+        "american",
+        "twitter",
+        "administration",
+        "country",
+        "party",
+        "press"
+      ],
+      "topic_weights": [
+        393.97844557551554,
+        337.7923536364183,
+        225.33966255895444,
+        161.97364309024616,
+        135.78146469235048,
+        131.52697519787034,
+        116.03801577032996,
+        109.68164974571636,
+        83.24137793251784,
+        79.82277096530458,
+        79.03673027493602,
+        78.24787100275807,
+        77.75995090544464,
+        66.82304939228158,
+        64.70097494164466
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "school",
+        "black",
+        "white",
+        "cruz",
+        "ha",
+        "texas",
+        "child",
+        "parent",
+        "stupid",
+        "state",
+        "help",
+        "group",
+        "old",
+        "south"
+      ],
+      "topic_weights": [
+        40.19387331175648,
+        37.753793411794355,
+        32.82282220196623,
+        29.7819579870504,
+        26.904697314896065,
+        20.517174813861597,
+        18.222611323996823,
+        17.265290536120784,
+        17.162338849882666,
+        15.985026251046627,
+        14.570801401139434,
+        14.356531218595535,
+        12.879507329333808,
+        12.487225179066105,
+        12.159216541426435
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "class",
+        "advertisement",
+        "wa",
+        "story",
+        "video",
+        "pundit",
+        "gateway",
+        "trump",
+        "report",
+        "working",
+        "science",
+        "mandate",
+        "identity",
+        "fails",
+        "expected"
+      ],
+      "topic_weights": [
+        111.15154819667268,
+        99.28220451981198,
+        92.06046193643154,
+        67.87896270374624,
+        52.052132106547745,
+        51.13291218677943,
+        50.64209692038861,
+        50.18505600980954,
+        43.02484413701446,
+        42.50378115592714,
+        36.83310276012112,
+        35.05362106233742,
+        34.62523183308416,
+        34.20324981562543,
+        33.13193230023899
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "biden",
+        "student",
+        "wa",
+        "cuomo",
+        "home",
+        "ha",
+        "anti",
+        "price",
+        "news",
+        "governor",
+        "allegation",
+        "death",
+        "boylan",
+        "covid",
+        "nursing"
+      ],
+      "topic_weights": [
+        126.5084034917717,
+        99.61115535504882,
+        98.89729706083384,
+        98.01383176892146,
+        71.11086236885666,
+        68.89073445127472,
+        67.7999309872448,
+        66.6674828390608,
+        64.32035722259413,
+        63.31514670556529,
+        53.90606048498918,
+        48.95436013107409,
+        47.40659570738894,
+        46.858483785051924,
+        44.06755392446764
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 88,
+    "4": 17,
+    "2": 10,
+    "3": 12,
+    "0": 22
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Discover Thomson  By Anirban Sen, Rama Venkat, Kanishka Singh 3 Min Read () - Reddit Inc has doubled in value to $6 billion as the social media platform at the heart of last month’s retail stock tradi...",
+        "upvotes": 1,
+        "url": "https://www.reuters.com/article/us-reddit-funding-idUSKBN2A9056?taid=60221a64d3964a0001081e86&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News The real unemployment rate in the U.S. is closer to 10 percent, Federal Reserve Chairman Jerome Powell said Wednesday, after misclassification errors...",
+        "upvotes": 1,
+        "url": "https://www.nbcnews.com/business/economy/real-unemployment-rate-closer-10-percent-says-fed-chair-jerome-n1257331"
+      },
+      {
+        "preview": "Sen. Mitt Romney, R-Utah, on Thursday unveiled a plan to give households up to $4,200 annually for each young child, offering a Republican answer to President Joe Biden's calls for more support to fam...",
+        "upvotes": 1,
+        "url": "https://www.cnbc.com/2021/02/04/romney-unveils-plan-to-send-families-up-to-4200-per-year-per-child.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Source: AP Photo/Brynn Anderson Some 72 million Americans voted to re-elect President Trump. The former president carried the State of Ohio by nearly 500,000 votes. Now, two lawmakers in the Buckeye S...",
+        "upvotes": 19,
+        "url": "https://townhall.com/tipsheet/bronsonstocking/2021/01/30/ohio-lawmakers-are-planning-something-special-for-president-trump-n2583974"
+      },
+      {
+        "preview": "\"If it's right, it can't be wrong\" Weeks after the Capitol riot, the National Guard still hasn’t left their post in Washington DC. Nearly 25 000 National Guard members were called upon following the u...",
+        "upvotes": 73,
+        "url": "https://www.rightjournalism.com/video-the-dc-swamp-fears-the-people-bus-loads-of-national-guard-still-arriving-in-dc/"
+      },
+      {
+        "preview": "You can also follow us on Facebook, Twitter and Instagram. Fake news you can trust, delivered straight to your inbox. U.S.—Usually silent on the issues of the day, Abraham Lincoln made a rare address ...",
+        "upvotes": 68,
+        "url": "https://babylonbee.com/news/lincoln-distances-self-from-lincoln-project"
+      }
+    ],
+    "2": [
+      {
+        "preview": "By .com Reporter Published: 10:35 EDT, 31 January 2021 | Updated: 11:15 EDT, 31 January 2021 627 View comments New York Times columnist Charles M. Blow is calling for black Americans to launch a 'reve...",
+        "upvotes": 34,
+        "url": "https://www.dailymail.co.uk/news/article-9207095/New-York-Times-columnist-Charles-Blow-calls-reverse-Great-Migration.html"
+      },
+      {
+        "preview": "Like clockwork, members of Charles Manson’s cult “family” serving time for the group’s various murders come up for parole, thanks to the effects of the Supreme Court striking down the death penalty in...",
+        "upvotes": 13,
+        "url": "https://hotair.com/archives/ed-morrissey/2021/02/01/manson-family-victims-los-angeles-da-supporting-parole-murderers/"
+      },
+      {
+        "preview": "Woke science Some may remember the good old days when political correctness and woke ideology hadn't infected America's scientific institutions. Well, those days are long gone. For proof, one need loo...",
+        "upvotes": 10,
+        "url": "https://www.theblaze.com/news/nih-women-pregnant-lactating-people"
+      }
+    ],
+    "3": [
+      {
+        "preview": "You can be signed in via any or all of the methods shown below at the same time. Sign in here to access free tools such as favourites and alerts, or to access personal subscriptions I don't have a pro...",
+        "upvotes": 7,
+        "url": "https://journals.sagepub.com/doi/full/10.1177/0038038520982225"
+      },
+      {
+        "preview": "During the past year, we have witnessed an assault on our cultural heritage and history; the anti-American iconoclasm that gripped the activist economy throughout the United States is now a force of a...",
+        "upvotes": 39,
+        "url": "https://www.americanthinker.com/articles/2021/02/why_the_left_must_destroy_a_patriotic_american_ethos.html"
+      },
+      {
+        "preview": "The second half of the 18th Century – the Age of Enlightenment – saw two different revolutions. The American Revolution was predicated on individual liberty and the Judeo-Christian principles of virtu...",
+        "upvotes": 60,
+        "url": "https://www.americanthinker.com/articles/2021/02/worshipping_at_the_altar_of_power.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Chicago Mayor Lori Lightfoot is insisting that public school teachers resume in-person learning, as the city makes little progress in an effort to reach a deal with the Chicago Teachers Union (CTU) to...",
+        "upvotes": 100,
+        "url": "https://m.theepochtimes.com/chicago-mayor-insists-on-reopening-classrooms-monday-as-potential-teachers-union-strike-looms_3679165.html"
+      },
+      {
+        "preview": "(Photo by Fabrice Coffrini/AFP via Getty Images) World Health Organization (WHO) officials pushed back Monday against claims that China is not being transparent with a United Nations-led (UN) investig...",
+        "upvotes": 2,
+        "url": "https://dailycaller.com/2021/02/01/china-who-world-health-organization-transparency-cover-up/"
+      },
+      {
+        "preview": "PINAL COUNTY, Ariz. — \"If he wants to see fresh tracks and footprints, these are hours old,\" Lt. Chris Lapre told me and Pinal County Chief Deputy Sheriff Matthew Thomas through the thick brush right ...",
+        "upvotes": 147,
+        "url": "https://townhall.com/tipsheet/juliorosas/2021/02/04/obama-20-az-county-explains-border-worse-biden-n2584199"
+      }
+    ]
+  }
+}

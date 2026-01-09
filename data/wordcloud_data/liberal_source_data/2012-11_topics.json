@@ -1,0 +1,275 @@
+{
+  "month": "2012-11",
+  "total_articles": 102,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "tax",
+        "election",
+        "voting",
+        "state",
+        "voter",
+        "rate",
+        "wa",
+        "ha",
+        "obama",
+        "revenue",
+        "cut",
+        "section",
+        "law",
+        "right",
+        "republican"
+      ],
+      "topic_weights": [
+        325.7868200452312,
+        153.06651925253834,
+        150.76736708063527,
+        128.71801016361266,
+        124.47716015022496,
+        124.33591902587153,
+        95.16348683041684,
+        90.56959426064782,
+        89.37688509945252,
+        78.26924422931008,
+        77.74648112527434,
+        75.60073746940971,
+        71.25521824287458,
+        66.68129140368417,
+        64.15681969915622
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "obama",
+        "republican",
+        "romney",
+        "party",
+        "ha",
+        "political",
+        "white",
+        "american",
+        "vote",
+        "state",
+        "percent",
+        "campaign",
+        "voter",
+        "president"
+      ],
+      "topic_weights": [
+        440.35593209397354,
+        318.2286785794779,
+        248.10540916038974,
+        209.32178225359752,
+        196.09063577274142,
+        191.19819547704182,
+        172.5348006319499,
+        156.54100362772158,
+        153.90459563905915,
+        153.58430344727932,
+        145.8559458599667,
+        141.28932504080265,
+        135.11875917373965,
+        121.77317505199149,
+        120.87162002390424
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "filibuster",
+        "senate",
+        "abortion",
+        "ha",
+        "woman",
+        "senator",
+        "rep",
+        "majority",
+        "republican",
+        "committee",
+        "house",
+        "reform",
+        "public",
+        "member",
+        "used"
+      ],
+      "topic_weights": [
+        167.71970771197326,
+        140.25912226631482,
+        93.81357972681326,
+        82.26862052180542,
+        73.99945045952141,
+        71.03056613641473,
+        68.54490139547781,
+        60.50211906439243,
+        51.44049377962794,
+        46.974500888556754,
+        44.59250875718728,
+        40.894499262408885,
+        40.80659470133365,
+        38.60434431044871,
+        36.63311025650796
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "worker",
+        "walmart",
+        "strike",
+        "jones",
+        "mother",
+        "friday",
+        "wa",
+        "union",
+        "today",
+        "support",
+        "campaign",
+        "donation",
+        "company",
+        "group",
+        "story"
+      ],
+      "topic_weights": [
+        313.6529960856247,
+        292.70693239610694,
+        144.16648453078284,
+        127.9329440795036,
+        127.13670559557085,
+        95.18127255607867,
+        94.48966666702097,
+        87.21921982775785,
+        71.66046877893292,
+        70.43957588422352,
+        63.28905774101915,
+        60.41299755199081,
+        57.89463464352977,
+        53.701368562099034,
+        53.679617248627274
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "parole",
+        "measure",
+        "public",
+        "voter",
+        "court",
+        "sex",
+        "law",
+        "convicted",
+        "governor",
+        "office",
+        "amendment",
+        "official",
+        "department",
+        "judicial"
+      ],
+      "topic_weights": [
+        224.97430810139946,
+        135.80975062552477,
+        127.70959655447747,
+        106.10590018105701,
+        91.92414881421183,
+        87.0822189564284,
+        85.59387096928764,
+        81.70797642830331,
+        74.60962739768877,
+        65.9278926497003,
+        65.91181117927366,
+        64.91047468667325,
+        63.281183032643895,
+        62.94847844510954,
+        61.051137489949554
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 20,
+    "1": 57,
+    "0": 17,
+    "2": 7,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The New York Times reported on Thursday that Senate Republicans applied pressure to the nonpartisan Congressional Research Service (CRS) in September, successfully persuading it to withdraw a report f...",
+        "upvotes": 131,
+        "url": "http://www.huffingtonpost.com/2012/11/01/congressional-research-service_n_2059156.html"
+      },
+      {
+        "preview": "September 6, 2021 September 1, 2021 August 23, 2021 August 16, 2021 August 9, 2021 August 2, 2021 July 26, 2021 March 17, 2021 March 2, 2021 January 16, 2021 October 10, 2020 September 25, 2020 August...",
+        "upvotes": 42,
+        "url": "http://www.projectcensored.org/top-stories/articles/21-conservatives-attack-us-post-office-to-break-the-union-and-privatize-postal-services/"
+      },
+      {
+        "preview": "Florida Democrats have accused the swing state's Republican leadership of impinging on the fundamental rights of Americans amid growing voter anger at lengthy queues to vote, the shutting down of earl...",
+        "upvotes": 15,
+        "url": "http://www.guardian.co.uk/world/2012/nov/04/florida-republicans-vote-democrats"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Mix It Up at Lunch Day is one of those programs that just seems like a nice thing to do. The idea is that on one day of the school year, kids are invited to have lunch with the kind of kids they don't...",
+        "upvotes": 57,
+        "url": "http://www.alternet.org/how-christian-fundamentalism-feeds-toxic-partisanship-us-politics?paging=off"
+      },
+      {
+        "preview": "I am Nimrod Kamer, aka Peter Rehnquist, the creator of the \"real\" Obama Kenya Birth 2012 film. I just wanted to state, for the record, that I intentionally inserted very obvious clues into the video t...",
+        "upvotes": 1,
+        "url": "http://www.vice.com/read/how-i-faked-obamas-kenyan-birth-2012"
+      },
+      {
+        "preview": "Jack Kurtz/ZUMAPress Carmen Robles has a beef with Maricopa County Sheriff Joe Arpaio. A 15-year-old sophomore at Tempe High School just outside of Phoenix, Robles is a straight-A student and, thanks ...",
+        "upvotes": 11,
+        "url": "http://www.motherjones.com/politics/2012/11/sheriff-joe-arpaio-paul-penzone-election-steven-seagal"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Photograph by Brendan Hoffman/Getty Images. Tara Culp-Ressler has a piece up at the Atlantic decrying this ridiculous focus on rape exceptions in the abortion debate. Her eminently sensible case is th...",
+        "upvotes": 0,
+        "url": "http://www.slate.com/blogs/xx_factor/2012/11/05/rape_exceptions_and_abortion_pro_choice_activists_would_rather_be_talking.html"
+      },
+      {
+        "preview": "Abortion is a hotly debated and poorly studied medical procedure. There are a few studies of dubious validity that connect abortion to mental illness and drug use. Politicians have used these studies ...",
+        "upvotes": 2,
+        "url": "http://io9.com/5958187/what-happens-to-women-denied-abortions-this-is-the-first-scientific-study-to-find-out"
+      },
+      {
+        "preview": "Join  Get new insights in business and personal finance. Stay on top of the latest trends in lifestyle and the outdoors and get price-drop alerts on the hottest products. This site aims to serve as a ...",
+        "upvotes": 1,
+        "url": "http://surfky.com/index.php/news/kentucky/22488-hemp-commission-receives-10000000"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 18,
+        "url": "http://www.rightwingwatch.org/content/todd-akin-sought-narrow-definition-child-abuse"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 0,
+        "url": "http://www.rightwingwatch.org/content/pro-akin-bus-tour-feature-advocate-violent-insurrection"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 1,
+        "url": "http://www.rightwingwatch.org/content/video-todd-akin-s-extortionist-friend-threatening-doctor-months-akin-contributed-his-campaig"
+      }
+    ],
+    "4": [
+      {
+        "preview": ".” In North Dakota, voters roundly defeated Measure 5, which would have made it a felony to maliciously harm a dog, cat or horse, with exceptions for specific agriculture, hunting and scientific reaso...",
+        "upvotes": 27,
+        "url": "http://www.thenation.com/article/171250/what-effect-will-election-have-criminal-justice"
+      }
+    ]
+  }
+}

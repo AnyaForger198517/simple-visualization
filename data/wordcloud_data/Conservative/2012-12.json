@@ -1,0 +1,36 @@
+{
+  "month": "2012-12",
+  "total_articles": 77,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Gun Control and Global Crime Rates",
+      "core_keywords": ["gun", "control", "murder", "crime", "law", "state", "ownership"],
+      "importance_ratio": 0.1169
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Climate Change and Data Analysis",
+      "core_keywords": ["climate", "data", "model", "global", "analysis", "trend", "earth"],
+      "importance_ratio": 0.0649
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gun Laws and Personal Information",
+      "core_keywords": ["gun", "law", "permit", "owner", "information", "home", "child"],
+      "importance_ratio": 0.1948
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Media, Culture and Political Commentary",
+      "core_keywords": ["advertisement", "culture", "news", "obama", "president", "school", "worker"],
+      "importance_ratio": 0.0649
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Fiscal Cliff and Obama's Tax Policy",
+      "core_keywords": ["tax", "obama", "republican", "budget", "spending", "fiscal cliff", "government"],
+      "importance_ratio": 0.5571
+    }
+  ]
+}

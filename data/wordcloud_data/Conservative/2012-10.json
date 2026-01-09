@@ -1,0 +1,36 @@
+{
+  "month": "2012-10",
+  "total_articles": 83,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Economic Policy and Labor Issues",
+      "core_keywords": ["tax", "corporate", "wage", "worker", "capitalism", "socialism", "labor"],
+      "importance_ratio": 0.0964
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Federal Government and Fiscal Crisis",
+      "core_keywords": ["democrat", "congress", "government", "budget", "federal", "policy", "crisis"],
+      "importance_ratio": 0.0964
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2012 Presidential Election Campaign (Obama vs Romney)",
+      "core_keywords": ["obama", "romney", "president", "campaign", "election", "debate", "state"],
+      "importance_ratio": 0.6386
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Election Polls and Voter Trends",
+      "core_keywords": ["poll", "voter", "romney", "obama", "election", "republican", "vote"],
+      "importance_ratio": 0.1084
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Romney's Policy Stances and Debate Focus",
+      "core_keywords": ["romney", "obama", "budget", "debate", "defense", "business", "abortion"],
+      "importance_ratio": 0.0602
+    }
+  ]
+}

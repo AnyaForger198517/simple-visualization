@@ -1,0 +1,285 @@
+{
+  "month": "2021-02",
+  "total_articles": 149,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "black",
+        "white",
+        "power",
+        "union",
+        "wa",
+        "state",
+        "american",
+        "worker",
+        "ha",
+        "email",
+        "policy",
+        "employer",
+        "city",
+        "act",
+        "enter"
+      ],
+      "topic_weights": [
+        130.66689449543708,
+        97.38801396608733,
+        75.25840238312479,
+        67.36432498175917,
+        60.09173152163793,
+        56.86766150580239,
+        52.77819149014319,
+        47.984945910806644,
+        45.96387624742177,
+        41.577985589599336,
+        39.652269337334715,
+        35.44215641090897,
+        33.431822850546325,
+        33.32380070607275,
+        32.31530562500957
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "cawthorn",
+        "woman",
+        "student",
+        "told",
+        "news",
+        "friend",
+        "buzzfeed",
+        "taliban",
+        "ha",
+        "campaign",
+        "school",
+        "college",
+        "car",
+        "petree"
+      ],
+      "topic_weights": [
+        912.998189189383,
+        726.509658417619,
+        280.32874589264367,
+        225.7561319485387,
+        193.9600439068461,
+        193.63735206571673,
+        159.25507245699038,
+        151.88689419361248,
+        150.250715678217,
+        141.10744576305993,
+        115.30290179364938,
+        107.58601422384831,
+        103.09753067662123,
+        100.33973468812697,
+        97.39860875914019
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "return",
+        "item",
+        "stone",
+        "february",
+        "event",
+        "limbaugh",
+        "received",
+        "order",
+        "email",
+        "posted",
+        "twitter",
+        "contact",
+        "gas",
+        "credit",
+        "original"
+      ],
+      "topic_weights": [
+        67.94802923570127,
+        63.525788600878904,
+        47.60958186267559,
+        47.555950755532976,
+        27.596195926361474,
+        25.216058081800906,
+        24.42886595660388,
+        24.362825820904774,
+        21.101560886103318,
+        19.48899418037727,
+        19.29378940523151,
+        18.640049782203715,
+        17.772911484705933,
+        17.558546144654205,
+        17.189087831108896
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "ha",
+        "stimulus",
+        "covid",
+        "pandemic",
+        "biden",
+        "state",
+        "american",
+        "check",
+        "social",
+        "tax",
+        "security",
+        "payment",
+        "program",
+        "million",
+        "job"
+      ],
+      "topic_weights": [
+        100.74687568546291,
+        99.72174305072662,
+        92.34752940622553,
+        91.72139510821454,
+        91.22144087176673,
+        87.43604474118905,
+        85.42470925391484,
+        84.22187759726062,
+        79.85729883969071,
+        76.81324787211956,
+        76.28265020474059,
+        73.92740377059329,
+        73.30837187995354,
+        70.86167347761942,
+        69.37696566410442
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "republican",
+        "president",
+        "election",
+        "ha",
+        "biden",
+        "state",
+        "capitol",
+        "house",
+        "party",
+        "democrat",
+        "voter",
+        "group",
+        "political"
+      ],
+      "topic_weights": [
+        706.3457500764083,
+        420.21865660560434,
+        302.5564928260559,
+        282.5653906528702,
+        275.3860340213106,
+        221.8739882093845,
+        210.11012636234852,
+        190.36177523505341,
+        173.39245748364482,
+        155.0145198668827,
+        152.28755887547175,
+        137.77858278192508,
+        133.95479720972293,
+        124.34978889694241,
+        117.16611491403704
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 23,
+    "3": 21,
+    "4": 85,
+    "1": 16,
+    "2": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Trending: In a pandemic year that clobbered the state job market, California unions grew their share of the workforce to the highest level in six years. But in the curious world of coronavirus economi...",
+        "upvotes": 7,
+        "url": "https://www.mercurynews.com/2021/01/31/pandemic-pushes-union-share-of-california-jobs-to-6-year-high/"
+      },
+      {
+        "preview": "Sen. Bernie Sanders, independent-Vt., wearing distinctive distrinct mittens that attracted much notice on social media, attended President Biden’s inauguration. Three weeks ago I processed the Capitol...",
+        "upvotes": 1,
+        "url": "https://www.sfchronicle.com/opinion/openforum/article/S-F-high-school-students-get-a-lesson-in-subtle-15909700.php"
+      },
+      {
+        "preview": "SAN FRANCISCO — Within hours of President Joe Biden’s inauguration, the Internet was consumed by images of Sen. Bernie Sanders sitting, stone-faced, bundled against the cold in a parka and colorful mi...",
+        "upvotes": 1,
+        "url": "https://www.yahoo.com/news/did-bernie-sanders-inauguration-outfit-epitomize-white-privilege-a-san-francisco-teacher-thinks-so-204425621.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "We've updated our privacy policyDue to the new European data protection law, we need your consent before you use our website: We use cookies and other technologies to customize your experience, perfor...",
+        "upvotes": 0,
+        "url": "https://www.washingtonpost.com/sports/2021/02/03/yoshiro-mori-tokyo-olympics-sexist-comments/?outputType=amp"
+      },
+      {
+        "preview": "Submit Submit Thanks for contacting us. We've received your submission. He was Bombed in the USA! Bruce Springsteen was arrested for DWI and reckless driving in his home state, it was revealed Wednesd...",
+        "upvotes": 1,
+        "url": "https://nypost.com/2021/02/10/bruce-springsteen-arrested-for-dwi-in-new-jersey/"
+      },
+      {
+        "preview": "By Ariel Zilber and Luke Kenton and Charlotte Mitchell and Harriet Alexander For .com Published: 09:26 EDT, 12 February 2021 | Updated: 10:12 EDT, 12 February 2021 1.3k View comments Alec Baldwin thin...",
+        "upvotes": 1,
+        "url": "https://www.dailymail.co.uk/news/article-9253905/Alec-Baldwin-suggests-park-ranger-arrested-Bruce-Springsteen-liberal.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Today's Top Stories Trending After Rush Limbaugh‘s February 17 death, critics are remembering the many bigoted things the conservative radio host said throughout his career, including accusing Michael...",
+        "upvotes": 357,
+        "url": "https://hollywoodlife.com/2021/02/17/rush-limbaugh-michael-j-fox-tweets/"
+      },
+      {
+        "preview": "Following a historic winter storm that has shut down much of Texas, natural-gas utilities in Arizona are asking customers to conserve where possible by taking shorter showers and not using appliances ...",
+        "upvotes": 21,
+        "url": "https://www.msn.com/en-us/news/us/texas-energy-crisis-prompts-arizona-gas-utilities-to-call-for-limits-on-use-mesa-says-supply-could-run-out/ar-BB1dOcuM"
+      },
+      {
+        "preview": "USE PROMO AT CHECKOUT: KICKOFF Compare at A fun way to make a statement, our Make America Cool Again t-shirt features Biden prominently and drives home the climate change initiative that is a crucial ...",
+        "upvotes": 1,
+        "url": "https://www.smackapparel.com/products/make-america-cool-funny-biden-global-warming-shirt"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Congress Manchin is part of a bipartisan group of senators that has pushed back against the administration's relief plan. Sen. Joe Manchin speaks during a congressional hearing. | Jim Watson/AP Photo ...",
+        "upvotes": 6,
+        "url": "https://www.politico.com/news/2021/01/30/manchin-harris-covid-relief-464011"
+      },
+      {
+        "preview": "Advertisement Supported by G.D.P., jobs and other indicators have all risen faster under Democrats for nearly the past century. By David Leonhardt Graphics by Yaryna Serkez Mr. Leonhardt is a senior w...",
+        "upvotes": 443,
+        "url": "https://www.nytimes.com/2021/02/02/opinion/sunday/democrats-economy.html?referringSource=articleShare"
+      },
+      {
+        "preview": "Democrats are exploring ways to limit the cost of stimulus checks that would go to households in hopes of gaining Republican support for their next coronavirus pandemic relief bill. During a meeting a...",
+        "upvotes": 14,
+        "url": "https://www.huffpost.com/entry/democrats-coronavirus-stimulus-checks_n_601af3b4c5b6d5eb796ceb88"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The Biden administration on Sunday offered support for the thousands of \"peaceful protesters\" across Russia who've come out in support of jailed Vladimir Putin critic, Alexei Navalny—while also callin...",
+        "upvotes": 68,
+        "url": "https://www.msn.com/en-us/news/world/biden-admin-keeps-pressure-on-putin-blasts-harsh-tactics-against-pro-navalny-protesters/ar-BB1dgco3"
+      },
+      {
+        "preview": "‘Today is 1776,’ said Republican Congresswoman Lauren Boebert More Republican Congress members are facing scrutiny after the Capitol insurrection on Jan. 6. When asked whether the country heading to C...",
+        "upvotes": 1,
+        "url": "https://www.yahoo.com/news/more-republican-congress-members-linked-212651921.html"
+      },
+      {
+        "preview": "Advertisement Supported by A number of members of Congress have links to organizations and movements that played a role in the Jan. 6 assault on the Capitol. By Luke Broadwater and Matthew Rosenberg W...",
+        "upvotes": 267,
+        "url": "https://www.nytimes.com/2021/01/29/us/republicans-trump-capitol-riot.html"
+      }
+    ]
+  }
+}

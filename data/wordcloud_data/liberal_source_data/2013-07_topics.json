@@ -1,0 +1,275 @@
+{
+  "month": "2013-07",
+  "total_articles": 150,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "government",
+        "state",
+        "american",
+        "conservative",
+        "mother",
+        "political",
+        "law",
+        "abortion",
+        "libertarian",
+        "republican",
+        "policy",
+        "national",
+        "court"
+      ],
+      "topic_weights": [
+        456.3991140569374,
+        321.72214808181207,
+        195.1641886813087,
+        174.3819031086962,
+        159.80640563522098,
+        137.69383375961553,
+        129.75830025905006,
+        128.21964784855362,
+        126.23266564667234,
+        118.98558116763856,
+        118.87772339128801,
+        108.85472317749665,
+        108.73871466100962,
+        107.23679230619175,
+        107.08551240557368
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "republican",
+        "voter",
+        "carolina",
+        "north",
+        "monday",
+        "moral",
+        "voting",
+        "right",
+        "house",
+        "wa",
+        "group",
+        "law",
+        "south",
+        "percent"
+      ],
+      "topic_weights": [
+        327.3124624681258,
+        222.07120731483855,
+        210.09052734096954,
+        166.4229991504655,
+        163.37709249188234,
+        136.85939992763502,
+        133.15459119958527,
+        129.69190767279497,
+        119.2592881990854,
+        115.74555068599676,
+        114.27251507903155,
+        99.44973377168598,
+        92.4625495792257,
+        91.0834625162617,
+        89.5777575886795
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "col",
+        "abuse",
+        "military",
+        "interrogation",
+        "wa",
+        "germany",
+        "scandal",
+        "non",
+        "intelligence",
+        "prison",
+        "ha",
+        "late",
+        "decision",
+        "based",
+        "approval"
+      ],
+      "topic_weights": [
+        146.17676090829144,
+        109.97735784324834,
+        97.19045617037895,
+        90.70946194228452,
+        86.0140986789518,
+        65.62842195002709,
+        64.51874355105097,
+        53.988746416016774,
+        53.82225614009183,
+        50.652299504319004,
+        49.36307874374875,
+        46.74778133068022,
+        45.51170234353329,
+        45.35110457996401,
+        39.109066944852515
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "black",
+        "white",
+        "city",
+        "street",
+        "wa",
+        "zimmerman",
+        "ha",
+        "community",
+        "republican",
+        "law",
+        "senate",
+        "wall",
+        "domain",
+        "obama",
+        "official"
+      ],
+      "topic_weights": [
+        105.74471233957198,
+        85.91654859287856,
+        55.0346478676778,
+        54.92558169609532,
+        53.62767859364506,
+        47.66201295361704,
+        39.532557071861994,
+        38.81501033793553,
+        38.25688395512886,
+        37.770157938207596,
+        34.275112441010485,
+        33.994365639586576,
+        33.01346246750413,
+        32.446578417099325,
+        31.813711534513065
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "energy",
+        "oil",
+        "edt",
+        "ha",
+        "work",
+        "company",
+        "power",
+        "science",
+        "president",
+        "food",
+        "did",
+        "state",
+        "economic",
+        "job"
+      ],
+      "topic_weights": [
+        360.8051857619785,
+        191.52393140762015,
+        187.48837886430493,
+        168.37578081164963,
+        157.3865272774974,
+        153.78137444126926,
+        140.60047173169622,
+        93.22153230740858,
+        92.10813323075585,
+        88.22175360214176,
+        87.11873019887396,
+        86.71004738124749,
+        84.11330106703578,
+        83.95296619036412,
+        83.85117721666623
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 103,
+    "1": 19,
+    "4": 19,
+    "3": 8,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Supreme Court Justice Anthony Kennedy on Sunday denied a last-ditch request from the sponsors of California's now-overturned gay marriage ban to halt the issuance of same-sex marriage licenses in the ...",
+        "upvotes": 24,
+        "url": "http://www.nydailynews.com/news/politics/supreme-court-justice-kennedy-denies-motion-halt-gay-marriage-article-1.1386453"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 7,
+        "url": "http://www.rightwingwatch.org/content/bradlee-dean-doma-ruling-will-bring-destruction-america-and-also-please-help-my-maddow-lawsu"
+      },
+      {
+        "preview": "Former Minneapolis police officer Derek Chauvin, who was jailed for murder in June, has filed an intent to appeal with the Minnesota state appellate court. Landmark verdict challenged » See fewer ads ...",
+        "upvotes": 17,
+        "url": "http://voices.yahoo.com/homeless-veterans-america-12213448.html?cat=72"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Mitch McConnell has finally found a 2014 challenger—and she might just win. Photo by Win McNamee/Getty Images Ashley Judd may be out of the picture, but Mitch McConnell’s Kentucky Senate seat isn’t qu...",
+        "upvotes": 66,
+        "url": "http://www.slate.com/blogs/the_slatest/2013/07/01/mitch_mcconnell_has_a_challenger_and_she_could_win.html"
+      },
+      {
+        "preview": "WASHINGTON -- Several Republican-led states have already rushed to capitalize on the Supreme Court's recent rejection of a key part of the Voting Rights Act, but some Democratic and civil rights leade...",
+        "upvotes": 50,
+        "url": "http://www.huffingtonpost.com/2013/07/07/voting-rights-backlash_n_3542514.html?utm_hp_ref=politics"
+      },
+      {
+        "preview": "I’m not sure how I missed this. Maybe I was too busy trying to figure out why the Florida Senate’s president pro-tem wants to make it as hard to vote there as in African failed states. But last week, ...",
+        "upvotes": 8,
+        "url": "http://takingnote.blogs.nytimes.com/2012/02/29/voter-suppression-south-carolina-style/?smid=re-share"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The US army found Col Thomas Pappas guilty of two counts of dereliction of duty, including that of allowing dogs to be present during interrogations. Col Pappas was in charge of military intelligence ...",
+        "upvotes": 1,
+        "url": "http://news.bbc.co.uk/1/hi/world/americas/4539033.stm"
+      }
+    ],
+    "3": [
+      {
+        "preview": "cussing this strategy last year, industry lobbyists have been fighting back. In a coordinated effort involving letters, phone calls and meetings, some of the nation’s most powerful lobby groups—includ...",
+        "upvotes": 24,
+        "url": "http://www.thenation.com/article/175244/rescue-local-economies-cities-seize-underwater-mortgages-through-eminent-domain"
+      },
+      {
+        "preview": "What the verdict illustrates is the way white supremacy operates in the United States. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for...",
+        "upvotes": 0,
+        "url": "http://www.thenation.com/blog/175260/white-supremacy-acquits-george-zimmerman"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since AP The Senate appeared closer than ever to undertaking the so-called \"nuclear option\" on Tuesday. B...",
+        "upvotes": 11,
+        "url": "http://www.businessinsider.com/senate-nuclear-option-filibuster-rule-changes-2013-7"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Commentary | Wages, Incomes, and Wealth Commentary • By Heidi Shierholz • June 20, 2013 In his 2013 State of the Union address, President Barack Obama joined a growing chorus of voices calling for an ...",
+        "upvotes": 36,
+        "url": "http://www.epi.org/publication/minimum-wage-workers-raise/"
+      },
+      {
+        "preview": "The Kurdistan Regional Government awarded the Qara Dagh oil block to Chevron in January Chevron Corp. (CVX) has completed a transaction to acquire another oil exploration deal in Iraq’s semi-autonomou...",
+        "upvotes": 18,
+        "url": "http://gulfnews.com/business/oil-gas/chevron-in-oil-exploration-deal-in-kurdistan-1.1198654"
+      },
+      {
+        "preview": "Texas Governor Rick Perry (R) announced Monday that he will not seek reelection in 2014. \"The time has come to pass on the mantle of leadership,\" Perry said of his decision. \"It's been an improbable j...",
+        "upvotes": 111,
+        "url": "http://www.huffingtonpost.com/2013/07/08/rick-perry-governor_n_3562089.html"
+      }
+    ]
+  }
+}

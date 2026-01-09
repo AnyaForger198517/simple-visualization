@@ -1,0 +1,275 @@
+{
+  "month": "2019-09",
+  "total_articles": 128,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "september",
+        "posted",
+        "work",
+        "wa",
+        "beto",
+        "simple",
+        "computer",
+        "ethic",
+        "woman",
+        "game",
+        "ha",
+        "man",
+        "men",
+        "did",
+        "bob"
+      ],
+      "topic_weights": [
+        1237.4159653107404,
+        1208.886022269177,
+        138.3460664512979,
+        123.15762228199087,
+        89.0921222562693,
+        79.54371767592934,
+        65.7094840785951,
+        62.65948601035248,
+        62.18805982745476,
+        53.44987970376616,
+        50.85020780169012,
+        43.48988681875955,
+        42.24603141679234,
+        41.9705468932973,
+        39.47404163950837
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "biden",
+        "trump",
+        "president",
+        "ha",
+        "state",
+        "joe",
+        "james",
+        "ukraine",
+        "hunter",
+        "russia",
+        "country",
+        "advertisement",
+        "united",
+        "campaign"
+      ],
+      "topic_weights": [
+        408.3715915854354,
+        312.54315631714127,
+        298.02280657610805,
+        274.6472845164677,
+        207.55927018160241,
+        159.3997130116236,
+        133.51371303127195,
+        99.15703743399091,
+        98.54085981258144,
+        97.75147908174188,
+        95.13906183931604,
+        84.07657138308551,
+        82.82183687582867,
+        77.11268410994775,
+        76.63835233232751
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "white",
+        "ha",
+        "wa",
+        "state",
+        "twitter",
+        "black",
+        "school",
+        "student",
+        "force",
+        "party",
+        "american",
+        "race",
+        "follow",
+        "woman",
+        "space"
+      ],
+      "topic_weights": [
+        116.31878645919912,
+        80.52368831434404,
+        61.76496913204919,
+        53.46417949393712,
+        49.5205762962779,
+        46.90202455929488,
+        42.879745328012454,
+        40.609373600786434,
+        37.370331181225765,
+        36.28374896554005,
+        29.86810234074356,
+        29.293882496856877,
+        28.468700543647618,
+        28.16277139832662,
+        27.008653687515903
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "child",
+        "kavanaugh",
+        "book",
+        "comment",
+        "did",
+        "life",
+        "american",
+        "email",
+        "story",
+        "view",
+        "family",
+        "city",
+        "church"
+      ],
+      "topic_weights": [
+        206.38871603801599,
+        79.75258752660346,
+        53.04889202755318,
+        51.93753613623956,
+        50.88845479332617,
+        43.5933642239976,
+        42.25402920330146,
+        40.81175698467714,
+        39.63169605928279,
+        38.90215038224721,
+        38.86141777658048,
+        38.57817220053881,
+        38.17733830089641,
+        37.842388999347094,
+        36.32265446295254
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "cannabis",
+        "ha",
+        "break",
+        "effect",
+        "credit",
+        "city",
+        "child",
+        "world",
+        "problem",
+        "kid",
+        "life",
+        "score",
+        "government",
+        "parent",
+        "high"
+      ],
+      "topic_weights": [
+        79.69639256106824,
+        52.79648353156308,
+        43.17644593888378,
+        39.87320429294923,
+        37.91668808962465,
+        37.76356059746027,
+        37.00447262875295,
+        34.53343325269637,
+        31.619103258704403,
+        30.515422779728397,
+        30.28062745322077,
+        29.749855575914363,
+        28.61432025905731,
+        27.673827723566944,
+        27.21608187412427
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 31,
+    "2": 22,
+    "4": 16,
+    "1": 58,
+    "0": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "mething, they really hit with it. There's a reason they've stuck around when every other game company not beholden to a giant corporate entity either went tits up or stopped making stuff. Posted by: B...",
+        "upvotes": 802,
+        "url": "http://acecomments.mu.nu/?post=383383"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Sen. Bernie Sanders (I-VT) does not believe that skeptics of the progressive wing’s stance on climate change should serve in Congress, he tweeted Sunday. “If you don’t believe in climate change you sh...",
+        "upvotes": 28,
+        "url": "https://www.breitbart.com/politics/2019/09/02/sanders-climate-change-deniers-should-not-be-in-congress/"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 4,
+        "url": "https://www.newsbusters.org/blogs/techwatch/corinne-weaver/2019/09/04/betos-campaign-asks-big-tech-deal-right-wing-operatives"
+      },
+      {
+        "preview": "The Democratic socialist was responding to a question on how to curb population growth Democratic presidential candidate Sen. Bernie Sanders (I-Vt.) says population control is a key factor in combatti...",
+        "upvotes": 28,
+        "url": "https://www.theblaze.com/news/bernie-sanders-says-us-should-pay-for-abortions-and-birth-control-in-poor-countries-to-combat-climate-change"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The faculty council at the University of Kansas is calling for the removal of Chick-fil-A from campus by arguing that the company is a “bastion of bigotry.” According to a local news report, a group o...",
+        "upvotes": 15,
+        "url": "https://www.breitbart.com/education/2019/09/01/university-of-kansas-faculty-wants-bastion-of-bigotry-chick-fil-a-banned-from-campus/"
+      },
+      {
+        "preview": "Follow Us National Review The Problem with Biden’s Vaccine-Hardball Strategy Antony Blinken Changes His Tune Few of Our COVID-19 Policies Make Any Sense Secretary of State Blinken: This Is Not a Hosta...",
+        "upvotes": 0,
+        "url": "https://www.nationalreview.com/the-morning-jolt/just-remember-how-good-we-have-it-despite-our-current-struggles/"
+      },
+      {
+        "preview": "Published on swatson Labels straight pride event a “white supremacist parade” New York Democratic Rep. Alexandria Ocasio-Cortez has been criticized for promoting a fundraiser to cover bail for Antifa ...",
+        "upvotes": 8,
+        "url": "https://summit.news/2019/09/03/alexandria-ocasio-cortez-promotes-antifa-protesters-in-plea-for-bail-fund/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "A man accused of raping a 15-year-old girl in her grandmother’s bedroom had been deported from the United States less than three years ago, officials with U.S. Immigration and Customs Enforcement conf...",
+        "upvotes": 106,
+        "url": "https://wjla.com/amp/news/local/man-rape-15-year-old-md-girl-suspect-repeat-immigration-violator"
+      },
+      {
+        "preview": "Not too long ago, Britain's Tories were in the loo, poll-wise. In a July 21 story headlined, \"As Brexit looms, the U.K. Tories fight for survival,\" NBC News reported: After almost 10 years in power an...",
+        "upvotes": 60,
+        "url": "https://www.americanthinker.com/blog/2019/08/boris_johnson_shows_the_steel_and_uks_tories_soar_in_the_polls.html"
+      },
+      {
+        "preview": "A University of Chicago report shows the dividend has had no significant effect on employment. The size of the payouts ($2,000 per person) was is not enough to make Alaskans leave their jobs. Alaskans...",
+        "upvotes": 1,
+        "url": "https://www.otito.io/topic/would-universal-basic-income-be-an-effective-policy-8b1b4d6831"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Discount Code: 20AS-661091 and get up to 30% off your ENTIRE seed order + free seeds Here Enter Code: BWS20 and sign up for a free trial of the #1 online cannabis training Here But today, the story is...",
+        "upvotes": 1,
+        "url": "https://buyweedseeds.org/"
+      },
+      {
+        "preview": "Humans could burn every living thing on the planet and still not dent its oxygen supply. As tongues of flame lapped the planet’s largest tract of rain forest over the past few weeks, it has rightfully...",
+        "upvotes": 9,
+        "url": "https://www.theatlantic.com/science/archive/2019/08/amazon-fire-earth-has-plenty-oxygen/596923/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved New York City is losing more than 270 residents each day, more than any other city in the United States, according to census data analyzed by Bloombe...",
+        "upvotes": 25,
+        "url": "https://thehill.com/opinion/finance/459592-why-does-new-york-city-lose-more-residents-than-the-rest-of-america"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2017-07",
+  "total_articles": 270,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "obamacare",
+        "republican",
+        "health",
+        "american",
+        "care",
+        "ha",
+        "wa",
+        "conservative",
+        "trump",
+        "state",
+        "government",
+        "democrat",
+        "cost",
+        "tax",
+        "congress"
+      ],
+      "topic_weights": [
+        224.45904737372967,
+        216.02774594703325,
+        206.99988632089685,
+        196.48474809619603,
+        182.39831308676898,
+        137.4042677220024,
+        133.35822160629863,
+        133.32586352153052,
+        129.9951961667443,
+        126.36153653079793,
+        124.23738913886632,
+        123.60526898323688,
+        121.3962812025994,
+        118.69355865482272,
+        118.41502193974821
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "ha",
+        "wa",
+        "city",
+        "court",
+        "law",
+        "week",
+        "united",
+        "share",
+        "child",
+        "plan",
+        "article",
+        "government",
+        "july",
+        "legal"
+      ],
+      "topic_weights": [
+        273.8434095569688,
+        258.57930698679814,
+        233.855608414975,
+        134.64744260434182,
+        106.92035201363643,
+        104.67825100583057,
+        102.90648752294109,
+        99.29641853509601,
+        96.0050350123202,
+        94.24807728807279,
+        90.53887383555649,
+        84.84716728844293,
+        78.15516279269838,
+        75.90261664895282,
+        75.4135551552892
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "republican",
+        "white",
+        "news",
+        "rich",
+        "campaign",
+        "state",
+        "russian",
+        "primary",
+        "medium",
+        "story",
+        "russia"
+      ],
+      "topic_weights": [
+        1084.1587563012165,
+        437.60081794687574,
+        273.4360113957948,
+        254.6537533339482,
+        211.82335645692487,
+        194.50883784818348,
+        187.2536462023476,
+        151.18596097002452,
+        138.642155288343,
+        135.83453595538776,
+        134.27647262515268,
+        134.13891406938652,
+        133.73188251035518,
+        132.14912246350406,
+        130.5114547657482
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "mccain",
+        "ha",
+        "word",
+        "military",
+        "police",
+        "fighting",
+        "wanted",
+        "war",
+        "doctor",
+        "man",
+        "life",
+        "government",
+        "today",
+        "change"
+      ],
+      "topic_weights": [
+        535.3324332379883,
+        165.1832632229806,
+        144.6571596290333,
+        141.19126105271604,
+        139.4884866440123,
+        130.5741926906257,
+        130.32878669591344,
+        120.78138950198907,
+        118.43148987934174,
+        114.82420675749333,
+        109.1600096335155,
+        95.03247291261299,
+        93.2238622147097,
+        88.56196138095638,
+        87.1107551992128
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "men",
+        "woman",
+        "harris",
+        "medium",
+        "case",
+        "law",
+        "research",
+        "soros",
+        "university",
+        "campaign",
+        "muslim",
+        "reported",
+        "result"
+      ],
+      "topic_weights": [
+        228.37805045190962,
+        135.49855538449148,
+        132.42268052577856,
+        119.89291498293292,
+        107.09491282322603,
+        99.20740342797718,
+        95.62416724461926,
+        92.21519254605353,
+        83.83754745312189,
+        80.14770997945806,
+        74.7466858044746,
+        74.64126718152588,
+        73.19372300446904,
+        73.01964972463112,
+        72.65213924733735
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 59,
+    "2": 89,
+    "3": 27,
+    "0": 47,
+    "4": 48
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "If you can believe their public statements, there is agreement among Republican Senators that certain parts of the ACA should be repealed. Yet they allow their disagreements over new features to get i...",
+        "upvotes": 13,
+        "url": "http://www.americanthinker.com/articles/2017/07/breaking_the_health_care_logjam.html"
+      },
+      {
+        "preview": "July 1, 2017 by Paul Kilmartin The prospects of the Senate’s “Obamacare-lite” bill dwindling, Tweeter-in-chief Trump embraced the Rand Paul version of repeal: “If Republican Senators are unable to pas...",
+        "upvotes": 1,
+        "url": "http://natmonitor.com/2017/07/01/pass-obamacare-repeal-today-effective-november-5-2018/"
+      },
+      {
+        "preview": "JOIN OR RENEW TODAY JOIN OR RENEW TODAY Tags Cronyism and CorporatismWar and Foreign Policy One of the few elected Democratic lawmakers with an extensive anti-war record, Rep. Tulsi Gabbard (D-Hawaii)...",
+        "upvotes": 46,
+        "url": "https://mises.org/blog/congress-will-make-sure-taxpayers-keep-sending-money-terrorists"
+      }
+    ],
+    "1": [
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 74,
+        "url": "http://dailysignal.com/2017/06/29/keep-elmo-out-of-my-politics/"
+      },
+      {
+        "preview": "Watch CBSN Live June 30, 2017 / 12:27 PM / AP AUSTIN, Texas -- Gay spouses may not be entitled to government-subsidized workplace benefits, the Texas Supreme Court ruled Friday in a unanimous decision...",
+        "upvotes": 7,
+        "url": "http://www.cbsnews.com/news/texas-supreme-court-questions-right-of-benefits-for-gay-spouses/"
+      },
+      {
+        "preview": "JavaScript is disabled You need to enable JavaScript to use  Are you a genderless, ageless, species-less being? Plus fake news, Mikaâs supposed bloody face-lift, and the mailbag! This episode is bro...",
+        "upvotes": 4,
+        "url": "https://soundcloud.com/benshapiroshow/ep331"
+      }
+    ],
+    "2": [
+      {
+        "preview": "“Ladies, gentlemen, and non-binary beings who refuse to be forced into one or more specific genders,” began CNN Worldwide President Jeff Zucker, employing the network’s prescribed group salutation. “I...",
+        "upvotes": 27,
+        "url": "https://townhall.com/columnists/kurtschlichter/2017/06/29/cnn-tries-to-move-forward-after-its-latest-humiliation-n2347625"
+      },
+      {
+        "preview": "Rep. Jamie Raskin's plan zeros in on Section 4 of the Constitution's 25th amendment It's a provocative and long-shot effort, but the idea does have some precedent Pointing to the outcry over President...",
+        "upvotes": 33,
+        "url": "http://www.cnn.com/2017/06/30/politics/jamie-raskin-bill-panel-remove-donald-trump/index.html?sr=twCNN063017jamie-raskin-bill-panel-remove-donald-trump1020PMStoryLink&linkId=39304613"
+      },
+      {
+        "preview": "Advertisement Barack Hussein Obama spent the week leading up to America’s celebration of independence in his childhood home and Muslim-majority, Indonesia (shocker). In the last leg of his vacation th...",
+        "upvotes": 391,
+        "url": "http://www.thegatewaypundit.com/2017/07/obama-warns-much-patriotism-4th-july-weekend-praising-islam-speech-indonesia/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Hubbard Radio Washington DC, LLC. All rights reserved. This website is not intended for users located within the European Economic Area. As part of its version of the 2018 Defense authorization bill, ...",
+        "upvotes": 1,
+        "url": "https://federalnewsradio.com/defense-news/2017/06/house-panel-votes-to-split-air-force-create-new-u-s-space-corps/"
+      },
+      {
+        "preview": "After a Bernie Sanders campaign volunteer attempted to assassinate Republican members of Congress in Virginia, many on the left began insisting that “both sides” need to moderate their violent politic...",
+        "upvotes": 27,
+        "url": "http://www.breitbart.com/big-government/2017/06/30/acts-of-terror-history-of-left-wing-political-violence-in-america/"
+      },
+      {
+        "preview": "This case isn’t about discrimination or challenging gay marriage. It’s about genuine longstanding religious convictions. This week, the Supreme Court agreed to hear the case of Masterpiece Cakeshop ow...",
+        "upvotes": 47,
+        "url": "https://patriotpost.us/articles/49968"
+      }
+    ],
+    "4": [
+      {
+        "preview": "By Darren Boyle for MailOnline Published: 08:38 EDT, 1 July 2017 | Updated: 12:57 EDT, 6 July 2017 415 View comments A Muslim student union leader has claimed she would like to 'oppress white people' ...",
+        "upvotes": 27,
+        "url": "http://www.dailymail.co.uk/news/article-4656926/Student-union-president-calls-Islamic-takeover.html"
+      },
+      {
+        "preview": "Bloomberg News reported that there is a gender gap in the top tier of Trump’s administration. In the article announcing the gender gap, the authors also state that many of Trump’s staff take no salary...",
+        "upvotes": 447,
+        "url": "http://www.independentsentinel.com/trump-20-fewer-staff-multimillionaires-take-no-pay-women-assistants-make/"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 285,
+        "url": "http://www.nationalreview.com/article/449154/californias-high-capacity-magazine-confiscation-halted-judge-second-amendment"
+      }
+    ]
+  }
+}

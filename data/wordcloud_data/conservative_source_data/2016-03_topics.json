@@ -1,0 +1,280 @@
+{
+  "month": "2016-03",
+  "total_articles": 324,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "government",
+        "american",
+        "war",
+        "policy",
+        "world",
+        "country",
+        "million",
+        "death",
+        "political",
+        "mass",
+        "law",
+        "communist"
+      ],
+      "topic_weights": [
+        455.8710216657095,
+        311.0430574384653,
+        259.36103109046167,
+        238.12136972532014,
+        206.41916828097695,
+        180.35136625231425,
+        171.39145097926337,
+        169.45475771926698,
+        160.90304589699397,
+        155.22310167399553,
+        149.23584700671432,
+        139.58869304665114,
+        136.39497061480404,
+        132.99287672496203,
+        120.15411541969394
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "life",
+        "police",
+        "student",
+        "attack",
+        "black",
+        "man",
+        "told",
+        "city",
+        "group",
+        "advertisement",
+        "school",
+        "men",
+        "old"
+      ],
+      "topic_weights": [
+        607.5921168414736,
+        185.4931939712101,
+        149.75560286276354,
+        145.59698857045814,
+        118.23995942531774,
+        112.18564000559431,
+        105.38599924248587,
+        95.92680801443707,
+        90.74409221353038,
+        82.62960140325728,
+        75.51513925054178,
+        75.34096130446581,
+        71.38616275215648,
+        62.1780693266479,
+        61.73317038651643
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "president",
+        "clinton",
+        "court",
+        "campaign",
+        "obama",
+        "senate",
+        "state",
+        "department",
+        "news",
+        "agency",
+        "republican",
+        "law"
+      ],
+      "topic_weights": [
+        464.4745467838329,
+        310.32626376873714,
+        246.48275566985794,
+        221.65237424628373,
+        209.634499594722,
+        192.5287664758504,
+        154.76040698050232,
+        145.10768824521267,
+        144.16465145277758,
+        135.0163832273376,
+        122.2179151196426,
+        115.44286177500899,
+        106.89960312234558,
+        106.6831897231425,
+        99.96616205589791
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "posted",
+        "march",
+        "warming",
+        "global",
+        "climate",
+        "wa",
+        "data",
+        "ha",
+        "change",
+        "hannity",
+        "temperature",
+        "science",
+        "scientist",
+        "trump",
+        "money"
+      ],
+      "topic_weights": [
+        621.2346926793263,
+        620.1262693912993,
+        275.9901675035524,
+        222.69329427771402,
+        199.53356673136696,
+        185.12506914184257,
+        169.7600155370956,
+        168.96020149572516,
+        125.95061793839659,
+        119.59500099161208,
+        112.20048983300751,
+        85.69169157469352,
+        81.13768779629713,
+        74.11468607690908,
+        73.12692445308912
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "cruz",
+        "republican",
+        "ha",
+        "donald",
+        "rubio",
+        "conservative",
+        "party",
+        "wa",
+        "candidate",
+        "state",
+        "campaign",
+        "vote",
+        "gop",
+        "voter"
+      ],
+      "topic_weights": [
+        2281.6336217166863,
+        932.5871736796547,
+        725.056218743171,
+        563.612660294167,
+        460.1739150097167,
+        454.72367292144156,
+        409.5761969719914,
+        402.9106758677908,
+        385.8871004906823,
+        379.2215269482262,
+        336.5731903599708,
+        310.8375853264471,
+        299.70716002181814,
+        295.9984836668724,
+        284.1859729633464
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 42,
+    "4": 163,
+    "2": 70,
+    "1": 47,
+    "3": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Former Treasury secretary Larry Summers wants to get rid of the $100 bill. But I think he has it exactly backward. I think we need to restore the $500 and $1000 bills. And the reason is that people li...",
+        "upvotes": 15,
+        "url": "http://www.usatoday.com/story/opinion/2016/02/29/100-dollar-bill-cash-inflation-larry-summers-federal-reserve-column/81080728/"
+      },
+      {
+        "preview": "Editor's Note: The original post was written in a way that made it look like Obamacare co-ops and exchanges were the same thing. They're not. We deeply apologize for the error. The post has been updat...",
+        "upvotes": 13,
+        "url": "http://townhall.com/tipsheet/mattvespa/2016/03/02/catastrophe-last-remaining-obamacare-exchanges-teetering-on-total-collapse-n2127081"
+      },
+      {
+        "preview": "A recession in Europe could lead to the collapse of the eurozone, as the single currency would buckle under the political turmoil unleashed by a fresh downturn, a leading investment bank has warned. I...",
+        "upvotes": 10,
+        "url": "http://www.telegraph.co.uk/business/2016/03/02/recession-will-lead-to-eurozone-collapse-warns-french-bank/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement It’s a Religion of Peace– On January 4, 2011, Salmaan Taseer was assassinated in Islamabad by his security guard, Malik Mumtaz Hussain Qadri, who disagreed with Taseer’s opposition to Pa...",
+        "upvotes": 417,
+        "url": "http://www.thegatewaypundit.com/2016/03/tens-of-thousands-attend-funeral-of-terrorist-who-murdered-moderate-pakistani-leader/"
+      },
+      {
+        "preview": "ADVERTISEMENT Feature: What I saw at the Wendy Davis estate sale SHARE FORT WORTH, Texas—Much to my surprise, I had company waiting outside the house of Wendy Davis early last Friday before the doors ...",
+        "upvotes": 7,
+        "url": "http://freebeacon.com/politics/i-bought-wendy-davis-pink-sneakers/"
+      },
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. The president of ultra-liberal Oberlin College is standing by the professor who has been posting a slew of anti-Semitic rants and bizar...",
+        "upvotes": 41,
+        "url": "http://nypost.com/2016/03/02/oberlin-college-president-stands-by-anti-semitic-professor/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "BuzzFeed Editor in Chief Ben Smith has been told by staffers at the New York Times that an audio tape exists of Donald Trump telling the editorial board of the newspaper that he wasn’t serious about a...",
+        "upvotes": 9,
+        "url": "https://pjmedia.com/trending/2016/02/29/did-trump-tell-the-new-york-times-he-doesnt-believe-in-his-immigration-policies/"
+      },
+      {
+        "preview": "These are the core obsessions that drive our newsroom—defining topics of seismic importance to the global economy. These are some of our most ambitious editorial projects. Enjoy! Our emails are made t...",
+        "upvotes": 5,
+        "url": "http://qz.com/582641/25-of-donald-trumps-political-spending-goes-to-his-own-companies/"
+      },
+      {
+        "preview": "One major reason the Veterans Affairs Department leaders can't fire troublesome employees: Bernie Sanders. The Obama administration is officials are moving to undo the Democratic presidential candidat...",
+        "upvotes": 1,
+        "url": "http://www.militarytimes.com/story/military/election/2016/02/18/sanders-va-firing-problems/80506664/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "regulation, and other factors that has made the US less competitive for manufacturing, but if he is able to sell the public on the idea (BRING APPLE BACK! BRING APPLE BACK!) then he can put the pressu...",
+        "upvotes": 20,
+        "url": "http://acecomments.mu.nu/?post=361890"
+      },
+      {
+        "preview": "rime theft, skimming and redistribution of private property by leftists is but another means to a socialist end and leftists freely admit it:Emma Brindal of “Friends of the Earth,” said, “[a] climate ...",
+        "upvotes": 31,
+        "url": "http://realclimatescience.com/2016/03/noaa-radiosonde-data-shows-no-warming-for-58-years/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Donald Trump and Hillary Clinton are poised to lead the nation's two major parties in this fall's presidential election A new nationwide /ORC poll finding each well ahead of their closest competitors ...",
+        "upvotes": 12,
+        "url": "http://www.cnn.com/2016/02/29/politics/trump-clinton-dominant-as-super-tuesday-looms/index.html"
+      },
+      {
+        "preview": "Donald Trump believes in nothing. Well, that’s not necessarily true. Sure, his beliefs are transitional as he moves from posturing to the negotiating table. His allegiances have never been to the side...",
+        "upvotes": 6,
+        "url": "http://www.redstate.com/joesquire/2016/02/29/blaspheming-prophet-trump/"
+      },
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day in Liberal Judicial Activism—September 12 The Supreme Court in the American Constitutional Order ...",
+        "upvotes": 1,
+        "url": "http://www.nationalreview.com/article/432062/donald-trump-republican-party-2016-chris-christie"
+      }
+    ]
+  }
+}

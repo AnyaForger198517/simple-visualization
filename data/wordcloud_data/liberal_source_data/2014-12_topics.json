@@ -1,0 +1,280 @@
+{
+  "month": "2014-12",
+  "total_articles": 82,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "election",
+        "sander",
+        "prosecutor",
+        "party",
+        "democrat",
+        "democratic",
+        "republican",
+        "ballot",
+        "county",
+        "vote",
+        "race",
+        "political",
+        "senator",
+        "american",
+        "primary"
+      ],
+      "topic_weights": [
+        76.70341503432223,
+        71.6480859467757,
+        53.01474017757199,
+        48.1473283366962,
+        47.08808075471361,
+        46.503446223556985,
+        46.45617333399355,
+        46.26696571736141,
+        44.722653373562764,
+        40.728796077407694,
+        35.11152962234404,
+        34.92588191809237,
+        34.869006729675306,
+        34.74930440633027,
+        34.11891843285595
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "bush",
+        "republican",
+        "ha",
+        "romney",
+        "state",
+        "run",
+        "party",
+        "wage",
+        "governor",
+        "jeb",
+        "court",
+        "wa",
+        "candidate",
+        "warren",
+        "minimum"
+      ],
+      "topic_weights": [
+        60.69288098205661,
+        49.751118082688905,
+        39.88987021406616,
+        39.56271955896083,
+        34.377042033376746,
+        32.0901932668538,
+        29.608774408900693,
+        29.15326711395853,
+        26.905307915941364,
+        22.706888898679843,
+        21.6663551486878,
+        20.153385962337385,
+        19.782816563094798,
+        19.477004584526384,
+        17.28166438071877
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "israel",
+        "palestinian",
+        "scalise",
+        "report",
+        "israeli",
+        "group",
+        "ha",
+        "wilson",
+        "attack",
+        "torture",
+        "state",
+        "killed",
+        "afghanistan",
+        "war"
+      ],
+      "topic_weights": [
+        106.86880213719756,
+        52.281979568137146,
+        42.63182792213956,
+        40.58030460275542,
+        34.14031500996907,
+        34.08030103425746,
+        30.55811196800157,
+        29.16367643880581,
+        28.266136814106098,
+        27.68367121453494,
+        26.93661359434961,
+        25.125626447985617,
+        25.00732022778252,
+        24.16675971133921,
+        22.43879958151165
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "fox",
+        "news",
+        "ha",
+        "clinton",
+        "comment",
+        "public",
+        "wall",
+        "street",
+        "pension",
+        "american",
+        "nation",
+        "hillary",
+        "market",
+        "hate"
+      ],
+      "topic_weights": [
+        81.09096696121212,
+        72.8620729617473,
+        67.83566775062337,
+        59.562748092561726,
+        56.85396131091299,
+        42.99275425835433,
+        42.7225556597339,
+        39.24075195148834,
+        38.20798261979744,
+        36.457812271143354,
+        35.992214279630744,
+        35.64447731806376,
+        33.59496948539366,
+        31.60712818505388,
+        31.09002760865928
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "american",
+        "white",
+        "clinton",
+        "president",
+        "health",
+        "change",
+        "police",
+        "law",
+        "policy",
+        "government",
+        "black",
+        "care"
+      ],
+      "topic_weights": [
+        373.8961317751502,
+        155.96781200034928,
+        122.31879403130316,
+        118.95861062011754,
+        114.81705706951898,
+        98.94903695213146,
+        81.29201878068648,
+        78.68179253943333,
+        65.39201628799671,
+        65.06169587280081,
+        65.02576826518052,
+        60.596812315275145,
+        59.8698633280786,
+        59.640310613026955,
+        58.74167957742931
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 2,
+    "4": 47,
+    "2": 11,
+    "3": 15,
+    "1": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": " led by State Senator Maria Chapelle-Nadal, St. Louis County Council Chair Hazel Erby and the Fannie Lou Hamer Democratic Coalition. In announcing the endorsement, Erby specifically criticized Democra...",
+        "upvotes": 0,
+        "url": "http://www.thenation.com/blog/191593/inconvenient-political-truth-st-louis-prosecutor-democrat"
+      },
+      {
+        "preview": "A pair of controversial rulings by the National Labor Relations Board have employers crying foul as the Democrat-controlled agency has made it dramatically easier for unions to organize employees -- u...",
+        "upvotes": 3,
+        "url": "http://www.forbes.com/sites/danielfisher/2014/12/12/nlrb-rulings-are-a-big-christmas-present-for-labor/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "WASHINGTON (AP) — The Supreme Court is taking on a free speech case over a proposed license plate in Texas that would feature the Confederate battle flag. The case involves the government’s ability to...",
+        "upvotes": 1,
+        "url": "http://talkingpointsmemo.com/news/supreme-court-confederate-license-plate"
+      },
+      {
+        "preview": "This article is more than 1 year old This post has been updated Prominent liberal members of Congress expressed deep reservations Wednesday about a $1.01 trillion bill to fund the government through S...",
+        "upvotes": 44,
+        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2014/12/10/elizabeth-warren-fellow-liberals-rail-against-bank-provision-in-spending-bill/"
+      },
+      {
+        "preview": "He has sounded unimpressed with the emerging GOP field, associates say. By BEN WHITE and MAGGIE HABERMAN 12/11/2014 06:25 PM EST Updated 12/12/2014 08:19 PM EST For most of the past year, Mitt Romney ...",
+        "upvotes": 1,
+        "url": "http://www.politico.com/story/2014/12/mitt-romney-2016-run-113518.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "By Laura Collins for MailOnline Published: 11:24 EDT, 2 December 2014 | Updated: 12:53 EDT, 2 December 2014 228 View comments Darren Wilson changed his story following the immediate aftermath of the f...",
+        "upvotes": 46,
+        "url": "http://www.dailymail.co.uk/news/article-2857630/EXCLUSIVE-Darren-Wilson-changed-crucial-elements-story-aftermath-shooting-Michael-Brown-dead-including-knew-teenager-wanted-thief.html"
+      },
+      {
+        "preview": "Jump to navigation Patrick Strickland Rights and Accountability 1 December 2014 Displaying Palestinian flags at demonstrations would be forbidden if a new Israeli bill enters into force. A new Israeli...",
+        "upvotes": 1,
+        "url": "http://electronicintifada.net/blogs/patrick-strickland/israel-plans-reintroduce-ban-palestinian-flag"
+      },
+      {
+        "preview": "Jump to navigation Ali Abunimah Power Suits 4 December 2014 Israel and the US stand alone at United Nations in defense of weapons of mass destruction. (UN Photo/Flickr) Israel and the United States we...",
+        "upvotes": 1,
+        "url": "http://electronicintifada.net/blogs/ali-abunimah/us-israel-are-only-countries-oppose-un-ban-weapons-outer-space"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By Echo ChambersOpinion and analysis from around the world It seems impossible for anyone to talk about the 2016 US presidential election without bringing up Hillary Clinton. With more than 700 days t...",
+        "upvotes": 1,
+        "url": "http://www.bbc.com/news/blogs-echochambers-30315243"
+      },
+      {
+        "preview": "This page is a collection of the vile and contemptible expressions of hatred found on the Fox News community website, Fox Nation. It is a window into the dark soul of unrepentant bigots who proudly pu...",
+        "upvotes": 4,
+        "url": "http://www.newscorpse.com/ncWP/?page_id=13324"
+      },
+      {
+        "preview": "Front page layout Site theme Sign up or login to join the discussions! David Kravets - Dec 8, 2014 10:10 pm UTC Further ReadingIdaho mom’s suit over NSA database gets a cool reception from appeals cou...",
+        "upvotes": 0,
+        "url": "http://arstechnica.com/tech-policy/2014/12/nsa-warrantless-bulk-phone-metadata-spying-continues-unabated"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by By Charles M. Blow One thing the grand jury decision in Ferguson, Mo., has sent back to the surface is just how difficult it is to have cross-racial discussions about crime ...",
+        "upvotes": 7,
+        "url": "http://www.nytimes.com/2014/12/01/opinion/charles-blow-crime-and-punishment.html?smid=re-share"
+      },
+      {
+        "preview": "First, some data. In the recent midterm elections, a study by the Public Religion Research Institute found that white working-class voters -- defined as those lacking a college degree, and whose jobs ...",
+        "upvotes": 62,
+        "url": "http://www.huffingtonpost.com/ian-reifowitz/gop-payback-to-white-work_b_6239006.html"
+      },
+      {
+        "preview": "Elizabeth Lauten, the communications director for Rep. Stephen Fincher (R-Tenn.), resigned Monday following a Facebook post that criticized Malia and Sasha Obama's appearance at the annual White House...",
+        "upvotes": 113,
+        "url": "http://www.huffingtonpost.com/2014/12/01/elizabeth-lauten-resigns_n_6247892.html"
+      }
+    ]
+  }
+}

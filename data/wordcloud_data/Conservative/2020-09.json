@@ -1,0 +1,36 @@
+{
+  "month": "2020-09",
+  "total_articles": 143,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Government Policy and COVID-19 Mandates",
+      "core_keywords": ["government", "policy", "covid", "mandate", "police", "election", "fbi"],
+      "importance_ratio": 0.0629
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2020 US Election and Education Issues",
+      "core_keywords": ["trump", "biden", "election", "school", "teacher", "student", "vote"],
+      "importance_ratio": 0.1538
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Racial Justice and Police Incidents",
+      "core_keywords": ["police", "black", "white", "riot", "death", "state", "charge"],
+      "importance_ratio": 0.4056
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Big Tech and Social Controversies",
+      "core_keywords": ["tech", "government", "child", "court", "school", "china", "trump"],
+      "importance_ratio": 0.0839
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2020 Presidential Campaign and Tax Issues",
+      "core_keywords": ["trump", "biden", "president", "tax", "campaign", "state", "news"],
+      "importance_ratio": 0.2937
+    }
+  ]
+}

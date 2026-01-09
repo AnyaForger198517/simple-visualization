@@ -1,0 +1,285 @@
+{
+  "month": "2017-03",
+  "total_articles": 345,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "session",
+        "president",
+        "house",
+        "ha",
+        "tax",
+        "democrat",
+        "million",
+        "attorney",
+        "jones",
+        "republican",
+        "senate",
+        "mother",
+        "company"
+      ],
+      "topic_weights": [
+        480.70279080331,
+        369.58926749719103,
+        202.77411541447896,
+        186.94069593255213,
+        137.60936075438642,
+        135.73171234531503,
+        124.45643580925756,
+        121.83194677141954,
+        121.35506999746546,
+        119.31047371231716,
+        119.04820175917925,
+        113.61974356660593,
+        110.23960132727048,
+        108.58317116859051,
+        102.98642214337801
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "american",
+        "republican",
+        "health",
+        "state",
+        "care",
+        "tax",
+        "party",
+        "political",
+        "white",
+        "president",
+        "conservative",
+        "medium"
+      ],
+      "topic_weights": [
+        1036.7643129623357,
+        990.8489811151087,
+        958.4121102436111,
+        598.4230001845531,
+        558.8007110684008,
+        470.7717823332588,
+        425.06695105752453,
+        410.58302944466516,
+        384.7686676970032,
+        367.16646510975636,
+        351.615975568464,
+        350.5033585035855,
+        318.9235352989916,
+        317.5505818973919,
+        298.06396952606144
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "rule",
+        "state",
+        "court",
+        "order",
+        "gorsuch",
+        "federal",
+        "president",
+        "agency",
+        "ban",
+        "administration",
+        "privacy",
+        "change",
+        "executive",
+        "climate"
+      ],
+      "topic_weights": [
+        218.13707750478957,
+        210.05053596337424,
+        206.4970492092184,
+        197.810898537577,
+        197.6390261015969,
+        176.88242337875946,
+        154.65257417001698,
+        149.0897215018055,
+        134.56635171942656,
+        126.57481605606664,
+        126.11708221014155,
+        123.99421528177801,
+        120.89606142429176,
+        118.71296335294136,
+        116.56175422476015
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "school",
+        "student",
+        "public",
+        "private",
+        "program",
+        "ha",
+        "education",
+        "study",
+        "rate",
+        "voucher",
+        "state",
+        "wa",
+        "likelike",
+        "account",
+        "community"
+      ],
+      "topic_weights": [
+        414.5725575412923,
+        236.99178659822286,
+        200.1319407928759,
+        157.57023966476189,
+        145.0851568956555,
+        138.9283658623824,
+        136.7512190626396,
+        125.06691154473813,
+        117.23710236089914,
+        106.6572109518048,
+        105.92705672546441,
+        104.21392517955934,
+        97.25138556544144,
+        90.27677287808551,
+        84.9081113512302
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "russian",
+        "russia",
+        "house",
+        "campaign",
+        "president",
+        "white",
+        "official",
+        "intelligence",
+        "ha",
+        "investigation",
+        "committee",
+        "news",
+        "fbi"
+      ],
+      "topic_weights": [
+        1746.5834331877973,
+        818.196248418424,
+        594.0159232845566,
+        549.9103468884027,
+        506.68672709459025,
+        445.96437773003436,
+        411.46206439871946,
+        403.93408546394636,
+        386.80416709935434,
+        375.3506227224857,
+        372.72538846204645,
+        285.4438422664789,
+        263.5671718760742,
+        245.51055648005357,
+        237.69606255357408
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 158,
+    "2": 38,
+    "4": 88,
+    "3": 19,
+    "0": 42
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Hundreds of people participated in a prayer vigil on Sunday, Feb. 26, 2017 at the Ball Conference Center in Olathe, Kansas.Allison Long/ZUMA Last Wednesday, a man walked into an Olathe, Kansas, bar wh...",
+        "upvotes": 1,
+        "url": "http://www.motherjones.com/media/2017/02/olathe-kansas-shooting-trump-hate-crimes"
+      },
+      {
+        "preview": "On 28 February 2017, President Donald Trump appeared before a joint session of Congress to deliver a speech similar to a State of the Union address, during the latter part of which he took time to int...",
+        "upvotes": 2,
+        "url": "http://www.snopes.com/democrats-stand-seal-widow/"
+      },
+      {
+        "preview": "Iowa state Sen. Mark Chelgren (R) was forced to backtrack on claims that he received a college \"degree\" after his alma mater was revealed to be the operator of a Sizzler steak house franchise. NBC New...",
+        "upvotes": 3,
+        "url": "http://www.rawstory.com/2017/03/busted-iowa-gop-lawmakers-alma-mater-turns-out-to-company-that-ran-sizzler-steak-house/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "If there’s one thing that has emboldened anti-Trump activists in the early days of the new administration, it’s the fact that their protests are working. The day after the inauguration, four million w...",
+        "upvotes": 18,
+        "url": "https://newrepublic.com/article/140926/anti-protest-backlash-republicans-criminalize-dissent"
+      },
+      {
+        "preview": "Eric Holder acknowledged that the work in the courts has gotten more difficult with Jeff Sessions now in his old job running the Justice Department. | AP Photo By EDWARD-ISAAC DOVERE 02/28/2017 03:07 ...",
+        "upvotes": 5,
+        "url": "http://www.politico.com/story/2017/02/eric-holder-obama-ready-public-235508"
+      },
+      {
+        "preview": "Former NAACP chief Benjamin Jealous is \"actively weighing\" a campaign to be Maryland's governor. Jealous said Tuesday that he is in the early stages of contemplating a Democratic challenge to popular ...",
+        "upvotes": 7,
+        "url": "http://www.baltimoresun.com/news/maryland/politics/bs-md-jealous-governor-20170228-story.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The Democrat presented the plan Monday morning to Gorsuch and his aides The plan would put both Obama and Trump's picks on SCOTUS at the same time The White House is dismissing an idea from Sen. Tom U...",
+        "upvotes": 5,
+        "url": "http://www.cnn.com/2017/02/27/politics/tom-udall-gorsuch-garland-scotus-plan/index.html"
+      },
+      {
+        "preview": "To revisit this article, visit My Profile, then View saved stories. To revisit this article, select My Account, then View saved stories By Jay Willis In 2011, the great state of Texas enacted one of t...",
+        "upvotes": 7,
+        "url": "http://www.gq.com/story/jeff-sessions-texas-voter-protections"
+      },
+      {
+        "preview": "© First Look Institute. All rights reserved First Look Institute is a 501(c)(3) nonprofit organization. Immigration and Customs Enforcement is deploying a new intelligence system called Investigative ...",
+        "upvotes": 0,
+        "url": "https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Sign our petition to put pressure on the government to tighten electoral laws and shine more light on political donations. We need to know who is giving what to our political parties. Please type and ...",
+        "upvotes": 13,
+        "url": "https://www.opendemocracy.net/wfd/uk/ted-cantle/in-world-of-hate-fear-and-alternative-facts-education-really-does-matter"
+      },
+      {
+        "preview": "On April 22, 2009, Sean Hannity offered to undergo waterboarding for charity as proof that it's not torture. Yet Hanniity, who loves the thought of waterboarding others, has yet to fulfill that pledge...",
+        "upvotes": 1,
+        "url": "http://crooksandliars.com/2016/04/today-completes-seven-years-sean-hannity"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Facts about all manner of things have made headlines recently as the Trump administration continues...",
+        "upvotes": 5,
+        "url": "http://www.businessinsider.com/sociology-alternative-facts-2017-2"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Follow Us: Get the Upshot in your Inbox By QUOCTRUNG BUI, CLAIRE CAIN MILLER and KEVIN QUEALY FEB. 27, 2017 IMPORTANT NORMAL AND IMPORTANT ABNORMAL AND IMPORTANT Usage of “alternative fa...",
+        "upvotes": 9,
+        "url": "https://www.nytimes.com/interactive/2017/02/27/upshot/whats-normal-whats-important-a-ranking-of-20-events-in-the-trump-administration.html"
+      },
+      {
+        "preview": "Advertisement Supported by By Matthew Rosenberg, Adam Goldman and Michael S. Schmidt WASHINGTON — In the Obama administration’s last days, some White House officials scrambled to spread information ab...",
+        "upvotes": 11,
+        "url": "https://www.nytimes.com/2017/03/01/us/politics/obama-trump-russia-election-hacking.html?smid=tw-share&_r=0"
+      },
+      {
+        "preview": "Then-Sen. Jeff Sessions (R-Ala.) spoke twice last year with Russia’s ambassador to the United States, Justice Department officials said, encounters he did not disclose when asked about possible contac...",
+        "upvotes": 105,
+        "url": "https://www.washingtonpost.com/world/national-security/sessions-spoke-twice-with-russian-ambassador-during-trumps-presidential-campaign-justice-officials-say/2017/03/01/77205eda-feac-11e6-99b4-9e613afeb09f_story.html?utm_term=.34a21fe0f62a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2016-12",
+  "total_articles": 273,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US-Russia Relations (Obama & Trump Administrations)",
+      "core_keywords": ["obama", "russian", "russia", "trump", "administration", "president", "foreign", "white house"],
+      "importance_ratio": 0.0037
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2016 US Election Aftermath (Trump & Obama)",
+      "core_keywords": ["trump", "obama", "president", "election", "clinton", "republican", "democrat", "senate"],
+      "importance_ratio": 0.4396
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "American Social Issues and Free Press",
+      "core_keywords": ["american", "news", "free press", "child", "school", "law", "trade", "country"],
+      "importance_ratio": 0.2308
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Russia (Putin/Medvedev) and US Election Crime",
+      "core_keywords": ["putin", "medvedev", "trump", "police", "crime", "russian", "election", "president"],
+      "importance_ratio": 0.1905
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Israel-Palestine Conflict and US Policy",
+      "core_keywords": ["israel", "israeli", "palestinian", "kerry", "obama", "settlement", "policy", "resolution"],
+      "importance_ratio": 0.1355
+    }
+  ]
+}

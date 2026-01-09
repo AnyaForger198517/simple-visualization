@@ -1,0 +1,36 @@
+{
+  "month": "2019-03",
+  "total_articles": 139,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Gun Policy and Social Political Debates",
+      "core_keywords": ["gun", "law", "biden", "ocasio-cortez", "state", "american", "social"],
+      "importance_ratio": 0.2590
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump, Presidential Politics and National Policy",
+      "core_keywords": ["trump", "president", "state", "america", "democrat", "law", "vote"],
+      "importance_ratio": 0.1871
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Mueller Investigation and Trump's Election Legacy",
+      "core_keywords": ["trump", "mueller", "president", "election", "democrat", "white house", "news"],
+      "importance_ratio": 0.3741
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Abortion and Urban Social Incidents",
+      "core_keywords": ["abortion", "woman", "police", "chicago", "city", "news", "national"],
+      "importance_ratio": 0.1007
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "University Campus and Free Speech Debates",
+      "core_keywords": ["student", "university", "campus", "free speech", "president", "school", "border"],
+      "importance_ratio": 0.0791
+    }
+  ]
+}

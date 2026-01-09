@@ -1,0 +1,270 @@
+{
+  "month": "2014-08",
+  "total_articles": 96,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "ha",
+        "economic",
+        "woman",
+        "professor",
+        "england",
+        "wa",
+        "market",
+        "standard",
+        "socialism",
+        "nonsense",
+        "world",
+        "social",
+        "charter",
+        "country",
+        "thinking"
+      ],
+      "topic_weights": [
+        298.6656279847748,
+        232.15849079406797,
+        216.47331040987865,
+        212.1888779458841,
+        199.07109735053794,
+        198.72229187614383,
+        194.4927582275379,
+        156.13953198445964,
+        152.1502543013382,
+        126.49385998195292,
+        116.29418981420928,
+        114.87646216288242,
+        108.80727968796626,
+        108.69115650558922,
+        105.18764819579408
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "tax",
+        "reply",
+        "gun",
+        "post",
+        "posted",
+        "pay",
+        "individual",
+        "view",
+        "corporate",
+        "private",
+        "corporation",
+        "ha",
+        "caught",
+        "wa",
+        "government"
+      ],
+      "topic_weights": [
+        61.11111795982601,
+        56.46861310017702,
+        27.7900272284382,
+        26.591403616212034,
+        26.35839536969574,
+        25.73436840188047,
+        25.111169541108303,
+        24.72759508059756,
+        23.33392493191896,
+        22.400528751750088,
+        21.648772842316646,
+        19.585925628306125,
+        17.473165248020116,
+        16.676650224639832,
+        15.180512924921308
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "police",
+        "woman",
+        "investigator",
+        "evidence",
+        "murder",
+        "killer",
+        "clue",
+        "case",
+        "man",
+        "help",
+        "suspect",
+        "crime",
+        "wa",
+        "death",
+        "wife"
+      ],
+      "topic_weights": [
+        120.69218996631099,
+        115.34865895956787,
+        111.19648389890094,
+        79.18161468699759,
+        76.77705546893749,
+        76.52698673358525,
+        58.62875238279202,
+        57.55813769619259,
+        56.81205921468389,
+        49.520381144108924,
+        46.14989804087559,
+        41.06633719941932,
+        40.65879727118179,
+        39.667095569857395,
+        38.94170454159161
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "obama",
+        "ha",
+        "wa",
+        "president",
+        "state",
+        "american",
+        "child",
+        "democrat",
+        "border",
+        "republican",
+        "country",
+        "percent",
+        "student",
+        "house",
+        "group"
+      ],
+      "topic_weights": [
+        235.6639511819902,
+        229.56430237304608,
+        202.131684746048,
+        185.91488310426465,
+        155.55371987165015,
+        112.67953190287906,
+        111.40584237812455,
+        101.15211289488028,
+        100.28886275413132,
+        96.90740925513371,
+        91.43353310302669,
+        88.68270253003514,
+        85.92485169586936,
+        81.59539041416735,
+        73.52725267368825
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "black",
+        "police",
+        "wa",
+        "ferguson",
+        "white",
+        "brown",
+        "american",
+        "ha",
+        "officer",
+        "state",
+        "america",
+        "shooting",
+        "shot",
+        "news",
+        "michael"
+      ],
+      "topic_weights": [
+        150.43920682793478,
+        139.27640195824637,
+        138.53453842542058,
+        88.86273474982798,
+        82.4342290157377,
+        64.96430324069124,
+        59.62426965590593,
+        59.623118905081604,
+        58.3927624186615,
+        51.07084118319036,
+        47.343541113491,
+        44.921923672195746,
+        41.275963221577165,
+        37.444701371555865,
+        36.88757491694814
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 57,
+    "4": 30,
+    "1": 6,
+    "2": 1,
+    "0": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ompeting in this sad contest with, say, the Belgian Congo. I think socialism has proved to be a bad idea for poor countries. And environmentalism is socialism redux (really, how often does the arithme...",
+        "upvotes": 2,
+        "url": "http://www.deirdremccloskey.com/editorials/earth.php"
+      },
+      {
+        "preview": "GET BREAKING NEWS IN YOUR BROWSER. CLICK HERE TO TURN ON NOTIFICATIONS. X It’s time for Charlie Baker to make up his mind whose side he’s on. The law-abiding taxpaying U.S. citizens, or the hordes of ...",
+        "upvotes": 7,
+        "url": "http://bostonherald.com/news_opinion/columnists/howie_carr/2014/08/carr_charlie_baker_s_baying_like_a_moonbat"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The numbers provided are in graphics and are broken down into “OFO” and “OBP.” The Customs and Border Protection agency is divided into the Office of Field Operations (OFO) and the Office of Border Pa...",
+        "upvotes": 3,
+        "url": "http://www.breitbart.com/Breitbart-Texas/2014/08/03/Leaked-CBP-Report-Shows-Entire-World-Exploiting-Open-US-Border"
+      },
+      {
+        "preview": "MINNEAPOLIS (WCCO) — People eating at a Stillwater restaurant Tuesday noticed a new fee added to their bill. Owners of the Oasis Cafe are charging a 35 cent minimum wage fee. They say it’s to offset t...",
+        "upvotes": 17,
+        "url": "http://minnesota.cbslocal.com/2014/08/05/minn-restaurant-charging-customers-minimum-wage-fee/"
+      },
+      {
+        "preview": "BOSTON (CBS/AP) – Gov. Deval Patrick has signed a sweeping overhaul of Massachusetts’ gun law on Wednesday. The bill stiffens penalties for some gun-based crimes, creates a Web-based portal within the...",
+        "upvotes": 3,
+        "url": "http://boston.cbslocal.com/2014/08/13/mass-governor-signs-legislation-overhauling-state-gun-laws/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Forensic evidence gives investigators critical leads in cases involving a suspicious car fire, a strange bite mark, a series of poisonings and more. After a woman dies in a car fire, police suspect sh...",
+        "upvotes": 1,
+        "url": "http://www.netflix.com/WiPlayer?movieid=80000701&trkid=13633959"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Another prominent liberal website has fallen for a “too good to check” story about a prominent conservative woman. Jezebel, which focuses on feminist and progressive issues, posted an article titled “...",
+        "upvotes": 4,
+        "url": "http://dailycaller.com/2014/07/31/popular-liberal-website-falls-for-spoof-article-claiming-sarah-palin-interviewed-racist/"
+      },
+      {
+        "preview": "Follow Us National Review In what follows, I will be making the case for the current Republican members of Congress, and all new Republican candidates running for House election to sign, ASAP, a pledg...",
+        "upvotes": 5,
+        "url": "http://nationalreview.com/postmodern-conservative/384310/case-formally-threatening-obama-impeachment-right-now-carl-eric-scott"
+      },
+      {
+        "preview": "The American people have risen up in response to a rallying cry from Sens. Jeff Sessions (R-AL) and Ted Cruz (R-TX), overloading the phone lines on Capitol Hill to pressure their members of Congress t...",
+        "upvotes": 10,
+        "url": "http://www.vdare.com/posts/jeff-sessions-call-for-citizens-to-phone-congress-is-working"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Saying that someone can’t teach a particular subject because of their skin color is kind of racist, isn’t it? Eric Owens of the Daily Caller reports. Black community leaders in Fresno, Calif., are urg...",
+        "upvotes": 75,
+        "url": "http://collegeinsurrection.com/2014/07/black-leaders-in-fresno-say-a-white-man-cant-teach-cultural-studies/"
+      },
+      {
+        "preview": "This op-ed was co-written by Taylor Woolrich, a junior at Dartmouth College this fall. She is speaking at the Student’s for Concealed Carry National Conference in Washington D.C. on Tuesday, August 5t...",
+        "upvotes": 14,
+        "url": "http://dailycaller.com/2014/08/05/why-legalizing-concealed-carry-is-the-answer-to-persistent-stalkers/"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 8,
+        "url": "http://www.nationalreview.com/corner/384759/abortion-provider-calls-taking-life-unborn-sacred-decision-andrew-johnson"
+      }
+    ]
+  }
+}

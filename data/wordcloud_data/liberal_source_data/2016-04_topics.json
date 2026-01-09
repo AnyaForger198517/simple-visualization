@@ -1,0 +1,285 @@
+{
+  "month": "2016-04",
+  "total_articles": 277,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "hillary",
+        "american",
+        "tax",
+        "president",
+        "policy",
+        "clinton",
+        "obama",
+        "percent",
+        "sander",
+        "government",
+        "political",
+        "union",
+        "money"
+      ],
+      "topic_weights": [
+        721.3177052307481,
+        310.5200691503015,
+        272.1561626264417,
+        236.35508210485406,
+        227.6789199804499,
+        211.3249489549446,
+        174.182184589575,
+        164.70585296440666,
+        163.43910180721682,
+        160.8049961239768,
+        138.7247795893719,
+        131.28557026710817,
+        119.83261177493506,
+        115.33673889428242,
+        114.68527187796377
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "law",
+        "wa",
+        "court",
+        "ha",
+        "city",
+        "right",
+        "group",
+        "case",
+        "voter",
+        "supreme",
+        "judge",
+        "justice",
+        "federal",
+        "company"
+      ],
+      "topic_weights": [
+        525.729466760578,
+        440.71400606336044,
+        417.8269182995808,
+        416.77932901868604,
+        302.2238148565756,
+        173.0463530034067,
+        171.90813744925205,
+        146.2751900768775,
+        142.77373033413326,
+        141.7877721338321,
+        137.02307608145057,
+        133.29146485836506,
+        132.59270423577607,
+        132.47462984022732,
+        129.4037232395601
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "clinton",
+        "sander",
+        "campaign",
+        "ha",
+        "wa",
+        "state",
+        "democratic",
+        "primary",
+        "hillary",
+        "candidate",
+        "bernie",
+        "obama",
+        "democrat",
+        "delegate",
+        "republican"
+      ],
+      "topic_weights": [
+        1127.264918477695,
+        722.1491589964218,
+        430.7112757405156,
+        394.2361774792721,
+        377.7524233582523,
+        333.2300144839583,
+        311.0762755296237,
+        303.59429495672777,
+        298.51079439215334,
+        276.8583578397878,
+        273.2935644039467,
+        262.2811024888041,
+        246.3076643984992,
+        237.6478356835824,
+        232.03666946678618
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "liberal",
+        "problem",
+        "black",
+        "white",
+        "conservative",
+        "law",
+        "work",
+        "government",
+        "mean",
+        "capitalism",
+        "tax",
+        "political",
+        "ha",
+        "doesn"
+      ],
+      "topic_weights": [
+        978.6764421614597,
+        665.9110778884108,
+        606.5708243305527,
+        569.4896712032728,
+        520.2093632072816,
+        477.77507834283483,
+        474.8715316694608,
+        460.1968644788675,
+        452.8673722611111,
+        406.2259746571579,
+        347.41090110136037,
+        344.94263117208186,
+        342.7367121544424,
+        330.18187137720264,
+        324.32069985090527
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "woman",
+        "ha",
+        "wa",
+        "cruz",
+        "republican",
+        "donald",
+        "percent",
+        "men",
+        "party",
+        "abortion",
+        "gender",
+        "candidate",
+        "gop",
+        "indiana"
+      ],
+      "topic_weights": [
+        1325.392684720504,
+        474.70270960687316,
+        244.59948405763032,
+        240.1620996109177,
+        205.31495273416385,
+        192.21512023751066,
+        180.6513879748623,
+        148.94963039073278,
+        140.49848652673091,
+        111.40454767841304,
+        111.31193592084853,
+        102.22374463007986,
+        91.22247572563485,
+        90.1133598890574,
+        89.5742186429071
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 71,
+    "1": 95,
+    "4": 55,
+    "0": 53,
+    "3": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Tell Coca-Cola, PepsiCo, and Nestlé to stop fueling the climate crisis Your government should work for YOU—not fossil fuel companies. Help us end fossil fuel subsidies. by Hillary Clinton's campaign a...",
+        "upvotes": 6,
+        "url": "http://www.greenpeace.org/usa/campaign-updates/hillary-clintons-connection-oil-gas-industry/"
+      },
+      {
+        "preview": "By Bryan A. Garner April 1, 2016, 2:50 am CDT Fascinated by the word soothsayer, Scalia took a photo of the fortune-teller’s sign. But he refused Garner’s urging to have his fortune read. Photograph C...",
+        "upvotes": 3,
+        "url": "http://www.abajournal.com/magazine/article/bryan_garners_tribute_to_his_friend_and_co_author_antonin_scalia/?utm_source=maestro&utm_medium=email&utm_campaign=weekly_email"
+      },
+      {
+        "preview": "Last modified on Wed 29 Nov 2017 05.48 EST ‘Sharing” is one of the most rhetorically abused virtues of the age. First we had the euphemism “file-sharing”, for duplicating and uploading copies of album...",
+        "upvotes": 9,
+        "url": "http://www.theguardian.com/books/2016/apr/02/whats-yours-is-mine-against-the-sharing-economy-tom-slee-review"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A Texas-based \"values\" group is blasting a number of major American companies for having the nerve to demand equal rights for LGBT people. Texas Values called Apple, Disney, Intel and the NCAA \"corpor...",
+        "upvotes": 6,
+        "url": "http://www.huffingtonpost.com/entry/texas-values-disney-christians_us_56fc81c9e4b0a06d5804bf27"
+      },
+      {
+        "preview": "Verizon customers planning on upgrading to the iPhone SE or another new smartphone should do so sooner rather than later, as the U.S.'s largest carrier has outlined plans to introduce a new $20 upgrad...",
+        "upvotes": 3,
+        "url": "http://www.macrumors.com/2016/03/31/verizon-20-dollar-smartphone-upgrade-fee/"
+      },
+      {
+        "preview": "What, exactly, was the Supreme Court doing on Tuesday with its bizarre, lengthy, highly unusual order to the parties in a major case involving religious freedom and contraception? The optimistic answe...",
+        "upvotes": 8,
+        "url": "http://takingnote.blogs.nytimes.com/2016/03/31/the-growing-mess-of-the-supreme-courts-contraception-case/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The presidential primary has been a wrenching experience for the GOP so far — and it’s about to get even worse. Donald TrumpDonald TrumpThe Memo: Bid...",
+        "upvotes": 1,
+        "url": "http://thehill.com/homenews/campaign/274742-gop-nears-the-breaking-point"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Hillary ClintonHillary Diane Rodham ClintonHoward Stern rips vaccine opponents: 'F--- their freedom, I want my freedom to live' New Hampshire Democra...",
+        "upvotes": 10,
+        "url": "http://thehill.com/policy/national-security/274840-report-clinton-could-be-interviewed-by-fbi-within-days"
+      },
+      {
+        "preview": "We need Hillary. Our country sits on the precipice. We will either continue to rise up out of the ashes of the Bush presidency or go down in flames. The past seven years have been a struggle, to say t...",
+        "upvotes": 3,
+        "url": "http://amsterdamnews.com/news/2016/mar/31/amsterdam-news-endorses-hillary-clinton-president/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "ention on a problem. But on their own they frighten the undecided, attack each other, go off on dubious tangents, and burn out in failure. An example is universal health coverage. Worldwide, the cheap...",
+        "upvotes": 2,
+        "url": "http://www.zompist.com/libmoral.html"
+      },
+      {
+        "preview": "You know what we need more of in this world? No, no. I mean aside from Mr. Wizard episodes and eternal puppies. We need more slow-cooked, fall-apart tender meat sandwiches. Sure, we've got barbecue—pu...",
+        "upvotes": 1,
+        "url": "http://www.seriouseats.com/2014/01/braised-oxtail-and-gruyere-sandwiches-recipe.html"
+      },
+      {
+        "preview": "Стефан Ванли 26.04.2016 Uncategorized Leave a Comment Languages are often victims of politicians and society manipulations in various movements for independence and other similar formations of nationa...",
+        "upvotes": 1,
+        "url": "http://www.the-dialogue.com/en/en34-language-and-the-national-identity/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "WASHINGTON -- Critics of Donald Trump's presidential campaign often complain about the way the media has reported on his candidacy. It is not just the incessant coverage that riles them. It's the perc...",
+        "upvotes": 19,
+        "url": "http://www.huffingtonpost.com/entry/donald-trump-fact-check_us_56fc375fe4b0daf53aee9175"
+      },
+      {
+        "preview": "Fresh off of her delightful Twitter takedown listing all the ways she believes Donald Trump is a “loser,” Sen. Elizabeth Warren appeared on the Late Show on Wednesday to shred the Republican front-run...",
+        "upvotes": 1,
+        "url": "http://www.motherjones.com/mixed-media/2016/03/elizabeth-warren-donald-trump"
+      },
+      {
+        "preview": "Menu INDIANAPOLIS -- The governor's office has received several calls this week from women describing the details of their period. \"I need to get a message to the Governor that I am on day three of my...",
+        "upvotes": 48,
+        "url": "http://www.theindychannel.com/news/local-news/periods-for-pence-page-asks-women-to-tell-the-governor-about-their-periods"
+      }
+    ]
+  }
+}

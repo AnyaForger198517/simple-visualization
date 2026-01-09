@@ -1,0 +1,275 @@
+{
+  "month": "2019-10",
+  "total_articles": 135,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "october",
+        "posted",
+        "trump",
+        "wa",
+        "schiff",
+        "president",
+        "did",
+        "ha",
+        "deplorable",
+        "whistleblower",
+        "camera",
+        "report",
+        "guy",
+        "state",
+        "dog"
+      ],
+      "topic_weights": [
+        797.2228146815742,
+        703.5149661773193,
+        122.91059069086623,
+        82.92555622688744,
+        53.96119837251598,
+        38.88360366195534,
+        34.891622572401175,
+        33.53829217074646,
+        29.020434688060647,
+        27.55571618610666,
+        26.330212809668595,
+        25.170790148936337,
+        22.82109601092193,
+        19.45463843865127,
+        19.13931425964652
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "president",
+        "trump",
+        "wa",
+        "ukraine",
+        "house",
+        "bolton",
+        "public",
+        "china",
+        "zelensky",
+        "ha",
+        "told",
+        "sondland",
+        "right",
+        "white",
+        "security"
+      ],
+      "topic_weights": [
+        499.4735747173225,
+        422.65026746213306,
+        384.8600888165578,
+        320.1090859691751,
+        275.11019110242177,
+        254.71361888118835,
+        238.63921944493947,
+        230.17557241423847,
+        213.49358146297504,
+        206.47934725048998,
+        194.3155728643051,
+        192.12904129079587,
+        191.29649055754373,
+        189.76775105402226,
+        182.92978151192284
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "dog",
+        "president",
+        "twitter",
+        "schiff",
+        "house",
+        "wa",
+        "republican",
+        "news",
+        "impeachment",
+        "democrat",
+        "october",
+        "image",
+        "whistleblower",
+        "pic"
+      ],
+      "topic_weights": [
+        304.2394754086271,
+        197.47927957198235,
+        129.6978252733674,
+        129.03421896042772,
+        118.02433334533599,
+        111.09248582057867,
+        108.92295444046283,
+        105.97098073507462,
+        105.04133871434489,
+        104.21870557598346,
+        103.04563939977625,
+        82.55274969792876,
+        75.98923730264157,
+        75.7618612445371,
+        73.7625395849045
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "change",
+        "president",
+        "woman",
+        "climate",
+        "culture",
+        "world",
+        "called",
+        "man",
+        "did",
+        "true",
+        "data",
+        "claim"
+      ],
+      "topic_weights": [
+        369.41612450451237,
+        159.76586530959878,
+        151.85679234793187,
+        120.76775233708867,
+        92.87342406224394,
+        91.1956192111255,
+        77.35838000189356,
+        68.2300679997388,
+        61.78606737167068,
+        52.087203507427226,
+        51.338031274560876,
+        51.096848560869255,
+        50.18007213675186,
+        48.73345558255522,
+        48.204084510262845
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "hill",
+        "campaign",
+        "ha",
+        "state",
+        "trump",
+        "election",
+        "house",
+        "run",
+        "california",
+        "congress",
+        "district",
+        "congressional",
+        "candidate",
+        "gop",
+        "wa"
+      ],
+      "topic_weights": [
+        151.8315796760791,
+        130.23969319947466,
+        111.3967058716881,
+        107.87998487757304,
+        80.82031253975441,
+        79.64497767110966,
+        77.59843979017482,
+        68.8953560444834,
+        65.66345715572419,
+        60.93156352687875,
+        59.49201882527209,
+        56.928143216022086,
+        56.234360283603024,
+        55.32256768118352,
+        54.19816321247124
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 67,
+    "2": 38,
+    "1": 10,
+    "4": 19,
+    "0": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "exthechick - Ragebunny. Hopping all around. at October 02, 2019 03:15 PM (mf5HN) --------- I think Junior was kidding. Or else he was invoking the good and plenty clause. Posted by: bluebell Penumbras...",
+        "upvotes": 9,
+        "url": "http://acecomments.mu.nu/?post=383560"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A letter emerged late on Monday from the Australian government that directly disputed the accuracy of a New York Times report that claimed that President Donald Trump “pushed” Australia to help Attorn...",
+        "upvotes": 78,
+        "url": "https://www.dailywire.com/news/breaking-letter-from-australian-official-emerges-that-casts-doubt-on-new-york-times-report/"
+      },
+      {
+        "preview": "By Piers Morgan for MailOnline Published: 11:32 EDT, 30 September 2019 | Updated: 12:02 EDT, 30 September 2019 734 View comments I have a question about this Ukraine scandal. It’s a simple question, b...",
+        "upvotes": 90,
+        "url": "https://www.dailymail.co.uk/news/article-7521237/Its-time-start-asking-Joe-Biden-Ukraine-questions-doesnt-want-answer.html"
+      },
+      {
+        "preview": "WASHINGTON (AP) — President Donald Trump’s reelection campaign and the Republican National Committee raised $125 million in the third quarter of the year, a presidential fundraising record. The pro-Tr...",
+        "upvotes": 24,
+        "url": "https://apnews.com/3b5b5d61556f4ca49402477de9d28bdb"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Alabama Democrat Senate candidate Doug Jones gets into his car after speaking to the media, Tuesday, Nov. 14, 2017, in Birmingham, Ala. Jones runs against former judge Roy Moore. (AP Photo/Brynn Ander...",
+        "upvotes": 184,
+        "url": "https://www.redstate.com/alexparker/2019/09/30/congressional-democrat-breaks-party-stands-justice-dont-pursue-impeachment-based-hearsay/"
+      },
+      {
+        "preview": "On Sunday, President Trump rightly said he deserved to meet his accuser. When a group of Democrats an individual tries to bring down the President of the United States by filing a dishonest and inaccu...",
+        "upvotes": 155,
+        "url": "https://www.redstate.com/elizabeth-vaughn/2019/09/30/actress-stands-trump-anyone-right-face-accuser.-anonymous-st-st"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 11,
+        "url": "https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2019/09/30/abc-cbs-push-claim-trump-threatening-life-whistleblower"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Sign up with Thank you . Your account has been registered, and you are now logged in. Check your email for details. Invalid password or account does not exist Sign in with Thank you. Your purchase was...",
+        "upvotes": 46,
+        "url": "https://www.bozemandailychronicle.com/news/politics/state-warns-montanans-about-republican-look-a-like-census-mailers/article_b697db15-1485-5206-8efe-5ba28e7c7074.html?"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Mostly law professors | Sometimes contrarian | Often libertarian | Always independent Free Speech Eugene Volokh | 9.30.2019 8:02 AM From...",
+        "upvotes": 8,
+        "url": "https://reason.com/2019/09/30/libel-lawsuit-over-university-rape-allegations-can-proceed/"
+      },
+      {
+        "preview": "On Monday, a Twitter account calling itself “Antifa Action of America” posted a harrowing image to Twitter. The account, whose only description of itself is the same as its featured photo — “F*** Amer...",
+        "upvotes": 0,
+        "url": "https://www.redstate.com/alexparker/2019/09/30/antifa-twitter-account-posts-image-armed-young-people-ready-civil-war.-far-fetched"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The Vermont senator was set to attend a presidential gun safety forum in Nevada. Bernie Sanders hospitalized, campaign events canceled Sen. Bernie Sanders, 78, was hospitalized Tuesday night in Las Ve...",
+        "upvotes": 583,
+        "url": "https://abcnews.go.com/Politics/bernie-sanders-78-canceled-events-notice-hospitalized/story?id=66003850"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The impeachment narrative pushed by House Democrats needs to be called exactly what it is, which is a political coup. Contrary to what Speaker Nancy ...",
+        "upvotes": 0,
+        "url": "https://thehill.com/opinion/judiciary/464219-the-impeachment-agenda-of-democrats-is-a-political-coup"
+      },
+      {
+        "preview": "The Virginia police officer who was suspended for turning over an illegal immigrant to Immigrations and Customs Enforcement is returning to full duty on Oct. 4. The officer was at the site of the cras...",
+        "upvotes": 46,
+        "url": "https://www.theepochtimes.com/police-officer-suspended-for-turning-illegal-alien-over-to-ice-will-return-to-full-duty_3105671.html"
+      }
+    ]
+  }
+}

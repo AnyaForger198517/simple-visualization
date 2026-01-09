@@ -1,0 +1,285 @@
+{
+  "month": "2020-01",
+  "total_articles": 80,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "ha",
+        "sander",
+        "government",
+        "bernie",
+        "pelosi",
+        "warren",
+        "wa",
+        "campaign",
+        "court",
+        "democrat",
+        "public",
+        "impeachment",
+        "democratic",
+        "establishment",
+        "proposal"
+      ],
+      "topic_weights": [
+        55.858336827920475,
+        46.62389563599064,
+        33.71505546416979,
+        33.45053833790973,
+        29.109938436159663,
+        24.71465653751996,
+        23.43859547730919,
+        22.29769897886652,
+        21.849217474834198,
+        21.463908030226126,
+        21.287228737768828,
+        20.76430652749661,
+        20.60200070602559,
+        20.467109155779845,
+        19.386700093479178
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "house",
+        "police",
+        "report",
+        "law",
+        "impeachment",
+        "american",
+        "bank",
+        "state",
+        "million",
+        "told",
+        "government",
+        "president",
+        "speech"
+      ],
+      "topic_weights": [
+        162.53809873414178,
+        67.39293441088913,
+        53.69296601004784,
+        42.380186187452,
+        40.649758979157525,
+        35.08712217808431,
+        32.784314488108485,
+        32.02437552841651,
+        31.109435312339826,
+        30.746372534299386,
+        30.323665760276175,
+        29.808645354152162,
+        29.54061395052596,
+        28.14636203695492,
+        28.024030131801364
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "biden",
+        "advertisement",
+        "president",
+        "wa",
+        "joe",
+        "network",
+        "hunter",
+        "trump",
+        "son",
+        "impeachment",
+        "news",
+        "trial",
+        "join",
+        "house",
+        "january"
+      ],
+      "topic_weights": [
+        32.65616188351025,
+        24.9035523920453,
+        14.736293040089517,
+        12.88966530983964,
+        12.5263206230324,
+        12.067366550744058,
+        11.762861881591748,
+        10.331840781824805,
+        8.671283292710752,
+        8.416160044078367,
+        8.160994353254033,
+        8.106994744354699,
+        7.492405855374632,
+        6.903534479859536,
+        6.621849112478038
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "iran",
+        "life",
+        "woman",
+        "men",
+        "america",
+        "god",
+        "child",
+        "man",
+        "iranian",
+        "iraq",
+        "did",
+        "state",
+        "homeless"
+      ],
+      "topic_weights": [
+        121.50967243777887,
+        46.08510927711556,
+        43.343880333700184,
+        38.76208320659171,
+        38.730958516862934,
+        29.27175019916652,
+        28.516339824132764,
+        28.206707774653978,
+        27.02156262697823,
+        24.862431275542573,
+        23.160460764095717,
+        22.697482133569345,
+        22.18973157992915,
+        20.89034455680825,
+        19.727426968197868
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "news",
+        "ha",
+        "american",
+        "medium",
+        "impeachment",
+        "democrat",
+        "google",
+        "soleimani",
+        "state",
+        "senate",
+        "house",
+        "report"
+      ],
+      "topic_weights": [
+        133.56916524276778,
+        128.64311857596354,
+        117.34182498606145,
+        83.44379469445275,
+        78.74126977648092,
+        76.52297089126166,
+        71.75603268068136,
+        56.74498167412604,
+        44.8985381209879,
+        43.34606253029888,
+        42.213153945474986,
+        39.94485190870268,
+        39.290650911172946,
+        38.061122149758624,
+        34.47799856535364
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 25,
+    "4": 33,
+    "3": 9,
+    "0": 8,
+    "2": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "COVINGTON, Ky. () - CNN agreed Tuesday to settle a lawsuit with Covington Catholic student Nick Sandmann. The amount of the settlement was not made public during a hearing at the federal courthouse in...",
+        "upvotes": 13,
+        "url": "https://www.fox19.com/2020/01/07/cnn-settles-lawsuit-with-nick-sandmann/"
+      },
+      {
+        "preview": "The conventional belief regarding Nancy Pelosi's holding of the impeachment articles is that, as someone put it, she'd pulled the pin on the grenade and then didn't know what to do. Yet even if she ha...",
+        "upvotes": 8,
+        "url": "https://www.americanthinker.com/blog/2020/01/is_pelosi_timing_the_impeachment_articles_release_so_as_to_damage_bernie_.html"
+      },
+      {
+        "preview": "Socialist Sen. Bernie Sanders’ (I-VT) radical agenda would effectively double the size of government with at least $60 trillion in new spending, according to modest estimates. The radical leftist has ...",
+        "upvotes": 7,
+        "url": "https://www.breitbart.com/politics/2020/01/14/bernie-sanders-radical-agenda-would-double-government-size-increase-spending-by-over-60-trillion/?utm_medium=social&utm_source=facebook"
+      }
+    ],
+    "1": [
+      {
+        "preview": " 111 K Street NE Suite 600 Washington, DC 20002 Government goes to those who show up.  makes it easy to hold your elected officials accountable in our fully interactive Action Center. Want to see how ...",
+        "upvotes": 44,
+        "url": "http://www.freedomworks.org/content/congress-destroying-our-constitution-and-bankrupts-america"
+      },
+      {
+        "preview": "The biggest box office bomb of 2019 may be Universal’s Taylor Swift-starring, CGI-heavy, Cats, which looks to be on track to lose as much as $100 million for the studio. The film, which opened Christm...",
+        "upvotes": 423,
+        "url": "https://www.breitbart.com/entertainment/2019/12/31/cats-on-track-to-lose-100-million-as-audiences-shun-taylor-swift-film/"
+      },
+      {
+        "preview": "NEW YORK (CBSNewYork/AP) — As New York celebrates the start of 2020, a host of new laws are taking effect at midnight — including one releasing scores of potentially dangerous suspects from jail and b...",
+        "upvotes": 61,
+        "url": "https://newyork.cbslocal.com/2019/12/31/all-crimes-new-york-bail-reform/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The New York Times reported on Monday that hackers from the Russian military intelligence unit known as the GRU succeeded in hacking Burisma, the Ukrainian natural gas company that Hunter Biden sat on...",
+        "upvotes": 86,
+        "url": "https://pjmedia.com/trending/burisma-hacked-joe-biden-faces-potentially-damaging-document-dumps/"
+      },
+      {
+        "preview": "Advertisement Leading Democrat presidential candidate former Vice President Joe Biden posted an emotional tweet Tuesday night about son Hunter Biden toward the end of the Democrat’s debate in Iowa. Bi...",
+        "upvotes": 405,
+        "url": "https://www.thegatewaypundit.com/2020/01/joe-biden-emotional-tweet-on-hunter-republicans-have-savaged-my-only-surviving-son/"
+      },
+      {
+        "preview": "NEW YORK (AP) — CBS was the first major network to break away from President Donald Trump’s impeachment trial in the Senate on Tuesday, allowing its viewers to watch their regular afternoon fare inste...",
+        "upvotes": 7,
+        "url": "https://apnews.com/33feb901a6609124301c4130de7549db"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Demonstrators took to the streets across the U.S. on Saturday to protest the Trump administration's killing of a top Iranian general and decision to send about 3,000 more soldiers to the Middle East. ...",
+        "upvotes": 129,
+        "url": "https://www.usatoday.com/story/news/nation/2020/01/04/iraq-iran-tensions-protests-condemn-u-s-actions-middle-east/2807176001/"
+      },
+      {
+        "preview": "analysis The U.S. dealt a major blow in taking out Iran’s imperial strategist. But the mullahs’ next move likely won’t be a dramatic escalation. A boy in Tehran, Iran, carries a portrait of Iranian Re...",
+        "upvotes": 12,
+        "url": "https://www.politico.com/news/magazine/2020/01/03/iran-loses-its-imperial-strategist-093175"
+      },
+      {
+        "preview": " by: Associated Press, Jennifer McGraw The blowback over the U.S. killing of a top Iranian general mounted Sunday as Iran announced it will no longer abide by the limits contained in the 2015 nuclear ...",
+        "upvotes": 34,
+        "url": "https://ktla.com/2020/01/05/iranian-state-tv-reports-iran-will-no-longer-abide-by-any-limits-of-its-2015-nuclear-deal/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "When I was a kid, New Year’s Eve night was one of my favorites. My parents and I would gather with one or two of my uncle’s families. It was the only night of the year we could hang out until midnight...",
+        "upvotes": 68,
+        "url": "https://noqreport.com/2020/01/01/yes-anderson-coopers-cock-story-mother-live-television-issue/"
+      },
+      {
+        "preview": "Chief Washington Correspondent CBS News Host Major Garrett said during the most recent broadcast of CBS News’ “Face The Nation” that President Donald Trump’s efforts, and subsequent successes, to impr...",
+        "upvotes": 153,
+        "url": "https://www.dailywire.com/news/cbs-news-reporter-highlights-major-trump-accomplishment-as-most-underreported-story"
+      },
+      {
+        "preview": "Rep. Al Green (D, Tex.) has remained the most quoted Democratic member . . . . by Republicans. Green has given Republicans quotable gems to show a long-standing and unending effort to impeach Trump fr...",
+        "upvotes": 249,
+        "url": "https://jonathanturley.org/2020/01/01/rep-green-tells-msnbc-that-the-genesis-for-trumps-impeachment-began-before-he-was-elected/"
+      }
+    ]
+  }
+}

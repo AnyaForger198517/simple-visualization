@@ -1,0 +1,36 @@
+{
+  "month": "2015-10",
+  "total_articles": 393,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Gun control, crime and social issues related to American government",
+      "core_keywords": ["gun control", "crime", "police", "Hillary Clinton", "American government", "social issues"],
+      "importance_ratio": 41.48
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2016 presidential campaign (Cruz, Clinton, marriage and debate)",
+      "core_keywords": ["Ted Cruz", "Hillary Clinton", "presidential campaign", "marriage", "debate", "White House"],
+      "importance_ratio": 4.58
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Tax, income and social policies for American workers",
+      "core_keywords": ["tax", "income", "American workers", "democrat", "social policy", "education"],
+      "importance_ratio": 9.67
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Republican presidential candidates (Trump, Bush, Rubio)",
+      "core_keywords": ["Donald Trump", "Republican party", "vote", "Bush", "Rubio", "conservative"],
+      "importance_ratio": 16.03
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Obama administration, law and Hillary's email scandal",
+      "core_keywords": ["Obama", "law", "Hillary Clinton email", "national government", "court", "state department"],
+      "importance_ratio": 28.24
+    }
+  ]
+}

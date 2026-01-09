@@ -1,0 +1,36 @@
+{
+  "month": "2016-11",
+  "total_articles": 331,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Russian Propaganda and Fake News in Media",
+      "core_keywords": ["russian", "russia", "fake news", "propaganda", "media", "climate", "government", "story"],
+      "importance_ratio": 0.0483
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Donald Trump's Presidential Election Campaign",
+      "core_keywords": ["trump", "donald", "president", "election", "hillary", "clinton", "political", "student"],
+      "importance_ratio": 0.5015
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2016 US Election Voting and Party Politics",
+      "core_keywords": ["election", "vote", "voter", "republican", "democrat", "campaign", "candidate", "party"],
+      "importance_ratio": 0.2205
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Hillary Clinton's Email Scandal and FBI Probe",
+      "core_keywords": ["clinton", "email", "fbi", "senate", "law", "foundation", "investigation", "tax"],
+      "importance_ratio": 0.0967
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social Issues and Migrant Crisis in Europe",
+      "core_keywords": ["migrant", "police", "law", "school", "woman", "child", "home", "state"],
+      "importance_ratio": 0.1329
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2015-01",
+  "total_articles": 230,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "tax",
+        "market",
+        "money",
+        "financial",
+        "worker",
+        "work",
+        "ha",
+        "free",
+        "income",
+        "economic",
+        "price",
+        "rent",
+        "economy",
+        "housing",
+        "value"
+      ],
+      "topic_weights": [
+        299.1018112707337,
+        220.8904646576695,
+        150.17322242651892,
+        142.92286949582166,
+        134.56911241152932,
+        115.08188196589788,
+        115.0346105462519,
+        114.80581910604958,
+        110.35844830244756,
+        109.46259948025148,
+        106.07303513415758,
+        104.62607854972171,
+        102.73960797895977,
+        97.56726513522862,
+        94.52206213407071
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "ha",
+        "wa",
+        "right",
+        "law",
+        "court",
+        "country",
+        "voting",
+        "government",
+        "human",
+        "speech",
+        "school",
+        "city",
+        "free",
+        "federal"
+      ],
+      "topic_weights": [
+        500.9868221535761,
+        379.5678829668664,
+        349.7743421774129,
+        328.6733060275004,
+        317.620160833147,
+        229.61693240769677,
+        202.7499978506298,
+        165.35319401847306,
+        163.31073602415677,
+        161.13663638540663,
+        157.00430201628998,
+        151.38767186463875,
+        144.3829212110433,
+        127.041066173184,
+        125.17332977909882
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "climate",
+        "wa",
+        "change",
+        "oil",
+        "company",
+        "world",
+        "book",
+        "economy",
+        "fuel",
+        "ha",
+        "pipeline",
+        "divestment",
+        "investment",
+        "fossil",
+        "gas"
+      ],
+      "topic_weights": [
+        128.43942781946475,
+        118.84935505077313,
+        109.553632980219,
+        106.02820717715798,
+        94.37778908787328,
+        66.95369894787231,
+        61.142804054847495,
+        60.42307376856027,
+        53.5069902953939,
+        52.27707412658387,
+        49.73337523484503,
+        48.63878739753194,
+        48.24542832419197,
+        47.19073974697882,
+        42.29820648624832
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "republican",
+        "obama",
+        "president",
+        "american",
+        "policy",
+        "clinton",
+        "political",
+        "speech",
+        "party",
+        "state",
+        "free",
+        "support",
+        "conservative"
+      ],
+      "topic_weights": [
+        581.2336596674,
+        472.5758043774022,
+        333.01925100204943,
+        328.9636675823827,
+        285.2392717663857,
+        281.76325307140684,
+        198.2568470701254,
+        189.42345287032467,
+        189.12865410289652,
+        184.70780665590928,
+        175.10504137090456,
+        167.33558489289396,
+        141.20814898194755,
+        141.16002002465768,
+        139.51379572399927
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "january",
+        "posted",
+        "wa",
+        "news",
+        "gun",
+        "fox",
+        "border",
+        "open",
+        "black",
+        "maher",
+        "death",
+        "ha",
+        "immigration",
+        "police",
+        "white"
+      ],
+      "topic_weights": [
+        568.406959000729,
+        539.5383465993912,
+        390.08575974878835,
+        127.3983294942964,
+        105.77620682496044,
+        93.92231131750263,
+        90.90063217398196,
+        79.79382116644071,
+        76.5295460859989,
+        75.36714852519408,
+        73.96726399904584,
+        67.26450559297096,
+        55.614818450241174,
+        54.10037054770244,
+        53.87290882948612
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 56,
+    "3": 115,
+    "0": 25,
+    "2": 12,
+    "4": 22
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement Supported by By Paul Krugman In 2014, soaring inequality in advanced nations finally received the attention it deserved, as Thomas Piketty’s “Capital in the Twenty-First Century” became ...",
+        "upvotes": 13,
+        "url": "http://www.nytimes.com/2015/01/02/opinion/paul-krugman-twin-peaks-planet.html"
+      },
+      {
+        "preview": "LOOKING TOWARD THE FUTURE Slate article Privacy Isn't a Right It is a commodoty. I think someone has read your book, David. And I think that I need to check out Josh Klein's book Reputation Economics....",
+        "upvotes": 1,
+        "url": "http://davidbrin.blogspot.pt/2013/11/liberals-you-must-reclaim-adam-smith.html"
+      },
+      {
+        "preview": "This post first appeared at The Huffington Post. The big gainers in the last three decades (aka the one percent) like to pretend that their good fortune was simply the result of the natural workings o...",
+        "upvotes": 5,
+        "url": "http://billmoyers.com/2015/01/01/new-years-resolutions-ten-ways-combat-upward-redistribution-income/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Submit Submit Submit Thanks for contacting us. We've received your submission. It’s not a slowdown — it’s a virtual work stoppage. NYPD traffic tickets and summonses for minor offenses have dropped of...",
+        "upvotes": 61,
+        "url": "http://nypost.com/2014/12/29/arrests-plummet-following-execution-of-two-cops/"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. In his most memorable campaign ad, Joe Lhota suggested that if his opponent B...",
+        "upvotes": 7,
+        "url": "http://nymag.com/daily/intelligencer/2014/12/43-ways-mayor-de-blasio-changed-new-york.html"
+      },
+      {
+        "preview": "Move follows opinion by attorney general that the state can’t execute the four men after the repeal of the death penalty in 2012 Last modified on Wed 20 Sep 2017 12.15 EDT Maryland’s governor on Wedne...",
+        "upvotes": 35,
+        "url": "http://www.theguardian.com/us-news/2014/dec/31/maryland-governor-commutes-death-sentences"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Last modified on Thu 26 Aug 2021 03.03 EDT The methane that leaks from 40,000 gas wells near the desert trading post of Cuba, New Mexico, may be colourless and odourless, but it’s not invisible. It ca...",
+        "upvotes": 27,
+        "url": "http://www.theguardian.com/environment/2015/jan/04/leaking-methane-gas-plume-us"
+      },
+      {
+        "preview": "This is land that has been in my family for decades. It is prime Red River Valley agriculture land. It was handed down to me by my mother and father when they passed away, and I’m intending to hand it...",
+        "upvotes": 9,
+        "url": "http://inthesetimes.com/article/17444/worse_than_keystone"
+      },
+      {
+        "preview": "Headlines warn us. He’s throwing down the gauntlet. Forget “Prince of Peace.” It’s 2015. Pope Francis is igniting WWIII. The big one. He knows capitalism’s already at war everywhere, destroying the pl...",
+        "upvotes": 2,
+        "url": "http://www.marketwatch.com/story/pope-franciss-2015-war-on-climate-denying-capitalists-2015-01-07"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 17,
+        "url": "http://www.rightwingwatch.org/content/anti-choice-group-reports-23-drop-abortion-providers-over-five-years"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Pope FrancisPope FrancisFormer cardinal charged following sexual assault allegations, pleads not guilty Pope, citing Putin, criticizes two-decade war...",
+        "upvotes": 70,
+        "url": "http://thehill.com/homenews/administration/228289-pope-francis-splits-with-gop"
+      },
+      {
+        "preview": "Former Ku Klux Klan leader David Duke issued a warning to Republicans who have criticized House Majority Whip Steve Scalise (R-La.) for speaking to a white nationalist group in 2002, saying they \"bett...",
+        "upvotes": 112,
+        "url": "http://www.huffingtonpost.com/2015/01/02/david-duke-steve-scalise_n_6406844.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Anna Rothschild, a divorcee who is in her mid-40s, said that 30-year-old socialite Thomas S. Gilber...",
+        "upvotes": 1,
+        "url": "http://www.businessinsider.com/ex-girlfriend-talks-about-thomas-gilbert-jr-2015-1"
+      },
+      {
+        "preview": "For generations, plantation owners strove to keep black laborers on the farm and competing businesses out of town. Today, the towns faring best are the ones whose white residents stayed to reckon with...",
+        "upvotes": 1,
+        "url": "http://www.theatlantic.com/features/archive/2015/01/how-white-flight-ruined-the-mississippi-delta/384227/"
+      },
+      {
+        "preview": "he keeps. Oh, and by the way, Freedom of the Press is not a liberal or Democrat position. I'm neither. Shame on you Mr. Delauter. Surly DeLaughter Best editorial ever!!! This article has been in the W...",
+        "upvotes": 14,
+        "url": "http://www.fredericknewspost.com/news/politics_and_government/kirby-delauter-kirby-delauter-kirby-delauter/article_da85d6f4-fa3c-524f-bbf6-8e5ddc0d1c0a.html"
+      }
+    ]
+  }
+}

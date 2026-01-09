@@ -1,0 +1,36 @@
+{
+  "month": "2021-01",
+  "total_articles": 362,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Social Media Platforms and Capitol Violence Controversy",
+      "core_keywords": ["twitter", "trump", "facebook", "parler", "capitol", "speech", "violence", "social media"],
+      "importance_ratio": 0.1796
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Biden and Trump's Federal Policies and Governance",
+      "core_keywords": ["biden", "trump", "policy", "federal", "government", "president", "job", "executive order"],
+      "importance_ratio": 0.1409
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2020 Election and Trump's Impeachment Process",
+      "core_keywords": ["trump", "biden", "election", "impeachment", "congress", "senate", "house", "republican"],
+      "importance_ratio": 0.3481
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Law Enforcement, Abortion and Public Health Measures",
+      "core_keywords": ["police", "abortion", "law", "court", "mask", "school", "capitol", "child"],
+      "importance_ratio": 0.1685
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "COVID-19 Vaccination and American Public Health",
+      "core_keywords": ["covid", "vaccine", "health", "american", "state", "nation", "city", "public health"],
+      "importance_ratio": 0.1630
+    }
+  ]
+}

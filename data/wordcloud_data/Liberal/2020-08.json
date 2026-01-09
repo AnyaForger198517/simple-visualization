@@ -1,0 +1,36 @@
+{
+  "month": "2020-08",
+  "total_articles": 113,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Conservative vs Liberal Discourse and Trump's Legacy",
+      "core_keywords": ["conservative", "trump", "liberal", "woman", "news", "law", "nra", "company"],
+      "importance_ratio": 0.1858
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Public Health and Federal/State Governance in Pandemic",
+      "core_keywords": ["health", "public", "state", "department", "pandemic", "federal", "worker", "postal"],
+      "importance_ratio": 0.0796
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's National Policies and American Identity",
+      "core_keywords": ["trump", "president", "american", "white", "state", "america", "policy", "country"],
+      "importance_ratio": 0.2035
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "2020 Election Voting and TikTok Controversy",
+      "core_keywords": ["election", "trump", "vote", "biden", "mail", "ballot", "voter", "tiktok"],
+      "importance_ratio": 0.1593
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump and Biden 2020 Campaign Dynamics",
+      "core_keywords": ["trump", "biden", "president", "harris", "campaign", "republican", "election", "democratic"],
+      "importance_ratio": 0.3717
+    }
+  ]
+}

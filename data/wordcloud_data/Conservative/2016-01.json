@@ -1,0 +1,36 @@
+{
+  "month": "2016-01",
+  "total_articles": 416,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Hillary Clinton's Email Scandal and Democratic Presidential Campaign",
+      "core_keywords": ["clinton", "hillary", "email", "obama", "democrat", "president", "classified"],
+      "importance_ratio": 0.1466
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "American Social Issues and Government Governance",
+      "core_keywords": ["american", "government", "state", "gun", "job", "work", "life"],
+      "importance_ratio": 0.3149
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Racial and Gender Issues with Crime and Islamic-related Incidents",
+      "core_keywords": ["woman", "muslim", "black", "white", "police", "crime", "rape"],
+      "importance_ratio": 0.2620
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "January Political Commentary and GOP Debate Reactions",
+      "core_keywords": ["january", "trump", "cruz", "kasich", "ace", "free", "bitter"],
+      "importance_ratio": 0.0072
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Republican Presidential Candidates and Campaign Dynamics",
+      "core_keywords": ["trump", "cruz", "republican", "tax", "candidate", "iowa", "poll"],
+      "importance_ratio": 0.2692
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "month": "2012-07",
+  "total_articles": 86,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "gun",
+        "wa",
+        "ha",
+        "house",
+        "july",
+        "news",
+        "walking",
+        "republican",
+        "administration",
+        "atf",
+        "document",
+        "white",
+        "law",
+        "petition",
+        "contempt"
+      ],
+      "topic_weights": [
+        210.73989125330993,
+        155.68597944414898,
+        86.04720909110634,
+        78.73921253187436,
+        77.1066461617137,
+        76.7248625276337,
+        73.26299392547288,
+        72.23795049797478,
+        59.76458023157772,
+        56.0200237562653,
+        50.93630293063808,
+        49.336962723737095,
+        49.26756194405408,
+        47.47993887319118,
+        47.4094186639894
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "american",
+        "jones",
+        "republican",
+        "romney",
+        "political",
+        "mother",
+        "president",
+        "policy",
+        "tax",
+        "term",
+        "today",
+        "campaign"
+      ],
+      "topic_weights": [
+        264.0320406971005,
+        207.30755255215965,
+        197.22340154869948,
+        137.24165860854728,
+        136.65081714178882,
+        136.29719709472363,
+        135.38412681872762,
+        130.96107347277933,
+        129.17642957235174,
+        128.00618589600774,
+        113.87953426697528,
+        99.02447780617852,
+        93.71655559944429,
+        88.7426573711673,
+        81.37043366108946
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "state",
+        "million",
+        "medicaid",
+        "cost",
+        "expansion",
+        "income",
+        "billion",
+        "healthcare",
+        "lie",
+        "percent",
+        "governor",
+        "reform",
+        "pay",
+        "break"
+      ],
+      "topic_weights": [
+        486.711089712541,
+        301.84540034648415,
+        208.35401360728784,
+        204.54707776945156,
+        198.29799395255444,
+        193.03322822452725,
+        169.36185655105697,
+        153.91764322266798,
+        127.7951546060475,
+        122.68194095327028,
+        122.15028387593355,
+        119.12972095572817,
+        116.97485427267979,
+        113.46871228152214,
+        102.33153147879298
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "christian",
+        "school",
+        "religion",
+        "voter",
+        "state",
+        "ha",
+        "religious",
+        "law",
+        "post",
+        "public",
+        "union",
+        "mean",
+        "country",
+        "support"
+      ],
+      "topic_weights": [
+        244.7952654279347,
+        236.70253560227172,
+        217.29040119934982,
+        200.38199513115487,
+        150.30385077508652,
+        142.88988083169616,
+        130.72888644451882,
+        113.24824938697942,
+        99.96037484128485,
+        99.86483529121665,
+        93.35417111595585,
+        87.85318710353309,
+        86.72987449789883,
+        85.53667950145899,
+        83.47589558266468
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "wa",
+        "racist",
+        "support",
+        "legal",
+        "torture",
+        "health",
+        "american",
+        "funding",
+        "threat",
+        "state",
+        "family",
+        "racism",
+        "terror",
+        "lack"
+      ],
+      "topic_weights": [
+        133.00134720559194,
+        106.05832970646256,
+        76.77131004237164,
+        56.90767476618662,
+        54.181434475761854,
+        51.81313225720787,
+        49.33252074262335,
+        49.053275169745355,
+        45.99035492141179,
+        45.300485291064284,
+        43.43255638697975,
+        42.401570649482245,
+        41.1451154114122,
+        38.29776189450866,
+        35.312768582705615
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 7,
+    "1": 51,
+    "3": 22,
+    "4": 4,
+    "2": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "forts by the ATF agents to overcome bureaucratic and legal obstacles and arrest the buyers—they just weren’t able to do it. The one exception is agent John Dodson, who used $2,500 in taxpayer money to...",
+        "upvotes": 12,
+        "url": "http://www.thenation.com/blog/168673/facts-get-way-gops-fast-and-furious-investigation#"
+      },
+      {
+        "preview": "WASHINGTON -- A Pennsylvania mayor has an extreme plan to address his city's budget shortfalls: pay every public employee, including himself, minimum wage. Scranton Mayor Chris Doherty announced last ...",
+        "upvotes": 6,
+        "url": "http://www.huffingtonpost.com/2012/07/05/scranton-minimum-wage-city-workers-mayor-chris-doherty_n_1652271.html"
+      },
+      {
+        "preview": "Since 2000, the State Department has spent $17.7 billion on contracts with private companies for “security services.” More than 74,000 contracts have been inked over that time. Defense giants like Loc...",
+        "upvotes": 1,
+        "url": "http://theguerrillablog.wordpress.com/2012/07/09/state-department-outsources-billions-in-security-services-to-mercenary-firms/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The ThinkProgress blog today accuses a U.S. citizen -- the Chairman of the Mississippi Tea Party, Roy Nicholson -- of treason; says ThinkProgress (emphasis in original): Of all the right-wing meltdown...",
+        "upvotes": 36,
+        "url": "http://www.salon.com/2012/06/29/tea_party_treason/"
+      },
+      {
+        "preview": "Advertisement Supported by Opinion By Bill Scher PRESIDENT OBAMA has endured much criticism of his legislative skills from his fellow progressives. His conciliatory approach has been compared unfavora...",
+        "upvotes": 4,
+        "url": "http://www.nytimes.com/2012/07/01/opinion/sunday/how-liberals-win.html"
+      },
+      {
+        "preview": "'I think it was naive,' Jonathan Krohn now says of his speech. | David Tulis/ | JAY WESTCOTT/ By PATRICK GAVIN 07/02/2012 11:11 AM EDT Jonathan Krohn took the political world by storm at 2009’s Conser...",
+        "upvotes": 181,
+        "url": "http://www.politico.com/news/stories/0712/78068.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ng. He’s not interested in governing if he has to work across lines of partisanship and ideology. Unfortunately for the governor, however, he can’t govern if he does not compromise. Walker no longer c...",
+        "upvotes": 14,
+        "url": "http://www.thenation.com/blog/168953/wisconsin-recalls-finally-check-and-balance-scott-walker"
+      },
+      {
+        "preview": "f the Medicaid expansion. That would pay its share ($429 million) more than four times over. From the very first salvo in the debate over healthcare reform, Republicans have cloaked their opposition t...",
+        "upvotes": 14,
+        "url": "http://www.thenation.com/blog/168977/we-cant-afford-it-big-lie-about-medicaid-expansion"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Posted 9 years ago on July 1, 2012, 2:31 p.m. EST by  Help us put this ad on U.S. national TV!  'Occupy Our Homes' is a movement of homeowners, tenants, occupiers, and concerned neighbors across Ameri...",
+        "upvotes": 0,
+        "url": "http://occupywallst.org/article/help-occupy-our-homes-occupy-tv/"
+      },
+      {
+        "preview": "o you also have to destroy whats left of the Pacific with concrete.I would think that your oil companies have done enough damage already.I only give the Mailman a card at Christ Mass. LOL It's called ...",
+        "upvotes": 2,
+        "url": "http://occupywallst.org/article/save-our-post-offices/"
+      },
+      {
+        "preview": "ventional wisdom. They are also wrong. There is no higher cultural platform in the country than the National Football League. NBC’s Sunday Night Football is the highest-rated program of the fall seaso...",
+        "upvotes": 4,
+        "url": "http://www.thenation.com/blog/168690/drew-brees-union-power-and-big-payback"
+      }
+    ],
+    "4": [
+      {
+        "preview": "s forever restricted and who become immediate suspects during any terror threat, Suleiman, and men like him, are stuck indefinitely with the nebulous label of “terror suspect.” For Suleiman, this is a...",
+        "upvotes": 26,
+        "url": "http://www.thenation.com/article/168621/how-us-rendered-tortured-and-discarded-one-innocent-man"
+      },
+      {
+        "preview": "Filling the need for trusted information on national health issues Filling the need for trusted information on national health issues The health reform law promises to deliver big changes in the U.S. ...",
+        "upvotes": 38,
+        "url": "http://healthreform.kff.org/quizzes/health-reform-quiz.aspx"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 6,
+        "url": "http://www.examiner.com/article/scott-s-vets-event-an-insult-to-veterans-says-rose"
+      }
+    ]
+  }
+}

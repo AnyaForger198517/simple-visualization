@@ -1,0 +1,280 @@
+{
+  "month": "2012-05",
+  "total_articles": 95,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "poor",
+        "jones",
+        "mother",
+        "government",
+        "student",
+        "tax",
+        "wa",
+        "state",
+        "debt",
+        "billion",
+        "cost",
+        "ha",
+        "public",
+        "law",
+        "rule"
+      ],
+      "topic_weights": [
+        166.09845502532136,
+        155.61818143408829,
+        152.7288182179543,
+        140.88003188843786,
+        139.9532445104711,
+        137.4322955149744,
+        130.64517704791203,
+        127.6706483081456,
+        122.50154575669835,
+        117.91749910777273,
+        113.452656362136,
+        109.14069038799997,
+        106.37116063129467,
+        106.04717121554414,
+        105.24063413696007
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "job",
+        "military",
+        "public",
+        "spending",
+        "pentagon",
+        "ha",
+        "state",
+        "economy",
+        "industrial",
+        "cost",
+        "energy",
+        "wa",
+        "enterprise",
+        "percent",
+        "war"
+      ],
+      "topic_weights": [
+        566.6700028396151,
+        519.0056285713061,
+        462.37784141343695,
+        433.51550942625045,
+        360.0642705786338,
+        357.20335514276496,
+        275.0355104140077,
+        249.7851817239599,
+        246.01727207684456,
+        244.96507125516356,
+        233.86661993565696,
+        230.88510340769423,
+        230.2704039172922,
+        225.07221320724275,
+        220.16846794115983
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "poverty",
+        "family",
+        "percent",
+        "child",
+        "republican",
+        "community",
+        "democrat",
+        "program",
+        "assistance",
+        "million",
+        "ha",
+        "population",
+        "living",
+        "health",
+        "fact"
+      ],
+      "topic_weights": [
+        600.8819981061688,
+        489.53840748253504,
+        368.1892507235943,
+        330.6154013852817,
+        271.8966076636626,
+        210.35004002916628,
+        204.22825809926772,
+        202.6161571333355,
+        188.2848152562947,
+        182.66935236318352,
+        171.38131638572875,
+        165.8413751501968,
+        152.16010035983481,
+        146.1523820613929,
+        145.9897685518572
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "right",
+        "president",
+        "state",
+        "march",
+        "law",
+        "protester",
+        "group",
+        "worker",
+        "street",
+        "black",
+        "occupy",
+        "american"
+      ],
+      "topic_weights": [
+        465.30188552978575,
+        238.9734240842546,
+        202.58885804594541,
+        177.70041097329027,
+        169.7057153046484,
+        168.6286811690875,
+        162.84171767629968,
+        158.92462526947858,
+        151.72979490156416,
+        145.32733554634325,
+        144.9233545103783,
+        144.70142668811604,
+        140.54537381173589,
+        118.00256560572022,
+        115.86140314677306
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "romney",
+        "wa",
+        "ha",
+        "news",
+        "obama",
+        "fox",
+        "american",
+        "fact",
+        "job",
+        "campaign",
+        "president",
+        "study",
+        "republican",
+        "company",
+        "hannity"
+      ],
+      "topic_weights": [
+        224.1395338575852,
+        158.08898747931582,
+        154.68621626654914,
+        153.88401433781078,
+        152.35792589372966,
+        124.75807031432586,
+        95.91049571906953,
+        91.19739842032405,
+        89.01707089596871,
+        78.11111016427651,
+        74.99877678359289,
+        73.48260156436844,
+        70.20416428505685,
+        65.08203782197705,
+        62.299250076650424
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 55,
+    "0": 22,
+    "4": 10,
+    "2": 2,
+    "1": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "<a  This morning I mentioned (and praised) Norm Ornstein and Thomas Mann’s new book, It’s Even Worse Than It Looks, which basically blames Republicans for the collapse of governance over the past coup...",
+        "upvotes": 14,
+        "url": "http://www.motherjones.com/kevin-drum/2012/05/democrats-have-moved-right-not-left"
+      },
+      {
+        "preview": "We snapped a few photos before things turned violent in Oakland yesterday. These protesters were part of the Occupy Oakland anti-capitalist march on banks in the downtown Oakland area. Protesters writ...",
+        "upvotes": 25,
+        "url": "http://www.motherjones.com/mojo/2012/05/photos-occupy-oaklands-may-day-action"
+      },
+      {
+        "preview": "\"Forward!\"<a  Federal Archive</a> Hitler does not have a patent on adverbs. It all started right after Team Obama debuted their new campaign’s slogan: “Forward“—the long-awaited sequel to 2008’s “Hope...",
+        "upvotes": 10,
+        "url": "http://www.motherjones.com/mojo/2012/05/hitler-obama-both-fond-slogans"
+      }
+    ],
+    "1": [
+      {
+        "preview": "age pay for all the jobs connected with military spending—including directly employed personnel and those working for military suppliers—is about $60,000 per year. By contrast, with healthcare, clean ...",
+        "upvotes": 45,
+        "url": "http://www.thenation.com/article/167811/dont-buy-spin-how-cutting-pentagons-budget-could-boost-economy"
+      },
+      {
+        "preview": "Take action against Medicare for All’s top corporate opponent on September 18th Maine AllCare promotes the establishment of publicly funded healthcare coverage for all Maine residents. This system mus...",
+        "upvotes": 21,
+        "url": "http://www.maineallcare.org"
+      },
+      {
+        "preview": "In the final months of two mostly unmemorable terms in office, Rhode Island Governor Donald Carcieri boasted about his little state’s big splash - stealing former Red Sox pitcher Curt Schilling and hi...",
+        "upvotes": 35,
+        "url": "http://www.boston.com/business/technology/articles/2012/05/18/high_risk_video_game_venture_has_rhode_island_curt_schilling_reeling/?p1=News_links"
+      }
+    ],
+    "2": [
+      {
+        "preview": " family of four): 20.5 million people, 6.7 percent of population. Up from 12.6 million in 2000. Increase in deep poverty, 1976-2010: doubled—3.3 percent of population to 6.7 percent. Families receivin...",
+        "upvotes": 67,
+        "url": "http://www.thenation.com/blog/167842/week-poverty-republicans-define-lower-priority-spending"
+      },
+      {
+        "preview": "h analyzed the Pulitzer Prize–winning PolitiFact’s work during the period from January 2010 through January 2011, surveying more than 500 stories. Sure enough, it found that while the site fact-checke...",
+        "upvotes": 74,
+        "url": "http://www.thenation.com/article/167930/reality-bites-republicans"
+      }
+    ],
+    "3": [
+      {
+        "preview": "tance. Good luck to you! I would say “God bless”, but you have no idea what that means. Sorry for all of the typos & full blown testimony! I was typing fast. Sadly enough, my favorite outing is the gr...",
+        "upvotes": 7,
+        "url": "http://weeklysift.com/2012/04/30/jesus-shrugged-why-christianity-and-ayn-rand-dont-mix/"
+      },
+      {
+        "preview": " the movement is far from dead. Occupy’s day of action in New York City will consist of a pop-up occupation at Bryant Park in the morning, followed by a march to Union Square in the afternoon and a “c...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/blog/167602/occupy-prepares-may-day-no-work-no-school-no-banking"
+      },
+      {
+        "preview": "Legislators who are leaving the corporate front group ALEC deserve applause. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs ...",
+        "upvotes": 8,
+        "url": "http://www.thenation.com/article/167583/meet-28-lawmakers-who-have-quit-alec-month"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A few weeks ago, Jimmy Carter made headlines by pronouncing himself “comfortable” with the idea of Mitt Romney being president. “He’s a good, solid family man and so forth, he’s gone to the extreme ri...",
+        "upvotes": 18,
+        "url": "http://www.salon.com/2012/05/03/the_carter_obsession/"
+      },
+      {
+        "preview": "Mitt Romney recently slammed the morning-after pill as an \"abortive pill,\" but the Republican presidential candidate will be hobnobbing with its manufacturer while fundraising in Miami Beach next week...",
+        "upvotes": 12,
+        "url": "http://www.huffingtonpost.com/2012/05/09/mitt-romneys-miami-beach-fundraiser-plan-b_n_1503820.html"
+      },
+      {
+        "preview": "President Obama's campaign is out with a two-minute TV ad and a six-minute Web video blasting Mitt Romney's career at Bain Capital.The broadside will air in five key swing states: Ohio, Pennsylvania, ...",
+        "upvotes": 1,
+        "url": "http://content.usatoday.com/communities/theoval/post/2012/05/obama-campaign-ad-blasts-romneys-business-career/1"
+      }
+    ]
+  }
+}

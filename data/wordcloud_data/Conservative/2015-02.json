@@ -1,0 +1,36 @@
+{
+  "month": "2015-02",
+  "total_articles": 204,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Congressional politics on tax and immigration",
+      "core_keywords": ["obama", "tax", "republican", "immigration", "congress", "obamacare", "vote"],
+      "importance_ratio": "17.65%"
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Obama's policies on terrorism and muslim issues",
+      "core_keywords": ["obama", "terrorist", "muslim", "islamic", "attack", "state", "american"],
+      "importance_ratio": "25.00%"
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Republican political campaigns and policies",
+      "core_keywords": ["republican", "obama", "walker", "political", "conservative", "democrat", "party"],
+      "importance_ratio": "34.31%"
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Racial issues and social justice discussions",
+      "core_keywords": ["black", "police", "clinton", "university", "student", "law", "american"],
+      "importance_ratio": "22.55%"
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Constitutional and governmental power discussions",
+      "core_keywords": ["state", "amendment", "government", "constitution", "republic", "legislature", "power"],
+      "importance_ratio": "0.49%"
+    }
+  ]
+}

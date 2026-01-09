@@ -1,0 +1,36 @@
+{
+  "month": "2019-02",
+  "total_articles": 134,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Campus Life, Border and Social Issues",
+      "core_keywords": ["student", "university", "state", "border", "police", "church", "life"],
+      "importance_ratio": 0.2164
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gender Equality and Trump's Public Support",
+      "core_keywords": ["woman", "men", "trump", "transgender", "american", "sport", "government"],
+      "importance_ratio": 0.4179
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Election Integrity and Ballot Issues",
+      "core_keywords": ["ballot", "election", "trump", "vote", "democrat", "fraud", "state"],
+      "importance_ratio": 0.0746
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Democratic Morality and Political Discourse",
+      "core_keywords": ["democrat", "morality", "kristol", "justice", "christian", "political", "state"],
+      "importance_ratio": 0.0597
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Media Bias and Conservative News Reporting",
+      "core_keywords": ["facebook", "medium", "trump", "journalist", "news", "conservative", "truth"],
+      "importance_ratio": 0.2315
+    }
+  ]
+}

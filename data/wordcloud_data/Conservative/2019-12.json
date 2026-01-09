@@ -1,0 +1,36 @@
+{
+  "month": "2019-12",
+  "total_articles": 90,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump's Impeachment and Congressional Vote",
+      "core_keywords": ["trump", "impeachment", "president", "house", "vote", "democrat", "pelosi"],
+      "importance_ratio": 0.6000
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Law and National Security Politics",
+      "core_keywords": ["law", "nato", "fbi", "trump", "military", "christian", "policy"],
+      "importance_ratio": 0.1222
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Epstein Scandal and Democratic Politics",
+      "core_keywords": ["epstein", "bank", "trump", "democrat", "wealth", "government", "trade"],
+      "importance_ratio": 0.0667
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Labor Unions and Federal Governance",
+      "core_keywords": ["union", "labor", "child", "president", "federal", "family", "corruption"],
+      "importance_ratio": 0.1444
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Geopolitics and Social Identity Debates",
+      "core_keywords": ["russia", "china", "american", "gender", "arctic", "identity", "poll"],
+      "importance_ratio": 0.0667
+    }
+  ]
+}

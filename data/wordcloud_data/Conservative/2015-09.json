@@ -1,0 +1,36 @@
+{
+  "month": "2015-09",
+  "total_articles": 261,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Hillary Clinton's Presidential Campaign and Email Controversy",
+      "core_keywords": ["clinton", "hillary", "email", "president", "state", "law"],
+      "importance_ratio": 0.4444
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Republican Party Politics and Planned Parenthood Debate",
+      "core_keywords": ["trump", "republican", "vote", "planned parenthood", "gop", "senate"],
+      "importance_ratio": 0.1916
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Global Climate Change and Arctic Environmental Issues",
+      "core_keywords": ["climate change", "arctic", "ice", "global warming", "sea", "science"],
+      "importance_ratio": 0.0230
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Domestic Policy, Refugees and Economic Trends",
+      "core_keywords": ["state", "refugee", "obama", "government", "percent", "report"],
+      "importance_ratio": 0.3180
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Racial Tensions and Crime in American Communities",
+      "core_keywords": ["black", "white", "racism", "crime", "cop", "community"],
+      "importance_ratio": 0.0230
+    }
+  ]
+}

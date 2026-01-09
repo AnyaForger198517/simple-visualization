@@ -1,0 +1,285 @@
+{
+  "month": "2015-03",
+  "total_articles": 287,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "clinton",
+        "email",
+        "state",
+        "ha",
+        "hillary",
+        "department",
+        "private",
+        "government",
+        "did",
+        "official",
+        "news",
+        "secretary",
+        "climate",
+        "medium"
+      ],
+      "topic_weights": [
+        425.1690779775801,
+        384.0074485780966,
+        338.5764290672315,
+        258.06850952907763,
+        205.23509188175902,
+        198.19308241613277,
+        193.67706409518777,
+        166.37093152363286,
+        141.45933306226124,
+        132.51691760360538,
+        129.78046130313479,
+        124.59842361975267,
+        119.0628482169263,
+        118.17312832620108,
+        115.78734272171619
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "ha",
+        "obama",
+        "law",
+        "wa",
+        "iran",
+        "government",
+        "republican",
+        "american",
+        "president",
+        "religious",
+        "house",
+        "congress",
+        "nuclear",
+        "senate"
+      ],
+      "topic_weights": [
+        457.0254063226067,
+        438.2391842313094,
+        436.50562986389235,
+        424.0420420245245,
+        397.19553231104993,
+        347.4653538739307,
+        293.62628207158474,
+        269.2632656968394,
+        232.34860513958057,
+        218.23822664491837,
+        208.5248224968687,
+        205.6277995750556,
+        183.48996440183268,
+        181.33948714081404,
+        170.16736708473832
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "woman",
+        "student",
+        "sexual",
+        "school",
+        "campus",
+        "black",
+        "college",
+        "university",
+        "men",
+        "assault",
+        "rape",
+        "life",
+        "world"
+      ],
+      "topic_weights": [
+        541.4355593996223,
+        329.03737773427815,
+        318.26178937940625,
+        268.9555439753159,
+        210.05712688030567,
+        207.14830798849826,
+        205.69432971667314,
+        198.3624214532712,
+        177.79213027700155,
+        151.70265432295477,
+        142.45812603775,
+        137.46513606915187,
+        132.82693472710142,
+        123.99181202569638,
+        118.76995831178402
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "march",
+        "posted",
+        "wa",
+        "reply",
+        "looking",
+        "billy",
+        "mountain",
+        "humanitarian",
+        "guy",
+        "man",
+        "science",
+        "shit",
+        "twitter",
+        "pic",
+        "post"
+      ],
+      "topic_weights": [
+        1092.0449222633815,
+        1026.4745456418975,
+        100.40322603396694,
+        88.37233693503768,
+        51.7341143748251,
+        51.0489786582607,
+        49.68165100366052,
+        48.93028191743373,
+        35.734470153202,
+        35.14797063447957,
+        34.12569872143396,
+        33.1957165729985,
+        32.66368460756468,
+        32.490872803246795,
+        32.32407293411461
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "netanyahu",
+        "israel",
+        "election",
+        "party",
+        "minister",
+        "israeli",
+        "prime",
+        "wa",
+        "arab",
+        "vote",
+        "poll",
+        "ha",
+        "voter",
+        "leader",
+        "jewish"
+      ],
+      "topic_weights": [
+        240.7509962758352,
+        193.8035981766896,
+        138.93858890445466,
+        119.14810998616441,
+        114.74827852274291,
+        101.89226830323673,
+        94.0059330552524,
+        88.94645138337157,
+        88.90368867214296,
+        77.33650565148,
+        70.16079894193435,
+        61.90777052946607,
+        59.03001566202211,
+        54.74268314053461,
+        53.773366459322794
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 82,
+    "1": 112,
+    "2": 78,
+    "4": 12,
+    "3": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Although it is a day early, significant movements in the rankings of major conservative websites during the past few weeks allow for an early publication of the March 2015 edition of the monthly Top 4...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/blog/2015/02/the_top_40_conservative_websites_march_2015_edition.html"
+      },
+      {
+        "preview": "The Chicago Sun-Times reports: … the $18 million question… why City Hall tolerates having 200 motor truck drivers “paid to do nothing” but drive crews to their work sites and wait in the vehicle until...",
+        "upvotes": 1,
+        "url": "https://danfromsquirrelhill.wordpress.com/2012/08/17/chicago-government-spends-90000-per-year-on-each-of-200-employees-to-spend-most-of-their-work-time-sitting-around-doing-nothing/"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. In 1999, author Gordon Thomas took readers where they had never been before — inside the clandestine world of Israel’s spy agency, the Mossad....",
+        "upvotes": 7,
+        "url": "http://nypost.com/2015/03/01/terrorists-using-ebay-and-reddit-to-send-coded-messages-mossad/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Clearly the President isn’t buying into that whole Lame Duck theory and will continue to try to implement his agenda using the pen and the phone. Barack Obama has made it clear for some time now that ...",
+        "upvotes": 54,
+        "url": "http://hotair.com/archives/2015/02/28/the-backdoor-move-to-ban-ar-15-ammunition/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "http://www.washingtontimes.com/news/2015/feb/28/cpac-straw-poll-rand-paul-wins-scott-walker-surgin/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. Rand PaulRandal (Rand) Howard PaulRand Paul: 'Hatred for Trump' blocking research into ivermectin as COVID-19 treatment Masks and vaccines: What...",
+        "upvotes": 24,
+        "url": "http://thehill.com/blogs/ballot-box/presidential-races/234227-paul-takes-cpac-straw-poll-gold-walker-surges-to-second"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The death of Leonard Nimoy is sad to many of us, but he was especially admired by political conservatives. The character he played on Star Trek, Mr. Spock was a very rational, intelligent character wh...",
+        "upvotes": 4,
+        "url": "http://www.americanthinker.com/blog/2015/02/why_conservatives_will_miss_mr_spock.html"
+      },
+      {
+        "preview": "Sunshine and clouds mixed. High 98F. Winds W at 5 to 10 mph.. Clear skies. Low 74F. Winds E at 5 to 10 mph. Updated: September 19, 2021 @ 1:47 pm Proud America still holds some of its shine, though fa...",
+        "upvotes": 23,
+        "url": "http://www.eastvalleytribune.com/local/the_valley/ahwatukee/article_9821f3a2-29be-581b-ab2c-d4b069dad25f.html"
+      },
+      {
+        "preview": "Follow Us National Review The Bizarre Political Ideology of Netflix’s La Casa de Papel The Myth of the Red Pill ‘Thither You’ll Come, Late or Never’: The Richness of East O’ the Sun and West O’ the Mo...",
+        "upvotes": 13,
+        "url": "http://www.nationalreview.com/article/414644/conservatism-counterculture-shelby-steele"
+      }
+    ],
+    "3": [
+      {
+        "preview": "sted by: MikeH at March 03, 2015 08:09 PM (DNTer) 122 I'll alert the General! Posted by: General Tso's Chicken at March 03, 2015 08:09 PM (CzBeD) 123 Yeah, but first he asks the chickens if they are s...",
+        "upvotes": 3,
+        "url": "http://acecomments.mu.nu/?post=355304"
+      },
+      {
+        "preview": "Peter Pan is the Progressive ideal. Perpetual childhood of the masses is the end goal for Progressives, with most people spared having to grow up and actually run things like a responsible adult… in p...",
+        "upvotes": 9,
+        "url": "http://politicalhat.com/2015/03/20/progressive-fantasy-super-happy-fun-time/"
+      },
+      {
+        "preview": "Skip to comments. Posted on 03/21/2015 11:51:58 AM PDT by Steelfish By Kellan Howell - The Washington Times - Saturday, March 21, 2015 Former TOPICS: Chit/Chat KEYWORDS: cookery; leno; racistfood Navi...",
+        "upvotes": 87,
+        "url": "http://www.freerepublic.com/focus/f-chat/3270522/posts"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The Bethlehem-based news agency Ma’an has cited a Kuwaiti newspaper report Saturday, that US President Barack Obama thwarted an Israeli military attack against Iran's nuclear facilities in 2014 by thr...",
+        "upvotes": 39,
+        "url": "http://www.israelnationalnews.com/News/News.aspx/191966#.VPNLpPl4rYg"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE Israel Prime Minister Benjamin Netanyahu is more popular with Americans than he has been in a long time. At a time when liberals and members of the media have rebuked both Netanyah...",
+        "upvotes": 8,
+        "url": "http://freebeacon.com/issues/gallup-big-jump-in-netanyahu-approval-in-united-states/"
+      },
+      {
+        "preview": "WASHINGTON, D.C.– A record crowd of 16,000 received Israeli Prime Minister Benjamin Netanyahu to a long standing ovation on Monday at the 2015 AIPAC (America-Israel Public Affairs Committee) Policy Co...",
+        "upvotes": 7,
+        "url": "http://www.breitbart.com/national-security/2015/03/02/netanyahu-at-aipac-israel-will-never-be-passive-in-the-face-of-threats-to-annihilate-us/"
+      }
+    ]
+  }
+}

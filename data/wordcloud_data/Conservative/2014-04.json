@@ -1,0 +1,36 @@
+{
+  "month": "2014-04",
+  "total_articles": 107,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Ideological debate between liberal and conservative",
+      "core_keywords": ["liberalism", "conservative", "radical", "anti-liberal", "clinton"],
+      "importance_ratio": 1.87
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State-level politics and social issues",
+      "core_keywords": ["state", "voter", "school", "bundy", "california", "gay"],
+      "importance_ratio": 18.69
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Federal politics and partisan conflict",
+      "core_keywords": ["obama", "president", "republican", "democrat", "house", "state"],
+      "importance_ratio": 52.34
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Religion and IRS controversy",
+      "core_keywords": ["church", "muslim", "christian", "irs", "islam", "lerner"],
+      "importance_ratio": 5.61
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social rights and health policy",
+      "core_keywords": ["right", "life", "child", "health", "care", "government"],
+      "importance_ratio": 21.50
+    }
+  ]
+}

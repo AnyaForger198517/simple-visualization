@@ -1,0 +1,275 @@
+{
+  "month": "2015-06",
+  "total_articles": 289,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "ha",
+        "state",
+        "wa",
+        "percent",
+        "pay",
+        "policy",
+        "death",
+        "worker",
+        "tax",
+        "income",
+        "wage",
+        "june",
+        "court",
+        "million",
+        "work"
+      ],
+      "topic_weights": [
+        407.16822653656686,
+        343.06691779749394,
+        327.02060281881666,
+        261.4499280344141,
+        224.13049340765724,
+        214.07196580292873,
+        205.53223967441133,
+        200.7365840648771,
+        181.71397724532565,
+        170.00591276367658,
+        167.72190613000473,
+        163.19249660357877,
+        156.97014934039913,
+        152.21707619205742,
+        147.18147239089902
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "syria",
+        "war",
+        "administration",
+        "policy",
+        "american",
+        "syrian",
+        "obama",
+        "territory",
+        "regime",
+        "fighter",
+        "wa",
+        "washington",
+        "state",
+        "russia"
+      ],
+      "topic_weights": [
+        640.2134131098843,
+        376.19561134391745,
+        342.47437170705643,
+        271.9186897218256,
+        270.4061754243438,
+        263.6936489056351,
+        245.92709721682394,
+        225.58543093999643,
+        223.07320198383724,
+        221.26142875927889,
+        212.62956188194343,
+        193.81723113668178,
+        192.84108842364623,
+        187.9791142844507,
+        183.45172949571207
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "clinton",
+        "sander",
+        "republican",
+        "campaign",
+        "ha",
+        "state",
+        "democratic",
+        "bernie",
+        "wa",
+        "candidate",
+        "democrat",
+        "hillary",
+        "vote",
+        "political",
+        "american"
+      ],
+      "topic_weights": [
+        641.1908878311635,
+        548.2094272568006,
+        334.0731722497424,
+        289.85951360804216,
+        274.98371712892913,
+        265.55969535234624,
+        261.76352709055726,
+        250.9424005120536,
+        248.87183190931432,
+        242.23931107779245,
+        222.8077354213264,
+        220.1419293102983,
+        219.825478655594,
+        211.00803941124963,
+        198.63653465803617
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "state",
+        "gun",
+        "law",
+        "court",
+        "ha",
+        "american",
+        "black",
+        "woman",
+        "government",
+        "marriage",
+        "president",
+        "right",
+        "white",
+        "war"
+      ],
+      "topic_weights": [
+        1094.5181221294251,
+        436.0379283015507,
+        431.7215363054689,
+        339.00156557067857,
+        338.6379393362822,
+        332.2843937172887,
+        327.18253124154774,
+        281.79848880350136,
+        274.36994508185296,
+        232.4266485657005,
+        223.83186266854628,
+        222.6995214061757,
+        219.09248208043266,
+        209.34827398020133,
+        209.0947599912161
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "sander",
+        "wa",
+        "clinton",
+        "gun",
+        "percent",
+        "socialist",
+        "democrat",
+        "democratic",
+        "college",
+        "free",
+        "hillary",
+        "american",
+        "republican",
+        "president",
+        "school"
+      ],
+      "topic_weights": [
+        1376.9946555653473,
+        646.4749289812241,
+        367.011835409749,
+        345.4934629785574,
+        277.35586552493214,
+        274.2890840803079,
+        243.8597546828449,
+        239.4729514646093,
+        224.95825846718088,
+        221.30135512618963,
+        219.04204581164387,
+        205.11494615060948,
+        197.40964095256794,
+        193.24412040272426,
+        188.61293452294242
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 93,
+    "1": 13,
+    "3": 116,
+    "2": 66,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sign in or Subscribe See Offers But the bill is likely to spark debate on the House and Senate floors as the push to allow recreational use of marijuana gains momentum before a potential 2016 ballot i...",
+        "upvotes": 2,
+        "url": "http://www.pressherald.com/2015/05/28/bill-to-legalize-marijuana-in-maine-falters-in-committee/"
+      },
+      {
+        "preview": "California's fight against global warming is providing green energy to low-income residents -- and polluting companies are footing the bill. As the San Francisco Chronicle reported, about $14.7 millio...",
+        "upvotes": 3,
+        "url": "http://www.huffingtonpost.com/2015/05/29/solar-panels-low-income_n_7469544.html"
+      },
+      {
+        "preview": "Last week, we published Broad-Based Wage Growth Is a Key Tool in the Fight Against Poverty, which argued that our fight against poverty over the last few decades has been missing a key element: strong...",
+        "upvotes": 15,
+        "url": "http://www.epi.org/blog/strong-wage-growth-would-complement-the-safety-net-in-reducing-poverty/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The browser or device you are using is out of date. It has known security flaws and a limited feature set. You will not see all the features of some websites. Please update your browser. A list of the...",
+        "upvotes": 2,
+        "url": "http://america.aljazeera.com/opinions/2015/5/army-war-college-recommends-new-detente.html?utm_content=opinion&utm_campaign=ajam&utm_source=googlePlus&utm_medium=SocialFlow"
+      },
+      {
+        "preview": "Russian jets intercepted the US guided missile destroyer USS Ross off the Russian coast in the Black Sea on Saturday, according to reports in the Russian media. The US ship allegedly steamed along the...",
+        "upvotes": 2,
+        "url": "http://www.wsws.org/en/articles/2015/06/01/russ-j01.html"
+      },
+      {
+        "preview": "Login Is Israel helping al-Qaeda in Syria? Members of Nusra Front, al-Qaeda's affiliate in Syria, in October 2013. AFP Our new issue, “The Working Class,” is out in print and online now. Subscribe tod...",
+        "upvotes": 0,
+        "url": "https://www.jacobinmag.com/2015/06/israel-syria-hezbollah-netanyahu/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Supported by By Trip Gabriel and Patrick Healy DES MOINES — A mere 240 people live in the rural northeast Iowa town of Kensett, so when more than 300 crowded into the community center on...",
+        "upvotes": 109,
+        "url": "http://www.nytimes.com/2015/06/01/us/politics/challenging-hillary-clinton-bernie-sanders-gains-momentum-in-iowa.html"
+      },
+      {
+        "preview": "This snippet from the article is probative: Senators Elizabeth Warren and Bernie Sanders have been articulating what ails the middle-class and the poor for years and decades respectively. Bernie Sande...",
+        "upvotes": 1,
+        "url": "http://www.dailykos.com/story/2015/06/01/1388752/-Americans-need-more-than-a-listening-and-learning-tour-from-Hillary-Clinton-right-now"
+      },
+      {
+        "preview": "To revisit this article, select My Account, then To revisit this article, visit My Profile, then View saved stories By John Cassidy Six days after formally entering the 2016 Presidential race, Senator...",
+        "upvotes": 45,
+        "url": "http://www.newyorker.com/news/john-cassidy/bernie-sanders-a-man-with-a-cause"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Who Rigged It, and How We Fix It Order here:AmazoniBookstoreBN.comIndieBoundRandomHouse Why we must restore the idea of the common good to the center of our economics and politics Order here:AmazoniBo...",
+        "upvotes": 4,
+        "url": "http://robertreich.org/post/120390360985"
+      },
+      {
+        "preview": "The William F. Buckley house on Park Avenue was the dream of Manhattan’s cat burglars. We cannot know how Midas would have felt about the home, but we can be sure it was the envy of an Astor: For year...",
+        "upvotes": 5,
+        "url": "http://www.salon.com/2015/05/31/william_f_buckley_would_have_loathed_fox_news_inside_the_right_wing_medias_intellectual_downfall/"
+      },
+      {
+        "preview": "Data collected by the Washington Post newspaper suggests that the number of people shot by US police is twice as high as official figures claim. The paper said that during the first five months of thi...",
+        "upvotes": 4,
+        "url": "http://www.bbc.com/news/world-us-canada-32950383?ocid=socialflow_twitter"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Brattleboro, VT.—Of all the people buzzing at the start of the Strolling of the Heifers parade on a recent Saturday morning—the clowns, the teen stilt-walker, the theater kids in witch’s garb—the 73-y...",
+        "upvotes": 5,
+        "url": "http://observer.com/2015/06/berniemania-why-socialist-bernie-sanders-is-the-sensation-of-the-presidential-race/"
+      }
+    ]
+  }
+}

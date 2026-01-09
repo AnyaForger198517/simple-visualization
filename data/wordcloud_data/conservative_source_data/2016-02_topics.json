@@ -1,0 +1,285 @@
+{
+  "month": "2016-02",
+  "total_articles": 513,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "tax",
+        "state",
+        "ha",
+        "advertisement",
+        "police",
+        "law",
+        "twitter",
+        "refugee",
+        "rate",
+        "agency",
+        "email",
+        "security",
+        "company",
+        "city"
+      ],
+      "topic_weights": [
+        289.7518741113534,
+        282.5199419547674,
+        272.17088283326797,
+        234.93940841613056,
+        201.82339020853817,
+        179.45248329212876,
+        162.39896110798094,
+        159.99020917410056,
+        152.90369947377994,
+        138.06238714949222,
+        128.1328214994159,
+        122.06899259973724,
+        116.80865651014763,
+        109.8889419470629,
+        100.37102474725445
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "christie",
+        "rubio",
+        "republican",
+        "wa",
+        "presidential",
+        "state",
+        "campaign",
+        "hampshire",
+        "conservative",
+        "party",
+        "candidate",
+        "establishment",
+        "week",
+        "debate"
+      ],
+      "topic_weights": [
+        3460.277144970855,
+        2258.5212044895297,
+        2050.3428622127376,
+        1348.3155272635154,
+        1340.6796528708473,
+        823.9574188404249,
+        781.829116983048,
+        707.5735107698297,
+        685.0523756265476,
+        650.2357666553564,
+        620.7155268221036,
+        588.1575603304742,
+        585.4754557963577,
+        563.1855054842239,
+        559.2070628448525
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "hillary",
+        "ha",
+        "campaign",
+        "iowa",
+        "carson",
+        "email",
+        "voter",
+        "sander",
+        "intelligence",
+        "black",
+        "carolina",
+        "caucus",
+        "bush"
+      ],
+      "topic_weights": [
+        622.6184734891788,
+        507.1384877636594,
+        376.0704143579787,
+        246.47391366690582,
+        224.30329579050573,
+        223.65297850517763,
+        186.2861933749737,
+        183.6073011278152,
+        182.067653987943,
+        172.39782241299807,
+        163.0876726407985,
+        159.12415909940754,
+        152.2197490013518,
+        150.28796734453468,
+        149.36373425333875
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "february",
+        "posted",
+        "wa",
+        "ha",
+        "cruz",
+        "trump",
+        "hillary",
+        "ace",
+        "christopher",
+        "taylor",
+        "friedman",
+        "guy",
+        "great",
+        "got",
+        "office"
+      ],
+      "topic_weights": [
+        3286.3792916613043,
+        2940.3441791858268,
+        264.44289299817336,
+        128.88682036825858,
+        123.07557737804204,
+        101.2721993204163,
+        91.5269257064355,
+        84.6160360352607,
+        84.10145648992564,
+        82.27120992446876,
+        81.53223189045346,
+        74.94617314210485,
+        67.63538892886326,
+        66.03518143914796,
+        61.349124586131396
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "president",
+        "cruz",
+        "american",
+        "trump",
+        "court",
+        "obama",
+        "government",
+        "country",
+        "america",
+        "issue",
+        "state",
+        "did",
+        "law"
+      ],
+      "topic_weights": [
+        1440.7987503880083,
+        1277.6752081730604,
+        621.0707651866679,
+        606.5240630171403,
+        587.812944320238,
+        548.0889377676775,
+        455.0278246372355,
+        443.29320676057597,
+        427.52896530504455,
+        421.98501506432757,
+        386.7689576931755,
+        362.16979302872755,
+        351.560717025086,
+        343.0252700849468,
+        338.1869663471058
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 342,
+    "0": 68,
+    "1": 47,
+    "2": 50,
+    "3": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 8,
+        "url": "http://www.newsbusters.org/blogs/nb/tom-blumer/2016/01/30/press-drags-out-warm-weather-excuse-excuse-poor-fourth-quarter-growth"
+      },
+      {
+        "preview": "In December 2015, the state of Delaware (where I live) received 348 concealed carry applications, more than double the 155 from the previous December. There were 2,614 permit applications in 2015 as o...",
+        "upvotes": 8,
+        "url": "https://drhurd.com/2016/01/31/57853/#.Vq6G7b-zx7o.reddit"
+      },
+      {
+        "preview": "Advertisement (Photo: Twitter) Residents of Lowell, Massachusetts, face a new requirement for obtaining unrestricted right-to-carry gun permits – submitting a written essay to the chief of police that...",
+        "upvotes": 1,
+        "url": "http://www.wnd.com/2016/01/massachusetts-town-imposes-essay-writing-for-gun-permit/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement Supported by By Ross Douthat Late in October, when it was still possible to envision a somewhat normal Republican primary season, Marco Rubio and Jeb Bush had a moment on the debate stag...",
+        "upvotes": 0,
+        "url": "http://www.nytimes.com/2016/01/28/opinion/campaign-stops/why-isnt-marco-rubio-winning.html?ref=opinion"
+      },
+      {
+        "preview": "I don’t buy that he’s as close as this, but (a) I blogged the last Emerson College poll of New Hampshire poll showing Jeb surging past Rubio so I’m duty-bound to blog this one and (b) as Ed noted earl...",
+        "upvotes": 8,
+        "url": "http://hotair.com/archives/2016/02/01/hmmm-final-emerson-college-poll-of-iowa-puts-rubio-within-five-points-of-first-place/"
+      },
+      {
+        "preview": "On Monday, Senator Ted Cruz (R-TX) performed the singular feat of simultaneously proving that a Republican can win Iowa without backing the ethanol boondoggle, and toppled The God Who Does Not Bleed, ...",
+        "upvotes": 31,
+        "url": "http://www.breitbart.com/2016-presidential-race/2016/02/01/cruz-draws-first-blood/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Republican presidential candidate Sen. Ted Cruz (R-TX) is citing the Bible in his final push for votes before Monday’s Iowa caucus. Cruz’s stump speech is by far the most religious one of all the Repu...",
+        "upvotes": 8,
+        "url": "http://www.breitbart.com/big-government/2016/01/31/cruz-makes-last-push-for-evangelicals/"
+      },
+      {
+        "preview": "theless, Hillary Clinton over the weekend continued to deny any wrongdoing in EmailGate, painting the scandal as just more political theater by her enemies. Echoes of the “vast right-wing conspiracy,”...",
+        "upvotes": 2,
+        "url": "http://observer.com/2016/02/breaking-hillary-clinton-put-spies-lives-at-risk/"
+      },
+      {
+        "preview": "2016 A bruised Trump concedes to the Texas senator, while Rubio delivers a victory speech for his third-place finish. By ELI STOKOLS 02/01/2016 04:59 PM EST Updated 02/02/2016 12:09 PM EST The victory...",
+        "upvotes": 14,
+        "url": "http://www.politico.com/story/2016/02/donald-trump-iowa-caucus-2016-218557"
+      }
+    ],
+    "3": [
+      {
+        "preview": "John Kasich: When the New York Times Endorsed Me, I Wept at All the Wonderful Things They Were Saying About Me Sounds about right. @jimgeraghty pic.twitter.com/TREQhBsuc6— Tim Miller (@Timodc) Februar...",
+        "upvotes": 8,
+        "url": "http://acecomments.mu.nu/?post=361301"
+      },
+      {
+        "preview": " shocking. It's not worth arguing anymore. If you are for Trump, it seems that you will not be dissuaded, and anyone who says otherwise doesn't want America to be great, apparently. Indeed. It's not l...",
+        "upvotes": 1,
+        "url": "http://acecomments.mu.nu/?post=361451"
+      },
+      {
+        "preview": "Damn It Feels Good to be a Clinton A Cruz ad. Goshdarn, he's so unlikable! First look at new @tedcruz ad in SC targeting @HillaryClinton and lampooning classic 'Office Space' scene  Morning Joe (@Morn...",
+        "upvotes": 4,
+        "url": "http://acecomments.mu.nu/?post=361490"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else. Thank you. Please check your inbox to confirm. Julie Bykowicz, Associated Press Julie Bykowicz, Associa...",
+        "upvotes": 3,
+        "url": "http://www.pbs.org/newshour/rundown/financial-woes-may-loom-for-some-gop-candidates/"
+      },
+      {
+        "preview": "The Ted Cruz who wrote that piece -- and co-sponsored the Smarter Sentencing Act of 2015 with Sens. Mike Lee, R-Utah, and Dick Durbin, D-Ill. -- may not be familiar to those following Cruz on the GOP ...",
+        "upvotes": 5,
+        "url": "http://townhall.com/columnists/debrajsaunders/2016/01/31/reformer-sen-cruz-and-brutal-mr-hyde-n2112220"
+      },
+      {
+        "preview": "By Judi McLeod ——Bio and Archives--February 1, 2016 Cover Story | Disqus Comments | Reader Friendly | Subscribe | Email Us The 2016 presidential race is not about whether Donald Trump would make a bet...",
+        "upvotes": 1,
+        "url": "http://canadafreepress.com/article/78585"
+      }
+    ]
+  }
+}

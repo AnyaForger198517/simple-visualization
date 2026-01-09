@@ -1,0 +1,285 @@
+{
+  "month": "2016-01",
+  "total_articles": 416,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "state",
+        "hillary",
+        "sander",
+        "obama",
+        "president",
+        "email",
+        "ha",
+        "department",
+        "information",
+        "democrat",
+        "classified",
+        "health",
+        "official"
+      ],
+      "topic_weights": [
+        942.8274013397458,
+        442.37423496214063,
+        436.33752214340865,
+        365.0729546289388,
+        321.34931089932996,
+        312.0617180017527,
+        294.1049932665297,
+        284.18662978912084,
+        256.3965422316889,
+        220.66114637942,
+        147.93175730238386,
+        132.55448118433364,
+        129.36091403581622,
+        127.69302547218663,
+        123.6688344789236
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "american",
+        "government",
+        "state",
+        "world",
+        "medium",
+        "life",
+        "work",
+        "country",
+        "gun",
+        "point",
+        "long",
+        "change",
+        "job"
+      ],
+      "topic_weights": [
+        1191.8620911945327,
+        654.3763660831465,
+        397.94173506611475,
+        325.76242437965476,
+        273.5138531552455,
+        271.3665905611259,
+        268.22576622535263,
+        266.02080831785406,
+        255.35441368093348,
+        254.17310513224518,
+        244.95235343261916,
+        232.44269152057552,
+        215.75956373162552,
+        195.9267598507841,
+        194.60907455199995
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "woman",
+        "muslim",
+        "wa",
+        "ha",
+        "law",
+        "black",
+        "white",
+        "police",
+        "men",
+        "school",
+        "student",
+        "crime",
+        "islamic",
+        "sex",
+        "rape"
+      ],
+      "topic_weights": [
+        486.70202094741717,
+        456.23212062980645,
+        388.515553410304,
+        343.6372804108568,
+        247.77321677218941,
+        229.4504547769114,
+        196.899700484916,
+        196.84118805048254,
+        196.13674473403245,
+        194.26666244856963,
+        193.25068381025426,
+        177.31175202408264,
+        171.57279248457536,
+        159.8694110091136,
+        151.71706513555262
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "january",
+        "posted",
+        "wa",
+        "kasich",
+        "movie",
+        "hillary",
+        "trump",
+        "did",
+        "ace",
+        "guy",
+        "ha",
+        "cruz",
+        "doe",
+        "free",
+        "bitter"
+      ],
+      "topic_weights": [
+        2479.4049513155956,
+        2442.5883825381957,
+        273.6429910494902,
+        141.05347738839689,
+        138.67983747307218,
+        107.13634820030072,
+        94.12174957713198,
+        89.62934928865074,
+        88.112221893662,
+        85.38639170950471,
+        79.66863510364962,
+        72.6870735086633,
+        70.29973661769075,
+        67.97994152653261,
+        58.77908195141011
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "cruz",
+        "ha",
+        "republican",
+        "tax",
+        "wa",
+        "percent",
+        "candidate",
+        "donald",
+        "iowa",
+        "campaign",
+        "rubio",
+        "poll",
+        "voter",
+        "party"
+      ],
+      "topic_weights": [
+        1845.1402973371219,
+        972.7103325979822,
+        644.290851831639,
+        580.5864355765717,
+        468.95432383665286,
+        424.9630690875862,
+        420.3618173695244,
+        394.7013698436029,
+        360.81438980088086,
+        342.6573638090764,
+        324.87240338505933,
+        313.07653740811367,
+        299.92606732239324,
+        290.2405363417911,
+        288.1747120834997
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 109,
+    "1": 131,
+    "0": 61,
+    "4": 112,
+    "3": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Democratic front-runner Hillary Clinton sat down with the editorial board of New Hampshire’s Conway Daily Sun on Tuesday — and thanks to conservative columnist Tom McLaughlin, it did not go as smoothl...",
+        "upvotes": 40,
+        "url": "https://pjmedia.com/trending/2015/12/31/hillary-nailed-again-on-benghazi-lie-in-new-hampshire"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. WASHINGTON — Busy as they were, Hillary Clinton’s aides found time to constantly compliment their boss’ appearance, according to the latest ba...",
+        "upvotes": 73,
+        "url": "http://nypost.com/2016/01/02/emails-show-hillary-aides-constantly-complemented-her-looks/"
+      },
+      {
+        "preview": "Annie Waldman Charles Ornstein From Brandon Coleman, an addiction therapist for the Phoenix VA Health Care System, filed a privacy complaint after a social worker accessed his medical file in 2014. Ma...",
+        "upvotes": 1,
+        "url": "http://www.npr.org/sections/health-shots/2015/12/30/461400692/patient-privacy-isn-t-safeguarded-at-veterans-medical-facilities"
+      }
+    ],
+    "1": [
+      {
+        "preview": "We reach the end of the year with yet another tale of crazy, one percenter wingnuts trying to claim that jacking up the minimum wage won’t do much to alleviate the issues facing the poorest Americans ...",
+        "upvotes": 69,
+        "url": "http://hotair.com/archives/2015/12/31/a-higher-minimum-wage-doesnt-reduce-poverty-says-the-federal-government/"
+      },
+      {
+        "preview": "‘Gun violence restraining order’ law raises questions from pro-gun groups and lawmakers about civil liberties and how effective it will really be Last modified on Wed 5 Jun 2019 04.18 EDT A California...",
+        "upvotes": 3,
+        "url": "http://www.theguardian.com/us-news/2015/dec/31/landmark-california-gun-seizure-law-takes-effect"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 0,
+        "url": "http://www.newsbusters.org/blogs/nb/tim-graham/2016/01/01/amanda-marcotte-rips-twitchys-flying-monkeys-tweeting-against-joss"
+      }
+    ],
+    "2": [
+      {
+        "preview": "AFP/ IG/ ENTERPRISE NEWS AND PICTURES We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based...",
+        "upvotes": 60,
+        "url": "http://www.express.co.uk/news/world/630381/ISIS-poster-girl-sex-slave-jihadis-beaten-death-hammer"
+      },
+      {
+        "preview": "January 2, 2016 BFH Uncategorized 29 NYDN- “$4 to meet fellow white supremacists seems a bit steep considering how easy Trump has made it for you to be open about it,” user @alexpow tweeted to the sit...",
+        "upvotes": 2,
+        "url": "http://iotwreport.com/white-only-dating-site-deemed-racist/"
+      },
+      {
+        "preview": "Advertisement Brussels canceled their fireworks display this year out of concerns of a possible terrorist attack but that didn’t stop the “youths” from causing mayhem across the city. There was still ...",
+        "upvotes": 21,
+        "url": "http://www.thegatewaypundit.com/2016/01/brussels-new-year-2016-disgruntled-youths-torch-804-cars-push-car-into-subway-blow-up-christmas-tree/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day in Liberal Judicial Activism—September 12 The Supreme Court in the American Constitutional Order ...",
+        "upvotes": 13,
+        "url": "http://acecomments.mu.nu/?post=361071"
+      },
+      {
+        "preview": "According to a columnist for the Duke University student newspaper, America’s “obsession with the First Amendment” is really just “an expression of white supremacy.” “I am thinking about how an urgent...",
+        "upvotes": 4,
+        "url": "http://acecomments.mu.nu/?post=361136"
+      },
+      {
+        "preview": "Fox News and Google have invited three YouTube personalities to ask questions at the Jan. 28 GOP debate — including a Muslim advocate who describes Donald Trump as a bigot and who visually portrayed h...",
+        "upvotes": 10,
+        "url": "http://acecomments.mu.nu/?post=361218"
+      }
+    ],
+    "4": [
+      {
+        "preview": "ConservativeReview.com, which is edited by conservative talk show host Mark Levin, has emerged as a great ranking service for politicians. Recently the site ranked the positions of Donald Trump based ...",
+        "upvotes": 19,
+        "url": "http://www.americanthinker.com/blog/2016/01/a_quick_rundown_of_donald_trumps_positions.html"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 49,
+        "url": "http://www.washingtontimes.com/news/2016/jan/3/democrats-unsure-hillary-clinton-can-beat-donald-t/"
+      },
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » Download Download When Thomas...",
+        "upvotes": 0,
+        "url": "http://www.brookings.edu/research/papers/2015/12/03-framing-party-competition-entman"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2015-05",
+  "total_articles": 234,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Social Equity and Gender/Racial Issues",
+      "core_keywords": ["woman", "black", "white", "student", "school", "rape", "life"],
+      "importance_ratio": 0.1923
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gender Perception and Political Commentary",
+      "core_keywords": ["woman", "hillary", "vote", "guy", "attractive", "april"],
+      "importance_ratio": 0.0085
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2016 Presidential Campaign and Party Politics",
+      "core_keywords": ["clinton", "hillary", "republican", "democrat", "president", "campaign", "bush"],
+      "importance_ratio": 0.3205
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US National Policy and Iran Relations",
+      "core_keywords": ["obama", "government", "iran", "state", "federal", "law", "president"],
+      "importance_ratio": 0.3889
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Income Inequality and Tax Policy",
+      "core_keywords": ["tax", "income", "wage", "inequality", "percent", "government", "worker"],
+      "importance_ratio": 0.0897
+    }
+  ]
+}

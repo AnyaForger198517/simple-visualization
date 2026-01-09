@@ -1,0 +1,285 @@
+{
+  "month": "2012-02",
+  "total_articles": 58,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "wa",
+        "christian",
+        "romney",
+        "american",
+        "ha",
+        "religious",
+        "obama",
+        "history",
+        "president",
+        "nation",
+        "country",
+        "church",
+        "union",
+        "america"
+      ],
+      "topic_weights": [
+        66.23702350654922,
+        65.72343364194458,
+        62.512591575030456,
+        61.28277117696446,
+        53.51125099746817,
+        48.150475843134686,
+        45.51089138168439,
+        38.212892862647095,
+        38.07132213397113,
+        37.44625282865739,
+        34.20409681434225,
+        31.825346332072925,
+        31.686305664335375,
+        30.80549237518778,
+        28.470012390542784
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "conservative",
+        "wa",
+        "state",
+        "ha",
+        "liberal",
+        "obama",
+        "american",
+        "court",
+        "gay",
+        "romney",
+        "president",
+        "government",
+        "public",
+        "social",
+        "program"
+      ],
+      "topic_weights": [
+        105.27370440907286,
+        102.44542929544772,
+        92.85865493568193,
+        65.75540562824213,
+        62.125005939514246,
+        53.73380407451924,
+        53.281167836879376,
+        52.28426221244123,
+        49.739232905187826,
+        47.212485649949144,
+        46.789606854963985,
+        43.116420677314856,
+        40.91080434602162,
+        39.52952904629331,
+        39.432584958903014
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "komen",
+        "wa",
+        "parenthood",
+        "planned",
+        "breast",
+        "ha",
+        "woman",
+        "cancer",
+        "work",
+        "grant",
+        "funding",
+        "february",
+        "health",
+        "occupy",
+        "jones"
+      ],
+      "topic_weights": [
+        208.79757004659606,
+        134.32453966407377,
+        111.45890684955893,
+        110.41835857047026,
+        108.78048217190711,
+        102.80667341465758,
+        100.51866787282817,
+        90.9300432887848,
+        77.6305764843595,
+        71.96479225817947,
+        69.49681200678032,
+        59.006404098523,
+        56.50053111299213,
+        54.14764313535052,
+        52.62370768754755
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "ha",
+        "wa",
+        "obama",
+        "bank",
+        "release",
+        "post",
+        "deal",
+        "claim",
+        "administration",
+        "law",
+        "real",
+        "state",
+        "did",
+        "love",
+        "mortgage"
+      ],
+      "topic_weights": [
+        77.0596527660159,
+        76.69941058873837,
+        47.22163503312249,
+        46.25261422251486,
+        22.513200288445308,
+        22.15607116108276,
+        22.073742699281567,
+        20.566710579484912,
+        20.313454021900323,
+        18.772567193960143,
+        18.307082016519296,
+        18.076552135841528,
+        17.990357993113683,
+        17.16963161336752,
+        16.929357929798417
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "hospital",
+        "catholic",
+        "woman",
+        "control",
+        "birth",
+        "health",
+        "employee",
+        "coverage",
+        "tax",
+        "percent",
+        "campaign",
+        "bishop",
+        "money",
+        "contraceptive",
+        "marriage"
+      ],
+      "topic_weights": [
+        84.58724535789946,
+        77.65022144225959,
+        71.0037670930813,
+        70.96136717664832,
+        70.91588565271877,
+        68.01339507713973,
+        58.20894546983095,
+        51.94769110839131,
+        48.9380720932316,
+        48.932785149103864,
+        43.65395052294761,
+        41.95191905792497,
+        40.483826320887346,
+        39.12303993448444,
+        35.98500080576255
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 11,
+    "2": 11,
+    "0": 13,
+    "1": 16,
+    "4": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Desktop notifications are on | Turn off Get breaking news alerts from The Washington Post Turn on desktop notifications? In an interview with CNN Wednesday morning that should have been a Florida vict...",
+        "upvotes": 1,
+        "url": "http://www.washingtonpost.com/blogs/the-fix/post/romney-im-not-concerned-with-the-very-poor/2012/02/01/gIQAvajShQ_blog.html"
+      },
+      {
+        "preview": "Did Mitt Romney really mean he’s “not concerned” about poor people? Stephen Maturen/Getty Images. Mitt Romney is now being protected by the Secret Service. Unfortunately for him, they were not in a po...",
+        "upvotes": 57,
+        "url": "http://www.slate.com/articles/news_and_politics/politics/2012/02/romney_is_not_concerned_about_the_very_poor_.html"
+      },
+      {
+        "preview": "To revisit this article, select My Account, then To revisit this article, visit My Profile, then View saved stories By John Cassidy If you think you heard a loud cheer around 8:30 E.T. this morning, y...",
+        "upvotes": 0,
+        "url": "http://www.newyorker.com/online/blogs/johncassidy/2012/02/january-jobs-report-obama.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "(updated below) The ACLU yesterday filed a lawsuit against various agencies of the Obama administration -- the Justice and Defense Departments and the CIA -- over their refusal to disclose any informa...",
+        "upvotes": 17,
+        "url": "http://www.salon.com/2012/02/02/aclu_sues_obama_administration_over_assassination_secrecy/"
+      },
+      {
+        "preview": "Claim: Mitt Romney assisted in the search for his business partner’s missing daughter. TRUE Example: [Collected via e-mail, January 2012] Three days later, her distraught father had no idea where she ...",
+        "upvotes": 3,
+        "url": "http://www.snopes.com/politics/romney/search.asp"
+      },
+      {
+        "preview": "This article contains a correction. Download a breakdown of coal and utility contributions to state governors and attorneys general (.xls) This week, 14 states and numerous power companies that oppose...",
+        "upvotes": 44,
+        "url": "http://www.americanprogress.org/issues/2012/02/csapr_contributions.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Photo by Mark Murmann.On Sunday night, a day after the mass arrest of some 400 Occupy Oakland protesters—and journalists including one of my Mother Jones colleagues—many of those who’d been released m...",
+        "upvotes": 1,
+        "url": "http://motherjones.com/mojo/2012/01/occupy-oakland-black-panther-roots"
+      },
+      {
+        "preview": "The AFL-CIO and the Occupy movement will be protesting Sunday's big game if Governor Mitch Daniels signs “right to work” legislation. By signing up, you confirm that you are over the age of 16 and agr...",
+        "upvotes": 12,
+        "url": "http://www.thenation.com/blog/165952/occupy-super-bowl-now-more-just-slogan"
+      },
+      {
+        "preview": "At best, this decision is spineless. At worst, it's cruel. Rescinding the Planned Parenthood funding implies that the only women who deserve to receive breast cancer screenings are those who can affor...",
+        "upvotes": 10,
+        "url": "http://www.good.is/post/give-komen-the-pink-slip-five-ways-to-support-women-s-health-for-all/"
+      }
+    ],
+    "3": [
+      {
+        "preview": " of us carry in our hearts “nuggets of wannabelieve”. They are part of the human condition. They make life bearable. Unfortunately, they are also what sociopaths like Obama count on and take advantage...",
+        "upvotes": 0,
+        "url": "http://www.nakedcapitalism.com/2012/01/why-is-the-normally-astute-taibbi-sounding-like-a-hopey-dopey-liberal-on-the-mortgage-settlement.html"
+      },
+      {
+        "preview": "Turning the other cheek since 75. none, ever...... first amendment Thou shalt not kill.... says it all Assuming you meant commandment, right? ;-) Thanks. It's pretty simple, eh? I believe it was Pope ...",
+        "upvotes": 1,
+        "url": "http://leftcheek.blogspot.com/2012/02/just-just-war.html"
+      },
+      {
+        "preview": "Turning the other cheek since 75. Beautifully written, Jason. The modern conception of \"Charity\", in its most benign sense, has a relationship to \"pity,\" which has come to imply that one looks down up...",
+        "upvotes": 1,
+        "url": "http://leftcheek.blogspot.com/2012/02/charity-and-greed-2.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by Op-Ed Contributor By David S. Miller WHEN Facebook goes public later this year, Mark Zuckerberg plans to exercise stock options worth $5 billion of the $28 billion that his ...",
+        "upvotes": 5,
+        "url": "http://www.nytimes.com/2012/02/08/opinion/the-zuckerberg-tax.html?_r=2&nl=todaysheadlines&emc=thab1"
+      },
+      {
+        "preview": "A panel of judges one rung below the Supreme Court has ruled that California cannot deny equality in marriage to gays and lesbians. In the next few days, Washington state is expected to become the sev...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/steve-sanders/same-sex-marriage-national-conversation_b_1261252.html"
+      },
+      {
+        "preview": "<a  Oines</a>/Flickr Last year was not a great one for abortion rights. First, congressional Republicans attempted to deny statutory rape victims access to Medicaid-funded abortions (twice). Then GOP-...",
+        "upvotes": 4,
+        "url": "http://motherjones.com/politics/2012/02/republican-war-birth-control-contraception"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2019-09",
+  "total_articles": 123,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "impeachment",
+        "democrat",
+        "republican",
+        "state",
+        "president",
+        "house",
+        "ha",
+        "party",
+        "wa",
+        "political",
+        "california",
+        "ukraine",
+        "public",
+        "democratic"
+      ],
+      "topic_weights": [
+        151.31179090413352,
+        148.7933970869848,
+        137.88970036353163,
+        93.10135807635429,
+        79.17876519698936,
+        78.91805705404121,
+        72.98369087781049,
+        71.74624046513848,
+        71.45154344016936,
+        64.5032191714753,
+        57.75922232482509,
+        54.10511987221258,
+        46.58906623401872,
+        46.15152603319606,
+        45.38470376368994
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "climate",
+        "house",
+        "policy",
+        "administration",
+        "child",
+        "change",
+        "state",
+        "white",
+        "company",
+        "american",
+        "official"
+      ],
+      "topic_weights": [
+        440.2137658242767,
+        349.84616807126304,
+        255.5597284182166,
+        230.62612952736296,
+        117.75256344640617,
+        101.89173556508983,
+        96.35389526075139,
+        93.44599134790428,
+        87.07224131156455,
+        86.3940753153621,
+        80.97898109364547,
+        80.80069039685746,
+        76.89765140088326,
+        75.75547315017602,
+        74.04699175943972
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "senior",
+        "food",
+        "meal",
+        "home",
+        "program",
+        "ha",
+        "million",
+        "american",
+        "wa",
+        "service",
+        "older",
+        "black",
+        "south",
+        "poverty",
+        "delivered"
+      ],
+      "topic_weights": [
+        102.05639159173025,
+        80.52147521649582,
+        77.53722852250034,
+        52.01075946276125,
+        51.1743494018263,
+        46.30276253723955,
+        45.540870129704516,
+        37.66193423696567,
+        32.934793188461796,
+        32.35062914713179,
+        30.58818629424085,
+        30.565407262930634,
+        30.50168422834079,
+        28.836241959373986,
+        28.592180902938715
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "court",
+        "wa",
+        "state",
+        "ha",
+        "school",
+        "republican",
+        "democrat",
+        "president",
+        "senate",
+        "law",
+        "government",
+        "case",
+        "election",
+        "party"
+      ],
+      "topic_weights": [
+        110.73675599023989,
+        100.99933127140923,
+        96.87101224469993,
+        83.4693920481381,
+        79.59111649193784,
+        75.80367336484467,
+        70.65315996929569,
+        66.57311647153041,
+        59.44884040370476,
+        49.49268294141181,
+        45.80446254721101,
+        43.81178001330536,
+        41.69083224016241,
+        40.625231376449925,
+        39.85541696007887
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "warren",
+        "gun",
+        "biden",
+        "post",
+        "sander",
+        "candidate",
+        "poll",
+        "state",
+        "voter",
+        "wa",
+        "information",
+        "percent",
+        "article",
+        "blog"
+      ],
+      "topic_weights": [
+        100.23673095000933,
+        80.89313878142967,
+        78.10417228871339,
+        75.60874431301299,
+        67.69683443187114,
+        67.60738206499558,
+        64.9506622628664,
+        59.961976123304396,
+        56.58563913604781,
+        54.203444410116376,
+        53.51491297034306,
+        43.30098364834599,
+        43.22221991053259,
+        42.93408107413434,
+        42.42833633227388
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 23,
+    "4": 20,
+    "1": 60,
+    "0": 17,
+    "2": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "An evangelical leader claimed Sunday that mass shootings are caused by “driving God from the public square,” and specifically by teaching kids about evolution. “We’ve taught our kids that they come ab...",
+        "upvotes": 4,
+        "url": "https://www.huffpost.com/entry/tony-perkins-mass-shootings_n_5d6cb130e4b011080451591d"
+      },
+      {
+        "preview": "Congressional Republicans recently circulated talking points on gun violence that falsely described the El Paso massacre and other mass shootings as “violence from the left.” A document obtained by th...",
+        "upvotes": 1,
+        "url": "https://www.tampabay.com/florida-politics/buzz/2019/08/16/memo-reveals-a-house-republican-strategy-on-shootings-downplay-white-nationalism-blame-left/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Rep. Tulsi GabbardTulsi GabbardProgressives breathe sigh of relief after Afghan withdrawal Hillicon Valley: US has made progress on cyber but more ne...",
+        "upvotes": 36,
+        "url": "https://thehill.com/homenews/campaign/460398-gabbard-impeachment-would-only-tear-us-apart"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Some of this material by User:NMS Bill/Koch Industries/Corporate history should be integrated into this article on David H.Koch as it contains content on the history of Koch Industries. Add this tag. ...",
+        "upvotes": 1,
+        "url": "https://en.wikipedia.org/wiki/Talk:David_Koch#Lede_rfc"
+      },
+      {
+        "preview": "Advertisement Supported by The president’s supporters don’t mind his linguistic slips, but lexicographers and grammarians worry about the permanent effect on language. By Sarah Lyall It was late May, ...",
+        "upvotes": 50,
+        "url": "https://www.nytimes.com/2019/08/31/us/politics/trump-twitter.html"
+      },
+      {
+        "preview": "This article is more than 1 year old President Trump is known to make the odd comment here and there about foreign nations, often because he doesn’t seem particularly versed in what’s happening in the...",
+        "upvotes": 40,
+        "url": "https://www.washingtonpost.com/politics/2019/09/03/trump-congratulates-poland-its-nazi-invasion/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "**Correction: The SSI number in Figure B was corrected to 2,949,000 from 3,949,000.** From 2017 to 2018, the official poverty rate fell by 0.5 percentage points, as household incomes rose modestly, al...",
+        "upvotes": 194,
+        "url": "https://www.epi.org/blog/government-programs-keep-tens-of-millions-out-of-poverty/"
+      },
+      {
+        "preview": "As he runs for president, Pete Buttigieg has tried to contain the public fallout from the fatal police shooting this summer of a 54-year-old black father in South Bend, Indiana. Instead, his closed-do...",
+        "upvotes": 1,
+        "url": "https://www.cnbc.com/2019/09/18/pete-buttigieg-met-with-black-lives-matter-after-eric-logan-shooting.html"
+      },
+      {
+        "preview": "By Laura Ungar and Trudy Lieberman September 3, 2019 Republish This Story Disponible en Español MEMPHIS, Tenn. — Army veteran Eugene Milligan is 75 years old and blind. He uses a wheelchair since losi...",
+        "upvotes": 219,
+        "url": "https://khn.org/news/starving-seniors-how-america-fails-to-feed-its-aging/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Source: AP Photo/Timothy D. Easley Earlier this month, a group of Democratic senators signed an amicus curae brief in New York State Rifle and Pistol Association v. City of New York, defending New Yor...",
+        "upvotes": 1,
+        "url": "https://townhall.com/tipsheet/bethbaumann/2019/08/31/senate-republicans-pen-letter-to-scotus-dont-let-democrats-bully-you-n2552462"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved White House hopeful Sen. Bernie SandersBernie SandersDavid Sirota: Pharmaceuticals will try to make Medicare proposal as limited as possible Medicare...",
+        "upvotes": 1,
+        "url": "https://thehill.com/homenews/campaign/459518-sanders-previews-plan-to-cancel-all-past-due-medical-debt"
+      },
+      {
+        "preview": "Most major Democratic White House hopeful have waded into a California clash between labor unions and tech giants such as Uber and Lyft over the definition of work in a changing economy, in a rare cas...",
+        "upvotes": 1,
+        "url": "https://abcnews.go.com/Technology/wireStory/big-tech-big-labor-2020-democrats-line-unions-65324482"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Sign in Team Warren Aug 10, 2019·15 min read By Elizabeth Warren Columbine. Sandy Hook. Charleston. Pulse. Las Vegas. Parkland. Pittsburgh. Now El Paso. Dayton. These are just a few of the names etche...",
+        "upvotes": 1,
+        "url": "https://medium.com/@teamwarren/protecting-our-communities-from-gun-violence-a2ebf7abd9be"
+      },
+      {
+        "preview": "Texas Gov. Greg Abbott expressed dismay on Monday that the mass shooter who killed seven people in West Texas had managed to buy an AR-style weapon in Texas even though he had a criminal history and d...",
+        "upvotes": 309,
+        "url": "https://www.huffpost.com/entry/greg-abbott-texas-mass-shoooter-odessa-criminal-record_n_5d6d89e8e4b0cdfe057458b3"
+      },
+      {
+        "preview": "You will love this site if you: (1) want accurate national election predictions, (2) are a political junkie, (3) don't have the time to track the campaigns, and/or (4) crave an informed overview of wh...",
+        "upvotes": 1,
+        "url": "http://www.borntorunthenumbers.com/2019/09/btrtn-august-2019-month-in-review.html"
+      }
+    ]
+  }
+}

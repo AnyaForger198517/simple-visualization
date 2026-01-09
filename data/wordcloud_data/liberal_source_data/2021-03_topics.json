@@ -1,0 +1,285 @@
+{
+  "month": "2021-03",
+  "total_articles": 122,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "state",
+        "president",
+        "ha",
+        "election",
+        "official",
+        "capitol",
+        "republican",
+        "georgia",
+        "court",
+        "case",
+        "white",
+        "law",
+        "investigation"
+      ],
+      "topic_weights": [
+        482.23473708983363,
+        422.6351832195508,
+        210.1488801291191,
+        194.1529568514023,
+        186.78232808795147,
+        175.9541503002023,
+        114.24139366743238,
+        107.16352883301383,
+        103.51998029046423,
+        95.88989497056207,
+        91.92307417586336,
+        91.85065390518348,
+        80.35952481859074,
+        78.84114342077484,
+        75.57728022751527
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "election",
+        "china",
+        "book",
+        "lie",
+        "state",
+        "ballot",
+        "wa",
+        "military",
+        "ha",
+        "voter",
+        "seuss",
+        "country",
+        "result",
+        "comment",
+        "world"
+      ],
+      "topic_weights": [
+        70.84773346724837,
+        26.71222323578992,
+        25.173772085860584,
+        24.577524144840602,
+        21.449898295516167,
+        21.232288741305762,
+        20.83276724245504,
+        19.814074437815236,
+        18.987796852518695,
+        18.336710940019856,
+        17.875548490101153,
+        16.752675034705018,
+        14.44737276954066,
+        14.196832952118921,
+        13.99233407203328
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "fox",
+        "dominion",
+        "wa",
+        "trump",
+        "money",
+        "election",
+        "news",
+        "lie",
+        "campaign",
+        "billion",
+        "fund",
+        "network",
+        "covid",
+        "provider",
+        "did"
+      ],
+      "topic_weights": [
+        60.866567317725796,
+        56.75744545744581,
+        43.98304458913218,
+        31.332984895844074,
+        30.699694104541685,
+        25.02182818842214,
+        24.4883319825175,
+        23.67447468053997,
+        22.81730781438129,
+        20.482201593686902,
+        19.03893565671849,
+        18.984910674124393,
+        18.90159828665035,
+        17.359820569158714,
+        17.230334913545363
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "louis",
+        "election",
+        "post",
+        "photo",
+        "march",
+        "dispatch",
+        "tuesday",
+        "primary",
+        "candidate",
+        "vote",
+        "jones",
+        "school",
+        "city",
+        "child",
+        "voter"
+      ],
+      "topic_weights": [
+        103.8443501484306,
+        100.87528073814713,
+        86.34017328428376,
+        83.13626615894083,
+        81.83601847427708,
+        81.37567004611068,
+        78.34417427291525,
+        78.17987687608161,
+        67.06416281486682,
+        50.46597235547053,
+        44.82630289768612,
+        43.04190446254498,
+        39.330686860344095,
+        37.45765738016294,
+        33.22348844539609
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "biden",
+        "republican",
+        "democrat",
+        "child",
+        "ha",
+        "senate",
+        "house",
+        "american",
+        "state",
+        "president",
+        "filibuster",
+        "vote",
+        "trump",
+        "support"
+      ],
+      "topic_weights": [
+        158.2883413259868,
+        147.9834598726762,
+        135.09092085055255,
+        117.66085246057932,
+        111.32101559624537,
+        106.18913924754985,
+        98.86799727126662,
+        98.3734901619609,
+        90.20419909853796,
+        89.31572530798748,
+        88.7956988715538,
+        73.6259184199263,
+        72.78497629956287,
+        70.47948266005122,
+        65.50838534642611
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 6,
+    "4": 42,
+    "0": 59,
+    "1": 8,
+    "3": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "FBI Director Christopher Wray on Tuesday debunked false claims made by allies of former President Donald Trump that Antifa provocateurs were really behind the January 6th Capitol riots. During his app...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/wray-debunks-lie/"
+      },
+      {
+        "preview": "If you listen to the justices, they'll say that it's an intellectual discussion of ideas and language, that decisions aren't political, but rather based on abstract philosophical ideas about the origi...",
+        "upvotes": 0,
+        "url": "https://michaeljamesfreedman.com/products/the-mismeasure-of-justice-what-a-truly-representative-supreme-court-would-look-like"
+      },
+      {
+        "preview": "WASHINGTON (AP) — FBI Director Christopher Wray bluntly labeled the January riot at the U.S. Capitol as “domestic terrorism” Tuesday and warned of a rapidly growing threat of homegrown violent extremi...",
+        "upvotes": 422,
+        "url": "https://apnews.com/article/9a5539af34b15338bb5c4923907eeb67"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Almost four months after the November presidential election, Michigan has completed its most comprehensive series of post-election audits in the state's history, confirming the results, Secretary of S...",
+        "upvotes": 1,
+        "url": "https://www.freep.com/story/news/politics/elections/2021/03/02/michigan-election-audit-results/6884982002/"
+      },
+      {
+        "preview": "BOSTON (AP) — Six Dr. Seuss books — including “And to Think That I Saw It on Mulberry Street” and “If I Ran the Zoo” — will stop being published because of racist and insensitive imagery, the business...",
+        "upvotes": 1,
+        "url": "https://apnews.com/article/dr-seuss-books-racist-images-d8ed18335c03319d72f443594c174513"
+      },
+      {
+        "preview": "Former president Donald Trump at a rally in Mesa, Arizona Reprinted with permission from Press Run So many election lies were told at the far-right CPAC conference last weekend that at one point a con...",
+        "upvotes": 1,
+        "url": "https://www.nationalmemo.com/election-2020-lies-"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Exclusive analysis of biotech, pharma, and the life sciences Account More Follow Us By Rachel Cohrs March 2, 2021 WASHINGTON — The Trump administration quietly took around $10 billion from a fund mean...",
+        "upvotes": 7,
+        "url": "https://www.statnews.com/2021/03/02/trump-administration-quietly-spent-billions-in-hospital-funds-on-operation-warp-speed/"
+      },
+      {
+        "preview": "Rep. Jim Jordan, R-Ohio., left, takes part in an interview on media row at the Conservative Political Action Conference (CPAC) Sunday, Feb. 28, 2021, in Orlando, Fla. (AP Photo/John Raoux)AP WASHINGTO...",
+        "upvotes": 16,
+        "url": "https://www.cleveland.com/open/2021/03/jim-jordans-campaign-faces-questions-over-accounting-discrepancies-that-exceed-100k.html"
+      },
+      {
+        "preview": "The Factual | Blog Unbiased news. Trending topics. 2020 was a record year, not least because of the enormous influx of Covid-related news. By our calculations, as many as 500 articles were published b...",
+        "upvotes": 1,
+        "url": "https://blog.thefactual.com/what-are-the-best-liberal-news-sources-for-covid-19"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Finnette Swift, with the St. Louis City Election Board, sets up voting equipment in the gym at Lexington Elementary School in St. Louis on Monday, March 1, 2021. For the first time on Tuesday, St. Lou...",
+        "upvotes": 1,
+        "url": "https://www.stltoday.com/news/local/govt-and-politics/st-louis-voters-confront-changes-to-process-as-they-can-vote-for-more-than-one/article_8a352021-fd24-5913-a21e-2539f56c29a5.html"
+      },
+      {
+        "preview": "Express VPN 12 Months 35% off!! Jenin Younes was my guest on this episode of Chatter. Jenin is a contributor at AIER and a New York City Defender. She is also one of the few left wing lockdown sceptic...",
+        "upvotes": 2,
+        "url": "https://thejist.co.uk/podcast/chatter-125-jenin-younes-on-the-left-wing-case-against-lockdowns/"
+      },
+      {
+        "preview": "Express VPN 12 Months 35% off!! Kyle Walker, the founder of Fair Vote UK, was my guest on today’s show! Fair Vote UK is a campaign group dedicated to addressing a lot of issues that I describe in my b...",
+        "upvotes": 7,
+        "url": "https://thejist.co.uk/podcast/chatter-121-kyle-taylor-on-dark-ads-and-the-case-for-regulating-social-media/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. In a democracy, 50% plus one equals a governing majority. But in the US Senate, it takes 60 votes — or arcane maneuvers like budget \"rec...",
+        "upvotes": 11,
+        "url": "https://www.businessinsider.com/joe-manchin-says-he-will-never-support-ending-the-filibuster-2021-3?amp"
+      },
+      {
+        "preview": "Jeff Bezos would owe $5.7 billion in taxes for 2020 under the Ultra-Millionaire Tax Act proposed by a group of Senate and House Democrats and independent Sen. Bernie Sanders on Monday. Sens. Elizabeth...",
+        "upvotes": 20,
+        "url": "https://www.cnbc.com/2021/03/02/jeff-bezos-would-pay-over-5-billion-a-year-under-warrens-wealth-tax.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The White House on Monday formally threw its backing behind a massive voting rights bill that seeks to shore up voting rights and limit gerrymanderin...",
+        "upvotes": 708,
+        "url": "https://thehill.com/homenews/administration/541028-white-house-backs-bill-to-expand-voting-rights-curb-gerrymandering"
+      }
+    ]
+  }
+}

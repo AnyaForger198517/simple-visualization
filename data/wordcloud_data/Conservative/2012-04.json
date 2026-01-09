@@ -1,0 +1,36 @@
+{
+  "month": "2012-04",
+  "total_articles": 98,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2012 Republican Presidential Candidates and Campaign",
+      "core_keywords": ["romney", "ron paul", "santorum", "republican", "delegate", "campaign", "vote", "obama"],
+      "importance_ratio": 26.53
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2012 US Election Polls, Taxes and Budget",
+      "core_keywords": ["percent", "obama", "romney", "poll", "tax", "budget", "election", "republican", "democrat"],
+      "importance_ratio": 20.41
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Web Browser Security and Technical Issues",
+      "core_keywords": ["browser", "reload", "cooky", "scan", "infected", "device", "network", "nasa"],
+      "importance_ratio": 6.12
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Obama Healthcare Law and Federal Court Cases",
+      "core_keywords": ["obama", "law", "court", "health care", "federal", "state", "government", "justice"],
+      "importance_ratio": 30.61
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Conservatism, Climate Change and Scientific Data",
+      "core_keywords": ["conservative", "science", "global warming", "data", "political", "government", "liberal", "breitbart"],
+      "importance_ratio": 16.33
+    }
+  ]
+}

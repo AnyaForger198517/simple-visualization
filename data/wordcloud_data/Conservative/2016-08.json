@@ -1,0 +1,36 @@
+{
+  "month": "2016-08",
+  "total_articles": 230,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US National Flag Etiquette and Patriotic Symbols",
+      "core_keywords": ["flag", "national", "union", "anthem", "staff", "raised", "society"],
+      "importance_ratio": 0.0087
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Social Justice and Public Issues in American Society",
+      "core_keywords": ["social", "school", "american", "law", "health", "government", "public"],
+      "importance_ratio": 0.3565
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2016 US Election Polls and Forecast (Trump vs Clinton)",
+      "core_keywords": ["trump", "clinton", "poll", "vote", "electoral", "donald", "hillary"],
+      "importance_ratio": 0.0261
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Hillary Clinton's Foundation and Security Related Issues",
+      "core_keywords": ["clinton", "hillary", "foundation", "email", "muslim", "security", "law"],
+      "importance_ratio": 0.1696
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2016 Presidential Election (Trump and Clinton Campaign)",
+      "core_keywords": ["trump", "clinton", "republican", "campaign", "donald", "hillary", "president"],
+      "importance_ratio": 0.4391
+    }
+  ]
+}

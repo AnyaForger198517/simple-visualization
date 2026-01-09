@@ -1,0 +1,280 @@
+{
+  "month": "2011-09",
+  "total_articles": 61,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "american",
+        "ha",
+        "government",
+        "world",
+        "post",
+        "sale",
+        "money",
+        "blog",
+        "income",
+        "conservative",
+        "europe",
+        "billion",
+        "country",
+        "problem"
+      ],
+      "topic_weights": [
+        68.81122929700878,
+        63.94777748259167,
+        60.205963207482164,
+        43.82335979405534,
+        31.63170901766113,
+        30.429940790510308,
+        27.082059980916824,
+        27.04061792467942,
+        26.519682495913614,
+        26.33292888344849,
+        25.41873459164917,
+        24.74067850927874,
+        24.666552934455083,
+        24.641382031134363,
+        23.34923884753062
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "city",
+        "law",
+        "ha",
+        "authority",
+        "religion",
+        "god",
+        "wa",
+        "government",
+        "religious",
+        "christian",
+        "permit",
+        "parking",
+        "state",
+        "gathering",
+        "neighbor"
+      ],
+      "topic_weights": [
+        50.381865545785246,
+        49.886291080612914,
+        38.45024980770566,
+        37.760783502136604,
+        37.59074344173409,
+        35.32948755740831,
+        33.77535330018764,
+        32.643343401102356,
+        32.59316522346333,
+        32.12582202878651,
+        31.380020239373025,
+        29.856017660149163,
+        29.479100932614973,
+        27.53006059956891,
+        27.051888717960352
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ha",
+        "state",
+        "obama",
+        "wa",
+        "perry",
+        "republican",
+        "percent",
+        "campaign",
+        "candidate",
+        "poll",
+        "house",
+        "president",
+        "political",
+        "governor",
+        "party"
+      ],
+      "topic_weights": [
+        119.35189580314875,
+        101.6787408977026,
+        92.03096105927332,
+        89.91591847288473,
+        88.7974988923442,
+        84.40264152871785,
+        69.33901551388234,
+        63.58162508909913,
+        50.590796196145845,
+        45.67945134567987,
+        43.48831706183494,
+        42.12716302697336,
+        42.01464665810039,
+        41.5770593090286,
+        40.7325404391441
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "president",
+        "school",
+        "religion",
+        "child",
+        "government",
+        "obama",
+        "believe",
+        "belief",
+        "address",
+        "unprecedented",
+        "woman",
+        "american",
+        "tax"
+      ],
+      "topic_weights": [
+        310.895176763121,
+        87.76881112021172,
+        69.97553138555837,
+        62.24599666567143,
+        57.93745802312914,
+        54.746504103463366,
+        52.20201581832026,
+        46.30377292330484,
+        45.352818318757336,
+        42.05145722598649,
+        40.86994554235517,
+        40.109146692294686,
+        39.976972468081115,
+        36.176685825788454,
+        35.79453387877859
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "administration",
+        "ha",
+        "obama",
+        "security",
+        "council",
+        "policy",
+        "israel",
+        "support",
+        "simply",
+        "iraq",
+        "argument",
+        "despite",
+        "agenda",
+        "failure",
+        "palestinian"
+      ],
+      "topic_weights": [
+        379.70314897885464,
+        368.59237674855495,
+        327.79467993511764,
+        305.94715899896033,
+        263.23358811156754,
+        222.30645336006236,
+        184.4486995611782,
+        179.16369984408163,
+        170.46482419838318,
+        157.44298350292402,
+        153.6556901514179,
+        148.97473055229557,
+        148.03382505340608,
+        141.63596413768116,
+        139.7846041424347
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 6,
+    "3": 17,
+    "4": 2,
+    "0": 15,
+    "2": 21
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "By David Willey News, Rome A small town in central Italy has declared its independence and started to print its own banknotes. The authorities in Filettino, 100km (70 miles) east of Rome, are protesti...",
+        "upvotes": 0,
+        "url": "http://www.bbc.co.uk/news/world-asia-pacific-14774526"
+      },
+      {
+        "preview": "By Richard Littlejohn for the Daily Mail Updated: 04:29 EDT, 3 September 2011 159 View comments Defiance: Firefighters raise the Stars and Stripes in the ruins of the Twin Towers That’s the trouble wi...",
+        "upvotes": 0,
+        "url": "http://www.dailymail.co.uk/debate/article-2033230/RICHARD-LITTLEJOHN-Americas-taken-hammering-decade-9-11-But-doubt-rediscover-awesome-self-belief.html"
+      },
+      {
+        "preview": "Florida’s young Republican Senator Marco Rubio gave an important speech at the Reagan Presidential Library in California that has set off the liberal talking head universe. He had the temerity to sugg...",
+        "upvotes": 11,
+        "url": "http://townhall.com/columnists/starparker/2011/09/05/marco_rubios_courageous_speech/page/full/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Sign up to read our regular email newsletters By Andy Coghlan Alarmist predictions that the long-term health effects of the Fukushima nuclear accident in Japan will be worse than those following Chern...",
+        "upvotes": 1,
+        "url": "http://www.newscientist.com/article/dn20843-fukushima-media-coverage-may-be-harmful.html"
+      },
+      {
+        "preview": "Sacramento -- Gov. Jerry Brown on Wednesday smacked down what he called overbearing and expensive proposals for state regulations by vetoing bills that would require that kids wear helmets when on ski...",
+        "upvotes": 21,
+        "url": "http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/09/08/BAEG1L1BNF.DTL&tsp=1"
+      },
+      {
+        "preview": "by James D. Best The powers of government should be so divided and balanced among several bodies of magistracy, as that no one could transcend their legal limits, without being effectually checked and...",
+        "upvotes": 9,
+        "url": "http://www.whatwouldthefoundersthink.com/constitutional-speed-bumps"
+      }
+    ],
+    "2": [
+      {
+        "preview": "FOR a man who claims to lack expertise in the field, Bruce Bueno de Mesquita, an academic at New York University, has made some impressively accurate political forecasts. In May 2010 he predicted that...",
+        "upvotes": 1,
+        "url": "http://www.economist.com/node/21527025"
+      },
+      {
+        "preview": "Sign In Richardson used office funds Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreac...",
+        "upvotes": 0,
+        "url": "http://www.washingtontimes.com/news/2011/aug/31/for-briefing-20000-lunch-is-on-the-house/?page=all"
+      },
+      {
+        "preview": "Sign In ← return to Inside Politics Fewer people received insurance coverage through their employer in 2010 than in 2009, and the number of people covered through government insurance programs continu...",
+        "upvotes": 10,
+        "url": "http://www.washingtontimes.com/blog/inside-politics/2011/sep/13/census-fewer-people-covered-work-health-insurance/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "ld, and I forget, and my keyboard has sticking keeeeeeeeeeeeeeys. Sharpton’s latest burst of eloquence, is inspired, ‘we much admit’ Hey, I’m old, and I forget, and my keyboard has sticking keeeeeeeee...",
+        "upvotes": 0,
+        "url": "http://patterico.com/2011/09/01/unprecedented1-the-insult-to-obama-is-a-wound-that-will-never-heal/"
+      },
+      {
+        "preview": "The political debate over separation of church and state has affected my life since I was in the second grade. Even at such a young age, I was aware of the turmoil caused by the great debate, and bein...",
+        "upvotes": 0,
+        "url": "http://terrimeredith.hubpages.com/hub/Separation-of-Church-and-State-Breeds-Intolerance"
+      },
+      {
+        "preview": "Dr. James Joyner has a thoughtful essay this week on the proper role and treatment of presidents and other governmental figures. Titled “We Have a President, Not a King” he explores the reactions of t...",
+        "upvotes": 2,
+        "url": "http://hotair.com/archives/2011/09/02/of-presidents-and-kings/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "o strenuously to the way things are done, or makes its support for the UN conditional on UN actions, then all the other UN members will be offended and refuse to cooperate with the US. The final argum...",
+        "upvotes": 0,
+        "url": "http://www.jewishworldreview.com/0911/glick090211.php3"
+      },
+      {
+        "preview": "Print A showdown is looming this week at the United Nations General Assembly, where the Palestinians plan to seek membership as an independent state. Israeli Prime Minister Benjamin Netanyahu told his...",
+        "upvotes": 0,
+        "url": "http://www.voanews.com/english/news/middle-east/Netanyahu-Predicts-Failure-of-Palestinian-Statehood-Bid-130063563.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2014-02",
+  "total_articles": 63,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "climate",
+        "energy",
+        "state",
+        "ha",
+        "carbon",
+        "oil",
+        "coal",
+        "fuel",
+        "global",
+        "change",
+        "wa",
+        "world",
+        "gas",
+        "pipeline",
+        "emission"
+      ],
+      "topic_weights": [
+        82.61328310143307,
+        76.1145011699911,
+        63.09166706008714,
+        51.156870266083786,
+        51.04278817916706,
+        49.393863395504006,
+        47.433352615156636,
+        46.514973290363606,
+        42.81779214703771,
+        40.15219304599868,
+        28.932777131491115,
+        25.375036665032255,
+        24.995316369598534,
+        24.340473969913653,
+        24.27587478559424
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "mike",
+        "deep",
+        "government",
+        "wing",
+        "tax",
+        "page",
+        "american",
+        "ha",
+        "wa",
+        "support",
+        "group",
+        "physician",
+        "jones",
+        "donation"
+      ],
+      "topic_weights": [
+        50.15965593162091,
+        41.767933373561235,
+        28.992696743093646,
+        28.169243617118504,
+        27.628810159480366,
+        26.077655072799,
+        23.46435301583763,
+        21.019315599822477,
+        20.90268001571219,
+        20.49195502096125,
+        19.723241401925442,
+        17.678327008403215,
+        17.558997074268575,
+        17.39720894806667,
+        17.352005151480803
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "american",
+        "wage",
+        "report",
+        "job",
+        "inequality",
+        "cbo",
+        "income",
+        "percent",
+        "news",
+        "gun",
+        "minimum",
+        "republican",
+        "obamacare"
+      ],
+      "topic_weights": [
+        56.72141327500799,
+        55.11598784666261,
+        46.42572578886225,
+        44.89564866384593,
+        39.69592140917788,
+        36.78528950296235,
+        36.69619258593937,
+        36.397842854503004,
+        36.177382051541095,
+        35.60262590722119,
+        32.861482179700616,
+        31.999657395995577,
+        31.836737770735333,
+        31.071380044728198,
+        30.83967507410401
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "state",
+        "email",
+        "government",
+        "party",
+        "voting",
+        "right",
+        "ha",
+        "liberal",
+        "democratic",
+        "republican",
+        "law",
+        "life",
+        "von",
+        "act"
+      ],
+      "topic_weights": [
+        66.81058221447206,
+        61.94016329870656,
+        56.80161958843158,
+        48.799539360768435,
+        48.688159060038984,
+        45.55531468114996,
+        41.00010108193046,
+        37.597050870903374,
+        37.569838406669135,
+        36.5101119688332,
+        29.692416371033037,
+        27.191140346984294,
+        27.100582676354627,
+        27.056600256062314,
+        26.151885195010195
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "paul",
+        "religious",
+        "ha",
+        "wa",
+        "state",
+        "republican",
+        "party",
+        "house",
+        "gop",
+        "obama",
+        "immigration",
+        "gay",
+        "liberty",
+        "security",
+        "president"
+      ],
+      "topic_weights": [
+        60.0099963999204,
+        54.11745399337604,
+        45.91305820095467,
+        42.381534573701266,
+        38.627104222206974,
+        33.5974763297861,
+        29.94879175557353,
+        28.91698810778706,
+        27.588843907225847,
+        24.171194092869577,
+        23.844062666564586,
+        22.71649356318117,
+        19.04694686551252,
+        18.885612723829194,
+        18.864594628063802
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 10,
+    "2": 24,
+    "0": 6,
+    "1": 11,
+    "3": 12
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "MARK KARLIN, EDITOR OF BUZZFLASH AT TRUTHOUTS (Photo: mechanikat)Some people are just very touchy about their toileting, enough to make discriminating against transgender students a priority -- and fu...",
+        "upvotes": 3,
+        "url": "http://truth-out.org/buzzflash/commentary/bigoted-obsessions-utah-legislator-would-force-transgender-students-to-use-different-washrooms"
+      },
+      {
+        "preview": "Welcome, While Obama talks of putting America on the path to a clean, green future, we’re flooding world markets with cheap, high carbon fuels Reporter Illustration by Victor Juhasz The greening of Am...",
+        "upvotes": 9,
+        "url": "http://www.rollingstone.com/politics/news/how-the-u-s-exports-global-warming-20140203"
+      },
+      {
+        "preview": "By Daily Mail Reporter Published: 18:01 EDT, 11 February 2014 | Updated: 12:23 EDT, 12 February 2014 288 View comments Supreme Court Justice Clarence Thomas told a group of college students on Tuesday...",
+        "upvotes": 0,
+        "url": "http://www.dailymail.co.uk/news/article-2557185/America-sensitive-race-says-Supreme-Court-justice.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Whole Foods workers in Chicago walked off the job Wednesday in support of a co-worker they say was wrongly fired after staying home with \"her special needs son\" during last week’s polar vortex. “We’ve...",
+        "upvotes": 48,
+        "url": "http://www.salon.com/2014/02/05/thats_cold_whole_foods_polar_vortex_firing_spurs_chicago_strike/"
+      },
+      {
+        "preview": "<a  Reitmeyer</a>/Shutterstock In December, the Internal Revenue Service and the Treasury Department issued a set of much-needed guidelines that spell out how the IRS should assess the applications of...",
+        "upvotes": 10,
+        "url": "http://www.motherjones.com/mojo/2014/02/congressional-republicans-irs-dark-money"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 11,
+        "url": "http://www.rightwingwatch.org/content/hypocrisy-thy-name-glenn-beck#sthash.3aTxxetx.sfju"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Written by Albert Kleine Published 01/31/14 3:41 PM EST Share Comment Right-wing media figures are baselessly stoking fears about calls to reduce inequality and expand opportunity to low-income Americ...",
+        "upvotes": 30,
+        "url": "http://mediamatters.org/research/2014/01/31/the-war-on-wealth-right-wing-media-defend-the-w/197873"
+      },
+      {
+        "preview": "Filed under: The clueless multimillionaire that is out of touch with middle America and uses influence to tip odds in his favor: it's an overblown stereotype, right? A survey that sampled the richest ...",
+        "upvotes": 11,
+        "url": "http://www.deseretnews.com/article/865595335/Is-the-1-greedy-Study-says-yes.html?utm_source=hootsuite&utm_campaign=hootsuite"
+      },
+      {
+        "preview": "Chris House has a somewhat odd post in which he argues that unlike in most other academic disciplines, in economics the facts have a conservative bias: I suspect that the relatively high proportion of...",
+        "upvotes": 92,
+        "url": "http://www.slate.com/blogs/moneybox/2014/02/04/economics_is_liberal_chris_house_on_conservative_economics.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Mike Huckabee has some thoughts about human sexuality and he’s not afraid to share them. The former Arkansas governor said Friday that he has no regrets about his remarks about the female libido. “No,...",
+        "upvotes": 7,
+        "url": "http://talkingpointsmemo.com/livewire/mike-huckabee-libido-sex-drive"
+      },
+      {
+        "preview": "The left may have more clout than it once did, but commentators shouldn't mistake progressives for the Democrats' equivalent of the Tea Party. In a classroom in Harlem, the liberal new mayor of New Yo...",
+        "upvotes": 31,
+        "url": "http://www.theatlantic.com/politics/archive/2014/02/no-liberals-dont-control-the-democratic-party/283653/"
+      },
+      {
+        "preview": "We'll give you a script and connect you automatically. I am one of your constituents, and I’m calling to ask you to take action against mass surveillance by the NSA. I’d like Senator/Representative __...",
+        "upvotes": 9,
+        "url": "https://thedaywefightback.org/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The \"standards\" for immigration reform offered by Republican members of the U.S. House of Representatives today fail to offer any serious proposals to fix the nation’s broken immigration system. The “...",
+        "upvotes": 2,
+        "url": "http://www.splcenter.org/get-informed/news/gop-immigration-reform-standards-offer-more-of-the-same-failed-policies"
+      },
+      {
+        "preview": "Sure, the religious right is still teamed up with conservative politicians in their battle against gay marriage, abortion, and immigration reform, just as they've been since 1979 when Jerry Falwell bi...",
+        "upvotes": 54,
+        "url": "http://m.huffpost.com/us/entry/4720527"
+      },
+      {
+        "preview": "On January 26, the Disney Channel made a gentle stride into a more progressive era by featuring its first-ever same-sex couple on an episode of Good Luck Charlie, introducing two lesbian moms who brin...",
+        "upvotes": 85,
+        "url": "http://www.avclub.com/article/someone-sent-death-threats-to-a-5yearold-disney-st-107602"
+      }
+    ]
+  }
+}

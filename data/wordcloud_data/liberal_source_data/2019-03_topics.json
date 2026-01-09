@@ -1,0 +1,280 @@
+{
+  "month": "2019-03",
+  "total_articles": 135,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "officer",
+        "police",
+        "video",
+        "did",
+        "family",
+        "car",
+        "shooting",
+        "city",
+        "hand",
+        "saying",
+        "gun",
+        "plan",
+        "told",
+        "friday"
+      ],
+      "topic_weights": [
+        248.54409744573223,
+        221.96481296423784,
+        218.23938322532013,
+        122.58363913956791,
+        73.65875101550185,
+        73.56930735159396,
+        69.85704680025951,
+        69.54816000341445,
+        67.26319186154879,
+        52.01076204461435,
+        50.21468198065423,
+        46.7428673677076,
+        43.753149152423696,
+        41.77972964798247,
+        39.619689321080614
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "state",
+        "ha",
+        "president",
+        "american",
+        "republican",
+        "white",
+        "democrat",
+        "political",
+        "house",
+        "campaign",
+        "policy",
+        "liberal",
+        "government"
+      ],
+      "topic_weights": [
+        244.6501719736596,
+        221.7055886565689,
+        195.47434131234962,
+        192.06426106751186,
+        129.77111842411125,
+        128.92031485204097,
+        115.00962336849523,
+        113.06178400832626,
+        109.06512780897833,
+        103.29854480439963,
+        101.51372335476586,
+        96.85072794066424,
+        83.61887649981708,
+        77.22171902094078,
+        75.8399723872841
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "mueller",
+        "tax",
+        "report",
+        "maddow",
+        "cut",
+        "company",
+        "child",
+        "office",
+        "investigation",
+        "money",
+        "rate",
+        "medium"
+      ],
+      "topic_weights": [
+        339.5946772213455,
+        307.66187740614544,
+        282.718874571528,
+        222.23853176605564,
+        211.0678538952059,
+        179.16155294341033,
+        159.99901194377796,
+        135.3255187423743,
+        120.84557114168125,
+        120.79717846204733,
+        108.37519617934434,
+        105.44349059734382,
+        104.10689870867927,
+        101.52997141090854,
+        87.04937864281717
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "vote",
+        "hillary",
+        "state",
+        "wa",
+        "trump",
+        "job",
+        "lost",
+        "number",
+        "won",
+        "trade",
+        "obama",
+        "got",
+        "point",
+        "election",
+        "did"
+      ],
+      "topic_weights": [
+        419.60516983171766,
+        412.1722676994981,
+        355.94197200397275,
+        317.8732379863174,
+        283.1710188084948,
+        268.73850406035547,
+        233.25957326175407,
+        225.6292332501918,
+        192.18670741862147,
+        172.88777502403673,
+        165.9627932320488,
+        132.1392733227283,
+        126.97097067255466,
+        122.15217886516191,
+        122.09496492904131
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "water",
+        "river",
+        "delta",
+        "state",
+        "wa",
+        "environment",
+        "program",
+        "local",
+        "clean",
+        "social",
+        "ha",
+        "public",
+        "contact",
+        "work",
+        "group"
+      ],
+      "topic_weights": [
+        437.2848131139702,
+        344.18038981044504,
+        197.51141117232171,
+        147.69024149111516,
+        147.0557935858167,
+        142.05654108491908,
+        122.77930800427104,
+        115.18738057096148,
+        106.15621778139925,
+        100.64447521889258,
+        89.92474150920499,
+        88.66769795752874,
+        82.4571987299954,
+        78.72463027315199,
+        77.01609370438811
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 112,
+    "4": 4,
+    "2": 13,
+    "3": 2,
+    "0": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": " out new rules governing stops and searches, internal discipline and much more. Gene Ryan, the leader of the police union, complained that his organization had been shut out of the process of drafting...",
+        "upvotes": 0,
+        "url": "https://www.nytimes.com/2019/03/12/magazine/baltimore-tragedy-crime.html"
+      },
+      {
+        "preview": "Oklahoma Black Lives Matter Director T. Sheri Dickerson looks at racist, anti-Semitic and transphobic symbols and language spray-painted on the building that houses the offices of the Oklahoma Democra...",
+        "upvotes": 1,
+        "url": "https://www.tulsaworld.com/news/local/crime-and-courts/oklahoma-democratic-party-headquarters-vandalized-with-hate-spewing-graffiti/article_55c81f85-a232-5a3b-b63d-8b9030f4a4d4.html"
+      },
+      {
+        "preview": "After nearly a decade of manipulating the political system in order to undermine the Affordable Care Act (ACA), widely known as \"Obamacare,\" it seems that Republicans are on the verge of getting their...",
+        "upvotes": 61,
+        "url": "https://www.huffpost.com/entry/we-got-alex-jones-deposition-video-it-was-a-predictable-disaster_n_5c9d06fae4b03218ee1ca133"
+      }
+    ],
+    "1": [
+      {
+        "preview": "To revisit this article, select My Account, then To revisit this article, visit My Profile, then View saved stories By Andy Borowitz WASHINGTON (The Borowitz Report)—The special counsel’s office has o...",
+        "upvotes": 5,
+        "url": "https://www.newyorker.com/humor/borowitz-report/mueller-says-he-has-obtained-trumps-sat-scores"
+      },
+      {
+        "preview": "Sean Hannity sat down with President Donald Trump in an interview that aired Thursday evening, but the biggest news to emerge may have been about the Fox News host himself. Hannity claimed to have inf...",
+        "upvotes": 0,
+        "url": "https://www.huffpost.com/entry/sean-hannity-michael-cohen-congress_n_5c78d06fe4b0de0c3fbf7fec"
+      },
+      {
+        "preview": "In a story to rival the plot of BlacKkKlansman, James Hart Stern takes leadership of America’s National Socialist Movement Last modified on Sat 2 Mar 2019 16.43 EST They call him the “race whisperer”,...",
+        "upvotes": 1,
+        "url": "https://www.theguardian.com/us-news/2019/mar/02/race-whisperer-seizes-control-american-neo-nazi-group"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Supported by Consumers, not foreigners, are paying the Trump tariffs. By Paul Krugman Opinion Columnist Say this for Donald Trump: He’s provided us with many iconic quotations, which wil...",
+        "upvotes": 39,
+        "url": "https://www.nytimes.com/2019/03/03/opinion/how-goes-the-trade-war.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Trump administration said Wednesday that it has identified 471 migrant parents who were removed from the country without first being reunited wit...",
+        "upvotes": 24,
+        "url": "https://thehill.com/latino/432972-trump-admin-identifies-471-parents-deported-without-children-during-family-separations"
+      },
+      {
+        "preview": "Mar. 6, 2019, at 6:00 AM A  Chat Filed under The Trump Administration Welcome to ’s weekly politics chat. The transcript below has been lightly edited. sarahf (Sarah Frostenson, politics editor): In t...",
+        "upvotes": 1,
+        "url": "https://fivethirtyeight.com/features/how-has-fox-news-changed-in-the-trump-era/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The data that came in this week wasn’t terrible, but it was far from Trump’s campaign rhetoric. It’s hard to know how to respond when Trump sets up a stupid benchmark and then fails to meet it. On the...",
+        "upvotes": 1,
+        "url": "https://weeklysift.com/2019/03/11/the-balloon-pops-on-trumps-economic-promises/"
+      },
+      {
+        "preview": "On Monday night, the first night that MSNBC’s Rachel Maddow Show aired after Attorney General William Barr released his four-page memo on the Mueller report, Rachel Maddow was skeptical. Like, extreme...",
+        "upvotes": 1,
+        "url": "https://election2020.home.blog/2019/03/29/why-did-trump-win-in-2016/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Table of Contents What I DidHerbal Clean QCarbo cleansing drinkP Clean Emergency Detox pills for weedStinger 7 Day Total DetoxHerbal Pre-Cleanse Formula ReviewToxin rid reviewInstructions for Toxin Ri...",
+        "upvotes": 1,
+        "url": "https://www.exit-5.net/detox-pills-for-weed-what-works-and-what-doesnt/"
+      },
+      {
+        "preview": "Rebecca Hersher Robert Benincasa A boy rides his bike through still water after a thunderstorm in the Lakewood area of East Houston, which flooded during Hurricane Harvey. Claire Harbage/ hide caption...",
+        "upvotes": 1,
+        "url": "https://www.npr.org/2019/03/05/688786177/how-federal-disaster-money-favors-the-rich"
+      },
+      {
+        "preview": "Log in or sign up for a new account and join now to continue reading. Join now to continue reading. Your current subscription does not provide access to this content. Overcast with rain showers at tim...",
+        "upvotes": 3,
+        "url": "https://www.watertowndailytimes.com/national/at-an-ice-facility-a-host-of-health-issues-includes-unrecognizable-spoiled-food-20190301"
+      }
+    ]
+  }
+}

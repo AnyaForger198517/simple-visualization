@@ -1,0 +1,275 @@
+{
+  "month": "2011-12",
+  "total_articles": 71,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "huntsman",
+        "conservative",
+        "tea",
+        "campaign",
+        "party",
+        "ha",
+        "economic",
+        "republican",
+        "erickson",
+        "tax",
+        "state",
+        "obama",
+        "support",
+        "american",
+        "come"
+      ],
+      "topic_weights": [
+        171.7663279931142,
+        127.27514641687586,
+        58.15198418890406,
+        53.418040433640286,
+        50.9303628868945,
+        47.63685803378928,
+        44.68529743748261,
+        39.66309568285386,
+        36.060774531076206,
+        35.26913831909996,
+        34.84850042283608,
+        34.63679747326944,
+        31.19568249943569,
+        28.87142410963931,
+        28.633168361862644
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "paul",
+        "republican",
+        "voter",
+        "party",
+        "state",
+        "wa",
+        "vote",
+        "election",
+        "ha",
+        "fraud",
+        "ron",
+        "candidate",
+        "campaign",
+        "percent",
+        "primary"
+      ],
+      "topic_weights": [
+        285.3246074926755,
+        126.82627730449686,
+        123.50227343312953,
+        98.2579201108796,
+        97.06389117435074,
+        78.63453033563745,
+        71.68321071235457,
+        63.5601936504056,
+        61.86607353001337,
+        59.98107740773374,
+        57.33711346612441,
+        50.25903538197659,
+        47.51450400288734,
+        44.366825186139494,
+        43.74011179273204
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "president",
+        "republican",
+        "gingrich",
+        "news",
+        "percent",
+        "american",
+        "house",
+        "white",
+        "state",
+        "campaign",
+        "america",
+        "election"
+      ],
+      "topic_weights": [
+        293.33581889879576,
+        288.9419547311706,
+        236.93658929494708,
+        150.06500055341783,
+        147.38604522210284,
+        134.53662736739278,
+        126.41811859626087,
+        114.80866822226753,
+        99.7300825493827,
+        83.84486141043139,
+        80.49360371545968,
+        73.54246937806079,
+        72.77352269810712,
+        71.36255154538408,
+        63.25189307633306
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "iran",
+        "coup",
+        "oil",
+        "iranian",
+        "needed",
+        "state",
+        "page",
+        "government",
+        "british",
+        "cia",
+        "company",
+        "united",
+        "power",
+        "american"
+      ],
+      "topic_weights": [
+        214.8581432444249,
+        154.9016941222489,
+        92.23353149488902,
+        87.22440405586016,
+        79.7795920723653,
+        77.81784981459215,
+        73.22416721740963,
+        72.28136765897948,
+        71.6240962446538,
+        71.56086390985521,
+        54.69008933549264,
+        49.20933388968672,
+        44.304076461865485,
+        39.69266752701879,
+        36.46449641761926
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "republican",
+        "party",
+        "paul",
+        "conservatism",
+        "conservative",
+        "street",
+        "establishment",
+        "politics",
+        "wall",
+        "old",
+        "american",
+        "ha",
+        "war",
+        "pay",
+        "liberty"
+      ],
+      "topic_weights": [
+        304.5108844482094,
+        265.89712549189414,
+        253.9448005639007,
+        150.29811521958538,
+        133.31678779924155,
+        127.77748088499578,
+        126.58585624496962,
+        116.15079754296136,
+        114.33681251984805,
+        112.63697844668346,
+        107.20262774902788,
+        100.10424944564072,
+        90.39765518678225,
+        89.81029783549329,
+        80.81627198363375
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 3,
+    "2": 51,
+    "1": 13,
+    "0": 3,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "This past weekend was a difficult weekend for me and for tens of thousand of other Herman Cain supporters. As a long-time supporter of Mr. Cain’s presidential campaign, it was painful to watch how his...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2011/12/05/why-cain-supporters-should-consider-gary-johnson"
+      },
+      {
+        "preview": "uishing in the polls. I went to Huntsman’s announcement speech, before he made those comments, and I didn’t think he had much of a shot even back then.) “Huntsman has a very strong economic program an...",
+        "upvotes": 4,
+        "url": "http://www.thenation.com/blog/164980/conservatives-jon-huntsman"
+      },
+      {
+        "preview": "Advertisement Supported by By Jason DeParle WASHINGTON — Hold the condolence cards, but the recession cost the rich. The share of income received by the top 1 percent — that potent symbol of inequalit...",
+        "upvotes": 0,
+        "url": "http://www.nytimes.com/2011/12/13/business/economy/recession-crimped-incomes-of-the-richest-americans.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 1,
+        "url": "http://www.washingtontimes.com/news/2011/dec/1/inside-the-beltway-131637118/#.TtkzSBetlKU.reddit"
+      },
+      {
+        "preview": "President Obama's uphill battle to re-election is getting steeper. A report released today by the centrist think-tank Third Way showed that more than 825,000 voters in eight key battleground states ha...",
+        "upvotes": 6,
+        "url": "http://abcnews.go.com/blogs/politics/2011/12/voters-flee-democratic-party-in-key-swing-states/"
+      },
+      {
+        "preview": "A Doonesbury cartoon on a recent Sunday contained a distillation of a current talking point among progressives: \"Question: What fraud? Voter fraud is close to non-existent!\" Progressives think that if...",
+        "upvotes": 0,
+        "url": "http://americanthinker.com/2011/12/voter_fraud_for_the_complete_idiot.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved “The Federal Election Commission has just this week confirmed that no presidential candidate to date has opted to participate for the 2012 election,”...",
+        "upvotes": 2,
+        "url": "http://thehill.com/blogs/floor-action/house/196577-gop-obama-paved-way-for-ending-public-financing-of-campaigns"
+      },
+      {
+        "preview": "1. Agenda: Unlike the clarity of the Tea Party message of smaller government, the Wall Street Occupiers have a potpourri of juvenile demands, from free college education and an annual living wage to “...",
+        "upvotes": 0,
+        "url": "http://urbantruthnetwork.wordpress.com/2011/12/01/top-10-reasons-occupy-wall-street-is-a-joke-human-events/"
+      },
+      {
+        "preview": "From ABC News. (H/T Richard M.) Excerpt: The female bodybuilder who once ran a bicycle business with latest Herman Cain accuser Ginger White says the Atlanta woman never mentioned the Republican presi...",
+        "upvotes": 22,
+        "url": "http://wp.me/pqyhO-6YS"
+      }
+    ],
+    "3": [
+      {
+        "preview": "th sudden mass public revulsion against this act, the next part of Zahedi's plan came into action. From the vandalized bazaars, a second group of paid infiltrators, this time posing as Shah supporters...",
+        "upvotes": 1,
+        "url": "http://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat"
+      },
+      {
+        "preview": "Sharyl Attkisson of CBS News has posted a bombshell article detailing how the Obama administration has greatly increased gun sales to the Mexican military. But further investigation into Attkisson’s d...",
+        "upvotes": 26,
+        "url": "http://pjmedia.com/blog/gunwalker-goes-legal-obama-massively-increased-gun-sales-to-mexican-military/?singlepage=true"
+      },
+      {
+        "preview": "The rapid expansion of a drone arms race has emerged both domestically and abroad, leaving everyone vulnerable. San Francisco, California – On Sunday, Iran claimed to have taken down a US drone in Ira...",
+        "upvotes": 1,
+        "url": "http://www.aljazeera.com/indepth/opinion/2011/12/201112774824829807.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "t, if the polls are to be believed, it quite intrigues the folks on Main Street who may be waking up to the fact that the “conservatism” of a Newt Gingrich or a Mitt Romney is a sham argument designed...",
+        "upvotes": 30,
+        "url": "http://www.thenation.com/blog/165290/why-do-gop-bosses-fear-ron-paul-hes-conservative"
+      }
+    ]
+  }
+}

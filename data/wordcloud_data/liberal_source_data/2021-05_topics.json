@@ -1,0 +1,285 @@
+{
+  "month": "2021-05",
+  "total_articles": 400,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "commission",
+        "house",
+        "democrat",
+        "vote",
+        "wa",
+        "election",
+        "committee",
+        "senate",
+        "capitol",
+        "trump",
+        "gop",
+        "member",
+        "support",
+        "president"
+      ],
+      "topic_weights": [
+        1010.8749748390118,
+        530.2814147741926,
+        466.96408357565105,
+        440.46944150394785,
+        355.7007638171864,
+        351.56174122151026,
+        345.1432515217615,
+        342.3331561245849,
+        315.9892107457624,
+        290.8870125521843,
+        280.0871765316049,
+        272.68471875067456,
+        229.16041318581676,
+        226.20933111446985,
+        222.8252732281105
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "election",
+        "voting",
+        "wa",
+        "texas",
+        "voter",
+        "vote",
+        "ha",
+        "republican",
+        "ballot",
+        "law",
+        "county",
+        "american",
+        "arizona",
+        "news"
+      ],
+      "topic_weights": [
+        965.8717358194583,
+        840.1832414427888,
+        643.2650661441215,
+        545.5500510627213,
+        477.48554585785894,
+        404.17877287716476,
+        390.94010348985364,
+        378.71042373788316,
+        375.6559638474398,
+        365.68962341689274,
+        296.9456252263784,
+        288.6195362575078,
+        274.12380942229595,
+        220.97054936510352,
+        208.8695510206436
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "trump",
+        "president",
+        "biden",
+        "ha",
+        "official",
+        "state",
+        "reported",
+        "donald",
+        "attorney",
+        "office",
+        "investigation",
+        "department",
+        "report",
+        "police"
+      ],
+      "topic_weights": [
+        873.8694089740744,
+        803.9558761602503,
+        535.200169870092,
+        339.05939862542107,
+        335.6335775258943,
+        242.31168891049185,
+        209.76359522263277,
+        208.100100550967,
+        207.44078871341637,
+        202.43799221187692,
+        192.29568145270935,
+        185.95024108962147,
+        174.918816996645,
+        174.5364781079643,
+        162.2425295937484
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "republican",
+        "cheney",
+        "party",
+        "wa",
+        "ha",
+        "president",
+        "election",
+        "house",
+        "stefanik",
+        "email",
+        "giuliani",
+        "mccarthy",
+        "enter",
+        "valid"
+      ],
+      "topic_weights": [
+        1140.5115227808676,
+        594.5978816520935,
+        441.2572091173866,
+        436.80059332376123,
+        427.3040042117066,
+        353.7347201680368,
+        302.4830806755597,
+        276.6025268673944,
+        273.5960068023107,
+        247.75797356723285,
+        244.10306452936766,
+        243.94409268279526,
+        198.84492166114023,
+        186.90277826580237,
+        180.89043605125167
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "israel",
+        "palestinian",
+        "israeli",
+        "wa",
+        "administration",
+        "family",
+        "military",
+        "policy",
+        "right",
+        "government",
+        "aid",
+        "billion",
+        "tax",
+        "human"
+      ],
+      "topic_weights": [
+        210.62374929762035,
+        194.2931932475615,
+        159.23565462350902,
+        148.99697970424162,
+        140.0887056638558,
+        134.75857135071524,
+        123.13711521765734,
+        116.72475243033476,
+        108.45613739289384,
+        98.06500905034969,
+        96.50433834449825,
+        94.01636825264558,
+        88.64435782742771,
+        84.68969219012921,
+        83.73713396013002
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 66,
+    "2": 159,
+    "1": 107,
+    "4": 24,
+    "0": 44
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News WASHINGTON — Progressives were frequently aghast at candidate Joe Biden's instinct for moderation, his nostalgia for a bygone era and a record they p...",
+        "upvotes": 3,
+        "url": "https://www.nbcnews.com/politics/joe-biden/joe-biden-proving-progressives-wrong-they-re-loving-it-n1265089"
+      },
+      {
+        "preview": "Sen. Ted Cruz’s (R-Texas) threat to “woke” CEOs was slammed Sunday as likely the “most openly corrupt” message ever from the Senate, declared Walter Shaub, former head of the Government Office of Ethi...",
+        "upvotes": 154,
+        "url": "https://www.huffpost.com/entry/ted-cruz-walter-shaub-republicans_n_608f1ca7e4b0c15313f54bc2"
+      },
+      {
+        "preview": "New York Rep. Alexandria Ocasio-Cortez praised President Joe Biden and his administration Friday, sharing that she's been impressed with Biden's invitations to work and collaborate with progressive la...",
+        "upvotes": 1,
+        "url": "https://www.usatoday.com/story/news/politics/2021/04/24/aoc-says-biden-administration-has-exceeded-progressive-expectations/7366881002/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The public has received the most detailed explanation yet of the route that every Maricopa County ballot will take through an unprecedented recount ordered by the state Senate. The private company ove...",
+        "upvotes": 52,
+        "url": "https://www.azcentral.com/story/news/politics/arizona/2021/04/29/group-running-arizona-election-audit-releases-documents-after-court-order/7403667002/"
+      },
+      {
+        "preview": "An Arizona Republic reporter was escorted from the Arizona election audit site on Friday morning after posting a photo showing a former Republican legislator at a ballot-counting table. The photo show...",
+        "upvotes": 19,
+        "url": "https://www.azcentral.com/story/news/politics/arizona/2021/04/30/ryan-randazzo-escorted-from-arizona-audit-site-after-tweet-former-state-rep-anthony-kern/4892470001/"
+      },
+      {
+        "preview": "A sign reading \"Help! Solve the Water Crisis,\" posted in California's central valley. In Pictures Ltd./Getty This story was originally published by The Guardian and is reproduced here as part of the C...",
+        "upvotes": 17,
+        "url": "https://www.motherjones.com/environment/2021/04/drought-plagued-california-orders-nestle-to-stop-hogging-water/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The steps the far-right is taking in response to the loss of the election by Donald Trump—who lost the popular vote in both 2016 and 2020—continues into pure delusion. Attorney and conspiracy theorist...",
+        "upvotes": 136,
+        "url": "https://www.comicsands.com/trump-biden-wood-qanon-president-2652835325.html"
+      },
+      {
+        "preview": "CNN host John Berman on Friday expressed astonishment at the incompetence displayed by former Trump lawyer Rudy Giuliani, who played a central role in both of the former president's impeachments. Duri...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/rudy-giuliani-2652835215/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 33,
+        "url": "https://www.buzzfeednews.com/article/christopherm51/rudy-giuliani-ukraine-phone-call-transcript"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 1,
+        "url": "https://www.google.com/amp/s/www.axios.com/mt-rushmore-fireworks-south-dakota-biden-ab206e03-4ca3-4728-ab04-d1fa8bf3c97c.html"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 5,
+        "url": "https://www.axios.com/gop-leaders-cheney-ouster-fc28f6c2-507e-4a69-b4c4-6af95cc734fc.html"
+      },
+      {
+        "preview": "Debra Ell, a Republican organizer in Michigan and fervent supporter of former president Donald Trump, said she has good reason to believe the 2020 presidential election was stolen. “I think I speak fo...",
+        "upvotes": 6,
+        "url": "https://www.washingtonpost.com/politics/republicans-trump-election-falsehood/2021/05/01/7bd380a0-a921-11eb-8c1a-56f0cb4ff3b5_story.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. A woman wearing a mask ...",
+        "upvotes": 2,
+        "url": "https://www.commondreams.org/news/2021/04/30/third-round-coronavirus-relief-checks-led-largest-monthly-rise-household-income-1959"
+      },
+      {
+        "preview": "All related construction contracts will be canceled, an official told ABC News. The Biden administration is returning to the Pentagon billions in funds diverted by President Donald Trump to build the ...",
+        "upvotes": 1,
+        "url": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-return-billions-border-wall-funding-trump/story?id=77423458"
+      },
+      {
+        "preview": "View state-by-state statistics Download the National Statistics Domestic Violence Fact Sheet View all our domestic violence fact sheets Click on any of the following to find easily printable and share...",
+        "upvotes": 2,
+        "url": "https://ncadv.org/STATISTICS"
+      }
+    ]
+  }
+}

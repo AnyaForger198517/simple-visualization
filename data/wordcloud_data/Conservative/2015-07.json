@@ -1,0 +1,36 @@
+{
+  "month": "2015-07",
+  "total_articles": 300,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Hillary Clinton's Email Controversy and Related Updates",
+      "core_keywords": ["clinton", "email", "hillary", "posted", "june", "increase"],
+      "importance_ratio": 0.0067
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Republican Presidential Campaign and Political Landscape",
+      "core_keywords": ["trump", "republican", "campaign", "candidate", "obama", "conservative"],
+      "importance_ratio": 0.4000
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Supreme Court Rulings on Gay Marriage and Religious Rights",
+      "core_keywords": ["supreme court", "gay marriage", "religious", "law", "justice", "christian"],
+      "importance_ratio": 0.0767
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Planned Parenthood Controversy and Iran Nuclear Deal",
+      "core_keywords": ["planned parenthood", "iran", "abortion", "obama", "deal", "video"],
+      "importance_ratio": 0.5000
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Hillary Clinton and Bernie Sanders' Democratic Campaign",
+      "core_keywords": ["hillary", "bernie", "democrat", "july", "posted", "vote"],
+      "importance_ratio": 0.0167
+    }
+  ]
+}

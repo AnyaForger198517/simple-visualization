@@ -1,0 +1,36 @@
+{
+  "month": "2015-12",
+  "total_articles": 399,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Social issues (gender, race, climate) in American society",
+      "core_keywords": ["American society", "gender issues", "racial issues", "climate change", "government", "education"],
+      "importance_ratio": 28.32
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump and Republican presidential campaign 2016",
+      "core_keywords": ["Donald Trump", "Republican party", "Hillary Clinton", "presidential candidate", "vote", "GOP"],
+      "importance_ratio": 16.79
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Cruz, Rubio and Republican campaign in Iowa",
+      "core_keywords": ["Ted Cruz", "Marco Rubio", "Iowa", "Republican campaign", "immigration", "conservative"],
+      "importance_ratio": 19.05
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Gun law, terrorism and Muslim-related attacks",
+      "core_keywords": ["gun law", "terrorist attack", "Muslim", "war", "president", "shooting"],
+      "importance_ratio": 34.09
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Christmas holiday and social discussion in December",
+      "core_keywords": ["Christmas", "December", "holiday", "Islam", "Christian", "social discussion"],
+      "importance_ratio": 1.75
+    }
+  ]
+}

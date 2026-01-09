@@ -1,0 +1,285 @@
+{
+  "month": "2015-04",
+  "total_articles": 244,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "clinton",
+        "obama",
+        "wa",
+        "ha",
+        "democratic",
+        "campaign",
+        "president",
+        "republican",
+        "hillary",
+        "party",
+        "state",
+        "democrat",
+        "senator",
+        "presidential",
+        "candidate"
+      ],
+      "topic_weights": [
+        1126.502125548515,
+        367.41759083562295,
+        367.3578035606246,
+        342.86821837051787,
+        342.4608020702325,
+        333.71254281361234,
+        315.20610560731814,
+        261.2825898420679,
+        252.15852946528608,
+        247.64265371336447,
+        241.24703097547575,
+        227.6038209221919,
+        214.67819272239012,
+        180.50294306073513,
+        162.19156555944332
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "law",
+        "ha",
+        "state",
+        "change",
+        "american",
+        "gay",
+        "political",
+        "public",
+        "country",
+        "woman",
+        "marriage",
+        "wa",
+        "court",
+        "right",
+        "democracy"
+      ],
+      "topic_weights": [
+        250.14376674361887,
+        200.28006083838693,
+        183.5199972422512,
+        161.47266235852058,
+        155.65397144536504,
+        153.48027123282688,
+        133.20642264552401,
+        132.77562827527586,
+        124.44055811750681,
+        121.05606058627544,
+        116.98460847270897,
+        112.00342808106492,
+        101.1536449604664,
+        98.9629109553881,
+        96.69038381503331
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "state",
+        "ha",
+        "police",
+        "black",
+        "city",
+        "american",
+        "baltimore",
+        "officer",
+        "did",
+        "family",
+        "child",
+        "case",
+        "story",
+        "told"
+      ],
+      "topic_weights": [
+        790.0498864634072,
+        217.58625390450712,
+        215.41210149543386,
+        205.88136735944485,
+        134.19299737759422,
+        128.31907293039905,
+        119.68412278258089,
+        102.5235447336604,
+        96.69228627170197,
+        88.45443303569863,
+        80.8835868567959,
+        74.95665617288819,
+        74.39082547608554,
+        73.90081671105595,
+        72.55238181922073
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "tax",
+        "ha",
+        "wa",
+        "million",
+        "money",
+        "government",
+        "republican",
+        "jones",
+        "percent",
+        "political",
+        "state",
+        "policy",
+        "mother",
+        "today",
+        "american"
+      ],
+      "topic_weights": [
+        353.0543584417369,
+        177.66828049239246,
+        165.910235087908,
+        155.4451191946545,
+        146.3888875980878,
+        137.25440211862605,
+        119.21757696856156,
+        108.80034950148772,
+        107.09993441035036,
+        96.25260835493843,
+        92.8634147805148,
+        87.11138977910286,
+        86.54036950135321,
+        84.32544874384509,
+        83.87583837128865
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trade",
+        "wage",
+        "worker",
+        "income",
+        "tpp",
+        "american",
+        "economic",
+        "economy",
+        "labor",
+        "ha",
+        "percent",
+        "tax",
+        "policy",
+        "agreement",
+        "country"
+      ],
+      "topic_weights": [
+        311.91410672268387,
+        225.77865445685,
+        211.08764819694625,
+        181.67599545185072,
+        124.72489042134299,
+        116.30494325339437,
+        116.05665245027245,
+        108.67959999475472,
+        106.85926017844206,
+        103.08885292425222,
+        101.67511049758029,
+        99.83292823539013,
+        97.20190885397201,
+        89.35856586693319,
+        88.7065046283688
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 49,
+    "0": 68,
+    "3": 61,
+    "2": 54,
+    "4": 12
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "To some liberal Democrats, Massachusetts Sen. Elizabeth Warren is the perfect messenger for 2016’s presidential election, not Hillary Clinton. But asked on Tuesday whether Clinton is the right spokesp...",
+        "upvotes": 8,
+        "url": "http://www.cnn.com/2015/03/31/politics/elizabeth-warren-hillary-clinton-chance/index.html"
+      },
+      {
+        "preview": "Mar. 31, 2015, at 6:01 AM By Harry Enten Filed under 2016 Election Tom Williams / CQ Roll Call Martin O’Malley is a star in Democratic primary polls. But that’s not a good thing. Pollsters give candid...",
+        "upvotes": 0,
+        "url": "http://fivethirtyeight.com/datalab/martin-omalley-shouldnt-try-to-out-liberal-hillary-clinton/"
+      },
+      {
+        "preview": "The economic populism Clinton may need to win. by Robert Kuttner March 31, 2015 2:39 PM (AP Photo/Charles Dharapak) I've argued that Hillary Clinton is at risk of being a weak presidential nominee-on ...",
+        "upvotes": 7,
+        "url": "http://prospect.org/article/5-radical-ideas-hillary-should-support"
+      }
+    ],
+    "1": [
+      {
+        "preview": "WASHINGTON — The Supreme Court's date with same-sex marriage next month just became even more historic. Lawyers for gay and lesbian plaintiffs Tuesday chose Mary Bonauto, the movement's pioneer who wo...",
+        "upvotes": 6,
+        "url": "http://www.usatoday.com/story/news/nation/2015/03/31/supreme-court-gay-marriage/70713840/"
+      },
+      {
+        "preview": "Photo by Alex Wong/Getty Images In the five days since he signed Indiana’s Religious Freedom Restoration Act, a cadre of athletes, activists, and business leaders have condemned and criticized Gov. Mi...",
+        "upvotes": 11,
+        "url": "http://www.slate.com/articles/news_and_politics/politics/2015/03/why_it_matters_that_jeb_bush_defended_mike_pence_by_jbouie.html"
+      },
+      {
+        "preview": "Hewitt Allows Potential 2016 Candidate To Push Debunked Claims About State's “Religious Freedom Law” Special Programs LGBTQ Written by Alex Kaplan Published 03/30/15 9:48 PM EDT Share Comment Right-wi...",
+        "upvotes": 5,
+        "url": "http://mediamatters.org/blog/2015/03/30/hugh-hewitt-joins-jeb-bush-in-pushing-myths-on/203092"
+      }
+    ],
+    "2": [
+      {
+        "preview": "How often have I heard or seen this phrase, \"I want my country back,\" used over the years since I was born in 1956, in Raleigh, North Carolina? I can't give you a precise number, but I can tell you th...",
+        "upvotes": 26,
+        "url": "http://www.dailykos.com/story/2015/03/29/1374127/-What-Do-Conservatives-Want-When-They-Say-When-I-Want-My-Country-Back"
+      },
+      {
+        "preview": "The life expectancy is shown separately for males, and for females, as well as a combined figure. Several non-sovereign entities are also included in this list. The figures reflect the quality of heal...",
+        "upvotes": 0,
+        "url": "http://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy"
+      },
+      {
+        "preview": "In an interview with the Texas Tribune, Ted Cruz had the audacity to compare himself to Galileo and equate climate-change believers to those who believed the earth was flat. The idea would be laughabl...",
+        "upvotes": 1,
+        "url": "http://www.liberalamerica.org/2015/03/31/a-rebuttal-to-ted-cruzs-flat-earth-comment/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The famine that brought vast numbers of Irish to the U.S. wasn't caused by nature; it was caused by ruthless capitalists. by Bill Bigelow March 17, 2015 2:04 PM (Photo: Lawrence Collection, National L...",
+        "upvotes": 71,
+        "url": "http://prospect.org/article/why-real-story-irish-exodus-america-isnt-taught-schools"
+      },
+      {
+        "preview": "Harry Reid, D-Nev. has no regrets about his 2012 claims that then presidential candidate Mitt Romney paid no taxes for 10 years. The outgoing Senate Minority Leader even bragged to CNN that the commen...",
+        "upvotes": 1,
+        "url": "http://m.washingtonexaminer.com/harry-reid-is-proud-he-lied-about-mitt-romneys-taxes/article/2562300"
+      },
+      {
+        "preview": "Bernie Sanders<a  Institution</a>/Flickr Sen. Bernie Sanders of Vermont, the longest-serving independent in Congress and its only self-described democratic socialist, is best known for his stands agai...",
+        "upvotes": 23,
+        "url": "http://www.motherjones.com/politics/2015/04/bernie-sanders-inequality-president-interview"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Follow us: We're no longer maintaining this page. For the latest business news and markets data, please visit  Business That's because those laws included four key tax measures that went into effect f...",
+        "upvotes": 5,
+        "url": "http://money.cnn.com/2014/02/20/pf/taxes/rich-taxes/?iid=EL"
+      },
+      {
+        "preview": "Comments Dunkin' Brands CEO Nigel Travis makes $4,889 an hour. (Photo: Mario Tama/Getty Images) As legions of fast-food workers and their supporters prepare for a major nationwide strike next week, th...",
+        "upvotes": 15,
+        "url": "http://www.takepart.com/article/2015/04/07/hourly-pay-restaurant-ceos-truly-shocking?cmpid=foodinc-fb"
+      },
+      {
+        "preview": "Do Not Sell If Hillary Clinton wants to woo the left, she'll likely have to support $12 to $15 an hour. President Obama made waves in his 2013 State of the Union address when he unexpectedly announced...",
+        "upvotes": 12,
+        "url": "http://money.cnn.com/2015/04/14/news/economy/hillary-clinton-minimum-wage/"
+      }
+    ]
+  }
+}

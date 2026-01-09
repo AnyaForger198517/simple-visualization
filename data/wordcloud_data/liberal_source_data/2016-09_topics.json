@@ -1,0 +1,285 @@
+{
+  "month": "2016-09",
+  "total_articles": 282,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "sander",
+        "clinton",
+        "campaign",
+        "wa",
+        "nation",
+        "got",
+        "issue",
+        "progressive",
+        "state",
+        "democratic",
+        "democrat",
+        "did",
+        "revolution",
+        "hillary",
+        "bernie"
+      ],
+      "topic_weights": [
+        527.4550361657284,
+        444.6121471186072,
+        414.1815851713304,
+        299.25078752049035,
+        294.8518188052616,
+        294.58172169146485,
+        293.5436954943771,
+        270.3457662212877,
+        260.3431667936687,
+        242.86539069674288,
+        242.38762635266463,
+        237.79354180202608,
+        237.2601315377643,
+        216.57871124126783,
+        214.21391097000335
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "clinton",
+        "ha",
+        "foundation",
+        "campaign",
+        "hillary",
+        "donald",
+        "president",
+        "money",
+        "york",
+        "state",
+        "political",
+        "post",
+        "tax"
+      ],
+      "topic_weights": [
+        2357.7776071156864,
+        1478.3026840796906,
+        1142.6154172819836,
+        800.9253340294007,
+        574.4684357432743,
+        356.8432180726926,
+        349.68064898975143,
+        345.6548261986268,
+        304.50766661327077,
+        294.6987736955165,
+        258.50515798176673,
+        253.6776268310965,
+        223.56209432282714,
+        221.61878340009025,
+        221.10946000698632
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "ha",
+        "income",
+        "wa",
+        "work",
+        "percent",
+        "data",
+        "climate",
+        "policy",
+        "state",
+        "change",
+        "program",
+        "global",
+        "worker",
+        "american"
+      ],
+      "topic_weights": [
+        321.5787468814286,
+        296.81818943935934,
+        289.6458425692246,
+        264.5323330521144,
+        198.09532447437942,
+        190.20309233149166,
+        162.45106559943127,
+        155.64606413097457,
+        149.82486330738055,
+        133.09636183690745,
+        126.77690214029809,
+        121.09216034658733,
+        120.3472692806852,
+        117.9822368087762,
+        113.92898619179778
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "police",
+        "officer",
+        "election",
+        "law",
+        "ha",
+        "mother",
+        "city",
+        "man",
+        "court",
+        "jones",
+        "black",
+        "shooting",
+        "video",
+        "state"
+      ],
+      "topic_weights": [
+        447.92237309589353,
+        360.9620380245717,
+        218.31845352666667,
+        159.59937428292537,
+        142.2075470940227,
+        136.39302879225352,
+        136.1188577664728,
+        126.28309221676591,
+        125.64441820724171,
+        116.54233260831242,
+        113.46648810862207,
+        101.06778391564612,
+        89.22714159289899,
+        88.81514400670396,
+        88.79701950606858
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "percent",
+        "clinton",
+        "poll",
+        "voter",
+        "johnson",
+        "state",
+        "republican",
+        "ha",
+        "white",
+        "american",
+        "vote",
+        "election",
+        "point",
+        "black"
+      ],
+      "topic_weights": [
+        315.0630268278464,
+        298.1733093213453,
+        266.86595275153746,
+        261.0757813508952,
+        257.3906071493295,
+        241.93048691797512,
+        237.2006750110607,
+        199.0977089141812,
+        186.50706947829545,
+        163.48466948262006,
+        163.22137388681824,
+        159.65247953482387,
+        152.34457460288883,
+        137.31638204064697,
+        135.56190664480837
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 122,
+    "4": 36,
+    "3": 52,
+    "2": 62,
+    "0": 10
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sign in Anton Sep 5, 2016·7 min read One of the most iconic parts of the Democratic Party’s history is the New Deal. The wide range of worker’s rights & protections included unemployment benefits, soc...",
+        "upvotes": 18,
+        "url": "https://medium.com/@discomfiting/thank-your-local-leftists-not-democrats-fb26d5d927ab#.49apaus0y"
+      },
+      {
+        "preview": "Kaine's willingness to back any regulatory changes that benefit large banks stands in stark contrast to liberals' preferred VP pick — Sen. Elizabeth Warren. | AP Photo By DANIEL STRAUSS and ZACHARY WA...",
+        "upvotes": 1,
+        "url": "http://www.politico.com/story/2016/07/tim-kaine-banking-letter-225953"
+      },
+      {
+        "preview": "Jamie Raskin plans to dive into the “political correctness” wars that have ripped through US college campus with a speech at American University Thursday night, questioning what he calls “puritanical ...",
+        "upvotes": 0,
+        "url": "https://www.washingtonian.com/2016/09/15/jamie-raskin-american-university-political-correctness/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Former Texas governor and newly announced “Dancing With The Stars” contestant Rick Perry is calling on FBI Director James Comey to resign over his handling of the investigation into Hillary Clinton’s ...",
+        "upvotes": 65,
+        "url": "http://www.huffingtonpost.com/entry/rick-perry-comey-clinton_us_57c6dee4e4b0e60d31dc4ee7?section=&"
+      },
+      {
+        "preview": "MEXICO CITY (AP) —The president of Mexico says Donald Trump wasn’t telling the truth when he described their Wednesday conversation. Specifically, President Enrique Peña Nieto said that he and Trump d...",
+        "upvotes": 16,
+        "url": "http://talkingpointsmemo.com/news/pena-nieto-says-trump-lied-about-wall-discussion"
+      },
+      {
+        "preview": "The group set up to carry on Bernie Sanders's progressive movement has gotten off to a bumpy start, in part because Sanders backers set it up as a tax-exempt organization. by Eliza Newlin Carney Septe...",
+        "upvotes": 0,
+        "url": "http://prospect.org/article/nonprofit-structure-backfires-our-revolution"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Trending: The European Union’s misguided attempt to wrest $14.5 billion in back taxes from Apple illustrates the pressing need for corporate tax reform in the United States. The tech giant never would...",
+        "upvotes": 3,
+        "url": "http://www.mercurynews.com/opinion/ci_30321664/mercury-news-editorial-eus-ruling-apple-shows-need"
+      },
+      {
+        "preview": "GALA 2020 HONOREES SPONSORS TICKETS CONTACT More... ​ The Annual ICIT Gala and Benefit is an intimate, invitation-only gathering of legislative, federal agency, and private sector leaders committed to...",
+        "upvotes": 1,
+        "url": "http://www.icitgala.org/"
+      },
+      {
+        "preview": "A 5.6-magnitude earthquake was felt across seven different states today with the epicenter located approximately 9 miles northwest of Pawnee, Oklahoma. As a result of the quake, the Oklahoma Corporati...",
+        "upvotes": 1,
+        "url": "http://www.inquisitr.com/3479519/oklahoma-orders-35-wastewater-disposal-wells-to-be-shut-down-following-5-6-magnitude-earthquake/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "pho•bi•a ˈfōbēə [Noun]: An extreme or irrational fear of or aversion to something. A phobia is a type of anxiety disorder, usually defined as a persistent fear of an object or situation the affected p...",
+        "upvotes": 1,
+        "url": "http://www.liberalamerica.org/2016/09/01/islamophobia-humanitys-newest-low/"
+      },
+      {
+        "preview": "Advertisement Supported by Unequal Justice By Josh Keller and Adam Pearce LAWRENCEBURG, Ind. — Donnie Gaddis picked the wrong county to sell 15 oxycodone pills to an undercover officer. If Mr. Gaddis ...",
+        "upvotes": 3,
+        "url": "http://www.nytimes.com/2016/09/02/upshot/new-geography-of-prisons.html?_r=0"
+      },
+      {
+        "preview": "A mother in the city of Henderson, Nevada has taken extreme measures to protect her autistic son from police brutality. Judy McKim has painted her house with warnings to the police. The largest one, o...",
+        "upvotes": 1,
+        "url": "http://www.liberalamerica.org/2016/09/01/mom-protects-son-police-brutality/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "This article is more than 1 year old How Americans feel about the state of their lives have improved markedly in the eight years since Barack Obama was elected president, according to Gallup data rele...",
+        "upvotes": 140,
+        "url": "https://www.washingtonpost.com/news/wonk/wp/2016/08/31/gallup-life-got-better-for-pretty-much-everyone-under-obama/"
+      },
+      {
+        "preview": "There’s one key shorthand to watch if you’re trying to figure out the state of the House race. Hillary Clinton has a healthy lead over Donald Trump in the polls. Republicans look likely to lose contro...",
+        "upvotes": 10,
+        "url": "http://www.vox.com/2016/8/31/12610176/democrats-house-race"
+      },
+      {
+        "preview": "Sep. 1, 2016, at 8:13 AM By Nate Silver Filed under 2016 Election Bethany Heck / Getty Images Want these election updates emailed to you right when they’re published? Sign up here. The race between Hi...",
+        "upvotes": 13,
+        "url": "https://fivethirtyeight.com/features/election-update-as-the-race-tightens-dont-assume-the-electoral-college-will-save-clinton/"
+      }
+    ]
+  }
+}

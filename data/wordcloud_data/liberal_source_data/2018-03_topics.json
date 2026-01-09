@@ -1,0 +1,285 @@
+{
+  "month": "2018-03",
+  "total_articles": 215,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "trump",
+        "democrat",
+        "state",
+        "ha",
+        "wa",
+        "election",
+        "party",
+        "american",
+        "voter",
+        "obama",
+        "democratic",
+        "political",
+        "vote",
+        "court"
+      ],
+      "topic_weights": [
+        334.6099319783915,
+        275.2343474448197,
+        226.9206080872887,
+        224.9602751062557,
+        221.17169888773,
+        210.15757682663204,
+        209.9828298633344,
+        166.93260694108147,
+        159.27851872056183,
+        154.50181154852893,
+        143.8094768591154,
+        136.17484878906308,
+        121.95758986728488,
+        120.46796307761053,
+        107.70224835674888
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "organizing",
+        "immigration",
+        "immigrant",
+        "worker",
+        "california",
+        "campaign",
+        "state",
+        "organization",
+        "law",
+        "labor",
+        "employer",
+        "work",
+        "power",
+        "group",
+        "unauthorized"
+      ],
+      "topic_weights": [
+        166.16345598385175,
+        163.23291253432643,
+        161.96653153412544,
+        153.047171288971,
+        151.3975596541793,
+        149.13909007786168,
+        135.83972942013875,
+        135.58552606015164,
+        129.9990159595512,
+        127.32065840515187,
+        127.11374904267828,
+        111.54248389390371,
+        103.06795500574681,
+        95.86095041426277,
+        89.70695692251357
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "facebook",
+        "data",
+        "ha",
+        "cambridge",
+        "company",
+        "analytica",
+        "news",
+        "information",
+        "twitter",
+        "medium",
+        "political",
+        "million",
+        "trade",
+        "wylie"
+      ],
+      "topic_weights": [
+        253.15598341677605,
+        178.80500241748945,
+        168.11463034914306,
+        142.18584188273547,
+        126.09425932437097,
+        115.62040353109286,
+        112.81560955180443,
+        102.1876124687796,
+        91.35174476447307,
+        77.55816060493547,
+        68.2354241912872,
+        68.16554354266762,
+        64.80148373111129,
+        64.1279016465779,
+        63.748770108061976
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "white",
+        "house",
+        "state",
+        "bolton",
+        "official",
+        "news",
+        "russia",
+        "told",
+        "week",
+        "american",
+        "law"
+      ],
+      "topic_weights": [
+        1005.1481092830813,
+        805.7132598842613,
+        392.8091116035075,
+        391.52776319444587,
+        249.09481608991922,
+        241.146804162516,
+        186.2736103575523,
+        168.0411433011817,
+        160.87409862436724,
+        150.22936847364437,
+        125.64169441756496,
+        123.80512496253313,
+        117.58749104960721,
+        113.76701819428763,
+        112.83470662331487
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "gun",
+        "wage",
+        "school",
+        "wa",
+        "black",
+        "student",
+        "ha",
+        "white",
+        "high",
+        "teacher",
+        "american",
+        "worker",
+        "life",
+        "state",
+        "shooting"
+      ],
+      "topic_weights": [
+        359.43320623250673,
+        329.5740731803394,
+        267.36316424730603,
+        225.09232962513067,
+        213.3623502639771,
+        188.30677994055313,
+        178.8931664973649,
+        165.7747663217658,
+        160.2283832912304,
+        144.1174102686891,
+        141.16513609022223,
+        134.22845715031642,
+        133.98369685447798,
+        130.45354520830958,
+        126.83913988705771
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 88,
+    "4": 38,
+    "0": 61,
+    "2": 23,
+    "1": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Stephen A. Smith takes Texas Wesleyan baseball coach Mike Jeffcoat to task for denying a recruit from Colorado based on the state's marijuana laws. (2:02) The baseball coach at Texas Wesleyan Universi...",
+        "upvotes": 132,
+        "url": "http://www.espn.com/college-sports/story/_/id/22610685/texas-wesleyan-university-baseball-coach-mike-jeffcoat-tells-recruit-no-colorado-players-failed-drug-tests"
+      },
+      {
+        "preview": "Follow us A newly leaked email from the Democratic Congressional Campaign Committee (DCCC) from last October revealed that in the wake of a horrific mass shooting the liberal party was urging members ...",
+        "upvotes": 0,
+        "url": "https://www.truthdig.com/articles/divided-democrats-risk-midterm-defeat/"
+      },
+      {
+        "preview": "ey at a Pentagon already vastly overfunded sparked a serious discussion about America’s hyper-militarized foreign policy. A national debate about such matters in the run-up to the 2018 and 2020 electi...",
+        "upvotes": 34,
+        "url": "https://www.thenation.com/article/the-military-industrial-complex-is-on-corporate-welfare/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. \"This is another skirmi...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/views/2018/03/04/collective-action-unions-last-line-defense-supreme-court-verge-destroying-it"
+      },
+      {
+        "preview": "Trending: WASHINGTON — A group of 18 Republican congressman are urging the Trump administration to defend private prisons against lawsuits alleging immigrant detainees are forced to work for a wage of...",
+        "upvotes": 11,
+        "url": "https://www.denverpost.com/2018/03/16/geo-prisons-lawsuit-congress-letter/"
+      },
+      {
+        "preview": "s Strike Shows That Winning Big Requires Creating a Crisis Jane McAlevey In organizing campaigns, success should be evaluated not only in terms of whether or not the immediate problem was solved, but ...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/article/how-to-organize-to-win/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "YouTube is purging right-wing and independent commentators in the wake of the Parkland High shooting while admitting that it is mistakenly banning conservatives. Independent journalist Mike Cernovich ...",
+        "upvotes": 1,
+        "url": "http://www.breitbart.com/tech/2018/03/01/the-purge-youtube-mass-censors-conservatives-new-right-classical-liberals/"
+      },
+      {
+        "preview": "SEARCH An online auction gone awry reveals substantial new details on Kremlin-backed troll farm efforts to stir up real protests and target specific Americans to push their propaganda. Contributing Ed...",
+        "upvotes": 16,
+        "url": "https://www.thedailybeast.com/exclusive-secret-documents-from-russias-election-trolls-leak?ref=home"
+      },
+      {
+        "preview": "The fault lies entirely with the GOP. Focus on fixing it, not laying blame where it doesn’t belong Last modified on Wed 25 Aug 2021 09.52 EDT Steven Pinker is a cognitive psychologist, linguist, and a...",
+        "upvotes": 67,
+        "url": "https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/mar/05/stop-blaming-both-sides-for-americas-climate-failures?CMP=Share_iOSApp_Other"
+      }
+    ],
+    "3": [
+      {
+        "preview": "NBC News is reporting special counsel Robert Mueller's team is questioning witnesses in the Russia investigation about whether President Donald Trump knew that emails had been stolen from the DNC prio...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/2018/02/mueller-team-wants-know-donald-trumps-role-releasing-hacked-dnc-emails/"
+      },
+      {
+        "preview": "A Louisiana woman was arrested on homicide charges after an off-duty police officer crashed into the car she was riding in and killed her baby daughter. Brittany Stephens wasn't driving when the Baton...",
+        "upvotes": 11,
+        "url": "https://www.rawstory.com/2018/02/off-duty-cop-kills-baby-slamming-car-94-mph-black-mom-charged-homicide/"
+      },
+      {
+        "preview": "White House communications director Hope Hicks, one of President Donald Trump’s longest-serving and closest aides, is resigning, the White House confirmed Wednesday. Hicks’ departure capped her meteor...",
+        "upvotes": 187,
+        "url": "https://www.cnn.com/2018/02/28/politics/hope-hicks-white-house/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by transcript “I’m going to write the bump stock, essentially, write it out. So you won’t have to worry about bump stock. Shortly, that’ll be gone.” “I like taking the guns ear...",
+        "upvotes": 9,
+        "url": "https://www.nytimes.com/2018/02/28/us/politics/trump-gun-control.html"
+      },
+      {
+        "preview": "Political tribalism has reached a new peak, writes Amy Chua in her new book, and it leaves the US in a new perilous situation Last modified on Wed 21 Jul 2021 05.07 EDT We are at an unprecedented mome...",
+        "upvotes": 2,
+        "url": "https://www.theguardian.com/society/2018/mar/01/how-americas-identity-politics-went-from-inclusion-to-division?CMP=Share_iOSApp_Other"
+      },
+      {
+        "preview": "More results... Consumers pressuring big companies to boycott the NRA is an effective way to counter its staunchly pro-gun position, argues Robert Reed of The Chicago Tribune. Already many large entit...",
+        "upvotes": 0,
+        "url": "https://www.theperspective.com/perspectives/businessandtechnology/corporate-boycotts-nra-effective/"
+      }
+    ]
+  }
+}

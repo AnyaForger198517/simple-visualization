@@ -1,0 +1,265 @@
+{
+  "month": "2014-09",
+  "total_articles": 131,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "democrat",
+        "inequality",
+        "voter",
+        "working",
+        "political",
+        "ha",
+        "class",
+        "republican",
+        "candidate",
+        "democratic",
+        "work",
+        "american",
+        "percent",
+        "economic",
+        "campaign"
+      ],
+      "topic_weights": [
+        588.2031363251435,
+        333.5054760001313,
+        283.4722476420665,
+        213.06173838949493,
+        207.79075412862755,
+        196.48007338802017,
+        170.52072225606534,
+        170.19130041041038,
+        165.7357319923937,
+        158.6754672376133,
+        146.99939919169154,
+        143.78994970036655,
+        142.95485179561277,
+        142.180978715922,
+        135.68450332550051
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "state",
+        "republican",
+        "american",
+        "class",
+        "wa",
+        "political",
+        "percent",
+        "wage",
+        "worker",
+        "government",
+        "middle",
+        "work",
+        "job",
+        "group"
+      ],
+      "topic_weights": [
+        102.89000801574042,
+        86.41922055519363,
+        77.54920464484688,
+        65.24357726755919,
+        62.47348195024359,
+        56.73223703153925,
+        54.013712098491986,
+        53.00552554054464,
+        48.192147645051996,
+        45.68570559513601,
+        42.87261550419116,
+        40.809810062954654,
+        39.77458854985333,
+        39.5639574772862,
+        39.00646679363934
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "health",
+        "care",
+        "spending",
+        "cost",
+        "reform",
+        "high",
+        "american",
+        "choice",
+        "market",
+        "affordable",
+        "benefit",
+        "act",
+        "medical",
+        "spend",
+        "income"
+      ],
+      "topic_weights": [
+        845.2482948301989,
+        831.3670505616653,
+        225.33156814927514,
+        210.87579255936518,
+        154.55389003090184,
+        98.24638485780179,
+        96.8533405541919,
+        95.4046819249942,
+        92.97509921669189,
+        76.54242626517502,
+        76.46042831732885,
+        74.31444905110921,
+        73.17247470475779,
+        73.02810088159788,
+        72.92207487572014
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "percent",
+        "american",
+        "ha",
+        "rich",
+        "tax",
+        "inequality",
+        "wealth",
+        "poverty",
+        "society",
+        "wa",
+        "income",
+        "far",
+        "fact",
+        "idea",
+        "example"
+      ],
+      "topic_weights": [
+        260.0961813782973,
+        164.27848551035922,
+        156.86550328884968,
+        124.56874957816368,
+        121.33454413293315,
+        113.93963271022206,
+        102.456696781246,
+        100.94206492782521,
+        99.95599585059583,
+        90.56433433115902,
+        85.10181349329943,
+        79.9223533698163,
+        79.83749683508235,
+        78.97370085856838,
+        75.69786352468067
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "law",
+        "court",
+        "president",
+        "case",
+        "obama",
+        "woman",
+        "did",
+        "police",
+        "world",
+        "history",
+        "news",
+        "post"
+      ],
+      "topic_weights": [
+        474.989383214588,
+        195.4357297662477,
+        192.00979095528237,
+        125.01186588968079,
+        89.71946286133434,
+        85.91407422093113,
+        83.55409208310093,
+        79.57885794325787,
+        77.28879541866432,
+        77.01856612334711,
+        75.74910981755461,
+        74.06653983356331,
+        69.85831067064302,
+        69.2845823631273,
+        68.66771038136119
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 2,
+    "1": 37,
+    "4": 89,
+    "3": 2,
+    "0": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "President Barack Obama said last December that inequality is ​“the defining challenge of our time.” Americans agree. A Pew survey from June found that 62 percent think the country’s economic system un...",
+        "upvotes": 5,
+        "url": "http://inthesetimes.com/article/17156/a_winning_strategy_for_democrats_inequality"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Today is a federal holiday and as such, most Americans are off of work. It is Labor Day; the day which we take off so that we can appreciate the role of Labor Unions. Labor Unions helped us to create ...",
+        "upvotes": 88,
+        "url": "http://www.skepticink.com/dangeroustalk/2012/09/03/republicans-should-be-working-today/"
+      },
+      {
+        "preview": "Advertisement Supported by By Steven Greenhouse MIRA LOMA, Calif. — Week after week, Guadalupe Rangel worked seven days straight, sometimes 11 hours a day, unloading dining room sets, trampolines, tel...",
+        "upvotes": 21,
+        "url": "http://www.nytimes.com/2014/09/01/business/more-workers-are-claiming-wage-theft.html?hp&action=click&pgtype=Homepage&version=LedeSum&module=first-column-region&region=top-news&WT.nav=top-news&_r=2"
+      },
+      {
+        "preview": "Advertisement Supported by By Emmarie Huetteman MILWAUKEE — President Obama on Monday renewed his call to raise the federal minimum wage and to protect the right to equal pay for women as the midterm ...",
+        "upvotes": 54,
+        "url": "http://www.nytimes.com/2014/09/02/us/politics/obama-takes-to-road-to-push-rise-in-minimum-wage.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Supported by By Paul Krugman So, what do you think about those Medicare numbers? What, you haven’t heard about them? Well, they haven’t been front-page news. But something remarkable has...",
+        "upvotes": 7,
+        "url": "http://www.nytimes.com/2014/09/01/opinion/paul-krugman-the-medicare-miracle.html?smid=re-share"
+      },
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » Health care spending is a hot...",
+        "upvotes": 3,
+        "url": "http://www.brookings.edu/research/opinions/2014/09/26-better-health-care-public-health-rivlin"
+      }
+    ],
+    "3": [
+      {
+        "preview": "When policymakers discuss reforming the U.S. tax system, they generally are referring to the federal tax code. One of the great things about the federal income tax is that it is progressive. The more ...",
+        "upvotes": 30,
+        "url": "http://www.newrepublic.com/article/119450/wallethub-americans-want-state-and-local-taxes-be-progressive"
+      },
+      {
+        "preview": "Advertisement Supported by By Paul Krugman Half a century ago, a classic essay in The New Yorker titled “Our Invisible Poor” took on the then-prevalent myth that America was an affluent society with o...",
+        "upvotes": 6,
+        "url": "http://www.nytimes.com/2014/09/29/opinion/paul-krugman-our-invisible-rich.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Excerpted from \"Wingnuts: Extremism in the Age of Obama\" Harry Truman used to say that “the only thing new in the world is the history you don’t know.” Harry Truman never met the Internet. The Interne...",
+        "upvotes": 93,
+        "url": "http://www.salon.com/2014/09/02/where_right_wing_lies_are_born_the_wingnut_web_worldnetdaily_and_how_conservative_nonsense_infects_america/"
+      },
+      {
+        "preview": "On a scale of 1 to 10 of creepiness, this might rank as a 15. Matthew Gault: Through late July of last year, small teams of “young individuals” combed through neighborhoods in Austin knocking on doors...",
+        "upvotes": 1,
+        "url": "http://crooksandliars.com/2014/09/sovereign-citizens-duped-kids-discovering"
+      },
+      {
+        "preview": "His name is José Zamora, and he had a routine. During his months-long job search, he says he logged onto his computer every morning and combed the internet for listings, applying to everything he felt...",
+        "upvotes": 29,
+        "url": "http://www.huffingtonpost.com/2014/09/02/jose-joe-job-discrimination_n_5753880.html"
+      }
+    ]
+  }
+}

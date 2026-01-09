@@ -1,0 +1,275 @@
+{
+  "month": "2013-12",
+  "total_articles": 142,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "energy",
+        "storage",
+        "power",
+        "ha",
+        "california",
+        "using",
+        "price",
+        "hour",
+        "rate",
+        "store",
+        "wa",
+        "change",
+        "car",
+        "technology",
+        "home"
+      ],
+      "topic_weights": [
+        149.07145785982445,
+        119.32447457520765,
+        109.65852530750841,
+        86.23749020402,
+        80.4335387622329,
+        68.20130218666641,
+        65.03773794958849,
+        58.983888380162895,
+        53.08708763149211,
+        52.74956946275432,
+        50.71051727705082,
+        50.60507373371032,
+        49.59428533670339,
+        46.541774425735454,
+        44.952576697749535
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "climate",
+        "change",
+        "sound",
+        "anderson",
+        "pushing",
+        "carbon",
+        "budget",
+        "economic",
+        "scientist",
+        "hansen",
+        "global",
+        "august",
+        "warming",
+        "history",
+        "conversation"
+      ],
+      "topic_weights": [
+        1021.1319231188505,
+        385.61044013041624,
+        342.95622015572235,
+        304.3936539660314,
+        244.91769881116292,
+        242.32474056967948,
+        207.1769097880821,
+        189.20568112018088,
+        188.07108060555734,
+        186.47354766671575,
+        185.81178544314423,
+        177.77688406466996,
+        175.33842741840138,
+        171.1160207731806,
+        171.02356100087724
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "republican",
+        "conservative",
+        "american",
+        "ha",
+        "party",
+        "liberal",
+        "group",
+        "school",
+        "social",
+        "libertarian",
+        "obama",
+        "support",
+        "issue",
+        "beck"
+      ],
+      "topic_weights": [
+        303.16542537502994,
+        147.9162851232357,
+        141.7138763255081,
+        135.29817496771483,
+        123.75810338961332,
+        118.39359063162024,
+        115.25480066365127,
+        109.03330783287757,
+        108.72357442932898,
+        97.73367301111334,
+        96.32947769232203,
+        95.84360066797821,
+        94.92761296771698,
+        92.49197994426665,
+        92.22998078855773
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "wage",
+        "ha",
+        "tax",
+        "income",
+        "job",
+        "minimum",
+        "rich",
+        "child",
+        "poor",
+        "state",
+        "world",
+        "class",
+        "wealth",
+        "family"
+      ],
+      "topic_weights": [
+        471.52202186840157,
+        415.43302848578276,
+        400.8228379736449,
+        361.0919098265716,
+        348.42726544717806,
+        291.36602485244833,
+        237.86319659524577,
+        235.82207242442493,
+        217.45336969669765,
+        212.03428455669388,
+        209.26621808240247,
+        204.6568892188123,
+        199.09696134265425,
+        194.47527273001919,
+        179.4233551946906
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "marriage",
+        "sex",
+        "state",
+        "court",
+        "county",
+        "judge",
+        "voter",
+        "law",
+        "couple",
+        "utah",
+        "total",
+        "percent",
+        "federal",
+        "license",
+        "ha"
+      ],
+      "topic_weights": [
+        622.9514556040498,
+        430.64049987638896,
+        419.2805220018706,
+        340.1384560967221,
+        329.454620376043,
+        298.54778589147367,
+        209.16434048869007,
+        203.52136072687168,
+        173.14855892375033,
+        172.02561217584164,
+        170.30619365530097,
+        157.7201734606024,
+        154.96409767506103,
+        141.9924059876632,
+        133.67481855754588
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 44,
+    "2": 77,
+    "4": 15,
+    "0": 5,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Signing up for insurance on the new healthcare exchange websites has proved tricky enough on its ow...",
+        "upvotes": 1,
+        "url": "http://www.businessinsider.com/republicans-trick-californians-with-fake-healthcare-site-2013-12"
+      },
+      {
+        "preview": "MENU CLOSE SEARCH MEMBERSHIP PROGRAMS SEARCH MEMBERSHIP PROGRAMS About Us | Contact Us | Site Map Advertise | Customer Service | Terms of Service FAQ | Privacy Policy ...",
+        "upvotes": 25,
+        "url": "http://www.law.com/jsp/nlj/PubArticleNLJ.jsp?id=1202631180111"
+      },
+      {
+        "preview": "MENU CLOSE SEARCH MEMBERSHIP PROGRAMS SEARCH MEMBERSHIP PROGRAMS About Us | Contact Us | Site Map Advertise | Customer Service | Terms of Service FAQ | Privacy Policy ...",
+        "upvotes": 6,
+        "url": "http://www.law.com/jsp/ca/PubArticleCA.jsp?id=1387426424444&amp;Report_Former_Bush_Lawyer_Harbored_AntiGay_Animus"
+      }
+    ],
+    "1": [
+      {
+        "preview": "sen et al. write, “There is still opportunity for humanity to exercise free will.” But maybe, in the end, truth-telling might also sound at least a little like these parting words from Dave Roberts of...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/blog/177705/climate-truth-tellers-honor-roll-2013"
+      }
+    ],
+    "2": [
+      {
+        "preview": "About Daniel Greenfield Daniel Greenfield is a journalist investigating Islamic terrorism and the Left. He is a Shillman Journalism Fellow at the David Horowitz Freedom Center Amen, Amen and Amen.chur...",
+        "upvotes": 0,
+        "url": "http://sultanknish.blogspot.com/2013/11/manufacturing-intolerance.html"
+      },
+      {
+        "preview": "Setting: the Autumn sun sets at the end of another quiet Sunday afternoon in Anytown, USA. The smell of a home-cooked meal fills the air of a modest house on an unremarkable street, with the shadows l...",
+        "upvotes": 0,
+        "url": "http://slantrhyme.wordpress.com/2013/12/01/we-can-dream/"
+      },
+      {
+        "preview": "New Book Details An Extensive Campaign By The Networks' PR Staffers Written by Ben Dimiero Published 10/20/13 11:11 AM EDT Share Comment NPR media reporter David Folkenflik writes in his forthcoming b...",
+        "upvotes": 106,
+        "url": "http://mediamatters.org/blog/2013/10/20/fox-news-reportedly-used-fake-commenter-account/196509"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Inequality may be the greatest economic challenge of our generation. Yet despite extensive academic debate, there is still no consensus as to its causes. Earlier this year, Tyler Cowen sparked a debat...",
+        "upvotes": 94,
+        "url": "http://www.salon.com/2013/11/30/sorry_neoliberals_inequality_is_driven_by_greed_not_technology/"
+      },
+      {
+        "preview": "Advertisement Supported by By Paul Krugman The law establishing Obamacare was officially titled the Patient Protection and Affordable Care Act. And the “affordable” bit wasn’t just about subsidizing p...",
+        "upvotes": 34,
+        "url": "http://www.nytimes.com/2013/11/29/opinion/krugman-obamacares-secret-success.html"
+      },
+      {
+        "preview": "Is the plight of the low-wage worker in America reaching a tipping point? ...in the Ukraine: KIEV, Ukraine — More than 100,000 people took to the streets of Kiev on Sunday, and thousands more rallied ...",
+        "upvotes": 9,
+        "url": "http://www.philly.com/philly/blogs/attytood/The-people-have-finally-risen-up.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "s they serve—to achieve political results that could not be secured at the ballot box. Chris Hayes ponders the constitutionality of Detroit's bankruptcy filing. As retiring Detroit City Council member...",
+        "upvotes": 14,
+        "url": "http://www.thenation.com/blog/177433/detroit-bankruptcy-bankrupts-democracy"
+      },
+      {
+        "preview": " wife’s absentee ballot before she died. These are abuses of the system, but hardly evidence of a wide-ranging conspiracy to commit voter fraud.] The legislature has done nothing to address the real p...",
+        "upvotes": 51,
+        "url": "http://www.thenation.com/blog/177454/ohio-gop-resurrects-voter-suppression-efforts"
+      },
+      {
+        "preview": "Jump to navigation Skip navigation Live in Delaware, New Jersey, or Pennsylvania? You can rest a little bit easier today, knowing that police need a warrant before putting a GPS tracker on your car to...",
+        "upvotes": 0,
+        "url": "https://www.aclu.org/blog/technology-and-liberty-national-security/doj-asks-court-give-police-benefit-doubt-murky"
+      }
+    ]
+  }
+}

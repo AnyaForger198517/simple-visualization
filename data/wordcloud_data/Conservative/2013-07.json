@@ -1,0 +1,36 @@
+{
+  "month": "2013-07",
+  "total_articles": 151,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Social issues (homosexuality, marriage, child, sex) and online post interactions",
+      "core_keywords": ["social_issues", "online_posts", "homosexuality", "marriage", "child", "sex", "private", "news"],
+      "importance_ratio": "0.66%"
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Government policies (marriage, healthcare) and legal/court matters at state/federal level",
+      "core_keywords": ["government_policy", "law", "court", "marriage", "obamacare", "state", "federal", "family"],
+      "importance_ratio": "23.18%"
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US politics (Obama, Republican, Obamacare) and national health/government issues",
+      "core_keywords": ["us_politics", "obama", "republican", "obamacare", "healthcare", "president", "senate", "state"],
+      "importance_ratio": "35.76%"
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Energy and environmental issues (gas, fracking, natural energy, climate warming)",
+      "core_keywords": ["energy", "environment", "gas", "fracking", "natural_energy", "water", "warming", "emission"],
+      "importance_ratio": "5.29%"
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Political scandals (IRS, NSA) and investigations involving Obama/Zimmerman case",
+      "core_keywords": ["political_scandals", "irs", "nsa", "obama", "zimmerman", "investigation", "scandal", "conservative"],
+      "importance_ratio": "35.10%"
+    }
+  ]
+}

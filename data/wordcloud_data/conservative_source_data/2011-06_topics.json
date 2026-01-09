@@ -1,0 +1,285 @@
+{
+  "month": "2011-06",
+  "total_articles": 70,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "republican",
+        "obama",
+        "state",
+        "ha",
+        "law",
+        "president",
+        "york",
+        "marriage",
+        "sex",
+        "anti",
+        "american",
+        "candidate",
+        "court",
+        "freedom"
+      ],
+      "topic_weights": [
+        157.1321317426657,
+        101.88245899913753,
+        100.86259353166751,
+        83.84796644960073,
+        83.82380218869133,
+        71.32610655024283,
+        40.598762343271034,
+        39.7297347698359,
+        38.43261426628117,
+        37.47853996472797,
+        36.82144376810049,
+        35.077644320252304,
+        34.84266066985854,
+        33.64493308801964,
+        33.61382296797198
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "jones",
+        "congress",
+        "johnson",
+        "state",
+        "ha",
+        "wa",
+        "advertisement",
+        "house",
+        "section",
+        "obama",
+        "government",
+        "beck",
+        "hope",
+        "amendment",
+        "vote"
+      ],
+      "topic_weights": [
+        65.1040674065216,
+        39.70056771517927,
+        36.62503884482952,
+        33.45178394680118,
+        31.767059377873593,
+        28.349952205662014,
+        26.80640279750764,
+        25.26457019595604,
+        22.149662255218303,
+        21.110865625760102,
+        19.837475283734605,
+        19.83713541062189,
+        19.373510779887226,
+        18.284730197587535,
+        17.179276645678005
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "election",
+        "union",
+        "obama",
+        "labor",
+        "worker",
+        "ha",
+        "job",
+        "employee",
+        "employer",
+        "president",
+        "boss",
+        "american",
+        "world",
+        "big",
+        "government"
+      ],
+      "topic_weights": [
+        107.00499608602057,
+        90.17870651349361,
+        65.57598965803322,
+        65.11793550282033,
+        60.709935115209255,
+        54.84269213904905,
+        52.37475651519411,
+        46.23852559164372,
+        42.457860178288456,
+        41.910139813167845,
+        39.7239300271458,
+        37.892516245827174,
+        33.551845084345146,
+        32.40735664742874,
+        31.205026616001753
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "liberal",
+        "individual",
+        "ha",
+        "baby",
+        "law",
+        "liberalism",
+        "abortion",
+        "world",
+        "book",
+        "coulter",
+        "conservative",
+        "life",
+        "society",
+        "joyce"
+      ],
+      "topic_weights": [
+        95.45687767437197,
+        45.999746367774726,
+        28.91015826202262,
+        23.878289868831832,
+        23.65849934937734,
+        23.010777830388477,
+        21.887174180846735,
+        20.74972054605146,
+        20.52022536390481,
+        20.51777935853737,
+        20.42471534778706,
+        19.60749246329583,
+        19.067820890178563,
+        18.677012992948516,
+        18.566276896829486
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "tax",
+        "wa",
+        "american",
+        "ha",
+        "law",
+        "party",
+        "obama",
+        "republican",
+        "government",
+        "tea",
+        "conservative",
+        "nation",
+        "immigration",
+        "war",
+        "alabama"
+      ],
+      "topic_weights": [
+        97.50109992337744,
+        96.92702706608158,
+        81.20091972774864,
+        75.25701589064454,
+        61.21880522054469,
+        60.187955042969904,
+        59.408502723611775,
+        45.7336750320338,
+        38.981248165080245,
+        38.83247158292526,
+        38.3972384878094,
+        37.00049794025552,
+        35.45896876693418,
+        35.403341806597034,
+        32.59603516516893
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 18,
+    "0": 23,
+    "1": 11,
+    "2": 4,
+    "3": 14
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Anyone who follows politics knows that the mainstream media has two sets of rules: one set for conservatives and another set for liberals. Conservatives spend most of their time correcting smears and ...",
+        "upvotes": 17,
+        "url": "http://townhall.com/columnists/johnhawkins/2011/05/31/6_things_the_mainstream_media_would_say_about_obama_if_he_were_a_republican/page/full/"
+      },
+      {
+        "preview": "In contrast to what many believe, I do not support political parties. I support and vehemently defend policies that make sense, and attack those that don't.In case you did not know that, I am going to...",
+        "upvotes": 0,
+        "url": "http://globaleconomicanalysis.blogspot.com/2011/05/political-pandering-by-mitt-romney-in.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MishsGlobalEconomicTrendAnalysis+%28Mish%27s+Global+Economic+Trend+Analysis%29"
+      },
+      {
+        "preview": "By the time America elected Barack Obama, this historian would see, it was already on the way down. Were he to simultaneously examine the rise of the welfare state, he would notice a telltale trend: A...",
+        "upvotes": 0,
+        "url": "http://townhall.com/columnists/terryjeffrey/2011/06/01/has_america_opened_its_last_frontier/page/full/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 1,
+        "url": "http://www.nationalreview.com/corner/268376/no-seriously-whats-democratic-plan-andrew-stiles"
+      },
+      {
+        "preview": "Prof Steve Jones, one of Britain’s most eminent scientists, has warned that the level of inbreeding among the nation’s Muslims is endangering the health of future generations. The geneticist said that...",
+        "upvotes": 1,
+        "url": "http://www.telegraph.co.uk/culture/hay-festival/8544359/Hay-Festival-2011-Professor-risks-political-storm-over-Muslim-inbreeding.html"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "http://www.washingtontimes.com/news/2011/jun/14/boehner-gives-obama-friday-deadline-libya/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "http://www.washingtontimes.com/news/2011/may/26/union-files-complaint-to-stop-move-of-nyc-opera/?sms_ss=email&at_xt=4ddfb85827d4ed11%2C0"
+      },
+      {
+        "preview": "Sounding every bit like the whiteboard eggheads who keep spinning around the Ivy League-Washington revolving door, Obama announced breathlessly: \"If we could match up schools and businesses, we could ...",
+        "upvotes": 0,
+        "url": "http://townhall.com/columnists/michellemalkin/2011/06/10/the_government_job-training_juggernaut"
+      },
+      {
+        "preview": "The global and domestic landscape is one of turmoil, indecision, and uncertainty. Everywhere one looks there is chaos and potential disaster, whether in the financial, economic, or political sphere. S...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/2011/06/obama_and_the_end_of_western_civilization.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "eral \"Betray-Us\" is now Obama's pick to run the CIA! (Victor Davis Hanson is a classicist and historian at the Hoover Institution, Stanford University, and the author, most recently, of \"The Father of...",
+        "upvotes": 0,
+        "url": "http://townhall.com/columnists/victordavishanson/2011/06/02/the_factory_of_selective_moral_outrage/page/full/"
+      },
+      {
+        "preview": "Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter Ben Shapiro writes in \"Primetime Propaganda\" that the industry's elite use broadcast to \"shape A...",
+        "upvotes": 0,
+        "url": "http://www.hollywoodreporter.com/news/hollywood-accused-rampant-liberal-bias-193304"
+      },
+      {
+        "preview": "Political Byline This blog is no longer active as of October 31, 2011 Posted onJune 3, 2011June 3, 2011AuthorPatrick Not a big surprise at all. Although you would think it was, the way my iPod has bee...",
+        "upvotes": 1,
+        "url": "http://www.politicalbyline.com/2011/06/03/john-edwards-indicted/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Political Byline This blog is no longer active as of October 31, 2011 Posted onMay 31, 2011May 31, 2011AuthorPatrick Please note: While I have always respected our Military and always will; and I do b...",
+        "upvotes": 4,
+        "url": "http://www.politicalbyline.com/2011/05/31/video-guest-voice-the-patriot-act-is-not-conservative/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 1,
+        "url": "http://www.washingtontimes.com/news/2011/may/29/tea-party-2012-effect-stirs-gop-trepidation/"
+      },
+      {
+        "preview": "“My fellow citizens, the American presidency is not supposed to be a journey of personal discovery.” — Sarah Palin Since he has been elected, Barack Obama has been like a four year old wearing water w...",
+        "upvotes": 0,
+        "url": "http://rightwingnews.com/john-hawkins/five-more-amateur-mistakes-by-the-obama-administration/"
+      }
+    ]
+  }
+}

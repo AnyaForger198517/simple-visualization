@@ -1,0 +1,285 @@
+{
+  "month": "2021-06",
+  "total_articles": 231,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "covid",
+        "biden",
+        "ha",
+        "news",
+        "china",
+        "american",
+        "state",
+        "pandemic",
+        "fauci",
+        "president",
+        "government",
+        "health",
+        "report",
+        "trump"
+      ],
+      "topic_weights": [
+        282.6808819322538,
+        195.11621159091408,
+        185.29736988379423,
+        174.89161014602132,
+        135.2933879198275,
+        122.88825188399228,
+        108.67541048103215,
+        108.21242207180343,
+        101.90616836678979,
+        94.46041135049624,
+        91.86394787897883,
+        90.40239665236453,
+        87.93221477210369,
+        86.34311392342266,
+        80.19614964844735
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "election",
+        "trump",
+        "wa",
+        "state",
+        "democrat",
+        "republican",
+        "voter",
+        "biden",
+        "county",
+        "ballot",
+        "ha",
+        "president",
+        "democratic",
+        "vote",
+        "party"
+      ],
+      "topic_weights": [
+        348.24028122062765,
+        313.93860016688683,
+        305.0890003009756,
+        235.0110346167748,
+        225.21750946878984,
+        220.01594357253668,
+        180.7223183727353,
+        161.7813763687799,
+        134.2143603758755,
+        124.2643728540821,
+        118.52401563757383,
+        114.24184102092467,
+        111.92292552855692,
+        110.68467105110038,
+        109.67044591305788
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "law",
+        "federal",
+        "according",
+        "wa",
+        "ha",
+        "case",
+        "home",
+        "florida",
+        "muhammad",
+        "court",
+        "broadband",
+        "gun",
+        "desantis",
+        "service"
+      ],
+      "topic_weights": [
+        109.5834430777768,
+        80.99173287376821,
+        65.99399766762178,
+        64.20932364698517,
+        56.38536161993213,
+        49.2430905964926,
+        44.619848419005585,
+        43.59450306676115,
+        43.35127339873069,
+        40.43316688793469,
+        38.97017742802324,
+        38.603770804468965,
+        37.19532001281252,
+        35.6486744229243,
+        34.751737817890316
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "police",
+        "ha",
+        "medium",
+        "fbi",
+        "city",
+        "black",
+        "law",
+        "post",
+        "elder",
+        "violence",
+        "news",
+        "life",
+        "man",
+        "crime"
+      ],
+      "topic_weights": [
+        450.79597130297645,
+        181.59580079255792,
+        145.2878066711413,
+        103.83556245158462,
+        90.98096298946291,
+        80.87182607364043,
+        75.2102914747369,
+        73.82170724863245,
+        72.95090883169466,
+        62.59807391982393,
+        61.527420299835015,
+        61.233387474933636,
+        60.72438280269806,
+        59.13861647830582,
+        59.08606397217582
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "school",
+        "white",
+        "critical",
+        "race",
+        "american",
+        "ha",
+        "state",
+        "wa",
+        "theory",
+        "biden",
+        "child",
+        "student",
+        "parent",
+        "america",
+        "black"
+      ],
+      "topic_weights": [
+        268.87500612063,
+        237.5090890962192,
+        232.83945779754953,
+        215.17250063046316,
+        156.58029199452,
+        154.77554594445505,
+        137.56886989712277,
+        133.56808208950576,
+        130.47414272358748,
+        130.24045092862363,
+        115.67267746748557,
+        114.46018059849563,
+        111.29059426273983,
+        106.69968939002155,
+        102.91353755290858
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 47,
+    "1": 42,
+    "0": 78,
+    "2": 14,
+    "4": 50
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Rep. Tom Malinowski (D-NJ) told CNN on Monday that holding the upcoming 2022 Winter Olympics in China was “in some ways worse than” holding the 1936 Olympics in Nazi Germany. “Look, I just don’t think...",
+        "upvotes": 459,
+        "url": "https://www.dailywire.com/news/democrat-lawmaker-holding-olympics-in-china-in-some-ways-worse-than-holding-1936-olympics-in-nazi-germany"
+      },
+      {
+        "preview": "Florida Gov. Ron DeSantis (R) kicked off Pride month by signing into law a bill to protect female athletes from competing against biological males. “I can tell you this in Florida,” the governor said....",
+        "upvotes": 1,
+        "url": "https://www.faithwire.com/2021/06/01/florida-gov-ron-desantis-signs-bill-banning-transgender-athletes-from-womens-sports/"
+      },
+      {
+        "preview": "A 2020 EU Kids Online Study claimed to have gathered data from 19 European Union (EU) countries proving that most children in most of the countries were “neither upset nor happy” after viewing pornogr...",
+        "upvotes": 1,
+        "url": "https://thenationalpulse.com/breaking/unicef-says-restricting-childrens-porn-access-infringes-human-rights/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Down south in Georgia, the audit is heating up! The Governor of Georgia, Brian Kemp, has been served papers from Kandiss Taylor. Taylor, his campaign rival, is a Conservative mother of three, running ...",
+        "upvotes": 19,
+        "url": "https://thetruereporter.com/breaking-georgias-gov-kemp-sued/"
+      },
+      {
+        "preview": "Thomas Catenacci Texas Democrats successfully executed a rare legislative move to temporarily prevent a voting integrity bill from passing Sunday night. Democratic state representatives walked out of ...",
+        "upvotes": 65,
+        "url": "https://www.tampafp.com/democrats-prevent-texas-voting-bill-from-passing-with-a-walk-out/"
+      },
+      {
+        "preview": "Blog Articles · Apr 15, 2021 · Election Integrity Download the PDF version here. MYTH: Texas’s election safeguards restrict voting access. FACT: Texas’s reforms create a more secure and more uniform v...",
+        "upvotes": 13,
+        "url": "https://heritageaction.com/blog/myth-vs-fact-misinformation-on-texas-voting-laws"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Malik Muhammad, 24, appeared in U.S. District Court in Portland Tuesday afternoon on allegations of civil disorder, carrying and using an explosive to commit a felony and possessing a firearm that’s n...",
+        "upvotes": 32,
+        "url": "https://www.oregonlive.com/crime/2021/06/indiana-man-who-bailed-out-on-state-charges-with-help-from-portland-freedom-fund-to-face-federal-explosives-charges.html"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 17,
+        "url": "https://www.washingtontimes.com/news/2021/jun/1/editorial-us-doesnt-have-a-guns-problem/"
+      },
+      {
+        "preview": "Four antifa and BLM terrorists have been arrested and are now facing a variety of federal charges in Portland (duh, where else) stemming from the ongoing *PEACEFUL* protests. Charges include multiple ...",
+        "upvotes": 1,
+        "url": "https://www.thegatewaypundit.com/2021/06/four-portland-antifa-terrorists-facing-slew-federal-allegations-including-explosives-charges/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "\"They put us through vicious suffering, vicious oppression,\" he said. \"Once they are buried, we must bury them, dig them up, and kill them again.\" This became an audience chant. Video emerged online p...",
+        "upvotes": 2,
+        "url": "https://thepostmillennial.com/kill-everything-white-in-sight-shocking-footage-from-national-black-power-convention-emerges-online"
+      },
+      {
+        "preview": "Ronald Reagan said in his farewell address, “don’t be afraid to see what you see.” That’s good advice for what we’re “seeing” on the streets of Portland. The communist antifa and Black Lives Matter, I...",
+        "upvotes": 27,
+        "url": "https://pjmedia.com/news-and-politics/victoria-taft/2021/05/31/theyre-trying-to-kill-me-a-portland-antifa-death-squad-goes-head-hunting-for-andy-ngo-and-somebody-gets-a-beatdown-n1451079"
+      },
+      {
+        "preview": "Democrats in and out of Congress and every leftist propagandist in the media are now a committed Marxists. They no longer even pretend to respect or value the Constitution. They are now pushing Critic...",
+        "upvotes": 256,
+        "url": "https://www.americanthinker.com/blog/2021/06/the_democrat_party_in_congress_is_a_marxist_cult_the_republicans_are_a_college_fraternity.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The state's \"diversity\" reading materials say employees may need space to be \"disengaged\" at work. A previous version of this article stated that Tennessee’s Human Resource Department required state e...",
+        "upvotes": 8,
+        "url": "https://www.dailywire.com/news/tennessee-requiring-state-employees-to-complete-equity-assignment"
+      },
+      {
+        "preview": "President Joe Biden faced criticism on Tuesday over remarks that he made while speaking in Tulsa, Oklahoma, on race-related issues, saying that black entrepreneurs are “just as capable” as white entre...",
+        "upvotes": 1,
+        "url": "https://www.dailywire.com/news/biden-black-entrepreneurs-just-as-capable-as-whites-but-they-dont-have-lawyers-or-accountants"
+      },
+      {
+        "preview": "PHILADELPHIA (AP) — The NFL on Wednesday pledged to halt the use of “race-norming” — which assumed Black players started out with lower cognitive function — in the $1 billion settlement of brain injur...",
+        "upvotes": 1,
+        "url": "https://apnews.com/article/pa-state-wire-race-and-ethnicity-health-nfl-sports-205b304c0c3724532d74fc54e58b4d1d?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP"
+      }
+    ]
+  }
+}

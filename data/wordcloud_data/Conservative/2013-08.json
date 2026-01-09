@@ -1,0 +1,36 @@
+{
+  "month": "2013-08",
+  "total_articles": 164,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Racial issues (black/white, racism) and social interactions in public spaces",
+      "core_keywords": ["racial_issues", "black_white", "racism", "public_spaces", "restaurant", "woman", "group", "party"],
+      "importance_ratio": "3.66%"
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US foreign policy (Syria, military) and Obama administration's global actions",
+      "core_keywords": ["foreign_policy", "syria", "obama", "military", "weapon", "state", "administration", "power"],
+      "importance_ratio": "17.07%"
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US domestic politics (Obamacare, Republican) and government/jobs/gun laws",
+      "core_keywords": ["domestic_politics", "obamacare", "republican", "government", "law", "obama", "job", "gun"],
+      "importance_ratio": "63.41%"
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Social welfare (immigration, gay family, poor) and American societal issues",
+      "core_keywords": ["social_welfare", "immigration", "gay_family", "poor", "child", "immigrant", "american", "illegal"],
+      "importance_ratio": "8.54%"
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Constitutional/amendment issues and legal/court matters (state/congress level)",
+      "core_keywords": ["constitution", "amendment", "congress", "state", "court", "government", "constitutional", "germany"],
+      "importance_ratio": "7.32%"
+    }
+  ]
+}

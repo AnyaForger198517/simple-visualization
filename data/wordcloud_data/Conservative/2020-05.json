@@ -1,0 +1,36 @@
+{
+  "month": "2020-05",
+  "total_articles": 148,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Political Ideology Debate (Conservative vs Liberal)",
+      "core_keywords": ["conservative", "liberal", "democracy", "political party", "social", "argument", "ideology"],
+      "importance_ratio": 0.0135
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "COVID-19 Pandemic and Regional Impact",
+      "core_keywords": ["covid", "coronavirus", "death", "nursing home", "state", "china", "health crisis"],
+      "importance_ratio": 0.7027
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Conservatism and Liberalism Ideological Analysis",
+      "core_keywords": ["conservatism", "liberalism", "democratic", "society", "language", "institution", "reason"],
+      "importance_ratio": 0.0203
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Cultural and Social Discourse on Ideology",
+      "core_keywords": ["culture", "social", "language", "american", "argument", "society", "example"],
+      "importance_ratio": 0.0068
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2020 US Presidential Election Dynamics",
+      "core_keywords": ["trump", "biden", "election", "voter", "ballot", "democrat", "republican"],
+      "importance_ratio": 0.2568
+    }
+  ]
+}

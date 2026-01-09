@@ -1,0 +1,285 @@
+{
+  "month": "2016-07",
+  "total_articles": 249,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "police",
+        "clinton",
+        "ha",
+        "johnson",
+        "officer",
+        "advertisement",
+        "black",
+        "shooting",
+        "hillary",
+        "news",
+        "video",
+        "percent",
+        "story",
+        "white"
+      ],
+      "topic_weights": [
+        657.5166468265593,
+        349.3839543349551,
+        288.1926904052367,
+        233.28589243161727,
+        232.07081723315048,
+        218.5276270149442,
+        170.86018099612915,
+        156.86511085111985,
+        137.18285494653347,
+        131.86353213489204,
+        123.30518985283196,
+        121.60770530492773,
+        118.27266568951255,
+        114.10542433121022,
+        113.79673911231392
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "ha",
+        "hillary",
+        "dnc",
+        "medium",
+        "democratic",
+        "campaign",
+        "russian",
+        "definition",
+        "email",
+        "obama",
+        "sander",
+        "speech",
+        "research"
+      ],
+      "topic_weights": [
+        344.1124379468645,
+        267.70127230484746,
+        166.02392691987592,
+        141.8837923333838,
+        114.58425300414324,
+        95.75115950404535,
+        89.2899844733158,
+        82.080896427737,
+        76.45338876458204,
+        74.12691660480675,
+        67.48770600087019,
+        63.547674327595175,
+        63.158880361780376,
+        61.60033410831254,
+        61.48874730924732
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "border",
+        "wa",
+        "law",
+        "ryan",
+        "state",
+        "agent",
+        "sector",
+        "ha",
+        "san",
+        "illegal",
+        "station",
+        "patrol",
+        "operation",
+        "immigration",
+        "government"
+      ],
+      "topic_weights": [
+        195.17051815300226,
+        140.7758544428117,
+        120.61665045273504,
+        101.08240088061078,
+        84.80053511840414,
+        72.85535031210098,
+        70.32923556972305,
+        65.61589570256646,
+        58.89772770978161,
+        56.19133256611269,
+        55.40971099958388,
+        53.04504283311362,
+        49.415587542612265,
+        49.40792055754432,
+        47.92602781040936
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "republican",
+        "convention",
+        "party",
+        "ha",
+        "cruz",
+        "vote",
+        "delegate",
+        "state",
+        "campaign",
+        "national",
+        "donald",
+        "conservative",
+        "penny"
+      ],
+      "topic_weights": [
+        724.9377936341039,
+        308.48415785351915,
+        275.73065769662605,
+        216.14501334176913,
+        190.8739178824813,
+        159.61467358050518,
+        154.75324848059134,
+        141.53293892813468,
+        141.38229304562805,
+        137.80609427131134,
+        135.35790636606774,
+        132.60026625590444,
+        125.17053551170082,
+        117.03666599822444,
+        106.48997493500619
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "trump",
+        "american",
+        "state",
+        "president",
+        "wa",
+        "country",
+        "obama",
+        "government",
+        "america",
+        "life",
+        "political",
+        "united",
+        "tax",
+        "world"
+      ],
+      "topic_weights": [
+        340.53342015546235,
+        311.95043408397277,
+        241.8188200289262,
+        233.55110044843903,
+        218.58415143959647,
+        207.72987410597977,
+        200.0109481132102,
+        160.47948801014513,
+        148.1986340660606,
+        141.14392783506193,
+        120.10672923948582,
+        116.95482836443787,
+        114.51703920079423,
+        105.61615360833561,
+        104.66450325117029
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 46,
+    "4": 65,
+    "0": 87,
+    "3": 40,
+    "2": 11
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sweden’s police chief unveiled the force’s latest weapon in the fight against sexual assault: wristbands reading “Don’t touch me”. A recent Swedish press release warns that groping is a crime. In it, ...",
+        "upvotes": 18,
+        "url": "http://www.breitbart.com/london/2016/06/30/wristbands-stop-sex-attacks/"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 22,
+        "url": "http://www.nationalreview.com/article/437356/loretta-lynch-bill-clinton-meeting-democrats-above-law-they-dont-care"
+      },
+      {
+        "preview": "Advertisement Guest post by Aleister at American Lookout Having ruled out the GOP’s 2012 loser Mitt Romney, #NeverTrump leader Bill Kristol has now moved on to the GOP’s 2008 loser, John McCain. So mu...",
+        "upvotes": 1,
+        "url": "http://www.thegatewaypundit.com/2016/07/good-grief-nevertrumper-bill-kristol-now-promoting-john-mccain-president/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 3,
+        "url": "http://newsbusters.org/blogs/nb/curtis-houck/2016/06/28/happened-matthews-asks-why-does-terrorism-always-seem-involve?utm_source=facebook&utm_medium=marketing&utm_term=facebook&utm_content=facebook&utm_campaign=matthews-terrorism"
+      },
+      {
+        "preview": "By Dan Calabrese ——Bio and Archives--June 30, 2016 American Politics, News | Disqus Comments | Reader Friendly | Subscribe | Email Us He came over and said hello. He talked about his grandchildren and...",
+        "upvotes": 24,
+        "url": "http://canadafreepress.com/article/bill-clintons-adventures-with-women-in-airplanes-continue"
+      },
+      {
+        "preview": "Bryan Pagliano had previously invoked the Fifth Amendment during private testimony before the House Benghazi Committee. | AP Photo By JOSH GERSTEIN 06/22/2016 04:22 PM EDT A former computer technology...",
+        "upvotes": 33,
+        "url": "http://www.politico.com/story/2016/06/bryan-pagliano-clinton-email-fifth-224682"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Congress Several members of the group that fell short of getting immigration reform into law are ready to try again. By SEUNG MIN KIM and BURGESS EVERETT 07/05/2016 05:25 AM EDT Lawmakers see another ...",
+        "upvotes": 2,
+        "url": "http://www.politico.com/story/2016/07/immigration-reform-gang-eight-225028"
+      },
+      {
+        "preview": "Lawmaker lowers filibuster threat after receiving details on drones The Senate on Monday approved James B. Comey to become the director of the FBI, giving an overwhelming bipartisan boost of approval ...",
+        "upvotes": 115,
+        "url": "http://m.washingtontimes.com/news/2013/jul/29/sen-rand-paul-is-lone-dissenter-as-james-comey-con/"
+      },
+      {
+        "preview": "Last week I testified before the Senate Judiciary Subcommittee on Oversight, Agency Action, Federal Rights and Federal Courts at a hearing entitled, “Willful Blindness: Consequences of Agency Efforts ...",
+        "upvotes": 54,
+        "url": "http://www.breitbart.com/national-security/2016/07/06/willful-blindness/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "I have to admit I did not see this coming from Nevada Senator Dean Heller. Heller has always been kind of an establishment guy who has been happy to fade into the background and let leadership make hi...",
+        "upvotes": 6,
+        "url": "http://www.redstate.com/leon_h_wolf/2016/06/30/yet-another-gop-senator-goes-nevertrump-least-pretty-darn-close/"
+      },
+      {
+        "preview": "Sarah Palin assailed fellow Republicans on Friday for failing to support Donald Trump By NICK GASS 07/01/2016 01:00 PM EDT Sarah Palin assailed fellow Republicans on Friday for failing to support Dona...",
+        "upvotes": 3,
+        "url": "http://www.politico.com/story/2016/07/sarah-palin-attacks-never-trump-225031?cmpid=sf#ixzz4DBBgP9wg"
+      },
+      {
+        "preview": "As the GOP struggles to find people to speak at the party convention, Trump seeks to fill all the speaking slots with sycophants and hangers-on, who will, presumably, lavish him with the unwavering ad...",
+        "upvotes": 0,
+        "url": "http://www.redstate.com/sweetie15/2016/07/01/trump-continues-pack-rnc-convention-roster-sycophants-democrats/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Two refugees and a foreign student on a visa brought multi-drug resistant (MDR) tuberculosis (TB) to Milwaukee, Wisconsin in 2009 and 2011, according to a 2014 article in an epidemiology publication w...",
+        "upvotes": 1,
+        "url": "http://www.breitbart.com/big-government/2016/06/30/migrants-bring-multi-drug-resistant-tb-wisconsin/"
+      },
+      {
+        "preview": "Austria's Constitutional Court is due to rule on the far-right Freedom Party's challenge to the result of last month's presidential run-off vote. It will determine whether irregularities were committe...",
+        "upvotes": 13,
+        "url": "http://www.bbc.co.uk/news/world-europe-36680554"
+      },
+      {
+        "preview": "Those who do not learn history are doomed to repeat it. Why? Because for the majority of human history, human beings have lived in bondage, in poverty, under despotic leaders, with little to no freedo...",
+        "upvotes": 15,
+        "url": "http://louderwithcrowder.com/holocaust-survivor-draws-chilling-similarities-between-nazism-and-obama/#.V3aMhbgrKMo"
+      }
+    ]
+  }
+}

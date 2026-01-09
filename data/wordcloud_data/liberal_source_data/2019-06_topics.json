@@ -1,0 +1,285 @@
+{
+  "month": "2019-06",
+  "total_articles": 120,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "ha",
+        "state",
+        "republican",
+        "democrat",
+        "democratic",
+        "american",
+        "wa",
+        "candidate",
+        "percent",
+        "senate",
+        "trump",
+        "vote",
+        "election",
+        "right",
+        "policy"
+      ],
+      "topic_weights": [
+        267.2065385464536,
+        197.98164648563727,
+        191.2525532014774,
+        162.243655650532,
+        155.56091267742846,
+        154.83922634688332,
+        152.18535173051941,
+        149.21772541719827,
+        110.26393764485343,
+        103.42026657451554,
+        100.73460779915204,
+        100.69441567892835,
+        96.40264947692224,
+        90.83045219491412,
+        88.64152605851099
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "child",
+        "trump",
+        "border",
+        "violence",
+        "migrant",
+        "police",
+        "claim",
+        "state",
+        "job",
+        "immigration",
+        "free",
+        "journalist",
+        "jones"
+      ],
+      "topic_weights": [
+        221.7782786569113,
+        155.42796816685782,
+        116.25564026594122,
+        95.45558247198798,
+        91.75471295466171,
+        82.8891457736443,
+        74.30574543168176,
+        74.1968576301253,
+        69.85912159442273,
+        68.01572771492195,
+        63.15628749993509,
+        60.28490601690804,
+        60.268035512062745,
+        57.869951271514196,
+        55.657364554308295
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "house",
+        "ha",
+        "president",
+        "question",
+        "administration",
+        "white",
+        "court",
+        "committee",
+        "democrat",
+        "report",
+        "news",
+        "mueller",
+        "state"
+      ],
+      "topic_weights": [
+        220.33245643592895,
+        171.107771271294,
+        147.14979094105948,
+        118.10159839418573,
+        111.46278831680658,
+        83.8756897685325,
+        82.9905061386584,
+        81.0483038875863,
+        79.65505641386503,
+        77.04185749691906,
+        73.4662750309664,
+        71.93741195087298,
+        69.46287288890177,
+        64.7431868560645,
+        57.590089952346695
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "sheriff",
+        "wa",
+        "office",
+        "email",
+        "enter",
+        "county",
+        "valid",
+        "college",
+        "student",
+        "state",
+        "public",
+        "fund",
+        "president",
+        "loan",
+        "ha"
+      ],
+      "topic_weights": [
+        108.31258155975983,
+        84.52006084413665,
+        65.34821721299261,
+        56.42504259575549,
+        53.17180144410704,
+        50.17344744759357,
+        49.10941385646366,
+        42.15456139754076,
+        40.81296280451832,
+        31.99020530748641,
+        31.862884609202947,
+        31.50790512054048,
+        30.317520787131897,
+        27.660872168093924,
+        26.629685274297884
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "government",
+        "million",
+        "foreign",
+        "company",
+        "business",
+        "property",
+        "deal",
+        "organization",
+        "hotel",
+        "state",
+        "project"
+      ],
+      "topic_weights": [
+        689.2262264625787,
+        150.38667681441544,
+        117.25563257793696,
+        110.701137538218,
+        86.53709911460095,
+        83.31465047950616,
+        81.40064290110108,
+        74.27333641264373,
+        67.48854944303318,
+        65.70331596995601,
+        61.6322078387197,
+        60.89653796544878,
+        60.47420364699136,
+        56.06467551629551,
+        56.03746184312333
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 33,
+    "0": 35,
+    "4": 20,
+    "1": 25,
+    "3": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Get updates from Dispatches From the Culture Wars delivered straight to your inbox A new study from the Harvard School of Medicine says that 45,000 people die every year due to a lack of health insura...",
+        "upvotes": 57,
+        "url": "https://www.patheos.com/blogs/dispatches/2018/10/15/study-45000-deaths-per-year-due-to-lack-of-health-insurance/"
+      },
+      {
+        "preview": "Golden State Warriors coach Steve Kerr belonged to another team before Game 2 of the NBA Finals: One fighting for sensible gun laws. The activist and former NBA player wore a “Vote For Our Lives” T-sh...",
+        "upvotes": 19,
+        "url": "https://www.huffpost.com/entry/steve-kerr-vote-for-our-lives-nba-finals_n_5cf534dfe4b0a1997b6e27f2"
+      },
+      {
+        "preview": "While Joe Biden was catching flak for skipping a Democratic convention in California over the weekend, two of his senior campaign advisors met with fundraisers in the Bay Area to hash out a strategy t...",
+        "upvotes": 0,
+        "url": "https://www.cnbc.com/2019/06/03/joe-biden-aides-meet-bay-area-fundraisers-as-he-skips-convention.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© First Look Institute. All rights reserved First Look Institute is a 501(c)(3) nonprofit organization. In a federal lawsuit, the tech giant Oracle has provided new details to support its accusation t...",
+        "upvotes": 1,
+        "url": "https://theintercept.com/2019/06/03/amazon-defense-department-jedi-contract/"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News ROCHESTER, N.Y. — Mercedes Phelan was confused last April when Border Patrol agents boarded the Greyhound bus she was riding in Pennsylvania and aske...",
+        "upvotes": 275,
+        "url": "https://www.nbcnews.com/politics/immigration/border-patrol-searches-have-increased-greyhound-other-buses-far-border-n1012596"
+      },
+      {
+        "preview": "Earlier this week, the Pennsylvania Supreme Court delivered a message that the United States Supreme Court desperately needs to hear: The lawful exercise of your Second Amendment rights does not make ...",
+        "upvotes": 1,
+        "url": "https://www.nationalreview.com/2019/06/a-win-for-gun-rights-in-pennsylvania/amp/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The Justice Department on Friday released a more complete transcript of a voice mail from Donald Trump’s attorney John Dowd to Rob Kelner, the lawyer for Trump’s former national security adviser Micha...",
+        "upvotes": 2,
+        "url": "https://www.cnn.com/2019/05/31/politics/michael-flynn-john-dowd-voicemail/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_allpolitics+%28RSS%3A+CNN+-+Politics%29"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News The U.S. Navy has acknowledged that a request was made to hide the USS John S. McCain during President Donald Trump's recent state visit to Japan. \"A...",
+        "upvotes": 336,
+        "url": "https://www.nbcnews.com/politics/donald-trump/navy-acknowledges-request-was-made-hide-uss-john-s-mccain-n1012731"
+      },
+      {
+        "preview": "The Pentan has told the White House to stop politicizing the military, amid a furor over a Trump administration order to have the Navy ship named for the late Sen. John McCain hidden from view during ...",
+        "upvotes": 274,
+        "url": "https://abcnews.go.com/International/wireStory/pentagon-tells-white-house-stop-politicizing-military-63431371"
+      }
+    ],
+    "3": [
+      {
+        "preview": "In just over a decade, Democratic Party leaders have gone from advocating modest increases in Pell grants to pushing for large-scale debt cancellation. The presidential-election cycle has barely begun...",
+        "upvotes": 0,
+        "url": "https://www.theatlantic.com/education/archive/2019/06/democrats-debt-cancellation-free-college/591043/?"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 14,
+        "url": "https://www.axios.com/marsha-blackburn-foreign-offers-assistance-campaigns-fab324f4-a630-41aa-9b90-a6fc4ca5c5d0.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiospm&stream=top"
+      },
+      {
+        "preview": "In this Nov. 22, 2017 photo, pedestrians pass the storefront of Gibson's Food Mart & Bakery in Oberlin, Ohio. (AP Photo/Dake Kang)AP ELYRIA, Ohio -- Gibson’s Bakery won more than $11 million from Ober...",
+        "upvotes": 1,
+        "url": "https://www.cleveland.com/news/2019/06/gibsons-bakery-awarded-more-than-11-million-in-years-long-legal-battle-with-oberlin-college.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "EL PASO, Texas — Sales tax revenues and $400,000 in back taxes claimed from a high-profile El Paso businessman's bankruptcy are a few ways El Paso is absorbing a hit spurred by U.S. President Donald T...",
+        "upvotes": 8,
+        "url": "https://www.usatoday.com/story/news/politics/elections/2019/06/04/donald-trump-rally-still-owes-el-paso-470-000/1336983001/"
+      },
+      {
+        "preview": "ake another four years, according to an interview published June 2, 2019. “There is no one working there. Everything is stalling,” said one Argentinian with a contract on an apartment in the Trump bui...",
+        "upvotes": 5,
+        "url": "https://www.opensecrets.org/news/2019/06/trump-foreign-business-interests/#utm_source=reddit&utm_medium=social&utm_campaign=r%2F_trump-foreign-business-interests-060419"
+      },
+      {
+        "preview": "Every product was carefully curated by an  editor. We may earn a commission from these links. There's a sprawling infrastructure of conflicts of interest, entanglements with foreign governments and sh...",
+        "upvotes": 1,
+        "url": "https://www.esquire.com/news-politics/a27752192/trump-foreign-business-panama-azerbaijan-corruption/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2020-08",
+  "total_articles": 115,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "white",
+        "police",
+        "july",
+        "rufo",
+        "christopher",
+        "realchrisrufo",
+        "twitter",
+        "right",
+        "civil",
+        "racism",
+        "city",
+        "pic",
+        "office",
+        "violence",
+        "wa"
+      ],
+      "topic_weights": [
+        157.81064232638965,
+        102.44188208708657,
+        91.64978987348124,
+        90.45849425336371,
+        89.8188134496838,
+        87.56473712330416,
+        74.63990608353036,
+        72.98282805465773,
+        70.28521415951684,
+        66.52000047380197,
+        66.0085051195327,
+        65.3178508629211,
+        57.48930437878245,
+        55.49618048644994,
+        53.786710896248294
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "china",
+        "trump",
+        "report",
+        "american",
+        "kilimnik",
+        "biden",
+        "president",
+        "manafort",
+        "country",
+        "tax",
+        "email",
+        "official"
+      ],
+      "topic_weights": [
+        113.84727602067774,
+        97.26708805089244,
+        95.0513153590359,
+        93.3054416999597,
+        92.25533091043388,
+        63.762189462267095,
+        61.13672949151699,
+        59.46812977778431,
+        58.24547486119231,
+        54.45060199691727,
+        52.10377011793305,
+        45.45489383586741,
+        44.44297756041623,
+        43.08859441661901,
+        42.12121156836046
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "biden",
+        "black",
+        "wa",
+        "harris",
+        "president",
+        "medium",
+        "white",
+        "campaign",
+        "ha",
+        "matter",
+        "life",
+        "american",
+        "democratic",
+        "vice",
+        "clinton"
+      ],
+      "topic_weights": [
+        117.74510334993894,
+        83.85658394054681,
+        76.3428669433529,
+        73.7605424153855,
+        66.12294604353451,
+        59.04213058423213,
+        54.07908043321472,
+        54.04813115940734,
+        51.36232041783941,
+        49.956326443709884,
+        44.0932737926412,
+        36.11040193710386,
+        34.35866777060732,
+        33.05052462517936,
+        32.643118231530806
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "county",
+        "ballot",
+        "state",
+        "shot",
+        "energy",
+        "south",
+        "man",
+        "voter",
+        "school",
+        "block",
+        "covid",
+        "price",
+        "nuclear",
+        "oil"
+      ],
+      "topic_weights": [
+        40.87567577808547,
+        31.069526471435612,
+        25.09696256652007,
+        21.661061738987136,
+        19.904382904467283,
+        18.93989623645939,
+        18.15981388721957,
+        16.450002384903836,
+        16.26945997148775,
+        14.840851773738557,
+        13.772986746718498,
+        13.683655480538189,
+        13.410393272078485,
+        13.363971753002717,
+        12.411786758238753
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "mask",
+        "ha",
+        "august",
+        "state",
+        "president",
+        "democrat",
+        "american",
+        "election",
+        "country",
+        "party",
+        "covid",
+        "mail",
+        "news"
+      ],
+      "topic_weights": [
+        281.0438424389328,
+        246.02020003330384,
+        164.12119001361214,
+        125.13879361887501,
+        110.45099916546756,
+        108.27157357763306,
+        106.30412961900177,
+        98.80866846482714,
+        88.94154535000453,
+        85.02064915839031,
+        82.28214999580865,
+        79.79718256700157,
+        78.65984597312462,
+        65.67408902185853,
+        62.379830607010895
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 22,
+    "4": 43,
+    "1": 24,
+    "3": 5,
+    "2": 21
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "You are here: by Sami Jarjour July 31, 2020, 1:48 pm During the NBA restart in Orlando, all coaches, players, and team staff have taken a knee for the National Anthem and wore a Black Lives Matters sh...",
+        "upvotes": 906,
+        "url": "https://thesportsontap.com/2020/07/31/jonathanisaacanthemnba/?utm_source=Conservative%20Reddit&utm_medium=Organic&utm_campaign=Jonathan%20Isaac"
+      },
+      {
+        "preview": "The Struggle Sessions of Mao’s Cultural Revolution was a tool to insure ideological adherence by humiliation, torturing, and even literally cannibalizing those—including those who had been zealous rev...",
+        "upvotes": 4,
+        "url": "http://politicalhat.com/2020/08/06/struggle-sessions-come-to-seattle/"
+      },
+      {
+        "preview": "Wait ’til next year? The Minneapolis Charter Commission rebuked the city council with its final 10-5 vote to shoot down a ballot measure in November that would have allowed them to “abolish the police...",
+        "upvotes": 33,
+        "url": "https://hotair.com/archives/ed-morrissey/2020/08/06/denied-charter-commission-votes-minneapolis-city-councils-abolish-pd-referendum/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved China has been showing its true colors in Hong Kong with the imposition of the new national security law on the former British colony. Approved last ...",
+        "upvotes": 56,
+        "url": "https://thehill.com/opinion/technology/509341-hong-kong-spotlights-why-china-cannot-be-trusted-on-technology"
+      },
+      {
+        "preview": "For anyone who still actually thinks America's role in Syria was ever somehow about \"protecting human rights\" or \"promoting democracy\" — here's the latest out of Syria, which the Trump administration ...",
+        "upvotes": 5,
+        "url": "https://www.zerohedge.com/geopolitical/pompeo-confirms-american-company-inked-deal-rebels-take-syrias-oil"
+      },
+      {
+        "preview": "Addressing Chinese Communist Party (CCP) apparatchiks part of a 2015 delegation to the U.S., Rice spoke at George Washington University and extolled China’s rise: “The United States welcomes a rising ...",
+        "upvotes": 7,
+        "url": "https://thenationalpulse.com/news/susan-rice-commitment-to-china/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Former Vice President Joe Biden remarked in an interview released Thursday that “unlike the African American community, with notable exceptions, the Latino community is an incredibly diverse community...",
+        "upvotes": 437,
+        "url": "https://www.breitbart.com/politics/2020/08/06/joe-biden-unlike-the-african-american-community-the-latino-community-is-an-incredibly-diverse-community-nabj/"
+      },
+      {
+        "preview": "Posted at 2:26 pm on August 6, 2020 by Sam J. Annnd this editor is dead. Like, so dead. BRB dying even. ‘Karen’ has sort of come and gone in social media because the Left seriously destroyed the dig w...",
+        "upvotes": 23,
+        "url": "https://twitchy.com/samj-3930/2020/08/06/my-best-friends-are-black-im-a-democrat-video-showing-karen-as-a-white-middle-aged-liberal-hillary-supporter-is-epic-watch/"
+      },
+      {
+        "preview": "To complete the login process, please enter the one time code that was sent to your email address. Don't have an account? Create one here. Please provide the email address associated with your account...",
+        "upvotes": 1,
+        "url": "https://www.bitchute.com/video/Tp0qp5FQo4xc/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Campuses in Montgomery County ordered closed at least through September, possibly longer; public schools already closed through the new year County officials in Montgomery County, Md. have ordered pri...",
+        "upvotes": 10,
+        "url": "https://justthenews.com/politics-policy/education/defying-expert-advice-montgomery-county-maryland-forbids-private-schools"
+      },
+      {
+        "preview": "Outbreaks of Covid-19 recorded on MS Roald Amundsen in Norway and the Paul Gauguin in Tahiti Last modified on Mon 3 Aug 2020 18.42 EDT Covid-19 has been detected on at least two cruise ships – one in ...",
+        "upvotes": 4,
+        "url": "https://www.theguardian.com/world/2020/aug/03/two-cruise-ships-hit-by-coronavirus-weeks-after-industry-restarts"
+      },
+      {
+        "preview": "Click Here for 150+ Global Oil Prices Start Trading CFDs Over 2,200 Different Instruments Click Here for 150+ Global Oil Prices Click Here for 150+ Global Oil Prices Start Trading CFDs Over 2,200 Diff...",
+        "upvotes": 31,
+        "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Worlds-Largest-Nuclear-Fusion-Reactor-Is-Finally-Being-Built.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "During an interview aired on Friday’s broadcast of “PBS NewsHour,” House Majority Whip James Clyburn (D-SC) stated that he thinks having an African American woman on the Supreme Court is more importan...",
+        "upvotes": 28,
+        "url": "https://www.breitbart.com/clips/2020/07/31/clyburn-having-a-black-woman-on-scotus-more-important-than-having-one-as-v-p-scotus-determines-preservation-of-democracy/"
+      },
+      {
+        "preview": "The worst thing for children is the time that cannot be given back. Leaving school should be the ultimate rite of passage to adulthood No generation has been worse hit by the lockdown than the one now...",
+        "upvotes": 5,
+        "url": "https://www.telegraph.co.uk/news/2020/08/01/can-no-longer-expect-young-carry-burdens/"
+      },
+      {
+        "preview": "Ireland's National Public Service Media Meáin Náisiúnta Seirbhíse Poiblí na hÉireann DCU Opinion: with their sampling errors and shy voters, opinion polls are not perfect and come with an element of '...",
+        "upvotes": 1,
+        "url": "https://www.rte.ie/brainstorm/2020/0727/1155793-opinion-polls-shy-voters-sampling-errors/"
+      }
+    ]
+  }
+}

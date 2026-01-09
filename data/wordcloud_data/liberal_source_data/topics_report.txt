@@ -1,0 +1,1147 @@
+============================================================
+LDA主题分析汇总报告
+============================================================
+
+月份: 2011-02
+文章总数: 11
+主题摘要:
+  主题 0: health, choice, labor, care, insurance (3篇文章)
+  主题 1: woman, wing, group, abortion, live (0篇文章)
+  主题 2: reagan, wa, tax, military, republican (2篇文章)
+  主题 3: state, ha, walker, wa, law (5篇文章)
+  主题 4: woman, abortion, group, wing, anti (1篇文章)
+----------------------------------------
+月份: 2011-03
+文章总数: 62
+主题摘要:
+  主题 0: mother, wa, jones, state, ha (45篇文章)
+  主题 1: state, israel, wa, ha, cut (6篇文章)
+  主题 2: ha, libya, war, wa, military (7篇文章)
+  主题 3: utility, rural, america, debate, energy (4篇文章)
+  主题 4: jones, mother, tax, state, cut (0篇文章)
+----------------------------------------
+月份: 2011-04
+文章总数: 60
+主题摘要:
+  主题 0: campaign, wa, obama, administration, adoption (4篇文章)
+  主题 1: mother, jones, ha, wa, trump (38篇文章)
+  主题 2: cfpb, program, nation, republican, tax (12篇文章)
+  主题 3: tax, wa, protest, uncut, pay (2篇文章)
+  主题 4: freedom, state, security, politics, equality (4篇文章)
+----------------------------------------
+月份: 2011-05
+文章总数: 82
+主题摘要:
+  主题 0: wa, black, american, ha, comment (38篇文章)
+  主题 1: jones, mother, story, today, policy (19篇文章)
+  主题 2: labor, party, state, cut, union (1篇文章)
+  主题 3: state, wa, government, health, law (12篇文章)
+  主题 4: tax, republican, cut, huckabee, wa (12篇文章)
+----------------------------------------
+月份: 2011-06
+文章总数: 81
+主题摘要:
+  主题 0: conservative, liberal, conservatism, ha, democracy (3篇文章)
+  主题 1: tax, president, country, crisis, world (5篇文章)
+  主题 2: wa, ha, jones, mother, state (73篇文章)
+  主题 3: liberal, conservatism, ha, conservative, democracy (0篇文章)
+  主题 4: liberal, ha, conservative, conservatism, wa (0篇文章)
+----------------------------------------
+月份: 2011-07
+文章总数: 81
+主题摘要:
+  主题 0: black, white, job, discrimination, wa (1篇文章)
+  主题 1: ha, wa, state, tax, republican (41篇文章)
+  主题 2: wa, prison, cain, prisoner, american (14篇文章)
+  主题 3: drug, dog, wa, perry, response (4篇文章)
+  主题 4: jones, mother, story, today, policy (21篇文章)
+----------------------------------------
+月份: 2011-08
+文章总数: 80
+主题摘要:
+  主题 0: wa, government, ha, libertarian, corporation (30篇文章)
+  主题 1: mother, jones, wa, bachmann, story (21篇文章)
+  主题 2: state, department, ha, environmental, project (5篇文章)
+  主题 3: cut, tax, comment, republican, ha (20篇文章)
+  主题 4: debt, bank, wa, financial, public (4篇文章)
+----------------------------------------
+月份: 2011-09
+文章总数: 70
+主题摘要:
+  主题 0: job, obama, economy, ha, president (12篇文章)
+  主题 1: percent, warren, house, support, bush (3篇文章)
+  主题 2: topic, party, wa, tea, tax (25篇文章)
+  主题 3: mother, jones, wa, today, story (19篇文章)
+  主题 4: wa, american, ha, citizen, law (11篇文章)
+----------------------------------------
+月份: 2011-10
+文章总数: 76
+主题摘要:
+  主题 0: liberal, public, global, democracy, job (2篇文章)
+  主题 1: street, wall, occupy, movement, party (9篇文章)
+  主题 2: tax, mother, ha, wa, jones (48篇文章)
+  主题 3: wa, american, iraq, perry, ha (14篇文章)
+  主题 4: police, protester, nypd, wa, officer (3篇文章)
+----------------------------------------
+月份: 2011-11
+文章总数: 79
+主题摘要:
+  主题 0: police, protester, property, occupy, space (2篇文章)
+  主题 1: wa, gingrich, ha, republican, npr (34篇文章)
+  主题 2: obama, ha, daley, america, house (5篇文章)
+  主题 3: bank, government, ha, wa, money (15篇文章)
+  主题 4: tax, percent, wa, cut, policy (23篇文章)
+----------------------------------------
+月份: 2011-12
+文章总数: 71
+主题摘要:
+  主题 0: health, insurance, care, medical, profit (4篇文章)
+  主题 1: wa, paul, biden, ha, state (23篇文章)
+  主题 2: woman, child, parent, immigration, undocumented (1篇文章)
+  主题 3: commissioner, report, wa, force, task (1篇文章)
+  主题 4: wa, ha, tax, mother, jones (42篇文章)
+----------------------------------------
+月份: 2012-01
+文章总数: 70
+主题摘要:
+  主题 0: poverty, wa, child, percent, job (7篇文章)
+  主题 1: conservative, romney, santorum, republican, candidate (11篇文章)
+  主题 2: state, wa, paul, hampshire, ha (31篇文章)
+  主题 3: school, mother, jones, wa, ha (15篇文章)
+  主题 4: obama, wa, ha, recall, state (6篇文章)
+----------------------------------------
+月份: 2012-02
+文章总数: 58
+主题摘要:
+  主题 0: state, wa, christian, romney, american (13篇文章)
+  主题 1: conservative, wa, state, ha, liberal (16篇文章)
+  主题 2: komen, wa, parenthood, planned, breast (11篇文章)
+  主题 3: ha, wa, obama, bank, release (11篇文章)
+  主题 4: hospital, catholic, woman, control, birth (7篇文章)
+----------------------------------------
+月份: 2012-03
+文章总数: 125
+主题摘要:
+  主题 0: law, mother, state, jones, congress (25篇文章)
+  主题 1: liberal, wa, limbaugh, state, ha (17篇文章)
+  主题 2: woman, slave, reproductive, freedom, abortion (6篇文章)
+  主题 3: ha, wa, price, country, president (24篇文章)
+  主题 4: wa, state, ha, republican, breitbart (53篇文章)
+----------------------------------------
+月份: 2012-04
+文章总数: 103
+主题摘要:
+  主题 0: poverty, child, family, percent, million (4篇文章)
+  主题 1: wa, canal, board, love, school (4篇文章)
+  主题 2: woman, tax, state, ha, mother (36篇文章)
+  主题 3: warren, brown, wa, massachusetts, democratic (1篇文章)
+  主题 4: wa, romney, obama, ha, republican (58篇文章)
+----------------------------------------
+月份: 2012-05
+文章总数: 95
+主题摘要:
+  主题 0: poor, jones, mother, government, student (22篇文章)
+  主题 1: job, military, public, spending, pentagon (6篇文章)
+  主题 2: poverty, family, percent, child, republican (2篇文章)
+  主题 3: wa, obama, ha, right, president (55篇文章)
+  主题 4: romney, wa, ha, news, obama (10篇文章)
+----------------------------------------
+月份: 2012-06
+文章总数: 108
+主题摘要:
+  主题 0: wa, health, court, care, state (50篇文章)
+  主题 1: wa, elite, agency, ha, wall (2篇文章)
+  主题 2: family, child, percent, poverty, million (4篇文章)
+  主题 3: wa, obama, ha, state, american (50篇文章)
+  主题 4: policy, nation, agency, financial, senator (2篇文章)
+----------------------------------------
+月份: 2012-07
+文章总数: 86
+主题摘要:
+  主题 0: gun, wa, ha, house, july (7篇文章)
+  主题 1: wa, obama, ha, american, jones (51篇文章)
+  主题 2: tax, state, million, medicaid, cost (2篇文章)
+  主题 3: wa, christian, school, religion, voter (22篇文章)
+  主题 4: ha, wa, racist, support, legal (4篇文章)
+----------------------------------------
+月份: 2012-08
+文章总数: 118
+主题摘要:
+  主题 0: poverty, edelman, income, ha, child (2篇文章)
+  主题 1: state, wa, ha, voter, law (38篇文章)
+  主题 2: romney, wa, ha, ryan, tax (70篇文章)
+  主题 3: akin, platform, republican, rape, ryan (6篇文章)
+  主题 4: gun, nra, obama, industry, wa (2篇文章)
+----------------------------------------
+月份: 2012-09
+文章总数: 117
+主题摘要:
+  主题 0: republican, president, wa, party, obama (27篇文章)
+  主题 1: state, wa, learn, stats, ha (32篇文章)
+  主题 2: woman, pregnant, care, pregnancy, men (6篇文章)
+  主题 3: romney, wa, obama, student, ha (28篇文章)
+  主题 4: romney, wa, obama, ha, campaign (24篇文章)
+----------------------------------------
+月份: 2012-10
+文章总数: 85
+主题摘要:
+  主题 0: abortion, woman, life, wa, party (11篇文章)
+  主题 1: wa, obama, romney, ha, state (56篇文章)
+  主题 2: wa, tax, liberalism, rich, income (1篇文章)
+  主题 3: labor, cheap, conservative, government, public (1篇文章)
+  主题 4: tax, state, romney, wa, federal (16篇文章)
+----------------------------------------
+月份: 2012-11
+文章总数: 102
+主题摘要:
+  主题 0: tax, election, voting, state, voter (17篇文章)
+  主题 1: wa, obama, republican, romney, party (57篇文章)
+  主题 2: filibuster, senate, abortion, ha, woman (7篇文章)
+  主题 3: worker, walmart, strike, jones, mother (20篇文章)
+  主题 4: state, parole, measure, public, voter (1篇文章)
+----------------------------------------
+月份: 2012-12
+文章总数: 75
+主题摘要:
+  主题 0: tax, rate, percent, ceo, corporate (1篇文章)
+  主题 1: gun, wa, state, republican, law (43篇文章)
+  主题 2: poverty, family, housing, percent, child (3篇文章)
+  主题 3: tax, income, republican, percent, cut (18篇文章)
+  主题 4: wa, model, silver, ha, vote (10篇文章)
+----------------------------------------
+月份: 2013-01
+文章总数: 169
+主题摘要:
+  主题 0: poverty, family, percent, million, job (12篇文章)
+  主题 1: state, union, right, wa, government (7篇文章)
+  主题 2: wa, ha, gun, state, american (120篇文章)
+  主题 3: war, jones, obama, mother, wa (24篇文章)
+  主题 4: scout, vote, state, gay, republican (6篇文章)
+----------------------------------------
+月份: 2013-02
+文章总数: 89
+主题摘要:
+  主题 0: middle, income, republican, wa, class (25篇文章)
+  主题 1: wa, ha, gun, state, police (50篇文章)
+  主题 2: percent, military, torture, wa, civilian (7篇文章)
+  主题 3: wage, woman, percent, american, men (6篇文章)
+  主题 4: child, poverty, family, percent, million (1篇文章)
+----------------------------------------
+月份: 2013-03
+文章总数: 95
+主题摘要:
+  主题 0: wa, paul, american, ha, jones (24篇文章)
+  主题 1: ha, prison, wa, party, reform (16篇文章)
+  主题 2: state, sick, leave, paid, alec (4篇文章)
+  主题 3: wa, gun, government, ha, state (40篇文章)
+  主题 4: budget, tax, percent, policy, cut (11篇文章)
+----------------------------------------
+月份: 2013-04
+文章总数: 109
+主题摘要:
+  主题 0: gun, wa, ha, program, state (34篇文章)
+  主题 1: occ, bank, wa, foreclosure, republican (3篇文章)
+  主题 2: wa, ha, obama, american, justice (35篇文章)
+  主题 3: jones, mother, wa, policy, story (20篇文章)
+  主题 4: wa, disability, wealth, security, benefit (17篇文章)
+----------------------------------------
+月份: 2013-05
+文章总数: 79
+主题摘要:
+  主题 0: group, irs, political, ha, percent (14篇文章)
+  主题 1: rove, group, political, conservative, election (1篇文章)
+  主题 2: wa, ha, gun, state, republican (50篇文章)
+  主题 3: wa, film, child, koch, home (12篇文章)
+  主题 4: court, justice, business, case, decision (2篇文章)
+----------------------------------------
+月份: 2013-06
+文章总数: 119
+主题摘要:
+  主题 0: wa, ha, republican, state, party (92篇文章)
+  主题 1: wa, wikileaks, ha, order, story (12篇文章)
+  主题 2: worker, guitar, center, clark, month (2篇文章)
+  主题 3: cut, program, wa, federal, reply (4篇文章)
+  主题 4: government, program, phone, nsa, ha (9篇文章)
+----------------------------------------
+月份: 2013-07
+文章总数: 150
+主题摘要:
+  主题 0: wa, ha, government, state, american (103篇文章)
+  主题 1: state, republican, voter, carolina, north (19篇文章)
+  主题 2: col, abuse, military, interrogation, wa (1篇文章)
+  主题 3: black, white, city, street, wa (8篇文章)
+  主题 4: wa, energy, oil, edt, ha (19篇文章)
+----------------------------------------
+月份: 2013-08
+文章总数: 162
+主题摘要:
+  主题 0: state, wage, worker, health, cost (30篇文章)
+  主题 1: wa, prosecutor, court, state, attorney (13篇文章)
+  主题 2: child, provider, wa, union, hour (1篇文章)
+  主题 3: wa, ha, president, american, obama (86篇文章)
+  主题 4: wa, state, ha, manning, voter (32篇文章)
+----------------------------------------
+月份: 2013-09
+文章总数: 145
+主题摘要:
+  主题 0: church, wa, religious, shepard, gay (9篇文章)
+  主题 1: report, ha, climate, wa, ipcc (23篇文章)
+  主题 2: republican, wa, ha, party, obama (86篇文章)
+  主题 3: contractor, employee, worker, federal, cap (8篇文章)
+  主题 4: state, wa, money, fund, poor (19篇文章)
+----------------------------------------
+月份: 2013-10
+文章总数: 246
+主题摘要:
+  主题 0: state, law, voter, federal, ha (20篇文章)
+  主题 1: jones, mother, story, wa, today (35篇文章)
+  主题 2: wa, ha, food, government, program (69篇文章)
+  主题 3: republican, wa, party, ha, government (120篇文章)
+  主题 4: prison, company, state, wa, private (2篇文章)
+----------------------------------------
+月份: 2013-11
+文章总数: 180
+主题摘要:
+  主题 0: walmart, worker, employee, company, job (8篇文章)
+  主题 1: child, wa, kennedy, care, cbs (9篇文章)
+  主题 2: wa, ha, kelly, president, policy (62篇文章)
+  主题 3: box, work, warehouse, worker, job (1篇文章)
+  主题 4: wa, state, health, republican, ha (100篇文章)
+----------------------------------------
+月份: 2013-12
+文章总数: 142
+主题摘要:
+  主题 0: energy, storage, power, ha, california (5篇文章)
+  主题 1: climate, change, sound, anderson, pushing (1篇文章)
+  主题 2: wa, republican, conservative, american, ha (77篇文章)
+  主题 3: wa, wage, ha, tax, income (44篇文章)
+  主题 4: marriage, sex, state, court, county (15篇文章)
+----------------------------------------
+月份: 2014-01
+文章总数: 87
+主题摘要:
+  主题 0: student, government, loan, debt, college (3篇文章)
+  主题 1: wa, republican, ha, american, state (33篇文章)
+  主题 2: mother, jones, obamacare, union, medicaid (11篇文章)
+  主题 3: christie, state, gas, wa, study (9篇文章)
+  主题 4: wa, ha, school, state, woman (31篇文章)
+----------------------------------------
+月份: 2014-02
+文章总数: 63
+主题摘要:
+  主题 0: climate, energy, state, ha, carbon (6篇文章)
+  主题 1: state, mike, deep, government, wing (11篇文章)
+  主题 2: wa, ha, american, wage, report (24篇文章)
+  主题 3: wa, state, email, government, party (12篇文章)
+  主题 4: paul, religious, ha, wa, state (10篇文章)
+----------------------------------------
+月份: 2014-03
+文章总数: 125
+主题摘要:
+  主题 0: worker, republican, wa, program, percent (30篇文章)
+  主题 1: obamacare, health, koch, mother, million (16篇文章)
+  主题 2: job, term, long, world, unemployed (5篇文章)
+  主题 3: wa, ha, obama, state, american (73篇文章)
+  主题 4: wa, court, ford, jail, judge (1篇文章)
+----------------------------------------
+月份: 2014-04
+文章总数: 101
+主题摘要:
+  主题 0: wage, minimum, wa, hour, worker (2篇文章)
+  主题 1: wa, christie, ha, election, state (43篇文章)
+  主题 2: city, ha, policy, law, voter (20篇文章)
+  主题 3: wa, food, stamp, wage, store (5篇文章)
+  主题 4: wa, health, care, medium, fox (31篇文章)
+----------------------------------------
+月份: 2014-05
+文章总数: 84
+主题摘要:
+  主题 0: clinton, wa, ha, wing, conservative (36篇文章)
+  主题 1: wa, voter, republican, ha, koch (25篇文章)
+  主题 2: wa, document, government, source, state (1篇文章)
+  主题 3: wa, muslim, ha, islam, school (9篇文章)
+  主题 4: ha, wa, ryan, welfare, white (13篇文章)
+----------------------------------------
+月份: 2014-06
+文章总数: 118
+主题摘要:
+  主题 0: wa, student, ha, state, president (17篇文章)
+  主题 1: wa, policy, american, war, state (32篇文章)
+  主题 2: school, wage, ceo, percent, compensation (14篇文章)
+  主题 3: jones, mother, wa, libertarian, story (10篇文章)
+  主题 4: ha, wa, state, court, union (45篇文章)
+----------------------------------------
+月份: 2014-07
+文章总数: 125
+主题摘要:
+  主题 0: wa, koch, school, white, power (8篇文章)
+  主题 1: court, tax, law, state, federal (28篇文章)
+  主题 2: wa, king, martin, climate, vote (15篇文章)
+  主题 3: state, obama, republican, ha, wa (26篇文章)
+  主题 4: wa, state, ha, policy, american (48篇文章)
+----------------------------------------
+月份: 2014-08
+文章总数: 97
+主题摘要:
+  主题 0: state, republican, voter, law, vote (21篇文章)
+  主题 1: tax, percent, republican, ha, wa (14篇文章)
+  主题 2: wa, black, white, ha, bush (18篇文章)
+  主题 3: ferguson, police, swat, august, cop (2篇文章)
+  主题 4: ha, wa, state, worker, public (42篇文章)
+----------------------------------------
+月份: 2014-09
+文章总数: 131
+主题摘要:
+  主题 0: democrat, inequality, voter, working, political (1篇文章)
+  主题 1: ha, state, republican, american, class (37篇文章)
+  主题 2: health, care, spending, cost, reform (2篇文章)
+  主题 3: percent, american, ha, rich, tax (2篇文章)
+  主题 4: wa, ha, state, law, court (89篇文章)
+----------------------------------------
+月份: 2014-10
+文章总数: 138
+主题摘要:
+  主题 0: voter, law, texas, court, wa (7篇文章)
+  主题 1: republican, voter, vote, state, election (32篇文章)
+  主题 2: ebola, insurance, health, state, care (14篇文章)
+  主题 3: wa, woman, ha, game, quinn (52篇文章)
+  主题 4: worker, wage, wa, state, work (33篇文章)
+----------------------------------------
+月份: 2014-11
+文章总数: 97
+主题摘要:
+  主题 0: party, wa, democrat, republican, election (19篇文章)
+  主题 1: lessig, wa, moyers, lawrence, money (1篇文章)
+  主题 2: mcconnell, chao, foremost, china, ha (1篇文章)
+  主题 3: wa, ha, obama, republican, president (75篇文章)
+  主题 4: wa, begich, republican, democrat, obama (1篇文章)
+----------------------------------------
+月份: 2014-12
+文章总数: 82
+主题摘要:
+  主题 0: election, sander, prosecutor, party, democrat (2篇文章)
+  主题 1: bush, republican, ha, romney, state (7篇文章)
+  主题 2: wa, israel, palestinian, scalise, report (11篇文章)
+  主题 3: wa, fox, news, ha, clinton (15篇文章)
+  主题 4: wa, ha, state, american, white (47篇文章)
+----------------------------------------
+月份: 2015-01
+文章总数: 230
+主题摘要:
+  主题 0: tax, market, money, financial, worker (25篇文章)
+  主题 1: state, ha, wa, right, law (56篇文章)
+  主题 2: climate, wa, change, oil, company (12篇文章)
+  主题 3: wa, ha, republican, obama, president (115篇文章)
+  主题 4: january, posted, wa, news, gun (22篇文章)
+----------------------------------------
+月份: 2015-02
+文章总数: 203
+主题摘要:
+  主题 0: tax, state, paul, percent, income (44篇文章)
+  主题 1: wa, ha, border, immigrant, state (56篇文章)
+  主题 2: wa, ha, told, news, house (42篇文章)
+  主题 3: wa, clinton, ha, obama, president (56篇文章)
+  主题 4: wa, reilly, meanguera, salvador, story (5篇文章)
+----------------------------------------
+月份: 2015-03
+文章总数: 286
+主题摘要:
+  主题 0: wa, ha, government, law, police (110篇文章)
+  主题 1: drone, pilot, war, american, ha (5篇文章)
+  主题 2: state, ha, american, law, wa (82篇文章)
+  主题 3: clinton, ha, wa, democrat, republican (88篇文章)
+  主题 4: socialist, wage, movement, seattle, service (1篇文章)
+----------------------------------------
+月份: 2015-04
+文章总数: 244
+主题摘要:
+  主题 0: clinton, obama, wa, ha, democratic (68篇文章)
+  主题 1: law, ha, state, change, american (49篇文章)
+  主题 2: wa, state, ha, police, black (54篇文章)
+  主题 3: tax, ha, wa, million, money (61篇文章)
+  主题 4: trade, wage, worker, income, tpp (12篇文章)
+----------------------------------------
+月份: 2015-05
+文章总数: 230
+主题摘要:
+  主题 0: wa, ha, state, government, woman (104篇文章)
+  主题 1: wa, hersh, kissinger, military, target (4篇文章)
+  主题 2: soldier, silence, breaking, protective, edge (2篇文章)
+  主题 3: wage, percent, income, poverty, baltimore (60篇文章)
+  主题 4: clinton, sander, ha, wa, campaign (60篇文章)
+----------------------------------------
+月份: 2015-06
+文章总数: 289
+主题摘要:
+  主题 0: ha, state, wa, percent, pay (93篇文章)
+  主题 1: ha, syria, war, administration, policy (13篇文章)
+  主题 2: clinton, sander, republican, campaign, ha (66篇文章)
+  主题 3: wa, state, gun, law, court (116篇文章)
+  主题 4: sander, wa, clinton, gun, percent (1篇文章)
+----------------------------------------
+月份: 2015-07
+文章总数: 297
+主题摘要:
+  主题 0: sander, clinton, ha, campaign, bernie (136篇文章)
+  主题 1: marijuana, war, worker, nuclear, russia (12篇文章)
+  主题 2: wa, ha, state, republican, law (122篇文章)
+  主题 3: wa, ha, tape, police, department (7篇文章)
+  主题 4: data, wa, climate, temperature, ha (20篇文章)
+----------------------------------------
+月份: 2015-08
+文章总数: 308
+主题摘要:
+  主题 0: wa, ha, gun, black, state (82篇文章)
+  主题 1: clinton, wa, ha, state, marijuana (80篇文章)
+  主题 2: american, ha, percent, news, worker (61篇文章)
+  主题 3: sander, medium, campaign, political, social (1篇文章)
+  主题 4: trump, republican, candidate, ha, wa (84篇文章)
+----------------------------------------
+月份: 2015-09
+文章总数: 256
+主题摘要:
+  主题 0: republican, wa, ha, trump, obama (80篇文章)
+  主题 1: clinton, sander, ha, percent, campaign (70篇文章)
+  主题 2: wa, school, post, reply, student (22篇文章)
+  主题 3: wa, ha, state, worker, black (62篇文章)
+  主题 4: planned, parenthood, woman, abortion, health (22篇文章)
+----------------------------------------
+月份: 2015-10
+文章总数: 400
+主题摘要:
+  主题 0: clinton, percent, state, democratic, sander (74篇文章)
+  主题 1: koch, university, foundation, center, school (4篇文章)
+  主题 2: ryan, janesville, ha, street, wall (1篇文章)
+  主题 3: wa, ha, sander, tax, american (115篇文章)
+  主题 4: wa, gun, republican, ha, party (206篇文章)
+----------------------------------------
+月份: 2015-11
+文章总数: 341
+主题摘要:
+  主题 0: clinton, sander, hillary, wa, democratic (56篇文章)
+  主题 1: ha, wa, republican, trump, tax (131篇文章)
+  主题 2: wa, gun, ha, black, white (47篇文章)
+  主题 3: carson, wa, story, ben, campaign (24篇文章)
+  主题 4: wa, ha, state, refugee, isi (83篇文章)
+----------------------------------------
+月份: 2015-12
+文章总数: 399
+主题摘要:
+  主题 0: court, state, wa, arbitration, case (55篇文章)
+  主题 1: rabbi, police, black, york, fed (7篇文章)
+  主题 2: wa, gun, american, ha, change (162篇文章)
+  主题 3: tax, family, ha, program, american (45篇文章)
+  主题 4: trump, clinton, sander, ha, campaign (130篇文章)
+----------------------------------------
+月份: 2016-01
+文章总数: 417
+主题摘要:
+  主题 0: wa, federal, state, law, ha (135篇文章)
+  主题 1: obama, wa, clinton, obamacare, health (62篇文章)
+  主题 2: clinton, sander, ha, campaign, hillary (155篇文章)
+  主题 3: woman, state, american, child, work (16篇文章)
+  主题 4: wa, trump, republican, candidate, party (49篇文章)
+----------------------------------------
+月份: 2016-02
+文章总数: 510
+主题摘要:
+  主题 0: wa, clinton, american, war, kissinger (22篇文章)
+  主题 1: south, state, carolina, water, wa (62篇文章)
+  主题 2: court, wa, justice, republican, scalia (98篇文章)
+  主题 3: clinton, wa, party, sander, black (128篇文章)
+  主题 4: sander, clinton, ha, campaign, wa (200篇文章)
+----------------------------------------
+月份: 2016-03
+文章总数: 322
+主题摘要:
+  主题 0: tax, policy, mother, ha, wa (41篇文章)
+  主题 1: income, retirement, account, family, saving (2篇文章)
+  主题 2: court, election, candidate, vote, state (41篇文章)
+  主题 3: sander, clinton, state, voter, delegate (67篇文章)
+  主题 4: trump, wa, ha, campaign, republican (171篇文章)
+----------------------------------------
+月份: 2016-04
+文章总数: 277
+主题摘要:
+  主题 0: wa, ha, hillary, american, tax (53篇文章)
+  主题 1: state, law, wa, court, ha (95篇文章)
+  主题 2: clinton, sander, campaign, ha, wa (71篇文章)
+  主题 3: wa, liberal, problem, black, white (3篇文章)
+  主题 4: trump, woman, ha, wa, cruz (55篇文章)
+----------------------------------------
+月份: 2016-05
+文章总数: 286
+主题摘要:
+  主题 0: state, harris, west, school, vote (23篇文章)
+  主题 1: wa, trump, ha, clinton, salon (144篇文章)
+  主题 2: trump, clinton, sander, party, republican (94篇文章)
+  主题 3: wa, liberal, american, class, white (9篇文章)
+  主题 4: trump, obama, ha, wa, muslim (16篇文章)
+----------------------------------------
+月份: 2016-06
+文章总数: 377
+主题摘要:
+  主题 0: clinton, wa, hillary, ha, state (51篇文章)
+  主题 1: wa, gun, ha, law, woman (137篇文章)
+  主题 2: clinton, sander, voter, state, party (79篇文章)
+  主题 3: care, state, wa, health, patient (22篇文章)
+  主题 4: trump, wa, ha, company, judge (88篇文章)
+----------------------------------------
+月份: 2016-07
+文章总数: 247
+主题摘要:
+  主题 0: trump, wa, ha, republican, american (90篇文章)
+  主题 1: wa, court, police, ha, justice (48篇文章)
+  主题 2: clinton, sander, hillary, campaign, wa (79篇文章)
+  主题 3: state, wa, ha, labor, worker (12篇文章)
+  主题 4: wa, trump, company, ha, product (18篇文章)
+----------------------------------------
+月份: 2016-08
+文章总数: 230
+主题摘要:
+  主题 0: state, wa, court, black, ha (48篇文章)
+  主题 1: trump, wa, clinton, ha, campaign (90篇文章)
+  主题 2: party, vote, candidate, ha, trump (32篇文章)
+  主题 3: clinton, wa, ha, policy, president (30篇文章)
+  主题 4: state, democrat, voter, republican, election (30篇文章)
+----------------------------------------
+月份: 2016-09
+文章总数: 282
+主题摘要:
+  主题 0: sander, clinton, campaign, wa, nation (10篇文章)
+  主题 1: trump, wa, clinton, ha, foundation (122篇文章)
+  主题 2: tax, ha, income, wa, work (62篇文章)
+  主题 3: wa, police, officer, election, law (52篇文章)
+  主题 4: trump, percent, clinton, poll, voter (36篇文章)
+----------------------------------------
+月份: 2016-10
+文章总数: 326
+主题摘要:
+  主题 0: voter, election, state, vote, voting (27篇文章)
+  主题 1: trump, clinton, ha, republican, campaign (100篇文章)
+  主题 2: american, wa, community, democrat, country (27篇文章)
+  主题 3: trump, wa, clinton, ha, woman (114篇文章)
+  主题 4: ha, tax, policy, state, wa (58篇文章)
+----------------------------------------
+月份: 2016-11
+文章总数: 329
+主题摘要:
+  主题 0: trump, wa, ha, news, election (113篇文章)
+  主题 1: party, trump, republican, state, democrat (81篇文章)
+  主题 2: state, vote, election, voter, poll (25篇文章)
+  主题 3: trump, ha, wa, american, white (85篇文章)
+  主题 4: election, wa, vote, obama, white (25篇文章)
+----------------------------------------
+月份: 2016-12
+文章总数: 270
+主题摘要:
+  主题 0: wa, clinton, trump, ha, party (60篇文章)
+  主题 1: state, wa, school, ha, child (62篇文章)
+  主题 2: thompson, trump, voter, wa, angel (22篇文章)
+  主题 3: trump, president, wa, ha, donald (67篇文章)
+  主题 4: trump, worker, ha, american, wa (59篇文章)
+----------------------------------------
+月份: 2017-01
+文章总数: 301
+主题摘要:
+  主题 0: wa, ha, american, world, woman (78篇文章)
+  主题 1: democrat, party, clinton, wa, trump (24篇文章)
+  主题 2: wa, penny, school, jones, worker (31篇文章)
+  主题 3: blasio, city, mayor, progressive, wa (3篇文章)
+  主题 4: trump, wa, president, ha, state (165篇文章)
+----------------------------------------
+月份: 2017-02
+文章总数: 404
+主题摘要:
+  主题 0: state, wa, law, ha, republican (141篇文章)
+  主题 1: trump, wa, president, russian, ha (96篇文章)
+  主题 2: trump, state, ha, immigration, program (48篇文章)
+  主题 3: party, democratic, trump, clinton, democrat (43篇文章)
+  主题 4: wa, ha, trump, medium, news (76篇文章)
+----------------------------------------
+月份: 2017-03
+文章总数: 345
+主题摘要:
+  主题 0: trump, wa, session, president, house (42篇文章)
+  主题 1: trump, wa, ha, american, republican (158篇文章)
+  主题 2: trump, rule, state, court, order (38篇文章)
+  主题 3: school, student, public, private, program (19篇文章)
+  主题 4: trump, wa, russian, russia, house (88篇文章)
+----------------------------------------
+月份: 2017-04
+文章总数: 268
+主题摘要:
+  主题 0: tax, ha, work, manafort, program (28篇文章)
+  主题 1: trump, wa, house, president, ha (104篇文章)
+  主题 2: getty, wa, number, military, health (10篇文章)
+  主题 3: court, judge, trump, law, federal (22篇文章)
+  主题 4: wa, trump, ha, world, state (104篇文章)
+----------------------------------------
+月份: 2017-05
+文章总数: 310
+主题摘要:
+  主题 0: trump, wa, president, house, comey (106篇文章)
+  主题 1: voter, party, election, wa, democratic (36篇文章)
+  主题 2: state, health, ha, tax, trump (81篇文章)
+  主题 3: wa, ha, state, law, report (58篇文章)
+  主题 4: wa, franken, white, ha, black (29篇文章)
+----------------------------------------
+月份: 2017-06
+文章总数: 272
+主题摘要:
+  主题 0: trump, ha, political, wa, news (49篇文章)
+  主题 1: wage, minimum, worker, percent, care (15篇文章)
+  主题 2: trump, ha, wa, house, president (79篇文章)
+  主题 3: wa, ha, state, government, woman (90篇文章)
+  主题 4: election, democrat, party, district, voter (39篇文章)
+----------------------------------------
+月份: 2017-07
+文章总数: 271
+主题摘要:
+  主题 0: trump, wa, president, house, ha (66篇文章)
+  主题 1: health, republican, tax, ha, care (68篇文章)
+  主题 2: percent, american, ha, trump, group (63篇文章)
+  主题 3: voter, state, kobach, election, commission (12篇文章)
+  主题 4: wa, trump, ha, president, administration (62篇文章)
+----------------------------------------
+月份: 2017-08
+文章总数: 194
+主题摘要:
+  主题 0: wa, ha, state, party, republican (69篇文章)
+  主题 1: white, wa, group, hate, charlottesville (57篇文章)
+  主题 2: national, park, alaska, act, provision (1篇文章)
+  主题 3: trump, wa, ha, president, white (63篇文章)
+  主题 4: carson, wa, hud, housing, government (4篇文章)
+----------------------------------------
+月份: 2017-09
+文章总数: 163
+主题摘要:
+  主题 0: school, district, court, county, student (4篇文章)
+  主题 1: school, district, black, county, white (1篇文章)
+  主题 2: trump, arbitration, wa, mandatory, ha (29篇文章)
+  主题 3: wa, party, ha, political, voter (68篇文章)
+  主题 4: tax, republican, wa, ha, trump (61篇文章)
+----------------------------------------
+月份: 2017-10
+文章总数: 139
+主题摘要:
+  主题 0: online, buy, generic, prescription, site (1篇文章)
+  主题 1: set, default, value, option, filter (1篇文章)
+  主题 2: trump, wa, white, ha, percent (117篇文章)
+  主题 3: election, ad, facebook, company, political (4篇文章)
+  主题 4: trump, wa, mueller, campaign, manafort (16篇文章)
+----------------------------------------
+月份: 2017-11
+文章总数: 179
+主题摘要:
+  主题 0: wa, moore, ha, director, medium (42篇文章)
+  主题 1: ha, trump, republican, wa, state (35篇文章)
+  主题 2: tax, cut, percent, income, plan (36篇文章)
+  主题 3: wa, trump, white, voter, american (35篇文章)
+  主题 4: trump, wa, ha, russia, campaign (31篇文章)
+----------------------------------------
+月份: 2017-12
+文章总数: 141
+主题摘要:
+  主题 0: republican, wa, moore, senate, ha (40篇文章)
+  主题 1: trump, wa, president, ha, rule (37篇文章)
+  主题 2: tax, cut, percent, ha, american (36篇文章)
+  主题 3: worker, wa, power, tip, world (17篇文章)
+  主题 4: student, wa, state, court, college (11篇文章)
+----------------------------------------
+月份: 2018-01
+文章总数: 209
+主题摘要:
+  主题 0: coal, wa, ha, central, company (17篇文章)
+  主题 1: wa, state, republican, ha, trump (63篇文章)
+  主题 2: tax, percent, worker, trump, policy (32篇文章)
+  主题 3: trump, wa, president, ha, white (92篇文章)
+  主题 4: woman, park, national, advisory, ha (5篇文章)
+----------------------------------------
+月份: 2018-02
+文章总数: 215
+主题摘要:
+  主题 0: trump, wa, republican, ha, house (52篇文章)
+  主题 1: wa, ha, court, state, black (38篇文章)
+  主题 2: state, public, trump, wage, plan (22篇文章)
+  主题 3: trump, memo, wa, fbi, president (30篇文章)
+  主题 4: wa, gun, ha, trump, school (73篇文章)
+----------------------------------------
+月份: 2018-03
+文章总数: 215
+主题摘要:
+  主题 0: republican, trump, democrat, state, ha (61篇文章)
+  主题 1: organizing, immigration, immigrant, worker, california (5篇文章)
+  主题 2: wa, facebook, data, ha, cambridge (23篇文章)
+  主题 3: trump, wa, president, ha, white (88篇文章)
+  主题 4: gun, wage, school, wa, black (38篇文章)
+----------------------------------------
+月份: 2018-04
+文章总数: 254
+主题摘要:
+  主题 0: trump, wa, ha, president, house (81篇文章)
+  主题 1: wa, ha, news, trump, cohen (70篇文章)
+  主题 2: tax, republican, cut, email, percent (23篇文章)
+  主题 3: wa, black, woman, state, ha (26篇文章)
+  主题 4: state, ha, wa, trump, government (54篇文章)
+----------------------------------------
+月份: 2018-05
+文章总数: 185
+主题摘要:
+  主题 0: iran, trump, deal, ha, wa (25篇文章)
+  主题 1: trump, wa, cohen, ha, president (54篇文章)
+  主题 2: state, percent, wisconsin, minnesota, data (8篇文章)
+  主题 3: wa, ha, american, black, white (36篇文章)
+  主题 4: trump, wa, republican, ha, house (62篇文章)
+----------------------------------------
+月份: 2018-06
+文章总数: 164
+主题摘要:
+  主题 0: child, trump, policy, parent, family (52篇文章)
+  主题 1: child, wa, american, parent, kid (1篇文章)
+  主题 2: trump, wa, ha, president, election (76篇文章)
+  主题 3: worker, officer, police, poverty, sex (9篇文章)
+  主题 4: court, law, state, supreme, wa (26篇文章)
+----------------------------------------
+月份: 2018-07
+文章总数: 159
+主题摘要:
+  主题 0: child, public, wa, space, service (9篇文章)
+  主题 1: wa, state, republican, ha, court (37篇文章)
+  主题 2: income, percent, state, share, city (1篇文章)
+  主题 3: trump, wa, ha, president, russian (50篇文章)
+  主题 4: wa, ha, trump, party, white (62篇文章)
+----------------------------------------
+月份: 2018-08
+文章总数: 175
+主题摘要:
+  主题 0: republican, party, democrat, democratic, ha (36篇文章)
+  主题 1: trump, cohen, percent, wa, president (24篇文章)
+  主题 2: job, income, work, government, worker (14篇文章)
+  主题 3: trump, wa, president, mccain, ha (62篇文章)
+  主题 4: wa, white, child, ha, black (39篇文章)
+----------------------------------------
+月份: 2018-09
+文章总数: 277
+主题摘要:
+  主题 0: trump, wa, ha, president, state (146篇文章)
+  主题 1: reported, wa, judge, county, child (54篇文章)
+  主题 2: yls, rourke, cruz, nike, gun (1篇文章)
+  主题 3: hour, work, state, government, plan (7篇文章)
+  主题 4: kavanaugh, wa, court, woman, ford (69篇文章)
+----------------------------------------
+月份: 2018-10
+文章总数: 216
+主题摘要:
+  主题 0: trump, president, wa, ha, republican (20篇文章)
+  主题 1: wa, kavanaugh, court, ha, trump (52篇文章)
+  主题 2: state, election, voter, ha, republican (44篇文章)
+  主题 3: wa, ha, trump, american, white (92篇文章)
+  主题 4: trump, tax, wa, fred, million (8篇文章)
+----------------------------------------
+月份: 2018-11
+文章总数: 176
+主题摘要:
+  主题 0: white, wa, american, black, house (14篇文章)
+  主题 1: trump, wa, mueller, manafort, ha (41篇文章)
+  主题 2: ha, wa, trump, state, country (49篇文章)
+  主题 3: wa, whitaker, president, trump, election (30篇文章)
+  主题 4: democrat, republican, voter, trump, woman (42篇文章)
+----------------------------------------
+月份: 2018-12
+文章总数: 131
+主题摘要:
+  主题 0: trump, nation, immigration, party, right (5篇文章)
+  主题 1: trump, wa, president, republican, campaign (113篇文章)
+  主题 2: worker, state, policy, economic, tax (5篇文章)
+  主题 3: trump, christian, political, life, ha (1篇文章)
+  主题 4: percent, trade, medicare, study, deficit (7篇文章)
+----------------------------------------
+月份: 2019-01
+文章总数: 139
+主题摘要:
+  主题 0: percent, republican, voter, poll, democrat (6篇文章)
+  主题 1: border, wa, land, region, community (1篇文章)
+  主题 2: ha, chemical, state, child, water (8篇文章)
+  主题 3: wa, state, war, law, power (5篇文章)
+  主题 4: trump, president, wa, ha, american (119篇文章)
+----------------------------------------
+月份: 2019-02
+文章总数: 134
+主题摘要:
+  主题 0: ha, wa, democrat, run, state (50篇文章)
+  主题 1: marijuana, hemp, state, legalization, york (1篇文章)
+  主题 2: stone, law, trump, wa, cohen (7篇文章)
+  主题 3: american, king, black, street, wa (6篇文章)
+  主题 4: trump, wage, percent, president, wa (70篇文章)
+----------------------------------------
+月份: 2019-03
+文章总数: 135
+主题摘要:
+  主题 0: wa, officer, police, video, did (4篇文章)
+  主题 1: trump, wa, state, ha, president (112篇文章)
+  主题 2: wa, trump, ha, mueller, tax (13篇文章)
+  主题 3: vote, hillary, state, wa, trump (2篇文章)
+  主题 4: water, river, delta, state, wa (4篇文章)
+----------------------------------------
+月份: 2019-04
+文章总数: 129
+主题摘要:
+  主题 0: trump, wa, house, report, president (45篇文章)
+  主题 1: war, country, action, candidate, military (2篇文章)
+  主题 2: tax, state, wa, trump, reported (33篇文章)
+  主题 3: wa, ha, trump, president, story (47篇文章)
+  主题 4: email, work, address, comment, early (2篇文章)
+----------------------------------------
+月份: 2019-05
+文章总数: 130
+主题摘要:
+  主题 0: wa, trump, ha, state, president (78篇文章)
+  主题 1: trump, immigration, inslee, plan, policy (12篇文章)
+  主题 2: wa, state, socialism, ha, government (27篇文章)
+  主题 3: climate, green, deal, change, science (12篇文章)
+  主题 4: american, trump, putin, russia, political (1篇文章)
+----------------------------------------
+月份: 2019-06
+文章总数: 120
+主题摘要:
+  主题 0: ha, state, republican, democrat, democratic (35篇文章)
+  主题 1: wa, ha, child, trump, border (25篇文章)
+  主题 2: trump, wa, house, ha, president (33篇文章)
+  主题 3: sheriff, wa, office, email, enter (7篇文章)
+  主题 4: trump, wa, president, ha, government (20篇文章)
+----------------------------------------
+月份: 2019-07
+文章总数: 158
+主题摘要:
+  主题 0: trump, wa, mueller, election, ha (35篇文章)
+  主题 1: state, wa, ha, trump, child (41篇文章)
+  主题 2: percent, voter, candidate, democratic, ha (36篇文章)
+  主题 3: wa, debate, trump, climate, candidate (12篇文章)
+  主题 4: trump, wa, ha, american, president (34篇文章)
+----------------------------------------
+月份: 2019-08
+文章总数: 180
+主题摘要:
+  主题 0: poll, biden, percent, candidate, warren (28篇文章)
+  主题 1: wa, state, ha, immigration, shooting (40篇文章)
+  主题 2: wa, trump, biden, ha, president (31篇文章)
+  主题 3: wa, tax, epstein, wealth, family (12篇文章)
+  主题 4: trump, ha, president, wa, white (69篇文章)
+----------------------------------------
+月份: 2019-09
+文章总数: 123
+主题摘要:
+  主题 0: trump, impeachment, democrat, republican, state (17篇文章)
+  主题 1: trump, wa, president, ha, climate (60篇文章)
+  主题 2: senior, food, meal, home, program (3篇文章)
+  主题 3: trump, court, wa, state, ha (23篇文章)
+  主题 4: ha, warren, gun, biden, post (20篇文章)
+----------------------------------------
+月份: 2019-10
+文章总数: 142
+主题摘要:
+  主题 0: sidewalk, company, data, service, book (7篇文章)
+  主题 1: trump, wa, court, state, house (22篇文章)
+  主题 2: school, plan, warren, education, yang (1篇文章)
+  主题 3: policy, wa, ha, growth, drug (19篇文章)
+  主题 4: trump, wa, president, ha, house (93篇文章)
+----------------------------------------
+月份: 2019-11
+文章总数: 101
+主题摘要:
+  主题 0: trump, ha, wa, state, democrat (38篇文章)
+  主题 1: ha, steel, amazon, state, company (15篇文章)
+  主题 2: trump, wa, conspiracy, border, ha (9篇文章)
+  主题 3: game, immigration, law, social, party (7篇文章)
+  主题 4: wa, trump, president, warren, ukraine (32篇文章)
+----------------------------------------
+月份: 2019-12
+文章总数: 91
+主题摘要:
+  主题 0: trump, president, impeachment, house, wa (43篇文章)
+  主题 1: plan, security, social, retirement, tax (14篇文章)
+  主题 2: barr, wa, trump, president, investigation (4篇文章)
+  主题 3: trump, wa, ha, president, political (30篇文章)
+  主题 4: sander, wa, ha, tax, social (0篇文章)
+----------------------------------------
+月份: 2020-01
+文章总数: 79
+主题摘要:
+  主题 0: wa, trump, ha, american, republican (32篇文章)
+  主题 1: group, million, money, pac, campaign (9篇文章)
+  主题 2: plastic, bag, wa, state, bankruptcy (5篇文章)
+  主题 3: trump, president, wa, ha, country (25篇文章)
+  主题 4: wage, minimum, worker, state, pay (8篇文章)
+----------------------------------------
+月份: 2020-02
+文章总数: 103
+主题摘要:
+  主题 0: black, buttigieg, south, wa, bend (3篇文章)
+  主题 1: sander, ha, wa, campaign, democratic (30篇文章)
+  主题 2: trump, wa, intelligence, official, ha (14篇文章)
+  主题 3: trump, wa, president, ha, republican (53篇文章)
+  主题 4: wage, worker, growth, data, state (3篇文章)
+----------------------------------------
+月份: 2020-03
+文章总数: 141
+主题摘要:
+  主题 0: american, billion, united, company, stock (8篇文章)
+  主题 1: trump, ha, coronavirus, state, crisis (46篇文章)
+  主题 2: wa, health, trump, mask, coronavirus (37篇文章)
+  主题 3: court, wa, walmart, report, attorney (12篇文章)
+  主题 4: wa, biden, sander, ha, campaign (38篇文章)
+----------------------------------------
+月份: 2020-04
+文章总数: 143
+主题摘要:
+  主题 0: wa, coronavirus, ha, hospital, trump (37篇文章)
+  主题 1: tax, percent, state, federal, income (23篇文章)
+  主题 2: ballot, trump, deficit, wa, republican (38篇文章)
+  主题 3: biden, trump, president, ha, wa (34篇文章)
+  主题 4: worker, ha, voter, trump, wa (11篇文章)
+----------------------------------------
+月份: 2020-05
+文章总数: 148
+主题摘要:
+  主题 0: biden, wa, trump, ha, republican (28篇文章)
+  主题 1: trump, ha, president, obama, wa (15篇文章)
+  主题 2: trump, wa, claim, ha, covid (38篇文章)
+  主题 3: reade, biden, wa, woman, ha (5篇文章)
+  主题 4: trump, wa, ha, president, state (62篇文章)
+----------------------------------------
+月份: 2020-06
+文章总数: 197
+主题摘要:
+  主题 0: police, wa, officer, union, black (46篇文章)
+  主题 1: cooky, information, website, point, policy (7篇文章)
+  主题 2: report, wa, asian, group, fbi (6篇文章)
+  主题 3: vote, voter, fraud, mail, churchill (1篇文章)
+  主题 4: trump, wa, president, ha, white (137篇文章)
+----------------------------------------
+月份: 2020-07
+文章总数: 108
+主题摘要:
+  主题 0: voting, biden, vote, voter, american (8篇文章)
+  主题 1: wa, police, woman, child, ha (23篇文章)
+  主题 2: trump, white, ha, president, black (23篇文章)
+  主题 3: trump, wa, president, ha, election (40篇文章)
+  主题 4: texas, wa, ha, state, million (14篇文章)
+----------------------------------------
+月份: 2020-08
+文章总数: 113
+主题摘要:
+  主题 0: wa, ha, conservative, trump, woman (21篇文章)
+  主题 1: health, public, state, department, service (9篇文章)
+  主题 2: wa, trump, country, ha, american (23篇文章)
+  主题 3: election, trump, vote, state, voter (18篇文章)
+  主题 4: trump, wa, biden, president, harris (42篇文章)
+----------------------------------------
+月份: 2020-09
+文章总数: 141
+主题摘要:
+  主题 0: trump, rule, administration, wa, ha (18篇文章)
+  主题 1: wa, president, government, state, ha (28篇文章)
+  主题 2: vote, election, state, ballot, voter (11篇文章)
+  主题 3: trump, tax, million, wa, president (20篇文章)
+  主题 4: wa, biden, court, ginsburg, state (64篇文章)
+----------------------------------------
+月份: 2020-10
+文章总数: 171
+主题摘要:
+  主题 0: trump, wa, president, ha, biden (120篇文章)
+  主题 1: court, republican, barrett, election, ha (27篇文章)
+  主题 2: state, candidate, race, campaign, senate (3篇文章)
+  主题 3: claim, october, state, week, data (3篇文章)
+  主题 4: election, ballot, trump, state, voter (18篇文章)
+----------------------------------------
+月份: 2020-11
+文章总数: 133
+主题摘要:
+  主题 0: wa, ha, life, work, village (4篇文章)
+  主题 1: wa, ha, state, biden, american (74篇文章)
+  主题 2: video, identity, didn, story, black (2篇文章)
+  主题 3: ha, company, trump, official, wa (13篇文章)
+  主题 4: trump, election, biden, republican, president (40篇文章)
+----------------------------------------
+月份: 2020-12
+文章总数: 148
+主题摘要:
+  主题 0: wa, pandemic, economic, covid, help (29篇文章)
+  主题 1: senate, mcconnell, vote, trump, check (19篇文章)
+  主题 2: million, wa, worth, net, received (16篇文章)
+  主题 3: trump, election, ha, wa, president (72篇文章)
+  主题 4: state, ha, cooky, marijuana, site (12篇文章)
+----------------------------------------
+月份: 2021-01
+文章总数: 357
+主题摘要:
+  主题 0: biden, trump, president, senate, election (53篇文章)
+  主题 1: black, student, school, white, wa (10篇文章)
+  主题 2: wa, trump, ha, state, republican (89篇文章)
+  主题 3: wa, federal, friday, dog, season (63篇文章)
+  主题 4: trump, capitol, wa, president, ha (142篇文章)
+----------------------------------------
+月份: 2021-02
+文章总数: 149
+主题摘要:
+  主题 0: black, white, power, union, wa (23篇文章)
+  主题 1: wa, cawthorn, woman, student, told (16篇文章)
+  主题 2: return, item, stone, february, event (4篇文章)
+  主题 3: ha, stimulus, covid, pandemic, biden (21篇文章)
+  主题 4: trump, wa, republican, president, election (85篇文章)
+----------------------------------------
+月份: 2021-03
+文章总数: 122
+主题摘要:
+  主题 0: trump, wa, state, president, ha (59篇文章)
+  主题 1: election, china, book, lie, state (8篇文章)
+  主题 2: fox, dominion, wa, trump, money (6篇文章)
+  主题 3: louis, election, post, photo, march (7篇文章)
+  主题 4: wa, biden, republican, democrat, child (42篇文章)
+----------------------------------------
+月份: 2021-04
+文章总数: 272
+主题摘要:
+  主题 0: election, republican, trump, state, wa (98篇文章)
+  主题 1: greenberg, wa, stone, gaetz, trump (29篇文章)
+  主题 2: wa, state, black, woman, ha (52篇文章)
+  主题 3: wa, percent, american, ha, biden (50篇文章)
+  主题 4: trump, biden, wa, president, house (43篇文章)
+----------------------------------------
+月份: 2021-05
+文章总数: 400
+主题摘要:
+  主题 0: republican, commission, house, democrat, vote (44篇文章)
+  主题 1: state, election, voting, wa, texas (107篇文章)
+  主题 2: wa, trump, president, biden, ha (159篇文章)
+  主题 3: trump, republican, cheney, party, wa (66篇文章)
+  主题 4: ha, israel, palestinian, israeli, wa (24篇文章)
+----------------------------------------
+月份: 2021-06
+文章总数: 230
+主题摘要:
+  主题 0: republican, state, wa, election, ha (58篇文章)
+  主题 1: wa, biden, ha, president, state (53篇文章)
+  主题 2: state, email, valid, enter, arizona (14篇文章)
+  主题 3: trump, wa, president, election, department (74篇文章)
+  主题 4: ha, wa, theory, race, school (31篇文章)
+----------------------------------------
+月份: 2021-07
+文章总数: 185
+主题摘要:
+  主题 0: ha, drug, american, state, policy (29篇文章)
+  主题 1: capitol, wa, trump, jan, republican (30篇文章)
+  主题 2: representative, address, house, hearing, city (1篇文章)
+  主题 3: republican, state, democrat, voter, voting (35篇文章)
+  主题 4: wa, trump, ha, president, vaccine (90篇文章)
+----------------------------------------
+月份: 2021-08
+文章总数: 47
+主题摘要:
+  主题 0: cuomo, wa, governor, state, report (5篇文章)
+  主题 1: wa, vaccine, ha, state, facebook (8篇文章)
+  主题 2: email, valid, jones, mother, stock (7篇文章)
+  主题 3: trump, election, wa, republican, ha (14篇文章)
+  主题 4: wa, ha, state, vote, senate (13篇文章)
+----------------------------------------

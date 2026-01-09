@@ -1,0 +1,36 @@
+{
+  "month": "2016-05",
+  "total_articles": 290,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Climate Change and Sea Level Rise Research",
+      "core_keywords": ["climate change", "sea level rise", "global warming", "data", "science", "coastal", "ice"],
+      "importance_ratio": 0.0241
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Religious and Social Issues Involving Muslim and Christian",
+      "core_keywords": ["muslim", "christian", "islam", "school", "child", "family", "policy"],
+      "importance_ratio": 0.1793
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Racial Politics and Voting Behavior of American Immigrants",
+      "core_keywords": ["racial", "american", "immigrant", "republican", "democratic", "vote", "political"],
+      "importance_ratio": 0.0069
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Social Issues and Global Events Related to Obama Administration",
+      "core_keywords": ["obama", "police", "student", "war", "woman", "american", "facebook"],
+      "importance_ratio": 0.2793
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2016 US Presidential Election Campaign (Trump vs Clinton)",
+      "core_keywords": ["trump", "clinton", "republican", "election", "campaign", "hillary", "donald"],
+      "importance_ratio": 0.5103
+    }
+  ]
+}

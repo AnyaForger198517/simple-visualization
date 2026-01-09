@@ -1,0 +1,270 @@
+{
+  "month": "2019-04",
+  "total_articles": 129,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "house",
+        "report",
+        "president",
+        "committee",
+        "mueller",
+        "ha",
+        "official",
+        "abortion",
+        "white",
+        "democrat",
+        "state",
+        "security",
+        "election"
+      ],
+      "topic_weights": [
+        173.76682199353647,
+        114.16596065926737,
+        112.87485555878646,
+        99.04415138534878,
+        98.87303932126912,
+        75.86771660742241,
+        62.74406555246306,
+        61.301150190014404,
+        60.394915822553784,
+        59.73915160628903,
+        58.224918533332676,
+        58.16783733359919,
+        57.41772130117733,
+        49.827532523574355,
+        44.688010261709685
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "war",
+        "country",
+        "action",
+        "candidate",
+        "military",
+        "policy",
+        "issue",
+        "life",
+        "lead",
+        "foreign",
+        "debate",
+        "iran",
+        "presidential",
+        "achieve",
+        "rourke"
+      ],
+      "topic_weights": [
+        63.23446904524382,
+        26.45686069966421,
+        20.438099322824296,
+        20.320863670916026,
+        18.179530022619968,
+        15.777836651947428,
+        14.786542021039972,
+        14.659054296249076,
+        11.66334088138375,
+        11.595293307207976,
+        10.938338115614906,
+        10.839777372077796,
+        10.825594912886364,
+        10.26597689756036,
+        10.201848347229086
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "state",
+        "wa",
+        "trump",
+        "reported",
+        "american",
+        "federal",
+        "energy",
+        "president",
+        "government",
+        "border",
+        "ha",
+        "law",
+        "republican",
+        "public"
+      ],
+      "topic_weights": [
+        99.27805463223291,
+        77.68609045372166,
+        77.27978960399595,
+        65.91403807555501,
+        64.4735911808659,
+        61.37376147045485,
+        60.807071234727964,
+        57.884363085093334,
+        56.74271692104584,
+        53.09460106900339,
+        49.22342109797777,
+        49.068058627190666,
+        47.03922884701207,
+        46.8108562473754,
+        44.55284506394851
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "president",
+        "story",
+        "voter",
+        "democrat",
+        "party",
+        "biden",
+        "political",
+        "state",
+        "work",
+        "news",
+        "did",
+        "issue"
+      ],
+      "topic_weights": [
+        299.69161899524033,
+        192.86916092959615,
+        141.82030409369574,
+        74.69222320081676,
+        55.720502663851356,
+        53.39912663869416,
+        52.58234573344343,
+        48.78689610340139,
+        46.948107879485946,
+        46.46046071162918,
+        45.39505188189565,
+        43.13844919519953,
+        42.490966025580434,
+        41.75208492654674,
+        41.182739511960115
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "email",
+        "work",
+        "address",
+        "comment",
+        "early",
+        "product",
+        "access",
+        "god",
+        "russia",
+        "release",
+        "policy",
+        "wa",
+        "trump",
+        "single",
+        "official"
+      ],
+      "topic_weights": [
+        147.88361942851225,
+        145.228531833875,
+        142.372519814971,
+        140.73525539894686,
+        138.97664277196895,
+        138.40590464533676,
+        136.8066799296212,
+        136.69321228509727,
+        135.94845294079445,
+        134.8595188410877,
+        108.17035849353417,
+        85.94763861635704,
+        74.48424377576546,
+        70.69592123003947,
+        70.00272489965622
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 47,
+    "2": 33,
+    "0": 45,
+    "1": 2,
+    "4": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "This article is more than 1 year old A White House whistleblower told lawmakers that more than two dozen denials for security clearances have been overturned during the Trump administration, calling C...",
+        "upvotes": 2,
+        "url": "https://www.washingtonpost.com/powerpost/white-house-whistleblower-says-security-clearance-denials-were-reversed-during-trump-administration/2019/04/01/9f28334e-542c-11e9-814f-e2f46684196e_story.html"
+      },
+      {
+        "preview": "Brian Naylor Tim Mak White House adviser Jared Kushner (left) is among those whose security clearances are being questioned by Democrats. Susan Walsh/AP hide caption White House adviser Jared Kushner ...",
+        "upvotes": 366,
+        "url": "https://www.npr.org/2019/04/01/708726227/whistle-blower-says-white-house-overturned-denials-of-25-for-security-clearances"
+      },
+      {
+        "preview": "Advertisement Supported by By Nicholas Fandos WASHINGTON — The chairman of the House Ways and Means Committee, using a little-known provision in the federal tax code, formally requested on Wednesday t...",
+        "upvotes": 243,
+        "url": "https://www.nytimes.com/2019/04/03/us/politics/mueller-report-subpoena-house.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "(Reuters / Daniel Acker) By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs that support The Nation’s journalism. You can read o...",
+        "upvotes": 1,
+        "url": "https://www.thenation.com/article/beto-orourke-war-peace/"
+      },
+      {
+        "preview": "By providing my email address, I consent to receive marketing communications from . Privacy Policy. Posted By Emily Dong and Dave SternApril 17, 2019 Coming off of a historic midterm, small-dollar don...",
+        "upvotes": 1,
+        "url": "https://blog.actblue.com/2019/04/17/q1-2019-strongest-start-to-an-election-cycle-on-actblue/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Pam Fessler The Franciscan Center in Baltimore serves a hot lunch daily to those who need extra help, even if they receive food stamps. Those benefits could end for 755,000 able-bodied adults. Pam Fes...",
+        "upvotes": 337,
+        "url": "https://www.npr.org/2019/04/01/707681965/more-than-750-000-could-lose-food-stamps-under-trump-administration-proposal"
+      },
+      {
+        "preview": "On Wednesday, the tax firm Mazars USA said they are ready to turn over 10 years of President Donald Trump's tax returns, according to Politico. Mazars USA said they wanted the House Oversight and Refo...",
+        "upvotes": 88,
+        "url": "https://www.rawstory.com/2019/04/tax-firm-is-prepared-to-turn-over-10-years-of-trumps-taxes-rep-elijah-cummings/#.XKWMsGE1TDE.reddit"
+      },
+      {
+        "preview": "Congressman Dan Kildee, who serves on the House Ways and Means Committee, told MSNBC on Thursday that he wasn't worried about President Donald Trump's objections to releasing his tax returns, saying t...",
+        "upvotes": 393,
+        "url": "https://www.rawstory.com/2019/04/mnuchin-cant-stop-us-from-obtaining-trumps-taxes-its-the-law-house-democrat/#.XKYopCxUSmo.reddit"
+      }
+    ],
+    "3": [
+      {
+        "preview": "From Boeing to Monsanto and beyond: this week has revealed the tip of the iceberg of regulatory neglect Last modified on Wed 6 Jan 2021 18.59 EST Why didn’t Boeing do it right? Why isn’t Facebook prot...",
+        "upvotes": 11,
+        "url": "https://www.theguardian.com/commentisfree/2019/mar/30/corporations-endanger-american-facebook-boeing-monsanto-trump"
+      },
+      {
+        "preview": "March 31, 2019 BFH Uncategorized 52 According to AOC, Congress amended the Constitution to prevent FDR from being re-elected: \"They had to amend the Constitution of the United States to make sure Roos...",
+        "upvotes": 2,
+        "url": "https://iotwreport.com/dumbest-member-of-congress-strikes-again/"
+      },
+      {
+        "preview": "By John Ray (@johnlray) In this post we look at the 2016 and 2018 behavior of US voters, and compare some of their attitudes on race based on our What The Hell Happened project. While in previous post...",
+        "upvotes": 1,
+        "url": "https://www.dataforprogress.org/blog/2019/3/31/the-2016-2018-swing-voters-are-unreliable-on-race-the-democrats-must-expand-the-base"
+      }
+    ],
+    "4": [
+      {
+        "preview": "sident in State of the Union Address.” January 27, 2010. Yellen, Janet. 2013. “A Painfully Slow Recovery for America’s Workers: Causes, Implications, and the Federal Reserve’s Response.” Remarks at th...",
+        "upvotes": 3,
+        "url": "https://www.epi.org/publication/next-recession-bivens/"
+      }
+    ]
+  }
+}

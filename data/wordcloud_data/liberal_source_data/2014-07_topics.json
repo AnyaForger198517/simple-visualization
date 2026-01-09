@@ -1,0 +1,285 @@
+{
+  "month": "2014-07",
+  "total_articles": 125,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "koch",
+        "school",
+        "white",
+        "power",
+        "remember",
+        "ha",
+        "century",
+        "movement",
+        "issue",
+        "class",
+        "student",
+        "program",
+        "mississippi",
+        "reason"
+      ],
+      "topic_weights": [
+        102.98288450170506,
+        72.77830130598417,
+        71.37205492264842,
+        68.46210321565218,
+        63.59547800301701,
+        62.28285681077516,
+        58.86874284183875,
+        53.15992902274165,
+        52.813855857678035,
+        50.28424903042981,
+        50.00778313072858,
+        47.914167309426354,
+        41.4652660400178,
+        40.781338497515776,
+        40.28843524510544
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "court",
+        "tax",
+        "law",
+        "state",
+        "federal",
+        "company",
+        "religious",
+        "american",
+        "case",
+        "wa",
+        "ha",
+        "decision",
+        "corporation",
+        "government",
+        "ruling"
+      ],
+      "topic_weights": [
+        199.76127866509344,
+        127.64792321858063,
+        126.53065087331052,
+        126.15133748629658,
+        117.6176105433183,
+        112.8540124448426,
+        108.41607147786954,
+        100.44383096309006,
+        93.90378399763436,
+        93.22618465506737,
+        88.37865615875572,
+        81.42462604899778,
+        76.97155483889425,
+        75.59748029964697,
+        75.37666745132519
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "king",
+        "martin",
+        "climate",
+        "vote",
+        "change",
+        "ha",
+        "luther",
+        "sander",
+        "address",
+        "party",
+        "committee",
+        "user",
+        "communist",
+        "nsa"
+      ],
+      "topic_weights": [
+        140.83390661987713,
+        110.54729007975641,
+        45.260086202143256,
+        44.77129187624684,
+        41.911322011030975,
+        39.723492464608114,
+        37.827630246541986,
+        34.572127179530334,
+        32.05267691033779,
+        29.890891569260667,
+        28.389721516717017,
+        28.13026041537337,
+        25.467631128521102,
+        25.334335607480316,
+        24.84191793968659
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "obama",
+        "republican",
+        "ha",
+        "wa",
+        "democrat",
+        "district",
+        "liberal",
+        "president",
+        "point",
+        "israel",
+        "seat",
+        "house",
+        "party",
+        "open"
+      ],
+      "topic_weights": [
+        134.73825214972277,
+        132.52835803491692,
+        104.82216601582834,
+        99.55772344122452,
+        83.46242300581328,
+        82.42887310045336,
+        77.9893631976992,
+        68.63952291326225,
+        62.6302018047111,
+        54.318597795073664,
+        52.346384328069256,
+        51.99075214752099,
+        50.51129442626889,
+        50.48822307436424,
+        49.59612111911744
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "state",
+        "ha",
+        "policy",
+        "american",
+        "government",
+        "work",
+        "family",
+        "income",
+        "program",
+        "food",
+        "percent",
+        "public",
+        "job",
+        "poverty"
+      ],
+      "topic_weights": [
+        294.9727827151357,
+        202.20908351398305,
+        173.75904077679184,
+        121.70866740339054,
+        111.40374388394112,
+        110.01563236203798,
+        107.39598310392755,
+        105.59300807765514,
+        103.72135623258082,
+        96.14151751365235,
+        96.12934778395308,
+        94.30953916356887,
+        94.23358386473939,
+        89.52801289636649,
+        80.7977240921139
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 48,
+    "1": 28,
+    "3": 26,
+    "0": 8,
+    "2": 15
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "It's been a year since the Supreme Court gutted the law, and racial justice remains elusive. Fifty years ago last weekend, civil-rights workers James Earl Chaney, Andrew Goodman, and Michael Schwerner...",
+        "upvotes": 29,
+        "url": "http://www.theatlantic.com/politics/archive/2014/06/why-the-voting-rights-act-still-matters/373541/"
+      },
+      {
+        "preview": "African-Americans and white people struggled together during the civil rights era. We need that once again. President Lyndon Johnson handing a pen to Martin Luther King Jr., during the ceremonies for ...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/article/180607/its-time-new-multiracial-cross-class-movement"
+      },
+      {
+        "preview": "An award-winning team of journalists, designers, and videographers who tell brand stories through Fast Company's distinctive lens The future of innovation and technology in government for the greater ...",
+        "upvotes": 0,
+        "url": "http://www.fastcoexist.com/3032824/6-reasons-why-were-slacktivists-the-psychology-of-liking-causes-on-facebook"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 35,
+        "url": "http://www.buzzfeed.com/andrewkaczynski/hillary-clinton-hobby-lobby-ruling-deeply-disturbing"
+      },
+      {
+        "preview": "The slide towards American theocracy was nudged one more step forward by today's Supreme Court decision in support of the \"freedom\" of corporations with \"religious\" beliefs to restrict the rights of t...",
+        "upvotes": 200,
+        "url": "http://www.dailykos.com/story/2014/06/30/1310729/-What-if-a-Muslim-Company-Used-the-Hobby-Lobby-Decision-to-Impose-Its-Values-on-White-Christians"
+      },
+      {
+        "preview": "A Saturday ago at the annual conference of the Faith and Freedom Coalition, Louisiana Gov. Bobby Jindal accused President Obama and other Democrats of waging a war against religious liberty and all bu...",
+        "upvotes": 28,
+        "url": "http://www.salon.com/2014/07/01/christian_right_secession_fantasy_spooky_neo_confederate_talk_grows_louder_at_the_fringes/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Last week, an online community for sex workers disappeared from the Internet. Visit SFRedbook.com, MyPinkBook.com, or MyRedBook.com right now, and you’ll only find the seals of the law enforcement age...",
+        "upvotes": 0,
+        "url": "https://www.eff.org/deeplinks/2014/07/whose-redbook-why-everyone-should-be-concerned-seizure-myredbookcom"
+      },
+      {
+        "preview": "A press conference call for Sen. Thad Cochran's (R-Miss.) re-election campaign turned into a fiasco on Wednesday when an unidentified caller began asking whether Cochran improperly \"harvested\" votes f...",
+        "upvotes": 11,
+        "url": "http://www.huffingtonpost.com/2014/07/02/thad-cochran-call_n_5552903.html"
+      },
+      {
+        "preview": "To revist this article, visit My Profile, then View saved stories. To revist this article, visit My Profile, then View saved stories. Kim Zetter To revist this article, visit My Profile, then View sav...",
+        "upvotes": 0,
+        "url": "http://www.wired.com/2014/07/nsa-targets-users-of-privacy-services/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "hed under open source compatible licenses that authorize use by any person for any purpose, including nonexempt purposes… True I suppose, but for intellectual works it seems pretty irrelevant. If you ...",
+        "upvotes": 0,
+        "url": "http://blogs.gnome.org/jnelson/2014/06/30/the-new-501c3-and-the-future-of-free-software-in-the-united-states/"
+      },
+      {
+        "preview": "Thanks to the efforts of Darth Jeff, JeffMD, and others, the team at Daily Kos Elections has been working hard on calculating the 2012 presidential election results by all of the state legislative dis...",
+        "upvotes": 1,
+        "url": "http://www.dailykos.com/story/2014/03/19/1277349/-Daily-Kos-Elections-releases-new-interactive-maps-of-11-state-legislatures-with-tons-of-data"
+      },
+      {
+        "preview": "Adam Bellow urges conservatives to support right-wing fiction. Best of luck to him: Here's why it won't be easy. by Paul Waldman July 3, 2014 12:55 AM Conservatives often complain that the machinery o...",
+        "upvotes": 1,
+        "url": "http://prospect.org/article/searching-next-great-conservative-novel#.U7X78pNi3t8.reddit"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Benjamin Summers is a captain in the U.S. Army. The views expressed are his own. I have worn an Army uniform for the past eight years and deployed twice to Afghanistan. This doesn’t make me a hero. Ma...",
+        "upvotes": 1,
+        "url": "http://www.washingtonpost.com/opinions/hero-worship-of-the-military-presents-an-obstacle-to-good-policy/2014/06/20/053d932a-f0ed-11e3-bf76-447a5df6411f_story.html"
+      },
+      {
+        "preview": "fresh voices from the front lines of change by Kitty Lan | Jul 2, 2014 | Jobs and Growth | 0 comments President Obama chose an aging bridge connecting Washington’s Georgetown neighborhood to the North...",
+        "upvotes": 41,
+        "url": "http://ourfuture.org/20140702/obama-calls-for-public-pressure-on-congress-for-transportation-funding"
+      },
+      {
+        "preview": "Featured Shows  TV More More Shows Follow  More Brands More Shows More than five million Americans won't have health insurance coverage if their states don't expand Medicaid by 2016, a new White House...",
+        "upvotes": 55,
+        "url": "http://www.msnbc.com/msnbc/millions-wont-have-health-care-states-without-medicaid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2018-05",
+  "total_articles": 188,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Gun Control and Social Issues Involving Islam and Education",
+      "core_keywords": ["gun", "law", "muslim", "school", "shooting", "police", "speech"],
+      "importance_ratio": 0.1277
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Presidential Campaign and Government Politics",
+      "core_keywords": ["trump", "president", "campaign", "government", "fbi", "democrat", "twitter"],
+      "importance_ratio": 0.4362
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Advertisement and Social Media Content Related to Trump",
+      "core_keywords": ["advertisement", "facebook", "video", "trump", "abortion", "news", "family"],
+      "importance_ratio": 0.0851
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Energy and Geopolitics Involving North Korea",
+      "core_keywords": ["energy", "north korea", "war", "power", "price", "kim", "america"],
+      "importance_ratio": 0.0479
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Public Education and Refugee Rights in the US",
+      "core_keywords": ["education", "refugee", "child", "public", "government", "human right", "political"],
+      "importance_ratio": 0.3032
+    }
+  ]
+}

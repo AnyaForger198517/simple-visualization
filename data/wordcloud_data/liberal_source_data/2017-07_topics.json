@@ -1,0 +1,285 @@
+{
+  "month": "2017-07",
+  "total_articles": 271,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "house",
+        "ha",
+        "republican",
+        "white",
+        "russian",
+        "state",
+        "election",
+        "russia",
+        "democrat",
+        "campaign",
+        "chief",
+        "clinton"
+      ],
+      "topic_weights": [
+        1068.8443205220494,
+        641.1093812629017,
+        561.2079470130667,
+        396.57077766105084,
+        309.3819348556776,
+        295.4574473699664,
+        295.2395350632642,
+        227.90004912753426,
+        211.28140811184966,
+        177.53575599944412,
+        175.75994745272973,
+        175.3761081169535,
+        171.2505461438523,
+        163.45447526992533,
+        158.54126164825317
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "health",
+        "republican",
+        "tax",
+        "ha",
+        "care",
+        "state",
+        "policy",
+        "wa",
+        "american",
+        "trade",
+        "economic",
+        "worker",
+        "cut",
+        "public",
+        "wage"
+      ],
+      "topic_weights": [
+        379.3102169720969,
+        364.361919345447,
+        347.8569275338786,
+        345.4925686662529,
+        338.5410704847921,
+        316.83579042466886,
+        297.7178800876772,
+        245.03957462011215,
+        237.8744048624106,
+        218.0895338192421,
+        201.37102462303514,
+        183.79828590506935,
+        176.855410469088,
+        165.43991365912402,
+        162.75911789673546
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "percent",
+        "american",
+        "ha",
+        "trump",
+        "group",
+        "membership",
+        "conservative",
+        "world",
+        "wa",
+        "party",
+        "woman",
+        "america",
+        "news",
+        "support",
+        "view"
+      ],
+      "topic_weights": [
+        322.9849946238839,
+        287.44931960088087,
+        251.40371073189777,
+        248.6399481480958,
+        209.42598246737091,
+        201.61144095143962,
+        151.78145427904877,
+        139.93192077354155,
+        139.69874415819157,
+        137.43751188108857,
+        136.41567783397895,
+        129.56663857078945,
+        128.48771594121322,
+        121.31379606394526,
+        118.00978379788528
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "voter",
+        "state",
+        "kobach",
+        "election",
+        "commission",
+        "voting",
+        "trump",
+        "vote",
+        "data",
+        "law",
+        "ha",
+        "information",
+        "kansa",
+        "fraud",
+        "right"
+      ],
+      "topic_weights": [
+        548.2914095127687,
+        408.2343695063877,
+        238.2447729452561,
+        233.92088481969338,
+        228.27312040597954,
+        185.83644518038722,
+        154.39490824424317,
+        123.03476540537922,
+        117.02582843881501,
+        107.8336452905062,
+        103.81324549893195,
+        102.55503372854218,
+        94.52798971793052,
+        89.7718307936968,
+        88.79911766708214
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "president",
+        "administration",
+        "state",
+        "deal",
+        "law",
+        "case",
+        "united",
+        "bank",
+        "did",
+        "government",
+        "official",
+        "million"
+      ],
+      "topic_weights": [
+        887.039683232033,
+        584.4477283126369,
+        403.5464506308698,
+        327.9828548660964,
+        310.06754921386596,
+        290.74464649740173,
+        235.43791616543646,
+        215.5397344842078,
+        212.20944012984063,
+        192.7070197730926,
+        174.0647016009396,
+        163.61555258502722,
+        158.37649008046708,
+        151.7130398149424,
+        150.69685171273363
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 12,
+    "1": 68,
+    "0": 66,
+    "2": 63,
+    "4": 62
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. In his testimony before the Senate Intelligence Committee, Attorney General J...",
+        "upvotes": 0,
+        "url": "http://nymag.com/daily/intelligencer/2017/06/kamala-harris-pummels-sessions-so-badly-mccain-interrupts.html"
+      },
+      {
+        "preview": "WASHINGTON (AP) — Churches should have the right to endorse political candidates and still keep their tax-free status, say House Republicans targeting a law that prohibits such outright politicking fr...",
+        "upvotes": 3,
+        "url": "https://www.apnews.com/59b82e28bca64912990664fdd898c888/GOP-bill-would-let-churches-endorse-political-candidates"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved A $400 billion proposal to create a universal healthcare plan for all Californians is pitting state Democratic leaders against each other in an acrim...",
+        "upvotes": 9,
+        "url": "http://thehill.com/homenews/state-watch/340319-battle-breaks-out-in-california-over-single-payer-healthcare"
+      }
+    ],
+    "1": [
+      {
+        "preview": "\"When fascism comes to America, it will be wrapped in the flag and carrying the cross.\" -- Sinclair Lewis So now Trump is agreeing with far right extremists, like Rand Paul (R-KY) and Ben Sasse (R-NE)...",
+        "upvotes": 1,
+        "url": "https://downwithtyranny.blogspot.com/2017/06/the-harder-gop-pushes-for-trumpcare.html"
+      },
+      {
+        "preview": "Welcome, Let’s hope we all remember the moral arguments about health care once the Trump administration ends Contributing Editor Health care activists lift signage promoting the Affordable Care Act du...",
+        "upvotes": 1,
+        "url": "http://www.rollingstone.com/politics/news/taibbi-finally-everyone-agrees-health-care-is-a-human-right-w490605"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. When Paul Ryan first introduced Trumpcare to the House, his caucus’s far-righ...",
+        "upvotes": 1,
+        "url": "http://nymag.com/daily/intelligencer/2017/06/gop-moderates-are-winning-the-negotiations-over-trumpcare.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Supported by By Mike Isaac SAN FRANCISCO — Last July, in a seventh-floor conference room at Facebook’s Lower Manhattan offices, a small group met to discuss the future of news media on t...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2016/05/21/technology/facebook-trending-list-skewed-by-individual-judgment-not-institutional-bias.html"
+      },
+      {
+        "preview": "by staff, June 30th, 2017 10:17 AM EST At The Daily 202 James Hohmann explains why “Even sweeping the suburbs would not be enough for Democrats to win the House majority“: To win the House majority in...",
+        "upvotes": 4,
+        "url": "http://thedemocraticstrategist.org/2017/06/how-dems-can-and-cant-win-a-house-majority-in-2018/"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. Glenn Beck at the NRA c...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/views/2017/06/30/nra-issues-call-white-supremacy-and-armed-insurrection"
+      }
+    ],
+    "3": [
+      {
+        "preview": "tion's journalism. You may unsubscribe or adjust your preferences at any time. You can read our Privacy Policy here. ...",
+        "upvotes": 7,
+        "url": "https://www.thenation.com/article/no-seattles-15-minimum-wage-is-not-hurting-workers/"
+      },
+      {
+        "preview": "Then President-elect Donald Trump greets Kansas Secretary of State Kris Kobach on November 20, 2016. (AP Photo / Carolyn Kaster) By signing up, you confirm that you are over the age of 16 and agree to...",
+        "upvotes": 7,
+        "url": "https://www.thenation.com/article/the-trump-administration-is-planning-an-unprecedented-attack-on-voting-rights/"
+      },
+      {
+        "preview": "Two states are still reviewing the commission's request and another two states have not returned 's request for comment Six states are still awaiting a letter from the commission, but four of them hav...",
+        "upvotes": 6,
+        "url": "http://www.cnn.com/2017/07/03/politics/kris-kobach-letter-voter-fraud-commission-information/index.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "This is fine. Leaders of close American allies don’t typically slam the US president at home to win political points. But that’s just what happened on Thursday, when German Chancellor Angela Merkel im...",
+        "upvotes": 13,
+        "url": "https://www.vox.com/world/2017/6/30/15904362/merkel-trump-bundestag"
+      },
+      {
+        "preview": "Erika Larsen for  Magazine Letter From Colorado Springs The residents of Colorado Springs undertook a radical experiment in government. Hereâs what they got. By CALEB HANNAN July/August 2017 Caleb H...",
+        "upvotes": 33,
+        "url": "http://www.politico.com/magazine/story/2017/06/30/colorado-springs-libertarian-experiment-america-215313"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since In 2000, I graduated from Central High School in Tuscaloosa, Alabama. Central opened in 1979 after ...",
+        "upvotes": 71,
+        "url": "http://www.businessinsider.com/tuscaloosa-alabama-central-high-school-resegregation-undividing-america-2017-6"
+      }
+    ]
+  }
+}

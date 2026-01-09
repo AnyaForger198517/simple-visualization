@@ -1,0 +1,36 @@
+{
+  "month": "2017-05",
+  "total_articles": 314,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Presidential Politics and Partisan Elections",
+      "core_keywords": ["trump", "president", "republican", "democrat", "election", "senate", "obama"],
+      "importance_ratio": 0.2420
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State Fiscal Policy and Federal Spending",
+      "core_keywords": ["state", "tax", "law", "budget", "federal", "medicaid", "spending"],
+      "importance_ratio": 0.1306
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Presidency and Mainstream Media Coverage",
+      "core_keywords": ["trump", "president", "white house", "news", "american", "woman", "medium"],
+      "importance_ratio": 0.5764
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Global Climate Change and Paris Agreement",
+      "core_keywords": ["climate", "change", "global warming", "paris", "sea level", "science", "wa"],
+      "importance_ratio": 0.0414
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "National Intelligence and US Security Policy",
+      "core_keywords": ["national intelligence", "obama", "security", "court", "biden", "iran", "report"],
+      "importance_ratio": 0.0096
+    }
+  ]
+}

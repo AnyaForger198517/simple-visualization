@@ -1,0 +1,36 @@
+{
+  "month": "2017-02",
+  "total_articles": 401,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Immigration Policy and Federal Court Battles",
+      "core_keywords": ["trump", "immigration", "court", "law", "refugee", "federal", "president"],
+      "importance_ratio": 0.2419
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Administration and US National Affairs",
+      "core_keywords": ["trump", "president", "obama", "white house", "russia", "military", "policy"],
+      "importance_ratio": 0.2020
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Media Landscape and Public Opinion Polls",
+      "core_keywords": ["advertisement", "media", "news", "liberal", "poll", "journalist", "public"],
+      "importance_ratio": 0.0923
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Conservative vs Liberal Political Dynamics",
+      "core_keywords": ["conservative", "liberal", "trump", "woman", "election", "political party", "cpac"],
+      "importance_ratio": 0.2394
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Congressional Politics and Supreme Court Nomination",
+      "core_keywords": ["trump", "republican", "gorsuch", "senate", "house", "education", "speech"],
+      "importance_ratio": 0.2244
+    }
+  ]
+}

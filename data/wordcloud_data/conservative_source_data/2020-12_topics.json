@@ -1,0 +1,285 @@
+{
+  "month": "2020-12",
+  "total_articles": 153,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "election",
+        "trump",
+        "vote",
+        "state",
+        "president",
+        "ballot",
+        "wa",
+        "ha",
+        "voter",
+        "republican",
+        "democrat",
+        "biden",
+        "advertisement",
+        "house",
+        "news"
+      ],
+      "topic_weights": [
+        293.2105836846307,
+        199.75472551390456,
+        191.440918861385,
+        158.08178535620317,
+        152.4930676112645,
+        127.06043395994888,
+        115.49756877649017,
+        101.18559773983446,
+        92.07905865309613,
+        91.91228626410404,
+        91.51300160000886,
+        86.02522054894125,
+        83.81715452647929,
+        64.5943369967061,
+        62.15062267829516
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "cruz",
+        "washington",
+        "school",
+        "camp",
+        "high",
+        "free",
+        "child",
+        "houston",
+        "ted",
+        "family",
+        "warnock",
+        "health",
+        "texas",
+        "state"
+      ],
+      "topic_weights": [
+        182.7092486895324,
+        106.23338089292757,
+        79.36663064352916,
+        69.88145385222006,
+        68.69147800061114,
+        50.95028082057202,
+        44.542816655050956,
+        44.49890421501277,
+        42.857726307328946,
+        42.84726026599545,
+        40.165373477031494,
+        39.947016852850986,
+        39.22514298327061,
+        35.31751326890715,
+        33.82372618976636
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "cloud",
+        "vaccine",
+        "email",
+        "enter",
+        "warner",
+        "police",
+        "wa",
+        "valid",
+        "help",
+        "service",
+        "student",
+        "mrna",
+        "resource",
+        "report",
+        "expert"
+      ],
+      "topic_weights": [
+        240.26907347097352,
+        166.86235506816138,
+        102.8171289161458,
+        97.57427032374301,
+        92.4077895137539,
+        92.08733099691858,
+        90.5813513205771,
+        87.31924255061598,
+        81.00009039202484,
+        75.65799681550558,
+        64.67790862780298,
+        62.142552782789444,
+        56.78718489296569,
+        55.31085027919247,
+        55.23483390644764
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "pandemic",
+        "ha",
+        "government",
+        "china",
+        "wa",
+        "coronavirus",
+        "business",
+        "right",
+        "freedom",
+        "california",
+        "morocco",
+        "restriction",
+        "chinese",
+        "world"
+      ],
+      "topic_weights": [
+        152.3831134302096,
+        114.643264469171,
+        114.45446916894636,
+        92.64463296863991,
+        92.44444509009165,
+        71.17044596250206,
+        68.64763215731608,
+        67.0460105143668,
+        63.30205967184979,
+        59.36876211013011,
+        52.62097392627328,
+        51.28538896863789,
+        48.38123544473771,
+        46.4227942739351,
+        44.91552444862639
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "biden",
+        "president",
+        "china",
+        "policy",
+        "news",
+        "national",
+        "american",
+        "administration",
+        "life",
+        "history",
+        "book",
+        "twitter"
+      ],
+      "topic_weights": [
+        367.69663054222866,
+        251.4590821788459,
+        187.2836010790969,
+        144.87655260036857,
+        125.25373451664572,
+        87.46297565311875,
+        80.65298158546601,
+        79.39406675997932,
+        78.6110844363235,
+        71.22957737445954,
+        68.11178539687165,
+        67.94725617095604,
+        65.28791291459645,
+        64.55876633741111,
+        64.49908808677817
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 25,
+    "4": 55,
+    "0": 50,
+    "1": 7,
+    "2": 16
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "MADISON, Wis. (AP) — Joe Biden’s victory in battleground Wisconsin was certified Monday following a partial recount that only added to his 20,600-vote margin over President Donald Trump, who has promi...",
+        "upvotes": 1,
+        "url": "https://apnews.com/article/election-2020-joe-biden-donald-trump-wisconsin-lawsuits-2e9cf60550f519537d31b6b71aa32c3c"
+      },
+      {
+        "preview": "In the wee hours of Thanksgiving Day, the Amistad Project of the Thomas More Society filed an explosive election lawsuit asking Michigan’s Supreme Court to prevent Secretary of State Jocelyn Benson fr...",
+        "upvotes": 318,
+        "url": "https://pjmedia.com/election/tyler-o-neil/2020/11/30/explosive-michigan-illegally-counted-or-ignored-500k-ballots-lawsuit-claims-n1181826"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since President Donald Trump's personal defense attorney Rudy Giuliani talked to the president about rece...",
+        "upvotes": 1,
+        "url": "https://www.businessinsider.com/giuliani-and-trump-discussed-preemptive-pardon-nyt-2020-12"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Seattle – Two people arrested on the BNSF Railway tracks near Bellingham, Whatcom County, were charged with terrorist attack and other violence against a railroad carrier, and appeared in federal cour...",
+        "upvotes": 0,
+        "url": "https://breaking911.com/2-leftist-women-arrested-on-charges-of-terrorist-attack-on-a-railroad/"
+      },
+      {
+        "preview": "State police raided the home of a former Department of Health data scientist who is accusing Florida officials of wrongfully firing her for refusing to manipulate COVID-19 statistics. The Florida Depa...",
+        "upvotes": 751,
+        "url": "https://www.sun-sentinel.com/coronavirus/fl-ne-whistleblower-search-warrant-20201207-rapzkgm7fnbujlhwzadunciigu-story.html"
+      },
+      {
+        "preview": "A group of black pastors wrote a letter to Georgia Democratic Senate candidate Rev. Raphael Warnock denouncing his views on abortion and asking him to support life. Fox News reported over the weekend ...",
+        "upvotes": 0,
+        "url": "https://www.dailywire.com/news/two-dozen-black-pastors-write-letter-to-raphael-warnock-decrying-his-abortion-views"
+      }
+    ],
+    "2": [
+      {
+        "preview": "June 21, 2021 June 14, 2021 May 31, 2021 May 31, 2021 May 18, 2021 December 16, 2020 June 6, 2020 June 4, 2020 March 31, 2021 May 30, 2020 May 30, 2020 May 29, 2020 June 21, 2021 May 22, 2021 April 11...",
+        "upvotes": 1,
+        "url": "https://scienceooze.com/beware-fake-coronavirus-vaccines-says-interpol/"
+      },
+      {
+        "preview": "Source: AP Photo/Hans Pennink The government of Wales will be issuing vaccine passports for those who have been vaccinated for the Wuhan coronavirus. Welsh Health Minister Vaughan Gething confirmed in...",
+        "upvotes": 26,
+        "url": "https://townhall.com/tipsheet/bronsonstocking/2020/12/02/welsh-health-minister-announces-the-issuance-of-vaccine-passports-n2580973"
+      },
+      {
+        "preview": "Source: AP Photo/Hans Pennink James Hildreth, a top vaccine adviser for the Food and Drug Administration (FDA), said the federal agency will decide on Thursday whether or not it will grant emergency u...",
+        "upvotes": 0,
+        "url": "https://townhall.com/tipsheet/bronsonstocking/2020/12/05/fda-advisor-gives-a-likely-timeframe-for-coronavirus-vaccine-approval-n2581106"
+      }
+    ],
+    "3": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since The South Dakota Department of Health on Saturday reported 54 new COVID-19 deaths since Friday, the...",
+        "upvotes": 1,
+        "url": "https://www.businessinsider.com/noem-shopping-south-dakota-coronavirus-death-total-2020-11"
+      },
+      {
+        "preview": "Mayor London Breed, pictured Oct. 11, ate at the French Laundry the night after Gov. Gavin Newsom. SF Symphony opening-night gala chairwoman Goretti Lo Lui (center) with President Sako Fisher (left) w...",
+        "upvotes": 48,
+        "url": "https://www.sfchronicle.com/bayarea/heatherknight/article/S-F-Mayor-London-Breed-had-her-own-French-15767506.php"
+      },
+      {
+        "preview": "In early November, as health officials warned of an impending COVID-19 spike, Austin Mayor Steve Adler hosted an outdoor wedding and reception with 20 guests for his daughter at a trendy hotel near do...",
+        "upvotes": 5710,
+        "url": "https://www.statesman.com/news/20201202/austin-mayor-stressed-residents-lsquoneed-to-stay-homersquo-he-was-vacationing-in-cabo-at-time"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "https://www.washingtontimes.com/news/2020/nov/29/editorial-dont-leave-facebook-twitter-to-the-left/"
+      },
+      {
+        "preview": "Plot twist Viral video captured the moment a man appearing to be a police officer intervenes in a brutal street fight. Twitter user Otto Dinero tweeted the video in the early hours of Sunday morning, ...",
+        "upvotes": 0,
+        "url": "https://www.theblaze.com/news/video-man-assaults-cop-plot-twist"
+      },
+      {
+        "preview": "Ten local chapters of Black Lives Matter have accused the national organization for the movement of hiding “untold millions of dollars” in donations and have called for increased transparency and “equ...",
+        "upvotes": 22,
+        "url": "https://www.dailywire.com/news/local-blm-chapters-accuse-national-foundation-of-hiding-untold-millions-of-dollars-in-donations-from-grassroots-activists"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2017-02",
+  "total_articles": 401,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "trump",
+        "ha",
+        "court",
+        "country",
+        "wa",
+        "law",
+        "immigration",
+        "president",
+        "federal",
+        "order",
+        "government",
+        "american",
+        "policy",
+        "refugee"
+      ],
+      "topic_weights": [
+        597.5525081294999,
+        455.77526305484935,
+        452.23397931841663,
+        379.9091721165541,
+        331.9384794014344,
+        328.44981863999624,
+        326.34663876364084,
+        304.80806712757163,
+        296.6328360243679,
+        285.01989204313213,
+        270.7763584110815,
+        261.2837033341252,
+        244.14642581444033,
+        200.0684379113737,
+        191.51968552540674
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "president",
+        "wa",
+        "ha",
+        "obama",
+        "administration",
+        "house",
+        "medium",
+        "american",
+        "russia",
+        "white",
+        "job",
+        "policy",
+        "state",
+        "military"
+      ],
+      "topic_weights": [
+        874.7435180624567,
+        403.81439540819844,
+        369.038563803363,
+        324.4725190639122,
+        254.6123190659759,
+        245.1868569138445,
+        194.56886945829947,
+        194.01883174362447,
+        183.35704098492585,
+        179.1196130037148,
+        158.70739858689888,
+        156.55983381554995,
+        147.8488684368312,
+        140.99367619065242,
+        139.41030913298465
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "advertisement",
+        "percent",
+        "wa",
+        "news",
+        "story",
+        "medium",
+        "liberal",
+        "video",
+        "journalist",
+        "continues",
+        "white",
+        "poll",
+        "public",
+        "newsletter",
+        "today"
+      ],
+      "topic_weights": [
+        289.7096433993958,
+        210.23637261271028,
+        195.34438401844446,
+        149.22966482123516,
+        128.79010849206085,
+        120.23932648827389,
+        106.42502189586058,
+        103.73809635901893,
+        87.99469576350486,
+        87.90021958721998,
+        72.9813100255541,
+        63.28318078544197,
+        57.00911563141963,
+        56.194564601724615,
+        55.34757371230268
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "conservative",
+        "trump",
+        "party",
+        "liberal",
+        "election",
+        "alt",
+        "life",
+        "woman",
+        "political",
+        "child",
+        "government",
+        "voter",
+        "cpac"
+      ],
+      "topic_weights": [
+        957.3860773698343,
+        462.7923794884792,
+        369.1213623345776,
+        355.79769371403114,
+        300.03287179304084,
+        292.3477750260416,
+        251.14106795392243,
+        249.1545067584035,
+        247.2287560586206,
+        232.67637126047603,
+        190.18468936220447,
+        182.1375713786479,
+        159.74590032395471,
+        158.97306247483925,
+        157.1157351435299
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "republican",
+        "conservative",
+        "school",
+        "ha",
+        "president",
+        "democrat",
+        "law",
+        "house",
+        "student",
+        "gorsuch",
+        "speech",
+        "education",
+        "senate"
+      ],
+      "topic_weights": [
+        428.0978906612967,
+        424.1281720489935,
+        347.559208539908,
+        319.55339173714765,
+        267.70677019505035,
+        218.48963898880842,
+        208.7773543831452,
+        201.75787188814408,
+        198.29991561133943,
+        180.8862420748431,
+        179.64532797394818,
+        177.4189546239469,
+        158.37226405277892,
+        155.5948810638138,
+        153.60735926186888
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 37,
+    "1": 81,
+    "3": 96,
+    "4": 90,
+    "0": 97
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 188,
+        "url": "http://www.nationalreview.com/article/444439/neil-gorsuch-justice-scalias-supreme-successor"
+      },
+      {
+        "preview": "Because even a broken clock is right twice a day In what was as Trump’s most theatrical pick for the final rose since selecting Secretary of State, the President announced on Tuesday that Circuit Cour...",
+        "upvotes": 12,
+        "url": "http://thetab.com/us/usc/2017/02/01/need-know-future-scotus-neil-gorsuch-trumps-first-great-pick-since-mad-dog-mattis-3740"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 15,
+        "url": "http://www.nationalreview.com/article/444440/neil-gorsuch-trumps-supreme-court-nominee-fine-choice-replace-justice-scalia"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Follow Us National Review After Serving at Ground Zero, Going to Afghanistan ‘Felt Right’ to These New Yorkers Twenty Years Ago, the World Changed The 9/11 Generation Deserves Our Thanks Since 9/11, S...",
+        "upvotes": 4,
+        "url": "http://www.nationalreview.com/article/444387/f-35-replacement-upgrades-new-designs-replace-joint-strike-fighter"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since The New England Patriots triumvirate of owner Robert Kraft, head coach Bill Belichick, and quarterb...",
+        "upvotes": 112,
+        "url": "http://www.businessinsider.com/patriots-owner-robert-kraft-loyal-to-donald-trump-2017-1"
+      },
+      {
+        "preview": "White House The former president is keeping tabs on his successor in the White House and selectively weighing in. By EDWARD-ISAAC DOVERE 01/31/2017 05:06 AM EST Former President Barack Obama and his t...",
+        "upvotes": 4,
+        "url": "http://www.politico.com/story/2017/01/donald-trump-barack-obama-234414"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Jamiel Shaw, Sr. supported Donald Trump for president because Trump promised to end illegal immigration. Jamiel’s son Jaz was gunned down by an illegal alien a block from the family home...",
+        "upvotes": 61,
+        "url": "http://www.thegatewaypundit.com/2017/01/father-son-killed-illegal-immigrant-slams-chuck-schumer-crying-travel-ban-not-american-deaths-video/"
+      },
+      {
+        "preview": "By Gareth Davies For Mailonline Published: 08:39 EDT, 1 February 2017 | Updated: 10:55 EDT, 8 February 2017 317 View comments A former child bride has had her ears hacked off by her husband after he a...",
+        "upvotes": 11,
+        "url": "http://www.dailymail.co.uk/news/article-4179952/Former-child-bride-EARS-hacked-husband.html"
+      },
+      {
+        "preview": "Advertisement On Tuesday Democratic Senator Time Kaine told the Morning Joe in an interview that Democrats need to fight the Trump administration including online and on the streets in addition to the...",
+        "upvotes": 18,
+        "url": "http://www.thegatewaypundit.com/2017/02/video-tim-kaine-calls-fighting-streets-online-combat-trump/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Title IX Robby Soave | 1.31.2017 9:30 AM Remember Amherst College student \"John Doe,\" who was expelled for sexual misconduct, even thoug...",
+        "upvotes": 15,
+        "url": "http://reason.com/blog/2017/01/31/amherst-student-expelled-for-sexual-misc"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Democratic National Committee is kicking a candidate out of the chairmanship race after he told The Hill that Rep. Keith Ellison (D-Minn.) should...",
+        "upvotes": 66,
+        "url": "http://thehill.com/homenews/campaign/317248-dnc-boots-candidate-from-chairmans-race-for-criticizing-ellisons-islamic#.WJHfSZrF_k8.twitter"
+      },
+      {
+        "preview": "Sorry #NeverTrumpers, but you don”t get to dismount your high horse and celebrate the nomination of Judge Neil Gorsuch today. This is NOT your victory, this is ours! There is a gobsmacking level of po...",
+        "upvotes": 4,
+        "url": "https://theconservativetreehouse.com/2017/02/01/sorry-nevertrumpers-but-you-dont-get-to-dismount-your-high-horse-today/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Judge Neil Gorsuch a and his wife, Marie Louise, look on, after President Donald Trump nominated him for the Supreme Court, at the White House in Washington, DC, on January 31, 2017. (Getty) President...",
+        "upvotes": 10,
+        "url": "http://heavy.com/news/2017/01/neil-gorsuch-who-is-donald-trump-supreme-court-nominee-pick-nomination-photos-video-selection/"
+      },
+      {
+        "preview": "Judge Neil Gorsuch is Trump's pick for the high court Trump: \"It is an extraordinary resume. As good as it gets\" Senate Democrats will oppose the nomination, but unclear if they will force Republicans...",
+        "upvotes": 1442,
+        "url": "http://www.cnn.com/2017/01/31/politics/donald-trump-supreme-court-nominee/index.html"
+      },
+      {
+        "preview": "By Victor Skinner January 30, 2017 LAS VEGAS – In the Clark County School District – where 322,000 students reportedly speak 70 different languages and half claim to be Hispanic – trustees vowed not t...",
+        "upvotes": 11,
+        "url": "http://eagnews.org/vegas-schools-grapple-with-70-student-languages-declare-safe-space-for-illegals/"
+      }
+    ]
+  }
+}

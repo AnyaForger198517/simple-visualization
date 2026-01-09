@@ -1,0 +1,275 @@
+{
+  "month": "2013-07",
+  "total_articles": 151,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "reply",
+        "view",
+        "posted",
+        "post",
+        "private",
+        "child",
+        "news",
+        "homosexual",
+        "wa",
+        "sex",
+        "russian",
+        "article",
+        "case",
+        "marriage",
+        "boy"
+      ],
+      "topic_weights": [
+        1043.9917355931586,
+        390.0113148725302,
+        387.35673962230277,
+        371.99451634026394,
+        369.04896127717285,
+        347.855114420742,
+        220.97221227054692,
+        220.51981844813557,
+        160.78468172627345,
+        146.16178321857078,
+        144.59505741945517,
+        119.04852882606907,
+        114.81060894475017,
+        109.73216104526172,
+        102.43931128838378
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "ha",
+        "advertisement",
+        "government",
+        "marriage",
+        "court",
+        "family",
+        "obamacare",
+        "law",
+        "federal",
+        "department",
+        "wa",
+        "city",
+        "cost",
+        "team"
+      ],
+      "topic_weights": [
+        166.818875926533,
+        152.33576345107898,
+        140.06295835932792,
+        128.35946590303337,
+        113.35415324629643,
+        99.00561653251228,
+        95.76096779991703,
+        94.1575461177898,
+        86.96597740112517,
+        86.64238657756094,
+        85.95255117673602,
+        84.10800505533064,
+        79.73507284981315,
+        66.30168958742813,
+        61.65482048053963
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "obama",
+        "republican",
+        "american",
+        "ha",
+        "wa",
+        "health",
+        "president",
+        "percent",
+        "state",
+        "obamacare",
+        "senate",
+        "care",
+        "government",
+        "romney",
+        "america"
+      ],
+      "topic_weights": [
+        167.21238432268566,
+        144.81621857389632,
+        137.74527689291276,
+        129.33360753851179,
+        121.80944868870681,
+        103.39163667748022,
+        94.67575280721776,
+        92.15297544354033,
+        87.59633544731376,
+        85.32353667834926,
+        82.74314657298085,
+        81.89438948668709,
+        81.32661104172762,
+        78.39465002915043,
+        74.76897999975264
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "gas",
+        "fracking",
+        "ha",
+        "wa",
+        "natural",
+        "energy",
+        "water",
+        "corey",
+        "article",
+        "point",
+        "warming",
+        "coal",
+        "green",
+        "life",
+        "emission"
+      ],
+      "topic_weights": [
+        44.91693514843011,
+        37.13218438594532,
+        35.9741009648061,
+        34.453406864218486,
+        27.928958446436706,
+        20.710423392426396,
+        20.293342539192597,
+        20.282903312508058,
+        19.91242149179547,
+        19.621691329200544,
+        18.38824290909247,
+        18.236202597844404,
+        15.734703324121948,
+        15.111642554955422,
+        15.089834266365923
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "irs",
+        "nsa",
+        "ha",
+        "zimmerman",
+        "analyst",
+        "case",
+        "president",
+        "obama",
+        "group",
+        "white",
+        "news",
+        "scandal",
+        "investigation",
+        "conservative"
+      ],
+      "topic_weights": [
+        360.97621405651927,
+        224.84666902157994,
+        145.92853389833786,
+        145.37906580671003,
+        126.08580107471181,
+        111.71223739655625,
+        106.36745611081336,
+        105.45531420985056,
+        95.71749948958012,
+        95.07685968121424,
+        94.57372007737952,
+        86.9212653127788,
+        82.9455372288091,
+        81.9771459432106,
+        79.41268996400785
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 54,
+    "1": 35,
+    "4": 53,
+    "0": 1,
+    "3": 8
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Skip to comments. Posted on 07/03/2013 3:24:57 PM PDT by NYer Australian media covered the adoption of Adam by the gay men, describing the two men as happy, loving fathers. On July 14, 2010, when Adam...",
+        "upvotes": 0,
+        "url": "http://www.freerepublic.com/focus/news/3038826/posts"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Search A A 0% Article Completion By Edward White June 27, 2013 2 min read The United States Court of Appeals for the Tenth Circuit has issued the first appellate court decision on the merits regarding...",
+        "upvotes": 23,
+        "url": "http://aclj.org/obamacare/tenth-circuit-rules-favor-hobby-lobby-stores-regarding-hhs-mandate-agrees-aclj-arguments"
+      },
+      {
+        "preview": "Former Conn Smythe Trophy winner Tim Thomas is looking to make his return to the NHL next season following a year of self-imposed absence from the league. Thomas' agent, Bill Zito, announced his clien...",
+        "upvotes": 0,
+        "url": "http://espn.go.com/new-york/nhl/story/_/id/9442663/tim-thomas-attempt-return-nhl-following-one-year-absence"
+      },
+      {
+        "preview": "Gabby Giffords and her husband Mark Kelly are spending the upcoming holiday week on tour attempting to rewrite history. Firstly, they are going to try and rewrite their own personal history and go fro...",
+        "upvotes": 1,
+        "url": "http://bulletsfirst.net/2013/07/02/gabby-giffords-launches-july-4th-tour-attacking-the-2nd-amendment/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "In the short run, yes. In the long run, people get tired of these things. Note also that that passing out street money is an expensive undertaking. How long can the Dems keep this up? I'd like to see ...",
+        "upvotes": 0,
+        "url": "http://isteve.blogspot.com/2013/06/well-said.html"
+      },
+      {
+        "preview": "Access your Commentary account. Lost your password? Please enter your username or email address. You will receive a link to create a new password via email. The monthly magazine of opinion. Subscribe ...",
+        "upvotes": 8,
+        "url": "http://www.commentarymagazine.com/article/the-obamacare-blame-game/"
+      },
+      {
+        "preview": "Sign In Chile has employed free-market principles to outperform Ecuador Manage Newsletters The death of Americans’ financial privacy Biden preaches ‘dignity’ at U.N. If not for double standards, liber...",
+        "upvotes": 7,
+        "url": "http://www.washingtontimes.com/news/2013/jul/2/a-tale-of-two-economieschile-has-employed-free-mar/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Israel’s new security fence along the Israel-Egypt border has stemmed the tide of illegal immigration to Israel and has been protecting Israel from terrorists operating in the Sinai Peninsula, Prime M...",
+        "upvotes": 7,
+        "url": "http://www.timesofisrael.com/netanyahu-egypt-border-fence-halted-flow-of-migrants/#.UdmaeFClcoc.facebook"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Fracking Ronald Bailey | 7.5.2013 1:30 PM Gasland Part II, the sequel to director/activist Josh Fox's earlier anti-fracking docudrama Ga...",
+        "upvotes": 3,
+        "url": "http://reason.com/archives/2013/07/05/the-top-5-lies-about-fracking"
+      },
+      {
+        "preview": "The  archives brought to you by WNYC.Read the press release here. ENGLEWOOD — A South Side hospital is asking residents to donate blood as a summer spike in city gun violence has created higher demand...",
+        "upvotes": 0,
+        "url": "http://www.dnainfo.com/chicago/20130709/englewood/summer-violence-creates-need-for-blood-donations-at-south-side-hospital"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement (Editor's note: Colin Flaherty has done more reporting than any other journalist on what appears to be a nationwide trend of skyrocketing black-on-white crime, violence and abuse.  featu...",
+        "upvotes": 13,
+        "url": "http://www.wnd.com/2013/07/4th-of-july-done-for-thanks-to-black-mobs/?cat_orig=us"
+      },
+      {
+        "preview": "Call this a dissonant note in the public defense of Lois Lerner. The IRS executive fumbled an attempt to provide cover for an IG report on political targeting in the agency that ended up making the si...",
+        "upvotes": 6,
+        "url": "http://hotair.com/archives/2013/07/03/lerners-attorney-demands-immunity-for-testimony/"
+      },
+      {
+        "preview": "There are some technical topics of interest still in the NSA/Snowden/PRISM fuss. As we know, there have been (at least) two NSA programs that have been publicized recently: one program in which they c...",
+        "upvotes": 3,
+        "url": "http://pjmedia.com/lifestyle/2013/07/04/what-is-prism/?singlepage=true"
+      }
+    ]
+  }
+}

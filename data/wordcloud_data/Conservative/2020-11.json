@@ -1,0 +1,36 @@
+{
+  "month": "2020-11",
+  "total_articles": 133,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2020 US Presidential Election Results",
+      "core_keywords": ["trump", "biden", "election", "president", "vote", "republican", "democrat"],
+      "importance_ratio": 0.4586
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State Governance and COVID-19 Response",
+      "core_keywords": ["state", "covid", "coronavirus", "health", "police", "government", "school"],
+      "importance_ratio": 0.2556
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Campaign Claims and Legal Cases",
+      "core_keywords": ["campaign", "russian", "claim", "case", "money", "public", "individual"],
+      "importance_ratio": 0.0150
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Politics and Racial Discourse",
+      "core_keywords": ["trump", "biden", "american", "black", "white", "election", "political"],
+      "importance_ratio": 0.1729
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Election Ballot Count and Fraud Claims",
+      "core_keywords": ["election", "ballot", "vote", "trump", "biden", "voter", "county"],
+      "importance_ratio": 0.0977
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2020-09",
+  "total_articles": 141,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "rule",
+        "administration",
+        "wa",
+        "ha",
+        "president",
+        "global",
+        "court",
+        "white",
+        "march",
+        "coronavirus",
+        "obama",
+        "biden",
+        "case",
+        "agency"
+      ],
+      "topic_weights": [
+        1147.9547399188111,
+        444.3208695185507,
+        416.4979215598772,
+        387.39437894141906,
+        319.42183702274735,
+        165.1620778888058,
+        157.58066345610771,
+        148.3113191476223,
+        147.81248084222022,
+        146.20961044049486,
+        137.3521140491152,
+        131.3574355802833,
+        126.03063076747826,
+        121.9550947425361,
+        119.77329485848873
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "president",
+        "government",
+        "state",
+        "ha",
+        "power",
+        "police",
+        "military",
+        "officer",
+        "congress",
+        "political",
+        "coup",
+        "email",
+        "law",
+        "executive"
+      ],
+      "topic_weights": [
+        137.01564744472677,
+        110.25289106678876,
+        82.7621971034374,
+        73.93637870926123,
+        65.24800943935738,
+        65.11141223520785,
+        54.85860201880401,
+        53.28235057502572,
+        46.34862490189071,
+        45.33974592381297,
+        44.66031935903947,
+        43.946471372069794,
+        43.65713170463085,
+        43.287641442545166,
+        39.9943679885246
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "vote",
+        "election",
+        "state",
+        "ballot",
+        "voter",
+        "trump",
+        "mail",
+        "voting",
+        "win",
+        "biden",
+        "ha",
+        "national",
+        "link",
+        "electoral",
+        "point"
+      ],
+      "topic_weights": [
+        217.74115665136367,
+        216.66840407127074,
+        203.56935801788472,
+        190.1258641123693,
+        170.1661441222211,
+        135.85755101345487,
+        127.89825477411112,
+        123.66353009239839,
+        118.95060830272557,
+        110.40282372826077,
+        103.80452148701727,
+        98.94855716322546,
+        96.26168077136208,
+        95.21599800038788,
+        84.41725423476527
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "tax",
+        "million",
+        "wa",
+        "president",
+        "campaign",
+        "ha",
+        "business",
+        "income",
+        "paid",
+        "return",
+        "federal",
+        "company",
+        "money",
+        "report"
+      ],
+      "topic_weights": [
+        688.4789243956756,
+        434.07493444103756,
+        292.2249156823867,
+        249.08579900436612,
+        237.5642736383401,
+        233.11175465872952,
+        207.61586641220293,
+        168.3396089136246,
+        128.18218620010086,
+        118.30503823979463,
+        114.4679483930369,
+        105.83029906020526,
+        99.41582618694707,
+        92.31234883721415,
+        91.3424396507487
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "biden",
+        "court",
+        "ginsburg",
+        "state",
+        "justice",
+        "woman",
+        "ha",
+        "republican",
+        "democratic",
+        "senate",
+        "vote",
+        "democrat",
+        "president",
+        "trump"
+      ],
+      "topic_weights": [
+        292.9909241291004,
+        204.5012233928349,
+        187.34020713313086,
+        162.8504360993061,
+        136.91777240598643,
+        134.99869512805205,
+        127.2980544077648,
+        127.23810460626581,
+        118.45346026787755,
+        116.3675737668036,
+        114.1638338834889,
+        106.55099367373546,
+        105.18525156952337,
+        99.14493321150398,
+        96.78959132022813
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 64,
+    "1": 28,
+    "3": 20,
+    "2": 11,
+    "0": 18
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Jake Sullivan says the former vice-president, if elected, won’t ‘pull any punches’ on what is a global problem Last modified on Wed 25 Aug 2021 09.45 EDT Joe Biden will not pull any punches with allie...",
+        "upvotes": 402,
+        "url": "https://www.theguardian.com/us-news/2020/sep/07/joe-biden-if-president-will-push-allies-like-australia-to-do-more-on-climate-adviser-says"
+      },
+      {
+        "preview": "Carol Anderson is the Charles Howard Candler Professor of African American Studies at Emory University and the author of White Rage: The Unspoken Truth of Our Racial Divide and One Person, No Vote: Ho...",
+        "upvotes": 1,
+        "url": "https://time.com/4573307/donald-trump-white-rage/?amp=true&__twitter_impression=true"
+      },
+      {
+        "preview": "President Trump attempted to hold an unmasked, indoor superspreader event in Henderson, Nevada on Sunday night, running afoul of Nevada regulations and his own administration’s guidelines. (Due to mea...",
+        "upvotes": 2,
+        "url": "https://thebulwark.com/trumps-reckless-atrocious-deceitful-rally/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "HONOLULU, Hawaii () - A Hawaii Businesswoman accused of illegally influencing the Trump administration pleaded guilty in federal court on Monday. Nickie Lum Davis and others tried to get the administr...",
+        "upvotes": 35,
+        "url": "https://www.hawaiinewsnow.com/2020/09/01/hawaii-woman-pleads-guilty-foreign-lobbying-scandal/"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 323,
+        "url": "https://www.axios.com/biden-kenosha-visit-08913e67-7b61-4c03-845b-de51970ecfac.html"
+      },
+      {
+        "preview": "[This work is licensed under a creative commons attribution-sharealike 4.0 international license. Originally published in August, 2020 by Keith M. Judge in Chicago. This is a free culture license! If ...",
+        "upvotes": 1,
+        "url": "https://medium.com/the-new-cynicism/unitary-executive-and-rise-of-the-neo-federalists-1c6a9c9745e6"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Concerns about Postal Service delays and the coronavirus are setting the stage for a surge in mail-in ballots and early voting in the crucial preside...",
+        "upvotes": 1,
+        "url": "https://thehill.com/homenews/state-watch/515162-heres-the-earliest-you-can-vote-in-each-state"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News WASHINGTON — The presidential election is fast approaching, and a constellation of factors has caused experts to fear unprecedented levels of chaos a...",
+        "upvotes": 207,
+        "url": "https://www.nbcnews.com/politics/2020-election/5-things-do-keep-your-ballot-rejection-n1239375"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News COLUMBUS, Ohio — A directive that restricted Ohio counties to one ballot drop box in November was arbitrary and unreasonable, a county judge ruled Tu...",
+        "upvotes": 531,
+        "url": "https://www.nbcnews.com/politics/2020-election/ohio-judge-blows-gop-plan-allow-only-1-ballot-box-n1240191"
+      }
+    ],
+    "3": [
+      {
+        "preview": "WASHINGTON (AP) — The number of laid-off Americans applying for unemployment benefits fell to a still-elevated 881,000 last week, evidence that the viral pandemic keeps forcing many businesses to slas...",
+        "upvotes": 0,
+        "url": "https://apnews.com/beb399767fd46f7264b43e07bf1cfeec"
+      },
+      {
+        "preview": "Advertisement Supported by A privately owned entity created by the Export-Import Bank allows its customers to also be its owners. By Veronique de Rugy Ms. de Rugy is a senior research fellow at the Me...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/09/04/opinion/pefco-export-import-bank.html"
+      },
+      {
+        "preview": "ic consumed our states. They’re quickly fulfilling the narratives of prophetic fiction like H.G. Well’s The Time Machine, and are devolving into an underground hominid species. The global, shelter net...",
+        "upvotes": 1,
+        "url": "https://medium.com/the-new-cynicism/the-death-cult-robs-then-kills-the-taxpayers-f11e0c261f21"
+      }
+    ],
+    "4": [
+      {
+        "preview": "We, the undersigned petitioners deplore both the appearance and practice of racism within the Jewish community in general and the actions of Mr David Strauss who wrongfully terminated the membership o...",
+        "upvotes": 1,
+        "url": "http://chng.it/CZcPsQS49X"
+      },
+      {
+        "preview": "Advertisement Supported by The fund-raising total would exceed previous monthly hauls and is more than double what the former vice president raised in July. By Shane Goldmacher Joseph R. Biden Jr. is ...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/09/01/us/politics/biden-trump-fundraising-election.html"
+      },
+      {
+        "preview": "Advertisement Supported by Fact Check The president has wrongly claimed credit for sending in the National Guard. He has also made misleading assertions in attacking his Democratic rival, Joseph R. Bi...",
+        "upvotes": 8,
+        "url": "https://www.nytimes.com/2020/09/01/us/politics/trump-fact-check-protests.html?action=click&module=Top%20Stories&pgtype=Homepage"
+      }
+    ]
+  }
+}

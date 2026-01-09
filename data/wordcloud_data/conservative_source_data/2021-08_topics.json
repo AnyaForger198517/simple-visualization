@@ -1,0 +1,285 @@
+{
+  "month": "2021-08",
+  "total_articles": 49,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "covid",
+        "state",
+        "ha",
+        "wa",
+        "vaccine",
+        "news",
+        "gun",
+        "case",
+        "china",
+        "world",
+        "conservative",
+        "test",
+        "business",
+        "law",
+        "company"
+      ],
+      "topic_weights": [
+        96.58652014298423,
+        58.49928878085252,
+        58.02703436669105,
+        49.97256960911494,
+        41.95541976665838,
+        37.668503627696296,
+        35.027232253492535,
+        32.75252464147931,
+        31.927869612404585,
+        30.9580993096993,
+        30.387241532387208,
+        29.85704057727981,
+        29.09794034580331,
+        28.284900898955424,
+        28.25522375278192
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "county",
+        "federal",
+        "july",
+        "ha",
+        "variant",
+        "wa",
+        "government",
+        "delta",
+        "review",
+        "united",
+        "little",
+        "election",
+        "pennsylvania",
+        "official"
+      ],
+      "topic_weights": [
+        65.8756188118283,
+        32.889610909055826,
+        26.35569114273065,
+        24.83544601360932,
+        24.44180511924856,
+        22.575592661875717,
+        18.248391991322208,
+        17.425016561131322,
+        17.168520997912104,
+        16.786702128787194,
+        15.80839568578244,
+        15.562145747534577,
+        14.598950664923256,
+        14.218521635329452,
+        13.056688832156555
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "woman",
+        "wa",
+        "cuomo",
+        "muslim",
+        "ha",
+        "iran",
+        "right",
+        "attack",
+        "state",
+        "help",
+        "trans",
+        "movement",
+        "governor",
+        "mother",
+        "thought"
+      ],
+      "topic_weights": [
+        46.73003758282754,
+        43.44031236124238,
+        41.31338092650832,
+        31.87808941395165,
+        29.78487544324392,
+        26.207519613650017,
+        26.182187059237187,
+        21.249161450442777,
+        21.07986525742374,
+        20.714525791284576,
+        18.930359189357688,
+        17.783480489915277,
+        17.498044698659548,
+        16.97433017606428,
+        15.11134022250069
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "biden",
+        "ha",
+        "house",
+        "mask",
+        "pelosi",
+        "county",
+        "texas",
+        "democrat",
+        "american",
+        "woman",
+        "campaign",
+        "moratorium",
+        "ballot",
+        "harris"
+      ],
+      "topic_weights": [
+        98.8163550429442,
+        63.11640846049497,
+        48.83284324573594,
+        32.51425932667719,
+        32.178206603109345,
+        30.08415980182062,
+        28.285547812075368,
+        23.32497314615384,
+        23.245106478443052,
+        23.06378001514311,
+        22.252598841783627,
+        22.184299374657456,
+        22.108769582771544,
+        19.61557204571518,
+        19.53676077239451
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "identity",
+        "problem",
+        "politics",
+        "ha",
+        "power",
+        "political",
+        "group",
+        "work",
+        "joke",
+        "pandemic",
+        "vaccinated",
+        "blame",
+        "social",
+        "did",
+        "matter"
+      ],
+      "topic_weights": [
+        44.655321881620246,
+        36.67557903084928,
+        33.912165001845366,
+        21.529542828258393,
+        20.593221625869795,
+        19.928811962822238,
+        16.477466825635588,
+        15.503588037680212,
+        15.21561938993249,
+        13.890050338623249,
+        12.913993656855407,
+        11.938937631608367,
+        11.759924362160756,
+        11.298516060320608,
+        11.00337736704404
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 17,
+    "0": 14,
+    "1": 6,
+    "2": 8,
+    "4": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Alex Berenson is a former reporter for the New York Times, as well as a NYT Bestselling Author, who has been utterly vilified by the left over the past few years for the crime of openly challenging nu...",
+        "upvotes": 81,
+        "url": "https://michaelrossgreenberg.com/2021/07/31/censored-a-6-sentence-summary-of-the-va%e1%ba%8d-report-that-got-former-nyt-reporter-alex-berenson-suspended-from-twitter/"
+      },
+      {
+        "preview": "What Price Covid? How much has the Covid-19 pandemic cost the United States? A lot. And if, in fact, the People’s Republic of China (PRC) is responsible for the virus, then maybe the PRC should be lia...",
+        "upvotes": 124,
+        "url": "https://www.breitbart.com/health/2021/07/31/pinkerton-the-case-for-demanding-covid-19-reparations-from-communist-china/"
+      },
+      {
+        "preview": "WASHINGTON, Aug 1 () - The United States will not lock down again to curb COVID-19 but \"things are going to get worse\" as the Delta variant fuels a surge in cases, mostly among the unvaccinated, top U...",
+        "upvotes": 1,
+        "url": "https://www.reuters.com/world/us/fauci-predicts-us-will-not-return-lockdowns-despite-delta-variant-risks-2021-08-01/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "By: Amanda Bowers|Published on: Jul 28, 2021|Categories: Federal Review, State Bills| LITTLE ROCK, Ark. (July 28, 2021) – Today, an Arkansas law went into effect that creates a mechanism to review pre...",
+        "upvotes": 532,
+        "url": "https://blog.tenthamendmentcenter.com/2021/07/now-in-effect-arkansas-law-creats-process-to-review-and-reject-presidential-executive-orders/"
+      },
+      {
+        "preview": "Follow Us National Review Twenty Years Ago, the World Changed New Chinese Ambassador Snaps at U.S.: ‘Please Shut Up’ The Collapse of Biden’s China Doctrine ‘The World Will Never Be the Same’ Searching...",
+        "upvotes": 9,
+        "url": "https://www.nationalreview.com/2021/08/a-revolt-in-cuba/"
+      },
+      {
+        "preview": "Left-wing documentary filmmaker Ken Burns went from praising failed Georgia gubernatorial candidate Stacey Abrams to reportedly blasting Facebook founder Mark Zuckerberg as an “enemy of the state” who...",
+        "upvotes": 1,
+        "url": "https://www.breitbart.com/entertainment/2021/08/03/ken-burns-blast-mark-zuckerberg-as-an-enemy-of-the-state/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Comic book artist Frank Miller, whose credits include Batman: The Dark Knight Returns and Sin City, was all set to appear at the Thought Bubble Yorkshire Comic Art Festival this November in England; i...",
+        "upvotes": 1,
+        "url": "https://pjmedia.com/culture/robert-spencer/2021/07/31/batman-cartoonist-frank-miller-canceled-from-comic-convention-for-anti-muslim-hate-n1466198"
+      },
+      {
+        "preview": "Helen Joyce on the problem with gender self-identification. The transgender movement is becoming increasingly dogmatic. The assertion that ‘trans women are women’ is everywhere. Meanwhile, the threat ...",
+        "upvotes": 1,
+        "url": "https://www.spiked-online.com/2021/08/03/the-trans-movement-wants-to-take-away-womens-rights/"
+      },
+      {
+        "preview": "Screenshot/Fox News New York Attorney General Letitia James said Tuesday that an independent investigation found Democratic New York Gov. Andrew Cuomo had sexually harassed multiple women. James, also...",
+        "upvotes": 505,
+        "url": "https://dailycaller.com/2021/08/03/new-york-attorney-general-letitia-james-andrew-cuomo-sexually-harassment-women/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "International Olympic Committee (IOC) medical and science director Dr. Richard Budgett has claimed that “everyone agrees that trans women are women” and praised 42-year-old New Zealand transgender wei...",
+        "upvotes": 1,
+        "url": "https://www.dailywire.com/news/olympic-medical-and-science-director-says-everyone-agrees-trans-women-are-women-praises-trans-weightlifter"
+      },
+      {
+        "preview": "House Minority Leader Kevin McCarthy (R-CA) will prioritize investigating Democrat “fraud and abuse” if Republicans win back the House in next year’s midterms and he takes the speakership, he told hos...",
+        "upvotes": 23,
+        "url": "https://www.breitbart.com/midterm-election/2021/07/31/exclusive-leader-kevin-mccarthy-vows-to-have-real-investigations-into-democrat-fraud-and-abuse-if-gop-retakes-majority/"
+      },
+      {
+        "preview": "House Speaker Nancy Pelosi (D-CA) has been caught without a mask numerous times in the U.S. Capitol after the return of a mask mandate and threatening anyone who opposes — even those who are vaccinate...",
+        "upvotes": 1207,
+        "url": "https://www.breitbart.com/politics/2021/07/31/nancy-pelosi-maskless-masks-capitol/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Trigger Warning – If you are triggered by anything in this article, including this trigger warning, then you are a humorless cretin. There is a saying in humor that if you have to explain a joke that ...",
+        "upvotes": 19,
+        "url": "https://www.americanthinker.com/articles/2021/08/theyre_coming_for_you__and_nobodys_laughing.html"
+      },
+      {
+        "preview": "Some Albertans who received the AstraZeneca-Oxford vaccine are having to cancel their international travel plans, again. Several countries and tour operators, including many cruise lines, don't recogn...",
+        "upvotes": 16,
+        "url": "https://www.cbc.ca/news/canada/calgary/alberta-vaccine-travel-1.6128470"
+      },
+      {
+        "preview": "Ailan Evans A Black Lives Matter group demanded the resignation Tuesday of the Rhode Island Democratic Party chief political strategist after she tweeted disparaging remarks about Sen. Lindsey Graham....",
+        "upvotes": 22,
+        "url": "https://www.tampafp.com/blm-group-defends-lindsey-graham-calls-for-resignation-of-democratic-party-official/"
+      }
+    ]
+  }
+}

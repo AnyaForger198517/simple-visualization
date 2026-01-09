@@ -1,0 +1,285 @@
+{
+  "month": "2018-11",
+  "total_articles": 176,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "white",
+        "wa",
+        "american",
+        "black",
+        "house",
+        "trump",
+        "comment",
+        "court",
+        "candidate",
+        "history",
+        "group",
+        "ha",
+        "charter",
+        "jewish",
+        "amendment"
+      ],
+      "topic_weights": [
+        134.37029646808256,
+        94.45737525065333,
+        81.29553424797587,
+        78.43011912958066,
+        67.60162151385978,
+        64.56753100098334,
+        61.58991613275133,
+        60.75728736158751,
+        59.46363652696166,
+        57.79098849988435,
+        56.92752843568225,
+        56.219402491310206,
+        53.96486092549338,
+        53.78231581871681,
+        53.0650931872646
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "mueller",
+        "manafort",
+        "ha",
+        "biden",
+        "president",
+        "campaign",
+        "state",
+        "stone",
+        "cohen",
+        "court",
+        "report",
+        "news",
+        "russian"
+      ],
+      "topic_weights": [
+        1254.3381401041886,
+        700.9153994826908,
+        497.41660341112106,
+        484.5855475526415,
+        455.14062199928014,
+        279.9410738192967,
+        231.57582260387514,
+        201.68559172463458,
+        188.48109932861973,
+        169.69801648148177,
+        164.55741866803385,
+        164.02912849592377,
+        162.52707797343115,
+        155.72956974767908,
+        148.5984415709756
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ha",
+        "wa",
+        "trump",
+        "state",
+        "country",
+        "american",
+        "america",
+        "change",
+        "life",
+        "administration",
+        "government",
+        "report",
+        "student",
+        "credit",
+        "strike"
+      ],
+      "topic_weights": [
+        214.58687403629503,
+        197.00309144291262,
+        146.62244712132298,
+        115.36495113375868,
+        109.06880178936761,
+        105.8593024313868,
+        102.76203202097258,
+        102.665532880548,
+        100.10543851707747,
+        97.23863992578366,
+        93.15169149251008,
+        92.43251311931789,
+        91.69297743555228,
+        90.73447151550239,
+        86.26395986842374
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "whitaker",
+        "president",
+        "trump",
+        "election",
+        "justice",
+        "session",
+        "county",
+        "attorney",
+        "state",
+        "ha",
+        "senate",
+        "general",
+        "ballot",
+        "vote"
+      ],
+      "topic_weights": [
+        101.5030881231966,
+        93.44289467670853,
+        91.42785151067069,
+        90.45329698836356,
+        84.57036716409785,
+        80.20053552289812,
+        79.2963966871581,
+        75.2322982793545,
+        73.08600615129068,
+        68.0323105985924,
+        67.23062911618503,
+        64.68977933514907,
+        62.824329206183094,
+        60.57715358769248,
+        58.27511757033096
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "democrat",
+        "republican",
+        "voter",
+        "trump",
+        "woman",
+        "democratic",
+        "party",
+        "election",
+        "state",
+        "percent",
+        "vote",
+        "house",
+        "ha",
+        "candidate",
+        "group"
+      ],
+      "topic_weights": [
+        453.0381977611756,
+        445.8546120136797,
+        429.2311692673177,
+        295.6731439270612,
+        257.0024493897102,
+        250.30210664065453,
+        236.67162060744582,
+        226.20246402050705,
+        201.70663890427326,
+        194.18858907889663,
+        172.68906844921122,
+        163.68309307235708,
+        163.22600318934118,
+        159.1119533760681,
+        149.0069466182083
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 42,
+    "2": 49,
+    "1": 41,
+    "3": 30,
+    "0": 14
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Texas Republican Rep. Joe Barton, under fire for lewd behavior, announced Thursday he will not seek re-election next year. Barton, 68, who exchanged nude photos with one woman and sent sexually sugges...",
+        "upvotes": 13,
+        "url": "https://www.cnbc.com/2017/11/30/republican-rep-joe-barton-to-retire-following-nude-photo-scandal.html?fbclid=IwAR3PNJwrmytKzpLbltQaB5PFN8ziJ9-_9t7jI_KbCE-nt4ObcTeJkdR2mGg"
+      },
+      {
+        "preview": "Several Fox News reporters and senior network employees say they’re disturbed with Sean Hannity‘s Monday night rallying for President Trump ahead of the midterm elections. CNN’s Oliver Darcy reached o...",
+        "upvotes": 7,
+        "url": "https://www.mediaite.com/online/fox-news-employees-reportedly-livid-over-hannity-pirro-campaigning-for-trump-i-am-so-fcking-mad/"
+      },
+      {
+        "preview": "SEARCH Identity Evropa’s Patrick Casey said he came to the White House to “pay my respects.” Politics Reporter Senior Political Reporter The leader of a white nationalist group whose members marched i...",
+        "upvotes": 1,
+        "url": "https://www.thedailybeast.com/a-white-nationalist-leader-just-posted-pics-from-his-white-house-visit?via=desktop&source=Reddit"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Collins: “I cover crooked weird stuff all the time. This is like the most transparently bad thing I've seen in a very long time” Written by Media Matters Staff Published 10/30/18 10:26 PM EDT Share Co...",
+        "upvotes": 4,
+        "url": "https://www.mediamatters.org/video/2018/10/30/watch-rachel-maddow-and-nbcs-ben-collins-explain-idiotic-attempt-smear-mueller-pro-trump-twitter-kid/221941"
+      },
+      {
+        "preview": "CNN took a stand on President Donald Trump‘s anti-immigration ad by refusing to allow it on the air and deeming it racist, but the network’s Brian Stelter appeared to be on the fence when it came to a...",
+        "upvotes": 0,
+        "url": "https://www.mediaite.com/tv/brian-stelter-spars-with-guest-over-calling-trump-racist-youre-going-pretty-far-there/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Democrats shouldn’t bet on abortion in 2022 Feebleminded Joe Biden’s impact on America’s allies Biden’s ‘America last’ agenda One of Justice Brett M. Kavanaugh’s accusers ad...",
+        "upvotes": 0,
+        "url": "https://www.washingtontimes.com/news/2018/nov/3/another-kavanaugh-accuser-admits-fabricating-rape-/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Editor's note: Lyle H. Rossiter, Jr., M.D., has diagnosed and treated more than 1,500 patients as a board-certified clinical psychiatrist and examined more than 2,700 civil and criminal ...",
+        "upvotes": 0,
+        "url": "https://www.wnd.com/2018/09/psychiatrist-trump-derangement-syndrome-is-real-and-serious/"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. Sen. Bernie Sanders (I-...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/views/2018/10/30/time-tax-billionaire-wealth-dynasties"
+      },
+      {
+        "preview": "Back in May, Netflix signed a massive deal with Barack and Michelle Obama bringing them on-board to produce a slate of shows for the streaming ser. Now, six months later, it looks like they might have...",
+        "upvotes": 10,
+        "url": "https://www.vice.com/en_us/article/pa97bz/the-obamas-first-netflix-show-might-be-about-trumps-incompetent-government-vgtrn"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Democratic Sen. Joe Donnelly of Indiana suggested Tuesday evening that he was open to ending birthright citizenship for children of immigrants, a policy that President Donald Trump is pushing ahead of...",
+        "upvotes": 0,
+        "url": "https://www.huffingtonpost.com/entry/joe-donnelly-trump-birthright-citizenship_us_5bd9cf6ae4b019a7ab5960a5"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News As he stood among the mothers, children and LGBT youths who had been walking through Mexico on their way to the U.S. border, Rodrigo Abeja found it h...",
+        "upvotes": 1,
+        "url": "https://www.nbcnews.com/news/latino/who-s-behind-migrant-caravan-drew-trump-s-ire-n862566"
+      },
+      {
+        "preview": "PENSACOLA, Fla. ― Donald Trump keeps claiming that construction on his promised “great wall” is well underway although not a single yard of it has been built, and his supporters are getting mad ― not ...",
+        "upvotes": 50,
+        "url": "https://www.huffingtonpost.com/entry/trump-wall-lies_us_5bddf9e7e4b09d43e31f6c93"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Candidates running for federal office in Nevada are raising and spending millions upon millions of dollars in what has been the most expensive midterm election in U.S. history. CARSON CITY — Candidate...",
+        "upvotes": 10,
+        "url": "https://www.reviewjournal.com/news/politics-and-government/nevada/outside-money-pouring-into-nevada-campaigns/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved In the print edition of this week’s Hollywood Reporter, I took out a full-page ad titled “Hollywood rises for hope against fear.” Across America, fro...",
+        "upvotes": 93,
+        "url": "https://thehill.com/opinion/campaign/414253-from-hollywood-to-main-street-americans-rise-against-hate"
+      },
+      {
+        "preview": "Oct. 31, 2018, at 1:07 PM By Geoffrey Skelley Filed under 2018 Election PHOTO ILLUSTRATION BY  / GETTY IMAGES Welcome to our Election Update for Wednesday, Oct. 31 — we are now less than one week from...",
+        "upvotes": 4,
+        "url": "https://fivethirtyeight.com/features/governors-update-new-polls-in-georgia-and-ohio-show-really-tight-races/"
+      }
+    ]
+  }
+}

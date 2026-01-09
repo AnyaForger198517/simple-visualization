@@ -1,0 +1,285 @@
+{
+  "month": "2017-12",
+  "total_articles": 141,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "wa",
+        "moore",
+        "senate",
+        "ha",
+        "democrat",
+        "state",
+        "jones",
+        "alabama",
+        "vote",
+        "voter",
+        "trump",
+        "gop",
+        "election",
+        "party"
+      ],
+      "topic_weights": [
+        183.8232943138714,
+        157.32835707696526,
+        117.80650009366235,
+        100.77657557064492,
+        100.13851024244389,
+        97.94566003954755,
+        92.89799276884614,
+        88.97550128801979,
+        79.92498385367558,
+        78.32152355534495,
+        76.40771387988026,
+        71.43384252384898,
+        63.352392589912654,
+        61.72636965553477,
+        60.36993281852384
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "rule",
+        "administration",
+        "action",
+        "obama",
+        "care",
+        "regulation",
+        "policy",
+        "health",
+        "state",
+        "point",
+        "million"
+      ],
+      "topic_weights": [
+        721.0706248581389,
+        389.89380902720325,
+        357.6961733779509,
+        275.416389583792,
+        214.0000416394694,
+        183.530702123972,
+        162.7693872563609,
+        151.62259903040118,
+        134.88429818154813,
+        128.91961519479972,
+        126.6038367801939,
+        121.18375065717187,
+        118.32248816965972,
+        104.4184836773325,
+        97.67004344761634
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "cut",
+        "percent",
+        "ha",
+        "american",
+        "trump",
+        "job",
+        "republican",
+        "income",
+        "money",
+        "house",
+        "spending",
+        "law",
+        "plan",
+        "america"
+      ],
+      "topic_weights": [
+        417.1121020300995,
+        173.43561047906914,
+        134.29803154143798,
+        119.20180082466337,
+        97.82825355934419,
+        90.42840014452591,
+        77.57758417730034,
+        71.78384475525,
+        67.03584736769372,
+        62.11133850487079,
+        61.515428381264464,
+        61.092624520472526,
+        60.5694176543365,
+        55.71948186389912,
+        53.39773277594299
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "worker",
+        "wa",
+        "power",
+        "tip",
+        "world",
+        "state",
+        "country",
+        "employer",
+        "union",
+        "trump",
+        "law",
+        "employee",
+        "paul",
+        "party",
+        "white"
+      ],
+      "topic_weights": [
+        184.44775879402232,
+        137.11318230777977,
+        105.29635177714619,
+        104.22929509392978,
+        102.28689867672645,
+        93.92903493966745,
+        88.2608173104473,
+        87.24796931069436,
+        81.57283678695208,
+        73.89156469048943,
+        70.87662618567748,
+        70.72716423316803,
+        70.13613693208657,
+        69.61604207298048,
+        61.362005117784996
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "student",
+        "wa",
+        "state",
+        "court",
+        "college",
+        "school",
+        "case",
+        "black",
+        "woman",
+        "police",
+        "white",
+        "rape",
+        "right",
+        "law",
+        "sexual"
+      ],
+      "topic_weights": [
+        315.99451527778524,
+        303.5107373583448,
+        194.90674108104182,
+        173.8398475677102,
+        169.59096897707866,
+        165.71619682939516,
+        145.1264858217606,
+        125.0979953125045,
+        118.19339145107016,
+        116.26104723229945,
+        113.67352880793622,
+        113.6170487565491,
+        110.85326166103773,
+        101.56332150715505,
+        100.74220964873629
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 40,
+    "1": 37,
+    "2": 36,
+    "4": 11,
+    "3": 17
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Great nations and proud democracies fall when their systems become so corrupted that the decay is not even noticed — or the rot is written off as a normal part of politics. President Trump has created...",
+        "upvotes": 17,
+        "url": "https://www.washingtonpost.com/opinions/our-political-foundation-is-rotting-away/2017/11/29/173a497c-d54d-11e7-b62d-d9345ced896d_story.html?hpid=hp_no-name_opinion-card-f%3Ahomepage%2Fstory"
+      },
+      {
+        "preview": "Front page layout Site theme Sign up or login to join the discussions! Sean Gallagher - Nov 30, 2017 8:28 pm UTC North Korea's latest intercontinental ballistic missile test demonstrates a number of t...",
+        "upvotes": 29,
+        "url": "https://arstechnica.com/tech-policy/2017/11/latest-north-korean-icbm-capable-of-reaching-us-so-now-what/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 1,
+        "url": "https://www.buzzfeed.com/matthewzeitlin/senate-republicans-just-passed-a-massive-tax-bill-in-the?utm_term=.booDX9vwB#.iqDYVL5wE"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Impeaching an unfit president has consequences. But leaving one in office could be worse. In recent months, I have grown obsessed with a seemingly simple question: Does the American political system h...",
+        "upvotes": 1,
+        "url": "https://www.vox.com/2017/11/30/16517022/impeachment-donald-trump"
+      },
+      {
+        "preview": "Featured Shows  TV More More Shows Follow  More Brands More Shows For months, the nation has faced the very real possibility that Donald Trump obstructed justice in the federal investigation into the ...",
+        "upvotes": 21,
+        "url": "http://www.msnbc.com/rachel-maddow-show/trump-faces-new-obstruction-allegations-russia-scandal"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. Robert Mueller, the special counsel appointed to investigate crimes associate...",
+        "upvotes": 1,
+        "url": "http://nymag.com/daily/intelligencer/2017/12/flynn-charge-shows-mueller-is-still-only-getting-started.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Supporters of the Republican tax plan claim that business tax cuts, including cutting corporate tax rates and immediate expensing of non-structure investments will increase U.S. business investment an...",
+        "upvotes": 3,
+        "url": "http://www.epi.org/blog/republican-tax-plan-will-reduce-american-competitiveness/"
+      },
+      {
+        "preview": "Dec. 2, 2017, at 8:56 AM By Perry Bacon Jr. Filed under Taxes J. Scott Applewhite / AP Friday was really bad for the Republican Party in that President Trump’s one-time national security adviser Micha...",
+        "upvotes": 14,
+        "url": "https://fivethirtyeight.com/features/the-gop-takes-a-big-step-towards-passing-a-big-policy-goal/"
+      },
+      {
+        "preview": "Senator Orrin Hatch (R-Utah) is defending a children’s health care program he helped create, but if the federal deficit balloons by at least $1 trillion as predicted under the Republican tax plan he’s...",
+        "upvotes": 6,
+        "url": "https://thinkprogress.org/hatch-chip-help-themselves-05e0cac2e3df/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. This past week was, in some ways, the most potent distillation of the Trump e...",
+        "upvotes": 1,
+        "url": "http://nymag.com/daily/intelligencer/2017/12/andrew-sullivan-america-is-trapped-in-trumps-delusions.html"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 2,
+        "url": "https://www.axios.com/mckinsey-automation-may-throw-800m-people-out-of-work-by-2030-2513416488.html"
+      },
+      {
+        "preview": "Some of Trump’s tweets generate more national coverage than devastating disasters. As the weather gets worse, we need journalism to get better Last modified on Wed 25 Aug 2021 09.53 EDT Which story di...",
+        "upvotes": 22,
+        "url": "https://www.theguardian.com/commentisfree/2017/dec/07/climate-change-media-coverage-media-matters?CMP=Share_iOSApp_Other"
+      }
+    ],
+    "4": [
+      {
+        "preview": "If Rex Tillerson is replaced, one barrier keeping the president in check will fall away. When the President of the United States retweets crude anti-Muslim videos posted by Jayda Fransen, a neo-fascis...",
+        "upvotes": 5,
+        "url": "https://www.theatlantic.com/international/archive/2017/11/pompeo-trump-tillerson/547217/"
+      },
+      {
+        "preview": "Dec. 5, 2017, at 6:00 AM By Amelia Thomson-DeVeaux Filed under Supreme Court PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES The next broadside in the culture wars arrives on the Supreme Court’s do...",
+        "upvotes": 5,
+        "url": "https://fivethirtyeight.com/features/the-christian-right-has-a-new-strategy-on-gay-marriage/"
+      },
+      {
+        "preview": "Jonathan Ernst/Reuters On Tuesday, the Supreme Court heard arguments in Masterpiece Cakeshop v. Colorado Civil Rights Commission, a case that centers on an anti-gay baker in Colorado who claims a Firs...",
+        "upvotes": 5,
+        "url": "http://www.slate.com/articles/news_and_politics/jurisprudence/2017/12/neil_gorsuch_s_radical_first_amendment_theory_could_sabotage_civil_rights.html"
+      }
+    ]
+  }
+}

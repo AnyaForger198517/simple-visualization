@@ -1,0 +1,285 @@
+{
+  "month": "2018-03",
+  "total_articles": 213,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "student",
+        "school",
+        "wa",
+        "black",
+        "white",
+        "ha",
+        "law",
+        "gun",
+        "culture",
+        "class",
+        "fact",
+        "point",
+        "racist",
+        "college",
+        "state"
+      ],
+      "topic_weights": [
+        416.074634048452,
+        385.0804437537339,
+        362.25605713904577,
+        326.50020458485994,
+        318.075583840782,
+        250.72072631168325,
+        206.32584383838972,
+        148.50471527452046,
+        144.627765365761,
+        142.58772835938376,
+        130.31441038554775,
+        121.75319640039092,
+        114.59323909459332,
+        114.09138109650317,
+        112.49755383399878
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "trump",
+        "wa",
+        "democrat",
+        "ha",
+        "president",
+        "republican",
+        "house",
+        "government",
+        "debt",
+        "law",
+        "tax",
+        "party",
+        "federal",
+        "spending"
+      ],
+      "topic_weights": [
+        246.59823285155636,
+        229.0522518103861,
+        155.41162051692856,
+        149.57207689345856,
+        148.13536927191635,
+        126.16143336907713,
+        124.38478734293918,
+        120.16028270336652,
+        109.64331936512056,
+        107.44541832464847,
+        99.24505162907843,
+        96.65186861423747,
+        91.70828578510788,
+        88.94383137572301,
+        82.6367790219239
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "gun",
+        "amendment",
+        "march",
+        "hollywood",
+        "state",
+        "getty",
+        "mike",
+        "trump",
+        "cia",
+        "haspel",
+        "life",
+        "email",
+        "afp"
+      ],
+      "topic_weights": [
+        89.00884990954798,
+        61.29192803795692,
+        58.296348323911445,
+        54.719373977218964,
+        53.515637936932755,
+        52.25367679586262,
+        50.67061681022518,
+        48.7858567827334,
+        45.322334759538755,
+        44.05426630175798,
+        42.82525362272957,
+        37.368944535525245,
+        36.38434714476758,
+        35.64029720913466,
+        35.32586210876515
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "medium",
+        "news",
+        "trump",
+        "woman",
+        "ha",
+        "president",
+        "white",
+        "gun",
+        "advertisement",
+        "story",
+        "twitter",
+        "research",
+        "fox",
+        "cnn"
+      ],
+      "topic_weights": [
+        267.25526151949003,
+        186.73011111800136,
+        171.74624787222027,
+        164.71301764953648,
+        134.0917541118526,
+        108.42031531903756,
+        102.85459574425134,
+        102.10402600384302,
+        92.05326085585189,
+        90.64792603983767,
+        74.94405028122074,
+        73.95056034578616,
+        70.9974484904075,
+        69.0564321104244,
+        69.00669831777267
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "state",
+        "china",
+        "president",
+        "voter",
+        "american",
+        "trade",
+        "hour",
+        "white",
+        "percent",
+        "election",
+        "world",
+        "khan"
+      ],
+      "topic_weights": [
+        285.56960321199557,
+        225.06381136867262,
+        183.7460157807626,
+        118.73789166321993,
+        110.14526452257496,
+        106.05164482481966,
+        105.37604460535331,
+        104.80394009251036,
+        98.61482258874634,
+        95.49338077313503,
+        87.92979787793918,
+        82.64777519519677,
+        82.6229734210531,
+        81.81987639590008,
+        78.06640771427622
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 54,
+    "3": 55,
+    "1": 47,
+    "2": 17,
+    "4": 40
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Rod Thomson Some of the highest profile ills poisoning American society have the same root cause: closing state mental institutions in favor of out-patient community health centers — not shocking to m...",
+        "upvotes": 0,
+        "url": "https://therevolutionaryact.com/solution-mass-shootings-homelessness/"
+      },
+      {
+        "preview": "LGBTQ activist Mark Purpura tried defending a new proposal in Delaware on “Tucker Carlson Tonight” Wednesday that would allow children, through the assistance of their school, to change their gender o...",
+        "upvotes": 2,
+        "url": "http://dailycaller.com/2018/02/28/tucker-kids-change-gender-race-parents/"
+      },
+      {
+        "preview": "Actor George Takei of Star Trek fame should be awarded a prize for tweeting the most imbecilic comments about gun control this week. His tweet about the NRA selling guns is so stupid, it’s hard not to...",
+        "upvotes": 7,
+        "url": "https://pjmedia.com/trending/george-takei-steps-tweets-gun-control-2/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "I thought the only options on the table were Trump firing Sessions or Sessions continuing in the job while silently absorbing sporadic public abuse from his boss. It didn’t occur to me that there migh...",
+        "upvotes": 2,
+        "url": "https://hotair.com/archives/2018/02/28/sessions-hits-back-trump-ill-continue-discharge-duties-integrity-honor"
+      },
+      {
+        "preview": "Not surprisingly, the South African Parliament, which is dominated by the Marxist African National Congress (ANC), voted on Tuesday to confiscate without compensation all of the land owned by white fa...",
+        "upvotes": 330,
+        "url": "https://www.cnsnews.com/blog/michael-w-chapman/marxism-again-south-african-parliament-votes-seize-land-white-farmers"
+      },
+      {
+        "preview": "A Democratic Pennsylvania mayor faces decades in prison after he was convicted on nearly 50 charges of corruption in court Thursday. Allentown Mayor Ed Pawlowski was found guilty on 47 of the 54 charg...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2018/03/02/pennsylvania-dem-mayor-faces-decades-corruption/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 11,
+        "url": "https://www.axios.com/swing-states-back-trump-on-trade-1519905990-6cdf7d45-eb60-481f-9fd7-16179b470363.html"
+      },
+      {
+        "preview": "Your account has been created Experts believe increased levels of online suppression are sign Xi Jinping hopes to become dictator for life Find your bookmarks in your  Premium section, under my profil...",
+        "upvotes": 59,
+        "url": "http://www.independent.co.uk/news/world/asia/china-animal-farm-ban-censorship-george-orwell-xi-jinping-power-letter-n-a8235071.html"
+      },
+      {
+        "preview": "Trending: HOLLYWOOD, CA - MARCH 04: Host Jimmy Kimmel speaks onstage during the 90th Annual Academy Awards at the Dolby Theatre at Hollywood & Highland Center on March 4, 2018 in Hollywood, California...",
+        "upvotes": 10,
+        "url": "https://www.mercurynews.com/2018/03/06/the-anti-trump-oscars-were-a-ratings-disaster-and-conservatives-are-delighted/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "\"I will miss having her by my side,\" President Donald Trump said. White House communications director Hope Hicks under increased scrutiny — -- Hope Hicks, President Donald Trump's longest-serving aide...",
+        "upvotes": 47,
+        "url": "http://abcnews.go.com/Politics/white-house-aide-hope-hicks-resign-sources/story?id=53424070"
+      },
+      {
+        "preview": "NEW YORK (AP) — Columnist Michael Gerson and commentator Amy Holmes are teaming to start a conservative-oriented talk show on PBS that takes its cue from William F. Buckley’s “Firing Line,” which aire...",
+        "upvotes": 5,
+        "url": "https://www.apnews.com/caaf8e2edbd447b99f08b96d9b879e9e"
+      },
+      {
+        "preview": "UPDATE: Sorry, folks—I forgot to mention that Trump said he would look at Sen. Dianne Feinstein’s (D-CA) ban on so-called assault weapons. Is he open to it? That appeared to be the case when he sugges...",
+        "upvotes": 92,
+        "url": "https://townhall.com/tipsheet/mattvespa/2018/02/28/trumps-meeting-with-congress-on-gun-control-was-a-total-disaster-n2455729"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Username or email Password Keep me signed in until I sign out September 15, 2021 September 13, 2021 September 10, 2021 September 9, 2021 September 6, 2021 December 8, 2020 September 26, 2020 September...",
+        "upvotes": 1,
+        "url": "https://tsarizm.com/analysis/2018/03/01/putin-shows-worries-us-rearming-nuclear-comments/"
+      },
+      {
+        "preview": "\"Remember how American engagement with China was going to make that communist backwater more like the democratic, capitalist West?\" asked Charles Lane in his opening sentence. America's elites believe...",
+        "upvotes": 1,
+        "url": "http://www.vdare.com/articles/patrick-j-buchanan-fatal-delusions-of-western-man?utm_source=3%2F5%2F2018&utm_campaign=UA-18706545-2+&utm_medium=email"
+      },
+      {
+        "preview": "Well, the Tariff Terror was short-lived when it comes to the stock market. The Dow shot up 336 points on Monday, with another 150+ points in Tuesday’s pre-market futures. The breaking news of North Ko...",
+        "upvotes": 12,
+        "url": "https://grayseconomy.com/2018/03/06/trumps-winning-but-scorekeepers-give-no-credit/"
+      }
+    ]
+  }
+}

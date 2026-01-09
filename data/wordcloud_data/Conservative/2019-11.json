@@ -1,0 +1,36 @@
+{
+  "month": "2019-11",
+  "total_articles": 107,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Judicial Nominees and Public Policy Debates",
+      "core_keywords": ["nominee", "committee", "public", "trump", "president", "fair", "housing"],
+      "importance_ratio": 0.2523
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Presidency and Partisan Support",
+      "core_keywords": ["trump", "president", "republican", "conservative", "biden", "government", "american"],
+      "importance_ratio": 0.1682
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Impeachment and Election Politics",
+      "core_keywords": ["trump", "impeachment", "president", "election", "democrat", "biden", "house"],
+      "importance_ratio": 0.3458
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Tax Policy and Social Issues",
+      "core_keywords": ["tax", "abortion", "labour", "warren", "woman", "income", "million"],
+      "importance_ratio": 0.1215
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Education and Conservative Activism",
+      "core_keywords": ["school", "student", "parent", "conservative", "white", "book", "college"],
+      "importance_ratio": 0.1121
+    }
+  ]
+}

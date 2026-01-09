@@ -1,0 +1,268 @@
+{
+  "month": "2011-03",
+  "total_articles": 62,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "mother",
+        "wa",
+        "jones",
+        "state",
+        "ha",
+        "republican",
+        "tax",
+        "today",
+        "policy",
+        "story",
+        "term",
+        "journalism",
+        "support",
+        "public",
+        "union"
+      ],
+      "topic_weights": [
+        217.1966909675613,
+        216.35700216113563,
+        216.02033857728577,
+        165.54509756155895,
+        130.32057134653164,
+        121.47040283231522,
+        120.30250887055502,
+        112.219858916143,
+        110.23393703668579,
+        106.9040185148313,
+        86.90681469373625,
+        80.57633337175814,
+        80.55717729702086,
+        78.2027830864882,
+        75.50419255811768
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "israel",
+        "wa",
+        "ha",
+        "cut",
+        "worker",
+        "spending",
+        "budget",
+        "billion",
+        "military",
+        "peace",
+        "palestinian",
+        "program",
+        "government",
+        "party"
+      ],
+      "topic_weights": [
+        65.96080346842537,
+        60.06460245783342,
+        45.51473612902396,
+        38.89908321101951,
+        37.71656347023641,
+        32.85783985594578,
+        29.84615389509566,
+        29.464735844099256,
+        28.626668081224416,
+        26.42422387067575,
+        25.585731901222967,
+        22.67849833595229,
+        21.548646187415603,
+        21.135598786869966,
+        20.530735074425223
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ha",
+        "libya",
+        "war",
+        "wa",
+        "military",
+        "intervention",
+        "law",
+        "country",
+        "president",
+        "world",
+        "obama",
+        "american",
+        "qaddafi",
+        "republican",
+        "government"
+      ],
+      "topic_weights": [
+        59.85219662583925,
+        53.67301663670102,
+        46.33582187329834,
+        45.6436811660163,
+        41.72224179653809,
+        36.36846536949212,
+        32.55909140802238,
+        31.701964701924453,
+        28.959714798802555,
+        26.243017237065963,
+        24.542645154807875,
+        24.52767200289871,
+        23.91856460786025,
+        23.055964474622165,
+        22.253510439177635
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "utility",
+        "rural",
+        "america",
+        "debate",
+        "energy",
+        "wa",
+        "ha",
+        "live",
+        "election",
+        "job",
+        "company",
+        "gas",
+        "democrat",
+        "help",
+        "town"
+      ],
+      "topic_weights": [
+        16.802047953957835,
+        15.805154591161568,
+        14.7712568064233,
+        12.358788812948273,
+        11.414401507466437,
+        11.020005395451633,
+        10.05829728277001,
+        9.507492302375365,
+        9.07146444560929,
+        8.252182982625559,
+        7.715379194122567,
+        7.09681434880273,
+        6.995625624746711,
+        6.883196125282671,
+        6.716157570492113
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "jones",
+        "mother",
+        "tax",
+        "state",
+        "cut",
+        "budget",
+        "wa",
+        "ha",
+        "story",
+        "term",
+        "wisconsin",
+        "donation",
+        "today",
+        "policy",
+        "type"
+      ],
+      "topic_weights": [
+        0.9176278306948661,
+        0.8397608118668826,
+        0.7095817781534366,
+        0.6107729817147927,
+        0.6033929727331173,
+        0.5895520256707362,
+        0.5405037218072317,
+        0.5214345264170013,
+        0.5118724629790404,
+        0.5066104459030881,
+        0.49993570933194886,
+        0.48692284134507424,
+        0.4839745910435149,
+        0.4812224234400837,
+        0.47980164220595717
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 45,
+    "3": 4,
+    "1": 6,
+    "2": 7
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Oh dear. What whiny babies these Tea Party \"patriots\" are! What frail, delicate flowers they are when they're not carrying guns or making anonymous threats! Take, for instance, this story about a heat...",
+        "upvotes": 7,
+        "url": "http://crooksandliars.com/susie-madrak/oh-dear-teabagger-accuses-teamster-ch"
+      },
+      {
+        "preview": "Seriously? You have GOT to be frigging kidding me . . . Who needs a bunch of JOBS when we can have orthodox conservative ideology and corporate tax cuts? . . . In an interview with NPR’s Steve Inskeep...",
+        "upvotes": 17,
+        "url": "http://www.dailykos.com/story/2011/03/01/951472/-REALITY:-The-GOP-is-F***ing-up-the-economy-on-purpose-so-they-can-blame-it-on-Obama"
+      },
+      {
+        "preview": "12 8 8 Rate It | View Ratings Gustav Wynn Social Media Pages: ( Contributing Editor since October 2006) Inner city schoolteacher from New York, mostly covering media manipulation. I put election/finan...",
+        "upvotes": 4,
+        "url": "http://www.opednews.com/articles/Limbaugh-Hannity-Beck-R-by-Gustav-Wynn-110308-470.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The budget presented by Wisconsin Governor Scott Walker on Tuesday has caused profound shock and outrage among workers throughout the state. It has now become clear to hundreds of thousands of Wiscons...",
+        "upvotes": 0,
+        "url": "http://wsws.org/articles/2011/mar2011/pers-m03.shtml"
+      },
+      {
+        "preview": "This year Democracy Now! is celebrating our 25th anniversary—that's 25 years of bringing you fearless, independent reporting. Since our very first broadcast in 1996, Democracy Now! has refused to take...",
+        "upvotes": 6,
+        "url": "http://www.democracynow.org/blog/2011/3/10/mark_potok_peter_king_hearings_on_muslims_despicable"
+      },
+      {
+        "preview": "Here in Washington, the immigration debate is in stalemate. But in Kansas, there has been a breakthrough. This striking achievement came about this week during a meeting of the state House Appropriati...",
+        "upvotes": 3,
+        "url": "http://www.washingtonpost.com/opinions/gunning-down-immigrants--and-other-democratic-experiments/2011/03/14/ABQVXzZ_story.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Franklin Delano Roosevelt (30 January 1882 – 12 April 1945), often referred to by his initials FDR, was an American statesman and political leader who served as the President of the United States, fro...",
+        "upvotes": 6,
+        "url": "http://en.wikiquote.org/wiki/Franklin_D._Roosevelt"
+      },
+      {
+        "preview": "The World Socialist Web Site categorically opposes any military intervention in Libya. The drive toward war, which was given the green light by the UN Security Council on Thursday, has nothing to do w...",
+        "upvotes": 0,
+        "url": "http://wsws.org/articles/2011/mar2011/pers-m19.shtml"
+      },
+      {
+        "preview": "Advertisement Supported by Talking Business By Joe Nocera The piñata sat alone at the witness table, facing the members of the House subcommittee on financial institutions and consumer credit. The Wed...",
+        "upvotes": 11,
+        "url": "http://www.nytimes.com/2011/03/19/business/economy/19nocera.html?ref=business"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The Committee Against Utility Shutoffs (CAUS) held a press conference on Friday to announce plans for a March 12 demonstration against utility shutoffs. The event was held at the Dexter-Elmhurst cente...",
+        "upvotes": 0,
+        "url": "http://wsws.org/articles/2011/mar2011/caus-m05.shtml"
+      },
+      {
+        "preview": "WASHINGTON, March 18 () -- U.S. pipeline regulators are called on to address rules that let operators avoid reporting on spikes in line pressure, two U.S. senators said. U.S. Sens. Dianne Feinstein an...",
+        "upvotes": 5,
+        "url": "http://www.upi.com/Science_News/Resource-Wars/2011/03/18/US-senators-want-tighter-pipeline-rules/UPI-11981300457604/"
+      },
+      {
+        "preview": "I was born in a small town in Idaho, and now live in a slightly larger town in Montana. For the majority of my life I lived in rural America. I've lived in places where voting Democrat has (or would h...",
+        "upvotes": 7,
+        "url": "http://www.dailykos.com/story/2011/03/27/960609/-Being-liberal-in-rural-America-(really-rural)"
+      }
+    ],
+    "4": []
+  }
+}

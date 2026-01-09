@@ -1,0 +1,285 @@
+{
+  "month": "2014-06",
+  "total_articles": 118,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "student",
+        "ha",
+        "state",
+        "president",
+        "education",
+        "government",
+        "obama",
+        "business",
+        "war",
+        "loan",
+        "debt",
+        "higher",
+        "college",
+        "congress"
+      ],
+      "topic_weights": [
+        196.3251046443672,
+        131.02065996729294,
+        102.62292722200863,
+        94.25969795133872,
+        81.36547123225841,
+        81.26494723435151,
+        81.0596319615001,
+        71.04045773938348,
+        63.93149026494359,
+        61.439328459414035,
+        60.528498883757365,
+        57.75682190685065,
+        57.34503578486425,
+        55.851404282419296,
+        53.94959170501696
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "policy",
+        "american",
+        "war",
+        "state",
+        "ha",
+        "iraq",
+        "obama",
+        "clinton",
+        "hedge",
+        "foreign",
+        "president",
+        "fact",
+        "wing",
+        "political"
+      ],
+      "topic_weights": [
+        232.09501259516102,
+        120.61148598914195,
+        110.17952768594849,
+        102.61831766571575,
+        100.89924746778904,
+        91.87637311213585,
+        90.80273657433317,
+        86.08319671134119,
+        80.54260100929048,
+        79.96548087309606,
+        74.64510628765943,
+        66.8810409163083,
+        65.10443600555443,
+        62.53490640325126,
+        60.74925003910985
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "school",
+        "wage",
+        "ceo",
+        "percent",
+        "compensation",
+        "worker",
+        "pay",
+        "wa",
+        "minimum",
+        "ha",
+        "income",
+        "executive",
+        "data",
+        "growth",
+        "firm"
+      ],
+      "topic_weights": [
+        150.19862351662567,
+        135.6729861351793,
+        109.28363322374761,
+        103.6149644384543,
+        86.56235332526013,
+        85.95933120486619,
+        77.24914765131898,
+        66.36802519476757,
+        64.4750967750755,
+        56.971433489927236,
+        53.180343929192965,
+        47.37499810149422,
+        47.06792877666124,
+        44.50288427282684,
+        38.70295488767333
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "jones",
+        "mother",
+        "wa",
+        "libertarian",
+        "story",
+        "libertarianism",
+        "ha",
+        "today",
+        "free",
+        "term",
+        "comment",
+        "human",
+        "sexual",
+        "type",
+        "law"
+      ],
+      "topic_weights": [
+        57.072389965270986,
+        56.56604844386673,
+        43.47327565903792,
+        43.347731153901734,
+        30.493514314850945,
+        29.949217691092464,
+        28.947361219645906,
+        28.655408277197665,
+        25.84602825555333,
+        23.075487529902233,
+        22.64378245581557,
+        22.30063845468567,
+        21.81982846388754,
+        21.1785614329302,
+        20.540306433308
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "wa",
+        "state",
+        "court",
+        "union",
+        "law",
+        "care",
+        "cantor",
+        "group",
+        "email",
+        "marriage",
+        "gun",
+        "health",
+        "right",
+        "campaign"
+      ],
+      "topic_weights": [
+        138.7032174426819,
+        137.95742398237837,
+        132.11977607078384,
+        88.70505834596422,
+        80.46474837176206,
+        78.031308367771,
+        64.78106086387315,
+        64.26143735272183,
+        62.94509832810676,
+        57.83350900274965,
+        56.26378021594215,
+        51.87136101229693,
+        49.21003477641804,
+        48.32490292215389,
+        48.012941149168924
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 14,
+    "3": 10,
+    "1": 32,
+    "4": 45,
+    "0": 17
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "This article is more than 1 year old Suzanne Mettler is the Clinton Rossiter professor of American institutions in the Government Department at Cornell University. Her new book, “Degrees of Inequality...",
+        "upvotes": 1,
+        "url": "http://www.washingtonpost.com/blogs/monkey-cage/wp/2014/05/29/five-questions-on-regulating-for-profit-colleges/"
+      },
+      {
+        "preview": "Misinformation isn't going away just because it's a new year. Support trusted, factual information with a tax deductible contribution to . More Info For weeks, Republicans have questioned the wisdom o...",
+        "upvotes": 16,
+        "url": "http://www.politifact.com/truth-o-meter/statements/2009/jun/18/steny-hoyer/hoyer-correct-500-guantanamo-detainees-were-releas/"
+      },
+      {
+        "preview": "fresh voices from the front lines of change by Kitty Lan | Jun 5, 2014 | Education | 0 comments Student loans made it possible for Brittany Jones to attend Virginia Commonwealth University and pursue ...",
+        "upvotes": 30,
+        "url": "http://ourfuture.org/20140605/lift-a-1-2-trillion-weight-on-student-borrowers-and-the-economy"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The last couple of months have been rough for proponents of open-carry gun laws. No fewer than seven restaurant chains have taken a stand against firearms being brought to their businesses, after acti...",
+        "upvotes": 92,
+        "url": "http://www.motherjones.com/politics/2014/06/nra-open-carry-guns-backlash-texas"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Liberal Democrats feel the wind is at their backs, making it all the more irksome for them that Hillary ClintonHillary Diane Rodham ClintonHoward Ste...",
+        "upvotes": 0,
+        "url": "http://thehill.com/blogs/ballot-box/presidential-races/207187-hillary-leaves-left-cold"
+      },
+      {
+        "preview": "What happens when Congress itself is the problem in politics? The framers of the Constitution thought of a solution for that very problem. In January, Gallup found that Americans from across the polit...",
+        "upvotes": 8,
+        "url": "http://www.theatlantic.com/politics/archive/2014/05/a-real-step-to-fix-democracy/371898/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Endnotes and citations are available in the PDF and Scribd versions. School districts across the country are shifting away from their traditional management paradigm—a central office that directs its ...",
+        "upvotes": 0,
+        "url": "http://www.americanprogress.org/issues/education/report/2014/05/27/90377/the-rise-of-networks/"
+      },
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » Many citizens are enthusiasti...",
+        "upvotes": 0,
+        "url": "http://www.brookings.edu/blogs/techtank/posts/2014/05/26-reembergent-public-sphere"
+      },
+      {
+        "preview": "Advertisement Supported by By Paul Krugman A while back I published an article titled “The Rich, the Right, and the Facts,” in which I described politically motivated efforts to deny the obvious — the...",
+        "upvotes": 8,
+        "url": "http://www.nytimes.com/2014/06/02/opinion/krugman-on-inequality-denial.html?smid=re-share"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Sunday, June 01, 2014 Republican Governor Tom Corbett trails his Democratic challenger Tom Wolf by 20 points in Rasmussen Reports’ first look at the Pennsylvania gubernatorial race. A new statewide te...",
+        "upvotes": 19,
+        "url": "http://www.rasmussenreports.com/public_content/politics/elections/election_2014/pennsylvania/election_2014_pennsylvania_governor"
+      },
+      {
+        "preview": "Georgia Gov. Sonny Perdue holds up a sample Voter ID after signing the bill into law at the Capitol in Atlanta.AP Photo/Ric Feld Today, more than 700,000 Alabamans are headed to the polls for the stat...",
+        "upvotes": 33,
+        "url": "http://www.motherjones.com/mojo/2014/06/alabama-gop-reward-voter-fraud-ballot"
+      },
+      {
+        "preview": "Gregory Bull/AP Alba Quiñones Flores started her period the first week that she was in the custody of US Customs and Border Protection. Every morning, a guard delivered sanitary napkins to her cell of...",
+        "upvotes": 1,
+        "url": "http://www.motherjones.com/politics/2014/06/immigrant-detention-customs-border-protection-lawsuit"
+      }
+    ],
+    "4": [
+      {
+        "preview": "PHOENIX, June 2 () -- A failed tea party candidate has legally changed his name to Cesar Chavez and is running for Congress again as a Democrat. Along with changing his name and party affiliation, Cha...",
+        "upvotes": 54,
+        "url": "http://www.upi.com/Top_News/US/2014/06/02/Tea-partier-legally-changes-name-to-Cesar-Chavez-and-switches-party-affiliation-to-run-in-Hispanic-district/4721401744886/"
+      },
+      {
+        "preview": " Guns The Laws and Policies Behind Guns in America by Eric Sagara, June 5, 2014 Nearly a third of the 155,000 guns officials recovered in 2012 were traced back to sources outside the state they were f...",
+        "upvotes": 2,
+        "url": "http://projects.propublica.org/graphics/atf-gun-traces"
+      },
+      {
+        "preview": "Obamacare was once called \"The Job-Killing Health Care Law.\" But the latest jobs report suggests that the broader economy—and the health care sector, specifically—is adding jobs at a healthy rate. Boo...",
+        "upvotes": 129,
+        "url": "http://www.forbes.com/sites/dandiamond/2014/06/06/since-obamacare-passed-50-months-ago-healthcare-has-gained-almost-1-million-jobs/"
+      }
+    ]
+  }
+}

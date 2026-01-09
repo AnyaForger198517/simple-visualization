@@ -1,0 +1,280 @@
+{
+  "month": "2011-04",
+  "total_articles": 60,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "campaign",
+        "wa",
+        "obama",
+        "administration",
+        "adoption",
+        "white",
+        "house",
+        "ha",
+        "donor",
+        "election",
+        "jim",
+        "political",
+        "right",
+        "gay",
+        "group"
+      ],
+      "topic_weights": [
+        516.0206592045263,
+        489.0973734380743,
+        464.1599565948203,
+        243.79800855667668,
+        204.90085950209928,
+        186.26153837246028,
+        160.07390819391657,
+        159.74546756793302,
+        146.88676196612371,
+        140.5993335611263,
+        136.88562496598692,
+        135.64949871958973,
+        128.72935650941903,
+        128.2758687933552,
+        122.31115799194706
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "mother",
+        "jones",
+        "ha",
+        "wa",
+        "trump",
+        "story",
+        "state",
+        "today",
+        "policy",
+        "term",
+        "journalism",
+        "law",
+        "privacy",
+        "type",
+        "subscribe"
+      ],
+      "topic_weights": [
+        225.1148706574349,
+        213.85704661815188,
+        201.26817728930502,
+        181.87455862642247,
+        174.96840285849484,
+        149.10254934675956,
+        111.76686808877571,
+        111.19364127366097,
+        109.36133871457513,
+        93.01957277200249,
+        76.41146698436303,
+        75.81916036406389,
+        74.36518943168088,
+        74.3543741537398,
+        70.78050173996243
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "cfpb",
+        "program",
+        "nation",
+        "republican",
+        "tax",
+        "ryan",
+        "subsidy",
+        "post",
+        "wa",
+        "oil",
+        "house",
+        "budget",
+        "medicare",
+        "read",
+        "audit"
+      ],
+      "topic_weights": [
+        92.36757797145012,
+        79.57608141699518,
+        77.62596335260363,
+        77.43171976391855,
+        69.73109577671067,
+        68.33850774992997,
+        66.15770473379747,
+        65.28192819865909,
+        64.60790881670317,
+        61.72755155271014,
+        60.346418376622076,
+        56.75883619286339,
+        54.78152322989972,
+        54.69706490283098,
+        51.675699019324654
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "tax",
+        "wa",
+        "protest",
+        "uncut",
+        "pay",
+        "cut",
+        "american",
+        "corporation",
+        "won",
+        "rich",
+        "haven",
+        "protester",
+        "percent",
+        "government",
+        "britain"
+      ],
+      "topic_weights": [
+        524.9916466715982,
+        280.5049866065491,
+        158.3610960781454,
+        149.2393053696337,
+        126.06411190475437,
+        109.5552017328825,
+        103.97308986480564,
+        101.28994607291006,
+        101.08414423928055,
+        99.70935811723632,
+        95.26417450875972,
+        84.27143222340146,
+        80.08944135938219,
+        70.21595246001533,
+        67.39296444420401
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "freedom",
+        "state",
+        "security",
+        "politics",
+        "equality",
+        "liberal",
+        "argument",
+        "power",
+        "ha",
+        "hand",
+        "government",
+        "conservative",
+        "form",
+        "value",
+        "threat"
+      ],
+      "topic_weights": [
+        323.05042129344537,
+        191.0688246877597,
+        140.10733634214964,
+        128.626837611219,
+        127.13318429568818,
+        123.07718723599308,
+        121.55834501108961,
+        121.4349280576828,
+        102.60546291902554,
+        98.84723333433801,
+        97.68062229760943,
+        96.50164717690686,
+        93.82751400162779,
+        82.90831176594197,
+        81.381813017365
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 38,
+    "2": 12,
+    "0": 4,
+    "4": 4,
+    "3": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "“listening tour.” He has assiduously cultivated these relationships in his career, previously serving as Baucus’s top liaison to Wall Street and organizing lavish fundraising junkets in Montana. Baucu...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/article/159577/jim-messina-obamas-enforcer"
+      },
+      {
+        "preview": "By Alicia. Friday, April 15 2011 Come April 15, everybody ponies up their fair share, right? Not so much. Thanks to corporate tax cuts and loopholes, these big companies will be rollin’ in the green i...",
+        "upvotes": 14,
+        "url": "http://front.moveon.org/d-which-corporations-are-the-biggest-freeloaders/?rc=recirctest"
+      },
+      {
+        "preview": "bend the rules, 20–30 percent of agency representatives gave answers that were tantamount to committing visa fraud or other serious violations. “You’ll hear people saying, I’m following God’s law, not...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/article/160096/evangelical-adoption-crusade"
+      }
+    ],
+    "1": [
+      {
+        "preview": "James Berglie/ZUMApress.com Republicans in Congress love to attack Elizabeth Warren, the White House aide overseeing the start-up of the new Consumer Financial Protection Bureau (CFPB). At a March 16 ...",
+        "upvotes": 16,
+        "url": "http://motherjones.com/mojo/2011/03/gop-bachus-elizabeth-warren"
+      },
+      {
+        "preview": "<a  Barrett/You Tube</a> One downside of becoming president after eight years of White House control by the other party is that you get stuck having to defend an awful lot of “shit” left behind by you...",
+        "upvotes": 0,
+        "url": "http://motherjones.com/politics/2011/03/obama-appeal-fcc-indecency-case"
+      },
+      {
+        "preview": "Zuma/Louie Palu As lawmakers work to negotiate a grand bargain on the federal budget, top Senate Democrats hosted a conference call with reporters to insist that they won’t let social issues derail a ...",
+        "upvotes": 6,
+        "url": "http://motherjones.com/mojo/2011/04/senate-dems-gop-drop-riders"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Desktop notifications are on | Turn off Get breaking news alerts from The Washington Post Turn on desktop notifications? Bruce Bartlett takes a look at the Balanced Budget Amendment all 47 Republicans...",
+        "upvotes": 6,
+        "url": "http://www.washingtonpost.com/blogs/ezra-klein/post/the-worst-idea-in-washington/2011/03/10/AFzQaOIC_blog.html"
+      },
+      {
+        "preview": "Follow us A nation that destroys its systems of education, degrades its public information, guts its public libraries and turns its airwaves into vehicles for cheap, mindless amusement becomes deaf, d...",
+        "upvotes": 9,
+        "url": "http://www.truthdig.com/report/item/why_the_united_states_is_destroying_her_education_system_20110410"
+      },
+      {
+        "preview": "Who Rigged It, and How We Fix It Order here:AmazoniBookstoreBN.comIndieBoundRandomHouse Why we must restore the idea of the common good to the center of our economics and politics Order here:AmazoniBo...",
+        "upvotes": 2,
+        "url": "http://robertreich.org/post/4559031328"
+      }
+    ],
+    "3": [
+      {
+        "preview": " rebelling against their bosses for letting the rich wriggle out of taxes. Think of it as an open-source protest, or wikiprotest. It uses Twitter as the basic software, but anyone can then mold the pr...",
+        "upvotes": 15,
+        "url": "http://www.thenation.com/article/158282/how-build-progressive-tea-party"
+      },
+      {
+        "preview": "Making sense of the news one week at a time. Many of our rich men have not been content with equal protection and equal benefits, but have besought us to make them richer by act of Congress. -- Presid...",
+        "upvotes": 10,
+        "url": "http://weeklysift.blogspot.com/2011/04/getting-richer.html#04182011second"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Since the ’70s, liberals and leftists have misidentified the source of conservatism’s appeal. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional off...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/article/159748/reclaiming-politics-freedom"
+      },
+      {
+        "preview": "A blog to promote debate, enrich and deepen the political anarchist discourse. Aiming further, towards a better and more accurate strategical understanding of the world around us. Striking better by p...",
+        "upvotes": 0,
+        "url": "http://aimingfurtherstrikingbetter.blogspot.com/2011/03/fuck-welfare-state-anarchy-now.html"
+      },
+      {
+        "preview": "An MRAP in Afghanistan; 20,000 purchased at $1 million apiece.(Image by Dana Visalli) Details DMCA Normal>While in Kabul in March of this year, I visited the U.S. military base in that city, Camp Egge...",
+        "upvotes": 4,
+        "url": "http://www.opednews.com/articles/Deconstructing-the-U-S-Mi-by-Dana-Visalli-110411-702.html"
+      }
+    ]
+  }
+}

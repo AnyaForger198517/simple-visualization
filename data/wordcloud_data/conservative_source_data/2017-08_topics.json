@@ -1,0 +1,285 @@
+{
+  "month": "2017-08",
+  "total_articles": 197,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "police",
+        "statue",
+        "city",
+        "confederate",
+        "state",
+        "charlottesville",
+        "protester",
+        "monument",
+        "group",
+        "ha",
+        "virginia",
+        "park",
+        "terrorist",
+        "rally"
+      ],
+      "topic_weights": [
+        200.9861403844207,
+        125.48299101591111,
+        111.87099600899269,
+        103.97932565374487,
+        95.06925973393042,
+        93.02788228846012,
+        88.15750877638752,
+        77.47919413032672,
+        72.58051463675761,
+        71.22373477782149,
+        66.924331393268,
+        62.663689960372515,
+        61.89868079619467,
+        60.94720399715125,
+        58.61098757406134
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "state",
+        "white",
+        "american",
+        "president",
+        "advertisement",
+        "medium",
+        "vote",
+        "group",
+        "election",
+        "government",
+        "political",
+        "party"
+      ],
+      "topic_weights": [
+        420.23842544309775,
+        297.82842179514864,
+        240.29422928721667,
+        207.65061429207896,
+        207.5074027406407,
+        185.79112203057778,
+        182.4124203347956,
+        182.09074845540195,
+        146.76386768982715,
+        130.28897766381985,
+        120.59134563748717,
+        119.86500427964606,
+        114.00323758080143,
+        112.0182714467938,
+        103.74789311899305
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "hurricane",
+        "harvey",
+        "texas",
+        "red",
+        "cross",
+        "gang",
+        "gun",
+        "commission",
+        "member",
+        "investigation",
+        "pingback",
+        "august",
+        "illegal",
+        "ha",
+        "news"
+      ],
+      "topic_weights": [
+        57.64626458276823,
+        54.89830557581376,
+        54.101682285745724,
+        40.69955163862195,
+        40.4211823301881,
+        37.05087509619876,
+        36.13635745699915,
+        33.42311940020001,
+        31.06207006926769,
+        28.382645260805937,
+        28.022483496394216,
+        27.732996154063102,
+        26.806843640476583,
+        25.673759043871822,
+        24.84788144353905
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "white",
+        "house",
+        "wall",
+        "bannon",
+        "china",
+        "north",
+        "party",
+        "korea",
+        "twitter",
+        "american",
+        "leader"
+      ],
+      "topic_weights": [
+        363.4215014121652,
+        234.91913328340456,
+        194.9760339301921,
+        185.68163808789868,
+        155.63632550776006,
+        143.1838172780667,
+        110.40684948666492,
+        104.49360949453649,
+        81.81919737873737,
+        81.65006141328006,
+        79.51501032519117,
+        62.7616807973323,
+        62.328191546800014,
+        60.133591977180764,
+        56.829493229064056
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "woman",
+        "ha",
+        "google",
+        "student",
+        "employee",
+        "work",
+        "men",
+        "company",
+        "social",
+        "university",
+        "school",
+        "black",
+        "life",
+        "child"
+      ],
+      "topic_weights": [
+        322.6903014296478,
+        247.3371790735785,
+        159.913694751397,
+        156.9310124806278,
+        101.39200629536285,
+        97.53930179215098,
+        81.23651148909752,
+        65.11341524115105,
+        59.368484556016305,
+        58.86468872894291,
+        58.85203700186151,
+        56.68370509153485,
+        54.94197501008111,
+        54.621453767202716,
+        53.52430194406853
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 33,
+    "1": 75,
+    "2": 13,
+    "4": 44,
+    "0": 32
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "TEL AVIV – If the Islamic State is destroyed, the situation in the Middle East could end up being even more dire with the emergence of an “Iranian radical empire” in its wake, former U.S. Secretary of...",
+        "upvotes": 2,
+        "url": "http://www.breitbart.com/jerusalem/2017/08/06/kissinger-end-of-islamic-state-could-lead-to-iranian-radical-empire/"
+      },
+      {
+        "preview": "The Islamic State downplayed the loss of Mosul and warned of “a fire that burns the Cross and its people” if the “atheist” Syrian Democratic Forces continue to win in Raqqa. The SDF, which consists of...",
+        "upvotes": 5,
+        "url": "https://pjmedia.com/homeland-security/2017/08/07/isis-warns-of-a-fire-that-burns-the-cross-and-its-people-as-raqqa-control-crumbles/"
+      },
+      {
+        "preview": "It was a noble effort to be sure and a pretty good plan (all things considered) for as long as it lasted. Sadly, that wasn’t terribly long at all. We’re talking about the effort by some Baltimore comm...",
+        "upvotes": 4,
+        "url": "http://hotair.com/archives/2017/08/06/baltimores-nobody-kill-anybody-weekend-lasts-little-day/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "On Sunday, podcast host and former “Wheel of Fortune” host Chuck Woolery said “Progressivism is the absolute cancer on our political system right now and has been for over 100 years,” and that Democra...",
+        "upvotes": 7,
+        "url": "http://www.cnsnews.com/blog/craig-millward/chuck-woolery-progressivism-absolute-cancer-our-political-system-socialized"
+      },
+      {
+        "preview": "REUTERS/ICE/Handout via Reuters) A reversal of the flood of illegal immigrants and drugs across the southern US border seems beyond reach. A missing piece of the puzzle, however, has flown under the r...",
+        "upvotes": 5,
+        "url": "http://dailycaller.com/2017/07/31/where-to-place-the-crosshairs-in-the-war-on-drugs/"
+      },
+      {
+        "preview": "You know, if you sit and read the entire Declaration of Independence, the Federalist Papers and the Constitution, you’ll come to realize how truly brilliant the Founding Fathers were. Today, we have a...",
+        "upvotes": 64,
+        "url": "http://www.cnsnews.com/commentary/allen-west/allen-west-how-differently-would-senators-act-without-17th-amendment"
+      }
+    ],
+    "2": [
+      {
+        "preview": "zeropointnow Mon Jul 31, 2017 5:43pm EST 45 Comments The rapidly unfolding case against Debbie Wasserman Schultz’s Pakistani IT spy ring already had huge implications for National Security. Now, the s...",
+        "upvotes": 42,
+        "url": "http://ibankcoin.com/zeropointnow/2017/07/31/judge-napolitano-awans-had-access-to-email-of-every-member-of-congress-sold-information/#sthash.ezizqvcB.dpbs"
+      },
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day in Liberal Judicial Activism—September 12 The Supreme Court in the American Constitutional Order ...",
+        "upvotes": 10,
+        "url": "http://www.nationalreview.com/article/444686/tom-cotton-david-perdue-immigration-bill-raise-act"
+      },
+      {
+        "preview": "Center for Security Policy President Frank Gaffney and SiriusXM host Raheem Kassam took a look on Wednesday’s  News Daily at the scandal swirling around former Democratic National Committee chair Debb...",
+        "upvotes": 13,
+        "url": "http://www.breitbart.com/radio/2017/08/02/gaffney-wasserman-schultz-obstructing-justice-democrat-scandal-possible-counterintelligence-implications/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By Piers Morgan for MailOnline Published: 12:07 EDT, 31 July 2017 | Updated: 12:23 EDT, 31 July 2017 1.2k View comments JK Rowling hates Donald Trump. I don’t just mean she dislikes him intensely, I m...",
+        "upvotes": 4,
+        "url": "http://www.dailymail.co.uk/news/article-4747162/JK-Rowling-Trump-slur-proves-Queen-Hypocrisy.html"
+      },
+      {
+        "preview": "By TARA PALMERI and JOSH DAWSEY 07/31/2017 02:39 PM EDT Updated 07/31/2017 04:27 PM EDT President Donald Trump has removed Anthony Scaramucci as communications director, a little more than a week afte...",
+        "upvotes": 653,
+        "url": "http://www.politico.com/story/2017/07/31/trump-ousts-scaramucci-as-communications-director-241172"
+      },
+      {
+        "preview": "JavaScript is disabled You need to enable JavaScript to use  Thereâs a shakeup at the White House, Ben debates Cenk, and thereâs more Trumpcare fallout. Date: 17-07-31 who makes $200k per year, an...",
+        "upvotes": 10,
+        "url": "https://soundcloud.com/benshapiroshow/ep351"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Australia’s Bureau of Meteorology (BOM) has been caught red handed erasing record-breaking cold temperatures from its data records. The BOM has now been shamed by media investigations into ordering a ...",
+        "upvotes": 10,
+        "url": "http://www.breitbart.com/big-government/2017/08/01/delingpole-australia-bureau-of-meteorology-caught-erasing-record-low-temperatures/"
+      },
+      {
+        "preview": "Follow Us National Review The Bizarre Political Ideology of Netflix’s La Casa de Papel The Myth of the Red Pill ‘Thither You’ll Come, Late or Never’: The Richness of East O’ the Sun and West O’ the Mo...",
+        "upvotes": 18,
+        "url": "http://www.nationalreview.com/article/450042/dennis-prager-symphony-left-ostracism"
+      },
+      {
+        "preview": "August 1, 2017 The Southern Poverty Law Center [SPLC] is suing the state of Mississippi claiming they are violating the Readmission Act. This was the Federal law that allowed Mississippi to rejoin the...",
+        "upvotes": 15,
+        "url": "http://narrative-collapse.com/2017/08/01/splc-mississippi-school-lawsuit-is-based-on-a-hoax/"
+      }
+    ]
+  }
+}

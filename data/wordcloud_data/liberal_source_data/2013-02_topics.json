@@ -1,0 +1,275 @@
+{
+  "month": "2013-02",
+  "total_articles": 89,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "middle",
+        "income",
+        "republican",
+        "wa",
+        "class",
+        "party",
+        "american",
+        "state",
+        "walsh",
+        "family",
+        "insurance",
+        "ha",
+        "group",
+        "health",
+        "cut"
+      ],
+      "topic_weights": [
+        232.9426820784564,
+        230.77237733517168,
+        208.1345045038754,
+        199.4869487672924,
+        177.27727739771404,
+        174.98995161440786,
+        162.98460305946773,
+        153.65989264157838,
+        139.08100965010112,
+        127.96231154201648,
+        123.07741232865293,
+        122.03048310359826,
+        114.16220194794482,
+        111.1385296491742,
+        104.92226612180932
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "gun",
+        "state",
+        "police",
+        "case",
+        "right",
+        "law",
+        "death",
+        "jones",
+        "mother",
+        "court",
+        "officer",
+        "dorner",
+        "story"
+      ],
+      "topic_weights": [
+        649.6997023623695,
+        273.16769019926124,
+        222.45186190853275,
+        210.07252555706285,
+        148.59250620738905,
+        145.7197262369031,
+        122.95527102341177,
+        119.35434555810468,
+        104.93731734312864,
+        100.07905809598962,
+        96.40088032765938,
+        92.28973221741914,
+        82.82638499394552,
+        80.76624973462073,
+        78.56622417106159
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "percent",
+        "military",
+        "torture",
+        "wa",
+        "civilian",
+        "drone",
+        "spouse",
+        "president",
+        "american",
+        "obama",
+        "food",
+        "border",
+        "water",
+        "cia",
+        "white"
+      ],
+      "topic_weights": [
+        75.92938375695093,
+        61.44858514653161,
+        60.654844266713695,
+        57.13200957487597,
+        52.26240376163777,
+        41.365744828932364,
+        40.156002569481686,
+        39.45341261325362,
+        37.87477134697899,
+        37.66797019471692,
+        35.51235598565903,
+        33.333682533385144,
+        32.45496444034883,
+        29.584525090895625,
+        29.558384060483284
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wage",
+        "woman",
+        "percent",
+        "american",
+        "men",
+        "minimum",
+        "news",
+        "value",
+        "fox",
+        "law",
+        "child",
+        "state",
+        "latino",
+        "immigration",
+        "labor"
+      ],
+      "topic_weights": [
+        75.42806635756723,
+        68.64029887621885,
+        60.86568367584785,
+        59.8252071945614,
+        42.05195638648118,
+        39.20926881460863,
+        35.858407138869374,
+        33.66623300402877,
+        33.51914996770706,
+        28.460583768269263,
+        26.094983449135473,
+        25.595522734126604,
+        24.75937838173757,
+        23.73051173024644,
+        23.720640679091105
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "child",
+        "poverty",
+        "family",
+        "percent",
+        "million",
+        "american",
+        "education",
+        "food",
+        "program",
+        "job",
+        "income",
+        "federal",
+        "gap",
+        "living",
+        "report"
+      ],
+      "topic_weights": [
+        2205.976345865469,
+        1588.5167207063412,
+        1334.630381107438,
+        1117.196434117614,
+        726.2452010180953,
+        622.8160151532347,
+        572.105363027365,
+        504.825226189493,
+        486.82718960427917,
+        465.1907458472966,
+        447.7987750847923,
+        442.6483823343447,
+        418.63097206380684,
+        374.80122412769754,
+        358.2725025170537
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 50,
+    "0": 25,
+    "3": 6,
+    "2": 7,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "about losing the Hispanic vote, Martinez de Vara sees a future in which he and Hispanic Republicans like him inevitably take over the Party. He already talks about the Anglo population as a minority, ...",
+        "upvotes": 0,
+        "url": "http://www.newyorker.com/reporting/2012/11/19/121119fa_fact_lizza?currentPage=all"
+      },
+      {
+        "preview": "Read on for essential background on the escalating conflict or click here for the latest update. Previous updates are here: Ever since the 47 percent dashed Mitt Romney’s White House dreams, GOPers ha...",
+        "upvotes": 6,
+        "url": "http://www.motherjones.com/politics/2013/01/gops-election-rigging-plan-explained"
+      },
+      {
+        "preview": "premise of the ACA is that if someone can’t afford health insurance, the government will help you get it by providing subsidies. The administration has now decided to judge affordability based only on...",
+        "upvotes": 7,
+        "url": "http://www.thenation.com/blog/172606/big-day-obamacare"
+      }
+    ],
+    "1": [
+      {
+        "preview": " Hurricane Sandy By Al Shaw and Jeff Larson, , Updated May 21, 2013 On January 29, President Obama signed the Disaster Relief Appropriations Act of 2013, which allocates $50.7 billion for Hurricane Sa...",
+        "upvotes": 0,
+        "url": "https://projects.propublica.org/sandyvote/"
+      },
+      {
+        "preview": "Eleanor Roosevelt speaks at a podium at an AFL-CIO event. Photo by the Kheel Center for Labor-Management Documentation and Archives. Many younger Americans probably know little about Eleanor Roosevelt...",
+        "upvotes": 16,
+        "url": "http://www.yesmagazine.org/peace-justice/eleanor-the-radical-roosevelt"
+      },
+      {
+        "preview": "The Arizona senator's contempt for Chuck Hagel in yesterday's confirmation hearing is all about the guy who nominated him. by Steve Erickson February 1, 2013 1:31 PM AP Photo/Susan Walsh That one,\" Jo...",
+        "upvotes": 0,
+        "url": "http://prospect.org/article/bitter-twilight-john-mccain"
+      }
+    ],
+    "2": [
+      {
+        "preview": "You can read the fact check here. When Sue Hoppin was in college, she met the man she was going to marry. \"I was attending the University of Denver, and he was at the Air Force Academy,\" she says. \"My...",
+        "upvotes": 1,
+        "url": "http://www.upworthy.com/if-the-nra-knew-the-truth-about-ronald-reagan-they-probably-wouldnt-invoke-his-n"
+      },
+      {
+        "preview": "Mississippi holds onto its title as most religious U.S. state, with 58 percent of its residents saying they are very religious, according to a Gallup poll released Wednesday (Feb. 13). The least relig...",
+        "upvotes": 88,
+        "url": "http://news.yahoo.com/most-religious-us-state-151539552.html"
+      },
+      {
+        "preview": "In the John Waters-esque sector of northwest Baltimore -- equal parts kitschy, sketchy, artsy and weird -- Gerry Mak and Sarah Magida sauntered through a small ethnic market stocked with Japanese eggp...",
+        "upvotes": 1,
+        "url": "http://www.salon.com/2010/03/16/hipsters_food_stamps_pinched/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Supported by By David Brooks Over here in the department of punditry, we deal with a lot of hard issues, ones on which the evidence is mixed and the options are all bad. But the immigrat...",
+        "upvotes": 0,
+        "url": "http://www.nytimes.com/2013/02/01/opinion/brooks-the-easy-problem.html"
+      },
+      {
+        "preview": "Fox News' credibility has fallen 9 percent since three years ago, according to new Public Policy Polling (PPP) results released on Wednesday. The annual poll asks participants to rate their trust in m...",
+        "upvotes": 101,
+        "url": "http://www.huffingtonpost.com/2013/02/06/fox-news-credibility-low-poll_n_2632084.html"
+      },
+      {
+        "preview": "Roger Ailes is kvetching. “The president likes to divide people into groups,” he huffs into the phone. “He’s too busy getting the middle class to hate rich people, blacks to hate whites. He is busy tr...",
+        "upvotes": 3,
+        "url": "http://www.newrepublic.com/article/112364/fox-news-latino-roger-ailes-courts-hispanic-viewers"
+      }
+    ],
+    "4": [
+      {
+        "preview": "ederal government should match state preschool expenditures up to $10,000 per child per year. Preschool would be free for children with family incomes below 200 percent of the poverty line (about $36,...",
+        "upvotes": 6,
+        "url": "http://www.thenation.com/blog/173050/week-poverty-how-obama-can-fight-hunger-now"
+      }
+    ]
+  }
+}

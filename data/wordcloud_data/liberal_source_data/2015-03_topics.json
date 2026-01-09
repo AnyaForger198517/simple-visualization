@@ -1,0 +1,275 @@
+{
+  "month": "2015-03",
+  "total_articles": 286,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "government",
+        "law",
+        "police",
+        "public",
+        "state",
+        "power",
+        "case",
+        "post",
+        "did",
+        "group",
+        "court",
+        "community",
+        "black"
+      ],
+      "topic_weights": [
+        1162.7192296628846,
+        480.499462860888,
+        357.02479089168736,
+        303.488780296401,
+        234.10245129881025,
+        226.78526971915375,
+        225.37354617811187,
+        197.45951339247048,
+        196.50476379074277,
+        195.27568353296874,
+        190.6139014727933,
+        172.925439345727,
+        168.87874993908406,
+        168.69043945034883,
+        160.31266514977776
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "drone",
+        "pilot",
+        "war",
+        "american",
+        "ha",
+        "state",
+        "wa",
+        "force",
+        "air",
+        "terror",
+        "security",
+        "military",
+        "country",
+        "thou",
+        "act"
+      ],
+      "topic_weights": [
+        574.9078652078447,
+        463.63745657807783,
+        404.49476117850537,
+        371.27473178055925,
+        350.92660536938666,
+        317.94803655675486,
+        313.56833111325017,
+        289.4371417719305,
+        262.9862851290172,
+        249.44475405777737,
+        231.44898525984507,
+        204.53090005794314,
+        201.69954227866265,
+        196.6915057562711,
+        183.44981491901623
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "ha",
+        "american",
+        "law",
+        "wa",
+        "job",
+        "woman",
+        "america",
+        "business",
+        "class",
+        "work",
+        "working",
+        "union",
+        "policy",
+        "right"
+      ],
+      "topic_weights": [
+        704.2624198040364,
+        386.27970476745566,
+        331.69480421493625,
+        282.93317741231687,
+        264.3566396536291,
+        228.25388722180315,
+        205.62116832764312,
+        204.0369685126138,
+        199.01063070961786,
+        187.04850674279794,
+        170.31883896075675,
+        169.65804965485344,
+        155.30251926110267,
+        148.59859801654196,
+        147.99368575961756
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "clinton",
+        "ha",
+        "wa",
+        "democrat",
+        "republican",
+        "party",
+        "senate",
+        "state",
+        "senator",
+        "democratic",
+        "president",
+        "cruz",
+        "leader",
+        "obama",
+        "power"
+      ],
+      "topic_weights": [
+        575.7744053830523,
+        522.1757869313276,
+        454.00697184984534,
+        394.4959215625139,
+        339.14986567112186,
+        315.58482456116656,
+        308.2940033233893,
+        256.64407374221094,
+        230.33037608160018,
+        229.13180455194367,
+        221.86111411076834,
+        197.99887235119047,
+        197.44447654487027,
+        194.64058708290798,
+        188.62644660038117
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "socialist",
+        "wage",
+        "movement",
+        "seattle",
+        "service",
+        "city",
+        "minimum",
+        "democratic",
+        "politics",
+        "campaign",
+        "worker",
+        "council",
+        "working",
+        "party",
+        "corporate"
+      ],
+      "topic_weights": [
+        521.9066004160919,
+        477.92469693556234,
+        424.81101570397334,
+        415.29202146891515,
+        406.8706105409295,
+        337.2370232668492,
+        333.3799783943686,
+        310.7752914861309,
+        303.5201472155079,
+        295.32314011487136,
+        288.07827267236996,
+        275.5948314263041,
+        275.1717747688881,
+        254.78890404428472,
+        236.15852640859416
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 88,
+    "2": 82,
+    "0": 110,
+    "1": 5,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Brewer left the state with a $520 million deficit this year, it's projected to be more than $1 billion next year, and Ducey's solution is: More tax \"adjustments\" that benefit the rich and corporations...",
+        "upvotes": 6,
+        "url": "http://www.dailykos.com/story/2015/02/25/1366845/-The-dark-money-that-helped-elect-Gov-Ducey-in-AZ-now-targets-school-officials-who-criticize-him"
+      },
+      {
+        "preview": "A guest post by Matt Heard Earlier this week, a photo of a dress was posted on  and made many viewers feel crazy and angry. To many, the dress was clearly coloured blue and black. But to their coworke...",
+        "upvotes": 1,
+        "url": "http://leahalexandrahamilton.tumblr.com/post/112387781643/a-coloured-dress-and-eric-garner"
+      },
+      {
+        "preview": "A blog providing financial planning and investment education for both consumers and advisors, and exploring the fiduciary duties of those providing personalized investment and financial advice. (Pleas...",
+        "upvotes": 1,
+        "url": "http://scholarfp.blogspot.com/2015/02/why-does-us-chamber-of-commerce-oppose.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A U.S. drone flies over southern Afghanistan during a combat mission. (AP Photo/Lt. Col.. Leslie Pratt, US Air Force) By signing up, you confirm that you are over the age of 16 and agree to receive oc...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/article/200337/american-drone-operators-are-quitting-record-numbers#"
+      },
+      {
+        "preview": "ge of President Ronald Reagan and his fundamentalist Catholic spymaster, CIA Director William Casey, to make allies of fundamentalist Islamic movements at a time when their extreme (and extremist) pie...",
+        "upvotes": 0,
+        "url": "http://www.thenation.com/article/199785/if-america-wants-end-terrorism-it-has-start-its-own"
+      },
+      {
+        "preview": "Politicians and the media are using Vladimir Putin and Ukraine to justify military expansionism. It’s dangerous folly Last modified on Wed 29 Nov 2017 17.23 EST A quarter of a century after the end of...",
+        "upvotes": 0,
+        "url": "http://www.theguardian.com/commentisfree/2015/mar/04/demonisation-russia-risks-paving-way-for-war"
+      }
+    ],
+    "2": [
+      {
+        "preview": "By NICK GASS 02/28/2015 04:08 PM EST Updated 02/28/2015 06:37 PM EST Another major media outlet has apologized after getting a story about Scott Walker wrong. Last week, it was the New York Times; now...",
+        "upvotes": 5,
+        "url": "http://www.politico.com/story/2015/02/daily-beast-retracts-scott-walker-story-115618.html"
+      },
+      {
+        "preview": "This article is more than 1 year old Erskine College in Due West, S.C., describes itself as a “liberal arts” institution, but as far as that freedom applies to the hearts and minds of its students, it...",
+        "upvotes": 0,
+        "url": "http://www.washingtonpost.com/blogs/early-lead/wp/2015/02/27/south-carolina-college-bans-homosexuality-after-two-volleyball-players-come-out-as-gay/"
+      },
+      {
+        "preview": "Austria's parliament passed a law on Wednesday that seeks to regulate how Islam is administered, singling out its large Muslim minority for treatment not applied to any other religious group. The \"Law...",
+        "upvotes": 0,
+        "url": "http://www.huffingtonpost.com/2015/02/26/austria-law-on-islam_n_6754012.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The Slovenia Summit 2001 was a summit meeting between United States President George W. Bush and Russian President Vladimir Putin (hence also known as the Bush-Putin summit). It took place on June 16,...",
+        "upvotes": 1,
+        "url": "http://en.wikipedia.org/wiki/Slovenia_Summit_2001"
+      },
+      {
+        "preview": "In the years since conservative Supreme Court Justice Anthony Kennedy’s landmark Citizens United v. FEC decision gave wealthy interests the political power they’d apparently lacked, the media has most...",
+        "upvotes": 86,
+        "url": "http://www.salon.com/2015/02/28/this_scotus_destroyed_america_how_citizens_united_is_ruining_more_than_our_elections/"
+      },
+      {
+        "preview": "On the heels of recreational marijuana use becoming legal in Washington, D.C., a poll reveals that a majority of Republican millennials favor legalizing marijuana. The poll, conducted by Pew Research ...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/2015/02/28/republican-millennials-marijuana_n_6775674.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "By LAUREN FRENCH 03/27/2015 06:23 PM EDT Updated 03/27/2015 07:57 PM EDT Clinton was under a subpoena for all correspondence from her tenure as secretary of state that focused on Libya and Benghazi. H...",
+        "upvotes": 4,
+        "url": "http://www.thenation.com/article/198425/socialist-politics-heart-rebuilding-left"
+      }
+    ]
+  }
+}

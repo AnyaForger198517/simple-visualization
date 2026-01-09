@@ -1,0 +1,285 @@
+{
+  "month": "2012-06",
+  "total_articles": 108,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "obama",
+        "wa",
+        "ha",
+        "romney",
+        "state",
+        "percent",
+        "president",
+        "government",
+        "party",
+        "republican",
+        "campaign",
+        "american",
+        "country",
+        "wisconsin",
+        "point"
+      ],
+      "topic_weights": [
+        248.21391542964963,
+        226.353134428382,
+        188.9320057515315,
+        167.98433708771438,
+        153.6311230013224,
+        127.7660821652878,
+        111.71306528404546,
+        93.93156491926315,
+        89.89873730427614,
+        83.97986043991271,
+        78.38873178352611,
+        68.95817732954387,
+        68.26613557228185,
+        61.022254780669634,
+        57.825796502763325
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "house",
+        "holder",
+        "department",
+        "vote",
+        "fast",
+        "attorney",
+        "furious",
+        "issa",
+        "ha",
+        "committee",
+        "general",
+        "president",
+        "justice",
+        "obama"
+      ],
+      "topic_weights": [
+        74.85422819606401,
+        66.12525759452068,
+        50.1284635226122,
+        44.54757988842137,
+        41.741542364663246,
+        41.398988384617304,
+        41.09589864005376,
+        40.38346498498223,
+        40.007631427853134,
+        39.903444924837494,
+        35.622339349782905,
+        33.98855943060445,
+        33.6566197673129,
+        31.322099107529667,
+        28.16100954720748
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "obama",
+        "ha",
+        "tax",
+        "occupy",
+        "movement",
+        "june",
+        "government",
+        "clinton",
+        "wa",
+        "conservative",
+        "rubio",
+        "called",
+        "change",
+        "citizen",
+        "american"
+      ],
+      "topic_weights": [
+        68.81521583771156,
+        38.2521060508861,
+        35.14988863588469,
+        32.703993849340534,
+        26.89896696444361,
+        26.312442816429986,
+        24.222448710193902,
+        23.68248857549148,
+        23.440773475213632,
+        22.446485221793708,
+        21.61969105540912,
+        20.508393650299354,
+        20.35214327860752,
+        19.320932032112673,
+        19.23152298807608
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "law",
+        "court",
+        "ha",
+        "obama",
+        "government",
+        "state",
+        "federal",
+        "care",
+        "power",
+        "policy",
+        "justice",
+        "republican",
+        "congress",
+        "health"
+      ],
+      "topic_weights": [
+        201.94352545572167,
+        160.1404136843929,
+        132.9804113869472,
+        132.5557059208348,
+        92.60956553703663,
+        91.09577253144263,
+        90.99379451832269,
+        82.82969145910374,
+        75.77130656532269,
+        74.10873643001432,
+        72.30477038879825,
+        71.79398484664469,
+        66.24588149256691,
+        63.85545783211974,
+        63.03630856936626
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "political",
+        "debate",
+        "man",
+        "friend",
+        "agree",
+        "point",
+        "feel",
+        "men",
+        "medium",
+        "doe",
+        "fact",
+        "news",
+        "language",
+        "guy",
+        "present"
+      ],
+      "topic_weights": [
+        89.53979852596221,
+        77.19390611931465,
+        72.17956270554902,
+        68.02881425314506,
+        61.12423044858113,
+        58.29908784647844,
+        56.54070570250762,
+        54.547961018370295,
+        52.92247470421451,
+        52.77971527693269,
+        50.620149656980885,
+        48.82524243909006,
+        47.56307025990532,
+        47.173642230165,
+        42.432578806656686
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 19,
+    "0": 43,
+    "2": 9,
+    "3": 33,
+    "4": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 2,
+        "url": "http://www.washingtontimes.com/news/2012/may/31/inside-the-beltway-the-badger-vote/#.T8jqncl0g0o.reddit"
+      },
+      {
+        "preview": "The Audacity of Hope: Thoughts on Reclaiming the American Dream is the second book written by then-Senator Barack Obama.[1] It became number one on both the New York Times and Amazon.com bestsellers l...",
+        "upvotes": 15,
+        "url": "http://en.m.wikipedia.org/wiki/Audacity_of_Hope"
+      },
+      {
+        "preview": "Venezuela has brought a new gun law into effect which bans the commercial sale of firearms and ammunition. Until now, anyone with a gun permit could buy arms from a private company. Under the new law,...",
+        "upvotes": 16,
+        "url": "http://www.bbc.co.uk/news/world-latin-america-18288430"
+      }
+    ],
+    "1": [
+      {
+        "preview": "On the eve of May 1–the infamous May Day Riot–the Black Bloc mob had paraded along Valencia Street through the heart of San Francisco’s mission district, shouting slogans, ripping up street signs, thr...",
+        "upvotes": 0,
+        "url": "http://www.breitbart.com/Big-Government/2012/05/31/Exclusive-Meet-Dustin-Boyer-the-Mystery-Man-Who-Defended-San-Francisco-from-Occupy-Violence"
+      },
+      {
+        "preview": "Earlier this week, Planned Parenthood responded to an undercover video showing a staffer in its Austin, Texas clinic providing assistance for a sex-selective abortion by firing the staffer, requiring ...",
+        "upvotes": 9,
+        "url": "http://hotair.com/archives/2012/05/31/second-video-shows-planned-parenthood-clinic-advising-on-how-to-get-a-sex-selective-abortion/"
+      },
+      {
+        "preview": "Babylonia Aivaz is scheduled to marry a warehouse on Union and 10th in Capitol Hill, Seattle, WA.(KOMO News/ABC News) A Seattle community rights activist is ing to the extreme to try and save a buildi...",
+        "upvotes": 0,
+        "url": "http://abcnews.go.com/blogs/headlines/2012/01/woman-wants-to-marry-seattle-building/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "by Brett Stevens on June 1, 2012 Conservatives lose every time when the issue of abortion is raised. Although liberalism is in decline, this is still a liberal era, which means that liberals define is...",
+        "upvotes": 0,
+        "url": "http://www.amerika.org/politics/abort-retry-fail/comment-page-1/"
+      },
+      {
+        "preview": "Simon says Bill Clinton is pretty good at sabotaging Obama’s strategy. By ROGER SIMON 06/05/2012 04:14 AM EDT Updated 06/05/2012 07:09 PM EDT Bill Clinton has to be the smartest guy in the room even w...",
+        "upvotes": 0,
+        "url": "http://www.politico.com/news/stories/0612/77037.html"
+      },
+      {
+        "preview": "After failing to learn from his disastrous decision to spend billions of dollars of stimulus money on green energy companies which have either failed or are about to fail Barack Obama is at it once ag...",
+        "upvotes": 9,
+        "url": "http://americaswatchtower.com/2012/06/15/the-department-of-energy-awards-company-with-ties-to-van-jones-a-2-million-grant/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Douglas Ernst Blog Bare-knuckle commentary mixed with pop culture. Posted on June 3, 2012June 4, 201211 Comments Fresh off his announcement to ban sodas, sweetened ice tea and energy drinks above 16 o...",
+        "upvotes": 6,
+        "url": "http://douglasernstblog.com/2012/06/03/bloomberg-to-limit-game-play-in-video-games-sold-in-nyc/"
+      },
+      {
+        "preview": "Follow Us National Review Barring some dramatic break from procedure, the Supreme Court justices have already decided the fate of Obamacare, and are now just working out the written rulings and dissen...",
+        "upvotes": 1,
+        "url": "http://www.nationalreview.com/campaign-spot/301813/does-obama-already-know-supremes-decision-obamacare#"
+      },
+      {
+        "preview": "This probably won’t win liberal radio talk show host Bill Press any fans on the right. On his Tuesday radio show simultcasted on Current TV, Press admitted that he is on a crusade to “get rid” of the ...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2012/06/05/current-tvs-bill-press-star-spangled-banner-stupid-and-embarrassing/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 11,
+        "url": "http://www.examiner.com/article/huffington-post-slams-new-freedom-of-speech-law-canada"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 1,
+        "url": "http://www.examiner.com/article/star-ledger-admits-to-censoring-race-savage-post-concert-mob-attacks"
+      },
+      {
+        "preview": "Review, spend some quality time with Mother Jones as well.Concede a point where appropriate.Unless your friend really is an obtuse Neanderthal, he’ll probably say a few things that you actually agree ...",
+        "upvotes": 2,
+        "url": "http://artofmanliness.com/2008/09/21/how-to-debate-politics-civilly/"
+      }
+    ]
+  }
+}

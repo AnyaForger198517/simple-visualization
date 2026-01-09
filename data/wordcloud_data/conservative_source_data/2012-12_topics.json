@@ -1,0 +1,285 @@
+{
+  "month": "2012-12",
+  "total_articles": 77,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "gun",
+        "december",
+        "murder",
+        "control",
+        "rate",
+        "world",
+        "ha",
+        "state",
+        "country",
+        "law",
+        "military",
+        "economic",
+        "crime",
+        "wa",
+        "ownership"
+      ],
+      "topic_weights": [
+        202.40261519985637,
+        70.32137134118719,
+        59.13222044062979,
+        58.03454030633087,
+        56.27428620436938,
+        54.05315808581089,
+        54.02452406249537,
+        47.53105763826319,
+        42.12326989778078,
+        40.656554662522545,
+        38.114815224439106,
+        32.8598991256161,
+        32.25158167958559,
+        31.988043474681092,
+        28.520224314670156
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "data",
+        "change",
+        "model",
+        "walk",
+        "ha",
+        "theory",
+        "trend",
+        "wa",
+        "global",
+        "mean",
+        "climate",
+        "analysis",
+        "result",
+        "earth",
+        "point"
+      ],
+      "topic_weights": [
+        168.7176311249362,
+        141.59697722078783,
+        119.74773635415636,
+        93.52645677962376,
+        85.68849074909834,
+        76.65736774014864,
+        72.20724823921806,
+        71.13543372534934,
+        69.5938575152226,
+        68.04184713877127,
+        64.04371330256218,
+        62.06499833589476,
+        53.70122953658172,
+        47.51164252555389,
+        47.109574163632416
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "gun",
+        "wa",
+        "law",
+        "permit",
+        "medium",
+        "news",
+        "home",
+        "child",
+        "address",
+        "owner",
+        "information",
+        "did",
+        "map",
+        "family",
+        "journal"
+      ],
+      "topic_weights": [
+        111.43151692128771,
+        77.4432368429025,
+        45.5354303752376,
+        35.754065652393024,
+        35.29555608598797,
+        33.210130771423046,
+        28.056054009918757,
+        27.845103752420133,
+        27.78349159675862,
+        26.973575770364587,
+        23.7192380032566,
+        21.96182285635304,
+        21.33770172681571,
+        20.90085394851846,
+        20.780836884847005
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "advertisement",
+        "culture",
+        "video",
+        "gateway",
+        "pundit",
+        "story",
+        "free",
+        "continues",
+        "president",
+        "science",
+        "fails",
+        "obama",
+        "newsletter",
+        "school",
+        "worker"
+      ],
+      "topic_weights": [
+        41.6363980709027,
+        13.370517999360876,
+        10.895919911385151,
+        9.817849122405494,
+        9.774460190121616,
+        9.110005700966703,
+        9.099496999022005,
+        9.079208558069599,
+        7.845095499220356,
+        7.506426410975939,
+        7.384472938492875,
+        7.267218909448654,
+        7.249197316702736,
+        6.907938769065533,
+        6.600862295248133
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "tax",
+        "obama",
+        "wa",
+        "republican",
+        "ha",
+        "president",
+        "state",
+        "government",
+        "cut",
+        "spending",
+        "american",
+        "budget",
+        "house",
+        "democrat",
+        "cliff"
+      ],
+      "topic_weights": [
+        231.7224033111826,
+        214.90631282540204,
+        208.8435742053315,
+        153.07354613093216,
+        151.6706351237789,
+        135.09878289306874,
+        123.6706269163389,
+        110.53998642446115,
+        101.32317209872019,
+        97.90241776607378,
+        92.72479350034342,
+        78.0296371435748,
+        77.65637550739996,
+        69.76653065145392,
+        65.62184330167267
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 43,
+    "3": 5,
+    "2": 15,
+    "0": 9,
+    "1": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Posted at 1:19 pm on December 4, 2012 by Lori Z. Oh, dear. This is beyond delusional and out of touch. Reminiscent of his absurd “doing just fine” and “headwinds!” comments, President Obama today said...",
+        "upvotes": 1,
+        "url": "http://twitchy.com/2012/12/04/doing-just-fine-obama-says-economy-is-poised-to-take-off-mockery-does-take-off/"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Foreign Policy Steve Chapman | 12.6.2012 10:30 AM The argument for leaving 10,000 U.S. troops in Afghanistan after 2014 is more or less ...",
+        "upvotes": 10,
+        "url": "http://reason.com/archives/2012/12/06/defending-the-world-bankrupting-ourselve"
+      },
+      {
+        "preview": "Posted at 1:41 pm on December 14, 2012 by Sarah D. As  reported, ghoulish lefties immediately jumped on the opportunity to politicize this morning’s tragic school shooting in Newtown, Connecticut, tha...",
+        "upvotes": 0,
+        "url": "http://twitchy.com/2012/12/14/disgusting-lefty-celebs-crawl-out-to-politicize-newtown-conn-tragedy/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "levels remain elevated, i.e. for much longer than the median lifespan of any political order the world has ever seen). “And we know you’re not trying to model the climate. That’s the problem: what we’...",
+        "upvotes": 0,
+        "url": "http://www.statisticsblog.com/2012/12/the-surprisingly-weak-case-for-global-warming/#comment"
+      },
+      {
+        "preview": "With both gay marriage and a challenge to affirmative action on its agenda, the Supreme Court will weigh in on two of the most charged issues. Progressives are full of nervous excitement about the mar...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/jedediah-purdy/will-justice-kennedy-defe_b_2271576.html"
+      },
+      {
+        "preview": "California seems almost singularly determined to become the most true-blue and subsequently expensive state in the union, and the results of their liberal governance are continuing to bear fruit — and...",
+        "upvotes": 15,
+        "url": "http://hotair.com/archives/2012/12/18/california-solar-power-imposing-its-costs-on-non-consumers/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "By Daily Mail Reporter Published: 21:01 EDT, 3 December 2012 | Updated: 21:01 EDT, 3 December 2012 136 View comments A construction crew was forced to remove their 'Men Working' sign at a community co...",
+        "upvotes": 27,
+        "url": "http://www.dailymail.co.uk/news/article-2242617/Builders-forced-stop-construction-sexist-Men-Working-signs-removed.html"
+      },
+      {
+        "preview": "Where politics meets the press Get alerts from the On Media blog By signing up you agree to receive email newsletters or updates from  and you agree to our privacy policy and terms of service. You can...",
+        "upvotes": 4,
+        "url": "http://www.politico.com/blogs/media/2012/12/glenn-beck-vince-vaughn-to-launch-reality-tv-show-151146.html"
+      },
+      {
+        "preview": "The BBC should feature more lesbian, gay and bisexual people in children’s television, a report has found. It should be “more creative and bolder” in how it depicts lesbian, gay and bisexual (LGB) peo...",
+        "upvotes": 13,
+        "url": "http://www.telegraph.co.uk/culture/tvandradio/bbc/9744094/BBC-told-to-put-more-gay-people-on-childrens-TV.html?utm_source=dlvr.it&utm_medium=twitter"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The Latest Politics, News & Election Videos On his Wednesday podcast, Adam Carolla ripped Mexican immigrants for their impact on California's public-education system. (via Jeff Poor/Daily Caller) âS...",
+        "upvotes": 37,
+        "url": "http://www.realclearpolitics.com/video/2012/11/30/carolla_blames_mexican_immigrants_and_imported_culture_for_cas_struggles.html"
+      },
+      {
+        "preview": "Advertisement On September 28, 1868, a mob of Democrats massacred nearly 300 African-American Republicans in Opelousas, Louisiana. The savagery began when racist Democrats attacked a newspaper editor,...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2012/12/sorry-libs-nra-was-there-to-help-blacks-defend-themselves-from-kkk-democrats-not-the-other-way-around/"
+      },
+      {
+        "preview": "Advertisement David Axelrod sent out this letter after the Newtown massacre. It’s a donations email. The Examiner reported: They won the campaign handily and even had $14.2 million to spare, but the O...",
+        "upvotes": 2,
+        "url": "http://www.thegatewaypundit.com/2012/12/sick-obama-white-house-raises-money-off-of-newtown-massacre/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Subscribe Now Home » News Travelers Today By Katie McFadden Updated: Nov 30, 2012 11:15 AM EST Now that he doesn't have to worry about campaigning, President Barack Obama is reportedly getting ready f...",
+        "upvotes": 0,
+        "url": "http://www.travelerstoday.com/articles/3775/20121130/president-obama-plans-4-million-hawaii-vacation-says-report-taxpayers-dime-money-oahu-fiscal-cliff-money-air-force-one-security-michelle-malia-sasha-bo.htm"
+      },
+      {
+        "preview": "Everyone in Washington fears the fiscal cliff. The White House has no interest in going over. Democrats understand they’ll never have more power than they do now. Delaying a budget deal until after Ja...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2012/11/30/tucker-carlson-and-neil-patel-congress-should-dive-headlong-off-fiscal-cliff/"
+      },
+      {
+        "preview": "WASHINGTON — He still has over a month before officially adopting the title “senator,” but Texas Republican Ted Cruz is already working to make his presence felt in the nation’s capital. Speaking with...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2012/11/29/cruz-im-something-that-is-not-supposed-to-exist-a-hispanic-republican/"
+      }
+    ]
+  }
+}

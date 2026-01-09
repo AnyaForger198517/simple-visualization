@@ -1,0 +1,285 @@
+{
+  "month": "2013-09",
+  "total_articles": 145,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "church",
+        "wa",
+        "religious",
+        "shepard",
+        "gay",
+        "crime",
+        "child",
+        "abuse",
+        "ha",
+        "sex",
+        "hate",
+        "group",
+        "southern",
+        "state",
+        "couple"
+      ],
+      "topic_weights": [
+        194.0231591275188,
+        187.4552461933552,
+        130.08012180366802,
+        127.30847488189615,
+        125.71236394501565,
+        115.43499019589557,
+        111.88404947146601,
+        104.19793695396751,
+        96.36916874698085,
+        96.04204393030197,
+        83.76516841752273,
+        77.68443116849487,
+        68.4818405868614,
+        64.66185658689443,
+        63.56072791645623
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "report",
+        "ha",
+        "climate",
+        "wa",
+        "ipcc",
+        "change",
+        "conclusion",
+        "level",
+        "state",
+        "world",
+        "policy",
+        "mother",
+        "recent",
+        "past",
+        "warming"
+      ],
+      "topic_weights": [
+        159.84459727802695,
+        155.926587440513,
+        136.9640033385673,
+        136.1206193057211,
+        135.6691317411671,
+        118.4073165297314,
+        87.31766038945393,
+        71.40399778657223,
+        64.68653201783353,
+        61.47456057517619,
+        60.38611439310536,
+        59.18514449763602,
+        56.10661677590154,
+        55.622423225588065,
+        55.052841287047436
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "republican",
+        "wa",
+        "ha",
+        "party",
+        "obama",
+        "house",
+        "president",
+        "state",
+        "american",
+        "cruz",
+        "gun",
+        "political",
+        "law",
+        "job",
+        "government"
+      ],
+      "topic_weights": [
+        353.3764426219068,
+        346.70304918548516,
+        297.6409394858885,
+        243.4447687470629,
+        220.6277037515563,
+        215.6727935604629,
+        200.152327784723,
+        196.6235463322378,
+        192.49650901029784,
+        186.17527820746233,
+        176.68374324780748,
+        149.85999664560185,
+        142.55569656428892,
+        135.04613387198705,
+        133.05651098221696
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "contractor",
+        "employee",
+        "worker",
+        "federal",
+        "cap",
+        "contract",
+        "wage",
+        "pay",
+        "government",
+        "labor",
+        "taxpayer",
+        "president",
+        "executive",
+        "compensation",
+        "billion"
+      ],
+      "topic_weights": [
+        219.92932254455374,
+        172.67846389758344,
+        166.51061753240143,
+        158.7316733408629,
+        140.37997070935768,
+        130.15458773245118,
+        116.3794565948296,
+        110.07652107180189,
+        108.57775648892692,
+        104.56200064798594,
+        100.10547885881388,
+        99.5397779848049,
+        98.18671403664433,
+        97.86513072074703,
+        93.11759231870226
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "wa",
+        "money",
+        "fund",
+        "poor",
+        "pension",
+        "public",
+        "percent",
+        "pay",
+        "tax",
+        "food",
+        "fee",
+        "cost",
+        "worker",
+        "point"
+      ],
+      "topic_weights": [
+        411.06623202885004,
+        402.5455280334796,
+        355.18707002877926,
+        343.81254010997407,
+        302.8216274442532,
+        262.8908986090013,
+        183.67576841098307,
+        180.78925709391007,
+        140.39763605638183,
+        122.02683924161744,
+        114.81619465872654,
+        110.44605513903753,
+        108.1549008705229,
+        107.17607421598086,
+        106.62418989208416
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 86,
+    "3": 8,
+    "4": 19,
+    "1": 23,
+    "0": 9
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "A February poll by Franklin & Marshall College found that Pennsylvanians, by a 52 to 41 percent margin, support marriage equality. An August poll, also by Franklin & Marshall, found that Gov. Tom Corb...",
+        "upvotes": 44,
+        "url": "http://www.huffingtonpost.com/2013/09/06/pennsylvania-gay-marriage_n_3882153.html"
+      },
+      {
+        "preview": "Search Rewire News Group Go Use quotes to search for exact phrases. Use AND/OR/NOT between keywords or phrases for more precise search results. News Abortion Sep 20, 2021 Rewire News Group Staff More ...",
+        "upvotes": 2,
+        "url": "http://rhrealitycheck.org/article/2013/08/19/the-deeply-disturbing-world-of-modern-anti-abortion-activism/"
+      },
+      {
+        "preview": "Whistling In The Wind Economics, Politics, Religion and Esperanto Coca-Cola is the biggest brand on Earth. It is not just a drink, it is the symbol of the American way of life and of capitalism. Gallo...",
+        "upvotes": 1,
+        "url": "http://robertnielsen21.wordpress.com/2013/01/10/boycott-coca-cola/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The explosion of college tuition and student debt is leaving more grads with big bills and doubts about their futures. Some back-to-school stats: The good news: College grads earn 84% more than high s...",
+        "upvotes": 20,
+        "url": "http://www.motherjones.com/politics/2013/09/college-student-loans-debt-tuition-charts"
+      },
+      {
+        "preview": "Special Programs Climate & Energy Written by Shauna Theel Published 09/05/13 3:46 PM EDT Share Comment The Daily Caller wrote that a recent survey of scientific literature only confirmed the “uncontro...",
+        "upvotes": 1,
+        "url": "http://mediamatters.org/blog/2013/09/05/daily-caller-refutes-daily-caller-declaring-man/195744"
+      },
+      {
+        "preview": "Where politics meets the press Get alerts from the On Media blog By signing up you agree to receive email newsletters or updates from  and you agree to our privacy policy and terms of service. You can...",
+        "upvotes": 6,
+        "url": "http://www.politico.com/blogs/media/2013/09/rush-limbaugh-to-publish-childrens-book-171892.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The Republican war on women wages on. The Iowa Board of Medicine, entirely hand-picked by Republican Governor Terry Branstad, voted 8-2 Friday to ban “telemed abortions,” cutting off rural women’s acc...",
+        "upvotes": 15,
+        "url": "http://www.opposingviews.com/i/health/are-internet-abortions-real-iowa-republicans-think-so"
+      },
+      {
+        "preview": "Follow Us National Review FBI Investigates Alleged Attack on Female Soldier by Male Afghan Refugees at New Mexico Base Republicans Tout ‘a More Conservative Direction’ in Defense-Policy Bill Mayorkas ...",
+        "upvotes": 0,
+        "url": "http://www.nationalreview.com/article/357287/accidental-war-mark-steyn"
+      },
+      {
+        "preview": "On Saturday, Justice Ruth Bader Ginsburg put on her finest neck doily and made history as the first member of the United States Supreme Court to officiate at a gay wedding. Ginsburg conducted the cere...",
+        "upvotes": 147,
+        "url": "http://www.salon.com/2013/09/01/ruth_bader_ginsburg_becomes_first_scotus_member_to_officiate_a_gay_wedding/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Pragmatic. Progressive. Politics. Home » Labor » Celebrate Labor Day By Celebrating Labor From DonkeyHotey on flickr There is a reason why we have a day called “labor day” and not one called “corporat...",
+        "upvotes": 1,
+        "url": "http://centerleftorg.wordpress.com/2013/09/02/celebrate-labor-day-by-celebrating-labor/"
+      },
+      {
+        "preview": "The US is the only wealthy country in the world where workers are not guaranteed paid leave. As most workers in the United States get a paid day off from work on September 2 – Labor Day – it is a good...",
+        "upvotes": 0,
+        "url": "http://www.aljazeera.com/indepth/opinion/2013/08/20138288333530714.html"
+      },
+      {
+        "preview": "One little bit of high-tech wealth brought to you by a lot of human thought. Wealth consists of the life-promoting goods and services that people have access to. Wealth, (beyond fruit) does not grow o...",
+        "upvotes": 0,
+        "url": "http://objectivismforintellectuals.wordpress.com/2013/08/31/wealth-is-created-by-action-based-on-rational-thought/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "One in four Pennsylvanian workers, and two out of three workers under 24, are paid poverty wages according to a recent report released by the Keystone Research Center.The annual report, released On Au...",
+        "upvotes": 43,
+        "url": "http://www.wsws.org/en/articles/2013/09/02/penn-s02.html"
+      },
+      {
+        "preview": "Think of your ten best guy friends: the dudes you grab a beer with, play ball with, get high with and have been there for some of the best nights of your life. You've probably known some of them since...",
+        "upvotes": 8,
+        "url": "http://www.huffingtonpost.com/jonathan-d-lovitz/from-no-homo-to-yeah-bro-_b_3843892.html"
+      },
+      {
+        "preview": "Legacy preference in college admission, or the practice of selecting the offspring of alumni over other qualified candidates, was originally a strategy developed to grandfather Jewish applicants out o...",
+        "upvotes": 12,
+        "url": "http://www.salon.com/2013/09/09/the_1_percents_ivy_league_loophole/"
+      }
+    ]
+  }
+}

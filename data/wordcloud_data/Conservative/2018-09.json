@@ -1,0 +1,36 @@
+{
+  "month": "2018-09",
+  "total_articles": 274,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Socialism and Gender/Social Issues in American Society",
+      "core_keywords": ["socialism", "gender", "society", "family", "student", "state", "work"],
+      "importance_ratio": 0.3868
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Kavanaugh Sexual Assault Allegations and Judicial Hearings",
+      "core_keywords": ["kavanaugh", "ford", "sexual assault", "allegation", "court", "judge", "evidence"],
+      "importance_ratio": 0.1934
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Tax Policy and Election Politics Between Parties",
+      "core_keywords": ["tax", "election", "democrat", "republican", "state", "trump", "voter"],
+      "importance_ratio": 0.1496
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Presidential Events and Public Affairs",
+      "core_keywords": ["trump", "president", "event", "white house", "congress", "public", "american"],
+      "importance_ratio": 0.1496
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Kavanaugh's Supreme Court Nomination and Senate Vote",
+      "core_keywords": ["kavanaugh", "senate", "supreme court", "nomination", "vote", "democrat", "republican"],
+      "importance_ratio": 0.1206
+    }
+  ]
+}

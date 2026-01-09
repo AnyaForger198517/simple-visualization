@@ -1,0 +1,285 @@
+{
+  "month": "2017-01",
+  "total_articles": 300,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "obama",
+        "news",
+        "house",
+        "state",
+        "republican",
+        "medium",
+        "white",
+        "clinton",
+        "administration",
+        "election",
+        "american"
+      ],
+      "topic_weights": [
+        1130.1580927622144,
+        823.6282163511378,
+        536.7292026867631,
+        415.7119228916052,
+        335.6854028562814,
+        302.30057534970905,
+        257.4232001722606,
+        232.37833953994064,
+        225.45555554624562,
+        217.40726071272508,
+        214.22475702556227,
+        195.53419287941423,
+        186.01960929680288,
+        180.95046077907222,
+        175.20096956407656
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "advertisement",
+        "continues",
+        "story",
+        "trump",
+        "wa",
+        "video",
+        "american",
+        "pundit",
+        "care",
+        "gateway",
+        "record",
+        "health",
+        "science",
+        "refugee",
+        "president"
+      ],
+      "topic_weights": [
+        354.36060101944247,
+        121.75451680204421,
+        117.49721787439094,
+        115.04723112422316,
+        111.4413889176461,
+        96.84266905316755,
+        80.22750346951437,
+        75.93007837202958,
+        71.50974016014379,
+        69.07343438810798,
+        67.6015067792892,
+        64.86543016211762,
+        64.62046416052647,
+        60.284007349800554,
+        51.59800680481085
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "university",
+        "student",
+        "professor",
+        "school",
+        "college",
+        "conservative",
+        "lecture",
+        "event",
+        "campus",
+        "white",
+        "leftist",
+        "state",
+        "anti",
+        "click",
+        "speech"
+      ],
+      "topic_weights": [
+        352.99375026207707,
+        247.64193897151802,
+        189.20865877596347,
+        128.733968247922,
+        111.42363275412009,
+        92.31361281659878,
+        78.9980481907896,
+        67.49572655174963,
+        60.43892691761684,
+        59.65283707823568,
+        57.38631114909217,
+        55.434742087472,
+        50.102197621319284,
+        41.84276297046291,
+        39.98652080534786
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "federal",
+        "trump",
+        "refugee",
+        "government",
+        "ha",
+        "order",
+        "law",
+        "president",
+        "policy",
+        "court",
+        "obama",
+        "wa",
+        "country",
+        "tax"
+      ],
+      "topic_weights": [
+        514.9202570168974,
+        313.9302394073265,
+        269.2776601272625,
+        268.9663951193648,
+        231.474848012242,
+        230.81720210989008,
+        229.11295472641493,
+        226.8899708007706,
+        224.80506791584074,
+        224.7655406941969,
+        212.78667299525318,
+        195.93978389040382,
+        187.58989170953384,
+        175.23826688070483,
+        163.7146598232119
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "woman",
+        "ha",
+        "life",
+        "men",
+        "comment",
+        "getty",
+        "american",
+        "power",
+        "trump",
+        "america",
+        "police",
+        "political",
+        "view",
+        "world"
+      ],
+      "topic_weights": [
+        549.9863124920204,
+        303.291412279935,
+        226.01575523965556,
+        195.31269241901353,
+        161.80237777399003,
+        149.33609023786602,
+        136.8092759926862,
+        125.88360624341236,
+        121.16503448746042,
+        118.29821547669691,
+        114.97046155397167,
+        114.30368162879307,
+        113.26751167144128,
+        104.51709446720301,
+        101.90292511080057
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 138,
+    "3": 59,
+    "4": 77,
+    "1": 20,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "In the world of climate science, the skeptics are coming in from the cold. Researchers who see global warming as something less than a planet-ending calamity believe the incoming Trump administration ...",
+        "upvotes": 7,
+        "url": "http://www.realclearinvestigations.com/articles/2016/12/31/skeptical_climate_scientists_coming_in_from_the_cold.html"
+      },
+      {
+        "preview": "By: Terresa Monroe-Hamilton | Right Wing News God bless Louie Gohmert. The conservative Texan Congressman is not only a principled man… he has a spine made of titanium. Gohmert is never afraid to spea...",
+        "upvotes": 26,
+        "url": "http://noisyroom.net/blog/2016/12/31/louie-gohmert-joins-with-ted-cruz-defund-the-un-slams-obama-for-anti-israel-un-attack/"
+      },
+      {
+        "preview": "Rachel Dolezal, a former NAACP leader and professor who received national media attention after it was revealed that she was a white woman posing as African-American, has been disinvited from a speaki...",
+        "upvotes": 24,
+        "url": "http://www.breitbart.com/tech/2016/12/31/trans-racial-rachel-dolezal-disinvited/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement A blockbuster new documentary asserts there is a master plan to create a permanent liberal majority in American by flooding it with millions of voters hostile to conservatism. But \"The E...",
+        "upvotes": 0,
+        "url": "http://www.wnd.com/2017/01/enemies-within-hillarys-links-to-muslim-brotherhood-revealed/"
+      },
+      {
+        "preview": "Advertisement Last night Hollywood actress Meryl Streep was honored with the Hollywood Foreign Press Association (HFPA) lifetime achievement award at the Golden Globes. Streep took the stage and round...",
+        "upvotes": 1,
+        "url": "http://www.thegatewaypundit.com/2017/01/boom-kellyanne-conway-schools-streep-cared-much-disabled-shouldve-spoken-behalf-tortured-chicago-teen/"
+      },
+      {
+        "preview": "Advertisement The actions of the Congressional Black Caucus in threatening violence to defend the ‘cops as pigs’ painting hanging in the U.S. Capitol complex is in direct contrast to Black Democrats i...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2017/01/flashback-armed-black-dems-used-police-take-painting-black-mayor-womens-lingerie/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "A group of UC Berkeley professors have demanded that  Senior Editor MILO be banned from the campus ahead of his show on February 1st, prompting the college’s chancellor to defend MILO’s constitutional...",
+        "upvotes": 13,
+        "url": "http://www.breitbart.com/milo/2017/01/11/uc-berkeley-professors-demand-milo-ban-ahead-show/"
+      },
+      {
+        "preview": "Please enable cookies to ensure you get the best experience on our website Published in Blog on July 17, 2017 by Convention Of States Project It is with both sadness and great excitement that I announ...",
+        "upvotes": 1,
+        "url": "http://www.conventionofstates.com/michael_farris_is_leaving"
+      },
+      {
+        "preview": "A national “teach-in” movement is asking professors to set aside class time between Martin Luther King, Jr. Day and the presidential inauguration to “protest” oppression and challenge “Trumpism.” The ...",
+        "upvotes": 27,
+        "url": "https://www.campusreform.org/?ID=8635"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day in Liberal Judicial Activism—September 12 The Supreme Court in the American Constitutional Order ...",
+        "upvotes": 154,
+        "url": "http://www.nationalreview.com/article/443436/donald-trump-gun-rights-restrictions-repeal"
+      },
+      {
+        "preview": "The Obama administration added more than 3,800 new regulations in 2016, 18 for every law passed by Congress. The new regs added 97,110 pages to the Federal Register, the official government record of ...",
+        "upvotes": 6,
+        "url": "http://www.americanthinker.com/blog/2016/12/incredible_obama_administration_adds_97000_pages_of_regulations_in_2016.html"
+      },
+      {
+        "preview": "President-elect Donald Trump’s economic vision for America is an unprecedented and unlikely combination of economic policies from both the far left and the far right that he argues will right America’...",
+        "upvotes": 16,
+        "url": "http://www.sfchronicle.com/opinion/openforum/article/What-adds-up-and-what-doesn-t-in-Trump-s-10616888.php?cmpid=reddit-mobile"
+      }
+    ],
+    "4": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Television and culinary personality Anthony Bourdain says in a new interview that fellow \"privileged Eastern liberals\" are the reason that Donald Tru...",
+        "upvotes": 40,
+        "url": "http://thehill.com/blogs/in-the-know/in-the-know/312322-anthony-bourdain-trump-won-because-people-were-sick-of"
+      },
+      {
+        "preview": "GETTY•HUMPHREY NEYMAR We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understa...",
+        "upvotes": 197,
+        "url": "http://www.express.co.uk/news/uk/748938/child-refugees-gain-entry-uk-home-office-over-18-gain-entry-uk-migrants-calais-jungle"
+      },
+      {
+        "preview": "a 300 dollar credit every qtr for his solar set up and when I reminded him that won’t be a sustainable proposition for the company he is set up with with respect to potential loss of profit over time,...",
+        "upvotes": 3,
+        "url": "https://wattsupwiththat.com/2017/01/02/aussie-chief-scientist-renewable-energy-push-hurts-the-poor/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2019-07",
+  "total_articles": 158,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "mueller",
+        "election",
+        "ha",
+        "finland",
+        "report",
+        "campaign",
+        "news",
+        "president",
+        "state",
+        "russia",
+        "house",
+        "republican",
+        "mcconnell"
+      ],
+      "topic_weights": [
+        250.2263696392998,
+        194.87338041438693,
+        193.39067905908945,
+        173.48927418292843,
+        157.81275401702445,
+        155.67772287678707,
+        145.9776255677705,
+        126.52728284624506,
+        117.22630391750317,
+        104.24144898389505,
+        103.5261446019973,
+        92.07039818947875,
+        84.29788188278931,
+        82.77393273692061,
+        78.4128623050984
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "wa",
+        "ha",
+        "trump",
+        "child",
+        "right",
+        "group",
+        "member",
+        "family",
+        "court",
+        "city",
+        "federal",
+        "government",
+        "democrat",
+        "administration"
+      ],
+      "topic_weights": [
+        146.08549011554325,
+        133.0985494663028,
+        121.09695960683703,
+        103.94131164692902,
+        81.31147613709416,
+        76.89040410741643,
+        75.81173593708922,
+        67.9707841383955,
+        67.81998152202442,
+        67.81800868181878,
+        66.18952567347637,
+        61.0787460015163,
+        61.00714842540841,
+        60.358260613792275,
+        58.359726564060296
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "percent",
+        "voter",
+        "candidate",
+        "democratic",
+        "ha",
+        "democrat",
+        "poll",
+        "trump",
+        "state",
+        "biden",
+        "wa",
+        "woman",
+        "sander",
+        "health",
+        "campaign"
+      ],
+      "topic_weights": [
+        297.89875276541693,
+        224.90546619877207,
+        204.18812234303098,
+        198.33762677356606,
+        182.95552992502425,
+        175.64311507834987,
+        170.06730597489988,
+        146.68932773410398,
+        140.20240751109813,
+        131.5805058412472,
+        129.2083411415486,
+        123.2171351321489,
+        120.43040460714371,
+        114.7869695342151,
+        109.62446321070831
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "debate",
+        "trump",
+        "climate",
+        "candidate",
+        "medium",
+        "ha",
+        "biden",
+        "post",
+        "president",
+        "harris",
+        "news",
+        "statement",
+        "sen",
+        "group"
+      ],
+      "topic_weights": [
+        152.43263083364374,
+        152.3004668132342,
+        82.17588463097351,
+        76.8703826581269,
+        76.15669800255502,
+        48.15228837791739,
+        45.35456487854873,
+        40.08488941463678,
+        38.278370283471084,
+        36.38631148025719,
+        35.22104802209788,
+        34.11694868903449,
+        32.87298953097643,
+        31.364363597148188,
+        31.326665843864543
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "american",
+        "president",
+        "nixon",
+        "african",
+        "racist",
+        "black",
+        "white",
+        "country",
+        "state",
+        "reagan",
+        "racism",
+        "united"
+      ],
+      "topic_weights": [
+        321.8912675757728,
+        182.78623400643113,
+        173.56241967764652,
+        158.7439215111306,
+        122.96138743969708,
+        114.49720390233021,
+        112.35578758967468,
+        106.44117710674332,
+        106.18312638490352,
+        95.61169563167032,
+        76.778125835897,
+        74.12826078117871,
+        72.53585425846227,
+        69.49158453574132,
+        64.98777502116764
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 36,
+    "4": 34,
+    "3": 12,
+    "1": 41,
+    "0": 35
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "WASHINGTON — House Democrats have finally filed suit for President Trump’s tax returns, kicking off a new legal clash between Congress and his administration. Trump has defied a House subpoena issued ...",
+        "upvotes": 481,
+        "url": "https://news.vice.com/en_us/article/vb98na/house-democrats-finally-just-sued-for-trumps-tax-returns"
+      },
+      {
+        "preview": "Quick Links Act Now › Sen. Elizabeth Warren (D-Mass.) announced in a Medium post last week that, if elected, she would discontinue the practice of giving ambassador posts to major campaign donors. The...",
+        "upvotes": 1,
+        "url": "https://www.opensecrets.org/news/2019/07/warrens-pledge-to-deny-campaign-donors-ambassador-jobs-would-mark-departure-from-trump-obama/?utm_source=reddit&utm_medium=social&utm_campaign=r%2F_deny-campaign-donors-ambassador-070319"
+      },
+      {
+        "preview": "Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter The network said it has \"resolved\" a claim that host Britt McHenry leveled against co-host Tyrus...",
+        "upvotes": 70,
+        "url": "https://www.hollywoodreporter.com/news/fox-news-streaming-service-reeling-misconduct-claim-goes-public-1218404"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Sign in Lantz Jul 1, 2019·4 min read The Republican party, a party that has portrayed itself as the party of ‘American values.’ Despite the current discord within American politics, it is rather safe ...",
+        "upvotes": 1,
+        "url": "https://medium.com/@mglantz5/the-republican-party-a-party-that-has-portrayed-itself-as-the-party-of-american-values-e3a7756788b2"
+      },
+      {
+        "preview": "Sign in Synapses Jun 30, 2019·5 min read Early this morning, Quillette (a conservative-leaning online magazine, founded by Australian writer Claire Lehmann) editor and photojournalist Andy Ngo was the...",
+        "upvotes": 1,
+        "url": "https://medium.com/@JacquesR/the-glorification-of-violence-and-the-case-of-andy-ngo-119c93ad21f0"
+      },
+      {
+        "preview": "BESIDES BEING BILLIONAIRES and spending much of their fortunes to promote pet causes, the leftist financier George Soros and the right-wing Koch brothers have little in common. They could be seen as p...",
+        "upvotes": 3,
+        "url": "https://www.bostonglobe.com/opinion/2019/06/30/soros-and-koch-brothers-team-end-forever-war-policy/WhyENwjhG0vfo9Um6Zl0JO/story.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Alexandria Ocasio-Cortez has joined the Democratic presidential candidate in making a contrast with the 2017 law Last modified on Sun 30 Jun 2019 06.01 EDT A 2016 plan for free college tuition didn’t ...",
+        "upvotes": 1,
+        "url": "https://www.theguardian.com/news/datablog/2019/jun/30/student-debt-loan-forgiveness-bernie-sanders"
+      },
+      {
+        "preview": "Climate change is becoming a bigger issue with left-leaning voters every day. Polls consistently show it leaping up their list of political concerns, propelled by a giant body of science that says our...",
+        "upvotes": 1,
+        "url": "https://www.technologyreview.com/s/613896/the-biggest-loser-in-the-presidential-debates-planet-earth/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Democrats shouldn’t bet on abortion in 2022 Feebleminded Joe Biden’s impact on America’s allies Biden’s ‘America last’ agenda Momentum is building at the White House for Pre...",
+        "upvotes": 2,
+        "url": "https://www.washingtontimes.com/news/2019/jun/30/donald-trump-considering-cut-to-capital-gains-taxe/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "In an interview Sunday on ABC's \"This Week,\" Sen. Bernie Sanders weighed in on the debate about busing students to reverse de facto segregation in schools that got so much attention during the first p...",
+        "upvotes": 6,
+        "url": "https://www.realclearpolitics.com/video/2019/06/30/bernie_sanders_does_anybody_think_it_is_a_good_idea_to_bus_students_to_other_neighborhoods.html"
+      },
+      {
+        "preview": "If one doubts the dominance of media narratives, try praising Beto O’Rourke at a dinner party. One provokes trills of scorn–he’s shallow, callow and insubstantial, the epitome of “white male privilege...",
+        "upvotes": 9,
+        "url": "https://thebulwark.com/beto-than-advertised/"
+      },
+      {
+        "preview": "This article is more than 1 year old Marc Johnson and his wife were cleaning out their closets a few weeks ago in Arlington, Va., when he realized he had too many neckties. So he listed several on eBa...",
+        "upvotes": 386,
+        "url": "https://www.washingtonpost.com/lifestyle/2019/05/02/man-put-his-patriotic-tie-ebay-then-he-learned-buyer-needed-it-citizenship-ceremony/?utm_term=.7a6e7d1b68a8"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Fox News host Tucker Carlson appeared to defend North Korea’s atrocities and implied that we should not be criticizing them so much on Fox & Friends Sunday. When asked if President Trump runs the risk...",
+        "upvotes": 1,
+        "url": "https://pjmedia.com/homeland-security/tucker-carlson-on-monstrous-north-korean-regime-leading-a-country-means-killing-people/"
+      },
+      {
+        "preview": "Save 84% off the newsstand price! Walking the Gettysburg battlefield today, it’s easy to imagine the Union and Confederate armies dueling for control of the Pennsylvania town and its surrounding pictu...",
+        "upvotes": 6,
+        "url": "https://www.smithsonianmag.com/history/diaries-left-behind-confederate-soldiers-reveals-role-enslaved-labor-gettysburg-180972538/"
+      },
+      {
+        "preview": "Happy Fourth! This July 4, let's not mince words: American independence in 1776 was a monumental mistake. We should be mourning the fact that we left the United Kingdom, not cheering it. Of course, ev...",
+        "upvotes": 0,
+        "url": "https://www.vox.com/2015/7/2/8884885/american-revolution-mistake"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2021-03",
+  "total_articles": 122,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "biden",
+        "president",
+        "border",
+        "ha",
+        "democrat",
+        "administration",
+        "house",
+        "american",
+        "state",
+        "child",
+        "trump",
+        "wa",
+        "republican",
+        "military",
+        "policy"
+      ],
+      "topic_weights": [
+        219.35506831544396,
+        118.55302011064595,
+        107.13191298793048,
+        96.66639399221317,
+        78.83006041529693,
+        78.39201529074452,
+        74.75231408713441,
+        74.30667531713311,
+        72.64721498536827,
+        71.96541158045058,
+        71.94774701107308,
+        65.07321123097826,
+        63.95082656494737,
+        62.261955070029,
+        61.863177122384
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "school",
+        "china",
+        "ha",
+        "student",
+        "asian",
+        "community",
+        "american",
+        "city",
+        "child",
+        "police",
+        "parent",
+        "man",
+        "law",
+        "attack"
+      ],
+      "topic_weights": [
+        56.477538905350144,
+        50.77360317124574,
+        38.012685783633714,
+        29.915982104918147,
+        28.85431639009678,
+        25.289800425744488,
+        25.196196992029268,
+        23.366466834083873,
+        21.869168334051366,
+        20.68780381860756,
+        17.970677642049957,
+        17.664813756080132,
+        17.40453322968426,
+        15.749765861733188,
+        15.188014938733756
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "vaccine",
+        "ha",
+        "johnson",
+        "governor",
+        "mask",
+        "york",
+        "woman",
+        "trump",
+        "abbott",
+        "news",
+        "gun",
+        "site",
+        "nra",
+        "texas"
+      ],
+      "topic_weights": [
+        67.0479474175259,
+        53.33417373592352,
+        31.84930295378686,
+        31.420582951626066,
+        31.203393795411646,
+        27.34167818130777,
+        25.260938850348943,
+        24.794377512782813,
+        24.422319348765576,
+        23.34471888927332,
+        22.12211908778258,
+        20.051188542254433,
+        19.923143545787596,
+        19.79174399162183,
+        19.05610986915191
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "capitol",
+        "advertisement",
+        "trump",
+        "police",
+        "black",
+        "life",
+        "report",
+        "matter",
+        "attack",
+        "medium",
+        "family",
+        "million",
+        "video"
+      ],
+      "topic_weights": [
+        177.9396135145434,
+        90.7073688146101,
+        85.2939113823745,
+        83.8101357391894,
+        81.78765574279744,
+        81.55883655128676,
+        76.70471838311988,
+        72.56953667337179,
+        63.989174523495535,
+        61.593625122884845,
+        60.24153045292176,
+        56.99769241857656,
+        56.642375097122404,
+        51.05119434952634,
+        45.69082897486921
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "election",
+        "state",
+        "racism",
+        "health",
+        "court",
+        "law",
+        "case",
+        "national",
+        "structural",
+        "vote",
+        "security",
+        "community",
+        "ballot"
+      ],
+      "topic_weights": [
+        80.9627585656205,
+        62.47545012070353,
+        59.53565828303194,
+        56.50928703767666,
+        43.54315499730005,
+        38.241273045521694,
+        35.18694825398159,
+        27.21130961229207,
+        24.458626948276986,
+        24.13831664864704,
+        23.964487296310992,
+        23.200449953318145,
+        23.187748041358805,
+        23.007632944701335,
+        22.99294243002706
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 44,
+    "1": 15,
+    "2": 13,
+    "4": 21,
+    "3": 29
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "If there’s one thing I’ve learned from working in American politics, it’s this: things can always get dumber. No matter how far you think the woke warriors have overextended themselves, there will for...",
+        "upvotes": 31,
+        "url": "https://amgreatness.com/2021/03/01/potato-head-politics/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 22,
+        "url": "https://www.washingtontimes.com/news/2021/mar/2/editorial-democrats-try-to-rewrite-election-rules-/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved A bipartisan group of senators introduced a bill on Wednesday to repeal two military authorizations, effectively curbing President BidenJoe BidenFBI ...",
+        "upvotes": 1,
+        "url": "https://thehill.com/homenews/senate/541451-bipartisan-group-of-senators-introduce-bill-to-rein-in-bidens-war-powers"
+      }
+    ],
+    "1": [
+      {
+        "preview": "UTLA President Cecily Myart-Cruz also said if COVID-19 were a 'rich person's disease, we would've seen a very different response' The president of the United Teachers of Los Angeles blasted California...",
+        "upvotes": 22,
+        "url": "https://www.theblaze.com/news/la-teachers-union-state-reopening-plan-racist"
+      },
+      {
+        "preview": "Strong show of solidarity An Orange County, California, neighborhood has banded together to guard an Asian-American family after the family purportedly suffered a series of \"deeply upsetting\" racist a...",
+        "upvotes": 37,
+        "url": "https://www.theblaze.com/news/neighborhood-guards-asian-american-family-racist-attacks"
+      },
+      {
+        "preview": "\"The only thing we have to fear is fear itself — nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.” — Franklin Delano Roosevelt The recent schoo...",
+        "upvotes": 1,
+        "url": "https://www.usatoday.com/story/opinion/2021/03/09/cdc-school-opening-covid-rules-guidance-column/4628552001/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Texas Governor Greg Abbott, a Republican, announced on Tuesday afternoon that he is signing an executive order that will lift the state’s mandatory mask mandate and will do away with limits on the num...",
+        "upvotes": 820,
+        "url": "https://www.dailywire.com/news/breaking-texas-governor-greg-abbott-ends-mandatory-mask-mandate-time-to-open-texas-100"
+      },
+      {
+        "preview": "Coronavirus The executive orders announced by the two Republican governors come as health officials warn against loosening restrictions too quickly. Bob Daemmrich/Pool Photo via AP By BENJAMIN DIN and...",
+        "upvotes": 1,
+        "url": "https://www.politico.com/amp/news/2021/03/02/texas-to-lift-mask-mandate-472690?__twitter_impression=true"
+      },
+      {
+        "preview": "YOUR CULTURE HUB! Music, Fashion, Culture, Tech, Politics and more! Mass Vaccination Sites at Yankee Stadium, Javits Center and the New York State Fair to Add Additional Appointments and Operate 24/7 ...",
+        "upvotes": 1,
+        "url": "https://imprintent.org/governor-cuomo-announces-pilot-program-to-begin-administering-johnson-johnson-covid-19-vaccine-at-state-run-mass-vaccination-sites/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Joe Biden was asked when things will go back to normal on Tuesday as he shuffled out of his presser. Joe paused and told the leftwing reporters: Advertisement - story continues below Joe...",
+        "upvotes": 1,
+        "url": "https://www.thegatewaypundit.com/2021/03/hope-time-next-year-joe-biden-asked-america-will-go-back-normal-video/"
+      },
+      {
+        "preview": "Advertisement Congressional Democrats reintroduced legislation Tuesday to expand federal background checks on all gun sales. The Background Check Expansion Act would require unlicensed or private sell...",
+        "upvotes": 1,
+        "url": "https://www.thegatewaypundit.com/2021/03/democrats-introduce-background-check-expansion-act-gun-control-bill-congress/"
+      },
+      {
+        "preview": "Politicians have too much power over our lives. Many used the pandemic as another excuse to take more. Early on, politicians declared that they would decide who was “essential.” Everyone else was told...",
+        "upvotes": 37,
+        "url": "https://pjmedia.com/columns/john-stossel/2021/03/03/mike-rowe-everyone-is-essential-n1429583"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Six Dr. Seuss books, including “And to Think That I Saw It on Mulberry Street” and “If I Ran the Zoo,” will stop being published because of racist and insensitive imagery, the business that preserves ...",
+        "upvotes": 11,
+        "url": "https://www.tampafp.com/six-dr-seuss-books-get-the-axe-prices-sky-rocket-on-amazon/"
+      },
+      {
+        "preview": "ECO Solutions with Sara Troy and her guest Patrick Moore, on air from February 9th Dr. Patrick Moore, is the author of the book Fake Invisible Catastrophes and Threats of Doom, with 11 chapters exposi...",
+        "upvotes": 23,
+        "url": "https://selfdiscoverymedia.com/2021/02/08/eco21-06-patrick-moore-fake-invisible-catastrophes-and-threats-of-doom/"
+      },
+      {
+        "preview": "An election contest was filed last July on behalf of Robert Devaull against Nicholas Holliday, who was certified as the Ward 1 alderman race winner. Devaull received 44 percent of the vote, compared t...",
+        "upvotes": 75,
+        "url": "https://djhjmedia.com/kari/massive-fraud-absentee-ballot-corruption-causes-judge-to-rule-for-election-do-over/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "month": "2016-08",
+  "total_articles": 230,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "flag",
+        "salute",
+        "staff",
+        "state",
+        "displayed",
+        "united",
+        "half",
+        "attention",
+        "society",
+        "anthem",
+        "union",
+        "national",
+        "placed",
+        "raised",
+        "note"
+      ],
+      "topic_weights": [
+        816.1147865853205,
+        195.3207553727564,
+        177.63828620457178,
+        147.68353382680394,
+        120.00935552121747,
+        112.64754226002029,
+        102.33790990844558,
+        91.95066517456915,
+        89.83655879897297,
+        78.98054791153767,
+        71.65030794979208,
+        69.03036311478203,
+        65.46799326674324,
+        64.20786287508737,
+        62.930980237776545
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "black",
+        "school",
+        "state",
+        "american",
+        "law",
+        "health",
+        "student",
+        "social",
+        "life",
+        "government",
+        "work",
+        "news",
+        "public"
+      ],
+      "topic_weights": [
+        442.85662355426865,
+        279.012194371537,
+        232.14438961509495,
+        211.99217732785655,
+        200.04693065092658,
+        150.47669671463535,
+        140.94584516114966,
+        121.96996480155944,
+        121.28606597427701,
+        117.19316424341358,
+        109.59490151982446,
+        108.3820933485725,
+        104.71515830265596,
+        102.65787070481245,
+        101.93957242356771
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "chance",
+        "nov",
+        "updated",
+        "poll",
+        "vote",
+        "forecast",
+        "trump",
+        "medium",
+        "research",
+        "clinton",
+        "mrc",
+        "donald",
+        "hillary",
+        "electoral",
+        "winning"
+      ],
+      "topic_weights": [
+        151.16886292271806,
+        150.91685304285232,
+        144.20682050029563,
+        135.23885966067985,
+        107.02462756868749,
+        106.9694884010762,
+        86.1387847629047,
+        72.83238606943064,
+        71.47846500879513,
+        69.21546362069785,
+        68.96184340595647,
+        65.9907091362061,
+        59.9104346804205,
+        55.31352642641485,
+        54.68538559025569
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "ha",
+        "state",
+        "foundation",
+        "million",
+        "department",
+        "muslim",
+        "email",
+        "law",
+        "hillary",
+        "told",
+        "case",
+        "khan",
+        "security"
+      ],
+      "topic_weights": [
+        279.02713156629864,
+        228.98483399421372,
+        167.23503732467304,
+        153.14573527218323,
+        110.33424387365679,
+        84.14768572240429,
+        82.27020622703371,
+        82.15164672033615,
+        76.76109647496796,
+        71.30061957352322,
+        70.78837015600386,
+        68.54255019573519,
+        60.4870155885047,
+        59.031598725522755,
+        58.50526085630455
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "ha",
+        "wa",
+        "clinton",
+        "republican",
+        "party",
+        "hillary",
+        "american",
+        "campaign",
+        "state",
+        "donald",
+        "percent",
+        "president",
+        "conservative",
+        "news"
+      ],
+      "topic_weights": [
+        1255.3306496571247,
+        544.2152728922441,
+        464.445015119669,
+        427.2535099670438,
+        393.37924974371987,
+        316.6140414725331,
+        275.9779349480814,
+        256.50572124491225,
+        244.8931541674122,
+        231.57404790814877,
+        223.89750272640444,
+        208.0578933212201,
+        206.44334656271454,
+        205.92149255381736,
+        188.4621395615737
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 101,
+    "1": 82,
+    "0": 2,
+    "3": 39,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ag should be placed with the union at the head and over the left shoulder. It should not be lowered into the grave. Displaying the Flag Outdoors When the flag is displayed from a staff projecting from...",
+        "upvotes": 5,
+        "url": "http://www.usflag.org/flagetiquette.html"
+      },
+      {
+        "preview": "winsky's choices 5/11/98: Random thoughts 5/7/98: Media obstruction of justice 5/4/98: Dangerous \"safety\" 5/1/98: Abolish Adolescence! 4/30/98: The naked truth 4/22/98: Playing fair and square 4/19/98...",
+        "upvotes": 132,
+        "url": "http://www.jewishworldreview.com/cols/sowell043098.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Social justice warriors at their most heinous and corrupt. That’s one way to describe Baltimore, Maryland’s State Attorney Marilyn Mosby and the team that looked to railroad six police officers charge...",
+        "upvotes": 88,
+        "url": "http://www.redstate.com/sweetie15/2016/07/31/leaked-texts-reveal-social-justice-important-actual-justice-baltimores-freddie-gray-case/"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Free-Range Kids Nick Gillespie | 8.1.2016 10:47 AM The scene is Albuquerque's Cleveland Middle School, where a 13-year-old class clown i...",
+        "upvotes": 2,
+        "url": "http://reason.com/blog/2016/08/01/federal-appeals-court-upholds-criminal-c"
+      },
+      {
+        "preview": "A new update to iOS brings a host of emoji changes By Carl Franzen | Published Aug 1, 2016 11:23 PM Apple’s latest software update for the iPhone and iPad features one of its subtlest but most symboli...",
+        "upvotes": 17,
+        "url": "http://www.popsci.com/apple-removes-gun-emoji-replaces-it-with-squirt-gun"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 10,
+        "url": "http://newsbusters.org/blogs/nb/nicholas-fondacaro/2016/08/07/abc-panel-picks-secret-sexist-code-trumps-hillary-criticisms"
+      },
+      {
+        "preview": "Updated Nov. 8, 2016 Updated Nov. 8, 2016 Updated Nov. 9, 2016 We’re forecasting the election with three models Polls-plus forecast What polls, the economy and historical data tell us about Nov. 8 Pol...",
+        "upvotes": 1,
+        "url": "http://projects.fivethirtyeight.com/2016-election-forecast/georgia/"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 6,
+        "url": "http://newsbusters.org/blogs/nb/tim-graham/2016/08/18/washpost-profiles-rnc-spokesman-sean-sphincter-who-makes-small"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By Abe Hawken For Mailonline Published: 15:17 EDT, 31 July 2016 | Updated: 09:17 EDT, 1 August 2016 244 View comments A priest has been stabbed in his own home when he allegedly refused to give an asy...",
+        "upvotes": 16,
+        "url": "http://www.dailymail.co.uk/news/article-3717169/Belgian-priest-65-stabbed-home-refused-asylum-seeker-money-letting-use-shower.html"
+      },
+      {
+        "preview": "Advertisement Guest post by Joe Hoft According to a new report Khizr Khan, the angry Muslim father of a US soldier killed in Iraq, who spoke at the DNC last week is connected to the Islamic terrorist ...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2016/08/dnc-angry-muslim-father-trump-basher-khizr-khan-reportedly-ties-muslim-brotherhood-terrorist-organization/"
+      },
+      {
+        "preview": "Khizr Khan, the Muslim Gold Star father that the mainstream media and former Secretary of State Hillary Clinton have been using to criticize Donald J. Trump, has deep ties to the government of Saudi A...",
+        "upvotes": 2,
+        "url": "http://www.breitbart.com/2016-presidential-race/2016/08/01/clinton-cash-khizr-khans-deep-legal-financial-connections-saudi-arabia-hillarys-clinton-foundation-connect-terror-immigration-email-scandals/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Hillary said that Trump is everything that she and her VP pick are not, well I hope so. Trump is for putting America and Americans first. Trump is for keeping us safe from terrorists. Trump is for cre...",
+        "upvotes": 39,
+        "url": "http://www.conservativedailynews.com/2016/07/is-hillary-dangerous-for-america/"
+      },
+      {
+        "preview": "SEARCH Sure, Hillary is the crone in crony capitalism. But Donald… I endorse Hillary Clinton for president. She is the second-worst thing that could happen to America. I endorse her. And all her pomps...",
+        "upvotes": 1,
+        "url": "http://www.thedailybeast.com/articles/2016/05/11/p-j-o-rourke-i-m-endorsing-hillary-clinton-the-devil-we-know.html"
+      },
+      {
+        "preview": "A Blog by Chris Mark Please read “An Apology to Mr. Khan, Mrs. Smith & Gold Star Families” Dear Mr. Khan, I want to preface this letter by stating that I respect your son’s sacrifice for this great na...",
+        "upvotes": 17,
+        "url": "https://globalriskinfo.com/2016/07/31/an-open-letter-to-khizr-khan/"
+      }
+    ]
+  }
+}

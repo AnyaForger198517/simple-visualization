@@ -1,0 +1,255 @@
+{
+  "month": "2011-02",
+  "total_articles": 10,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "john",
+        "idea",
+        "conservative",
+        "texas",
+        "law",
+        "jim",
+        "house",
+        "liberal",
+        "mccain",
+        "ohio",
+        "senator",
+        "sen",
+        "court",
+        "ha",
+        "wa"
+      ],
+      "topic_weights": [
+        10.252418260194384,
+        7.771090220873529,
+        7.718376956983138,
+        7.680925965719059,
+        6.822236713227435,
+        6.28580696267365,
+        6.191055973674415,
+        5.902497655270054,
+        5.832578395812593,
+        5.826725924160389,
+        5.816581315356585,
+        5.689401228428175,
+        5.5962004143915465,
+        5.241292050506614,
+        5.179946712937919
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "government",
+        "union",
+        "public",
+        "state",
+        "sector",
+        "ha",
+        "teacher",
+        "employee",
+        "tax",
+        "worker",
+        "republican",
+        "wa",
+        "money",
+        "obama",
+        "work"
+      ],
+      "topic_weights": [
+        204.82059377766504,
+        195.10006249519435,
+        177.60906312163655,
+        130.14956317054722,
+        110.9131090695888,
+        105.42546294715488,
+        99.86710859381076,
+        97.1501268328374,
+        93.57394965298965,
+        93.49023353346708,
+        93.42727557066232,
+        93.30043133046462,
+        84.84264996646073,
+        80.55177275649687,
+        78.75180270367623
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tea",
+        "party",
+        "wa",
+        "reply",
+        "american",
+        "sam",
+        "government",
+        "today",
+        "protest",
+        "world",
+        "movement",
+        "tax",
+        "act",
+        "comment",
+        "trade"
+      ],
+      "topic_weights": [
+        17.884896624565076,
+        13.262264201815814,
+        11.678120568306218,
+        5.8255849227163745,
+        5.790603601240975,
+        4.894320058972256,
+        4.810265571374593,
+        4.024740534598944,
+        4.0203340057674035,
+        4.01558945190168,
+        3.961038159562309,
+        3.332176847792974,
+        3.1416953938663346,
+        3.0989133971420038,
+        3.033435432051773
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "federal",
+        "wa",
+        "government",
+        "senate",
+        "walker",
+        "continues",
+        "ha",
+        "story",
+        "budget",
+        "vote",
+        "wisconsin",
+        "legislature",
+        "law",
+        "issue"
+      ],
+      "topic_weights": [
+        60.426312359210286,
+        38.18496847430937,
+        24.555824483588687,
+        24.423810804404354,
+        18.14344609888296,
+        17.97300006041814,
+        15.007713676361615,
+        15.003597156539712,
+        14.077261434222782,
+        12.390475359504581,
+        12.189533097161629,
+        11.435684977348451,
+        11.419788705760377,
+        10.470702147252778,
+        9.529926750383572
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "union",
+        "government",
+        "public",
+        "national",
+        "sector",
+        "wisconsin",
+        "state",
+        "federal",
+        "party",
+        "walker",
+        "labor",
+        "review",
+        "wa",
+        "reform",
+        "ha"
+      ],
+      "topic_weights": [
+        22.2988051129317,
+        19.029396319637833,
+        10.90920702716312,
+        5.965327442291044,
+        5.671875724141806,
+        5.445729529261,
+        5.276116616069411,
+        5.269081337667914,
+        4.2478809624112674,
+        4.175161096886321,
+        4.163805127053433,
+        4.006952810048858,
+        3.987074349985514,
+        3.979696764806733,
+        3.9782382225894235
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 4,
+    "0": 3,
+    "2": 1,
+    "1": 1,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "On Monday, U.S. District Court Judge Roger Vinson in Florida ruled the ObamaCare health insurance mandate unconstitutional. And although this law will still have to be heard by other courts, what if e...",
+        "upvotes": 1,
+        "url": "http://dailycaller.com/2011/01/31/coulter-if-interstate-commerce-clause-allows-health-insurance-mandate-gop-should-mandate-guns-and-a-bible/"
+      },
+      {
+        "preview": "by Brett Stevens on February 7, 2011 As usual in politics, we’re going about everything the wrong way. Huge parts of the Midwest and South want to distance themselves from Obama, so talk about nullifi...",
+        "upvotes": 2,
+        "url": "http://www.amerika.org/politics/let-california-secede/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. John McCain (R-Ariz.) has been ranked as one of the most conservative senators, a surprising development for a politician who touted his indepen...",
+        "upvotes": 1,
+        "url": "http://thehill.com/blogs/blog-briefing-room/news/145975-mccain-ties-with-seven-others-in-most-conservative-senator-rankings"
+      }
+    ],
+    "1": [
+      {
+        "preview": " At least you admit you have no morals nor is charity important to, that however still does not mean are not an arsehole. There are vast numbers of impoverished people in Africa, India, China etc. So ...",
+        "upvotes": 27,
+        "url": "http://reason.com/blog/2011/02/18/is-this-how-a-president-should"
+      }
+    ],
+    "2": [
+      {
+        "preview": "by James D. Best Contrary to popular opinion, the Boston Tea party was more than a protest over taxes. Taxes were a big element, but it was also a protest against a Parliament that wouldn’t listen, de...",
+        "upvotes": 0,
+        "url": "http://www.whatwouldthefoundersthink.com/recapturing-the-tea-party"
+      }
+    ],
+    "3": [
+      {
+        "preview": "An emboldened caucus of Senate Republicans came out in full force in favor of a bill to repeal the new health care law Monday, just hours after Federal Judge Roger Vinson ruled the law unconstitutiona...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2011/01/31/health-care-repeal-ruling-emboldens-senate-republicans/"
+      },
+      {
+        "preview": "Advertisement Tennessee has joined the list of states looking to yank the reins on the federal government's expansion into what more and more state lawmakers are considering their own prerogatives. \"W...",
+        "upvotes": 10,
+        "url": "http://www.wnd.com/index.php?fa=PAGE.view&pageId=267141"
+      },
+      {
+        "preview": "by Brett Stevens on February 23, 2011 When we speak of passive aggression, we’re talking about a general term for all actions that hide their aggressive intent behind egalitarian guilt. For example, d...",
+        "upvotes": 2,
+        "url": "http://www.amerika.org/social-reality/passive-aggression/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day in Liberal Judicial Activism—September 12 The Supreme Court in the American Constitutional Order ...",
+        "upvotes": 8,
+        "url": "http://www.nationalreview.com/articles/260359/public-unions-must-go-jonah-goldberg"
+      }
+    ]
+  }
+}

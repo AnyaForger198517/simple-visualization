@@ -1,0 +1,280 @@
+{
+  "month": "2015-07",
+  "total_articles": 300,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "june",
+        "posted",
+        "clinton",
+        "email",
+        "silver",
+        "wa",
+        "chelsea",
+        "anna",
+        "puma",
+        "logprof",
+        "hillary",
+        "usa",
+        "ha",
+        "oke",
+        "increase"
+      ],
+      "topic_weights": [
+        896.4084788800898,
+        875.4508550646585,
+        261.13446744402984,
+        127.41890182049156,
+        108.77475992817347,
+        103.63574432465668,
+        83.31599037371362,
+        54.543963044479064,
+        52.480982775937825,
+        52.42163475723204,
+        52.322042887823876,
+        51.73372725295456,
+        48.675776264829274,
+        47.22883228505875,
+        46.65810380732772
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "wa",
+        "trump",
+        "state",
+        "republican",
+        "american",
+        "campaign",
+        "cruz",
+        "candidate",
+        "obama",
+        "clinton",
+        "party",
+        "paul",
+        "president",
+        "conservative"
+      ],
+      "topic_weights": [
+        592.8416140492819,
+        580.8526523062553,
+        477.54440838370283,
+        382.83405848709435,
+        335.1116453355804,
+        256.86140885371293,
+        244.3982128719094,
+        243.04655863176686,
+        241.2602612565152,
+        227.8583710245016,
+        208.27891068506423,
+        205.85367779507283,
+        204.03399292650647,
+        203.28167125029597,
+        196.7271565731778
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "court",
+        "justice",
+        "wa",
+        "marriage",
+        "state",
+        "gay",
+        "supreme",
+        "ha",
+        "church",
+        "sex",
+        "religious",
+        "american",
+        "law",
+        "christian",
+        "catholic"
+      ],
+      "topic_weights": [
+        265.7312279201634,
+        249.8668876935205,
+        238.60994432600708,
+        166.44791522596583,
+        161.4807521440194,
+        151.72035751839817,
+        105.16825762696595,
+        102.5488729535767,
+        90.21042833638025,
+        85.36768548443636,
+        84.44435971520981,
+        79.12927268302143,
+        78.5776473871787,
+        76.5110494534407,
+        68.75631640357317
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "planned",
+        "parenthood",
+        "obama",
+        "iran",
+        "law",
+        "video",
+        "woman",
+        "abortion",
+        "deal",
+        "department",
+        "president",
+        "american"
+      ],
+      "topic_weights": [
+        788.1490319867437,
+        421.1364688488059,
+        392.6017049600937,
+        265.68255587470486,
+        251.00744765131003,
+        247.52427357107973,
+        240.81961824750186,
+        235.97280602015255,
+        208.58321669093462,
+        179.21395914873324,
+        178.72815815412557,
+        169.6445782949272,
+        169.35218361952093,
+        167.48777898003337,
+        157.20017367431325
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "july",
+        "posted",
+        "wa",
+        "ha",
+        "hillary",
+        "bernie",
+        "jay",
+        "socialist",
+        "guevara",
+        "oke",
+        "did",
+        "vote",
+        "seal",
+        "america",
+        "democrat"
+      ],
+      "topic_weights": [
+        2549.494641043003,
+        2496.6970220350067,
+        262.9042005636086,
+        129.5836157754506,
+        124.92700022521457,
+        100.99309945495462,
+        92.69580753675304,
+        92.12463162595759,
+        90.39718393754731,
+        88.92598968694878,
+        86.41176051639451,
+        67.90644113720406,
+        67.3316791762807,
+        65.96131728009141,
+        65.95684404920185
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 120,
+    "3": 150,
+    "2": 23,
+    "0": 2,
+    "4": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "nother black church in Williamsburg County in flames.. Posted by: Mrs. Ace of Spades with a Wang! at June 30, 2015 10:19 PM (iQIUe) 488 I made it to 2:10 in the video, when they called Linda McCartney...",
+        "upvotes": 0,
+        "url": "http://acecomments.mu.nu/?post=357609"
+      },
+      {
+        "preview": "There is a rising trend in the silver market that has the bankers worried. This may seem like a play on hype, but I can assure you… the facts are clear. If we look at the data in the silver market, th...",
+        "upvotes": 1,
+        "url": "http://www.silver-phoenix500.com/article/what-silver-chart-has-bankers-worried"
+      }
+    ],
+    "1": [
+      {
+        "preview": "I received a lot of feedback this past weekend about my piece responding to the Supreme Court's gay marriage ruling. Many people seemed to take exception to my radical position that men and woman can ...",
+        "upvotes": 0,
+        "url": "http://www.theblaze.com/contributions/yes-gay-marriage-hurts-me-personally/"
+      },
+      {
+        "preview": "June 30, 2015 / News You Can Use, Shining the Light Republicans won the college tuition battle. Yesterday evening, the state Legislature passed a balanced, no new taxes budget that—among other GOP vic...",
+        "upvotes": 5,
+        "url": "http://shiftwa.org/gop-wins-big-on-higher-education/"
+      },
+      {
+        "preview": "This week or next, the Department of Labor will release new proposed rules on overtime pay. Those rules will fulfill President Obama’s 2014 promise to raise the salary level at which employers are req...",
+        "upvotes": 1,
+        "url": "http://www.marketwatch.com/story/the-many-unintended-consequences-of-obamas-new-overtime-rules-2015-06-26"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The ink was not even dry on the Supreme Court’s opinion declaring gay marriage a constitutional right before Republican lawyer Ted Olson was assuring us everything would be OK. As reported by CNSNews:...",
+        "upvotes": 11,
+        "url": "http://www.americanthinker.com/blog/2015/06/lawyers_rejoice_while_christian_farmers_fined_for_not_hosting_gay_marriage.html"
+      },
+      {
+        "preview": "American progressives want religion to be a pursuit that people engage in privately—rather like pornography. As I surf through the Internet in search of blog-worthy religion news, I stumble over all s...",
+        "upvotes": 1,
+        "url": "http://www.the-american-interest.com/2015/06/24/religion-in-a-plain-brown-envelope/"
+      },
+      {
+        "preview": "Coal regulations didn’t properly account for the massive cost. The Supreme Court proved it still has a little bit of respect left for Rule of Law in its decision yesterday in Michigan v. EPA. In a 5-4...",
+        "upvotes": 0,
+        "url": "http://patriotpost.us/articles/36103"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Americans trust their doctors, so the White House wants these medical professionals to be a mouthpiece for President Obama’s global warming agenda. “We also need doctors, nurses and citizens, like all...",
+        "upvotes": 1,
+        "url": "http://dailycaller.com/2015/06/25/the-white-house-wants-your-doctor-to-teach-you-about-global-warming/"
+      },
+      {
+        "preview": "Editor's Note: This column was co-authored by Heidi Huber, founder of Operation Opt Out Ohio. Parents across the nation are in open revolt against the testing mania that has seized public schools unde...",
+        "upvotes": 1,
+        "url": "http://townhall.com/columnists/janerobbins/2015/06/30/alexander-murray-bill-tightens-the-screws-of-mandated-assessments-n2018919"
+      },
+      {
+        "preview": "A new WalletHub study released just ahead of the Independence Day holiday weekend finds that New York ranks as the worst among the bottom ten least patriotic states. The study uses “civic engagement,”...",
+        "upvotes": 46,
+        "url": "http://www.breitbart.com/big-government/2015/06/29/new-york-new-jersey-ranked-as-the-two-least-patriotic-states/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Posted at 4:28 pm on July 1, 2015 by Sarah D. As  told you, TV Land is yanking “The Dukes of Hazzard” from its lineup because the General Lee is racist or something. Thanks for that, Tolerance Mob! Du...",
+        "upvotes": 6,
+        "url": "http://twitchy.com/2015/07/01/out-freakin-standing-exjon-tweaks-coexist-sticker-for-the-tolerance-mob-photoshop/"
+      },
+      {
+        "preview": "nois at July 01, 2015 01:06 PM (wQ7l/) Posted by: LIV who's Ready for Hillary! at July 01, 2015 01:06 PM (vgIRn) Posted by: AllenG (DedicatedTenther) - Not dead yet at July 01, 2015 01:06 PM (kff5f) P...",
+        "upvotes": 0,
+        "url": "http://acecomments.mu.nu/?post=357627"
+      },
+      {
+        "preview": "Posted at 1:45 pm on July 3, 2015 by Doug P. does this mean when you originally bought the car you didn’t think all men are created equal?  — Connor Cape (@Connor_Cape) July 3, 2015 2014 Masters champ...",
+        "upvotes": 1,
+        "url": "http://twitchy.com/2015/07/03/whyd-you-even-buy-it-bubba-watson-will-replace-confederate-flag-on-general-lee-car-with-american-flag/"
+      }
+    ]
+  }
+}

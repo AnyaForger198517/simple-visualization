@@ -1,0 +1,285 @@
+{
+  "month": "2021-05",
+  "total_articles": 407,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "school",
+        "wa",
+        "student",
+        "university",
+        "policy",
+        "board",
+        "white",
+        "race",
+        "ha",
+        "american",
+        "decision",
+        "education",
+        "black",
+        "jones",
+        "racism"
+      ],
+      "topic_weights": [
+        247.55242800073677,
+        229.96132421764457,
+        227.19033765330957,
+        211.50109346660975,
+        151.19919083847847,
+        120.22257398807572,
+        117.40719222354761,
+        117.29190817197842,
+        112.93889777792397,
+        111.65545754569408,
+        98.77789416301029,
+        97.97960756637696,
+        97.94205691029664,
+        95.18533345412267,
+        92.58033691755644
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "virus",
+        "china",
+        "covid",
+        "twitter",
+        "news",
+        "police",
+        "report",
+        "medium",
+        "state",
+        "coronavirus",
+        "chinese",
+        "vaccine",
+        "wuhan"
+      ],
+      "topic_weights": [
+        698.5051594862898,
+        374.5455994837981,
+        326.4880091922898,
+        250.21486671812252,
+        239.68202209909373,
+        184.61950702603963,
+        174.60068685166112,
+        170.98980170593305,
+        168.4679291331027,
+        166.80140493277494,
+        160.82823073106871,
+        160.40863549166278,
+        154.3575240929604,
+        153.03753807593685,
+        150.2668196567181
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "israel",
+        "hamas",
+        "palestinian",
+        "israeli",
+        "terrorist",
+        "wa",
+        "gaza",
+        "ha",
+        "rocket",
+        "attack",
+        "planned",
+        "jenner",
+        "iran",
+        "parenthood",
+        "jerusalem"
+      ],
+      "topic_weights": [
+        217.04545767674784,
+        130.46688221823618,
+        124.3341687272871,
+        123.69090965687494,
+        85.68123066562084,
+        85.10952583473919,
+        75.93653335630107,
+        66.48545708880985,
+        56.909750736997964,
+        54.55610085964403,
+        51.32612955925568,
+        48.91962475338053,
+        48.75149846607327,
+        45.70920349022843,
+        42.44170860948742
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "biden",
+        "ha",
+        "republican",
+        "president",
+        "state",
+        "mask",
+        "house",
+        "border",
+        "election",
+        "trump",
+        "administration",
+        "wa",
+        "democrat",
+        "email",
+        "school"
+      ],
+      "topic_weights": [
+        449.2935982993223,
+        266.56821314177455,
+        226.67233429322243,
+        207.91435751498196,
+        204.65609937038911,
+        203.2610986139573,
+        200.5234381560606,
+        174.30014880195037,
+        156.4241564139067,
+        145.16255230296656,
+        144.74370772186694,
+        143.90348967723918,
+        133.3403552995855,
+        116.02276869491402,
+        115.21957967586482
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "biden",
+        "government",
+        "tax",
+        "trump",
+        "ha",
+        "state",
+        "percent",
+        "american",
+        "president",
+        "country",
+        "spending",
+        "money",
+        "business",
+        "federal"
+      ],
+      "topic_weights": [
+        388.5165102961256,
+        387.3556682144036,
+        328.90185067226093,
+        314.78197923771995,
+        303.6429580745885,
+        290.08580828330935,
+        287.76856714973366,
+        207.43289833392353,
+        205.05958692268038,
+        170.81601972354133,
+        164.84239282126478,
+        152.1861222374958,
+        148.59388039521573,
+        139.36396185135987,
+        138.83602947048456
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 118,
+    "0": 56,
+    "4": 94,
+    "1": 110,
+    "2": 29
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Today marks the 46th anniversary of the fall of Saigon, which signified the true end of the Vietnam War. Who could forget that famous picture of people queued up on a Saigon building (mistakenly thoug...",
+        "upvotes": 7,
+        "url": "https://redstate.com/stu-in-sd/2021/04/30/why-commemorate-black-april-n371455"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. As the Biden Administration plans to push the nation’s schools to teach civics lesson more in line with the New York Times’ factually challeng...",
+        "upvotes": 26,
+        "url": "https://nypost.com/2021/04/30/dont-teach-american-children-divisive-nonsense-mitch-mcconnell/"
+      },
+      {
+        "preview": "Source: AP Photo/J. Scott Applewhite, File Former Democratic Congresswoman Tulsi Gabbard is defending Republican Senator Tim Scott after the Left, on Capitol Hill and in media, launched a barrage of r...",
+        "upvotes": 712,
+        "url": "https://townhall.com/tipsheet/katiepavlich/2021/04/30/tulsi-gabbard-defends-tim-scott-n2588793"
+      }
+    ],
+    "1": [
+      {
+        "preview": "You likely remember Art Pawlowski, the pastor of the Cave of Adullam in Calgary, Alberta. Police showed up to shut down his service during Holy Week in the days leading up to Easter weekend earlier th...",
+        "upvotes": 74,
+        "url": "https://townhall.com/tipsheet/rebeccadowns/2021/04/30/pastor-in-canada-to-be-arrested-using-anything-necessary-n2588816"
+      },
+      {
+        "preview": "While it may have been, and still continues to be, difficult to head to the movie theater thanks to the pandemic, Netflix has us covered. Last night I wrote a review for \"The Mitchells vs. the Machine...",
+        "upvotes": 0,
+        "url": "https://townhall.com/entertainment/rebeccadowns/2021/04/30/trailer-for-this-years-next-amazingly-inspirational-film-is-here-n2588818"
+      },
+      {
+        "preview": "NEW YORK (AP) — The former acting U.S. attorney in Washington, who was under investigation over an interview to CBS’ “60 Minutes” about the Jan. 6 Capitol attack, has left the Justice Department and c...",
+        "upvotes": 1,
+        "url": "https://www.yahoo.com/news/prosecutor-probed-over-capitol-riot-164904117.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Mary Margaret Olohan Conservatives praised California candidate Caitlyn Jenner’s latest political ad Tuesday for highlighting the devastation that “career politicians” have wrought on the state of Cal...",
+        "upvotes": 1,
+        "url": "https://www.tampafp.com/conservatives-praise-caitlyn-jenners-latest-political-ad/"
+      },
+      {
+        "preview": "Republican gubernatorial candidate seeks to replace Gavin Newsom in recall Television star Caitlyn Jenner praised former President Trump‘s border wall Wednesday and vowed to “turn this state around” w...",
+        "upvotes": 1,
+        "url": "https://m.washingtontimes.com/news/2021/may/5/caitlyn-jenner-lauds-donald-trumps-border-wall-vow/"
+      },
+      {
+        "preview": "Planned Parenthood leadership is trying to rebrand their organization because they know they can no longer hide what their eugenicist founder, Margaret Sanger, stood for. The trouble for Planned Paren...",
+        "upvotes": 0,
+        "url": "https://www.americanthinker.com/articles/2021/05/does_planned_parenthood_wants_justice_.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "ADVERTISEMENT SHARE Today marks President Joe Biden's 100th day in office. It is a milestone that, given his advanced age and declining cognitive health, few expected him to achieve. Vice President Ka...",
+        "upvotes": 23,
+        "url": "https://freebeacon.com/parody/joe-biden-covid-death-scandal/"
+      },
+      {
+        "preview": "(The Center Square) – Four Texas counties have issued disaster declarations and called on the governor for help because of escalated crime in their communities resulting from a surge in illegal immigr...",
+        "upvotes": 129,
+        "url": "https://www.thewashingtongazette.com/2021/04/texas-counties-declare-disaster-over.html?utm_source=reddit&utm_medium=social&utm_campaign=socialshare"
+      },
+      {
+        "preview": "Former Vice President Mike Pence delivered his first public address since leaving office on Thursday in an attempt to contrast President Joe Biden’s first 100 days with those of the Trump administrati...",
+        "upvotes": 1,
+        "url": "https://link.theepochtimes.com/mkt_app/pence-makes-first-speech-since-leaving-white-house_3797725.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": ".com The Metro Council voted 6-1 to accept Multnomah County's implementation plan for the Supportive Housing Services tax by: Zane Sparling | Portland Tribune Tents at a homeless camp on a spring day ...",
+        "upvotes": 36,
+        "url": "https://www.koin.com/news/civic-affairs/metro-oks-county-homeless-plan-portland-begins-collecting-tax/"
+      },
+      {
+        "preview": "Florida Sen. Danny Burgess speaks, Tuesday, April 27, 2021, during a legislative session at the Capitol in Tallahassee, Fla. (The Center Square) – Florida will fine any business or school $5,000 each ...",
+        "upvotes": 2503,
+        "url": "https://www.thecentersquare.com/florida/senate-ok-needed-to-send-florida-vaccine-passport-ban-to-desantis-desk/article_86f0bb9a-a95a-11eb-bb81-2766f3d394cd.html"
+      },
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 203,
+        "url": "https://www.dailysignal.com/2021/04/29/minorities-perfectly-capable-of-getting-photo-id-nikki-haley-says-of-election-laws/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2011-04",
+  "total_articles": 55,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "tax",
+        "federal",
+        "government",
+        "immigration",
+        "ha",
+        "health",
+        "care",
+        "law",
+        "american",
+        "cut",
+        "wa",
+        "court",
+        "obama",
+        "arizona"
+      ],
+      "topic_weights": [
+        66.1415175400978,
+        46.72381149949951,
+        35.52120212705277,
+        28.186191001022152,
+        27.77103358179384,
+        27.66795481959333,
+        26.648905261134658,
+        25.94571423630479,
+        25.53016125138363,
+        24.88050303459712,
+        24.810122250746087,
+        24.247592595014936,
+        22.514045547399668,
+        20.654690664888857,
+        20.138563606475355
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "political",
+        "budget",
+        "tax",
+        "wa",
+        "federal",
+        "ha",
+        "state",
+        "deficit",
+        "spending",
+        "gdp",
+        "billion",
+        "debt",
+        "trillion",
+        "law",
+        "government"
+      ],
+      "topic_weights": [
+        160.67056139767695,
+        137.98993135864282,
+        122.09279078313838,
+        115.84591565979643,
+        80.67688631624071,
+        79.57417871813294,
+        76.27898637607012,
+        76.09001697118413,
+        75.71882533553413,
+        74.48253385855678,
+        69.79954587081622,
+        64.55604659469628,
+        64.27312773950733,
+        61.5599449062566,
+        61.51517803122509
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "tax",
+        "story",
+        "ha",
+        "romney",
+        "trump",
+        "advertisement",
+        "economic",
+        "mother",
+        "world",
+        "money",
+        "government",
+        "jones",
+        "sachs",
+        "king"
+      ],
+      "topic_weights": [
+        64.30122042881104,
+        43.93034165670226,
+        20.0451857038553,
+        19.483619313573463,
+        18.6029428757563,
+        17.628190974436734,
+        15.037977567084505,
+        13.89170890674521,
+        13.879560904017344,
+        13.69736058042176,
+        13.145681806662168,
+        12.644467796539807,
+        11.685937608455708,
+        11.422342187239257,
+        11.37531715377485
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "republican",
+        "wa",
+        "ha",
+        "conservative",
+        "american",
+        "black",
+        "white",
+        "group",
+        "crime",
+        "church",
+        "president",
+        "obama",
+        "catholic",
+        "woman",
+        "party"
+      ],
+      "topic_weights": [
+        67.93634195127484,
+        66.83104524483649,
+        48.88395987728452,
+        45.968810137633675,
+        44.080861568341184,
+        43.95459559652571,
+        39.53994731160328,
+        37.57110524015863,
+        37.16564264978172,
+        32.52780479840974,
+        30.972910884910313,
+        29.867839858628262,
+        28.593171402010302,
+        27.57049455857592,
+        26.85705964056544
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "obama",
+        "wa",
+        "tax",
+        "president",
+        "ha",
+        "government",
+        "american",
+        "ryan",
+        "state",
+        "woman",
+        "america",
+        "constitution",
+        "washington",
+        "country",
+        "law"
+      ],
+      "topic_weights": [
+        86.39468658478417,
+        86.19993187337546,
+        75.17121006837921,
+        63.03835227725674,
+        55.60992327696793,
+        42.47425015287267,
+        39.62274617473356,
+        36.434355539740636,
+        33.673839454377685,
+        29.59956696271103,
+        27.73752736176639,
+        26.85471816694322,
+        26.707538585012873,
+        26.633939275872933,
+        26.446013463085375
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 16,
+    "4": 17,
+    "2": 5,
+    "0": 11,
+    "1": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Link copied. We want to bridge divides to reach everyone. The health-care law's 'individual mandate' is vulnerable to the Supreme Court deciding that Americans cannot be forced to buy health insurance...",
+        "upvotes": 1,
+        "url": "http://www.csmonitor.com/Commentary/the-monitors-view/2011/0405/In-Arizona-ruling-Justice-Kennedy-tips-his-hand-on-health-care-mandate"
+      },
+      {
+        "preview": "With 8.8 percent unemployment across the country and more than 8 million people claiming unemployment benefits, one California congresswoman wants people to know they’re not the only ones facing finan...",
+        "upvotes": 16,
+        "url": "http://dailycaller.com/2011/04/07/democratic-congresswoman-complains-she-cant-afford-to-give-up-her-paycheck-in-the-event-of-a-shutdown/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The nation's largest federal employee union sued the Obama administration Friday, seeking the repayment of wages lost during a government shutdown. T...",
+        "upvotes": 1,
+        "url": "http://thehill.com/blogs/on-the-money/budget/154941-largest-federal-worker-union-sues-for-shutdown-pay"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Namely, where the $4.4 trillion of the $6.2 trillion of \"savings\" are going to come from. Ryan does...",
+        "upvotes": 36,
+        "url": "http://www.businessinsider.com/paul-ryan-budget-plan-2011-4"
+      },
+      {
+        "preview": "(04-09) 04:00 PDT Riverside - -- Gov. Jerry Brown signaled Friday that he may change strategy and push the Legislature to approve tax extensions and increases before voters have a chance to weigh in o...",
+        "upvotes": 4,
+        "url": "http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/04/09/BA8G1IT5LO.DTL"
+      },
+      {
+        "preview": "The United States federal budget comprises the spending and revenues of the U.S. federal government. The budget is the financial representation of the priorities of the government, reflecting historic...",
+        "upvotes": 2,
+        "url": "http://en.wikipedia.org/wiki/United_States_federal_budget"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Long-term and worsening unemployment, economic stagnation, labor revolt and a state of siege. Those are just some of the descriptions of one country that received the kind of economic \"s...",
+        "upvotes": 1,
+        "url": "http://www.wnd.com/index.php?fa=PAGE.view&pageId=283297"
+      },
+      {
+        "preview": "Posted by Judd Weiss on May 19, 2010 at 7:09 am, filed in Politics, Movies Today I just saw the new Robin Hood movie directed by Ridley Scott. I was SURPRISED. Not just because I liked it better than ...",
+        "upvotes": 1,
+        "url": "http://hustlebear.com/2010/05/19/movie-review-robin-hood-a-tea-party-tax-avenger/"
+      },
+      {
+        "preview": "They were going to literally lasso the effing sun … But have you seen the version of Casablanca that’s about Interpol chasing a nuclear scientist? Be kind, rewind time. He was one of the most talked a...",
+        "upvotes": 0,
+        "url": "http://www.cracked.com/article_19154_the-6-most-ridiculous-things-ever-taxed.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "This may be the first time that this particular permutation of “apology” has been offered for dropping a C-bomb on someone. A forthright apology would be one thing, a “sorry if you were offended” dism...",
+        "upvotes": 9,
+        "url": "http://hotair.com/archives/2011/03/29/maher-on-palin-and-bachmann-im-sorry-if-i-hurt-anyones-feelings-but-no-i-wasnt-wrong/"
+      },
+      {
+        "preview": "Save 40% on Digital Subscriptions Scientists see the beginnings of racism in monkeys Update (1/24/14): The study reported in this article was retracted from the Journal of Personality and Social Psych...",
+        "upvotes": 0,
+        "url": "http://www.scientificamerican.com/article.cfm?id=evolution-of-prejudice"
+      },
+      {
+        "preview": "Frank James Wisconsin used to be such a predictably stolid Midwestern state. Now it may as well be Florida. When I previously wrote, on Wednesday, about the Wisconsin Supreme Court race, JoAnne Kloppe...",
+        "upvotes": 4,
+        "url": "http://www.npr.org/blogs/itsallpolitics/2011/04/08/135224999/wisconsin-supreme-ct-shocker-error-fix-gives-gop-judge-big-lead"
+      }
+    ],
+    "4": [
+      {
+        "preview": "On CNN this morning, former CIA Counterterrorism analyst Michael Scheuer appeared with Kiran Chetry and Christine Romans and was not happy with President Obama’s actions in Libya. Scheuer is not optim...",
+        "upvotes": 1,
+        "url": "http://www.mediaite.com/tv/michael-scheuer-laughs-at-cnn-host-you%E2%80%99re-just-carrying-the-water-for-mr-obama/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mediaite%2FClHj+%28Mediaite%29&utm_content=FaceBook"
+      },
+      {
+        "preview": "One thing I will never understand is how people can take radio entertainers seriously. They can be fun to listen to. But you would have to be a complete dolt to accept the idea that the same guy who's...",
+        "upvotes": 0,
+        "url": "http://blog.nj.com/njv_paul_mulshine/2011/04/dumb_mark_levin_quote_of_the_d.html"
+      },
+      {
+        "preview": "First up, from Gas Buddy.com appropriately enough, the six year average of American gas prices — click to expand: And via Moe Lane, Clarion Advisory has a “Food Stamp Graph… gulp.” Indeed: What does i...",
+        "upvotes": 1,
+        "url": "http://pajamasmedia.com/eddriscoll/2011/04/03/scary-ass-charts-of-the-day/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2012-08",
+  "total_articles": 118,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "million",
+        "state",
+        "tax",
+        "wa",
+        "twitter",
+        "follower",
+        "convention",
+        "government",
+        "latino",
+        "page",
+        "network",
+        "ha",
+        "law",
+        "business",
+        "number"
+      ],
+      "topic_weights": [
+        39.952098061811135,
+        36.89167553037679,
+        35.11997414611725,
+        29.160309827920646,
+        27.62351455622012,
+        26.958277366699022,
+        25.70691372077068,
+        25.54951868599652,
+        24.361388300833394,
+        23.68125951279489,
+        22.5776665515016,
+        22.265293109546064,
+        21.872975551825704,
+        20.81331856248742,
+        20.687819320731943
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "romney",
+        "ryan",
+        "republican",
+        "ha",
+        "rule",
+        "party",
+        "state",
+        "wa",
+        "paul",
+        "national",
+        "delegate",
+        "obama",
+        "voter",
+        "vote",
+        "committee"
+      ],
+      "topic_weights": [
+        191.31379980513142,
+        129.60376251117074,
+        126.79659189605577,
+        120.83906561010696,
+        108.94615396064063,
+        93.96273210121964,
+        86.59559672544471,
+        75.55638984237963,
+        69.96925062262996,
+        65.53229955852952,
+        65.15166127456713,
+        64.30896246270386,
+        62.10542602835501,
+        61.79097831217334,
+        60.45017999033713
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "obama",
+        "wa",
+        "president",
+        "black",
+        "ha",
+        "romney",
+        "white",
+        "campaign",
+        "america",
+        "american",
+        "man",
+        "country",
+        "race",
+        "did",
+        "political"
+      ],
+      "topic_weights": [
+        387.0825825739716,
+        307.794427121982,
+        160.89232699569936,
+        137.90830267858266,
+        125.36363166689712,
+        111.9358840312449,
+        95.07848181898318,
+        83.65817408260132,
+        78.28105855314988,
+        77.44128532664168,
+        54.29118641746224,
+        53.38819902502426,
+        51.11399375252739,
+        45.088210199316975,
+        44.68845446806937
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "advertisement",
+        "ha",
+        "story",
+        "weekend",
+        "government",
+        "head",
+        "right",
+        "miller",
+        "court",
+        "law",
+        "friday",
+        "freedom",
+        "facebook",
+        "run"
+      ],
+      "topic_weights": [
+        159.33816669989397,
+        55.02926821621621,
+        50.264179187042195,
+        47.98916577512683,
+        37.62980312011151,
+        36.816784401545554,
+        36.19938291263797,
+        34.91338394809628,
+        33.73878138241274,
+        32.216266725569135,
+        31.282245520728534,
+        31.04621611809661,
+        29.927266575435077,
+        29.72397278017323,
+        29.398413177919636
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "biden",
+        "obama",
+        "percent",
+        "republican",
+        "ha",
+        "american",
+        "campaign",
+        "wa",
+        "immigrant",
+        "president",
+        "romney",
+        "medium",
+        "august",
+        "state",
+        "america"
+      ],
+      "topic_weights": [
+        83.6358563055222,
+        76.63859393453662,
+        64.23930111081934,
+        53.366909334124344,
+        52.706626554635235,
+        48.815607097056734,
+        46.67750120503588,
+        46.409352939968066,
+        43.052915007711995,
+        42.55460034265239,
+        41.47418207380608,
+        41.168725740371684,
+        36.42371360984944,
+        35.42359668282624,
+        33.23136192706335
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 33,
+    "2": 28,
+    "4": 25,
+    "0": 15,
+    "3": 17
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Keep your eye on the, ahem, “Marketplace Fairness Act” in Congress (S.1832). As Tim Carney of The Washington Examiner explains, we’ve all been ordering online for years with no sales tax because there...",
+        "upvotes": 2,
+        "url": "http://hotair.com/archives/2012/08/02/super-amazon-wal-mart-team-up-to-lobby-for-a-new-online-sales-tax/"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 0,
+        "url": "http://www.examiner.com/article/what-conservatism-is-and-why-we-believe-it"
+      },
+      {
+        "preview": "Jacob Goldstein Jestina Clayton, once and future hair braider. Jim Urquhart/AP hide caption Earlier this year, we reported on the story of Jestina Clayton: A few years ago, Jestina Clayton started a h...",
+        "upvotes": 19,
+        "url": "http://www.npr.org/blogs/money/2012/08/09/158498244/its-now-legal-to-braid-hair-in-utah-without-a-license"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Inside the High-Stakes Politics of the Federal Budget by David Wessel Hardcover, 204 pages | Your purchase helps support  programming. How? In December, Congress is poised for another showdown on the ...",
+        "upvotes": 1,
+        "url": "http://www.npr.org/2012/07/31/157610155/facing-the-fiscal-cliff-congress-next-showdown"
+      },
+      {
+        "preview": "Ted Cruz clinched the Republican nomination in the Texas Senate runoff race Tuesday night, handing the tea party a major victory and instantly becoming the odds-on favorite to win the open seat this f...",
+        "upvotes": 28,
+        "url": "http://news.yahoo.com/blogs/ticket/tea-partier-ted-cruz-wins-texas-senate-runoff-012636444.html"
+      },
+      {
+        "preview": "Advertisement Iranian Regime Blasts Mitt Romney– The regime in Tehran slammed Mitt Romney for his recent statements supporting an Israeli attack on Iran. Press TV reported: The economic issue is one o...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2012/08/iranian-regime-blasts-gop-candidate-mitt-romney/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Jump to main content Jump to navigation Yesterday following his column, I sent the following email to Charles Krauthammer. Charles asked that I make the email public and I have agreed. Charles, I take...",
+        "upvotes": 9,
+        "url": "http://www.whitehouse.gov/blog/2012/07/31/churchill-bust-charles-krauthammer"
+      },
+      {
+        "preview": "Show me what irrelevance looks like! This is what irrelevance looks like! I did not Photoshop this. It’s an actual thing that exists. amNewYork: The Occupy movement went global, and its influence has ...",
+        "upvotes": 3,
+        "url": "http://dailycaller.com/2012/07/31/archie-is-the-99/"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE White House officials prefer to rendezvous with lobbyists and big business insiders off campus in order to avoid disclosure, according to e-mails made public by House Republicans. ...",
+        "upvotes": 0,
+        "url": "http://freebeacon.com/white-house-officials-meet-lobbyists-in-secret/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Submit Thanks for contacting us. We've received your submission. James Hayes (Robert Miller) Janet Napolitano (Getty Images) ( ) A veteran US law-enforcement official has filed a blockbuster discrimin...",
+        "upvotes": 17,
+        "url": "http://www.nypost.com/p/news/national/homeland_homegirls_Se5i5dCvDQc84CE9rSpvBM?utm_medium=rss&utm_content=National"
+      },
+      {
+        "preview": "August 10, 2012, (.com) – Federal prosecutors are presenting their case in a trial against a Mennonite pastor who is accused of helping a single motherescape from the United States with her daughter t...",
+        "upvotes": 0,
+        "url": "http://www.lifesitenews.com/news/pastor-prosecuted-for-helping-girl-escape-court-imposed-lesbian-mother"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 1,
+        "url": "http://www.buzzfeed.com/gavon/a-users-guide-to-smoking-pot-with-barack-obama"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The partisan sample of the polls were: FL D+9, OH D+8 and PA D+6. In 2008, the partisan split in Florida was D+3. In 2004, the split was R+4. Does anyone really believe that the Democrat vote in Flori...",
+        "upvotes": 9,
+        "url": "http://www.breitbart.com/Big-Government/2012/08/01/media-skew-swing-state-polls-to-boost-obama?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BigGovernment+%28Big+Government%29"
+      },
+      {
+        "preview": "Non-farm employment rose by 163,000 in July, nearly three-times the (downwardly revised) 64,000 June figure—and the highest monthly gain since February. Nothing to write home about, yet enough for som...",
+        "upvotes": 1,
+        "url": "http://www.vdare.com/articles/july-jobs-immigrants-take-american-jobs-at-a-record-rate-as-reported-only-on-vdarecom"
+      },
+      {
+        "preview": "A pro-amnesty group is forecasting that up to 1.76 million young illegal immigrants would get work permits under President Barack Obama’s de facto amnesty announced in June, amid a stalled economy and...",
+        "upvotes": 6,
+        "url": "http://dailycaller.com/2012/08/07/report-says-obama-amnesty-plan-will-add-1-76-million-new-workers/"
+      }
+    ]
+  }
+}

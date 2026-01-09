@@ -1,0 +1,275 @@
+{
+  "month": "2015-08",
+  "total_articles": 308,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "gun",
+        "black",
+        "state",
+        "deal",
+        "obama",
+        "iran",
+        "american",
+        "law",
+        "police",
+        "liberal",
+        "death",
+        "world",
+        "did"
+      ],
+      "topic_weights": [
+        1054.110028765259,
+        447.9737083801465,
+        411.5151052013115,
+        305.132685332449,
+        303.2254250219242,
+        287.6142752822235,
+        245.54584646401747,
+        238.34572288784025,
+        226.20292979080887,
+        221.45146333070966,
+        218.71092501019118,
+        214.21894120872759,
+        180.1585764456365,
+        168.7222903925754,
+        166.84310349643494
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "ha",
+        "state",
+        "marijuana",
+        "democratic",
+        "biden",
+        "voter",
+        "hillary",
+        "sander",
+        "president",
+        "campaign",
+        "right",
+        "voting",
+        "party"
+      ],
+      "topic_weights": [
+        635.6785328448915,
+        431.6568990026172,
+        338.33973052732864,
+        328.9246348044179,
+        324.04305672260074,
+        272.5702838994424,
+        248.14450187437134,
+        196.41800488349625,
+        194.45730377993408,
+        184.01349659208145,
+        181.70135127691776,
+        175.8018701752284,
+        172.49866602949976,
+        160.43140345528485,
+        151.61761352791203
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "american",
+        "ha",
+        "percent",
+        "news",
+        "worker",
+        "state",
+        "child",
+        "student",
+        "tax",
+        "country",
+        "immigrant",
+        "wage",
+        "school",
+        "immigration",
+        "policy"
+      ],
+      "topic_weights": [
+        352.19982189217706,
+        254.01279774211645,
+        251.4780566925758,
+        235.14697319855037,
+        188.64392456761985,
+        178.18548606023228,
+        168.44346126910338,
+        162.08647332333268,
+        160.77161630033928,
+        157.8283197325376,
+        146.94694533630806,
+        145.64352750145915,
+        142.61961887128916,
+        139.12070462738276,
+        134.7002827566682
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "sander",
+        "medium",
+        "campaign",
+        "political",
+        "social",
+        "politics",
+        "bernie",
+        "movement",
+        "washington",
+        "donor",
+        "crowd",
+        "march",
+        "progressive",
+        "old",
+        "insider"
+      ],
+      "topic_weights": [
+        1032.076150047992,
+        836.9416949858877,
+        556.1252616773949,
+        484.98107888649264,
+        410.99562559237023,
+        327.41641599433285,
+        326.0176395682089,
+        294.5493540334352,
+        283.73881964593176,
+        267.9025464583172,
+        255.59619377102476,
+        252.9239174073434,
+        242.9123988212616,
+        227.41067727440605,
+        223.03408300762678
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "republican",
+        "candidate",
+        "ha",
+        "wa",
+        "bush",
+        "woman",
+        "debate",
+        "donald",
+        "gop",
+        "party",
+        "state",
+        "planned",
+        "parenthood",
+        "presidential"
+      ],
+      "topic_weights": [
+        698.5192856961166,
+        430.93705868078695,
+        292.46710542158564,
+        262.51484077795266,
+        255.47147030629935,
+        247.0182530085392,
+        239.16225281242222,
+        228.34224896310505,
+        175.04971204561147,
+        171.11388457515474,
+        167.55685137656974,
+        159.3721752342334,
+        158.31327891936724,
+        153.2304337757419,
+        137.31533236398656
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 80,
+    "2": 61,
+    "0": 82,
+    "4": 84,
+    "3": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The Politicus Create | Share | Influence Home » Planned Parenthood Texas Votes Executive Director, Policing bias proof, Vaccines for the world. Planned Parenthood Texas Votes (PPTV) Executive director...",
+        "upvotes": 1,
+        "url": "http://thepoliticus.com/content/after-acorn-planned-parenthood"
+      },
+      {
+        "preview": "Yet another reporter for the New York Times has a son in the Israeli Defense Forces. Isabel Kershner, a correspondent in the newspaper’s Jerusalem bureau, says that her son is in training in the army....",
+        "upvotes": 1,
+        "url": "http://mondoweiss.net/2014/10/another-reporters-israeli?utm_content=buffer0a1b4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer"
+      },
+      {
+        "preview": "Like all imperial powers before it, the US seeks to dominate the world in order to exploit it. United States President Barack Obama is the most admired foreign leader in Africa because he has ancestra...",
+        "upvotes": 0,
+        "url": "http://www.aljazeera.com/indepth/opinion/2015/07/africa-obama-mind-business-african-union-150730080355352.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Democratic presidential candidate Hillary Clinton on Thursday attempted to distance herself from the controversial 12-nation trade deal known as the Trans-Pacific Partnership. During her tenure as U.S...",
+        "upvotes": 2,
+        "url": "http://www.ibtimes.com/cables-show-hillary-clintons-state-department-deeply-involved-trans-pacific-2032948"
+      },
+      {
+        "preview": "The progressive movement has a race problem. by Adele M. Stan July 29, 2015 1:29 PM (Photo: Al Drago/CQ Roll Call via AP) \"We want a nation where a young black man or woman can walk down the street wi...",
+        "upvotes": 0,
+        "url": "http://prospect.org/article/bernie-learns-his-lesson-have-rest-us"
+      },
+      {
+        "preview": "Advertisement Supported by By Michael Barbaro FORT LAUDERDALE, Fla. — Jeb Bush and his aides had envisioned a big, inclusive, high-minded speech about race on Friday in his home state of Florida, a ch...",
+        "upvotes": 12,
+        "url": "http://www.nytimes.com/2015/08/01/us/politics/hillary-clinton-hits-jeb-bush-first-and-hard-in-speech-on-race.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Featured Shows  TV More More Shows Follow  More Brands More Shows \"When [legislation] was passed enabling research to go forward, I remind that Mitch McConnell voted for that,\" she said at a news brie...",
+        "upvotes": 2,
+        "url": "http://www.msnbc.com/rachel-maddow-show/pelosi-has-remind-gop-about-its-own-record"
+      },
+      {
+        "preview": "The extremely rich have \"psychiatric issues\" and it affects day-to-day Americans, populist presidential candidate Bernie Sanders (I-VT) said recently. Research shows that he's on to something. \"We all...",
+        "upvotes": 58,
+        "url": "http://www.rawstory.com/2015/07/bernie-sanders-says-the-1-percent-have-screwed-up-brains-and-science-proves-hes-right/"
+      },
+      {
+        "preview": "One month after its employees voted to unionize, the Salon Media Group, a digital media pioneer and a stalwart of the progressive press, has still refused to recognize the move. Sources close to the s...",
+        "upvotes": 2,
+        "url": "http://www.ibtimes.com/progressive-saloncom-refuses-recognize-union-one-month-after-workers-vote-organize-2033883"
+      }
+    ],
+    "3": [
+      {
+        "preview": "in 1960. Ms. Ta is absolutely right. American politics today is at a stage similar to the middle of the Kennedy-Nixon debates, when the debates had already begun but political elites had not yet recog...",
+        "upvotes": 0,
+        "url": "http://observer.com/2015/08/breaking-bernie-sanders-grassroots-planning-huge-march-on-washington/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The Politicus Create | Share | Influence Home » Sen. Rick Scott: Democrats don't care about people because 'they' keep increasing the debt And here I thought Republicans wouldn’t rediscover the debt u...",
+        "upvotes": 1,
+        "url": "http://thepoliticus.com/content/skeletons-keep-falling-out-scott-walkers-closet"
+      },
+      {
+        "preview": "As hospital operators begin to report second period earnings -- the sixth consecutive quarter of new revenue from once uninsured patients -- the number and size of unpaid medical bills continues to fa...",
+        "upvotes": 33,
+        "url": "http://www.forbes.com/sites/brucejapsen/2015/08/02/as-obamacare-takes-hold-unpaid-hospital-bills-vanish/"
+      },
+      {
+        "preview": "“They’re not for education for our children,” he tells Jake Tapper. By DAVID COHEN 08/02/2015 02:14 PM EDT Updated 08/02/2015 03:43 PM EDT Republican presidential candidate Chris Christie said Sunday ...",
+        "upvotes": 2,
+        "url": "http://www.politico.com/story/2015/08/christie-teachers-union-deserves-punch-in-the-face-120913.html?hp=l4_4"
+      }
+    ]
+  }
+}

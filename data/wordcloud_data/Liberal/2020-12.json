@@ -1,0 +1,36 @@
+{
+  "month": "2020-12",
+  "total_articles": 148,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "COVID-19 Pandemic and Economic Impact",
+      "core_keywords": ["pandemic", "covid", "economic", "business", "government", "tax", "million", "american"],
+      "importance_ratio": 0.1959
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Congressional Stimulus and Relief Bill Negotiations",
+      "core_keywords": ["senate", "mcconnell", "stimulus", "relief", "trump", "republican", "democrat", "vote"],
+      "importance_ratio": 0.1284
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Corporate Finances and Federal Regulatory Actions",
+      "core_keywords": ["company", "business", "bank", "million", "loan", "rule", "committee", "customer"],
+      "importance_ratio": 0.1081
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "2020 Election Results and Trump's Legal Challenges",
+      "core_keywords": ["trump", "biden", "election", "president", "state", "republican", "court", "electoral"],
+      "importance_ratio": 0.4865
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "State-Level Policy and Criminal Justice Reforms",
+      "core_keywords": ["state", "biden", "trump", "marijuana", "justice", "congress", "administration", "elector"],
+      "importance_ratio": 0.0811
+    }
+  ]
+}

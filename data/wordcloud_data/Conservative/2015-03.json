@@ -1,0 +1,36 @@
+{
+  "month": "2015-03",
+  "total_articles": 287,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Hillary Clinton's email and government ethics",
+      "core_keywords": ["clinton", "email", "government", "state", "private", "secretary", "official"],
+      "importance_ratio": "28.57%"
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US-Iran nuclear policy and congressional politics",
+      "core_keywords": ["obama", "iran", "nuclear", "republican", "congress", "president", "american"],
+      "importance_ratio": "39.02%"
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Campus sexual assault and racial issues",
+      "core_keywords": ["woman", "sexual", "assault", "campus", "black", "college", "student"],
+      "importance_ratio": "27.18%"
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Casual online social discussions and posts",
+      "core_keywords": ["posted", "reply", "twitter", "post", "man", "science", "humanitarian"],
+      "importance_ratio": "1.05%"
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Israeli election and US-Israel relations",
+      "core_keywords": ["netanyahu", "israel", "election", "prime", "arab", "jewish", "vote"],
+      "importance_ratio": "4.18%"
+    }
+  ]
+}

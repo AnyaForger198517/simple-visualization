@@ -1,0 +1,285 @@
+{
+  "month": "2012-09",
+  "total_articles": 117,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "president",
+        "wa",
+        "party",
+        "obama",
+        "post",
+        "american",
+        "voter",
+        "democrat",
+        "ha",
+        "state",
+        "bush",
+        "clinton",
+        "response",
+        "convention"
+      ],
+      "topic_weights": [
+        243.51311604608782,
+        181.67384746876957,
+        162.2068751945081,
+        143.50784105833316,
+        140.74521873361147,
+        131.4164623876559,
+        126.38947804711488,
+        106.90096903715732,
+        106.23467628581885,
+        100.9434495575628,
+        95.39963848436344,
+        92.35420719789279,
+        87.74223559535797,
+        87.08834790125714,
+        84.10761351099327
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "wa",
+        "learn",
+        "stats",
+        "ha",
+        "law",
+        "argue",
+        "government",
+        "tax",
+        "political",
+        "candidate",
+        "debate",
+        "american",
+        "romney",
+        "public"
+      ],
+      "topic_weights": [
+        182.99677582349608,
+        160.20999213259134,
+        144.36619708552533,
+        138.93973500918858,
+        136.9337633539524,
+        128.47386401732467,
+        116.10297710483349,
+        115.24386807052628,
+        112.34620041221703,
+        100.09806646695911,
+        94.15009896620266,
+        89.2727760925161,
+        87.52908961964955,
+        78.87948009176391,
+        69.66005338749477
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "woman",
+        "pregnant",
+        "care",
+        "pregnancy",
+        "men",
+        "health",
+        "wa",
+        "worker",
+        "romney",
+        "ha",
+        "nursing",
+        "content",
+        "insurance",
+        "state",
+        "live"
+      ],
+      "topic_weights": [
+        52.36182008625489,
+        40.57909684993979,
+        38.64460365402755,
+        33.65831812212629,
+        28.23420977909824,
+        26.730223873026553,
+        26.239517835502422,
+        22.68161101245709,
+        18.94115899302484,
+        17.1698485631996,
+        14.558500782417026,
+        14.140557437961654,
+        13.96824916583639,
+        12.874839938646714,
+        11.709878192991566
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "romney",
+        "wa",
+        "obama",
+        "student",
+        "ha",
+        "debt",
+        "private",
+        "loan",
+        "million",
+        "president",
+        "bankruptcy",
+        "mitt",
+        "bain",
+        "company",
+        "video"
+      ],
+      "topic_weights": [
+        250.2039948973685,
+        194.79523702184557,
+        160.14072881457128,
+        159.70589407462523,
+        151.42855786257377,
+        118.71459397711848,
+        115.68090193140432,
+        115.09314872896289,
+        99.53252886976443,
+        98.92359567083632,
+        89.28653683943323,
+        80.3011873045617,
+        75.03339277836683,
+        72.4333605493911,
+        71.88044146215412
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "romney",
+        "wa",
+        "obama",
+        "ha",
+        "campaign",
+        "wing",
+        "account",
+        "policy",
+        "email",
+        "post",
+        "blog",
+        "attack",
+        "ohio",
+        "statement",
+        "change"
+      ],
+      "topic_weights": [
+        299.2973100976886,
+        250.53527515775662,
+        137.95905509489435,
+        127.64153264646093,
+        105.3108680481242,
+        84.95415565788555,
+        73.00646327311777,
+        72.27478964808716,
+        71.47234516405022,
+        71.41239992086798,
+        67.50867751975746,
+        66.17245170441478,
+        62.365176226884905,
+        59.90530968558885,
+        59.86136593672178
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 32,
+    "4": 24,
+    "3": 28,
+    "0": 27,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "How will the American Presidential election be won in November 2012? By the Republicans buying the election? Perhaps. But money cannot always buy an election. That is why Republicans have spent the la...",
+        "upvotes": 5,
+        "url": "http://www.alternet.org/gop-targets-african-american-women-voter-suppression-efforts?paging=off"
+      },
+      {
+        "preview": "(updated below) For several decades, protection of whistleblowers has been a core political value for Democrats, at least for progressives. Daniel Ellsberg has long been viewed by liberals as an Ameri...",
+        "upvotes": 36,
+        "url": "http://www.guardian.co.uk/commentisfree/2012/sep/05/obama-campaign-brags-about-whistleblower-persecutions"
+      },
+      {
+        "preview": "nd assaults on civil liberties. Most speakers avoided even referencing the eight-year period when Bush and Dick Cheney ran the country—often with absolute majorities in the House and Senate. Even Bush...",
+        "upvotes": 74,
+        "url": "http://www.thenation.com/blog/169774/bill-clinton-forms-barack-obamas-more-perfect-union"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Answer the following questions to see how your political beliefs match your political parties and candidates. Planned Parenthood is a non-profit organization that provides reproductive health services...",
+        "upvotes": 15,
+        "url": "http://www.isidewith.com/presidential-election-quiz?from=75575110"
+      },
+      {
+        "preview": "Katherine Stewart pulls back the curtain on the inner workings and leading personalities of a movement that has turned religion into a tool for political power and domination. “Ambitious . . . The boo...",
+        "upvotes": 5,
+        "url": "http://www.thegoodnewsclub.com"
+      },
+      {
+        "preview": "Trending: KEBLER PASS —There’s a new town in Colorado. It has about 50 buildings, including a saloon, a church, a jail, a firehouse, a livery and a train station. Soon, it will have a mansion on a hil...",
+        "upvotes": 0,
+        "url": "http://www.denverpost.com/news/ci_21351638/billionaires-new-colorado-town-is-private-old-west"
+      }
+    ],
+    "2": [
+      {
+        "preview": "UPDATE: 8:45 p.m. -- A Romney aide told the National Review that he does not support the Affordable Care Act's ban on discriminating against people with pre-existing conditions, despite suggesting on ...",
+        "upvotes": 4,
+        "url": "http://www.huffingtonpost.com/2012/09/09/mitt-romney-obamacare-_n_1868385.html"
+      },
+      {
+        "preview": "By Cheryl Lemus • September 17, 2012 Sharing January 15, 2016 Democratic National Committee 430 South Capitol St. SE Washington, DC 20003 Re: Speaking at the Democratic National Convention Dear Chairw...",
+        "upvotes": 1,
+        "url": "http://nursingclio.org/2012/09/17/men-masturbation-equals-liberty/"
+      },
+      {
+        "preview": "Games are subject to regional availability and blackouts. Games are subject to regional availability and blackouts. Games are subject to regional availability and blackouts. ENHANCED CLOUD DVR UNLIMIT...",
+        "upvotes": 1,
+        "url": "http://www.hulu.com/watch/403025#i0,p6,s17,d0"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Welcome, How the GOP presidential candidate and his private equity firm staged an epic wealth grab, destroyed jobs – and stuck others with the bill Contributing Editor Mitt Romney at Bain's offices in...",
+        "upvotes": 30,
+        "url": "http://www.rollingstone.com/politics/news/greed-and-debt-the-true-story-of-mitt-romney-and-bain-capital-20120829"
+      },
+      {
+        "preview": "Did Dad spend last year down cellah? Mitt Romney Image via Wikipedia Mitt Romney lived in his son's unfinished basement in Belmont, Massachusetts in 2010 - or at least that what he claimed to the stat...",
+        "upvotes": 13,
+        "url": "http://www.forbes.com/sites/brendancoffey/2011/06/15/did-mitt-romney-live-in-his-sons-unfinished-basement-last-year/"
+      },
+      {
+        "preview": "If the Republican Convention planners had their way, their party's extremist hard-line position on social issues like abortion and gay marriage (See 10 Things the GOP Platform Hates About You) would b...",
+        "upvotes": 7,
+        "url": "http://www.alternet.org/5-crazy-things-gop-still-saying-about-women-rape-and-abortion-even-while-convention-tried-ignore-it?paging=off"
+      }
+    ],
+    "4": [
+      {
+        "preview": "By Michael Baker Last night, the RNC handed the podium over to a “surprise speaker,” the only speaker of the entire convention who was allowed to ad-lib his speech. Now I understand why these things a...",
+        "upvotes": 0,
+        "url": "http://nationsmith.com/2012/08/31/eastwood-keeps-it-real-bad/"
+      },
+      {
+        "preview": "From this Friday evening's The Daily Show, Jon Stewart had some fun with Clint Eastwood's appearance at the Republican National Convention, which he described as the \"most joy\" he's \"gotten from an ol...",
+        "upvotes": 28,
+        "url": "http://videocafe.crooksandliars.com/heather/jon-stewart-praises-eastwoods-fist-full-aw"
+      },
+      {
+        "preview": "A year ago, when I posted Why I’m Not a Libertarian, I thought I was done talking about my misspent Objectivist youth. Yes, I read Atlas Shrugged six times, and all of Ayn Rand’s other published works...",
+        "upvotes": 4,
+        "url": "http://weeklysift.com/2012/09/03/ayn-paul-and-me/"
+      }
+    ]
+  }
+}

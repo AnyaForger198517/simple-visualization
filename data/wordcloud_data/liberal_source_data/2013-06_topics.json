@@ -1,0 +1,280 @@
+{
+  "month": "2013-06",
+  "total_articles": 119,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "republican",
+        "state",
+        "party",
+        "conservative",
+        "paul",
+        "american",
+        "science",
+        "right",
+        "house",
+        "obama",
+        "law",
+        "news",
+        "political"
+      ],
+      "topic_weights": [
+        577.8621500152485,
+        326.5681335297979,
+        254.56319998347152,
+        223.43247754721358,
+        163.03348716200878,
+        134.33031746685222,
+        130.58532267096933,
+        129.81573540882306,
+        128.23190224220141,
+        117.69060059686444,
+        115.31551698226508,
+        108.28422642186014,
+        107.64920023894041,
+        107.36095748237526,
+        101.71116450101024
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "wikileaks",
+        "ha",
+        "order",
+        "story",
+        "statement",
+        "state",
+        "document",
+        "group",
+        "mail",
+        "founder",
+        "court",
+        "prosecutor",
+        "told",
+        "mccarthy"
+      ],
+      "topic_weights": [
+        221.5262914850661,
+        118.99877687170263,
+        77.81698400519387,
+        74.5936080483935,
+        71.13615588986221,
+        65.70581313686962,
+        63.97689201999749,
+        62.52127533848545,
+        62.398791403468614,
+        58.25890810238592,
+        56.48757294203011,
+        55.09277458822616,
+        53.73681859596149,
+        52.76731612067571,
+        50.95967387041566
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "worker",
+        "guitar",
+        "center",
+        "clark",
+        "month",
+        "company",
+        "employee",
+        "wage",
+        "commission",
+        "pay",
+        "end",
+        "sale",
+        "wa",
+        "ha",
+        "profit"
+      ],
+      "topic_weights": [
+        248.53648560808088,
+        242.5546316857522,
+        242.30454422982734,
+        195.39799642736165,
+        152.12604893759595,
+        151.67448826253246,
+        139.61252565761683,
+        134.93609074669166,
+        130.31033839459897,
+        125.94991153112112,
+        119.99172784061365,
+        114.42306947499122,
+        114.0208037946639,
+        107.42944544888273,
+        105.30497515382845
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "cut",
+        "program",
+        "wa",
+        "federal",
+        "reply",
+        "food",
+        "percent",
+        "sequester",
+        "income",
+        "public",
+        "report",
+        "head",
+        "stamp",
+        "low",
+        "start"
+      ],
+      "topic_weights": [
+        244.95542597381817,
+        218.1300129966603,
+        126.82654881721768,
+        111.50001645253144,
+        107.15148398234385,
+        99.18631643758901,
+        90.33503085077632,
+        87.83183080283325,
+        87.58286386639128,
+        82.23974205516082,
+        81.1744213278138,
+        76.44486693830817,
+        75.64630762814461,
+        69.64131609372934,
+        67.49571669011027
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "government",
+        "program",
+        "phone",
+        "nsa",
+        "ha",
+        "company",
+        "wa",
+        "fbi",
+        "obama",
+        "record",
+        "information",
+        "american",
+        "court",
+        "query",
+        "administration"
+      ],
+      "topic_weights": [
+        193.33943477810217,
+        178.89181993335526,
+        161.4939962204976,
+        153.64668672504968,
+        121.07391938985242,
+        109.84817223005174,
+        108.99101201317475,
+        107.82157883324174,
+        88.60571238269662,
+        86.81380037973527,
+        82.2853828808663,
+        79.38232973490351,
+        78.88405717376445,
+        77.40682899200331,
+        70.9285194754332
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 92,
+    "2": 2,
+    "3": 4,
+    "4": 9,
+    "1": 12
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "White House records show Douglas Shulman signed in for 11 visits, not 157, between 2009 and 2012. The latest twist in the conservative effort to tie the IRS tax-exempt targeting scandal to the preside...",
+        "upvotes": 27,
+        "url": "http://www.theatlantic.com/politics/archive/2013/05/the-fake-story-about-the-irs-commissioner-and-the-white-house/276399/"
+      },
+      {
+        "preview": "At 1:55, she even takes one of them to task for homophobia, and at 6:20, she completely eviscerates the \"science\" they keep quoting. It. Is. The best. Often, parents of children with special needs str...",
+        "upvotes": 1,
+        "url": "http://www.upworthy.com/wow-fox-newswoman-lays-epic-smackdown-on-fox-newsmen-for-obvious-and-blatant-misogyny"
+      },
+      {
+        "preview": "Toward the end of a May 27 article in The Times about President Obama’s speech in which, among other things, he mentioned setting new standards for ordering drone strikes against non-Americans, there ...",
+        "upvotes": 0,
+        "url": "http://takingnote.blogs.nytimes.com/2013/05/29/the-signature-strikes-program/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "\"FrackNation\" Part Two: The Koch Industries Ties That Bind (via Desmogblog) Part one of the DeSmogBlog investigation of \"FrackNation\" - a film made in response to \"Gasland 2\" - honed in on the past tr...",
+        "upvotes": 24,
+        "url": "http://occupyamerica.crooksandliars.com/steve-horn/fracknation-part-two-koch-industries-ti"
+      },
+      {
+        "preview": "A young child and his mother wait in a US border detention center before being returned to their home country.Bill Gentile/Zuma Over the past few years, record numbers of children, usually from Mexico...",
+        "upvotes": 0,
+        "url": "http://www.motherjones.com/politics/2013/06/undocumented-immigrant-kids-locked-up-adult-detention"
+      },
+      {
+        "preview": "(UPDATE below.) It turns out, the NSA PRISM story isn't quite the bombshell that everyone said it was. Yes, there continues to be a serious cause for concern when it comes to government spying and ove...",
+        "upvotes": 17,
+        "url": "http://thedailybanter.com/2013/06/nsa-story-falling-apart-under-scrutiny-key-facts-turning-out-to-be-inaccurate/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Antonio Vanegas, usually soft-spoken, finally had enough. After getting paid below minimum wage for two years in a federally owned building, he participated in a one-day strike with hundreds of others...",
+        "upvotes": 1,
+        "url": "http://act.presente.org/sign/antonio/?akid=835.391586.jYRBaV&amp;rd=1&amp;t=3"
+      },
+      {
+        "preview": "s also Sweetwater, Musician’s Friend, owned by Guitar Center, Direct Factory Sales, and now even Best Buy is selling gear. There is no Internet tax either, so sometimes you have to reduce the price of...",
+        "upvotes": 61,
+        "url": "http://www.thenation.com/blog/174843/guitar-center-prices-so-low-employees-cant-survive-wages#axzz2WZXJnNHh"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Skip to comments. Posted on 05/31/2013 8:19:35 AM PDT by SeekAndFind A tepid, superficial and unsatisfying movie by HBO has brought the spectacle of Wladziu Valentino Liberace -- better known to the w...",
+        "upvotes": 3,
+        "url": "http://www.freerepublic.com/focus/f-chat/3025826/posts"
+      },
+      {
+        "preview": "The House of Representatives is about to begin consideration of the 2013 Farm Bill, which includes vital programs that serve hungry families, including the Supplemental Nutrition Assistance Program (S...",
+        "upvotes": 11,
+        "url": "https://secure3.convio.net/ucc/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=1149"
+      },
+      {
+        "preview": "The Senate passed a bill that cuts benefits for low-income Americans and will cost over 56,000 jobs. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotio...",
+        "upvotes": 58,
+        "url": "http://www.thenation.com/blog/174753/sword-drops-food-stamps"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The National Security Agency has long justified its spying powers by arguing that its charter allows surveillance on those outside of the United States, while avoiding intrusions into the private comm...",
+        "upvotes": 1,
+        "url": "http://www.forbes.com/sites/andygreenberg/2013/06/05/nsas-verizon-spying-order-specifically-targeted-americans-not-foreigners/"
+      },
+      {
+        "preview": "Written by Jeremy Holden Published 06/07/13 2:12 PM EDT Share Comment Fox News is misrepresenting President Obama's position on surveillance and the threat of international terrorism to falsely accuse...",
+        "upvotes": 20,
+        "url": "http://mediamatters.org/blog/2013/06/07/fox-muddles-surveillance-debate-with-fabricated/194390"
+      },
+      {
+        "preview": "Advertisement Supported by By Charlie Savage WASHINGTON — The American Civil Liberties Union sued the Obama administration on Tuesday over its “dragnet” collection of logs of domestic phone calls, con...",
+        "upvotes": 0,
+        "url": "https://www.nytimes.com/2013/06/12/us/aclu-files-suit-over-phone-surveillance-program.html?emc=edit_na_20130611&amp;_r=1&amp;"
+      }
+    ]
+  }
+}

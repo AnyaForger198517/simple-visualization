@@ -1,0 +1,265 @@
+{
+  "month": "2012-10",
+  "total_articles": 85,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "abortion",
+        "woman",
+        "life",
+        "wa",
+        "party",
+        "pro",
+        "ha",
+        "movement",
+        "control",
+        "moderate",
+        "argument",
+        "republican",
+        "birth",
+        "debate",
+        "conservative"
+      ],
+      "topic_weights": [
+        100.772421972817,
+        92.75294056576442,
+        92.04534114166195,
+        70.71696994156366,
+        69.76852164349431,
+        61.74115028967649,
+        53.82055142859084,
+        52.40613528925243,
+        51.167528202994056,
+        42.964875238520406,
+        40.1873931062077,
+        39.62860153870866,
+        39.5746295721412,
+        38.02025804157871,
+        36.9279915152111
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "obama",
+        "romney",
+        "ha",
+        "state",
+        "voter",
+        "republican",
+        "president",
+        "election",
+        "american",
+        "campaign",
+        "vote",
+        "party",
+        "word",
+        "white"
+      ],
+      "topic_weights": [
+        893.7114195881768,
+        648.3666135487942,
+        450.1021183835551,
+        388.5022469816883,
+        346.9919747315277,
+        305.06429467156346,
+        285.3743915868516,
+        256.020086609096,
+        226.20055383069175,
+        222.18523451435215,
+        218.75869259796832,
+        207.29267425152352,
+        194.09749426946388,
+        148.14705499653834,
+        146.9730407153511
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "tax",
+        "liberalism",
+        "rich",
+        "income",
+        "economy",
+        "liberal",
+        "pay",
+        "class",
+        "conservative",
+        "republican",
+        "work",
+        "country",
+        "job",
+        "middle"
+      ],
+      "topic_weights": [
+        1584.400816348112,
+        1475.9079692144048,
+        1083.5003540638377,
+        1025.2055976725876,
+        1019.2009663701468,
+        701.504016016612,
+        664.3338544089845,
+        608.7795528075416,
+        597.4152537368406,
+        584.8105518496043,
+        579.4610241356252,
+        535.45891276565,
+        534.4655396452883,
+        525.9970781491763,
+        517.6371110244627
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "labor",
+        "cheap",
+        "conservative",
+        "government",
+        "public",
+        "support",
+        "tyranny",
+        "sector",
+        "fact",
+        "american",
+        "social",
+        "wa",
+        "wage",
+        "law",
+        "work"
+      ],
+      "topic_weights": [
+        1686.3316384889608,
+        1617.1434161956306,
+        1378.5511084188938,
+        504.1395218989362,
+        429.01316401811164,
+        403.4260064961182,
+        222.12429324976475,
+        211.6617529645389,
+        204.30203294356318,
+        192.10742977748313,
+        181.21578318486283,
+        180.23301660371948,
+        178.99554748222255,
+        170.1060053984021,
+        160.53442788244485
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "tax",
+        "state",
+        "romney",
+        "wa",
+        "federal",
+        "government",
+        "american",
+        "mother",
+        "income",
+        "jones",
+        "ha",
+        "minimum",
+        "judge",
+        "job",
+        "court"
+      ],
+      "topic_weights": [
+        174.97438700701082,
+        101.14990525101356,
+        79.31807405171428,
+        67.38496693982401,
+        55.85179087651462,
+        54.353708291038835,
+        53.919998848013385,
+        52.82336909307314,
+        51.6350467031055,
+        49.64445302673229,
+        41.25321204589723,
+        40.85608056034123,
+        35.64870722679923,
+        35.29260219470647,
+        35.17699928771379
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 1,
+    "1": 56,
+    "0": 11,
+    "4": 16,
+    "3": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "By Meggan Woodbury Bilotte • October 1, 2012 Sharing Once again, pregnancy is in the news! (What’s that you say? Discussing the pregnant body (particularly those belonging to celebrities is one of Ame...",
+        "upvotes": 2,
+        "url": "http://nursingclio.org/2012/10/01/pregnancy-and-working-mothers-to-be-or-pregnant-supermodels-and-olympians-oh-my/"
+      },
+      {
+        "preview": "The Gish Gallop is the fallacious debate tactic of drowning your opponent in a flood of individually-weak arguments in order to prevent rebuttal of the whole argument collection without great effort. ...",
+        "upvotes": 5,
+        "url": "http://rationalwiki.org/wiki/Gish_Gallop"
+      },
+      {
+        "preview": "News Undergraduates Celebrate Second Consecutive Virtual Housing Day News Dean of Students Office Discusses Housing Day, Anti-Racism Goals News Renowned Cardiologist and Nobel Peace Prize Winner Berna...",
+        "upvotes": 0,
+        "url": "http://www.thecrimson.com/article/2012/10/3/harvard-huctw-contract-wages/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "An influential PAC led by Sen. Jim DeMint has thrown its support behind Missouri Senate candidate Todd Akin and will direct nearly $300,000 to the candidate. The $290,000 commitment from members of th...",
+        "upvotes": 1,
+        "url": "http://www.usatoday.com/story/onpolitics/2012/09/27/todd-akin-demint-conservatives-fund-missouri-senate/1597445/"
+      },
+      {
+        "preview": "e the gaffes of conservatives as opposed to liberals. Famous quotes By custom, President Obama stayed neutral during the primaries, even though his close friend and Vice President Creepy Uncle Joe Bid...",
+        "upvotes": 1,
+        "url": "http://www.conservapedia.com/Barack_Hussein_Obama"
+      },
+      {
+        "preview": "Finally, tonight is the night. After months of hearing President Obama characterize Gov. Romney’s plan on the campaign trail, and vice versa, we now have the opportunity to see the two candidates for ...",
+        "upvotes": 1,
+        "url": "http://ofpassionandpolitics.wordpress.com/2012/10/03/debate-of-the-people/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ass people didn’t want to help finance schools for poor people. The decline of unions, which had operated as a restraining force on big business and a political organizing force supporting liberalism....",
+        "upvotes": 0,
+        "url": "http://zompist.com/liberalism.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "lation ever proposed to improve working conditions, including the eight hour day, OSHA regulations, and even Child Labor laws. Labor unions, who \"extort\" employers by collectively bargaining. Environm...",
+        "upvotes": 2,
+        "url": "http://sideshow.me.uk/annex/defeattherightin3minutes.htm"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The choice is up to you, comrade!Photo courtesy of John S. Myers Camden County, Georgia, don’t need none of that smart-growth communism. That’s the apparent message behind this billboard, flagged by M...",
+        "upvotes": 0,
+        "url": "http://m.motherjones.com/mojo/2012/10/photo-georgia-gop-goes-full-bircher"
+      },
+      {
+        "preview": "Pete Marovich/ZUMAPress For a good part of his campaign, Mitt Romney has been dogged by questions about his taxes—everything from whether he’s avoided paying them by investing offshore to how he manag...",
+        "upvotes": 3,
+        "url": "http://www.motherjones.com/politics/2012/10/tax-questions-debate-mitt-romney-obama"
+      },
+      {
+        "preview": "As we approach November, the leading Democrat and Republican presidential candidates remain conspicuously, though predictably, silent regarding the question of marijuana law reform. By contrast, much ...",
+        "upvotes": 16,
+        "url": "http://www.alternet.org/marijuana-revolution-making-election-day?paging=off"
+      }
+    ]
+  }
+}

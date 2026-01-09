@@ -1,0 +1,285 @@
+{
+  "month": "2018-08",
+  "total_articles": 176,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "ha",
+        "facebook",
+        "wa",
+        "cost",
+        "jones",
+        "twitter",
+        "tax",
+        "content",
+        "company",
+        "policy",
+        "court",
+        "medium",
+        "trillion",
+        "infowars",
+        "news"
+      ],
+      "topic_weights": [
+        80.98294162060357,
+        72.4783695090694,
+        63.190456423789065,
+        55.9729457023573,
+        54.79324635671474,
+        48.88691254161846,
+        47.71557980789942,
+        47.50128736467215,
+        41.307565679751555,
+        40.7486572696802,
+        38.9870345562117,
+        38.50025646323546,
+        37.990111160114786,
+        37.845227712932726,
+        36.96690573489877
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "trump",
+        "percent",
+        "wa",
+        "state",
+        "democrat",
+        "president",
+        "republican",
+        "government",
+        "democratic",
+        "house",
+        "capitalism",
+        "right",
+        "world",
+        "land"
+      ],
+      "topic_weights": [
+        348.25459872020537,
+        298.36068996322945,
+        262.8466683721586,
+        249.85435049799477,
+        227.07591941007558,
+        226.22465133319815,
+        193.79095960217688,
+        182.11890184440327,
+        155.45932709595544,
+        139.79717687652422,
+        138.71273474796277,
+        135.7772546756413,
+        126.2638797604421,
+        124.8959903790936,
+        115.82953683610448
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "august",
+        "posted",
+        "trump",
+        "session",
+        "advertisement",
+        "wa",
+        "mccain",
+        "ha",
+        "bob",
+        "cannibal",
+        "ben",
+        "fake",
+        "video",
+        "chavez",
+        "jeff"
+      ],
+      "topic_weights": [
+        1725.9302135504263,
+        1712.262491364653,
+        225.6297977144405,
+        212.95798402349033,
+        151.23929562878823,
+        141.47693480984628,
+        127.64975739602245,
+        113.09345012095865,
+        93.52546521464151,
+        82.94708857106582,
+        68.3559358135731,
+        64.20111948127376,
+        56.01793616708958,
+        54.009351931928066,
+        49.52616815394389
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "white",
+        "black",
+        "racist",
+        "racism",
+        "tweet",
+        "ha",
+        "twitter",
+        "medium",
+        "group",
+        "anti",
+        "jeong",
+        "american",
+        "men",
+        "liberal",
+        "wa"
+      ],
+      "topic_weights": [
+        157.4621933705626,
+        51.915524175093296,
+        38.85448128993458,
+        33.96021698540706,
+        33.33675467328441,
+        31.17924260562356,
+        28.307946109886686,
+        27.8611085434551,
+        25.508121949665703,
+        24.17949490249571,
+        22.429015667537072,
+        21.99010526406574,
+        20.77228623215088,
+        20.687576410129214,
+        18.994102880846633
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "fbi",
+        "true",
+        "pundit",
+        "law",
+        "american",
+        "illegal",
+        "child",
+        "moore",
+        "story",
+        "did",
+        "news",
+        "state"
+      ],
+      "topic_weights": [
+        648.958888280095,
+        267.6303928074543,
+        236.4451192359116,
+        212.1974774069481,
+        166.42116283047935,
+        130.88678388529473,
+        130.2041236283572,
+        127.25464300152709,
+        123.1932671942622,
+        119.90125859754089,
+        119.59843862619165,
+        119.22916107324734,
+        117.86025188403643,
+        116.90761803418448,
+        110.12390768091994
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 65,
+    "4": 58,
+    "2": 14,
+    "0": 30,
+    "3": 9
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Mostly law professors | Sometimes contrarian | Often libertarian | Always independent Torts Eugene Volokh | 8.1.2018 8:16 AM Say a cowor...",
+        "upvotes": 5,
+        "url": "http://reason.com/volokh/2018/08/01/legal-duty-to-report-your-coworkers-off"
+      },
+      {
+        "preview": "Paul Manafort‘s third day on trial over charges of bank fraud and tax evasion was cut a bit short on Thursday after government attorneys made the same mistake twice in a row. The last witness called t...",
+        "upvotes": 59,
+        "url": "https://lawandcrime.com/awkward/judge-ellis-loses-all-patience-with-prosecutors-and-ends-court-early-over-major-screw-up/"
+      },
+      {
+        "preview": "The Manafort trial isn’t going to give Mueller what he wants. Daniel Greenfield, a Shillman Journalism Fellow at the Freedom Center, is an investigative journalist and writer focusing on the radical l...",
+        "upvotes": 7,
+        "url": "https://www.frontpagemag.com/fpm/270928/when-mueller-gang-met-judge-ellis-daniel-greenfield"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Socialism’s promises are enticing, at first, but citizens ultimately lose their freedom, a man who fled Albania to come to the U.S. warns. Peter Lumaj, now a conservative activist in the U.S., told Fo...",
+        "upvotes": 24,
+        "url": "https://www.cnsnews.com/blog/craig-bannister/socialism-always-becomes-big-prison-system-end-albanian-refugee-warns"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill New York H...",
+        "upvotes": 9,
+        "url": "https://www.nationalreview.com/news/trump-slams-billionaire-koch-brothers-i-dont-need-their-money-or-bad-ideas/"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 0,
+        "url": "https://www.nationalreview.com/corner/single-payer-maryland-ben-jealous-left-faith-plan/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Brittany Jacobs (left) watches as her 6-year-old son Christian meets President Trump in Section 60 of Arlington National Cemetery. The boy’s father, Marine Sgt. Christopher Jacobs, was k...",
+        "upvotes": 943,
+        "url": "https://www.thegatewaypundit.com/2018/08/trump-gives-400000-to-repair-military-cemeteries-liberal-fake-news-media-ignores-the-story/"
+      },
+      {
+        "preview": "Advertisement NBC reporter Cal Perry was repeatedly attacked by protesters in Charlottesville, Virginia, Saturday night while covering a Black Lives Matter protest marking the one year anniversary of ...",
+        "upvotes": 122,
+        "url": "https://www.thegatewaypundit.com/2018/08/video-liberals-repeatedly-attack-nbc-reporter-in-charlottesville-at-black-lives-matter-protest/"
+      },
+      {
+        "preview": "Advertisement Antifa activists counter-protesting the so-called ‘Unite the Right 2’ rally across from the White House in Washington, D.C. on Sunday spoke on camera to Daily Caller reporter Benny Johns...",
+        "upvotes": 85,
+        "url": "https://www.thegatewaypundit.com/2018/08/i-would-murder-him-antifa-activists-on-video-threaten-to-kill-president-trump-at-unite-the-right-counter-protest/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Racism as an ideology originated from European scientists in the 17th Century during the Atlantic slave trade. They invented it in order to differentiate themselves from those with different skin colo...",
+        "upvotes": 4,
+        "url": "http://affinitymagazine.us/2017/02/19/dear-white-people-your-dictionary-definition-of-racism-is-wrong/"
+      },
+      {
+        "preview": "The black leadership coalition Project 21 is speaking out against Sarah Jeong, the New York Time’s hire for its editorial board, calling her history of anti-white person slurs on social media “racist”...",
+        "upvotes": 246,
+        "url": "https://www.breitbart.com/big-government/2018/08/06/black-conservatives-times-hiring-racist-vulgar-sarah-jeong/amp/"
+      },
+      {
+        "preview": "Sign up for alerts from The Irish Times Just click on “Allow Notifications” on the message appearing on your browser to activate them. We will send you a quick reminder in the future, in case you chan...",
+        "upvotes": 16,
+        "url": "https://www.irishtimes.com/life-and-style/people/so-what-if-i-m-privileged-that-doesn-t-invalidate-my-point-of-view-1.2739065"
+      }
+    ],
+    "4": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The union representing thousands of U.S. Immigration and Customs Enforcement (ICE) agents is reportedly accusing the mayor of Portland, Ore., of viol...",
+        "upvotes": 218,
+        "url": "http://thehill.com/latino/399628-ice-agents-claim-oregon-mayor-created-a-zone-of-terror-and-lawlessness-with-protest"
+      },
+      {
+        "preview": "SHUTTERSTOCK/ Jana Shea An immigration lawyer tweeted that a child allegedly died in a Texas Immigration and Customs Enforcement (ICE) facility, but officials said those claims were false Wednesday. “...",
+        "upvotes": 147,
+        "url": "http://dailycaller.com/2018/08/01/ice-child-dying-texas-false/"
+      },
+      {
+        "preview": "President Donald Trump signed an executive order in January 2017 to limit funding to cities that don’t cooperate with federal immigration enforcement — also known as sanctuary cities. | Evan Vucci/AP ...",
+        "upvotes": 4,
+        "url": "https://www.politico.com/story/2018/08/01/trump-sanctuary-cities-appeal-ruling-756925"
+      }
+    ]
+  }
+}

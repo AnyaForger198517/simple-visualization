@@ -1,0 +1,285 @@
+{
+  "month": "2017-04",
+  "total_articles": 266,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "tax",
+        "policy",
+        "ha",
+        "house",
+        "president",
+        "wa",
+        "plan",
+        "republican",
+        "cut",
+        "member",
+        "senate",
+        "growth",
+        "administration",
+        "federal"
+      ],
+      "topic_weights": [
+        403.2668786721979,
+        368.0887653958035,
+        202.8713759808684,
+        193.24253808735625,
+        187.2620584144937,
+        166.64506516182036,
+        164.27264474172065,
+        159.83483189652694,
+        150.658181853692,
+        150.38039466730245,
+        149.84688998417596,
+        137.9994720160084,
+        104.27478979902347,
+        99.37590911568704,
+        97.32002464530629
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "party",
+        "ha",
+        "democrat",
+        "conservative",
+        "abortion",
+        "wa",
+        "trump",
+        "pro",
+        "support",
+        "medium",
+        "woman",
+        "candidate",
+        "election",
+        "life",
+        "american"
+      ],
+      "topic_weights": [
+        380.59727097587046,
+        255.38300475365713,
+        243.2717508525576,
+        226.3646222459321,
+        224.82664413059538,
+        209.45354101014206,
+        205.09015909532908,
+        201.12960206229613,
+        162.05538649608607,
+        152.33284467431895,
+        142.93985965026923,
+        140.75476020273857,
+        139.80285485635224,
+        125.28894391634077,
+        124.92996124157631
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "advertisement",
+        "police",
+        "black",
+        "law",
+        "officer",
+        "charge",
+        "story",
+        "street",
+        "trump",
+        "enforcement",
+        "video",
+        "continues",
+        "washington",
+        "line"
+      ],
+      "topic_weights": [
+        323.9996312290124,
+        226.41883778048938,
+        169.62061570598735,
+        130.87775420065827,
+        119.3827990842641,
+        115.64241287157948,
+        110.56842612069539,
+        104.90102451573539,
+        98.47803744367582,
+        98.34024569039391,
+        98.17510166239344,
+        87.02645002867582,
+        77.21073075489147,
+        76.29378104548522,
+        75.08745187017416
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "president",
+        "wa",
+        "ha",
+        "north",
+        "state",
+        "military",
+        "obama",
+        "korea",
+        "nuclear",
+        "war",
+        "vote",
+        "senate",
+        "court",
+        "government"
+      ],
+      "topic_weights": [
+        225.5265140656781,
+        192.97780999545964,
+        179.54774219373667,
+        159.03252575289844,
+        132.41835093224037,
+        130.5344325435955,
+        115.14561842634606,
+        115.11928715787198,
+        101.21474300232876,
+        94.27681079319505,
+        92.67190197102056,
+        90.32857787621539,
+        79.4421352006967,
+        75.57882004488629,
+        72.42502186142677
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "student",
+        "visa",
+        "woman",
+        "state",
+        "march",
+        "black",
+        "university",
+        "school",
+        "climate",
+        "country",
+        "gun",
+        "did",
+        "science"
+      ],
+      "topic_weights": [
+        513.5018362995045,
+        371.4899368609791,
+        294.1862714791484,
+        246.4885129125038,
+        204.30145481802234,
+        191.2215564349079,
+        185.00607510898269,
+        183.76115427397627,
+        178.28885119476297,
+        177.5450048037085,
+        174.39418698172753,
+        156.07004969590133,
+        155.78661097089628,
+        152.78987225891973,
+        149.0899297183279
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 112,
+    "3": 65,
+    "0": 19,
+    "2": 40,
+    "1": 30
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "REUTERS/Lucas Jackson Yesterday’s vote to overturn an Obama-era rule forcing states to fund Planned Parenthood may have been close, with Vice President Mike Pence breaking a tie in the Senate, but it ...",
+        "upvotes": 12,
+        "url": "http://dailycaller.com/2017/03/31/planned-parenthoods-time-is-nearly-up/?utm_campaign=atdailycaller&utm_source=Twitter&utm_medium=Social"
+      },
+      {
+        "preview": "WASHINGTON – Sen. Ted Cruz (R-Texas) told PJM he would “readily vote for a one-sentence repeal of Obamacare” and that there is still “a lot of common ground” among Republicans on “replacement policies...",
+        "upvotes": 51,
+        "url": "https://pjmedia.com/news-and-politics/2017/04/01/cruz-2017-could-be-heartbreaking-missed-opportunity-for-republican-congress/"
+      },
+      {
+        "preview": "REUTERS/Nir Elias States with medical marijuana programs are beginning to open access to the drug for people suffering from post-traumatic stress disorder, under mounting pressure from veterans groups...",
+        "upvotes": 15,
+        "url": "http://dailycaller.com/2017/04/01/veterans-groups-fight-for-marijuana-access-to-curb-opioid-abuse/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "WASHINGTON, D.C. -- In a contentious political landscape, Americans increasingly believe the news media generally favors one political party over the other. Sixty-two percent of U.S. adults say the me...",
+        "upvotes": 48,
+        "url": "http://www.gallup.com/poll/207794/six-partisan-bias-news-media.aspx"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE Chelsea Clinton gives advice to young women in a new interview published Wednesday about how they can ask for raises and advance their careers. Clinton told Levo that she was happy...",
+        "upvotes": 41,
+        "url": "http://freebeacon.com/culture/chelsea-clinton-gives-advice-millennial-women-can-successful/"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 4,
+        "url": "https://www.axios.com/how-steve-bannon-lost-his-mojo-2350891180.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement The U.S. intelligence official who “unmasked” the names of multiple private citizens affiliated with Trump’s team is someone “very well known, very high up, very senior in the intelligen...",
+        "upvotes": 81,
+        "url": "http://www.thegatewaypundit.com/2017/03/breaking-report-intelligence-official-unmasked-trump-team-high-not-fbi/"
+      },
+      {
+        "preview": "Comedian Bill Maher erupted Friday night over \"bulls**t issues\" of racism and sexism, defending Fox News host Bill O'Reilly and White House press secretary Sean Spicer against harmful accusations from...",
+        "upvotes": 62,
+        "url": "http://www.theblaze.com/news/2017/04/01/watch-bill-maher-defends-bill-oreilly-and-sean-spicer-over-bullst-claims-of-racism-sexism/"
+      },
+      {
+        "preview": "Adam Schiff has been playing the role of the Queen of Hearts in Alice in Wonderland (perhaps an unfortunate analogy for a California Democrat, NTTAWWT) in the House Intelligence Committee probe into w...",
+        "upvotes": 53,
+        "url": "http://www.redstate.com/streiff/2017/04/01/adam-schiff-goes-silent-reviewing-nunes-documents/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "March 31, 2017 by Stewart Lawrence There appears to be little chance that Senate Democrats and Republicans will agree to a formula that will allow the full body to vote on the nomination of Judge Neil...",
+        "upvotes": 20,
+        "url": "http://natmonitor.com/2017/03/31/gorsuch-and-the-supreme-court-republicans-eye-the-nuclear-option/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved A resolution eliminating an Obama-era regulation aimed at boosting retirement accounts for low-income workers is headed to President Trump's desk aft...",
+        "upvotes": 9,
+        "url": "http://thehill.com/blogs/floor-action/senate/326484-senate-votes-to-eliminate-obama-era-retirement-rule"
+      },
+      {
+        "preview": "REUTERS/Kevin Lamarque/File Photo Veteran Associated Press diplomatic writer Matt Lee refuted a report from The Washington Post Thursday that some State Department officers have been instructed not to...",
+        "upvotes": 27,
+        "url": "http://dailycaller.com/2017/03/31/ap-reporter-calls-out-wapo-for-publishing-false-claim-about-rex-tillerson/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "TSUKES THOUGHTS when the mainstream gets it wrong Greetings fellow liberals! The day we are waiting for is finally here! The SOUTH SHALL RISE AGAIN! In the past our party, the democratic party, shamef...",
+        "upvotes": 1,
+        "url": "https://tsukesthoughts.wordpress.com/2017/03/31/the-liberal-primer-the-south-shall-rise-again/"
+      },
+      {
+        "preview": "WASHINGTON — Former New Mexico Gov. Bill Richardson told a Senate panel Wednesday that the U.S.-Mexico relationship is “in tatters” despite being one of the three most important global relationships t...",
+        "upvotes": 0,
+        "url": "https://pjmedia.com/news-and-politics/2017/03/30/poor-u-s-mexico-relationship-could-put-a-hugo-chavez-type-in-power-rubio-warns/"
+      },
+      {
+        "preview": "Advertisement Scene from the 5-minute film shown to 6th and 7th grade students as part of the core standards in New Jersey and other states. A middle school in Chatham, New Jersey, is using a cartoon ...",
+        "upvotes": 29,
+        "url": "http://www.wnd.com/2017/03/moms-declare-holy-war-after-school-teaches-islam-true-faith/"
+      }
+    ]
+  }
+}

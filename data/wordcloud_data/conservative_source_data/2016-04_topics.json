@@ -1,0 +1,285 @@
+{
+  "month": "2016-04",
+  "total_articles": 274,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "april",
+        "posted",
+        "work",
+        "leave",
+        "woman",
+        "wa",
+        "maternity",
+        "single",
+        "kid",
+        "men",
+        "job",
+        "benefit",
+        "parent",
+        "kill",
+        "ricardo"
+      ],
+      "topic_weights": [
+        5170.022504261125,
+        5082.002712022123,
+        619.0277787435389,
+        457.4093303953306,
+        450.9259189554116,
+        408.22294599503573,
+        261.9461665128549,
+        248.45980575878696,
+        228.81864884226576,
+        207.4898892092622,
+        190.5924154468548,
+        187.87544976136678,
+        183.2542187477606,
+        181.80177844370385,
+        181.27374899247602
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "student",
+        "conservative",
+        "university",
+        "social",
+        "group",
+        "ha",
+        "department",
+        "view",
+        "school",
+        "political",
+        "campus",
+        "market",
+        "liberal",
+        "percent",
+        "review"
+      ],
+      "topic_weights": [
+        207.1374230650496,
+        160.0032117870976,
+        153.61579366459,
+        117.06389508013453,
+        103.92034325600046,
+        103.25765439514232,
+        97.30808768464512,
+        92.44557819542128,
+        87.54311433702848,
+        81.41648362608879,
+        77.15890588361206,
+        69.87899105069772,
+        69.51685597644783,
+        69.29056347176022,
+        65.97597793388704
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ha",
+        "tax",
+        "job",
+        "government",
+        "business",
+        "american",
+        "state",
+        "company",
+        "wa",
+        "worker",
+        "program",
+        "policy",
+        "federal",
+        "percent",
+        "trade"
+      ],
+      "topic_weights": [
+        175.69102941722468,
+        149.7404498278992,
+        142.0750894847321,
+        127.01300220551619,
+        116.42528887660959,
+        114.45418626525004,
+        107.55682297180527,
+        98.49821364381839,
+        96.4900986101981,
+        94.58333299561451,
+        94.22049134659298,
+        92.47049501411327,
+        90.75899928463679,
+        86.63278256912758,
+        84.56477899629866
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "white",
+        "woman",
+        "country",
+        "obama",
+        "advertisement",
+        "law",
+        "black",
+        "war",
+        "news",
+        "right",
+        "comment",
+        "man",
+        "state"
+      ],
+      "topic_weights": [
+        637.8283717291947,
+        266.5469458889553,
+        189.31073143379118,
+        185.98602096764557,
+        183.35615843811556,
+        180.77748638743006,
+        171.89414771970013,
+        141.53635387859012,
+        139.14430531928718,
+        134.51481079893452,
+        126.14494247822952,
+        123.87623609364235,
+        122.84847808110268,
+        122.29683521864924,
+        118.9550628077544
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "cruz",
+        "ha",
+        "republican",
+        "delegate",
+        "state",
+        "campaign",
+        "donald",
+        "wa",
+        "party",
+        "clinton",
+        "candidate",
+        "hillary",
+        "win",
+        "sander"
+      ],
+      "topic_weights": [
+        1823.5413187762706,
+        827.9029152273872,
+        618.0123854205367,
+        522.3790160722333,
+        472.13789907484886,
+        438.4739809894041,
+        436.8521144510451,
+        435.9512482458808,
+        363.9335752411743,
+        349.78069158532395,
+        279.2783747497649,
+        278.5714819678084,
+        262.83271681876596,
+        258.3686493652141,
+        255.37999422631157
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 22,
+    "3": 94,
+    "4": 112,
+    "2": 43,
+    "0": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ook for Clinton to don something sexy on the day of the interview!\"There was that one horrific interview with the girl reporter from the WSJ.Who apparently fell into full bore lesbian crush mode durin...",
+        "upvotes": 5,
+        "url": "http://acecomments.mu.nu/?post=362621"
+      },
+      {
+        "preview": "pril 27, 2016 05:39 PM (Nwg0u) 137 Loved him as a zany actor back in the day. These days? He only goes for the applause. Laugh lines are long gone. Another Jon Stewart. Posted by: AmeriDan at April 27...",
+        "upvotes": 39,
+        "url": "http://acecomments.mu.nu/?post=363093"
+      },
+      {
+        "preview": " a slogan here somewhere: WYMYN: I have a vagina. Give me free stuff!/i]* *this part to be sung like a Mennan Aftershave commercial Posted by: naturalfake at April 29, 2016 02:15 PM (0cMkb) 231 223 Bu...",
+        "upvotes": 8,
+        "url": "http://acecomments.mu.nu/?post=363144"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A week after Emory University administrators set up counseling sessions after ‘Donald Trump 2016′ chalkings were found across campus, students at the University of Kansas complained after similar chal...",
+        "upvotes": 5,
+        "url": "http://www.mediaite.com/online/now-university-of-kansas-students-are-complaining-about-donald-trump-2016-chalkings-too/"
+      },
+      {
+        "preview": "sement. Microdecisions throughout the pyramid will tend to follow those at the apex. In addition to such concurrence mechanisms, there is propagation: the apex produces Ph.D. holders and places them w...",
+        "upvotes": 19,
+        "url": "http://www.independent.org/publications/tir/article.asp?a=731"
+      },
+      {
+        "preview": "The national epidemic of college students being triggered by pro-Donald Trump chalk messages has continued anew, with students at the University of Michigan calling the police to complain after chalki...",
+        "upvotes": 5,
+        "url": "http://www.mediaite.com/online/u-of-michigan-students-call-police-over-pro-donald-trump-chalkings/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "I haven’t said much about the 2016 U.S. presidential race, and I probably won’t say much more about it after this article, as I want to focus on more fundamental philosophic issues. But I’d like to sa...",
+        "upvotes": 9,
+        "url": "http://directorblue.blogspot.com/2016/04/the-objective-standard-ted-cruz-for.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Donald TrumpDonald TrumpHouse Democrats eye 26.5 percent corporate tax rate Iran accepts deal on nuclear monitoring, avoids censure Old South vs. the...",
+        "upvotes": 6,
+        "url": "http://thehill.com/blogs/in-the-know/in-the-know/275032-ivana-trump-we-need-immigrants-to-clean-for-us"
+      },
+      {
+        "preview": "There used to be a rule in place – part of the sadly abandoned movements toward welfare reform in the 80s and 90s – which required food stamps recipients to do at least some work in order to receive t...",
+        "upvotes": 21,
+        "url": "http://hotair.com/archives/2016/04/03/renewed-requirement-of-work-for-snap-recipients-produces-predictable-liberal-backlash/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Marine aviation squadrons Corps units are salvaging aircraft parts from museums aircraft in order an attempt to keep active planes flying and paying for paper towels out of their own pockets to keep t...",
+        "upvotes": 6,
+        "url": "http://www.militarytimes.com/story/military/2016/03/30/marine-corps-broke-plane-parts-museum-raid-aviation-thornberry/82416918/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Ben Carson defended Republican presidential front-runner Donald TrumpDonald TrumpCapitol Police recommend disciplinary action for six officers in Jan...",
+        "upvotes": 0,
+        "url": "http://thehill.com/blogs/ballot-box/274754-carson-defends-trumps-abortion-comments-he-didnt-have-time-to-think-about-it"
+      },
+      {
+        "preview": "The success of Donald Trump stems from one major factor: the perception that he tells it like it is because he’s beholden to no one. Whether Trump actually does tell the truth is a different question—...",
+        "upvotes": 0,
+        "url": "http://time.com/4278462/donald-trump-abortion-filipovic/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Glenn Beck devoted a portion of his radio program Wednesday to play an audio clip of Mark Levin, who blasted Beck’s critics on his own show. Transcripted highlights of Levin’s remarks: [Beck]’s a very...",
+        "upvotes": 6,
+        "url": "http://www.breitbart.com/big-journalism/2016/03/30/mark-levin-glenn-becks-critics-want-destroy-career-doesnt-support-trump/"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 0,
+        "url": "http://www.nationalreview.com/article/433510/2016-presidential-candidates-foreign-policy"
+      },
+      {
+        "preview": "Donald Trump suggested possibility of South Korea and Japan obtaining nuclear arms He said both countries should pay more towards their defense Confused, shocked, bewildered. Just a few of the words u...",
+        "upvotes": 4,
+        "url": "http://www.cnn.com/2016/03/31/politics/trump-view-from-south-korea-japan/index.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2011-10",
+  "total_articles": 74,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Class Struggle and Socialist Political Movement",
+      "core_keywords": ["class", "working", "struggle", "worker", "socialism", "capitalist"],
+      "importance_ratio": 1.35
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Presidential Politics and Tax Policy Debate",
+      "core_keywords": ["reagan", "obama", "president", "republican", "tax", "political"],
+      "importance_ratio": 44.59
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Taxation, Government and Free Market Economics",
+      "core_keywords": ["tax", "government", "money", "state", "capitalism", "libertarian"],
+      "importance_ratio": 27.03
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Occupy Wall Street Protests and Immigration Issues",
+      "core_keywords": ["wall", "street", "protest", "occupy", "immigration", "police"],
+      "importance_ratio": 17.57
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Federal/State Government and Legal Policy Matters",
+      "core_keywords": ["government", "state", "federal", "law", "ron paul", "corporation"],
+      "importance_ratio": 9.46
+    }
+  ]
+}

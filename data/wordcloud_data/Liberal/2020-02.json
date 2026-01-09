@@ -1,0 +1,36 @@
+{
+  "month": "2020-02",
+  "total_articles": 103,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Racial Issues and Local Police Governance",
+      "core_keywords": ["black", "white", "police", "community", "buttigieg", "vote", "mayor", "south bend"],
+      "importance_ratio": 0.0291
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Democratic Presidential Primary Campaigns",
+      "core_keywords": ["sander", "biden", "warren", "campaign", "democratic", "candidate", "voter", "iowa"],
+      "importance_ratio": 0.2913
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump Administration's Federal Programs and Security",
+      "core_keywords": ["trump", "intelligence", "security", "medicaid", "federal", "president", "grant", "program"],
+      "importance_ratio": 0.1359
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Impeachment Trial and Legal Issues",
+      "core_keywords": ["trump", "president", "republican", "court", "justice", "election", "house", "stone"],
+      "importance_ratio": 0.5146
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Wage Growth and Economic Inequality",
+      "core_keywords": ["wage", "worker", "minimum", "economic", "growth", "gender gap", "policy", "state"],
+      "importance_ratio": 0.0291
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "month": "2011-06",
+  "total_articles": 81,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "conservative",
+        "liberal",
+        "conservatism",
+        "ha",
+        "democracy",
+        "democratic",
+        "example",
+        "word",
+        "social",
+        "language",
+        "society",
+        "reason",
+        "argument",
+        "institution",
+        "wa"
+      ],
+      "topic_weights": [
+        7503.404738538877,
+        7132.35619151735,
+        5800.998928831638,
+        5118.283114167853,
+        4272.791470779176,
+        3571.336204915079,
+        3303.648297809735,
+        3033.2394506569294,
+        2777.7139918997686,
+        2652.993525809392,
+        2644.500463079822,
+        2340.406797849765,
+        2340.114815320565,
+        2315.7364559487537,
+        2135.6537490780065
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "tax",
+        "president",
+        "country",
+        "crisis",
+        "world",
+        "billion",
+        "ha",
+        "trade",
+        "nation",
+        "public",
+        "read",
+        "term",
+        "obama",
+        "debate",
+        "policy"
+      ],
+      "topic_weights": [
+        79.4493296083218,
+        53.33875008481512,
+        42.39173378942294,
+        35.972882356849965,
+        31.857324879213575,
+        31.58842180508272,
+        31.331675455569055,
+        28.549346911448062,
+        27.872139550382954,
+        27.392121395023104,
+        27.205153666271627,
+        23.79605861792422,
+        23.567413151995027,
+        22.90376669018888,
+        20.206116961343543
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "jones",
+        "mother",
+        "state",
+        "comment",
+        "republican",
+        "tax",
+        "nation",
+        "policy",
+        "democrat",
+        "obama",
+        "support",
+        "today",
+        "help"
+      ],
+      "topic_weights": [
+        394.9042368173257,
+        217.5352953718506,
+        201.7917907116536,
+        177.14880584163197,
+        175.0191523227637,
+        150.085839843488,
+        137.5645138585661,
+        136.13761357106839,
+        129.42502307742708,
+        121.01582429710177,
+        112.03150680278794,
+        100.26290891727461,
+        99.96773049858797,
+        97.89540122291487,
+        94.89541281476673
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "liberal",
+        "conservatism",
+        "ha",
+        "conservative",
+        "democracy",
+        "word",
+        "language",
+        "example",
+        "argument",
+        "democratic",
+        "work",
+        "institution",
+        "wa",
+        "social",
+        "reason"
+      ],
+      "topic_weights": [
+        10.671060515311234,
+        8.59027186227221,
+        7.30212160358719,
+        6.32165718793986,
+        5.878778982783266,
+        5.237731500851253,
+        4.878242289612536,
+        4.598272671618303,
+        4.256065292918804,
+        4.147025979502507,
+        3.8939371521097814,
+        3.8675076387821505,
+        3.67437431216774,
+        3.409164911185247,
+        3.250171764731432
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "liberal",
+        "ha",
+        "conservative",
+        "conservatism",
+        "wa",
+        "democratic",
+        "democracy",
+        "word",
+        "reason",
+        "work",
+        "culture",
+        "american",
+        "language",
+        "institution",
+        "social"
+      ],
+      "topic_weights": [
+        1020.257338395896,
+        819.2125239290018,
+        808.4800207219325,
+        804.4046802922153,
+        701.6778429193961,
+        620.1802195680626,
+        554.1889663531111,
+        512.0185805629168,
+        431.203015950209,
+        418.94397932284096,
+        406.9744430444081,
+        393.28280872835927,
+        389.0721753216509,
+        386.56709032560605,
+        367.74484306181085
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 5,
+    "2": 73,
+    "0": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "I've been working on a column--which should be up here on the blog soon--about Ben Shapiro, who's caused a big stink with his new expose, \"Primetime Propaganda: The True Hollywood Story of How the Lef...",
+        "upvotes": 3,
+        "url": "http://latimesblogs.latimes.com/the_big_picture/2011/06/primetime-propaganda-does-it-matter-that-most-hollywood-liberals-are-jews.html"
+      },
+      {
+        "preview": "what it is. Indeed, one can hear fascism, never mind conservatism, on the radio any day of the week. But Americans have mostly forgotten what fascism even is, so that they can listen to fascist rhetor...",
+        "upvotes": 16,
+        "url": "http://polaris.gseis.ucla.edu/pagre/conservatism.html"
+      },
+      {
+        "preview": "Sign up to read our regular email newsletters By Jacob Aron “Raise taxes!” screams one headline. “Cut spending!” shouts another. With such conflicting views on offer, how is anyone supposed to make se...",
+        "upvotes": 2,
+        "url": "http://www.newscientist.com/article/dn20622-article-analyser-tells-you-what-newspapers-really-think.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "President Obama is looking for a good reason to leave Afghanistan, and $113 billion a year could be it. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promo...",
+        "upvotes": 3,
+        "url": "http://www.thenation.com/blog/161035/cost-afghanistan-too-high-says-white-house"
+      },
+      {
+        "preview": "As food prices rise and climate change affects crops in developing countries, the need for emergency food aid is likely to rise. At the G20 meeting later this month, agriculture ministers will look at...",
+        "upvotes": 4,
+        "url": "http://www.guardian.co.uk/global-development/2011/jun/02/us-food-aid-marshall-plan"
+      },
+      {
+        "preview": "A tax on the rapid-fire trades that dominate financial markets would discourage reckless behavior and raise serious funds for public use. By signing up, you confirm that you are over the age of 16 and...",
+        "upvotes": 14,
+        "url": "http://www.thenation.com/article/161257/cut-wall-street-down-size-financial-speculation-tax"
+      }
+    ],
+    "2": [
+      {
+        "preview": "<a  Editor’s note: Every other week, The Media Consortium rounds up the latest media policy news in a blog called the The Wavelength, posted below. Smart phones are hip, trendy, and loaded with user-f...",
+        "upvotes": 1,
+        "url": "http://motherjones.com/mixed-media/2011/05/top-media-policy-stories-week-comcast-twitter"
+      },
+      {
+        "preview": "The Atlanta Journal-Constitution has a video of Rep. Paul Broun (R-Georgia) talking about the TSA. According to Rep. Broun’s statement on C-SPAN’s Washington Journal, he saw the TSA pat-down a grandmo...",
+        "upvotes": 1,
+        "url": "http://motherjones.com/blue-marble/2011/05/sea-shepherd-back-japan-monitoring-conditions"
+      },
+      {
+        "preview": "The US government is rewriting its military rule book to make cyber-attacks a possible act of war, giving commanders the option of launching retaliatory military strikes against hackers backed by host...",
+        "upvotes": 2,
+        "url": "http://www.guardian.co.uk/world/2011/may/31/washington-moves-to-classify-cyber-attacks"
+      }
+    ],
+    "3": [],
+    "4": []
+  }
+}

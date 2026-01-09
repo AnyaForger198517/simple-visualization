@@ -1,0 +1,275 @@
+{
+  "month": "2011-10",
+  "total_articles": 74,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "class",
+        "working",
+        "struggle",
+        "worker",
+        "movement",
+        "party",
+        "extreme",
+        "social",
+        "capitalist",
+        "political",
+        "socialism",
+        "right",
+        "power",
+        "country",
+        "democratic"
+      ],
+      "topic_weights": [
+        328.3856642307144,
+        285.98332393867327,
+        199.0138437059047,
+        141.053294132446,
+        137.87300649009543,
+        137.8208844281539,
+        116.2978011446818,
+        114.2304904695819,
+        110.72796253920878,
+        107.32636026293164,
+        106.87297842187677,
+        100.83211683578199,
+        98.06527039470073,
+        90.1585414163675,
+        86.8729720696869
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "reagan",
+        "wa",
+        "obama",
+        "ha",
+        "president",
+        "percent",
+        "republican",
+        "liberal",
+        "tax",
+        "state",
+        "american",
+        "party",
+        "political",
+        "cain",
+        "policy"
+      ],
+      "topic_weights": [
+        248.65684971592793,
+        200.07133588771853,
+        172.5929633149317,
+        141.1729375954026,
+        136.0707995469685,
+        131.3063632613494,
+        106.16003500514705,
+        88.1369564034332,
+        88.10403901848365,
+        82.12618155302579,
+        73.69652141770649,
+        59.00175436261066,
+        57.2840771792231,
+        56.004514286294466,
+        53.81522497693541
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "government",
+        "wa",
+        "ha",
+        "work",
+        "pay",
+        "money",
+        "state",
+        "free",
+        "income",
+        "market",
+        "did",
+        "capitalism",
+        "business",
+        "libertarian"
+      ],
+      "topic_weights": [
+        355.6734113411061,
+        300.19403058190784,
+        224.22645218808807,
+        223.9538488177385,
+        178.86465304837972,
+        141.82115112011388,
+        131.65745671636816,
+        122.66590377050557,
+        106.48261178990457,
+        98.79415405268064,
+        98.30771274770575,
+        93.14508273484043,
+        92.53064675462193,
+        90.56730514683757,
+        87.72878159432024
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wall",
+        "street",
+        "wa",
+        "ha",
+        "protest",
+        "protester",
+        "occupy",
+        "news",
+        "immigration",
+        "immigrant",
+        "american",
+        "police",
+        "city",
+        "economist",
+        "group"
+      ],
+      "topic_weights": [
+        77.16226176957882,
+        76.85499862133706,
+        69.16044506119601,
+        58.60418968832423,
+        45.472970463415365,
+        43.245415353589635,
+        43.05845989791601,
+        38.850433408670845,
+        34.230399313635225,
+        28.86611823299804,
+        26.808767554852935,
+        26.69613453081112,
+        25.09522628623389,
+        24.58530319384311,
+        24.53589393607334
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "government",
+        "state",
+        "federal",
+        "wa",
+        "paul",
+        "corporation",
+        "ha",
+        "law",
+        "ron",
+        "department",
+        "internet",
+        "plan",
+        "service",
+        "california",
+        "texas"
+      ],
+      "topic_weights": [
+        58.85227606975643,
+        52.16391103492772,
+        50.69334528464182,
+        40.971508609663324,
+        32.75202186954826,
+        31.85642976813281,
+        29.233681736367124,
+        27.200671212629842,
+        23.462180059294365,
+        23.403049089270915,
+        20.56008927281763,
+        19.76143693258475,
+        19.120372472186247,
+        18.86031160480878,
+        18.33728475266125
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 33,
+    "2": 20,
+    "3": 13,
+    "4": 7,
+    "0": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "em to the big banks for decades, narrow their choices, stifle their creativity, and start their adult lives on a stress-laden footing. The forces of extreme right reaction attempt to appeal demagogica...",
+        "upvotes": 0,
+        "url": "http://www.cpusa.org/party-program/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Rep. Darrell Issa (R-Calif.) said in a letter to the Ford Motor Company on Thursday that he was \"deeply concerned about undue political pressure exer...",
+        "upvotes": 4,
+        "url": "http://thehill.com/blogs/blog-briefing-room/news/184681-issa-probes-white-house-pressure-in-ford-ad-pull"
+      },
+      {
+        "preview": "Link copied. We want to bridge divides to reach everyone. Herman Cain is surging in popularity in a number of polls. So why is Herman Cain putting his campaign on hold for the next month? Loading... O...",
+        "upvotes": 1,
+        "url": "http://www.csmonitor.com/USA/Latest-News-Wires/2011/1003/Herman-Cain-leaving-the-campaign-trail-Why-now"
+      },
+      {
+        "preview": "Republican presidential contender Herman Cain is surging in the latest polls, but he is also facing some backlash for saying that “African-Americans have been brainwashed into not being open minded, n...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2011/09/29/buchanan-stands-with-cain-blacks-bought-a-lot-of-liberal-propaganda-on-the-liberal-plantation/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 0,
+        "url": "http://www.examiner.com/conservative-in-houston/immigration-is-class-warfare-that-causes-racism"
+      },
+      {
+        "preview": "Just after the Obama administration took over, his allies arranged a quick \"bankruptcy\" for GM and Chrysler. The senior creditors, who were supposed to be paid first based on centuries of bankruptcy l...",
+        "upvotes": 0,
+        "url": "http://www.scragged.com/articles/the-uaw-strikes-again"
+      },
+      {
+        "preview": "Over the past three decades, the growth rate in justifications for skyrocketing executive compensation has been nearly as high as the growth rate of executive compensation itself. Globalization makes ...",
+        "upvotes": 4,
+        "url": "http://motherjones.com/kevin-drum/2011/10/ceo-pay-still-skyrocketing-still-undeserved"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Barack Obama blasted Bank of America's plan to charge $5 a month for debit card purchases. “This is exactly why we need this Consumer Finance Protection Bureau that we set up that is ready to go,\" Oba...",
+        "upvotes": 10,
+        "url": "http://www.cnbc.com/id/44770831"
+      },
+      {
+        "preview": "Updated, 1:23 p.m. Sunday | In a tense showdown above the East River, the police arrested more than 700 demonstrators from the Occupy Wall Street protests who took to the roadway as they tried to cros...",
+        "upvotes": 2,
+        "url": "http://cityroom.blogs.nytimes.com/2011/10/01/police-arresting-protesters-on-brooklyn-bridge/"
+      },
+      {
+        "preview": "It’s about time we compare the “Economist vs Wall Street Journal”. They are among the best news outfits across the globe but differ in certain areas. The first difference you will observe when you rea...",
+        "upvotes": 13,
+        "url": "http://www.thefreemanonline.org/anything-peaceful/wall-street-couldnt-have-done-it-alone/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "©2020 MERCURY RADIO ARTS.ALL RIGHTS RESERVED. TERMS OF USE | PRIVACY POLICY Writer Glenn made the case tonight on GBTV that the Occupy Wall Street protestors need to recognize who is really burdening ...",
+        "upvotes": 49,
+        "url": "http://www.glennbeck.com/2011/10/04/are-colleges-and-universities-to-blame-for-occupywallstreet-protests/"
+      },
+      {
+        "preview": "Sacramento -- Gov. Jerry Brown on Tuesday vetoed a major labor-backed bill that would have allowed child care workers, including family members, to unionize. The measure was pushed by Democratic leade...",
+        "upvotes": 2,
+        "url": "http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/10/04/BAUQ1LDCGN.DTL&tsp=1"
+      },
+      {
+        "preview": "The Supreme Court justice told a Senate panel that the unintended consequence has been lower quality judges Supreme Court Justice Antonin Scalia isn't a supporter of legalizing drugs. But he does beli...",
+        "upvotes": 9,
+        "url": "http://www.theatlantic.com/national/archive/2011/10/scalia-federal-drug-laws-were-a-mistake/246321/"
+      }
+    ]
+  }
+}

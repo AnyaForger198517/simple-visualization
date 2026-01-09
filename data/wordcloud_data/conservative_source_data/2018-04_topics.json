@@ -1,0 +1,285 @@
+{
+  "month": "2018-04",
+  "total_articles": 251,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "world",
+        "truth",
+        "woman",
+        "american",
+        "liberal",
+        "story",
+        "order",
+        "email",
+        "national",
+        "human",
+        "men",
+        "believe",
+        "trump"
+      ],
+      "topic_weights": [
+        197.72039392317132,
+        172.9297760333813,
+        147.90754282075255,
+        117.30205875326715,
+        102.1733658922719,
+        88.60482943511029,
+        83.01849170173445,
+        72.72419060469772,
+        72.66035281385523,
+        69.53158081459115,
+        64.31277260809281,
+        59.15285036268795,
+        59.08809398559856,
+        53.86133250915456,
+        53.0985282095707
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "gun",
+        "court",
+        "republican",
+        "wa",
+        "ha",
+        "democrat",
+        "state",
+        "amendment",
+        "party",
+        "conservative",
+        "vote",
+        "circuit",
+        "law",
+        "trump",
+        "hogg"
+      ],
+      "topic_weights": [
+        179.13805053086088,
+        167.10892054088873,
+        166.00234548523716,
+        163.80422470446408,
+        143.26087213205386,
+        135.90461467625678,
+        112.48530805182949,
+        100.10336899482355,
+        96.41249991919777,
+        94.40555900244307,
+        94.26042702420375,
+        94.05859373399254,
+        92.97197214691664,
+        92.82584738475724,
+        86.14187580703229
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "news",
+        "ha",
+        "clinton",
+        "president",
+        "bush",
+        "muslim",
+        "life",
+        "twitter",
+        "american",
+        "family",
+        "post",
+        "jesus",
+        "fbi",
+        "group"
+      ],
+      "topic_weights": [
+        494.81340850308584,
+        125.99581682364322,
+        109.76854794660328,
+        108.0136643868195,
+        93.07584998320289,
+        87.05670080050929,
+        86.61083053961042,
+        84.11990550893265,
+        80.26985718439703,
+        76.85213838946467,
+        75.55161395897649,
+        73.73140074131798,
+        73.31906004483935,
+        71.82304498177322,
+        69.0489602739784
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "president",
+        "house",
+        "campaign",
+        "comey",
+        "ha",
+        "china",
+        "wa",
+        "medium",
+        "white",
+        "republican",
+        "mueller",
+        "washington",
+        "news",
+        "election"
+      ],
+      "topic_weights": [
+        469.8867929402341,
+        297.23609043001693,
+        166.06108374256843,
+        142.65657054766373,
+        142.4320933170883,
+        129.86197737259988,
+        107.09740359462312,
+        98.31297412857549,
+        90.64683545244786,
+        88.18628113766479,
+        75.46476465401597,
+        73.24028784691669,
+        71.16260051746201,
+        70.52679191710564,
+        70.3252835004363
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "wa",
+        "ha",
+        "country",
+        "american",
+        "school",
+        "california",
+        "law",
+        "police",
+        "tax",
+        "city",
+        "student",
+        "white",
+        "black",
+        "national"
+      ],
+      "topic_weights": [
+        372.7344701192994,
+        338.1570637018745,
+        267.2222895073304,
+        179.68372214921737,
+        174.55745973643693,
+        152.64245921523292,
+        148.17934175671536,
+        138.68446994687704,
+        131.4332475433175,
+        129.04091411525957,
+        124.08274919654929,
+        122.21036884026162,
+        114.63677320628531,
+        93.98453604918964,
+        93.58244152957998
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 61,
+    "0": 33,
+    "1": 37,
+    "3": 52,
+    "4": 68
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement After an image of a poster comparing Republicans to Nazis in a Nebraska high school classroom went viral, the school claimed that the teacher does not share the views expressed in the pr...",
+        "upvotes": 440,
+        "url": "http://thegatewaypundit.com/2018/03/you-called-us-nazis-students-repeatedly-ask-teacher-to-take-down-nazis-republicans-sign-she-refuses-video/"
+      },
+      {
+        "preview": "Advertisement Federal criminal charges filed in Minnesota this week reveal the Justice Department has charged a former FBI agent, who aimed to blow the whistle on the bureau’s “systemic biases,” for l...",
+        "upvotes": 5,
+        "url": "http://www.thegatewaypundit.com/2018/03/fbi-agent-who-aimed-to-expose-systemic-biases-charged-by-doj-for-leaking-secret-document/"
+      },
+      {
+        "preview": "Amid the calls from liberals for an “honest discussion” and “coming together as a nation,” there is always something lurking, just off to the side. The issue at hand doesn’t matter, once conservatives...",
+        "upvotes": 9,
+        "url": "https://townhall.com/columnists/derekhunter/2018/04/01/draft-n2466679"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Iranian Supreme Leader Ayatollah Khamenei suggested that the solution to homicide is to make guns in the United States illegal. âNo one dares apply the clear solution to the promotion of guns and ho...",
+        "upvotes": 51,
+        "url": "https://americanmilitarynews.com/2018/03/irans-leader-says-us-should-make-all-guns-illegal-this-is-corruption/"
+      },
+      {
+        "preview": "Parkland student-activist David Hogg has doubled down on his attacks on Fox News host Laura Ingraham, by slamming the conservative host for her criticism and lack of apology to sports figures like LeB...",
+        "upvotes": 1,
+        "url": "http://www.breitbart.com/sports/2018/04/01/david-hogg-asks-why-laura-ingraham-never-apologized-lebron-james/"
+      },
+      {
+        "preview": "David Hogg may have been a student at the high school in Parkland, Florida shot up by a killer whom the Broward County Sheriff's Department and the FBI knew about and failed to stop, but he has hardly...",
+        "upvotes": 0,
+        "url": "https://www.americanthinker.com/articles/2018/04/boss_hogg_and_his_ingraham_angle.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ShutterStock/Stephanie Frey A Hampton Middle School teacher in Georgia told his students to write letters to Congress asking lawmakers to enact stricter gun control laws. “You are trying to persuade l...",
+        "upvotes": 20,
+        "url": "http://dailycaller.com/2018/03/31/middle-school-gun-control-letter/"
+      },
+      {
+        "preview": "By Marlene Lenthang For .com Published: 23:33 EDT, 31 March 2018 | Updated: 13:56 EDT, 1 April 2018 190 View comments An army of a thousand migrants from Central America are marching through Mexico to...",
+        "upvotes": 38,
+        "url": "http://www.dailymail.co.uk/news/article-5566223/1-200-illegal-Central-American-migrants-march-US.html"
+      },
+      {
+        "preview": "Raymond Ibrahim Middle East and Islam Specialist 01/29/2018 by Raymond Ibrahim 2 Comments Coptic Solidarity For another consecutive year in a row, Egypt has proven to be an inhospitable place for Chri...",
+        "upvotes": 92,
+        "url": "http://raymondibrahim.com/2018/01/29/egypts-christians-suffer-high-persecution/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "We've made some important changes to our Privacy and Cookies Policy and we want you to know what this means for you and your data. We and our partners use technologies, such as cookies, and collect br...",
+        "upvotes": 41,
+        "url": "http://www.bbc.com/news/amp/world-asia-43614400"
+      },
+      {
+        "preview": "Advertisement Last month Van Der Zwaan pleaded guilty to lying to Special Counsel investigators about his conversations with Trump’s former campaign aide Rick Gates. Dirty cop Robert Mueller asked a j...",
+        "upvotes": 4,
+        "url": "http://www.thegatewaypundit.com/2018/04/what-is-mueller-hiding-mueller-asks-judge-to-waive-lawyers-right-to-file-foia-requests-in-russia-witch-hunt/"
+      },
+      {
+        "preview": "Advertisement It appears all the bragging done by Obama advisors about their cozy relationship with Facebook is about to bite the social media giant in the behind. Washington Free Beacon reports: Adve...",
+        "upvotes": 2,
+        "url": "http://www.thegatewaypundit.com/2018/04/meet-the-state-attorney-general-demanding-all-facebook-communications-with-barack-obamas-2012-campaign/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "IQ† is one of those things that some people don’t like to talk about. Yet, for so many reasons and in so many ways, it is an important concept, on which so many things in life turn. It is well known t...",
+        "upvotes": 1,
+        "url": "https://neociceroniantimes.wordpress.com/2016/08/21/why-the-decline-of-americas-average-iq-is-a-cause-for-concern/"
+      },
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill The Supreme Court in the American Constitutional Order The Myth of the Red Pill The Billionaires’ Party Mi...",
+        "upvotes": 3,
+        "url": "https://www.nationalreview.com/2018/04/oklahoma-education-disaster/"
+      },
+      {
+        "preview": "The 23-year-old grad student of Wilfrid Laurier University Lindsay Shepherd unwillingly became a public figure after a recording surfaced on the internet late last year. Her so-called crime involved s...",
+        "upvotes": 1,
+        "url": "https://us.blastingnews.com/news/2018/03/lindsay-shepherd-publicly-declares-she-is-no-longer-a-leftist-002430917.html"
+      }
+    ]
+  }
+}

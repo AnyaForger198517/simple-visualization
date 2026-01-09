@@ -1,0 +1,36 @@
+{
+  "month": "2019-09",
+  "total_articles": 128,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Daily Life and Digital Content Sharing",
+      "core_keywords": ["work", "computer", "game", "posted", "woman", "man", "ethic"],
+      "importance_ratio": 0.0078
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Presidential Politics and Ukraine Controversy",
+      "core_keywords": ["trump", "biden", "president", "ukraine", "russia", "campaign", "state"],
+      "importance_ratio": 0.4531
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Racial Issues and School-related Debates",
+      "core_keywords": ["white", "black", "school", "student", "race", "twitter", "american"],
+      "importance_ratio": 0.1719
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Social Life and Judicial-related Topics",
+      "core_keywords": ["child", "kavanaugh", "book", "family", "church", "email", "city"],
+      "importance_ratio": 0.2422
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Cannabis and Social Problems",
+      "core_keywords": ["cannabis", "child", "parent", "government", "city", "life", "problem"],
+      "importance_ratio": 0.1250
+    }
+  ]
+}

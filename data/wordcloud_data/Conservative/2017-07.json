@@ -1,0 +1,36 @@
+{
+  "month": "2017-07",
+  "total_articles": 270,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Healthcare Policy and Obamacare Debate",
+      "core_keywords": ["obamacare", "healthcare", "republican", "democrat", "tax", "congress", "health"],
+      "importance_ratio": 0.1741
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State and Local Legal and Administrative Affairs",
+      "core_keywords": ["state", "court", "law", "government", "legal", "city", "policy"],
+      "importance_ratio": 0.2185
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump Administration and Russia-related Controversies",
+      "core_keywords": ["trump", "president", "republican", "russia", "campaign", "white house", "news"],
+      "importance_ratio": 0.3296
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Military and Public Security Issues",
+      "core_keywords": ["mccain", "military", "police", "war", "government", "security", "life"],
+      "importance_ratio": 0.1000
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Gender, Minority and Social Justice Topics",
+      "core_keywords": ["men", "woman", "muslim", "law", "university", "soros", "campaign"],
+      "importance_ratio": 0.1778
+    }
+  ]
+}

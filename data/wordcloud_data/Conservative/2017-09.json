@@ -1,0 +1,36 @@
+{
+  "month": "2017-09",
+  "total_articles": 163,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "NFL Anthem Protests and Trump's Sports-related Remarks",
+      "core_keywords": ["nfl", "anthem", "trump", "sport", "game", "twitter", "bannon"],
+      "importance_ratio": 0.1656
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Tech and Climate Issues with Hurricane and DACA Context",
+      "core_keywords": ["google", "climate", "hurricane", "daca", "mccain", "fox", "policy"],
+      "importance_ratio": 0.0613
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Domestic Policy and US Party Politics",
+      "core_keywords": ["trump", "president", "republican", "democrat", "tax", "law", "government"],
+      "importance_ratio": 0.4785
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Racial Equality and Educational Justice Debates",
+      "core_keywords": ["black", "white", "american", "school", "student", "conservative", "right"],
+      "importance_ratio": 0.1779
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "North Korea Nuclear Crisis and Global Security",
+      "core_keywords": ["north korea", "nuclear", "missile", "trump", "war", "defense", "weapon"],
+      "importance_ratio": 0.1167
+    }
+  ]
+}

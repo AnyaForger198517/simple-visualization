@@ -1,0 +1,36 @@
+{
+  "month": "2018-08",
+  "total_articles": 176,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Social Media Content Policy and Tax Issues",
+      "core_keywords": ["facebook", "twitter", "content", "tax", "company", "policy", "infowars"],
+      "importance_ratio": 0.1705
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump and US Political Party Economics",
+      "core_keywords": ["trump", "democrat", "republican", "president", "state", "capitalism", "percent"],
+      "importance_ratio": 0.3693
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's August Campaign and Controversial Content",
+      "core_keywords": ["trump", "august", "advertisement", "mccain", "fake news", "video", "cannibal"],
+      "importance_ratio": 0.0795
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Racism and Social Media Discrimination",
+      "core_keywords": ["racism", "white", "black", "twitter", "anti", "liberal", "american"],
+      "importance_ratio": 0.0511
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "ICE and Illegal Immigration Enforcement",
+      "core_keywords": ["ice", "illegal", "child", "trump", "law", "american", "state"],
+      "importance_ratio": 0.3295
+    }
+  ]
+}

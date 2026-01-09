@@ -1,0 +1,36 @@
+{
+  "month": "2014-10",
+  "total_articles": 135,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Midterm Election and Party Politics",
+      "core_keywords": ["republican", "democrat", "election", "senate", "house", "obama", "party"],
+      "importance_ratio": 0.1852
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Constitutional and Governmental Regulation",
+      "core_keywords": ["constitution", "government", "congress", "amendment", "state", "law", "power"],
+      "importance_ratio": 0.0148
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Government Administration and Policy Issues",
+      "core_keywords": ["house", "obama", "state", "administration", "policy", "official", "libertarian"],
+      "importance_ratio": 0.0222
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Social Issues and Public Security",
+      "core_keywords": ["gun", "law", "ebola", "police", "black", "public", "american"],
+      "importance_ratio": 0.7704
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Personal and Political Controversies",
+      "core_keywords": ["mcconnell", "china", "drug", "law", "money", "gift", "coal"],
+      "importance_ratio": 0.0074
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2017-04",
+  "total_articles": 268,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "tax",
+        "ha",
+        "work",
+        "manafort",
+        "program",
+        "school",
+        "political",
+        "wa",
+        "company",
+        "change",
+        "government",
+        "chicago",
+        "state",
+        "view",
+        "rule"
+      ],
+      "topic_weights": [
+        155.74897365210174,
+        127.66572544930293,
+        122.86450973661393,
+        121.14463042342356,
+        105.24242930503644,
+        95.12414188231513,
+        93.47099159275001,
+        88.73235925490945,
+        88.071491500391,
+        87.47235797084028,
+        78.28645787847044,
+        77.97730734847332,
+        70.26940829273792,
+        66.14880899643376,
+        64.94402611202706
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "house",
+        "president",
+        "ha",
+        "news",
+        "white",
+        "republican",
+        "medium",
+        "election",
+        "administration",
+        "democrat",
+        "press",
+        "russia",
+        "jones"
+      ],
+      "topic_weights": [
+        1054.8093248987338,
+        507.85222418688613,
+        446.03892357613734,
+        409.9651377562873,
+        335.4515923211867,
+        298.29290707041946,
+        286.61808293956557,
+        209.9375787224432,
+        205.94692002067904,
+        202.96735392570432,
+        189.2897884691673,
+        188.28012448679138,
+        187.26376143677987,
+        180.50932804862612,
+        177.0792562433052
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "getty",
+        "wa",
+        "number",
+        "military",
+        "health",
+        "april",
+        "syria",
+        "syrian",
+        "force",
+        "ha",
+        "state",
+        "attack",
+        "strike",
+        "assad",
+        "group"
+      ],
+      "topic_weights": [
+        276.4235797848869,
+        141.98600095472045,
+        127.47409063802438,
+        114.16068425634862,
+        103.97247824520747,
+        103.5357001531459,
+        102.87665962705678,
+        91.37000627140084,
+        89.13107103070847,
+        79.88093173216932,
+        79.03307656648553,
+        78.64427336152673,
+        71.68020499857914,
+        71.25613484935224,
+        66.85149008438864
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "court",
+        "judge",
+        "trump",
+        "law",
+        "federal",
+        "wa",
+        "communication",
+        "american",
+        "order",
+        "case",
+        "power",
+        "reilly",
+        "right",
+        "decision",
+        "change"
+      ],
+      "topic_weights": [
+        187.4855575092749,
+        168.2553877680179,
+        139.70780384173813,
+        129.57454356688837,
+        120.60504893174611,
+        109.32049935044678,
+        97.1876044289614,
+        87.48795471370424,
+        87.37293782550704,
+        85.2439461359203,
+        82.29650702410086,
+        81.05159164348738,
+        78.70113909171926,
+        67.50045685683513,
+        65.44516509164748
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "world",
+        "state",
+        "american",
+        "country",
+        "party",
+        "white",
+        "president",
+        "political",
+        "republican",
+        "mercer",
+        "group",
+        "life"
+      ],
+      "topic_weights": [
+        913.5205064336915,
+        589.2100841474063,
+        586.4379222395506,
+        219.00520765109462,
+        203.44890026128303,
+        197.85066543676712,
+        193.45164303927612,
+        182.61694400969273,
+        176.73770935335693,
+        176.4653865663891,
+        158.57795215489318,
+        155.9453951140129,
+        138.23459154695516,
+        126.22357930657306,
+        124.71574280957978
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 104,
+    "1": 104,
+    "0": 28,
+    "2": 10,
+    "3": 22
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The president’s budget calls for ending an environmental program that had supported climate efforts in his and several Cabinet members’ backyards. by Lisa Song Climate change isn’t a nebulous threat f...",
+        "upvotes": 28,
+        "url": "http://www.propublica.org/article/as-seas-around-mar-a-lago-rise-trumps-cuts-could-damage-local-climate-work"
+      },
+      {
+        "preview": "A measure to roll back crucial privacy protections has crossed the finish line, and Internet users are worse off for it. Despite massive backlash from the American people, Congress passed and Presiden...",
+        "upvotes": 50,
+        "url": "https://www.eff.org/deeplinks/2017/04/trump-signs-bill-roll-back-privacy-rules-law"
+      },
+      {
+        "preview": "This article is more than 1 year old This post has been updated. Environmental Protection Agency officials are proposing to eliminate two programs focused on limiting children’s exposure to lead-based...",
+        "upvotes": 269,
+        "url": "https://www.washingtonpost.com/news/energy-environment/wp/2017/04/05/trumps-epa-moves-to-defund-programs-that-protect-children-from-lead/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "News that Rep. Devin Nunes (R-CA) received intelligence of possible surveillance of Trump administration officials from two people from within the Trump administration rocked the political world on Th...",
+        "upvotes": 63,
+        "url": "http://www.rawstory.com/2017/03/strap-in-tight-gop-strategist-rick-wilson-connects-the-dots-on-the-latest-devin-nunes-bombshell/"
+      },
+      {
+        "preview": "After three years of discussing changes to copyright law, Congress’s first bill is a strange one. House and Senate Judiciary Committee leaders have introduced a bill that would radically change the wa...",
+        "upvotes": 4,
+        "url": "https://www.eff.org/deeplinks/2017/03/lets-make-copyright-office-less-political-not-more"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved President Trump on Saturday called for NBC News to devote more attention to his unproven claims that President Obama spied on him and stop covering t...",
+        "upvotes": 14,
+        "url": "http://thehill.com/homenews/administration/326830-trump-tells-nbc-to-stop-covering-russia-story"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Trending: WASHINGTON — Week by week, country by country, the Pentagon is quietly seizing more control over warfighting decisions, sending hundreds more troops to war with little public debate and seek...",
+        "upvotes": 3,
+        "url": "http://www.denverpost.com/2017/04/02/pentagon-warfighting-decisions-lack-oversight/"
+      },
+      {
+        "preview": "Many American conservatives oppose universal health insurance because they see it as fundamentally antithetical to a free society. “If we persevere in our quixotic quest for a fetishized medical equal...",
+        "upvotes": 41,
+        "url": "https://www.forbes.com/sites/theapothecary/2015/01/27/conservative-think-tank-10-countries-with-universal-health-care-are-economically-freer-than-the-u-s/#13ae0d9137e6"
+      },
+      {
+        "preview": "© First Look Institute. All rights reserved First Look Institute is a 501(c)(3) nonprofit organization. The Pentagon has developed plans for an airstrike against Syrian government targets in response ...",
+        "upvotes": 1,
+        "url": "https://theintercept.com/2017/04/06/u-s-weighs-saturation-strike-on-syrian-government-in-response-to-chemical-attack/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The NCAA will once again allow the state of North Carolina to host college sports championship events, after Gov. Roy Cooper (D) last week signed a compromise law to repeal HB2, the anti-transgender l...",
+        "upvotes": 6,
+        "url": "http://www.huffingtonpost.com/entry/ncaa-north-carolina_us_58e39b82e4b0f4a923b1d4dd?"
+      },
+      {
+        "preview": "In a groundbreaking, 8-3 decision, the full Seventh Circuit Court of Appeals has ruled that workplace discrimination based on sexual orientation violates federal civil rights law. The court found that...",
+        "upvotes": 148,
+        "url": "http://www.lambdalegal.org/blog/20170404_court-rules-employers-cant-discriminate-against-gay-employees"
+      },
+      {
+        "preview": "The Indiana community college on the losing end of a landmark decision protecting gay and lesbian employees will not appeal that ruling to the Supreme Court. The battle over LGBTQ rights in the workpl...",
+        "upvotes": 10,
+        "url": "http://www.huffingtonpost.com/entry/supreme-court-gay-rights-ivy-tech_us_58e50f6ae4b0917d34760768"
+      }
+    ],
+    "4": [
+      {
+        "preview": "With all the noise emanating from Trump’s Twitter account it is interesting to find that Steven Bannon’s account is almost silent. Not interesting in a surprising way but definitely illuminating — ind...",
+        "upvotes": 8,
+        "url": "https://antifascistnews.net/2017/03/31/steve-bannons-twitter-cesspool/"
+      },
+      {
+        "preview": "Who would Jesus starve? Step aside Pope Francis, because this Texas Republican seems know exactly who: One lawmaker is citing a godly reference to justify changes to the Supplemental Nutrition Assista...",
+        "upvotes": 141,
+        "url": "http://www.dailykos.com/stories/2017/3/31/1649083/-Who-would-Jesus-starve-GOP-lawmaker-uses-Bible-to-justify-SNAP-cuts"
+      },
+      {
+        "preview": "Submitted by Zak Rogoff on March 30, 2017 - 8:34am Update: On July 7th, 2017, Tim Berners-Lee approved EME, after an exceptionally long deliberation period. Thanks for taking action on this campaign. ...",
+        "upvotes": 3,
+        "url": "https://www.defectivebydesign.org/blog/fourteen_days_dialup_and_save_web_drm"
+      }
+    ]
+  }
+}

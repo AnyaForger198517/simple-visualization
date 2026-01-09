@@ -1,0 +1,275 @@
+{
+  "month": "2015-04",
+  "total_articles": 245,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "government",
+        "obama",
+        "american",
+        "student",
+        "black",
+        "president",
+        "federal",
+        "policy",
+        "america",
+        "research",
+        "school",
+        "university"
+      ],
+      "topic_weights": [
+        379.7370538528082,
+        373.2698340370402,
+        247.19137985760923,
+        226.92404888069515,
+        226.16351384947595,
+        177.24968442322069,
+        152.0883053886002,
+        144.51800494413817,
+        136.71256867670377,
+        124.51518220418889,
+        124.2667618019291,
+        120.92150497135147,
+        120.70106387745113,
+        109.17140511587667,
+        108.85821994465059
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "april",
+        "posted",
+        "wa",
+        "isi",
+        "obama",
+        "yesterday",
+        "ha",
+        "vote",
+        "did",
+        "participation",
+        "fall",
+        "guy",
+        "defense",
+        "great",
+        "white"
+      ],
+      "topic_weights": [
+        721.5785345793039,
+        698.8153893931996,
+        65.12231118728185,
+        47.998169966463294,
+        41.01903880527133,
+        31.988483238364463,
+        28.799063694427296,
+        25.724603546629424,
+        24.659656574455752,
+        23.10779468243026,
+        21.75439600549507,
+        20.756229212925415,
+        19.460424887790158,
+        18.540809080173098,
+        18.36315991191371
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "child",
+        "advertisement",
+        "ha",
+        "kid",
+        "population",
+        "food",
+        "story",
+        "tax",
+        "men",
+        "job",
+        "life",
+        "homeless",
+        "comment",
+        "world"
+      ],
+      "topic_weights": [
+        456.8646020812716,
+        155.9747205005881,
+        148.0036247128013,
+        143.95826794558633,
+        105.5165151867898,
+        98.2926082780021,
+        91.00393555746109,
+        84.62808441539892,
+        81.18716819559671,
+        80.53969750276659,
+        74.20798522101911,
+        74.10283025363425,
+        73.32780840411226,
+        73.10123882033344,
+        72.44822738835086
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "hillary",
+        "republican",
+        "ha",
+        "state",
+        "president",
+        "obama",
+        "candidate",
+        "party",
+        "democrat",
+        "iran",
+        "campaign",
+        "medium",
+        "american"
+      ],
+      "topic_weights": [
+        567.0066874451836,
+        504.61879810985477,
+        437.5880914035207,
+        343.57858023651715,
+        338.7111885128909,
+        299.04598443280594,
+        266.9315824302241,
+        222.79778885241575,
+        196.57970067969381,
+        195.86968036905847,
+        184.36128789039432,
+        180.8549108397157,
+        176.69896145628462,
+        143.35590376491604,
+        140.2134856522907
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "gay",
+        "religious",
+        "marriage",
+        "law",
+        "wa",
+        "christian",
+        "government",
+        "freedom",
+        "ha",
+        "right",
+        "business",
+        "wedding",
+        "state",
+        "pizza",
+        "sex"
+      ],
+      "topic_weights": [
+        391.2306151171883,
+        226.61777881603047,
+        209.2481608739148,
+        195.35755019904394,
+        190.57375309411393,
+        188.27552934364297,
+        179.9195839710274,
+        177.67666975579644,
+        171.6418663250887,
+        150.31009184919773,
+        140.85454234936228,
+        139.29929955242116,
+        122.94967391253736,
+        121.55882919893985,
+        110.59535396099028
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 28,
+    "0": 90,
+    "2": 42,
+    "3": 84,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Here we go again. One of the High Priests of the so-called \"reality-based community\" has for the umpteenth time pronounced Obamacare a great success, asserting that people who believe otherwise (like,...",
+        "upvotes": 4,
+        "url": "http://townhall.com/tipsheet/GuyBenson/2015/03/31/krugman-republicans-are-inventing-imaginary-obamacare-disasters-n1978607"
+      },
+      {
+        "preview": "America’s prisons have a severe overcrowding problem that’s breaking the bank. The U.S. has 4.4 percent of the world's population, but nearly a quarter of the world's prisoners, according to the lates...",
+        "upvotes": 8,
+        "url": "http://www.theblaze.com/contributions/three-reasons-why-conservatives-should-care-about-prison-reform/?utm_source=TheBlaze.com&utm_medium=rss&utm_campaign=contributions&utm_content=three-reasons-why-conservatives-should-care-about-prison-reform"
+      },
+      {
+        "preview": "A CBP agent watches the Mexico-U.S. border in Imperial Valley, California. (Photo: U.S. Border Patrol/Gerald L. Nino) 'Footprints in the sand' In testimony before the Senate Homeland Security and Gove...",
+        "upvotes": 0,
+        "url": "http://www.cnsnews.com/news/article/susan-jones/republicans-probing-potential-retaliation-against-federal-agents-who"
+      }
+    ],
+    "1": [
+      {
+        "preview": "ISIS On Verge of Capturing Strategically Critical City of Ramadi, After Launching Attack that Surprised Obama Boy these JV guys are pretty good. In a couple of years, once they've had some seasoning, ...",
+        "upvotes": 0,
+        "url": "http://acecomments.mu.nu/?post=356170"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Trevor Noah, the newly announced replacement for Jon Stewart to host Comedy Central’s Daily Show, has a pattern of making comments over the years on his verified Twitter account about Je...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2015/03/new-daily-show-host-trevor-noah-is-callous-jew-basher-on-twitter/"
+      },
+      {
+        "preview": "By: Ryan Carrillo [dropcap size=small]I[/dropcap]nvestigators are continuing to make progress in understanding how gay marriage affects society. A new study found that when certain conditions are met ...",
+        "upvotes": 0,
+        "url": "http://thelibertarianrepublic.com/gay-marriage/"
+      },
+      {
+        "preview": "Link copied. We want to bridge divides to reach everyone. A selection of the most viewed stories this week on the Monitor's website. Every Saturday Hear about special editorial projects, new product i...",
+        "upvotes": 10,
+        "url": "http://www.csmonitor.com/USA/Politics/Politics-Voices/2015/0401/Harry-Reid-s-big-fib-on-Mitt-Romney-taxes-Why-it-matters"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 14,
+        "url": "http://newsbusters.org/blogs/kyle-drennen/2015/03/31/nbcs-guthrie-urges-elizabeth-warren-run-2016-asks-if-hillary-liberal?utm_source=facebook&utm_medium=marketing&utm_term=facebook&utm_content=facebook&utm_campaign=nbc-warren"
+      },
+      {
+        "preview": "The Democratic senator from New Jersey faces a long list of charges, centered on his mutually beneficial relationship with Dr. Salomon Melgen. \"Politics as usual\"—it's a phrase that's rooted in a cyni...",
+        "upvotes": 9,
+        "url": "http://www.theatlantic.com/politics/archive/2015/04/robert-menendez-is-indicted-for-corruption/389366/"
+      },
+      {
+        "preview": "Some high-five material for Cruz fans from WaPo and PPP. A little post-announcement bounce here or something more? In the contest for the Republican nomination, Bush tops the field with 20 percent of ...",
+        "upvotes": 19,
+        "url": "http://hotair.com/archives/2015/04/02/two-new-polls-show-ted-cruz-in-top-tier-of-2016-gop-field/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "While it’s certainly a serious topic which merits the debate going on around the country, there has been one exceptionally funny aspect to the entire RFRA discussion this week. It took some prodding f...",
+        "upvotes": 3,
+        "url": "http://hotair.com/archives/2015/03/31/an-amusing-struggle-as-the-press-tries-to-explain-why-rfra-is-different-from-all-those-other-laws/"
+      },
+      {
+        "preview": "Liberal bias in academia? Nah, that’s just a crazy right-wing myth. Via Campus Reform: Sen. Ted Cruz (R-Texas) and the Republican Party represent “extremist” political movements hell-bent on rescindin...",
+        "upvotes": 27,
+        "url": "http://weaselzippers.us/218345-washburn-university-offering-course-on-how-extremist-ted-cruz-and-gop-are-resurrecting-racism/"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 7,
+        "url": "http://www.nationalreview.com/corner/416223/progressivism-ed-whelan"
+      }
+    ]
+  }
+}

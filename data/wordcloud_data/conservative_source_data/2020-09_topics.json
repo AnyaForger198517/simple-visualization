@@ -1,0 +1,285 @@
+{
+  "month": "2020-09",
+  "total_articles": 143,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "government",
+        "policy",
+        "player",
+        "police",
+        "covid",
+        "mandate",
+        "crowd",
+        "fbi",
+        "email",
+        "election",
+        "ha",
+        "officer",
+        "drone",
+        "racist",
+        "panel"
+      ],
+      "topic_weights": [
+        13.7299565171674,
+        13.1547917976367,
+        12.913172191949672,
+        12.835646583705632,
+        11.310325047993704,
+        9.641647869172811,
+        9.578439643748867,
+        9.235657688310257,
+        9.064781387718062,
+        8.508853380778147,
+        8.11972772340961,
+        8.094174665609499,
+        7.948984584184183,
+        7.631877595573894,
+        7.461968141996904
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "september",
+        "posted",
+        "wa",
+        "trump",
+        "ha",
+        "school",
+        "didn",
+        "teacher",
+        "state",
+        "god",
+        "biden",
+        "vote",
+        "class",
+        "student",
+        "democrat"
+      ],
+      "topic_weights": [
+        764.1064871790481,
+        642.1825020910176,
+        119.28148018244919,
+        116.64503363778253,
+        67.2116441189434,
+        52.99459677753498,
+        52.93053432906827,
+        51.89479086864416,
+        47.58476833751241,
+        42.69523269528958,
+        41.9276369352551,
+        41.485739180994166,
+        39.41525681271377,
+        38.596291987885316,
+        38.38575874722462
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "police",
+        "officer",
+        "ha",
+        "taylor",
+        "black",
+        "riot",
+        "city",
+        "church",
+        "law",
+        "death",
+        "state",
+        "white",
+        "life",
+        "charge"
+      ],
+      "topic_weights": [
+        237.91756530730558,
+        123.68944416136902,
+        83.84407008076083,
+        81.69233550309573,
+        67.22678275681459,
+        64.24043279400139,
+        62.01078944676169,
+        52.48747073235901,
+        50.786780194105326,
+        47.85873773064913,
+        40.431128432357255,
+        39.39461831747282,
+        37.583710954193265,
+        37.21811382886888,
+        35.03730444811846
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "big",
+        "ha",
+        "tech",
+        "government",
+        "wa",
+        "child",
+        "court",
+        "school",
+        "reasonable",
+        "right",
+        "advertisement",
+        "news",
+        "china",
+        "barrett",
+        "trump"
+      ],
+      "topic_weights": [
+        213.3643287713514,
+        133.9866648834207,
+        126.59488004717512,
+        100.39797412782954,
+        82.42781530110207,
+        65.12888216300668,
+        63.210552989400014,
+        61.24088652673635,
+        59.65802751808448,
+        59.381815500357455,
+        57.48449397838078,
+        56.58459710202291,
+        55.30026127391362,
+        53.93387695949032,
+        51.3317912266269
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "tax",
+        "biden",
+        "wa",
+        "president",
+        "million",
+        "ha",
+        "paid",
+        "medium",
+        "news",
+        "joe",
+        "story",
+        "york",
+        "state",
+        "source"
+      ],
+      "topic_weights": [
+        492.73327714685837,
+        333.2169134493081,
+        308.640761054232,
+        290.1367470323478,
+        196.92010135282976,
+        189.58883344569023,
+        162.72509809943762,
+        124.78837469133435,
+        124.2477182370954,
+        104.14202993753605,
+        95.00798310109246,
+        94.76859060406714,
+        92.13407057323988,
+        88.43070306660024,
+        84.14349858093
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 58,
+    "4": 42,
+    "0": 9,
+    "1": 22,
+    "3": 12
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "To complete the login process, please enter the one time code that was sent to your email address. Don't have an account? Create one here. Please provide the email address associated with your account...",
+        "upvotes": 1,
+        "url": "https://www.bitchute.com/video/vQQs8CFK3lgq/"
+      },
+      {
+        "preview": "Seattle police on Monday charged through a barricade of Antifa militants who were throwing rocks, bottles and projectiles at officers. Antifa terrorists gathered outside of the Seattle Police Officers...",
+        "upvotes": 199,
+        "url": "https://www.thegatewaypundit.com/2020/09/seattle-police-charge-barricade-antifa-militants-throwing-rocks-bottles-projectiles-officers-make-multiple-arrests-video/"
+      },
+      {
+        "preview": "Joe Biden admitted on Monday that his own proposed national mask mandate is unconstitutional. Biden has repeatedly called for a federal mandate, often using it as an example of what he would do differ...",
+        "upvotes": 709,
+        "url": "https://www.breitbart.com/politics/2020/09/07/joe-biden-admits-own-national-mask-mandate-proposal-is-unconstitutional/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "REEDSBURG, Wisconsin (AP) — At a family dining table in tiny Reedsburg, Wisconsin, Arlene Ketchpaw chatted with a half-dozen Sauk County Democrats about how to win over voters, her fellow volunteers s...",
+        "upvotes": 144,
+        "url": "https://apnews.com/c9b1ac944e8e759de99ced3a5ff90022"
+      },
+      {
+        "preview": "Church Life Journal A Journal of the McGrath Institute for Church Life by Jessica Hooten Wilson September 07, 2020 When Vice President Mike Pence delivered his speech at the Republican National Conven...",
+        "upvotes": 0,
+        "url": "https://churchlifejournal.nd.edu/articles/percy-and-pence-and-the-american-sense-of-scripture/#.X1YrRXvDxLw.reddit"
+      },
+      {
+        "preview": "Joe Biden’s presidential campaign minimizes Sen. Kamala Harris’s (D-CA) public exposure due to Harris’s lack of charisma, alienation of moderate voters, and exposure of the former vice president’s wea...",
+        "upvotes": 14,
+        "url": "https://www.breitbart.com/radio/2020/09/08/peter-schweizer-the-biden-campaign-is-hiding-kamala-harris-heres-why/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "California moved closer Saturday to a first-in-the-nation law requiring corporate boards to include racial or sexual minorities, expanding on a new law that sets a similar requirement for including wo...",
+        "upvotes": 3,
+        "url": "https://www.nbclosangeles.com/news/local/california-acts-to-increase-diversity-on-corporate-boards/2420825/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Elvis Presley's iconic Graceland estate in Memphis, Tenn., was graffitied with messages in support of the Black Lives Matter movement and defunding t...",
+        "upvotes": 80,
+        "url": "https://thehill.com/homenews/state-watch/514663-elviss-graceland-graffitied-with-black-lives-matter-and-defund-the"
+      },
+      {
+        "preview": "Monday, August 24, 2020 The Democratic National Convention (DNC) took place this week, and, as expected, the nomination of former vice president Joe Biden (D) as the party’s nominee to challenge presi...",
+        "upvotes": 1,
+        "url": "http://cdn.nraila.org/articles/20200824/the-third-time-isn-t-always-a-charm"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Enough is enough! The DOJ should immediately open a criminal investigation into Netflix as a distributor of child pornography. Netflix ignored our request to remove Cuties and aired the film. As many ...",
+        "upvotes": 1,
+        "url": "https://conservativechange.org/petition/cuties-netflix/"
+      },
+      {
+        "preview": "After Sen. Ted Cruz (R-TX) called for a DOJ investigation into the Netflix film “Cuties” and was summarily dismissed by many on the left for being a supporter of QAnon — a charge that seemed to materi...",
+        "upvotes": 104,
+        "url": "https://www.redstate.com/slee/2020/09/14/tom-cotton-to-obama-you-cool-with-netflixs-sexual-exploitation-of-children/"
+      },
+      {
+        "preview": "Netflix has reportedly seen a surge in U.S. subscription cancellations following the controversy over the movie Cuties, which has generated a firestorm over its highly sexualized depiction of underage...",
+        "upvotes": 870,
+        "url": "https://www.breitbart.com/entertainment/2020/09/15/report-netflix-u-s-subscription-cancellations-surge-nearly-eightfold-amid-cuties-child-porn-controversy/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The first ballots for the 2020 presidential election will begin reaching voters this week in a contest that is remarkable both for its stability and ...",
+        "upvotes": 0,
+        "url": "https://thehill.com/homenews/campaign/514445-on-the-trail-trump-biden-face-broad-battlefield-as-first-ballots-go-out"
+      },
+      {
+        "preview": "Advertisement Today in Kenosha, Wisconsin at a Biden event a woman admitted on camera that she was given a piece of paper telling her what to say: Advertisement - story continues below 👀 Woman at Bide...",
+        "upvotes": 282,
+        "url": "https://www.thegatewaypundit.com/2020/09/participant-biden-event-kenosha-spills-beans-admits-given-paper-telling-say/"
+      },
+      {
+        "preview": "Public corruption prosecutions have declined since the Supreme Court’s Citizens United decision, according to a new study by the Institute for Free Speech. Campaign finance reformers had predicted tha...",
+        "upvotes": 6,
+        "url": "https://www.theepochtimes.com/study-corruption-prosecutions-down-after-citizens-united_3487601.html"
+      }
+    ]
+  }
+}

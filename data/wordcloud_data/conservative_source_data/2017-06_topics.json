@@ -1,0 +1,285 @@
+{
+  "month": "2017-06",
+  "total_articles": 275,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "gun",
+        "president",
+        "country",
+        "trump",
+        "party",
+        "republican",
+        "ha",
+        "state",
+        "democrat",
+        "paris",
+        "weapon",
+        "money",
+        "agreement",
+        "congress",
+        "democratic"
+      ],
+      "topic_weights": [
+        148.58459520128162,
+        120.91867856842336,
+        117.97175464448618,
+        114.06707093957829,
+        111.94112500694887,
+        111.47980124405368,
+        109.80757061382518,
+        109.01733905473009,
+        103.69513811899161,
+        80.8335156076024,
+        77.0861464800245,
+        74.86035074289781,
+        68.63941325791207,
+        68.56757426855951,
+        68.37890291872647
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "comey",
+        "trump",
+        "president",
+        "investigation",
+        "fbi",
+        "clinton",
+        "department",
+        "russia",
+        "attorney",
+        "russian",
+        "ha",
+        "did",
+        "director",
+        "general"
+      ],
+      "topic_weights": [
+        757.6501857753206,
+        491.8130948046672,
+        480.6328858206962,
+        416.8860603461528,
+        405.420274642917,
+        323.6214731327974,
+        213.64870055344957,
+        173.61153316227396,
+        170.85032074992176,
+        170.66339042092585,
+        162.71711000808966,
+        162.69611444441495,
+        160.97299174518713,
+        157.77652143541388,
+        141.61151302998405
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "news",
+        "political",
+        "president",
+        "group",
+        "woman",
+        "sander",
+        "medium",
+        "white",
+        "men",
+        "twitter",
+        "school",
+        "conservative"
+      ],
+      "topic_weights": [
+        682.7217193692529,
+        360.55179558007063,
+        272.23527369403865,
+        171.64278471901406,
+        159.6374997088575,
+        145.8221547331152,
+        139.5147497795191,
+        138.08712218816137,
+        138.02040880341548,
+        135.62726170170188,
+        132.93478292111178,
+        130.0806011549849,
+        125.99159755763566,
+        123.4091815507084,
+        121.96527723261399
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "tax",
+        "oliver",
+        "trump",
+        "wa",
+        "advertisement",
+        "york",
+        "ha",
+        "property",
+        "million",
+        "story",
+        "percent",
+        "city",
+        "muslim",
+        "estate",
+        "video"
+      ],
+      "topic_weights": [
+        377.5098931312945,
+        293.8890746105553,
+        241.5264376259985,
+        231.0389013395195,
+        199.88665919225105,
+        176.36233332087446,
+        149.90092180215203,
+        149.64827925411666,
+        124.01634677870773,
+        114.18414627699879,
+        112.86192912129619,
+        110.18536337736008,
+        104.10703566435744,
+        103.87899044660563,
+        87.79452489175735
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "court",
+        "ha",
+        "state",
+        "climate",
+        "wage",
+        "doctor",
+        "life",
+        "change",
+        "science",
+        "policy",
+        "study",
+        "government",
+        "judge",
+        "law"
+      ],
+      "topic_weights": [
+        381.56606183122176,
+        378.7273276353425,
+        305.2375701516524,
+        274.2970599099489,
+        268.23449728336425,
+        247.8691163702003,
+        235.97385721273335,
+        182.68443413034495,
+        178.55212265144695,
+        176.123396095903,
+        161.73302696885204,
+        157.30248461526827,
+        153.6772269128261,
+        146.01670527508418,
+        144.41112825542325
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 115,
+    "0": 41,
+    "1": 47,
+    "4": 51,
+    "3": 21
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill The Supreme Court in the American Constitutional Order The Myth of the Red Pill The Billionaires’ Party Gl...",
+        "upvotes": 3,
+        "url": "http://www.nationalreview.com/article/448121/donald-trump-paris-climate-agreement-trump-should-scrap-accord"
+      },
+      {
+        "preview": "It is welcome news that President Trump will pull the United States out of the Paris climate agreement. The pact promises to damage the economy while surrendering American sovereignty over climate pol...",
+        "upvotes": 4,
+        "url": "https://pjmedia.com/andrewmccarthy/2017/05/31/dont-stop-with-paris/"
+      },
+      {
+        "preview": "Decision fulfills a key promise Trump made on the campaign trail. Trump withdraws US from Paris climate agreement — -- President Trump will pull the United States out of the Paris climate accord, he s...",
+        "upvotes": 34,
+        "url": "http://abcnews.go.com/Politics/trump-withdraw-us-paris-climate-agreement/story?id=47767077"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Follow Us National Review The Bizarre Political Ideology of Netflix’s La Casa de Papel The Myth of the Red Pill ‘Thither You’ll Come, Late or Never’: The Richness of East O’ the Sun and West O’ the Mo...",
+        "upvotes": 18,
+        "url": "http://www.nationalreview.com/article/448103/mike-lee-written-out-of-history-aaron-burr-thomas-jefferson-executive-overreach-independent-judiciary?utm_content=social&utm_medium=@federalists_usa&utm_source=thenewamericana.com&utm_campaign=thefederalistparty.org"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE CNN host John King was joined by a panel on Thursday where they mocked two-time failed presidential candidate Hillary Clinton for not letting go of her 2016 loss against President ...",
+        "upvotes": 8,
+        "url": "http://freebeacon.com/politics/cnn-mocks-hillary-clinton-for-not-letting-go-of-her-2016-loss/"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 25,
+        "url": "http://www.nationalreview.com/article/448209/james-comey-president-trump-obstruction-justice-didnt-happen"
+      }
+    ],
+    "2": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since \"Kathy Griffin is not, nor ever has been Squatty Potty's spokesperson,\" Squatty Potty said in a sta...",
+        "upvotes": 3,
+        "url": "http://www.businessinsider.com/squatty-potty-drops-kathy-griffin-after-trump-photo-shoot-2017-5"
+      },
+      {
+        "preview": "Before we get to the grim punchline mentioned in the headline, here's the backstory: A deranged person murdered two men and critically injured another in Portland, Oregon on Friday night after they in...",
+        "upvotes": 2,
+        "url": "https://townhall.com/tipsheet/guybenson/2017/05/31/surprise-portland-killings-blamed-on-trump-perpetrated-by-bernie-supporter-n2333217?utm_source=TopBreakingNewsCarousel&utm_medium=story&utm_campaign=BreakingNewsCarousel"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 3,
+        "url": "http://www.newsbusters.org/blogs/nb/geoffrey-dickens/2017/05/31/rapper-attacks-trump-we-all-know-racist-office"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement The lego-like toys include toy action figures with guns and trailers full of bombs. Now your child can play terrorist bomber at home. Advertisement - story continues below Malaysian Dige...",
+        "upvotes": 1,
+        "url": "http://www.thegatewaypundit.com/2017/06/malaysian-toymaker-sells-islamic-toy-action-figures-complete-isis-flags-toy-bombs/"
+      },
+      {
+        "preview": "Advertisement One in four citizens living within the failing European Union project lives on the verge of total poverty. A number of EU “leaders” thought that French President Emmanuel Macron would so...",
+        "upvotes": 216,
+        "url": "http://www.thegatewaypundit.com/2017/06/report-brussels-explode-revolt-1-4-eu-citizens-verge-poverty-video/"
+      },
+      {
+        "preview": "Advertisement Sewer worker Irfan Masih died after being denied medical care because he was \"unclean\" A sewer worker who fell unconscious while cleaning a manhole in Umerkot, Pakistan, was rescued and ...",
+        "upvotes": 35,
+        "url": "http://www.wnd.com/2017/06/unclean-pakistan-sewer-worker-dies-of-ramadan-non-treatment/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "RED BLUFF, Calif. — A farmer faces trial in federal court this summer and a $2.8 million fine for failing to get a permit to plow his field and plant wheat in Tehama County. A lawyer for Duarte Nurser...",
+        "upvotes": 20,
+        "url": "https://www.usatoday.com/story/news/nation-now/2017/05/24/farmer-plowing-fine/339756001/"
+      },
+      {
+        "preview": "Follow us: We're no longer maintaining this page. For the latest business news and markets data, please visit  Business \"Am departing presidential councils. Climate change is real. Leaving Paris is no...",
+        "upvotes": 6,
+        "url": "http://money.cnn.com/2017/06/01/news/elon-musk-resigns-trump-adviser/index.html"
+      },
+      {
+        "preview": "(Reuters/Jim Urquhart) A government agency has contradicted claims made by environmentalists for the seventh time and found hydraulic fracturing doesn’t pose a grave threat to drinking water. The U.S....",
+        "upvotes": 26,
+        "url": "http://dailycaller.com/2017/06/01/seventh-govt-study-says-fracking-isnt-a-threat-to-groundwater/"
+      }
+    ]
+  }
+}

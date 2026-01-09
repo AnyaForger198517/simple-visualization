@@ -1,0 +1,285 @@
+{
+  "month": "2016-05",
+  "total_articles": 286,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "harris",
+        "west",
+        "school",
+        "vote",
+        "law",
+        "democratic",
+        "wa",
+        "california",
+        "voting",
+        "black",
+        "democrat",
+        "israel",
+        "party",
+        "republican"
+      ],
+      "topic_weights": [
+        387.6550325563087,
+        256.7550109615363,
+        185.22847530843083,
+        177.76329556040304,
+        169.19763301490124,
+        166.3082044223537,
+        154.84635278734115,
+        148.02620176950614,
+        141.10467013622133,
+        134.0003268923226,
+        130.90924507507174,
+        130.53339563486895,
+        121.97970863615501,
+        118.1065492002036,
+        108.45890566116914
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "clinton",
+        "salon",
+        "president",
+        "american",
+        "woman",
+        "policy",
+        "company",
+        "white",
+        "state",
+        "hillary",
+        "million",
+        "told"
+      ],
+      "topic_weights": [
+        1192.334259054014,
+        716.7733588313283,
+        675.4171142697812,
+        438.7833973687652,
+        395.5959815511795,
+        298.9166917799508,
+        297.8279549840406,
+        296.75503411267533,
+        259.1029459400837,
+        248.04216132456847,
+        240.9267239908091,
+        239.39752928422655,
+        221.05310740506124,
+        215.74176056948724,
+        214.2404549757262
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "clinton",
+        "sander",
+        "party",
+        "republican",
+        "ha",
+        "campaign",
+        "state",
+        "wa",
+        "candidate",
+        "vote",
+        "democrat",
+        "democratic",
+        "election",
+        "voter"
+      ],
+      "topic_weights": [
+        849.2530906441954,
+        587.3385581646407,
+        500.78237817700875,
+        436.43500308362195,
+        411.5993109407632,
+        326.68997341177095,
+        310.4793251625315,
+        296.85080834829,
+        273.0224180191841,
+        265.4431452837634,
+        247.17354731552473,
+        243.9652713608894,
+        233.4892530282322,
+        190.40257457184575,
+        180.70355945826458
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "liberal",
+        "american",
+        "class",
+        "white",
+        "manafort",
+        "state",
+        "war",
+        "power",
+        "ha",
+        "black",
+        "world",
+        "working",
+        "iraq",
+        "group"
+      ],
+      "topic_weights": [
+        168.69740859111093,
+        124.16949394568947,
+        110.23030256298505,
+        86.79070658817747,
+        76.4730225330341,
+        71.886218625248,
+        60.32637721209981,
+        58.16075482605472,
+        53.36264186277095,
+        50.46862589736795,
+        50.081834457193885,
+        46.485364915352086,
+        44.072942593938286,
+        39.053011678225104,
+        38.088253141180886
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "obama",
+        "ha",
+        "wa",
+        "muslim",
+        "president",
+        "war",
+        "world",
+        "country",
+        "american",
+        "state",
+        "christian",
+        "america",
+        "donald",
+        "refugee"
+      ],
+      "topic_weights": [
+        1322.3031383013765,
+        812.7358241682455,
+        711.6410475023079,
+        651.3537302019846,
+        429.09407810438194,
+        374.3320951920299,
+        318.6283212704456,
+        283.60494761656594,
+        276.65234555210696,
+        212.2113594590277,
+        210.1665410379639,
+        202.07284690312818,
+        174.37835462835713,
+        171.98082746714235,
+        171.87486387475943
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 94,
+    "1": 144,
+    "4": 16,
+    "0": 23,
+    "3": 9
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Understanding the greenhouse effect, the expert consensus, and that humans are causing global warming are gateways to support for climate policies Last modified on Wed 25 Aug 2021 09.56 EDT The latest...",
+        "upvotes": 1,
+        "url": "http://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/may/04/scientists-are-figuring-out-the-keys-to-convincing-people-about-global-warming"
+      },
+      {
+        "preview": "Abortion-rights supporters Dina van der Zalm, right, and Allyson Junker stand on the steps of the Missouri Capitol Wednesday, Sept. 10, 2014, in Jefferson City, Mo. Missouri lawmakers are expected to ...",
+        "upvotes": 0,
+        "url": "http://www.stltoday.com/news/local/govt-and-politics/fetuses-could-be-granted-constitutional-rights-under-measure-approved-by/article_8396a51d-cd9b-5340-962a-ec2bafbef4a1.html"
+      },
+      {
+        "preview": "Want to pack your state’s Supreme Court? Well, Arizona has provided a model. Arizona Republicans are about to get two more justices on the state Supreme Court thanks to a bill approved by the legislat...",
+        "upvotes": 17,
+        "url": "http://talkingpointsmemo.com/muckraker/arizona-state-supreme-court"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The FISA Court has only rejected 12 requests in more than three decades. By Zack Whittaker for Zero Day | April 30, 2016 -- 14:29 GMT (07:29 PDT) | Topic: Security (Image: file photo) A secret court t...",
+        "upvotes": 27,
+        "url": "http://www.zdnet.com/article/us-spy-court-didnt-reject-a-single-secret-government-demand-for-data/"
+      },
+      {
+        "preview": "Welcome, Bernie or no Bernie, ‘Times’ columnist Paul Krugman is wrong about the banks Contributing Editor JP Morgan Chase ended up saddled with a $13 billion settlement after it admitted to making \"se...",
+        "upvotes": 3,
+        "url": "http://www.rollingstone.com/politics/news/why-the-banks-should-be-broken-up-20160408"
+      },
+      {
+        "preview": "Old Navy was hoping to kick off a happy day of Sunday internet shopping for online consumers when it tweeted an advertisement featuring a smiling interracial family, along with a 30% off coupon. But r...",
+        "upvotes": 59,
+        "url": "http://www.mic.com/articles/142323/this-old-navy-ad-featuring-an-interracial-family-is-being-attacked-by-racist-trolls"
+      }
+    ],
+    "2": [
+      {
+        "preview": "George Takei continued his call on Friday for voters from around the political spectrum to band together against Donald Trump's probable presidential nomination, Media Matters reported. \"Elections hav...",
+        "upvotes": 82,
+        "url": "http://www.rawstory.com/2016/04/george-takei-compares-trump-fear-mongering-to-anti-japanese-hysteria-during-wwii/"
+      },
+      {
+        "preview": "Bernie Sanders is right: Closed primaries, which exclude independent voters, are hurting him at the voting booth, according to a new analysis. But just how much better would Bernie be doing if every s...",
+        "upvotes": 29,
+        "url": "http://www.vox.com/2016/4/28/11528764/closed-primaries-bernie-sanders"
+      },
+      {
+        "preview": "This article is more than 1 year old Barely three years after the 2012 election led Republicans to vow to fix their problems with Latino voters, they are on the verge of nominating someone who (at bes...",
+        "upvotes": 10,
+        "url": "https://www.washingtonpost.com/blogs/plum-line/wp/2016/05/02/republicans-are-digging-themselves-into-a-deeper-hole-with-latinos-again/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Challenged from all sides, the US is losing its tight grip on international power, Noam Chomsky writes, as world public opinion becomes a ‘second superpower’ Last modified on Fri 14 Jul 2017 12.17 EDT...",
+        "upvotes": 4,
+        "url": "http://www.theguardian.com/us-news/2016/may/09/noam-chomsky-who-rules-the-world-us-foregin-policy"
+      },
+      {
+        "preview": "This piece originally appeared on TomDispatch. [This piece, the first of two parts, is excerpted from Noam Chomsky’s new book, Who Rules the World? (Metropolitan Books)] When we ask “Who rules the wor...",
+        "upvotes": 0,
+        "url": "http://www.salon.com/2016/05/10/noam_chomksy_america_is_a_state_in_decline_partner/"
+      },
+      {
+        "preview": "May 11, 2016, at 3:37 PM By Daniel Cox Filed under Same-Sex Marriage Saul Loeb / AFP / Getty Images The dramatic triumph of the same-sex-marriage movement has sparked considerable interest from advoca...",
+        "upvotes": 7,
+        "url": "https://fivethirtyeight.com/features/gay-marriage-won-but-other-liberal-causes-might-struggle-to-copy-its-success/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The separation of church and state is one of the cornerstones of America’s foundation. Conservative Christian fundamentalists have sought to crush this cornerstone in the hopes of establishing Christi...",
+        "upvotes": 27,
+        "url": "http://reverbpress.com/politics/founding-father-quotes-conservative-christians-will-hate/"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 1,
+        "url": "http://www.rightwingwatch.org/content/today-s-republican-reality-revealed-90-seconds"
+      },
+      {
+        "preview": "Advertisement Supported by By Kamel Daoud ORAN, Algeria — For a few years now, families of migrants from sub-Saharan Africa have been gathering at major street crossings in the large cities of norther...",
+        "upvotes": 3,
+        "url": "https://www.nytimes.com/2016/05/03/opinion/kamel-daoud-black-in-algeria-then-youd-better-be-muslim.html"
+      }
+    ]
+  }
+}

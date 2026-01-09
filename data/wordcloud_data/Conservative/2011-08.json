@@ -1,0 +1,36 @@
+{
+  "month": "2011-08",
+  "total_articles": 71,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Republican Presidential Campaign and Texas Politics",
+      "core_keywords": ["perry", "texas", "republican", "obama", "president", "campaign", "tax"],
+      "importance_ratio": "8.45%"
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Government Policy, Budget and Gun Legislation",
+      "core_keywords": ["ha", "wa", "obama", "government", "budget", "gun", "law", "debt"],
+      "importance_ratio": "63.38%"
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Corporate Tax and Business Economics",
+      "core_keywords": ["corporation", "tax", "wa", "business", "romney", "money", "income"],
+      "importance_ratio": "9.86%"
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Race Issues and London Riots",
+      "core_keywords": ["black", "wa", "white", "riot", "race", "london", "community"],
+      "importance_ratio": "9.86%"
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Child Poverty and Pedophilia Policy",
+      "core_keywords": ["september", "child", "poverty", "pedophile", "law", "family", "report"],
+      "importance_ratio": "8.45%"
+    }
+  ]
+}

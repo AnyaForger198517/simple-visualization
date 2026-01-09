@@ -1,0 +1,280 @@
+{
+  "month": "2016-10",
+  "total_articles": 325,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "clinton",
+        "ha",
+        "republican",
+        "state",
+        "hillary",
+        "campaign",
+        "election",
+        "president",
+        "donald",
+        "party",
+        "american",
+        "vote",
+        "woman"
+      ],
+      "topic_weights": [
+        1417.8778059206404,
+        1187.5675439061902,
+        1139.164106419623,
+        764.2686524595675,
+        500.43180037825107,
+        481.51177399367594,
+        441.5846256626531,
+        429.72948062649755,
+        370.30494001311376,
+        353.20954141872306,
+        328.29842211144745,
+        323.039183818689,
+        301.91648709283197,
+        297.86802528056126,
+        276.7447592197347
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "hillary",
+        "crime",
+        "fbi",
+        "law",
+        "wa",
+        "did",
+        "email",
+        "evidence",
+        "obama",
+        "aide",
+        "comey",
+        "investigation",
+        "benghazi",
+        "information",
+        "justice"
+      ],
+      "topic_weights": [
+        1089.1758005047332,
+        513.2093035733207,
+        501.04904010886435,
+        406.8364747460354,
+        405.3049784066809,
+        386.586882833304,
+        357.37308685432646,
+        347.5992301831863,
+        345.8751215163325,
+        324.0680942176672,
+        307.49323714899487,
+        300.71578832439167,
+        295.0408668010343,
+        294.86696435679687,
+        282.9266657181111
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "gun",
+        "police",
+        "law",
+        "court",
+        "ha",
+        "state",
+        "officer",
+        "case",
+        "ice",
+        "attack",
+        "judge",
+        "attorney",
+        "crime",
+        "program"
+      ],
+      "topic_weights": [
+        219.2964826986747,
+        170.00668467400857,
+        139.47773287331003,
+        117.28616856231922,
+        105.4944821332043,
+        104.52916502623255,
+        94.98855636871974,
+        84.60394849784188,
+        69.76563834908055,
+        65.9630257142301,
+        64.45305734491954,
+        59.53456163198842,
+        57.66746177264674,
+        56.05513281001152,
+        55.54955768463628
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "wa",
+        "government",
+        "ha",
+        "war",
+        "science",
+        "idea",
+        "america",
+        "believe",
+        "power",
+        "american",
+        "did",
+        "progressive",
+        "civil",
+        "care"
+      ],
+      "topic_weights": [
+        301.417450881401,
+        299.5477958766653,
+        283.78790370422666,
+        251.87889705460267,
+        229.86360060100344,
+        182.78025278803867,
+        181.47154310297623,
+        176.85201983454087,
+        171.11325671854877,
+        164.22267862374773,
+        156.50385583139544,
+        153.06709797071773,
+        151.75838941128654,
+        146.43206255648994,
+        143.18335396375463
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "reply",
+        "post",
+        "posted",
+        "wa",
+        "view",
+        "private",
+        "men",
+        "man",
+        "general",
+        "war",
+        "great",
+        "army",
+        "hell",
+        "german",
+        "did"
+      ],
+      "topic_weights": [
+        964.9971327690243,
+        383.68527750734967,
+        375.9425113705019,
+        363.9859793129282,
+        363.3588814182813,
+        337.5270106170541,
+        282.91547244015686,
+        281.8520985113119,
+        199.170249063384,
+        159.59328209544032,
+        153.90807546053557,
+        139.34066461459682,
+        127.8704138092584,
+        100.99738963091352,
+        100.86512092865802
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 252,
+    "2": 36,
+    "3": 30,
+    "1": 5,
+    "4": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement Hollywood, CA September 29, 2016 – Street artists in Hollywood put posters up over night, culture jamming Apples iconic logo with the silhouette of Donald J. Trump instead of the bite, w...",
+        "upvotes": 24,
+        "url": "http://www.thegatewaypundit.com/2016/09/movement-trump-think-different-posters-splash-streets-hollywood/"
+      },
+      {
+        "preview": "Fraud, phony science, an office paramour, and gullible youths: These are just some of the ingredients that make up the unappetizing reality of Hampton Creek Foods, according to a new exposé by Bloombe...",
+        "upvotes": 1,
+        "url": "http://www.humanewatch.org/hampton-creeks-humpty-dumpty-moment/"
+      },
+      {
+        "preview": "Young says Trump 'lifted her spirits' when she was very ill Trump offered to support her Mexican-American son's education, she says A former Miss Wisconsin and Donald Trump supporter sought to counter...",
+        "upvotes": 123,
+        "url": "http://www.cnn.com/2016/09/30/politics/former-miss-wisconsin-trump-darkest-hour-newsroom-costello-intv/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Thanks for contacting us. We've received your submission. In his new book, “Guilty As Sin” (Regnery), out Tuesday, Edward Klein claims officials in the Obama administration decided before the first wi...",
+        "upvotes": 29,
+        "url": "http://nypost.com/2016/10/03/book-details-how-team-obama-schemed-to-let-hillary-skate/"
+      },
+      {
+        "preview": "Advertisement WASHINGTON – One of the nation's top legal minds, former federal prosecutor Andrew McCarthy, told  the latest WIkileaks bombshell confirms his belief that Hillary Clinton wasn't prosecut...",
+        "upvotes": 94,
+        "url": "http://www.wnd.com/2016/10/wikileaks-uncovers-attempt-to-protect-obama-in-email-scandal/"
+      },
+      {
+        "preview": "(.com) - In a March 4, 2015 email to Hillary Clinton's lawyer Cheryl Mills, Clinton's eventual campaign chairman John Podesta asks if they should withhold email exchanges between Clinton and President...",
+        "upvotes": 39,
+        "url": "http://www.cnsnews.com/news/article/susan-jones/wikileaks-podesta-asks-clintons-lawyer-think-we-should-hold-emails-and"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Child brides as young as 14 are being reunited with their older, migrant husbands in Denmark after authorities decided that upholding Danish law breached their “human rights”. The legal minimum age fo...",
+        "upvotes": 0,
+        "url": "http://www.breitbart.com/london/2016/09/29/denmark-allows-migrants-to-break-law-and-keep-child-brides/"
+      },
+      {
+        "preview": "ANADOLU/ BLOOMBERG We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understandi...",
+        "upvotes": 34,
+        "url": "http://www.express.co.uk/news/world/715776/Christian-boy-16-facing-death-penalty-offending-Muslims-Facebook-post-Pakistan"
+      },
+      {
+        "preview": "According to Oregonlive.com, circuit court judge Kenneth Walker of Multnomah County, Ore. decided to go on a tangent about gun control during a criminal sentencing on Monday. \"If I could, I would take...",
+        "upvotes": 8,
+        "url": "http://cnsnews.com/blog/eric-scheiner/ore-judge-no-one-should-have-guns-not-police-not-security"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Get updates from Convention of States delivered straight to your inbox Last week, one of the most significant events in the history of our constitutional republic in our lifetime occurred: Delegations...",
+        "upvotes": 20,
+        "url": "http://www.patheos.com/blogs/conventionofstates/2016/10/national-review-the-states-are-rallying-to-a-convention-of-states/"
+      },
+      {
+        "preview": "Seems that Washington DC isn’t the only place that’s learned the art of the Friday afternoon news dump. Minnesota Commerce Commissioner Mike Rothman announced yesterday afternoon that the state had ap...",
+        "upvotes": 70,
+        "url": "http://hotair.com/archives/2016/10/01/obamacare-rates-mn-skyrocket-60-stave-off-collapse/"
+      },
+      {
+        "preview": "Latest TBILISI, Georgia — Pope Francis said on Saturday that there’s a global war trying to destroy marriage, an institution which he described as God’s most beautiful creation. “A great enemy of marr...",
+        "upvotes": 107,
+        "url": "https://cruxnow.com/global-church/2016/10/01/pope-calls-gender-theory-global-war-family/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Director Mel Gibson was recently in France promoting his new film \"Hacksaw Ridge\" when he was asked by France 24 if the film is \"anti-war.\" \"Hacksaw Ridge,\" which opens November 4, tells the story of ...",
+        "upvotes": 46,
+        "url": "http://www.cnsnews.com/blog/mark-judge/mel-gibson-i-hate-war-i-love-warrior"
+      },
+      {
+        "preview": "Skip to comments. Posted on 05/30/2006 8:20:05 AM PDT by 300magnum \"Men, this stuff that some sources sling around about America wanting out of this war, not wanting to fight, is a crock of bullshit. ...",
+        "upvotes": 0,
+        "url": "http://www.freerepublic.com/focus/news/1640613/posts"
+      }
+    ]
+  }
+}

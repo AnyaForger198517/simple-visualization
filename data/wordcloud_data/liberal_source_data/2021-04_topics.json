@@ -1,0 +1,285 @@
+{
+  "month": "2021-04",
+  "total_articles": 272,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "election",
+        "republican",
+        "trump",
+        "state",
+        "wa",
+        "voter",
+        "ha",
+        "president",
+        "party",
+        "ballot",
+        "vote",
+        "voting",
+        "audit",
+        "democrat",
+        "county"
+      ],
+      "topic_weights": [
+        618.6694863389052,
+        523.0811008383032,
+        452.0804407245773,
+        438.6368125011724,
+        291.64004433563474,
+        256.1973119015308,
+        238.92531801271755,
+        230.80912886368534,
+        227.655013615699,
+        208.8995454807229,
+        199.59220506077443,
+        193.5998461851889,
+        190.06754695544618,
+        189.551326677396,
+        160.7186850282741
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "greenberg",
+        "wa",
+        "stone",
+        "gaetz",
+        "trump",
+        "sex",
+        "ha",
+        "reported",
+        "wrote",
+        "federal",
+        "letter",
+        "girl",
+        "florida",
+        "paid",
+        "prosecutor"
+      ],
+      "topic_weights": [
+        454.85464459404466,
+        392.05506164320883,
+        294.7311803834996,
+        282.36785883220506,
+        228.96985589387884,
+        168.05551626565483,
+        153.13946987705484,
+        126.47345114246129,
+        122.55506140975186,
+        121.97283664133562,
+        106.49771872062125,
+        103.98586714325631,
+        99.99532608630574,
+        86.11326071880129,
+        84.92480871967132
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "state",
+        "black",
+        "woman",
+        "ha",
+        "police",
+        "email",
+        "law",
+        "community",
+        "life",
+        "right",
+        "justice",
+        "girl",
+        "white",
+        "policy"
+      ],
+      "topic_weights": [
+        210.7140594920021,
+        136.197260862371,
+        135.23052028313174,
+        133.0352016134864,
+        131.39595504593828,
+        125.13475643981094,
+        118.02586114482438,
+        110.8289364363291,
+        96.22338269243919,
+        82.60371446974897,
+        82.51533733633585,
+        81.58935874426037,
+        81.24283793272558,
+        78.54812424091409,
+        74.46662123125185
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "percent",
+        "american",
+        "ha",
+        "biden",
+        "drug",
+        "support",
+        "plan",
+        "tax",
+        "president",
+        "news",
+        "number",
+        "government",
+        "congress",
+        "million"
+      ],
+      "topic_weights": [
+        470.4214827149424,
+        399.61726896527523,
+        315.44197284562875,
+        303.9790051354835,
+        296.7439805316538,
+        211.080531908062,
+        187.73003934712878,
+        160.66416730465582,
+        160.50541440743962,
+        147.78365367175385,
+        125.42341913521906,
+        122.70194745071846,
+        120.70835280835321,
+        115.6752424984907,
+        114.64649257212697
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "biden",
+        "wa",
+        "president",
+        "house",
+        "ha",
+        "white",
+        "giuliani",
+        "official",
+        "wood",
+        "russian",
+        "report",
+        "ukraine",
+        "office",
+        "vaccine"
+      ],
+      "topic_weights": [
+        620.1016503582168,
+        476.70954846790835,
+        445.11974419198566,
+        386.8651112206245,
+        288.8268789191108,
+        247.07113056314776,
+        236.73632528621457,
+        218.21749315026298,
+        191.755248273287,
+        180.8412823684077,
+        167.5580171090357,
+        161.03850787815443,
+        155.31207868629315,
+        154.8350274334314,
+        128.66690433584307
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 29,
+    "4": 43,
+    "3": 50,
+    "2": 52,
+    "0": 98
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The Republican-led proposals drew concern and opposition from top employers. Aug. 6, 1965: Voting Rights Act signed by President Johnson Amid a growing national discourse over ballot access, several m...",
+        "upvotes": 208,
+        "url": "https://abcnews.go.com/Politics/dell-american-airlines-att-weigh-restrictive-voting-bills/story?id=76809993"
+      },
+      {
+        "preview": "Bernice King at the 2018 March for Humanity in Atlanta. (AP Photo/Todd Kirkland) Business and politics don't mix—it’s a maxim that’s been asserted for decades. But at the height of last summer's racia...",
+        "upvotes": 1,
+        "url": "https://www.google.com/amp/s/www.forbes.com/sites/forbesfellows/2021/04/01/as-big-business-stays-quiet-on-voter-laws-king-lewis-and-vivian-call-for-corporate-courage/amp/"
+      },
+      {
+        "preview": "News of Major League Baseball’s decision to pull this summer’s All-Star Game from Georgia over its sweeping new voting law reverberated among fans Saturday, while Gov. Brian Kemp vowed to defend the m...",
+        "upvotes": 4,
+        "url": "https://www.chicagotribune.com/sports/breaking/ct-mlb-all-star-game-georgia-brian-kemp-20210403-n3eaffoopzck3aelk5dr6iiygi-story.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Fox News host Dana Perino on Wednesday put House GOP leader Kevin McCarthy (R-CA) on the hot seat over revelations that Rep. Matt Gaetz (R-FL) is being probed by the FBI for potential sex trafficking ...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/kevin-mccarthy-matt-gaetz/"
+      },
+      {
+        "preview": "As time goes on, things get worse for Rep. Matt Gaetz (R-FL) and his friend, the former Seminole County tax collector and now alleged sex trafficker Joel Greenberg. Gaetz has acknowledged that he’s un...",
+        "upvotes": 454,
+        "url": "https://talkingpointsmemo.com/news/reports-gaetz-caught-on-surveillance-vid-with-alleged-sex-trafficker"
+      },
+      {
+        "preview": "By Jose Lambiet and Karen Ruiz For .com Published: 15:24 EDT, 2 April 2021 | Updated: 21:34 EDT, 2 April 2021 400 View comments Rep Matt Gaetz is expected to be indicted within the next few weeks as f...",
+        "upvotes": 73,
+        "url": "https://www.dailymail.co.uk/news/article-9430921/Matt-Gaetzs-arrest-imminent-sources-say-Joel-Greenberg-singing-feds.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. Pop stars are not babysitters. Pop music is not wholesome entertainment. If y...",
+        "upvotes": 1,
+        "url": "https://www.vulture.com/2021/03/lil-nas-x-montero-anti-pop-conservative-outrage-machine.html"
+      },
+      {
+        "preview": "Xinhua/Bao Dandan/Zuma It was reported earlier this year that, while recording his audiobook, former Speaker of the House John Boehner (R-Ohio) occasionally randomly veered from the script to tell off...",
+        "upvotes": 516,
+        "url": "https://www.motherjones.com/mojo-wire/2021/04/john-boehner-to-ted-cruz-go-fuck-yourself/"
+      },
+      {
+        "preview": "Your account has been created Follow our US politics coverage Find your bookmarks in your  Premium section, under my profile Hunter Biden shrugs off Trumps’ criticism The White House announced its bor...",
+        "upvotes": 1,
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/biden-news-live-trump-white-house-b1826565.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Biden’s next health care challenge will be enrolling uninsured people who already qualify for benefits. After the passage of President Joe Biden’s first Covid-19 relief plan, nearly 7 million uninsure...",
+        "upvotes": 474,
+        "url": "https://www.vox.com/policy-and-politics/22360870/american-rescue-plan-act-premium-tax-credit-health-insurance"
+      },
+      {
+        "preview": "Today's lesson: what modern-day infrastructure looks like. One of the worst things to see when you're a Fox News host has to be seeing Pete Buttigieg's name on your lineup for the day. During the 2020...",
+        "upvotes": 74,
+        "url": "https://www.out.com/politics/2021/4/01/watch-pete-buttigieg-school-run-circles-around-fox-news-hosts-again"
+      },
+      {
+        "preview": "WASHINGTON (AP) — America’s employers unleashed a burst of hiring in March, adding 916,000 jobs in a sign that a sustained recovery from the pandemic recession is taking hold as vaccinations accelerat...",
+        "upvotes": 109,
+        "url": "https://apnews.com/article/7fb625eacadc17dc03fb5353e3143200"
+      }
+    ],
+    "4": [
+      {
+        "preview": "WASHINGTON (AP) — Doggie doo in the White House? One of President Joe Biden’s dogs apparently deposited the pile of poo in the hallway outside the Diplomatic Reception Room, just off the South Lawn, o...",
+        "upvotes": 0,
+        "url": "https://apnews.com/article/biden-dog-poop-white-house-hallway-5307bcd10d102d7e7fa2141c47b4a901"
+      },
+      {
+        "preview": "US Secretary of State Antony Blinken called Friday on Israel to ensure “equal” treatment of the Palestinians as the new US administration cautiously steps up efforts for a two-state solution. In a tel...",
+        "upvotes": 1,
+        "url": "https://www.timesofisrael.com/blinken-tells-israel-palestinians-should-enjoy-same-rights-freedoms-as-you-do/"
+      },
+      {
+        "preview": "Last week, an angry Gov. Ron DeSantis (R-FL) snapped at a CBS reporter asking about evidence showing a kind of \"pay to play\" scandal that favored the wealthy to get COVID-19 vaccinations first. Commun...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/ron-desantis-vaccine-scandal/"
+      }
+    ]
+  }
+}

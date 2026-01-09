@@ -1,0 +1,270 @@
+{
+  "month": "2020-05",
+  "total_articles": 148,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "posted",
+        "ha",
+        "conservative",
+        "liberal",
+        "wa",
+        "conservatism",
+        "cuomo",
+        "democratic",
+        "democrat",
+        "reason",
+        "word",
+        "social",
+        "believe",
+        "democracy",
+        "party"
+      ],
+      "topic_weights": [
+        581.7731074368928,
+        43.04692130884312,
+        41.4229142746457,
+        33.880280202146366,
+        27.845551982896946,
+        23.478601283261373,
+        22.978627663844588,
+        22.5045610872952,
+        21.394220032917858,
+        18.901661033272372,
+        18.639733480250676,
+        18.021178780107032,
+        16.759677778358984,
+        16.389751751301922,
+        16.275653342552573
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "state",
+        "ha",
+        "home",
+        "china",
+        "death",
+        "covid",
+        "nursing",
+        "case",
+        "coronavirus",
+        "york",
+        "law",
+        "virus",
+        "cuomo",
+        "news"
+      ],
+      "topic_weights": [
+        853.7776321510695,
+        462.36688281428246,
+        430.9552545340046,
+        341.62662298905377,
+        298.4665021553369,
+        297.716370182348,
+        255.83160909467358,
+        236.54216684908633,
+        202.5855278719418,
+        200.2432146053523,
+        200.0032955505573,
+        195.65925849851052,
+        188.5940030911979,
+        184.64909817999455,
+        181.70311529632076
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "conservative",
+        "liberal",
+        "conservatism",
+        "ha",
+        "democracy",
+        "democratic",
+        "example",
+        "word",
+        "social",
+        "language",
+        "society",
+        "reason",
+        "wa",
+        "institution",
+        "argument"
+      ],
+      "topic_weights": [
+        4818.655325905696,
+        4702.306967249069,
+        3836.2795565372226,
+        3431.6319540359423,
+        2805.681687964196,
+        2416.82234055132,
+        2117.5438851759045,
+        2046.0631450482522,
+        1819.2719852233072,
+        1769.9572557208858,
+        1703.3110517808288,
+        1612.4193992633093,
+        1610.6943289504557,
+        1567.6097952050447,
+        1560.4782012831654
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "liberal",
+        "conservative",
+        "ha",
+        "conservatism",
+        "wa",
+        "word",
+        "democratic",
+        "democracy",
+        "example",
+        "american",
+        "social",
+        "argument",
+        "society",
+        "culture",
+        "language"
+      ],
+      "topic_weights": [
+        78.01900079416593,
+        65.10038884118043,
+        52.18994206484954,
+        44.95124296942208,
+        37.7215820363176,
+        37.19554460861959,
+        35.90547254843054,
+        31.468133549590924,
+        27.229580466484446,
+        23.781872594232013,
+        23.150007857614266,
+        22.17639444192027,
+        19.592486416709427,
+        18.507906589205202,
+        18.234029064487107
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "election",
+        "biden",
+        "ha",
+        "ballot",
+        "democrat",
+        "voter",
+        "president",
+        "black",
+        "vote",
+        "republican",
+        "house",
+        "american",
+        "fact"
+      ],
+      "topic_weights": [
+        317.12720909456874,
+        206.42793423789593,
+        149.30665350557894,
+        142.4259612338406,
+        110.91366501609107,
+        110.56696078723111,
+        104.19898498547214,
+        103.85465072978776,
+        93.87598052278722,
+        79.88519840263562,
+        74.99771841030838,
+        72.92204844671124,
+        72.49499105558566,
+        66.00458107135827,
+        61.6627967131685
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 38,
+    "1": 104,
+    "2": 3,
+    "0": 2,
+    "3": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": " it too ch to hope that independent voters will remember these Dem fascists this fall? yes Posted by: It's me donna at May 15, 2020 05:20 PM (Zmnko) 347 Have Lou Dobbs on and he is on a total rant , r...",
+        "upvotes": 231,
+        "url": "http://acecomments.mu.nu/?post=387299"
+      },
+      {
+        "preview": "In the film, The Trouble with Being Born, a grown man, played by Dominik Warta, gets a child-like android to replace his 10-year-old daughter who went missing 10 years ago. The robot looks exactly lik...",
+        "upvotes": 8,
+        "url": "https://www.eviemagazine.com/post/a-german-film-about-a-man-and-his-robot-daughters-sexual-relationship/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Oregon’s largest news publication stumbled across a startling finding in the state’s fatality statistics. The Oregonian found that “245 more Oregonians died during the five weeks between March 16 and ...",
+        "upvotes": 78,
+        "url": "https://www.conservativereview.com/news/horowitz-lockdown-killing-patients-coronavirus/"
+      },
+      {
+        "preview": "NEW YORK (AP) — Bleak new figures Thursday underscored the worldwide economic pain inflicted by the coronavirus: The number of Americans filing for unemployment benefits has climbed past a staggering ...",
+        "upvotes": 29,
+        "url": "https://apnews.com/5abd454eb3d36f583aafb58892cb1fc4"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved A conservative think tank is suing the Trump administration over its rollback of fuel economy standards, arguing the government’s own analysis shows ...",
+        "upvotes": 5,
+        "url": "https://thehill.com/policy/energy-environment/495640-group-sues-trump-admin-arguing-obama-mileage-rollback-wasnt"
+      }
+    ],
+    "2": [
+      {
+        "preview": ", is Orlando Patterson's stunning discovery that Western notions of freedom were invented by former slaves in the ancient world and have remained more or less constant ever since. In economic terms, M...",
+        "upvotes": 0,
+        "url": "https://pages.gseis.ucla.edu/faculty/agre/conservatism.html"
+      },
+      {
+        "preview": "Filed under: It seems to be therapeutic to many of my friends to have their beliefs reinforced each night that anyone who complains about shutdowns is unintelligent or malevolent. I am a card-carrying...",
+        "upvotes": 29,
+        "url": "https://chicago.suntimes.com/2020/5/18/21262758/liberal-media-working-people-shutdown-unemployment-kent-college-richard-j-gonzalez-rachel-maddow"
+      },
+      {
+        "preview": "It’s not even a revelation anymore to say that “travel blogger” is a job. Amazing is that even the bloggers with limited followings are said to rate free travel, accommodations, and tours once on the ...",
+        "upvotes": 9,
+        "url": "https://www.realclearmarkets.com/articles/2020/05/25/permanent_job_destruction_terrifies_the_new_york_times_but_it_signals_quick_recovery_492414.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "True Conservative News Isra Hirsi, daughter of Ilhan Omar apparently has the same feelings about the American military as her mother. Isra Hirsi calls the American military “bitches” and claims that t...",
+        "upvotes": 1336,
+        "url": "https://conservativeus.com/video-ilhan-omars-daughter-calls-american-soldiers-bitches-and-accuses-them-of-actively-killing-innocent-children/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Actress-comedian Sarah Silverman called out Sen. Kirsten Gillibrand (D-NY) on Wednesday over her apparent #MeToo double standard when it comes to former vice president Joe Biden’s sexual assault accus...",
+        "upvotes": 54,
+        "url": "https://www.breitbart.com/entertainment/2020/04/30/sarah-silverman-exposes-sen-gillibrands-metoo-double-standards-for-biden-franken/?utm_source=facebook&utm_medium=social&fbclid=IwAR1fi6N7iUU-7kF6Dnd0Sp_3rHJ9NCHQPUAGZgOV67Ij5aliQZw8DUrZlcg"
+      },
+      {
+        "preview": "Pressure had been mounting on Mr Biden to speak out publicly over an allegation that he assaulted a woman in 1993. Saturday 2 May 2020 17:43, UK Please use Chrome browser for a more accessible video p...",
+        "upvotes": 12,
+        "url": "https://news.sky.com/story/joe-biden-rejects-sex-assault-claims-they-arent-true-this-never-happened-11981595"
+      },
+      {
+        "preview": "But the Democrats will continue to push this wretchedness no matter the opposition. Nearly two-thirds of registered voters say moving the country to voting entirely by mail likely would increase elect...",
+        "upvotes": 76,
+        "url": "https://thepoliticalheat.wordpress.com/2020/05/01/2-of-3-voters-mail-in-voting-would-increase-election-fraud/"
+      }
+    ]
+  }
+}

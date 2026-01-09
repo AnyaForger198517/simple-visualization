@@ -1,0 +1,280 @@
+{
+  "month": "2011-10",
+  "total_articles": 76,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "liberal",
+        "public",
+        "global",
+        "democracy",
+        "job",
+        "nation",
+        "social",
+        "medium",
+        "dream",
+        "national",
+        "government",
+        "worker",
+        "democratic",
+        "web",
+        "market"
+      ],
+      "topic_weights": [
+        374.24115554684704,
+        299.16667260624604,
+        184.16777765202283,
+        184.0073347864252,
+        183.86986542279655,
+        183.5227960143196,
+        149.6136073460388,
+        147.74850835103226,
+        147.63349032404005,
+        147.30173261158242,
+        138.3831353335911,
+        134.59621131939687,
+        134.42970772704973,
+        132.88918048096104,
+        126.91288489122219
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "street",
+        "wall",
+        "occupy",
+        "movement",
+        "party",
+        "tea",
+        "american",
+        "cantor",
+        "york",
+        "nation",
+        "protest",
+        "obama",
+        "september",
+        "city",
+        "protester"
+      ],
+      "topic_weights": [
+        194.49170192265802,
+        188.3967281542846,
+        138.24389898970696,
+        94.33517684611014,
+        90.3729153087482,
+        65.94087544256782,
+        64.68981298150966,
+        58.39939658397078,
+        51.50786373632317,
+        50.57434101829058,
+        49.24467539762201,
+        48.86158721782175,
+        47.79841545595089,
+        47.490277062934204,
+        44.45689239166018
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "mother",
+        "ha",
+        "wa",
+        "jones",
+        "state",
+        "today",
+        "job",
+        "story",
+        "policy",
+        "republican",
+        "obama",
+        "term",
+        "percent",
+        "economy"
+      ],
+      "topic_weights": [
+        235.88097786769288,
+        200.49551723988927,
+        195.52857603789897,
+        192.14571826760718,
+        186.3398715474966,
+        127.2664525158223,
+        114.19876528627037,
+        104.47914105722703,
+        99.49026128004184,
+        96.46920843996094,
+        95.8304326786179,
+        95.30817043722598,
+        88.74132578192189,
+        86.97549981517197,
+        82.27463693273921
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "american",
+        "iraq",
+        "perry",
+        "ha",
+        "obama",
+        "war",
+        "president",
+        "iraqi",
+        "force",
+        "government",
+        "troop",
+        "romney",
+        "withdrawal",
+        "state"
+      ],
+      "topic_weights": [
+        288.4936873682832,
+        211.7171358783007,
+        147.6151892310417,
+        140.1041984327565,
+        132.11252797036695,
+        118.64097404082906,
+        113.0992444808387,
+        112.73450271684739,
+        103.65255322867465,
+        94.58569306476501,
+        91.8279643858993,
+        83.77786454987316,
+        76.48821940955753,
+        66.6092168978316,
+        63.111925840238364
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "police",
+        "protester",
+        "nypd",
+        "wa",
+        "officer",
+        "activist",
+        "square",
+        "arrest",
+        "arrested",
+        "decided",
+        "park",
+        "washington",
+        "young",
+        "thought",
+        "experience"
+      ],
+      "topic_weights": [
+        186.43154645110636,
+        184.43384457813337,
+        173.77137682349036,
+        113.53142116844664,
+        91.7020937490114,
+        87.7335586190689,
+        82.36282034138245,
+        68.35151405893257,
+        65.27788447149544,
+        65.12445397376979,
+        61.87146938755717,
+        53.543562589974364,
+        51.97326649994852,
+        51.45568760645343,
+        50.57795621666359
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 9,
+    "3": 14,
+    "2": 48,
+    "0": 2,
+    "4": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "George Will and I have something in common: We were both trained in the close reading of political texts. Will recently applied his interpretive skills to a statement by Elizabeth Warren, who is runni...",
+        "upvotes": 18,
+        "url": "http://www.tnr.com/article/the-vital-center/95926/elizabeth-warren-george-will-liberalism"
+      },
+      {
+        "preview": ", neoliberal anti-government ideology has engendered pervasive privatization and a commercialization that have made consumerism ubiquitous, replacing the public citizen with the private consumer and t...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/article/164071/calling-all-liberals-its-time-fight"
+      }
+    ],
+    "1": [
+      {
+        "preview": "In New York City's Financial District, hundreds of activists have been converging on Lower Manhattan over the past two weeks, protesting as part of a burgeoning \"Occupy Wall Street\" movement. The demo...",
+        "upvotes": 33,
+        "url": "http://www.theatlantic.com/infocus/2011/09/occupy-wall-street/100159/"
+      },
+      {
+        "preview": "g new. Maybe this will go nowhere too. The odds are against it, after all. But what do we have to lose? We have to try something new. Betsy ReedBetsy Reed is the executive editor of The Nation. She an...",
+        "upvotes": 17,
+        "url": "http://www.thenation.com/blog/163762/occupy-wall-street-why-so-many-demands-demands"
+      },
+      {
+        "preview": "Since they can no loner ignore the occupation, the mainstream media has decided to mock and dismiss it instead. By signing up, you confirm that you are over the age of 16 and agree to receive occasion...",
+        "upvotes": 27,
+        "url": "http://www.thenation.com/blog/163838/naomi-klein-mainstream-media-has-dropped-ball-occupy-wall-street"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Supported by By Robert Pear WASHINGTON — House Republicans are laying the groundwork for another battle with President Obama over spending and domestic policy with a bill that would cut ...",
+        "upvotes": 3,
+        "url": "http://www.nytimes.com/2011/10/03/us/politics/house-sets-up-battle-on-labor-education-and-health-funding.html"
+      },
+      {
+        "preview": "Once in a while Republicans are so blindingly honest about their beliefs, that you almost want to thank them, as chilling as those beliefs might be. Booing a fighting man for his sexual preference. Ma...",
+        "upvotes": 16,
+        "url": "http://www.arktimes.com/ArkansasBlog/archives/2011/10/01/republican-leader-wants-to-eradicate-unions"
+      },
+      {
+        "preview": "<a  Condos</a>/Flickr Chris Christie is not running for president. Despite months of breathless speculation, the Republican New Jersey governor made it official on Tuesday with a press conference in T...",
+        "upvotes": 1,
+        "url": "http://motherjones.com/mojo/2011/10/brief-history-chris-christie-not-running-president"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By Angie Aker. Monday, September 26 2011 Eye-Opening | Gay Marriage | Graphics | LGBTQ Equality And it’s only Monday. That’s how much we’re loving this. Found on Facebook. Originally submitted by Brad...",
+        "upvotes": 1,
+        "url": "http://front.moveon.org/the-best-gay-quote-youll-see-all-week/"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. A few months after Barack Obama was sworn in as president, Dick Cheney sat do...",
+        "upvotes": 4,
+        "url": "http://nymag.com/daily/intel/2011/10/dick_cheney_demands_vindicatio.html"
+      },
+      {
+        "preview": "Associate Supreme Court Justice Antonin Scalia said the court has been hearing fewer cases in recent years in part because Congress is passing fewer major pieces of legislation than it did one and two...",
+        "upvotes": 13,
+        "url": "http://www.theatlantic.com/national/archive/2011/10/scalia-our-political-system-is-designed-for-gridlock/246257/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Thousands of Occupy Wall Street activists flooded Times Square on Saturday in a dramatic protest against the upper one percent. By signing up, you confirm that you are over the age of 16 and agree to ...",
+        "upvotes": 28,
+        "url": "http://www.thenation.com/blog/164014/occupy-wall-street-protesters-pack-times-square"
+      },
+      {
+        "preview": "Michael Moore has told Radio 5 live that Barack Obama is not the person he thought he was when he campaigned for him in 2008. Speaking to Richard Bacon, he also described the US President's first term...",
+        "upvotes": 26,
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-15436444"
+      },
+      {
+        "preview": "WASHINGTON -- The Oakland Police Department fired tear gas on Occupy Oakland demonstrators Tuesday night as they marched through downtown, determined to reclaim the camp that officers destroyed that m...",
+        "upvotes": 5,
+        "url": "http://www.huffingtonpost.com/2011/10/26/iraq-vet-oakland-police-tear-gas_n_1033159.html"
+      }
+    ]
+  }
+}

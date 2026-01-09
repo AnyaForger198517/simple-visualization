@@ -1,0 +1,285 @@
+{
+  "month": "2019-11",
+  "total_articles": 101,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "ha",
+        "wa",
+        "state",
+        "democrat",
+        "election",
+        "republican",
+        "campaign",
+        "democratic",
+        "president",
+        "voter",
+        "candidate",
+        "warren",
+        "house",
+        "political"
+      ],
+      "topic_weights": [
+        229.97180742746244,
+        184.64285701220138,
+        153.03724430524844,
+        120.84688920313805,
+        118.18920792184531,
+        116.42893484639775,
+        114.05890571489957,
+        109.17460320400933,
+        99.34224918683749,
+        93.12377839178406,
+        84.03545643289053,
+        83.5033090349276,
+        74.73599241211826,
+        67.73001114783953,
+        62.91534608015623
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "steel",
+        "amazon",
+        "state",
+        "company",
+        "wa",
+        "american",
+        "job",
+        "delivery",
+        "driver",
+        "trump",
+        "policy",
+        "car",
+        "industry",
+        "work"
+      ],
+      "topic_weights": [
+        91.07111040402873,
+        68.19914590726175,
+        67.99590641864009,
+        62.409308852759146,
+        59.02562607831973,
+        56.66173258836903,
+        44.8625849111475,
+        44.45229081619902,
+        43.99235444246171,
+        42.65847803573098,
+        42.256102594233646,
+        39.86815586359173,
+        38.309143466994904,
+        36.619990785335034,
+        36.25401630883456
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "conspiracy",
+        "border",
+        "ha",
+        "jones",
+        "mother",
+        "wall",
+        "group",
+        "barrier",
+        "administration",
+        "president",
+        "asylum",
+        "state",
+        "cbp"
+      ],
+      "topic_weights": [
+        53.34190068288879,
+        49.53727792530418,
+        36.54009020889422,
+        36.168035130440025,
+        32.496743678576756,
+        32.282168289973654,
+        32.28179784193832,
+        27.790530009749226,
+        25.522473033362452,
+        24.589146385934008,
+        23.583236134626492,
+        23.528009318047246,
+        20.503307881903165,
+        20.052973507658884,
+        19.676210376113136
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "game",
+        "immigration",
+        "law",
+        "social",
+        "party",
+        "state",
+        "contract",
+        "immigrant",
+        "political",
+        "illegal",
+        "cooky",
+        "sex",
+        "country",
+        "job",
+        "ha"
+      ],
+      "topic_weights": [
+        78.11070222788348,
+        65.13118927361609,
+        64.375092863567,
+        58.86297249800201,
+        46.27964171462995,
+        45.90111120029982,
+        45.48822106113078,
+        41.19403642204864,
+        40.0682831902559,
+        38.024094796793115,
+        36.83844148651664,
+        34.97227391622938,
+        34.5003323138641,
+        33.53112048943986,
+        32.8944094275179
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "president",
+        "warren",
+        "ukraine",
+        "miller",
+        "house",
+        "white",
+        "ha",
+        "official",
+        "giuliani",
+        "obama",
+        "told",
+        "ukrainian",
+        "administration"
+      ],
+      "topic_weights": [
+        402.2461571913349,
+        307.8043375190367,
+        192.59362483795763,
+        132.42652961239915,
+        129.99501400407593,
+        121.31561922843589,
+        116.38910910072865,
+        113.39240608476939,
+        100.48132200734172,
+        90.27008702322019,
+        85.73763618668939,
+        84.53067348010413,
+        80.05487271989386,
+        79.9408352844182,
+        77.32469438425284
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 38,
+    "4": 32,
+    "3": 7,
+    "1": 15,
+    "2": 9
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Keystone pipeline has spilled hundreds of thousands of gallons of crude oil into North Dakota this week, The New York Times reports. The pipeline...",
+        "upvotes": 146,
+        "url": "https://thehill.com/policy/energy-environment/468353-keystone-pipeline-spills-over-350000-gallons-of-oil-in-north-dakota"
+      },
+      {
+        "preview": "By Sean McElwee, co-founder of Data for Progress; John Ray, Senior Political Analyst, YouGov Blue As the Democratic primary heats up, Democratic presidential candidates have begun sharing their plans ...",
+        "upvotes": 1,
+        "url": "https://www.dataforprogress.org/memos/medicare-for-all-polling"
+      },
+      {
+        "preview": "The Politicus Create | Share | Influence Home » Danish millionaire slams Donny Deutsch for F***ing Denmark comment discussing Medicare for All An Iran born Danish millionaire set a willfully uninforme...",
+        "upvotes": 1,
+        "url": "https://thepoliticus.com/2019/11/02/danish-millionaire-slams-donny-deutsch-for-fing-denmark-comment-discussing-medicare-for-all/#.Xb3wNKTCLYI.reddit"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. A fire burns a hillside...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/news/2019/11/01/because-profit-motive-does-not-work-ro-khanna-backs-public-ownership-pge-fires-rip"
+      },
+      {
+        "preview": "This essay is adapted from The Future of Transportation, published by Metropolis Books. Thinking about the future of transportation from the United States can sometimes feel like thinking about swimwe...",
+        "upvotes": 1,
+        "url": "https://slate.com/technology/2019/10/future-of-transportation-bus-bike-elevator.html"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since For presidential administrations of both parties, there is one common denominator: the tendency to ...",
+        "upvotes": 1,
+        "url": "https://www.businessinsider.com/jobs-report-quality-labor-market-crisis-economy-hurts-americans-2019-11"
+      }
+    ],
+    "2": [
+      {
+        "preview": "WASHINGTON — A Halloween party on Oct. 25 at the Eisenhower Executive Office Building featured candy, paper airplanes and — concerning for some attendees — a station where children were encouraged to ...",
+        "upvotes": 244,
+        "url": "https://news.yahoo.com/children-were-told-to-build-the-wall-at-white-house-halloween-party-153024720.html"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News Antibiotics, which turn life-threatening infections into minor nuisances, are considered the single biggest advance in modern medicine. But imagine i...",
+        "upvotes": 280,
+        "url": "https://www.nbcnews.com/health/health-care/u-s-officials-worried-about-chinese-control-american-drug-supply-n1052376"
+      },
+      {
+        "preview": "This article is more than 1 year old SAN DIEGO — Smuggling gangs in Mexico have repeatedly sawed through new sections of President Trump’s border wall in recent months by using commercially available ...",
+        "upvotes": 1,
+        "url": "http://www.washingtonpost.com/national/smugglers-are-sawing-through-new-sections-of-trumps-border-wall/2019/11/01/25bf8ce0-fa72-11e9-ac8c-8eced29ca6ef_story.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": ".org Text generated by Artificial Intelligence can now be used to replicate a specific speaker's style of writing. This technology represents great risk to those who are unaware of it's potential for ...",
+        "upvotes": 553,
+        "url": "https://lawsuit.org/robotrump-an-ai-trump/"
+      },
+      {
+        "preview": "A resident evil scenario continued. What if these scenarios were erotic? What if the main character was a perverted one? What if Jill Valentine from Resident Evil was a hentai slut, with gorgeous skin...",
+        "upvotes": 1,
+        "url": "http://playpornogames.com/"
+      },
+      {
+        "preview": "Over 100 Victoria’s Secret models, including Christy Turlington and Caitriona Balfe, have signed an open letter calling company CEO John Mehas to address the sexual abuse and misconduct within the com...",
+        "upvotes": 1,
+        "url": "https://www.dailywire.com/news/over-100-victorias-secret-models-pen-open-letter-paul-bois"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Rep. Don Young (R-Alaska) came up with a novel way to avoid a question about President Donald Trump on Thursday. Instead of ignoring the activists from the progressive group MoveOn.org who were asking...",
+        "upvotes": 1,
+        "url": "https://www.huffpost.com/entry/don-young-head-butt-camera_n_5dbbce10e4b0249f48220fe8"
+      },
+      {
+        "preview": "Advertisement Supported by Timothy Morrison, a National Security Council aide, said a top diplomat close to President Trump suggested a military aid package for Ukraine was conditioned on investigatio...",
+        "upvotes": 258,
+        "url": "https://www.nytimes.com/2019/10/31/us/politics/morrison-testimony-impeachment.html"
+      },
+      {
+        "preview": "This article is more than 1 year old The steady release of new information from the House impeachment inquiry, including statements by the National Security Council’s top Ukraine expert, Lt. Col. Alex...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/politics/2019/10/29/how-much-have-trumps-dealings-with-ukraine-deviated-presidential-norm/"
+      }
+    ]
+  }
+}

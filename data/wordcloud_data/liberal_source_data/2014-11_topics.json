@@ -1,0 +1,255 @@
+{
+  "month": "2014-11",
+  "total_articles": 97,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "party",
+        "wa",
+        "democrat",
+        "republican",
+        "election",
+        "committee",
+        "democratic",
+        "candidate",
+        "ha",
+        "class",
+        "voter",
+        "state",
+        "white",
+        "senate",
+        "working"
+      ],
+      "topic_weights": [
+        119.20530824229715,
+        101.01527667085278,
+        94.43007851323,
+        84.29873533901521,
+        74.1147065780494,
+        58.386835327963944,
+        57.755841340350585,
+        56.19829376335594,
+        49.48678419698866,
+        48.42731226655133,
+        46.1788655375625,
+        44.61347738553914,
+        44.39275387755227,
+        43.929121896391784,
+        40.03165233092224
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "lessig",
+        "wa",
+        "moyers",
+        "lawrence",
+        "money",
+        "republican",
+        "democrat",
+        "care",
+        "obama",
+        "state",
+        "begich",
+        "didn",
+        "democracy",
+        "campaign",
+        "vote"
+      ],
+      "topic_weights": [
+        40.47820916746098,
+        35.610579357625284,
+        33.69182771768694,
+        33.37606873100275,
+        22.885533446103075,
+        20.46257600824292,
+        19.649452547010597,
+        15.40410367845255,
+        14.13345678828409,
+        13.756855447856811,
+        13.522424842607414,
+        13.422490913706135,
+        13.290228474678484,
+        13.012332262738289,
+        12.887206443594895
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "mcconnell",
+        "chao",
+        "foremost",
+        "china",
+        "ha",
+        "wife",
+        "james",
+        "million",
+        "law",
+        "marijuana",
+        "gift",
+        "coal",
+        "nation",
+        "drug",
+        "chinese"
+      ],
+      "topic_weights": [
+        350.73760562523194,
+        116.43510031925103,
+        106.05320380825249,
+        103.5792643605833,
+        91.58841787160353,
+        65.95547988320858,
+        60.798265919477714,
+        59.41737765714995,
+        54.99857874872486,
+        53.46018461740615,
+        52.732213654932536,
+        50.50694102295799,
+        50.02716407269833,
+        49.13196794251272,
+        45.67921598620356
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "obama",
+        "republican",
+        "president",
+        "state",
+        "american",
+        "percent",
+        "democrat",
+        "voter",
+        "policy",
+        "law",
+        "clinton",
+        "democratic",
+        "issue"
+      ],
+      "topic_weights": [
+        447.860041541844,
+        250.34997560592944,
+        233.93791332019225,
+        233.08633741795867,
+        227.71696486462605,
+        207.51828717155337,
+        178.07754359500896,
+        139.26684455204634,
+        136.0464093435843,
+        134.47736345804003,
+        134.23648241543907,
+        124.32291817454791,
+        124.10224648583073,
+        122.41304236663899,
+        121.00655886686513
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "begich",
+        "republican",
+        "democrat",
+        "obama",
+        "win",
+        "lost",
+        "won",
+        "state",
+        "big",
+        "conservative",
+        "alaska",
+        "vote",
+        "night",
+        "did"
+      ],
+      "topic_weights": [
+        827.8389078265161,
+        821.4049871101989,
+        792.3987047571172,
+        732.82633378445,
+        731.9807331129532,
+        481.6659589432133,
+        446.3071673074199,
+        441.3643289882664,
+        439.12997752616724,
+        405.22650895877206,
+        390.02930665813443,
+        345.2550737399291,
+        324.8974131108313,
+        320.5090918519853,
+        317.5563912974016
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 75,
+    "0": 19,
+    "2": 1,
+    "4": 1,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Longtime Democratic strategist Joe Trippi said Republicans will \"probably\" take the Senate on Tuesday given evidence that GOP candidates are moving a...",
+        "upvotes": 18,
+        "url": "http://thehill.com/blogs/ballot-box/senate-races/222578-dem-strategist-joe-trippi-gop-will-probably-take-senate"
+      },
+      {
+        "preview": "Your FP Insider Access: The Taliban’s takeover in Kabul has all the makings of a Pyrrhic victory. A tribute to Gail Omvedt, a white American sociologist who left Dalits in mourning. Lisbon’s macroecon...",
+        "upvotes": 48,
+        "url": "http://www.foreignpolicy.com/articles/2014/10/30/if_the_republicans_win_big_on_tuesday_so_will_the_cia"
+      },
+      {
+        "preview": "(Joe Raedle/Getty Images, David Becker/Getty Images, Mark Wilson/Getty Images, Sara D. Davis/Getty Images) Last week, details about a horrifyingly cynical new program to purge registered voters from e...",
+        "upvotes": 0,
+        "url": "http://theweek.com/article/index/271131/heres-how-democrats-can-fight-back-against-the-gops-cynical-voter-purges-pay-everyone-to-vote"
+      }
+    ],
+    "1": [
+      {
+        "preview": "BILL MOYERS: Welcome. What happens when two college professors leave the theories of the classroom behind for the real world of bare-knuckle politics? Well, they learn a lesson the hard way. Just ask ...",
+        "upvotes": 4,
+        "url": "http://billmoyers.com/episode/bare-knuckle-fight-money-politics/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "d court documents obtained by The Nation show that the ownership of the company’s vessels—with names such as Ping May, Soya May, Fu May and Grain May—is obscured through a byzantine structure of tax e...",
+        "upvotes": 47,
+        "url": "http://www.thenation.com/article/186689/mitch-mcconnells-freighted-ties-shadowy-shipping-company"
+      }
+    ],
+    "3": [
+      {
+        "preview": "This article is more than 1 year old Conservatives often face a lot of questions -- and controversies -- for their views on science. Most notably, only 22 percent of conservative Republicans accept th...",
+        "upvotes": 0,
+        "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/10/28/liberals-deny-science-too/"
+      },
+      {
+        "preview": "On Monday, the American Civil Liberties Union (ACLU) released a video captured by a police dashboard camera depicting the killing of Milton Hall, a 49-year-old mentally ill homeless man, in July of 20...",
+        "upvotes": 45,
+        "url": "http://www.wsws.org/en/articles/2014/10/31/brut-o31.html"
+      },
+      {
+        "preview": "Voters in Cleveland, Ohio, wait in line to cast early votes in November 2012.Mark Duncan/AP Over the past decade, Republican legislators have pushed a number of measures critics say are blatant attemp...",
+        "upvotes": 86,
+        "url": "http://www.motherjones.com/politics/2014/10/minority-voters-election-long-lines-id"
+      }
+    ],
+    "4": [
+      {
+        "preview": " and history, my shiny electronic friends, is written by the winners. You play defense, you lose. Democrats lost last night because they deserved it. Begich is out because he’s a wimpy little shit who...",
+        "upvotes": 5,
+        "url": "http://www.stonekettle.com/2014/11/ted-nugent-is-just-fine-and-so-are-you.html"
+      }
+    ]
+  }
+}

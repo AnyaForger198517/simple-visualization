@@ -1,0 +1,285 @@
+{
+  "month": "2014-01",
+  "total_articles": 87,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "student",
+        "government",
+        "loan",
+        "debt",
+        "college",
+        "phone",
+        "cost",
+        "company",
+        "privacy",
+        "data",
+        "report",
+        "school",
+        "higher",
+        "mean",
+        "high"
+      ],
+      "topic_weights": [
+        141.208528497406,
+        122.4501124839775,
+        91.54050725616209,
+        88.77264658400028,
+        77.82465438444359,
+        49.66895372409117,
+        47.04124010160944,
+        39.912012340335316,
+        39.82310951272567,
+        38.88977764140986,
+        38.721300912941736,
+        37.69972238485406,
+        34.21943912050043,
+        30.105000428419377,
+        29.28522034885965
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "republican",
+        "ha",
+        "american",
+        "state",
+        "right",
+        "party",
+        "gun",
+        "conservative",
+        "president",
+        "news",
+        "support",
+        "obama",
+        "post",
+        "wing"
+      ],
+      "topic_weights": [
+        131.63865826249346,
+        122.51917357769196,
+        85.5421272223289,
+        72.9236766940401,
+        60.91706917490861,
+        58.50102804233353,
+        56.61664209869471,
+        56.00447888334566,
+        50.96853414299987,
+        50.04130813109513,
+        46.547336589070845,
+        45.22665048736528,
+        45.149421395197464,
+        44.56565122096924,
+        44.341299747475816
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "mother",
+        "jones",
+        "obamacare",
+        "union",
+        "medicaid",
+        "state",
+        "million",
+        "wa",
+        "today",
+        "policy",
+        "labor",
+        "coverage",
+        "health",
+        "law",
+        "story"
+      ],
+      "topic_weights": [
+        58.58841903957747,
+        56.38200762025827,
+        50.498913477020515,
+        45.524091528414864,
+        41.042052680506146,
+        37.68434973073585,
+        35.16508451692847,
+        34.66348301665825,
+        34.24580845525174,
+        34.1503452036756,
+        31.401349186968275,
+        30.38930022874417,
+        29.958084898302708,
+        27.387305745252856,
+        24.927764927983027
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "christie",
+        "state",
+        "gas",
+        "wa",
+        "study",
+        "mayor",
+        "walker",
+        "wisconsin",
+        "ha",
+        "question",
+        "city",
+        "budget",
+        "governor",
+        "job",
+        "staff"
+      ],
+      "topic_weights": [
+        86.83185299097329,
+        60.98833737255558,
+        39.42373103127539,
+        35.80279871025168,
+        35.133218527578855,
+        29.35227901594179,
+        27.290205652064763,
+        25.377607060391348,
+        24.983996683800903,
+        23.409430385100258,
+        19.63241937558154,
+        18.006675426202776,
+        16.916324521815103,
+        16.7421293161011,
+        16.112017180010422
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "school",
+        "state",
+        "woman",
+        "income",
+        "tax",
+        "family",
+        "child",
+        "country",
+        "rich",
+        "work",
+        "money",
+        "harris",
+        "class"
+      ],
+      "topic_weights": [
+        197.97210544451883,
+        95.01115201338013,
+        88.60512996651889,
+        79.68558055064983,
+        73.5991469419165,
+        71.47650402322576,
+        65.95014185204639,
+        64.73478009427821,
+        63.30784527013292,
+        43.832225232969975,
+        43.6673508876372,
+        42.73767810972023,
+        35.95139419832468,
+        35.67120264435108,
+        35.522016398069745
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 31,
+    "1": 33,
+    "0": 3,
+    "3": 9,
+    "2": 11
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "College students are graduating with the highest average student loan debt ever on record. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers...",
+        "upvotes": 6,
+        "url": "http://www.thenation.com/blog/177727/report-2012-grads-have-highest-ever-student-debt"
+      },
+      {
+        "preview": "Jump to main content Jump to navigation For years, health care costs in America skyrocketed, with brutal consequences for our country. Escalating costs hurt our economy, eating into workers’ wages and...",
+        "upvotes": 1,
+        "url": "http://www.whitehouse.gov/blog/2014/01/06/new-report-shows-2012-continued-trend-slow-growth-health-care-spending"
+      },
+      {
+        "preview": "Updating the Fourth Amendment has been done before, to address the invention of cars, phones and GPS. It’s time to do it again. In June 2013, The Guardian reported that the National Security Agency is...",
+        "upvotes": 0,
+        "url": "http://www.thenation.com/article/177849/we-need-privacy-laws-digital-era"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 1,
+        "url": "http://www.examiner.com/article/rejection-of-evolution-grows-amongst-republicans-study-finds"
+      },
+      {
+        "preview": "by Stephen C. Webster December 30, 2013 9:17 PM During a speech about criminal justice reform earlier this month at the annual American Legislative Exchange Council (ALEC) conference, anti-government ...",
+        "upvotes": 17,
+        "url": "http://www.progressive.org/norquist-tells-alec-he-wants-us-to-revive-decapitation"
+      },
+      {
+        "preview": "Written by Jeremy Holden Published 12/31/13 2:50 PM EST Share Comment Here we go again. One year after creating a fact-free bubble in the run up to the last election, media conservatives are once agai...",
+        "upvotes": 37,
+        "url": "http://mediamatters.org/blog/2013/12/31/will-benghazi-facts-penetrate-the-right-wing-bu/197383"
+      }
+    ],
+    "2": [
+      {
+        "preview": "This article is more than 1 year old As of Dec. 31, \"more than 9 million people now have health care coverage because of the Affordable Care Act,\" writes Josh Marshall. \"It now seems like the number i...",
+        "upvotes": 128,
+        "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/01/06/has-obamacare-really-signed-up-10-million-people/"
+      },
+      {
+        "preview": "Last week the liberal documentary-maker Michael Moore prompted indigestion across the progressive wonk community by pronouncing Obamacare “awful.” In a New York Times op-ed, he bemoaned the way the pr...",
+        "upvotes": 21,
+        "url": "http://www.newrepublic.com/article/116105/obamacare-will-lead-single-payer-michael-moore"
+      },
+      {
+        "preview": "Guida alla salute, stile di vita e bellezza Scritto da NICCOLÒ FARINA in Settembre 2, 2021 Coloro che sono alla ricerca di un approccio alternativo alle varie malattie, sono sempre più interessati ai ...",
+        "upvotes": 7,
+        "url": "http://www.clickgreen.org.uk/news/international-news/124090-record-wind-power-levels-trigger-energy-price-fall.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Updated, 3:53 p.m. | A comprehensive new study of atmospheric levels of methane, an important greenhouse gas released by leaky oil and gas operations and livestock, has found much higher levels over t...",
+        "upvotes": 5,
+        "url": "http://dotearth.blogs.nytimes.com/2013/11/25/new-study-finds-u-s-has-underestimated-methane-levels-in-the-atmosphere/"
+      },
+      {
+        "preview": "Monday is officially a day for the record books in Chicago. The temperature at O'Hare hit 15 degrees below zero at 7 a.m. on Monday, breaking the previous record low for the date of 14 below, the Chic...",
+        "upvotes": 3,
+        "url": "http://www.huffingtonpost.com/2014/01/06/chicago-record-low-temperature_n_4548999.html"
+      },
+      {
+        "preview": "This article is more than 1 year old The release of e-mails suggesting that Gov. Chris Christie's top aides choked off transportation to a small town as political retribution against the town's mayor ...",
+        "upvotes": 73,
+        "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/01/08/chris-christies-problem-is-that-hes-really-truly-a-bully/?wprss=rss_ezra-klein&clsrd"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Convention season has become a really sad time for me. What was once a fun, light gathering of comics fans has become a Bingo card of sexual assault. Women of a sadly growing number are reporting vari...",
+        "upvotes": 19,
+        "url": "http://sequart.org/magazine/38144/leaving-women-alone-at-cons-and-anywhere-else/"
+      },
+      {
+        "preview": "+++ F#@! Dynasty: How Social Conservatives’ Fear of Sexuality Influences Their Logic Just as the dust began to settle on the blowback from FOX News anchor Megyn Kelly’s proclamation that the fictional...",
+        "upvotes": 1,
+        "url": "http://www.nailedmagazine.com/editors-choice/fk-dynasty-by-josh-goller/"
+      },
+      {
+        "preview": "It seems like things may have reached a whole new level of crazy in Utah. Trestin Meacham, a 35-year-old Utah man, is allegedly refusing to eat anything until the state nullifies its recent decision t...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/2014/01/03/utah-hunger-strike-gay-marriage_n_4537434.html?utm_hp_ref=gay-voices"
+      }
+    ]
+  }
+}

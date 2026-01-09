@@ -1,0 +1,36 @@
+{
+  "month": "2012-05",
+  "total_articles": 95,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Moral and Ethical Debates Among Liberals and Conservatives",
+      "core_keywords": ["moral", "problem", "liberal", "conservative", "individual", "kill", "choose", "study"],
+      "importance_ratio": 2.11
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2012 Obama vs Romney Presidential Campaign",
+      "core_keywords": ["obama", "romney", "president", "republican", "campaign", "vote", "election", "paul", "democrat"],
+      "importance_ratio": 47.37
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Government Policy, Tax and Economy",
+      "core_keywords": ["government", "tax", "money", "policy", "american", "state", "political", "bank"],
+      "importance_ratio": 30.53
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Conservative Views on Gay Marriage and Religion",
+      "core_keywords": ["gay marriage", "conservative", "religion", "hate", "utah", "church", "activist", "black"],
+      "importance_ratio": 4.21
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Obama's Birthplace Controversy",
+      "core_keywords": ["obama", "born", "kenya", "hawaii", "fact", "america", "president", "data"],
+      "importance_ratio": 15.79
+    }
+  ]
+}

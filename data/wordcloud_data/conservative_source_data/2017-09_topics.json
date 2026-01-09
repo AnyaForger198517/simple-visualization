@@ -1,0 +1,285 @@
+{
+  "month": "2017-09",
+  "total_articles": 163,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "trump",
+        "player",
+        "nfl",
+        "advertisement",
+        "ha",
+        "national",
+        "sport",
+        "smith",
+        "bannon",
+        "steve",
+        "gillespie",
+        "game",
+        "anthem",
+        "twitter"
+      ],
+      "topic_weights": [
+        190.53999318610053,
+        146.19621916227115,
+        97.812765428742,
+        94.6092740952966,
+        93.90532052079111,
+        84.70746288449838,
+        75.72407252114154,
+        71.78956806414506,
+        70.53475182281562,
+        70.4510925192498,
+        70.119658037379,
+        65.05981002158516,
+        64.83215969211685,
+        63.97548140883231,
+        61.94443587254747
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "news",
+        "mccain",
+        "google",
+        "search",
+        "hurricane",
+        "tech",
+        "climate",
+        "daca",
+        "fox",
+        "term",
+        "ha",
+        "wa",
+        "policy",
+        "change",
+        "million"
+      ],
+      "topic_weights": [
+        47.57364995585839,
+        27.503346406765875,
+        25.31530399410648,
+        20.622004631563275,
+        17.28289667756053,
+        17.06476506255595,
+        16.926764835515737,
+        16.899382631145816,
+        16.41971996705987,
+        16.130196800319233,
+        15.45421450720519,
+        14.417064681272956,
+        14.226802669574433,
+        14.069827231407148,
+        13.853509176537422
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "state",
+        "ha",
+        "president",
+        "republican",
+        "government",
+        "american",
+        "election",
+        "conservative",
+        "federal",
+        "democrat",
+        "law",
+        "tax",
+        "party"
+      ],
+      "topic_weights": [
+        379.79881176887346,
+        349.87814329982524,
+        267.83294481865784,
+        169.66156339230162,
+        166.89039597418008,
+        156.11893450979048,
+        149.44770995969415,
+        121.04231356866202,
+        117.45186083487297,
+        109.40981384598544,
+        108.34651503470741,
+        105.63268825395186,
+        98.13955223605097,
+        97.66787560120537,
+        96.9624215586004
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "black",
+        "white",
+        "buckley",
+        "american",
+        "ha",
+        "america",
+        "school",
+        "right",
+        "baldwin",
+        "student",
+        "life",
+        "old",
+        "argument",
+        "conservative"
+      ],
+      "topic_weights": [
+        425.3273048954261,
+        195.4615454629871,
+        192.38813282948632,
+        151.28203832290734,
+        123.92210789442595,
+        123.330359358273,
+        118.31206307445045,
+        102.91536584213789,
+        102.14311409426949,
+        98.56944623215459,
+        87.83571080024494,
+        78.96680840325958,
+        78.16060846421404,
+        78.04196490286269,
+        75.84446311439429
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "nuclear",
+        "north",
+        "wa",
+        "korea",
+        "ha",
+        "war",
+        "president",
+        "world",
+        "missile",
+        "kim",
+        "united",
+        "defense",
+        "nation",
+        "state",
+        "weapon"
+      ],
+      "topic_weights": [
+        119.72596355874423,
+        104.83552331254168,
+        86.00916719082517,
+        85.87211192189574,
+        83.82603723103679,
+        61.30979193794476,
+        52.68945767439174,
+        52.148717041838275,
+        48.30991346740509,
+        45.31914352679777,
+        45.17839459568156,
+        43.69753729080519,
+        42.85079481971627,
+        42.08376628006145,
+        38.1333968983179
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 19,
+    "2": 78,
+    "3": 29,
+    "0": 27,
+    "1": 10
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement Cesar Vargas is an attorney, the first illegal alien to become a licensed attorney in the Empire State. He said that DACA recipients are “earning an opportunity to be in this country.” P...",
+        "upvotes": 294,
+        "url": "http://www.thegatewaypundit.com/2017/09/tucker-carlson-rips-dreamer-dont-americans-right-determine-comes-country-video/"
+      },
+      {
+        "preview": "Advertisement Join us tomorrow at @CosechaMovement‘s DACA Fights Back Rally, 5:30pm at Trump Tower, Madison Ave & E 58th St  pic.twitter.com/LjaLgcmLDv — New York City DSA 🌹 (@nycDSA) September 4, 201...",
+        "upvotes": 231,
+        "url": "http://www.thegatewaypundit.com/2017/09/calling-ice-officers-illegal-aliens-plan-tuesday-mass-protest-trump-tower/"
+      },
+      {
+        "preview": "Advertisement In a recent interview with New York Magazine New York City Mayor Bill de Blasio opened up about his feelings for Communist policy. Advertisement - story continues below Mayor de Blasio d...",
+        "upvotes": 17,
+        "url": "http://www.thegatewaypundit.com/2017/09/bill-de-blasio-goes-full-commie-argues-private-property-rights/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "John Moore/Getty Images Wake Forest University promised in a Monday statement to continue giving financial aid to illegal immigrant students. The university offered counseling services and safe spaces...",
+        "upvotes": 13,
+        "url": "http://dailycaller.com/2017/09/05/university-pledges-to-keep-giving-financial-aid-to-illegal-immigrant-students/?utm_source=Twitter&utm_medium=Social&utm_campaign=atthedceducation"
+      },
+      {
+        "preview": "In a preview of Sunday’s 60 Minutes interview with former White House chief strategist Stephen K. Bannon, CBS released a segment in which Bannon is asked a question by Charlie Rose that no one in the ...",
+        "upvotes": 28,
+        "url": "http://www.breitbart.com/big-government/2017/09/07/nolte-u-s-conference-bishops-absurd-response-steve-bannons-60-minutes-interview/"
+      },
+      {
+        "preview": "(.com) – FEMA Director Brock Long, in a Friday morning update, told a news conference there’s no question that Hurricane Irma will devastate parts of the souheastern United States: “Obviously, Hurrica...",
+        "upvotes": 5,
+        "url": "https://www.cnsnews.com/news/article/susan-jones/fema-director-irma-going-devastate-united-states-starting-florida"
+      }
+    ],
+    "2": [
+      {
+        "preview": "In an effort to oppose President Donald Trump’s possible repeal of Barack Obama’s amnesty program, DACA, Facebook CEO Mark Zuckerberg posted an emotional fact about illegal immigrant “dreamers.” Howev...",
+        "upvotes": 9,
+        "url": "http://madworldnews.com/zuckerberg-trump-illegal-immigration/"
+      },
+      {
+        "preview": "The next time you want to tweet something about how much you hate paying taxes, or what you did with your huge tax refund, you might want to rethink it. An article from Washington State University pro...",
+        "upvotes": 4,
+        "url": "http://lifehacker.com/the-irs-is-probably-looking-at-your-dumb-tax-tweets-1798658695"
+      },
+      {
+        "preview": "Friday on Fox News Channel program, host Tucker Carlson criticized Republican members of the House and Senate that were opposed to the possible rollback of President Barack Obama’s Deferred Action for...",
+        "upvotes": 67,
+        "url": "http://www.breitbart.com/video/2017/09/01/carlson-gop-opposition-daca-rollback-show-affinity-obama-policies-trumps/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Photo credit: AMY OSBORNE/AFP/Getty Images Public school teachers are behind a leading far-left militant group that is part of the Antifa network that federal officials say is committing “domestic ter...",
+        "upvotes": 48,
+        "url": "http://dailycaller.com/2017/09/01/public-school-teachers-behind-violent-antifa-group/"
+      },
+      {
+        "preview": "Those who follow labor union issues likely remember the disappointing conclusion in March of 2016 to the case of Friedrichs v. California Teachers Association. Friedrichs had sought to stop the mandat...",
+        "upvotes": 12,
+        "url": "https://hotair.com/archives/2017/09/02/public-sector-unions-beginning-panic/"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 9,
+        "url": "https://www.newsbusters.org/blogs/nb/brad-wilmouth/2017/09/03/mitchell-shocking-big-mistake-trump-warn-against-nk-appeasement"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A Dutch nuclear research institute is conducting the first experiment in close to five decades on molten-salt nuclear reactors based on thorium. Long hailed as a potential \"safer\" nuclear power, thori...",
+        "upvotes": 13,
+        "url": "https://www.engadget.com/2017/08/28/thorium-reactor-experiment/"
+      },
+      {
+        "preview": "Remind me again why we have to keep relying on the United Nations for all of this? Part of the widely criticized deal that Barack Obama struck with Iran over their nuclear weapons program stipulates t...",
+        "upvotes": 3,
+        "url": "http://hotair.com/archives/2017/08/31/u-n-want-inspect-sites-iran/"
+      },
+      {
+        "preview": "Advertisement Supported by By Oleg Matsnev MOSCOW — President Vladimir V. Putin seemed to be in top form during a news conference in China on Tuesday, answering a question about President Trump by say...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2017/09/05/world/europe/vladimir-putin-donald-trump.html"
+      }
+    ]
+  }
+}

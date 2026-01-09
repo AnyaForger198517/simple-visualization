@@ -1,0 +1,285 @@
+{
+  "month": "2012-10",
+  "total_articles": 83,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "tax",
+        "corporate",
+        "wage",
+        "result",
+        "state",
+        "page",
+        "worker",
+        "percent",
+        "capitalism",
+        "reload",
+        "marriage",
+        "labor",
+        "reason",
+        "rate",
+        "socialism"
+      ],
+      "topic_weights": [
+        53.019606427476354,
+        39.340278168396416,
+        34.39798756981981,
+        24.35090638053668,
+        23.896945379600478,
+        21.442392707064517,
+        20.61414759302476,
+        19.4481928035154,
+        17.27229816385522,
+        17.084896527245526,
+        17.070083936790393,
+        14.464066275778611,
+        14.230022860998957,
+        13.457844873990222,
+        13.449917409838461
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "democrat",
+        "federal",
+        "congress",
+        "wa",
+        "policy",
+        "ha",
+        "government",
+        "president",
+        "crisis",
+        "bush",
+        "pay",
+        "rate",
+        "budget",
+        "fed",
+        "school"
+      ],
+      "topic_weights": [
+        56.54220670823532,
+        46.52074525371215,
+        39.517431264145884,
+        36.35939476184227,
+        27.500231534278416,
+        25.93248437096666,
+        25.179675065052095,
+        23.583696638336516,
+        23.18943562882334,
+        22.885752392875386,
+        22.712112207440402,
+        22.419053543090403,
+        21.775646615798333,
+        21.731613734972427,
+        21.598523823428536
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "obama",
+        "wa",
+        "romney",
+        "ha",
+        "president",
+        "clinton",
+        "state",
+        "campaign",
+        "american",
+        "security",
+        "debate",
+        "did",
+        "election",
+        "attack",
+        "barack"
+      ],
+      "topic_weights": [
+        540.3493275269775,
+        395.42386619355256,
+        181.8477397468241,
+        164.74965293560697,
+        163.896336636236,
+        157.07696740640458,
+        145.51196998023866,
+        110.54744594552679,
+        85.10304324330224,
+        82.07259258994252,
+        74.13405705098361,
+        73.61851140941727,
+        67.63569605368342,
+        63.100251526984025,
+        61.75300332783216
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "percent",
+        "romney",
+        "poll",
+        "voter",
+        "obama",
+        "ha",
+        "candidate",
+        "campaign",
+        "republican",
+        "woman",
+        "president",
+        "state",
+        "election",
+        "likely",
+        "vote"
+      ],
+      "topic_weights": [
+        67.8289575369849,
+        63.5243485973361,
+        47.677091768587196,
+        46.641635785656845,
+        44.35887558169613,
+        38.09502096158024,
+        36.864226225549146,
+        32.88827275497487,
+        31.088547467436968,
+        30.697967823004998,
+        26.373414983732296,
+        23.76024689300305,
+        23.370189025285853,
+        22.734095169727233,
+        20.35801832187408
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "romney",
+        "ha",
+        "obama",
+        "budget",
+        "debate",
+        "defense",
+        "mitt",
+        "army",
+        "business",
+        "money",
+        "pentagon",
+        "wa",
+        "abortion",
+        "contractor",
+        "bain"
+      ],
+      "topic_weights": [
+        85.33750184908779,
+        29.282669955883478,
+        24.900891236784517,
+        24.620717234007376,
+        23.154865275438347,
+        22.771906632973085,
+        20.646142140627862,
+        19.785160303036644,
+        17.753045685926725,
+        17.6508736626541,
+        16.9401177686842,
+        16.732671882277895,
+        16.227031002118363,
+        15.143645315818606,
+        14.313290100512681
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 9,
+    "2": 53,
+    "1": 8,
+    "0": 8,
+    "4": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "st policies, Democrats will restrict Americans’ access to life-improving and life-saving medicines. Hundreds of new cures will not be developed in the future which will harm American patients and the ...",
+        "upvotes": 2,
+        "url": "http://www.atr.org/top-five-obama-biden-tax-hikes-a7223"
+      },
+      {
+        "preview": "If you want this website to work, you must enable javascript. A public notary in Brazil has registered a three-person partnership as a legally recognized civil union . Brazilians are waiting to see ho...",
+        "upvotes": 13,
+        "url": "http://www.firstthings.com/blogs/firstthoughts/2012/08/29/legally-recognized-multi-partner-unions-why-not/"
+      },
+      {
+        "preview": "Results for {phrase} ({results_count} of {results_count_total}) Displaying {results_count} results of {results_count_total} More results... ...",
+        "upvotes": 9,
+        "url": "http://www.thenewamerican.com/usnews/politics/item/13115-nearly-2400-millionaires-collect-unemployment-benefits-in-2009"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. Lindsey GrahamLindsey Olin GrahamFlorida Democrat becomes latest breakthrough COVID-19 case in House Graham says US 'will be going back' to Afgh...",
+        "upvotes": 29,
+        "url": "http://thehill.com/blogs/defcon-hill/industry/259517-graham-says-hell-block-reimbursements-in-layoff-notice-fight"
+      },
+      {
+        "preview": "An official website of the United States government Here is how you know The .gov means it's official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make...",
+        "upvotes": 16,
+        "url": "http://www.bls.gov/news.release/empsit.t02.htm"
+      },
+      {
+        "preview": "By Leon Watson Published: 19:28 EDT, 16 October 2012 | Updated: 04:08 EDT, 17 October 2012 129 View comments Children in France already have lessons just four days a week. And they get two hours each ...",
+        "upvotes": 7,
+        "url": "http://www.dailymail.co.uk/news/article-2218820/Sorry-kids-France-President-Hollande-plans-ban-homework-education-reforms.html?ITO=1490"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Bay City, Michigan Teachers can come to work drunk five times before they are fired. They can even sell drugs to kids and not get fired. Page 92 of the Bay City, Michigan Public Schools ...",
+        "upvotes": 1,
+        "url": "http://www.thegatewaypundit.com/2012/10/contract-allows-teachers-to-be-drunk-5-times-on-drugs-3-times-before-being-fired/"
+      },
+      {
+        "preview": "With a population of just over half a million and an unemployment rate of 3%, politics plays out differently in North Dakota. Issues that don’t resonate with voters on a national stage, like the failu...",
+        "upvotes": 5,
+        "url": "http://townhall.com/tipsheet/mallorycarr/2012/10/02/north_dakota_senate_race_still_in_the_air"
+      },
+      {
+        "preview": "Mitt Romney has softened his position on immigration, promising for the first time to honour changes introduced in the summmer by Barack Obama that offer temporary visas to undocumented young people b...",
+        "upvotes": 5,
+        "url": "http://www.guardian.co.uk/world/2012/oct/02/mitt-romney-immigration-stance-obama-visa"
+      }
+    ],
+    "3": [
+      {
+        "preview": "President Barack Obama in Golden, Colo., on Sept, 13, 2012. (AP Photo/Carolyn Kaster) (.com) – U.S. government employees and their families have thus far contributed $396,550 to President Barack Obama...",
+        "upvotes": 12,
+        "url": "http://cnsnews.com/news/article/us-govt-employees-among-top-campaign-contributors-obama-bankers-among-top-contributors"
+      },
+      {
+        "preview": "Filed under: SALT LAKE CITY — Saratoga Springs Mayor Mia Love has overcome a double-digit deficit to overtake Rep. Jim Matheson in Utah's hotly contested 4th Congressional District, the latest Deseret...",
+        "upvotes": 11,
+        "url": "http://www.deseretnews.com/article/865563581/Latest-poll-Mia-Love-pulls-ahead-of-Jim-Matheson-4th-District.html"
+      },
+      {
+        "preview": "Senior Republican figures attempted to downplay the role of money in the presidential race Sunday, as Barack Obama embarked on a new push for funds having already announced a record monthly haul. Spea...",
+        "upvotes": 1,
+        "url": "http://www.guardian.co.uk/world/2012/oct/07/republicans-downplay-obama-fundraising"
+      }
+    ],
+    "4": [
+      {
+        "preview": "As expected on his Friday night HBO program, Bill Maher attempted to poke holes in Ann Coulter’s new book, “Mugged: Racial Demagoguery from the Seventies to Obama,” by offering quotes and expecting he...",
+        "upvotes": 23,
+        "url": "http://dailycaller.com/2012/10/13/coulter-spars-with-maher-says-hbo-host-misinformed-by-watching-msnbc/"
+      },
+      {
+        "preview": "By Michael Barone - October 25, 2012 Back in May, I wrote a column laying out possible scenarios for the 2012 campaign different from the conventional wisdom that it would be a long, hard slog through...",
+        "upvotes": 9,
+        "url": "http://www.realclearpolitics.com/articles/2012/10/25/suburbs_swing_to_debate-tested_romney.html"
+      },
+      {
+        "preview": "Back in May, I wrote a column laying out possible scenarios for the 2012 campaign different from the conventional wisdom that it would be a long, hard slog through a fixed list of target states like t...",
+        "upvotes": 5,
+        "url": "http://townhall.com/columnists/michaelbarone/2012/10/25/affluent_suburbs_swing_to_debatetested_romney"
+      }
+    ]
+  }
+}

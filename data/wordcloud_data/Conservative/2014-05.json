@@ -1,0 +1,36 @@
+{
+  "month": "2014-05",
+  "total_articles": 80,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Healthcare policy and Obamacare",
+      "core_keywords": ["health", "care", "obamacare", "medical", "drug", "tax"],
+      "importance_ratio": 8.75
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gun rights and national identity",
+      "core_keywords": ["gun", "military", "america", "republican", "conservative"],
+      "importance_ratio": 6.25
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Federal governance and partisan politics",
+      "core_keywords": ["obama", "president", "republican", "democrat", "tax", "government"],
+      "importance_ratio": 58.75
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Election rules and partisan competition",
+      "core_keywords": ["law", "voter", "clinton", "gop", "school", "state"],
+      "importance_ratio": 20.00
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social equality and internet policy",
+      "core_keywords": ["internet", "fcc", "inequality", "school", "service", "life"],
+      "importance_ratio": 6.25
+    }
+  ]
+}

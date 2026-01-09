@@ -1,0 +1,36 @@
+{
+  "month": "2011-12",
+  "total_articles": 71,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Huntsman's Conservative Campaign and Economic Policy",
+      "core_keywords": ["huntsman", "conservative", "campaign", "republican", "economic", "tax", "obama"],
+      "importance_ratio": 0.0423
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Ron Paul's Republican Primary Election and Voter Issues",
+      "core_keywords": ["paul", "republican", "voter", "election", "vote", "fraud", "primary"],
+      "importance_ratio": 0.1831
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Obama and Republican Presidential Campaign Dynamics",
+      "core_keywords": ["obama", "republican", "president", "campaign", "election", "american", "gingrich"],
+      "importance_ratio": 0.7183
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US-Iran Geopolitics and Government Interventions",
+      "core_keywords": ["iran", "coup", "oil", "government", "cia", "american", "drone"],
+      "importance_ratio": 0.0423
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Republican Conservatism and Ron Paul's Political Ideology",
+      "core_keywords": ["republican", "paul", "conservatism", "liberty", "politics", "establishment", "war"],
+      "importance_ratio": 0.0141
+    }
+  ]
+}

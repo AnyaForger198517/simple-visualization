@@ -1,0 +1,285 @@
+{
+  "month": "2015-09",
+  "total_articles": 261,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "clinton",
+        "hillary",
+        "state",
+        "ha",
+        "woman",
+        "president",
+        "email",
+        "law",
+        "department",
+        "health",
+        "issue",
+        "american",
+        "public",
+        "biden"
+      ],
+      "topic_weights": [
+        514.926089809437,
+        346.9334961538429,
+        293.2190276699883,
+        253.49522853103676,
+        240.2149400564505,
+        201.414984694786,
+        194.0078557901143,
+        171.95838375373202,
+        168.6952944451579,
+        122.74484965159652,
+        116.9288998905342,
+        116.51721495819632,
+        109.02348311488632,
+        107.51935965343502,
+        105.29295479997485
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "vote",
+        "rubio",
+        "trump",
+        "republican",
+        "senate",
+        "mcconnell",
+        "ha",
+        "gop",
+        "conservative",
+        "planned",
+        "parenthood",
+        "democrat",
+        "boehner",
+        "government",
+        "party"
+      ],
+      "topic_weights": [
+        363.5234615571359,
+        292.321597407769,
+        290.61097043961047,
+        288.9001527048055,
+        282.6398260871495,
+        261.54016310672955,
+        248.2164950217254,
+        241.9923496679202,
+        239.78604552389646,
+        209.15804413932037,
+        208.5279624110296,
+        203.63274305492183,
+        190.99613794997234,
+        153.64948634387514,
+        152.5798553971729
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ice",
+        "model",
+        "sea",
+        "arctic",
+        "wa",
+        "climate",
+        "ha",
+        "point",
+        "warming",
+        "science",
+        "water",
+        "global",
+        "level",
+        "change",
+        "ocean"
+      ],
+      "topic_weights": [
+        251.28819239563785,
+        165.48513794976557,
+        144.95589345552614,
+        129.82503313245905,
+        105.81256316832668,
+        100.53254898592009,
+        72.50348225781465,
+        69.96214596259694,
+        59.95421532537339,
+        57.41380828528963,
+        55.2558142434863,
+        54.6454942137095,
+        52.77529863708822,
+        50.94920654260013,
+        47.0243987465959
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "ha",
+        "school",
+        "wa",
+        "state",
+        "american",
+        "country",
+        "government",
+        "world",
+        "refugee",
+        "percent",
+        "report",
+        "policy",
+        "obama",
+        "united",
+        "million"
+      ],
+      "topic_weights": [
+        230.39423496239058,
+        180.36294272859408,
+        171.99005612692835,
+        169.83400647021125,
+        161.30356891494552,
+        140.09677185721333,
+        108.53048755679583,
+        107.92121273788717,
+        103.38650131551614,
+        91.34423774557735,
+        89.274319091857,
+        84.2850556231134,
+        82.67831554005942,
+        82.27353821046206,
+        81.92696608960732
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "black",
+        "white",
+        "community",
+        "cop",
+        "wa",
+        "life",
+        "problem",
+        "racism",
+        "clock",
+        "kid",
+        "coates",
+        "crime",
+        "racist",
+        "matter",
+        "ahmed"
+      ],
+      "topic_weights": [
+        774.6692667004751,
+        398.3266538675352,
+        237.01693360268308,
+        219.81527850106556,
+        208.42351000044462,
+        187.6977916595734,
+        174.17265905768565,
+        173.50301419768496,
+        145.14481548470025,
+        143.3318939740538,
+        131.34020337163093,
+        130.03750924495412,
+        118.74697952250249,
+        115.95123573250373,
+        109.36833114906541
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 83,
+    "2": 6,
+    "0": 116,
+    "1": 50,
+    "4": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Vester Flanagan, the former WDBJ reporter who went by the name Bryce Williams and killed two of his former colleagues on-air yesterday morning before taking his own life, wrote in his manifesto that h...",
+        "upvotes": 58,
+        "url": "http://www.mediaite.com/online/don-lemon-yes-wdbj-shooter-was-racist/"
+      },
+      {
+        "preview": "ST. PAUL, Minn. (WCCO) — Traffic disruptions and loud messages aren’t the only things memorable about Saturday’s Black Lives Matter march to the gates of the Minnesota State Fair. One of the chants he...",
+        "upvotes": 80,
+        "url": "http://minnesota.cbslocal.com/2015/08/30/black-lives-matter-chant-called-disgusting-by-police-leader/"
+      },
+      {
+        "preview": "HOUSTON, Texas – Armed Black Panther members marched in front of the Waller County jail and shouted, “You’re gonna stop doing what you’re doing, or we will start creeping up on you in the darkness.” T...",
+        "upvotes": 4,
+        "url": "http://www.breitbart.com/texas/2015/08/31/armed-black-panthers-to-texas-cops-we-will-start-creeping-up-on-you-in-the-darkness"
+      }
+    ],
+    "1": [
+      {
+        "preview": "CARLY for America, an organization supporting GOP presidential candidate Carly Fiorina, is calling on supporters to sign a petition to protest the Republican National Committee (RNC) and CNN over the ...",
+        "upvotes": 1,
+        "url": "http://www.breitbart.com/big-government/2015/08/31/carly-for-america-rnc-stands-with-clinton-news-network-not-conservatives/"
+      },
+      {
+        "preview": "ESSEX - Presidential candidate Rand Paul spent much of his visit to Vermont arguing that defending the U.S. Constitution sets him apart from rivals Donald Trump, Hillary Clinton and Jeb Bush. Calling ...",
+        "upvotes": 196,
+        "url": "http://www.burlingtonfreepress.com/story/news/politics/2015/08/31/rand-paul-rallies-vermont-gop/71496046/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved President Obama has enough support in the Senate to save his nuclear deal with Iran. Forty-two Democratic senators, including two independents who ca...",
+        "upvotes": 12,
+        "url": "http://thehill.com/blogs/floor-action/senate/247956-the-hills-whip-list-senators-take-sides-on-iran-deal"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ABC News ran a news special in 2009 called Earth 2100, a program warning its viewers about the dangers of climate change. ABC News correspondent Bob Woodruff says the show “puts participants in the fu...",
+        "upvotes": 7,
+        "url": "http://dailycaller.com/2015/08/29/flashback-abc-news-envisioned-apocalyptic-world-triggered-by-climate-change-video/#ixzz3kGG02y3L"
+      },
+      {
+        "preview": "President Obama’s hike up the rapidly melting Exit Glacier today has run into some unfortunate buzzkill: reality. The hike is supposed to be the high point of this week’s trip to Alaska, undertaken fo...",
+        "upvotes": 0,
+        "url": "http://www.breitbart.com/big-government/2015/09/01/whats-really-melting-obamas-alaskan-lies/"
+      },
+      {
+        "preview": "Putting Up the Flag Dog Food Nutrition for Your Dog Having a dog as part of your life is one of the most rewarding experiences that any human being can enjoy. Dogs are faithful and able to smooth out ...",
+        "upvotes": 17,
+        "url": "http://puttinguptheflag.com"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Danny Chasteen and his girlfriend, Susan Rick, thought they had gotten their big break last month when Chasteen won $250,000 from the Illinois Lottery. Instead, they got an IOU. Read More What to do i...",
+        "upvotes": 26,
+        "url": "http://www.cnbc.com/2015/08/31/illinois-lottery-winners-receive-iou-amid-lack-of-budget.html"
+      },
+      {
+        "preview": "Posted at 1:38 pm on August 31, 2015 by Doug P. Having solved all other problems, President Obama, while in Alaska to save the world from “climate change,” will appear on a popular survival show: WH s...",
+        "upvotes": 43,
+        "url": "http://twitchy.com/2015/08/31/this-is-a-joke-right-obama-to-hone-outdoor-survival-skills-on-running-wild-with-bear-grylls/?utm_source=twfbp&utm_medium=fbpage&utm_campaign=twupdate"
+      },
+      {
+        "preview": "The month of August can be pretty rough for stock investors. But this August has earned its place in the record books, as stocks were unsettled by uncertainty over the state of affairs in the world’s ...",
+        "upvotes": 17,
+        "url": "http://www.marketwatch.com/story/dow-posts-worst-august-decline-in-17-years-2015-08-31"
+      }
+    ],
+    "4": [
+      {
+        "preview": "SEARCH High crime is good for Republican political prospects—and, with murder rates increasing nationwide, that should have Democrats worried about 2016. From New York to Chicago, Baltimore to New Orl...",
+        "upvotes": 1,
+        "url": "http://www.thedailybeast.com/articles/2015/09/07/will-a-spike-in-crime-help-the-gop.html"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Zero Tolerance Robby Soave | 9.16.2015 5:05 PM Irving, Texas, ninth-grader Ahmed Muhamed brought a harmless, homemade clock to school to...",
+        "upvotes": 612,
+        "url": "https://reason.com/blog/2015/09/16/liberals-making-istandwithahmed-about-ra"
+      },
+      {
+        "preview": "A moderator of /r/Europe, Reddit’s largest forum for Europeans, is horrified that its users are discussing the issue of the moment — refugees and immigration. Reddit works on the basis of popularity. ...",
+        "upvotes": 4,
+        "url": "http://ace.mu.nu/archives/359142.php"
+      }
+    ]
+  }
+}

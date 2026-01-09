@@ -1,0 +1,275 @@
+{
+  "month": "2012-04",
+  "total_articles": 103,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "poverty",
+        "child",
+        "family",
+        "percent",
+        "million",
+        "social",
+        "assistance",
+        "detainee",
+        "ice",
+        "income",
+        "homeless",
+        "center",
+        "wa",
+        "week",
+        "county"
+      ],
+      "topic_weights": [
+        828.1590953984322,
+        721.0833082575059,
+        649.2955108532159,
+        427.1699460999449,
+        413.1738268820081,
+        363.4697233028327,
+        307.4274309454553,
+        299.96410540176754,
+        296.7667964465595,
+        290.7329915194746,
+        280.64418096367933,
+        242.73243718437965,
+        229.63720905430898,
+        228.64964564964643,
+        208.73127231135146
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "canal",
+        "board",
+        "love",
+        "school",
+        "brown",
+        "ha",
+        "property",
+        "state",
+        "waste",
+        "city",
+        "warren",
+        "public",
+        "company",
+        "work"
+      ],
+      "topic_weights": [
+        239.57890205018543,
+        152.079549130215,
+        138.75041372802409,
+        92.04085562116701,
+        89.85189493104227,
+        88.0452829952408,
+        83.06979750357796,
+        77.96505671963862,
+        53.48620610739871,
+        48.958046400782884,
+        48.58327036106619,
+        44.88242441039273,
+        42.72398069464612,
+        40.33098631106333,
+        38.13308511777375
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "woman",
+        "tax",
+        "state",
+        "ha",
+        "mother",
+        "jones",
+        "game",
+        "wa",
+        "walker",
+        "service",
+        "today",
+        "journalism",
+        "pay",
+        "policy",
+        "federal"
+      ],
+      "topic_weights": [
+        400.8438896461093,
+        216.23286350764613,
+        206.9006196806309,
+        172.4823775996974,
+        148.03824953996002,
+        143.01840519320245,
+        121.80379604581738,
+        117.22283483316217,
+        108.98034146715695,
+        107.32344744644452,
+        95.71024763348662,
+        90.86225840366241,
+        89.3406226069896,
+        88.70633044259515,
+        88.19898127979083
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "warren",
+        "brown",
+        "wa",
+        "massachusetts",
+        "democratic",
+        "state",
+        "republican",
+        "ha",
+        "bank",
+        "work",
+        "campaign",
+        "family",
+        "voter",
+        "middle",
+        "independent"
+      ],
+      "topic_weights": [
+        1523.0139751830748,
+        1330.9773656743885,
+        1295.5115503205218,
+        514.2736637714376,
+        494.0802701877037,
+        491.85678411643977,
+        465.019746913699,
+        458.87765158184436,
+        429.48778405404863,
+        418.3358129302221,
+        409.233572224557,
+        390.47405931190474,
+        372.34274872904706,
+        358.1133323960373,
+        356.935763264157
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "romney",
+        "obama",
+        "ha",
+        "republican",
+        "conservative",
+        "american",
+        "liberal",
+        "voter",
+        "president",
+        "state",
+        "government",
+        "campaign",
+        "vote",
+        "political"
+      ],
+      "topic_weights": [
+        337.67024554278265,
+        235.4188673556838,
+        230.45825490442593,
+        229.05072348810933,
+        222.94636301673592,
+        182.82009844146438,
+        170.1904356980138,
+        154.6348178514581,
+        150.27565891005244,
+        133.44176073124652,
+        133.11109576551686,
+        131.14085773286226,
+        129.06550233136312,
+        117.9536015566418,
+        116.25756996280265
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 58,
+    "2": 36,
+    "1": 4,
+    "3": 1,
+    "0": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "This is a teen-written article from our friends at L.A. Youth, a nonprofit organization that helps teens advocate for themselves through journalism, literacy and civic engagement. By Precious Sims, 18...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/2012/04/10/foster-youth-in-californi_n_1415629.html"
+      },
+      {
+        "preview": "ncluding director John Morton, while Georgia politicians held phone conferences with ICE. Trying to work out a deal that would satisfy both states, ICE officials passed e-mails back and forth. The iss...",
+        "upvotes": 2,
+        "url": "http://www.thenation.com/article/167312/how-one-georgia-town-gambled-its-future-immigration-detention"
+      },
+      {
+        "preview": "The AFL-CIO has released its CEO Paywatch with 2011 data. So how do CEOs stack up against ordinary workers? Well, the average CEO of a company on the S&P 500 Index earned 380 times the average America...",
+        "upvotes": 27,
+        "url": "http://www.dailykos.com/story/2012/04/19/1084681/-CEOs-at-top-companies-earned-380-times-the-average-worker-s-income-in-2011"
+      }
+    ],
+    "1": [
+      {
+        "preview": "at it should not be used for the erection of any structures\"; nor that the School Board was nevertheless \"so desirous of acquiring the same\" that its representatives had brought up the option of conde...",
+        "upvotes": 2,
+        "url": "http://reason.com/archives/1981/02/01/love-canal/singlepage"
+      },
+      {
+        "preview": "Visit  Photo for our unfiltered take on photography, photographers, and photographic journalism wrd.cm/1IEnjUH A top adviser to former Secretary of State Condoleezza Rice warned the Bush administratio...",
+        "upvotes": 2,
+        "url": "http://www.wired.com/dangerroom/?p=77573"
+      },
+      {
+        "preview": "Follow @Newsfeed Finally, a sanctuary for the anti-fun. The city of Weston, Fla., has officially banned nightclubs, dance halls and even skating rinks, presumably lest they serve as fronts for secret ...",
+        "upvotes": 3,
+        "url": "http://newsfeed.time.com/2012/04/14/florida-town-bans-nightclubs-skating-rinks-in-attempt-to-lower-crime/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "From colonial times, enterprising Americans have used a tried-and-true method to enslave immigrants: You find desperate people in some other country and offer to pay their passage. When they get here,...",
+        "upvotes": 3,
+        "url": "http://weeklysift.com/2012/04/02/student-debt-the-new-involuntary-servitude/"
+      },
+      {
+        "preview": "This is beyond bizarre. A three-judge panel of the 5th Circuit Court is hearing a challenge to Obamacare, but when a Justice Department lawyer began arguments this morning she was stopped short: Appea...",
+        "upvotes": 0,
+        "url": "http://motherjones.com/kevin-drum/2012/04/fifth-circuit-judges-now-full-wingnut-mode"
+      },
+      {
+        "preview": "One of the more recent efforts has been the outlawing of abortions after 20 weeks. Alabama, Indiana, Kansas, Oklahoma and Idaho all enacted laws in 2011 prohibiting abortion after 20 weeks of gestatio...",
+        "upvotes": 47,
+        "url": "http://www.dailykos.com/story/2012/04/03/1080333/-Holy-moly-Virgins-can-get-pregnant-if-Arizona-s-retroactive-conception-provision-turns-into-law"
+      }
+    ],
+    "3": [
+      {
+        "preview": "TARP), she crisply grilled Treasury Secretary Timothy Geithner. And once she proposed a Consumer Financial Protection Bureau, she became a populist folk hero for progressives eager to rein in Wall Str...",
+        "upvotes": 3,
+        "url": "http://www.thenation.com/article/167197/elizabeth-warren-yes-she-can"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Keith Olbermann has been fired by Current TV, the network announced Friday. He will be replaced by former New York governor and CNN host Eliot Spitzer. Olbermann had hosted \"Countdown,\" which he broug...",
+        "upvotes": 0,
+        "url": "http://www.huffingtonpost.com/2012/03/30/keith-olbermann-out-current-eliot-spitzer_n_1392513.html"
+      },
+      {
+        "preview": "Advertisement Supported by By Trip Gabriel After presidential primaries or caucuses in 28 states, voters are sending a potentially troubling message to the Republican Party: We aren’t necessarily as e...",
+        "upvotes": 1,
+        "url": "http://www.nytimes.com/2012/03/31/us/politics/primary-turnout-could-signal-trouble-for-gop.html"
+      },
+      {
+        "preview": "SEARCH Keith Olbermann’s firing at Current TV could help the network and its former star, or cripple both, writes Rebecca Dana. It’s hard to know whom to root for in the coming legal showdown between ...",
+        "upvotes": 0,
+        "url": "http://www.thedailybeast.com/articles/2012/03/30/keith-olbermann-s-firing-at-current-tv-could-be-his-ruin-or-his-salvation.html"
+      }
+    ]
+  }
+}

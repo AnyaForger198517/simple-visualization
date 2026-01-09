@@ -1,0 +1,972 @@
+{
+    "2008": {
+        "2": {
+            "post_count": 3,
+            "total_upvotes": 3,
+            "total_comments": 0,
+            "date_format_example": "2008-02-01"
+        },
+        "9": {
+            "post_count": 2,
+            "total_upvotes": 1,
+            "total_comments": 0,
+            "date_format_example": "2008-09-01"
+        },
+        "10": {
+            "post_count": 2,
+            "total_upvotes": 0,
+            "total_comments": 0,
+            "date_format_example": "2008-10-01"
+        },
+        "11": {
+            "post_count": 12,
+            "total_upvotes": 15,
+            "total_comments": 10,
+            "date_format_example": "2008-11-01"
+        },
+        "12": {
+            "post_count": 2,
+            "total_upvotes": 5,
+            "total_comments": 0,
+            "date_format_example": "2008-12-01"
+        }
+    },
+    "2009": {
+        "1": {
+            "post_count": 8,
+            "total_upvotes": 8,
+            "total_comments": 4,
+            "date_format_example": "2009-01-01"
+        },
+        "2": {
+            "post_count": 3,
+            "total_upvotes": 6,
+            "total_comments": 0,
+            "date_format_example": "2009-02-01"
+        },
+        "3": {
+            "post_count": 6,
+            "total_upvotes": 18,
+            "total_comments": 3,
+            "date_format_example": "2009-03-01"
+        },
+        "4": {
+            "post_count": 6,
+            "total_upvotes": 5,
+            "total_comments": 3,
+            "date_format_example": "2009-04-01"
+        },
+        "5": {
+            "post_count": 13,
+            "total_upvotes": 31,
+            "total_comments": 7,
+            "date_format_example": "2009-05-01"
+        },
+        "6": {
+            "post_count": 7,
+            "total_upvotes": 10,
+            "total_comments": 2,
+            "date_format_example": "2009-06-01"
+        },
+        "7": {
+            "post_count": 19,
+            "total_upvotes": 16,
+            "total_comments": 9,
+            "date_format_example": "2009-07-01"
+        },
+        "8": {
+            "post_count": 37,
+            "total_upvotes": 83,
+            "total_comments": 15,
+            "date_format_example": "2009-08-01"
+        },
+        "9": {
+            "post_count": 38,
+            "total_upvotes": 95,
+            "total_comments": 38,
+            "date_format_example": "2009-09-01"
+        },
+        "10": {
+            "post_count": 64,
+            "total_upvotes": 158,
+            "total_comments": 23,
+            "date_format_example": "2009-10-01"
+        },
+        "11": {
+            "post_count": 37,
+            "total_upvotes": 103,
+            "total_comments": 43,
+            "date_format_example": "2009-11-01"
+        },
+        "12": {
+            "post_count": 58,
+            "total_upvotes": 97,
+            "total_comments": 91,
+            "date_format_example": "2009-12-01"
+        }
+    },
+    "2010": {
+        "1": {
+            "post_count": 59,
+            "total_upvotes": 145,
+            "total_comments": 61,
+            "date_format_example": "2010-01-01"
+        },
+        "2": {
+            "post_count": 78,
+            "total_upvotes": 142,
+            "total_comments": 67,
+            "date_format_example": "2010-02-01"
+        },
+        "3": {
+            "post_count": 52,
+            "total_upvotes": 75,
+            "total_comments": 32,
+            "date_format_example": "2010-03-01"
+        },
+        "4": {
+            "post_count": 29,
+            "total_upvotes": 42,
+            "total_comments": 23,
+            "date_format_example": "2010-04-01"
+        },
+        "5": {
+            "post_count": 61,
+            "total_upvotes": 208,
+            "total_comments": 68,
+            "date_format_example": "2010-05-01"
+        },
+        "6": {
+            "post_count": 62,
+            "total_upvotes": 153,
+            "total_comments": 116,
+            "date_format_example": "2010-06-01"
+        },
+        "7": {
+            "post_count": 76,
+            "total_upvotes": 189,
+            "total_comments": 101,
+            "date_format_example": "2010-07-01"
+        },
+        "8": {
+            "post_count": 62,
+            "total_upvotes": 83,
+            "total_comments": 58,
+            "date_format_example": "2010-08-01"
+        },
+        "9": {
+            "post_count": 85,
+            "total_upvotes": 246,
+            "total_comments": 78,
+            "date_format_example": "2010-09-01"
+        },
+        "10": {
+            "post_count": 94,
+            "total_upvotes": 283,
+            "total_comments": 77,
+            "date_format_example": "2010-10-01"
+        },
+        "11": {
+            "post_count": 95,
+            "total_upvotes": 413,
+            "total_comments": 126,
+            "date_format_example": "2010-11-01"
+        },
+        "12": {
+            "post_count": 83,
+            "total_upvotes": 385,
+            "total_comments": 97,
+            "date_format_example": "2010-12-01"
+        }
+    },
+    "2011": {
+        "1": {
+            "post_count": 132,
+            "total_upvotes": 470,
+            "total_comments": 192,
+            "date_format_example": "2011-01-01"
+        },
+        "2": {
+            "post_count": 108,
+            "total_upvotes": 376,
+            "total_comments": 96,
+            "date_format_example": "2011-02-01"
+        },
+        "3": {
+            "post_count": 176,
+            "total_upvotes": 747,
+            "total_comments": 299,
+            "date_format_example": "2011-03-01"
+        },
+        "4": {
+            "post_count": 133,
+            "total_upvotes": 465,
+            "total_comments": 261,
+            "date_format_example": "2011-04-01"
+        },
+        "5": {
+            "post_count": 125,
+            "total_upvotes": 422,
+            "total_comments": 313,
+            "date_format_example": "2011-05-01"
+        },
+        "6": {
+            "post_count": 142,
+            "total_upvotes": 515,
+            "total_comments": 672,
+            "date_format_example": "2011-06-01"
+        },
+        "7": {
+            "post_count": 162,
+            "total_upvotes": 508,
+            "total_comments": 455,
+            "date_format_example": "2011-07-01"
+        },
+        "8": {
+            "post_count": 182,
+            "total_upvotes": 572,
+            "total_comments": 624,
+            "date_format_example": "2011-08-01"
+        },
+        "9": {
+            "post_count": 206,
+            "total_upvotes": 1076,
+            "total_comments": 691,
+            "date_format_example": "2011-09-01"
+        },
+        "10": {
+            "post_count": 231,
+            "total_upvotes": 1132,
+            "total_comments": 1003,
+            "date_format_example": "2011-10-01"
+        },
+        "11": {
+            "post_count": 264,
+            "total_upvotes": 1526,
+            "total_comments": 1467,
+            "date_format_example": "2011-11-01"
+        },
+        "12": {
+            "post_count": 249,
+            "total_upvotes": 1270,
+            "total_comments": 1058,
+            "date_format_example": "2011-12-01"
+        }
+    },
+    "2012": {
+        "1": {
+            "post_count": 344,
+            "total_upvotes": 1667,
+            "total_comments": 1305,
+            "date_format_example": "2012-01-01"
+        },
+        "2": {
+            "post_count": 253,
+            "total_upvotes": 1280,
+            "total_comments": 1303,
+            "date_format_example": "2012-02-01"
+        },
+        "3": {
+            "post_count": 269,
+            "total_upvotes": 1666,
+            "total_comments": 1386,
+            "date_format_example": "2012-03-01"
+        },
+        "4": {
+            "post_count": 336,
+            "total_upvotes": 2469,
+            "total_comments": 2091,
+            "date_format_example": "2012-04-01"
+        },
+        "5": {
+            "post_count": 366,
+            "total_upvotes": 2955,
+            "total_comments": 2770,
+            "date_format_example": "2012-05-01"
+        },
+        "6": {
+            "post_count": 416,
+            "total_upvotes": 3184,
+            "total_comments": 1983,
+            "date_format_example": "2012-06-01"
+        },
+        "7": {
+            "post_count": 543,
+            "total_upvotes": 4443,
+            "total_comments": 3418,
+            "date_format_example": "2012-07-01"
+        },
+        "8": {
+            "post_count": 759,
+            "total_upvotes": 6745,
+            "total_comments": 4751,
+            "date_format_example": "2012-08-01"
+        },
+        "9": {
+            "post_count": 1150,
+            "total_upvotes": 11565,
+            "total_comments": 6380,
+            "date_format_example": "2012-09-01"
+        },
+        "10": {
+            "post_count": 1437,
+            "total_upvotes": 20258,
+            "total_comments": 7223,
+            "date_format_example": "2012-10-01"
+        },
+        "11": {
+            "post_count": 1046,
+            "total_upvotes": 11092,
+            "total_comments": 11248,
+            "date_format_example": "2012-11-01"
+        },
+        "12": {
+            "post_count": 687,
+            "total_upvotes": 7919,
+            "total_comments": 5555,
+            "date_format_example": "2012-12-01"
+        }
+    },
+    "2013": {
+        "1": {
+            "post_count": 909,
+            "total_upvotes": 8030,
+            "total_comments": 4920,
+            "date_format_example": "2013-01-01"
+        },
+        "2": {
+            "post_count": 859,
+            "total_upvotes": 6557,
+            "total_comments": 4594,
+            "date_format_example": "2013-02-01"
+        },
+        "3": {
+            "post_count": 1052,
+            "total_upvotes": 11328,
+            "total_comments": 4365,
+            "date_format_example": "2013-03-01"
+        },
+        "4": {
+            "post_count": 1065,
+            "total_upvotes": 13523,
+            "total_comments": 5016,
+            "date_format_example": "2013-04-01"
+        },
+        "5": {
+            "post_count": 1148,
+            "total_upvotes": 16206,
+            "total_comments": 3499,
+            "date_format_example": "2013-05-01"
+        },
+        "6": {
+            "post_count": 1221,
+            "total_upvotes": 17495,
+            "total_comments": 3259,
+            "date_format_example": "2013-06-01"
+        },
+        "7": {
+            "post_count": 1151,
+            "total_upvotes": 15330,
+            "total_comments": 5275,
+            "date_format_example": "2013-07-01"
+        },
+        "8": {
+            "post_count": 1066,
+            "total_upvotes": 12316,
+            "total_comments": 3312,
+            "date_format_example": "2013-08-01"
+        },
+        "9": {
+            "post_count": 990,
+            "total_upvotes": 9724,
+            "total_comments": 3366,
+            "date_format_example": "2013-09-01"
+        },
+        "10": {
+            "post_count": 1096,
+            "total_upvotes": 11741,
+            "total_comments": 5508,
+            "date_format_example": "2013-10-01"
+        },
+        "11": {
+            "post_count": 1127,
+            "total_upvotes": 11554,
+            "total_comments": 3280,
+            "date_format_example": "2013-11-01"
+        },
+        "12": {
+            "post_count": 997,
+            "total_upvotes": 11469,
+            "total_comments": 4764,
+            "date_format_example": "2013-12-01"
+        }
+    },
+    "2014": {
+        "1": {
+            "post_count": 535,
+            "total_upvotes": 5750,
+            "total_comments": 1796,
+            "date_format_example": "2014-01-01"
+        },
+        "2": {
+            "post_count": 466,
+            "total_upvotes": 5266,
+            "total_comments": 1625,
+            "date_format_example": "2014-02-01"
+        },
+        "3": {
+            "post_count": 536,
+            "total_upvotes": 5231,
+            "total_comments": 1879,
+            "date_format_example": "2014-03-01"
+        },
+        "4": {
+            "post_count": 509,
+            "total_upvotes": 4794,
+            "total_comments": 1848,
+            "date_format_example": "2014-04-01"
+        },
+        "5": {
+            "post_count": 528,
+            "total_upvotes": 5765,
+            "total_comments": 1450,
+            "date_format_example": "2014-05-01"
+        },
+        "6": {
+            "post_count": 492,
+            "total_upvotes": 6524,
+            "total_comments": 1448,
+            "date_format_example": "2014-06-01"
+        },
+        "7": {
+            "post_count": 599,
+            "total_upvotes": 7212,
+            "total_comments": 1821,
+            "date_format_example": "2014-07-01"
+        },
+        "8": {
+            "post_count": 545,
+            "total_upvotes": 9434,
+            "total_comments": 2451,
+            "date_format_example": "2014-08-01"
+        },
+        "9": {
+            "post_count": 609,
+            "total_upvotes": 9447,
+            "total_comments": 2137,
+            "date_format_example": "2014-09-01"
+        },
+        "10": {
+            "post_count": 595,
+            "total_upvotes": 10005,
+            "total_comments": 2479,
+            "date_format_example": "2014-10-01"
+        },
+        "11": {
+            "post_count": 663,
+            "total_upvotes": 9721,
+            "total_comments": 1900,
+            "date_format_example": "2014-11-01"
+        },
+        "12": {
+            "post_count": 586,
+            "total_upvotes": 11606,
+            "total_comments": 2443,
+            "date_format_example": "2014-12-01"
+        }
+    },
+    "2015": {
+        "1": {
+            "post_count": 1103,
+            "total_upvotes": 23527,
+            "total_comments": 5174,
+            "date_format_example": "2015-01-01"
+        },
+        "2": {
+            "post_count": 1231,
+            "total_upvotes": 24139,
+            "total_comments": 4742,
+            "date_format_example": "2015-02-01"
+        },
+        "3": {
+            "post_count": 1169,
+            "total_upvotes": 21371,
+            "total_comments": 4521,
+            "date_format_example": "2015-03-01"
+        },
+        "4": {
+            "post_count": 1163,
+            "total_upvotes": 23428,
+            "total_comments": 5594,
+            "date_format_example": "2015-04-01"
+        },
+        "5": {
+            "post_count": 1094,
+            "total_upvotes": 20494,
+            "total_comments": 5116,
+            "date_format_example": "2015-05-01"
+        },
+        "6": {
+            "post_count": 1092,
+            "total_upvotes": 21112,
+            "total_comments": 5797,
+            "date_format_example": "2015-06-01"
+        },
+        "7": {
+            "post_count": 1210,
+            "total_upvotes": 24980,
+            "total_comments": 7782,
+            "date_format_example": "2015-07-01"
+        },
+        "8": {
+            "post_count": 1166,
+            "total_upvotes": 24063,
+            "total_comments": 7394,
+            "date_format_example": "2015-08-01"
+        },
+        "9": {
+            "post_count": 982,
+            "total_upvotes": 23685,
+            "total_comments": 7930,
+            "date_format_example": "2015-09-01"
+        },
+        "10": {
+            "post_count": 1179,
+            "total_upvotes": 26323,
+            "total_comments": 7587,
+            "date_format_example": "2015-10-01"
+        },
+        "11": {
+            "post_count": 1434,
+            "total_upvotes": 36811,
+            "total_comments": 8314,
+            "date_format_example": "2015-11-01"
+        },
+        "12": {
+            "post_count": 1342,
+            "total_upvotes": 37637,
+            "total_comments": 8230,
+            "date_format_example": "2015-12-01"
+        }
+    },
+    "2016": {
+        "1": {
+            "post_count": 1681,
+            "total_upvotes": 42299,
+            "total_comments": 10170,
+            "date_format_example": "2016-01-01"
+        },
+        "2": {
+            "post_count": 2005,
+            "total_upvotes": 45274,
+            "total_comments": 15522,
+            "date_format_example": "2016-02-01"
+        },
+        "3": {
+            "post_count": 2035,
+            "total_upvotes": 43993,
+            "total_comments": 17198,
+            "date_format_example": "2016-03-01"
+        },
+        "4": {
+            "post_count": 1652,
+            "total_upvotes": 34190,
+            "total_comments": 14529,
+            "date_format_example": "2016-04-01"
+        },
+        "5": {
+            "post_count": 1267,
+            "total_upvotes": 38786,
+            "total_comments": 14066,
+            "date_format_example": "2016-05-01"
+        },
+        "6": {
+            "post_count": 1312,
+            "total_upvotes": 32063,
+            "total_comments": 8325,
+            "date_format_example": "2016-06-01"
+        },
+        "7": {
+            "post_count": 1114,
+            "total_upvotes": 33781,
+            "total_comments": 9080,
+            "date_format_example": "2016-07-01"
+        },
+        "8": {
+            "post_count": 1198,
+            "total_upvotes": 30952,
+            "total_comments": 9506,
+            "date_format_example": "2016-08-01"
+        },
+        "9": {
+            "post_count": 1090,
+            "total_upvotes": 40446,
+            "total_comments": 6499,
+            "date_format_example": "2016-09-01"
+        },
+        "10": {
+            "post_count": 1093,
+            "total_upvotes": 39046,
+            "total_comments": 8317,
+            "date_format_example": "2016-10-01"
+        },
+        "11": {
+            "post_count": 1522,
+            "total_upvotes": 55293,
+            "total_comments": 12978,
+            "date_format_example": "2016-11-01"
+        },
+        "12": {
+            "post_count": 1437,
+            "total_upvotes": 47831,
+            "total_comments": 12788,
+            "date_format_example": "2016-12-01"
+        }
+    },
+    "2017": {
+        "1": {
+            "post_count": 1434,
+            "total_upvotes": 57805,
+            "total_comments": 15539,
+            "date_format_example": "2017-01-01"
+        },
+        "2": {
+            "post_count": 1346,
+            "total_upvotes": 58825,
+            "total_comments": 13554,
+            "date_format_example": "2017-02-01"
+        },
+        "3": {
+            "post_count": 1406,
+            "total_upvotes": 55063,
+            "total_comments": 14562,
+            "date_format_example": "2017-03-01"
+        },
+        "4": {
+            "post_count": 1240,
+            "total_upvotes": 49765,
+            "total_comments": 11092,
+            "date_format_example": "2017-04-01"
+        },
+        "5": {
+            "post_count": 1371,
+            "total_upvotes": 60426,
+            "total_comments": 17189,
+            "date_format_example": "2017-05-01"
+        },
+        "6": {
+            "post_count": 1700,
+            "total_upvotes": 82605,
+            "total_comments": 14854,
+            "date_format_example": "2017-06-01"
+        },
+        "7": {
+            "post_count": 1596,
+            "total_upvotes": 70224,
+            "total_comments": 15759,
+            "date_format_example": "2017-07-01"
+        },
+        "8": {
+            "post_count": 1425,
+            "total_upvotes": 64508,
+            "total_comments": 13465,
+            "date_format_example": "2017-08-01"
+        },
+        "9": {
+            "post_count": 1368,
+            "total_upvotes": 72996,
+            "total_comments": 13935,
+            "date_format_example": "2017-09-01"
+        },
+        "10": {
+            "post_count": 1322,
+            "total_upvotes": 71487,
+            "total_comments": 13673,
+            "date_format_example": "2017-10-01"
+        },
+        "11": {
+            "post_count": 1431,
+            "total_upvotes": 57097,
+            "total_comments": 12067,
+            "date_format_example": "2017-11-01"
+        },
+        "12": {
+            "post_count": 1313,
+            "total_upvotes": 64565,
+            "total_comments": 12564,
+            "date_format_example": "2017-12-01"
+        }
+    },
+    "2018": {
+        "1": {
+            "post_count": 1296,
+            "total_upvotes": 58010,
+            "total_comments": 11593,
+            "date_format_example": "2018-01-01"
+        },
+        "2": {
+            "post_count": 1191,
+            "total_upvotes": 67565,
+            "total_comments": 13249,
+            "date_format_example": "2018-02-01"
+        },
+        "3": {
+            "post_count": 1318,
+            "total_upvotes": 75285,
+            "total_comments": 14456,
+            "date_format_example": "2018-03-01"
+        },
+        "4": {
+            "post_count": 1200,
+            "total_upvotes": 59226,
+            "total_comments": 11802,
+            "date_format_example": "2018-04-01"
+        },
+        "5": {
+            "post_count": 1246,
+            "total_upvotes": 74173,
+            "total_comments": 14236,
+            "date_format_example": "2018-05-01"
+        },
+        "6": {
+            "post_count": 1418,
+            "total_upvotes": 85993,
+            "total_comments": 15962,
+            "date_format_example": "2018-06-01"
+        },
+        "7": {
+            "post_count": 1473,
+            "total_upvotes": 83434,
+            "total_comments": 16604,
+            "date_format_example": "2018-07-01"
+        },
+        "8": {
+            "post_count": 1730,
+            "total_upvotes": 92924,
+            "total_comments": 16627,
+            "date_format_example": "2018-08-01"
+        },
+        "9": {
+            "post_count": 1621,
+            "total_upvotes": 114028,
+            "total_comments": 19109,
+            "date_format_example": "2018-09-01"
+        },
+        "10": {
+            "post_count": 2053,
+            "total_upvotes": 164350,
+            "total_comments": 23073,
+            "date_format_example": "2018-10-01"
+        },
+        "11": {
+            "post_count": 1741,
+            "total_upvotes": 120049,
+            "total_comments": 16980,
+            "date_format_example": "2018-11-01"
+        },
+        "12": {
+            "post_count": 1617,
+            "total_upvotes": 95003,
+            "total_comments": 15940,
+            "date_format_example": "2018-12-01"
+        }
+    },
+    "2019": {
+        "1": {
+            "post_count": 1769,
+            "total_upvotes": 125425,
+            "total_comments": 20787,
+            "date_format_example": "2019-01-01"
+        },
+        "2": {
+            "post_count": 1464,
+            "total_upvotes": 122344,
+            "total_comments": 15821,
+            "date_format_example": "2019-02-01"
+        },
+        "3": {
+            "post_count": 1752,
+            "total_upvotes": 115930,
+            "total_comments": 15864,
+            "date_format_example": "2019-03-01"
+        },
+        "4": {
+            "post_count": 1442,
+            "total_upvotes": 87815,
+            "total_comments": 12101,
+            "date_format_example": "2019-04-01"
+        },
+        "5": {
+            "post_count": 1681,
+            "total_upvotes": 119577,
+            "total_comments": 17171,
+            "date_format_example": "2019-05-01"
+        },
+        "6": {
+            "post_count": 1702,
+            "total_upvotes": 113386,
+            "total_comments": 13952,
+            "date_format_example": "2019-06-01"
+        },
+        "7": {
+            "post_count": 2219,
+            "total_upvotes": 176635,
+            "total_comments": 22326,
+            "date_format_example": "2019-07-01"
+        },
+        "8": {
+            "post_count": 1922,
+            "total_upvotes": 155094,
+            "total_comments": 23251,
+            "date_format_example": "2019-08-01"
+        },
+        "9": {
+            "post_count": 1899,
+            "total_upvotes": 132818,
+            "total_comments": 20028,
+            "date_format_example": "2019-09-01"
+        },
+        "10": {
+            "post_count": 2126,
+            "total_upvotes": 161783,
+            "total_comments": 24589,
+            "date_format_example": "2019-10-01"
+        },
+        "11": {
+            "post_count": 1835,
+            "total_upvotes": 140672,
+            "total_comments": 22762,
+            "date_format_example": "2019-11-01"
+        },
+        "12": {
+            "post_count": 1815,
+            "total_upvotes": 173917,
+            "total_comments": 24008,
+            "date_format_example": "2019-12-01"
+        }
+    },
+    "2020": {
+        "1": {
+            "post_count": 2220,
+            "total_upvotes": 167315,
+            "total_comments": 24120,
+            "date_format_example": "2020-01-01"
+        },
+        "2": {
+            "post_count": 2154,
+            "total_upvotes": 200171,
+            "total_comments": 29874,
+            "date_format_example": "2020-02-01"
+        },
+        "3": {
+            "post_count": 2348,
+            "total_upvotes": 277275,
+            "total_comments": 37458,
+            "date_format_example": "2020-03-01"
+        },
+        "4": {
+            "post_count": 3085,
+            "total_upvotes": 298007,
+            "total_comments": 45690,
+            "date_format_example": "2020-04-01"
+        },
+        "5": {
+            "post_count": 3078,
+            "total_upvotes": 280380,
+            "total_comments": 45479,
+            "date_format_example": "2020-05-01"
+        },
+        "6": {
+            "post_count": 4324,
+            "total_upvotes": 684774,
+            "total_comments": 106598,
+            "date_format_example": "2020-06-01"
+        },
+        "7": {
+            "post_count": 4287,
+            "total_upvotes": 747431,
+            "total_comments": 120452,
+            "date_format_example": "2020-07-01"
+        },
+        "8": {
+            "post_count": 4284,
+            "total_upvotes": 735934,
+            "total_comments": 124178,
+            "date_format_example": "2020-08-01"
+        },
+        "9": {
+            "post_count": 4678,
+            "total_upvotes": 816959,
+            "total_comments": 134076,
+            "date_format_example": "2020-09-01"
+        },
+        "10": {
+            "post_count": 5350,
+            "total_upvotes": 906685,
+            "total_comments": 130795,
+            "date_format_example": "2020-10-01"
+        },
+        "11": {
+            "post_count": 5813,
+            "total_upvotes": 1240531,
+            "total_comments": 238683,
+            "date_format_example": "2020-11-01"
+        },
+        "12": {
+            "post_count": 5288,
+            "total_upvotes": 686989,
+            "total_comments": 193889,
+            "date_format_example": "2020-12-01"
+        }
+    },
+    "2021": {
+        "1": {
+            "post_count": 5841,
+            "total_upvotes": 1169544,
+            "total_comments": 220313,
+            "date_format_example": "2021-01-01"
+        },
+        "2": {
+            "post_count": 4590,
+            "total_upvotes": 777255,
+            "total_comments": 156036,
+            "date_format_example": "2021-02-01"
+        },
+        "3": {
+            "post_count": 3923,
+            "total_upvotes": 519327,
+            "total_comments": 95952,
+            "date_format_example": "2021-03-01"
+        },
+        "4": {
+            "post_count": 5506,
+            "total_upvotes": 862406,
+            "total_comments": 143563,
+            "date_format_example": "2021-04-01"
+        },
+        "5": {
+            "post_count": 5470,
+            "total_upvotes": 858768,
+            "total_comments": 150488,
+            "date_format_example": "2021-05-01"
+        },
+        "6": {
+            "post_count": 5591,
+            "total_upvotes": 844059,
+            "total_comments": 127537,
+            "date_format_example": "2021-06-01"
+        },
+        "7": {
+            "post_count": 5515,
+            "total_upvotes": 765961,
+            "total_comments": 122050,
+            "date_format_example": "2021-07-01"
+        },
+        "8": {
+            "post_count": 1845,
+            "total_upvotes": 180757,
+            "total_comments": 36541,
+            "date_format_example": "2021-08-01"
+        }
+    }
+}

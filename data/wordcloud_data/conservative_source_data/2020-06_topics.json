@@ -1,0 +1,285 @@
+{
+  "month": "2020-06",
+  "total_articles": 199,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "nascar",
+        "wallace",
+        "health",
+        "cdc",
+        "noose",
+        "garage",
+        "ha",
+        "agency",
+        "state",
+        "virus",
+        "president",
+        "rope",
+        "coronavirus",
+        "team"
+      ],
+      "topic_weights": [
+        276.9220384691606,
+        112.38819475595608,
+        86.8635070496335,
+        82.76686851824189,
+        82.23285726249898,
+        78.25153038400228,
+        73.94486448991586,
+        73.32113556595998,
+        61.17352364952071,
+        57.618412777526935,
+        52.57149346617611,
+        51.26528136827436,
+        47.709597962746365,
+        45.74342597933698,
+        45.34184153671696
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "advertisement",
+        "police",
+        "wa",
+        "voter",
+        "ballot",
+        "election",
+        "state",
+        "statue",
+        "county",
+        "story",
+        "city",
+        "monument",
+        "june",
+        "continues",
+        "blasio"
+      ],
+      "topic_weights": [
+        88.87211563677963,
+        71.4417504948185,
+        64.12036870395536,
+        62.20988305890014,
+        61.979185591265534,
+        56.06988665015852,
+        51.98063128057827,
+        51.234406197166265,
+        43.80264776592459,
+        42.31684038056325,
+        36.540152109273166,
+        36.35170096721904,
+        34.54586512048838,
+        29.64816391832328,
+        29.19437159894239
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "police",
+        "wa",
+        "officer",
+        "city",
+        "court",
+        "ha",
+        "law",
+        "department",
+        "case",
+        "black",
+        "floyd",
+        "justice",
+        "death",
+        "seattle",
+        "protester"
+      ],
+      "topic_weights": [
+        459.0185497565735,
+        275.7380559402856,
+        180.82648620712166,
+        172.53877794694637,
+        167.86608648508206,
+        149.4346069524469,
+        120.1054802597502,
+        112.9929207608259,
+        109.43883072736074,
+        105.72648236793854,
+        98.71576461166464,
+        88.97786438833427,
+        83.79622389955885,
+        81.0097094682239,
+        75.26514471021135
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "president",
+        "white",
+        "biden",
+        "college",
+        "facebook",
+        "country",
+        "racism",
+        "statement",
+        "policy",
+        "medium",
+        "twitter",
+        "covid"
+      ],
+      "topic_weights": [
+        323.74270683842644,
+        317.54795404994843,
+        273.10097661128435,
+        209.55761001444108,
+        136.44343445297358,
+        117.73490612482468,
+        112.99467302032772,
+        111.96304175330692,
+        101.7874340684328,
+        100.01986632067815,
+        96.98121977187051,
+        96.79399240522656,
+        93.65615368139422,
+        92.00744469580003,
+        85.49411191465038
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "white",
+        "black",
+        "american",
+        "wa",
+        "life",
+        "state",
+        "protest",
+        "ha",
+        "business",
+        "right",
+        "china",
+        "law",
+        "america",
+        "violence",
+        "antifa"
+      ],
+      "topic_weights": [
+        134.96664530823443,
+        122.42796573690676,
+        106.14059238890826,
+        98.49945020117808,
+        86.21770978171402,
+        80.37673161883401,
+        72.94513044564442,
+        70.99861423438108,
+        69.20040086289791,
+        68.14418929700089,
+        64.09440345755415,
+        57.85856844562195,
+        52.651964085931844,
+        50.267815132747366,
+        47.628054848534326
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 67,
+    "2": 66,
+    "4": 36,
+    "0": 15,
+    "1": 15
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Having sex in your own home with someone from a different household is illegal from today, after the government altered its coronavirus legislation. At 11.30am on Monday, a change to the law was intro...",
+        "upvotes": 29,
+        "url": "https://www.yahoo.com/news/coronavirus-sex-lockdown-illegal-093127804.html"
+      },
+      {
+        "preview": "ues. To the president’s aides, one of the most frustrating moments came May 1, when Schuchat published one of the agency’s regular reports on morbidity and mortality without giving the White House any...",
+        "upvotes": 22,
+        "url": "https://www.sfgate.com/news/article/The-CDC-Waited-Its-Entire-Existence-for-This-15312642.php"
+      },
+      {
+        "preview": "Charlamagne Tha God was as frank as ever during his appearance on The Late Show with Stephen Colbert Wednesday night. The host of The Breakfast Club radio show began by weighing in on the anti-police ...",
+        "upvotes": 31,
+        "url": "https://www.yahoo.com/news/charlamagne-tha-god-fires-back-054132862.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "\"I Voted\" stickers line a ballot box in the elections office at the Yellowstone County Courthouse on Tuesday, June 5, 2018. Ballot box Election workers open mail ballots for Tuesday's election at the ...",
+        "upvotes": 8,
+        "url": "https://helenair.com/news/state-and-regional/montana-voters-set-primary-voting-record/article_d19948a8-3d81-5a7f-92f5-921944e664d7.html#tracking-source=home-top-story-1"
+      },
+      {
+        "preview": "Advertisement US Park Police found “baseball bats & metal poles hidden along the street” near the White House on Tuesday evening. Smoke canisters and pepper balls were used to disperse the rioters and...",
+        "upvotes": 174,
+        "url": "https://www.thegatewaypundit.com/2020/06/breaking-us-park-police-find-baseball-bats-poles-hidden-along-street-near-white-house-reports-pipe-bombs/"
+      },
+      {
+        "preview": "On Wednesday, Los Angeles Mayor Eric Garcetti announced he is throwing out plans for a massive police budget hike as support for slashing police department funds grows among activists in the wake of G...",
+        "upvotes": 18,
+        "url": "https://www.forbes.com/sites/jackbrewster/2020/06/04/la-mayor-slashes-lapd-budget-as-calls-to-defund-police-slowly-pick-up-steam/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved America is burning. The fire stoked by the brutal killing of George Floyd by a Minneapolis police officer has led domestic terrorists to hijack the c...",
+        "upvotes": 32,
+        "url": "https://thehill.com/opinion/white-house/500352-mr-president-the-nation-needs-to-hear-from-you"
+      },
+      {
+        "preview": "\"Inside Every Progressive Is A Totalitarian Screaming To Get Out\" They own it. It’s theirs. Daniel Greenfield, a Shillman Journalism Fellow at the Freedom Center, is an investigative journalist and wr...",
+        "upvotes": 9,
+        "url": "https://www.frontpagemag.com/fpm/2020/06/minneapolis-disaster-has-democrat-fingerprints-all-daniel-greenfield/#.XtR0h3wcVrA.twitter"
+      },
+      {
+        "preview": "The latest:Beshear announces investigation into LMPD, National Guard fatally shooting man on Broadway Louisville Metro Police and National Guard personnel reportedly shot and killed a man while breaki...",
+        "upvotes": 14,
+        "url": "https://www.courier-journal.com/story/news/crime/2020/06/01/louisville-fatal-shooting-monday-morning-26th-broadway/5305803002/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "WASHINGTON (AP) – The European Union on Saturday urged President Donald Trump to rethink his decision to terminate the U.S. relationship with the World Health Organization as spiking infection rates i...",
+        "upvotes": 16,
+        "url": "https://www.breitbart.com/politics/2020/05/31/eu-tells-trump-to-reverse-who-termination-who-needs-to-continue-being-able-to-lead/"
+      },
+      {
+        "preview": "A Pennsylvania school board has blocked the use of a proposed textbook after one school board member led the charge against the book on the grounds that it was nothing more than liberal “indoctrinatio...",
+        "upvotes": 89,
+        "url": "https://starpolitical.com/public-school-board-shoots-down-geography-textbook-over-left-wing-instruction-on-climate-change/"
+      },
+      {
+        "preview": "By James Tapsfield, Political Editor For Mailonline and David Wilcock, Whitehall Correspondent Published: 08:20 EDT, 1 June 2020 | Updated: 12:23 EDT, 1 June 2020 310 View comments Boris Johnson will ...",
+        "upvotes": 37,
+        "url": "https://www.dailymail.co.uk/news/article-8376453/UK-VETO-Donald-Trumps-bid-let-Russia-G7.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A woman in Santa Monica, California, desperately pleaded with rioters who were allegedly looting stores in the area on Sunday, screaming at them that they were going to get President Donald Trump re-e...",
+        "upvotes": 891,
+        "url": "https://www.dailywire.com/news/woman-in-l-a-begs-alleged-looters-to-stop-this-is-going-to-get-trump-re-elected"
+      },
+      {
+        "preview": "Society Reviews Film Reviews, Sports, And Editorials From A Minarchist Perspective When footage of George Floyd’s arrest went viral last week, people from all sides of the political spectrum expressed...",
+        "upvotes": 32,
+        "url": "https://society-reviews.com/2020/06/01/hollywoods-role-in-inciting-deadly-race-riots/"
+      },
+      {
+        "preview": "While many have condemned Antifa and similar groups for destroying Minneapolis and other cities, Minneapolis city council member for Ward 5 (and son of the Minnesota Attorney General Keith Ellison) Je...",
+        "upvotes": 35,
+        "url": "https://jonathanturley.org/2020/06/01/minnesota-city-council-member-declares-support-for-antifa/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2013-05",
+  "total_articles": 78,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Healthcare and Military-Related Issues",
+      "core_keywords": ["health", "obama", "military", "republican", "democrat", "state", "war"],
+      "importance_ratio": 0.1410
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gender Issues and FDA Policy Debates",
+      "core_keywords": ["woman", "fda", "hate", "group", "decision", "girl", "age"],
+      "importance_ratio": 0.0897
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "IRS Scandal and Obama Administration Controversies",
+      "core_keywords": ["irs", "obama", "president", "tax", "scandal", "government", "white house"],
+      "importance_ratio": 0.4231
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Media Coverage and Federal Government News",
+      "core_keywords": ["advertisement", "fox", "federal", "obama", "news", "administration", "data"],
+      "importance_ratio": 0.2051
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "State Governance and Immigration Policies",
+      "core_keywords": ["state", "government", "gun", "tax", "law", "conservative", "immigration"],
+      "importance_ratio": 0.1410
+    }
+  ]
+}

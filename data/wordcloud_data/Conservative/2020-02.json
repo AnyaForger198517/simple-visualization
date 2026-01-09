@@ -1,0 +1,36 @@
+{
+  "month": "2020-02",
+  "total_articles": 105,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Political Research and Racial Issues",
+      "core_keywords": ["black", "american", "political", "trump", "obama", "law", "evidence"],
+      "importance_ratio": 0.1524
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2020 US Democratic Primary Election",
+      "core_keywords": ["democrat", "sander", "trump", "bernie", "iowa", "voter", "candidate"],
+      "importance_ratio": 0.3905
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Sanders' Campaign and Immigration Issues",
+      "core_keywords": ["sander", "campaign", "immigration", "government", "support", "american", "yang"],
+      "importance_ratio": 0.1238
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Social Issues and Education",
+      "core_keywords": ["school", "student", "woman", "police", "city", "public", "child"],
+      "importance_ratio": 0.1143
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Administration and Government Affairs",
+      "core_keywords": ["trump", "president", "state", "government", "twitter", "national", "voter"],
+      "importance_ratio": 0.2190
+    }
+  ]
+}

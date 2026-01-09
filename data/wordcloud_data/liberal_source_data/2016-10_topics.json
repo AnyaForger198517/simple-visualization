@@ -1,0 +1,285 @@
+{
+  "month": "2016-10",
+  "total_articles": 326,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "voter",
+        "election",
+        "state",
+        "vote",
+        "voting",
+        "republican",
+        "law",
+        "poll",
+        "party",
+        "wa",
+        "democrat",
+        "ha",
+        "wisconsin",
+        "court",
+        "ballot"
+      ],
+      "topic_weights": [
+        961.846293900968,
+        729.4278592395946,
+        682.4604435394083,
+        658.2598859865534,
+        417.9678157712966,
+        377.1341224101763,
+        309.78503853213545,
+        293.60486522516646,
+        239.70525507202274,
+        230.4971154021386,
+        220.68927783498975,
+        196.81873525900838,
+        176.36177104853235,
+        153.54307509060158,
+        144.74661072118886
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "clinton",
+        "ha",
+        "republican",
+        "campaign",
+        "wa",
+        "percent",
+        "candidate",
+        "sander",
+        "presidential",
+        "senate",
+        "hillary",
+        "election",
+        "point",
+        "ryan"
+      ],
+      "topic_weights": [
+        1480.158246334624,
+        1268.493678287675,
+        525.345722378818,
+        525.0348090975485,
+        497.55358631846246,
+        493.44572230204966,
+        380.3044938694177,
+        311.22489600920824,
+        258.44351899398066,
+        255.44056833706384,
+        250.95890571627498,
+        242.55879454246406,
+        242.21496903859196,
+        237.1706538797726,
+        223.43325268571672
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "american",
+        "wa",
+        "community",
+        "democrat",
+        "country",
+        "state",
+        "support",
+        "group",
+        "police",
+        "america",
+        "school",
+        "believe",
+        "right",
+        "ha",
+        "guy"
+      ],
+      "topic_weights": [
+        345.51130005677607,
+        235.71482692487896,
+        180.81365522353414,
+        179.80375494161288,
+        179.1556256309367,
+        169.8194378605918,
+        167.47965628804522,
+        150.55166229571475,
+        144.38101436015552,
+        142.61032028483643,
+        138.0949921524936,
+        134.1548626857259,
+        134.0787791385866,
+        133.43859928843275,
+        129.642760120477
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "clinton",
+        "ha",
+        "woman",
+        "donald",
+        "party",
+        "white",
+        "hillary",
+        "campaign",
+        "post",
+        "president",
+        "political",
+        "news",
+        "did"
+      ],
+      "topic_weights": [
+        1542.4054495870262,
+        1238.3126550090212,
+        551.264588195469,
+        536.3519347646467,
+        398.50978263013013,
+        317.87544767508604,
+        313.78761130648303,
+        284.5291744136892,
+        251.28881988486822,
+        237.62105810402232,
+        220.8876055008312,
+        198.94881380733747,
+        195.49325279042452,
+        185.2784132116271,
+        182.5089465082495
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "tax",
+        "policy",
+        "state",
+        "wa",
+        "government",
+        "million",
+        "company",
+        "public",
+        "health",
+        "law",
+        "trade",
+        "federal",
+        "work",
+        "process"
+      ],
+      "topic_weights": [
+        349.370530132285,
+        272.74530822998,
+        261.9178260970824,
+        225.01737399052206,
+        211.159826671145,
+        188.96134685274671,
+        167.85319488756016,
+        164.75361223864527,
+        161.13790640666517,
+        154.70774087089663,
+        144.56240541491724,
+        119.92310113174496,
+        116.68799703499852,
+        111.42985665049163,
+        108.74046115485739
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 100,
+    "3": 114,
+    "4": 58,
+    "2": 27,
+    "0": 27
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Getty Images 2016 The stateâs unique rules make it vulnerable to Election Day mischief. In a tight race, that could help Donald Trump. By ERICK TRICKEY October 02, 2016 Erick Trickey is a writer in ...",
+        "upvotes": 9,
+        "url": "http://www.politico.com/magazine/story/2016/09/2016-election-pennsylvania-polls-voters-trump-clinton-214297"
+      },
+      {
+        "preview": "It seems as though at least one Republican senator took Ann Coulter's post-9/11 recommendation to invade Muslim countries, \"kill their leaders and convert them to Christianity\" seriously. Via the Las ...",
+        "upvotes": 76,
+        "url": "http://www.rawstory.com/2016/10/leaked-video-republican-senator-supported-iraq-war-so-he-could-spread-mormonism-to-the-middle-east/"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Facing a measure that has support from 61 percent of Maine voters and the backing of well-funded or...",
+        "upvotes": 10,
+        "url": "http://www.businessinsider.com/gun-control-supporters-us-states-2016-election-nevada-2016-10"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Brian Snyder/Zuma Joe Arpaio, the sheriff of Maricopa County, Arizona, walked onto the stage at the Republican National Convention in Cleveland, a few hours before Donald Trump was supposed to deliver...",
+        "upvotes": 1,
+        "url": "http://www.motherjones.com/politics/2016/09/joe-arpaios-23-year-reign-might-finally-be-coming-end"
+      },
+      {
+        "preview": "Sep. 30, 2016, at 1:55 PM By Harry Enten Filed under 2016 Election David Goldman / AP Hillary Clinton and Donald Trump are the two most disliked presidential nominees in modern American history. That ...",
+        "upvotes": 32,
+        "url": "http://fivethirtyeight.com/features/trump-is-more-unpopular-than-clinton-is-and-that-matters/"
+      },
+      {
+        "preview": "A Trump supporter speaks at a rally in Everett, Washington. Paul Gordon via ZUMA Wire After several missteps in its attempts to win over black and Latino voters, the Donald Trump campaign is turning i...",
+        "upvotes": 8,
+        "url": "http://www.motherjones.com/politics/2016/09/trump-campaign-asian-american-outreach"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The editor-in-chief of Newsweek confirmed Friday that the magazine’s website was on the receiving end of a denial-of-service attack Thursday night, following the publication of a story accusing one of...",
+        "upvotes": 20,
+        "url": "http://talkingpointsmemo.com/livewire/dos-hack-newsweek-trump-cuba-embargo-story"
+      },
+      {
+        "preview": "Last week I spoke at the United Nations Office of the High Commissioner for Human Rights to urge the United States to use a human rights framework to improve maternal mortality in the U.S. That’s righ...",
+        "upvotes": 1,
+        "url": "http://www.theroot.com/articles/culture/2016/09/black-morbidity-reproductive-health/"
+      },
+      {
+        "preview": "PORTLAND ― Oregon Gov. Kate Brown (D) is not about to let armed, pro-gun enthusiasts intimidate her when she advocates for gun control, even if they hang and burn an effigy of her on the steps of the ...",
+        "upvotes": 40,
+        "url": "http://www.huffingtonpost.com/entry/oregon-governor-kate-brown-guns_us_57eedbcee4b024a52d2f16e4"
+      }
+    ],
+    "3": [
+      {
+        "preview": "This article is more than 1 year old While you were probably still sleeping, the 2016 Republican presidential nominee encouraged all of us to check out a \"sex tape\" and offered a baseless conspiracy t...",
+        "upvotes": 90,
+        "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/09/30/before-6-a-m-donald-trump-proved-hillary-clintons-point-about-his-temperament/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 1,
+        "url": "https://www.buzzfeed.com/danielwagner/trump-video-depositions"
+      },
+      {
+        "preview": "WASHINGTON — Video footage from a legal deposition of Donald Trump released Friday suggests the Republican presidential candidate planned to call Mexicans \"rapists\" when he first announced his candida...",
+        "upvotes": 57,
+        "url": "http://www.nydailynews.com/news/politics/trump-oath-planned-call-mexicans-rapists-article-1.2813335"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Bill Chappell Alabama Chief Justice Roy Moore, seen here addressing the media in August, won't be paid for the rest of his term and must pay court costs. Brynn Anderson/AP hide caption Alabama Chief J...",
+        "upvotes": 16,
+        "url": "http://www.npr.org/sections/thetwo-way/2016/09/30/496089488/alabamas-chief-justice-roy-moore-loses-case-over-same-sex-marriage-stance"
+      },
+      {
+        "preview": "Americans are increasingly turning against capital punishment. Americans are taking another look at the death penalty — and increasingly they are not liking what they’re seeing. The conclusion comes f...",
+        "upvotes": 16,
+        "url": "http://www.vox.com/identities/2016/10/1/13123620/death-penalty-survey"
+      },
+      {
+        "preview": "Advertisement Supported by transcript NA By David Barstow, Susanne Craig, Russ Buettner and Megan Twohey Donald J. Trump declared a $916 million loss on his 1995 income tax returns, a tax deduction so...",
+        "upvotes": 106,
+        "url": "http://www.nytimes.com/2016/10/02/us/politics/donald-trump-taxes.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2019-07",
+  "total_articles": 165,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "shooting",
+        "july",
+        "police",
+        "gilroy",
+        "shot",
+        "festival",
+        "mass",
+        "garlic",
+        "twitter",
+        "white",
+        "ha",
+        "told",
+        "china",
+        "ice"
+      ],
+      "topic_weights": [
+        299.5732232917816,
+        237.2133325472173,
+        207.9880548100653,
+        142.32579939972626,
+        133.6732888454043,
+        103.29868883435181,
+        95.31630848650141,
+        78.96238725759633,
+        74.96739211596615,
+        66.86342396409101,
+        63.49905602296383,
+        62.58290694507909,
+        59.61536581426671,
+        59.36717369589246,
+        53.23212578488847
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "state",
+        "border",
+        "president",
+        "court",
+        "american",
+        "america",
+        "baltimore",
+        "policy",
+        "email",
+        "political",
+        "government",
+        "law"
+      ],
+      "topic_weights": [
+        382.282740465276,
+        259.8192259999436,
+        177.48853805825436,
+        164.80247170465225,
+        146.53602957139148,
+        133.74323070380143,
+        128.33567732797587,
+        114.31589729779002,
+        104.22281042108959,
+        92.1631028636003,
+        88.32853999527941,
+        87.06465796299727,
+        83.9936276270599,
+        82.83434397869273,
+        79.77489747284415
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "woman",
+        "men",
+        "team",
+        "soccer",
+        "player",
+        "antifa",
+        "world",
+        "ha",
+        "ngo",
+        "group",
+        "wa",
+        "portland",
+        "pay",
+        "member",
+        "national"
+      ],
+      "topic_weights": [
+        141.32463213397975,
+        77.82634140043658,
+        58.96167519624397,
+        50.67437506487339,
+        49.5304783759461,
+        44.39752275325408,
+        36.47410925358192,
+        36.06154180283825,
+        35.90029494262305,
+        33.21409579782338,
+        33.15886535758992,
+        30.21065286826376,
+        27.35023973508852,
+        27.19265194058585,
+        24.774065767772175
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "fbi",
+        "doj",
+        "clinton",
+        "laptop",
+        "agreement",
+        "september",
+        "record",
+        "immunity",
+        "park",
+        "google",
+        "samuelson",
+        "wa",
+        "foia",
+        "church",
+        "email"
+      ],
+      "topic_weights": [
+        190.84389639831588,
+        190.21565908238486,
+        142.01432785199273,
+        135.63111355004176,
+        120.89490251223067,
+        112.09173197096287,
+        111.31177489546778,
+        106.78496513130932,
+        103.72280089733863,
+        100.93941535005192,
+        99.52748733636734,
+        97.32917213801439,
+        95.04780635573283,
+        91.88751154740878,
+        91.05982951176249
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "democrat",
+        "president",
+        "wa",
+        "ha",
+        "country",
+        "american",
+        "democratic",
+        "omar",
+        "sander",
+        "health",
+        "care",
+        "election",
+        "racist",
+        "america"
+      ],
+      "topic_weights": [
+        367.8114240983309,
+        238.77097511955907,
+        181.36175668764096,
+        159.93655936661713,
+        159.48555609445313,
+        119.05908660575227,
+        113.00666210473182,
+        100.6779352270117,
+        100.25469628286118,
+        98.87922813994973,
+        98.16609294486624,
+        88.67432632073,
+        86.28520378730563,
+        83.43067038351347,
+        83.11988059336281
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 77,
+    "2": 10,
+    "4": 63,
+    "0": 9,
+    "3": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Democrat presidential candidate Kamala Harris is descended from Irish slave owner Hamilton Brown, the namesake of Brown’s Town in Jamaica, who recruited massive numbers of Irish migrants to Jamaica to...",
+        "upvotes": 1,
+        "url": "https://bigleaguepolitics.com/slave-registers-from-london-name-the-slaves-kamala-harris-ancestor-owned/"
+      },
+      {
+        "preview": "'My mama raised me right' Daniel Weldon is 6-foot-1 and weighs 230 pounds. The 22-year-old also played linebacker for the University of Florida. One would likely think the last thing on anyone's mind ...",
+        "upvotes": 33,
+        "url": "https://www.theblaze.com/news/multiple-females-allegedly-push-punch-former-college-linebacker-over-his-maga-hat"
+      },
+      {
+        "preview": "Image Credits: malerapaso / Getty Images. A Florida homeowner will not face charges after he used an AR-15 rifle to fend off four armed home invaders, killing two. From top left: Keith Jackson, Nigel ...",
+        "upvotes": 1,
+        "url": "https://www.newswars.com/homeowner-uses-ar-15-to-fend-off-four-intruders-kills-two/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "To complete the login process, please enter the one time code that was sent to your email address. Don't have an account? Create one here. Please provide the email address associated with your account...",
+        "upvotes": 1,
+        "url": "https://www.bitchute.com/video/pDxwU6Don8wT/"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. Last month, an Ohio jury awarded the owners of Gibson’s Food Mart and Bakery in Oberlin $44 million in combined punitive and compensatory dama...",
+        "upvotes": 35,
+        "url": "https://nypost.com/2019/06/30/how-us-colleges-reward-fake-victimhood/"
+      },
+      {
+        "preview": "We use cookies and other tracking technologies to improve your browsing experience on our site, show personalized content and targeted ads, analyze site traffic, and understand where our audiences com...",
+        "upvotes": 0,
+        "url": "https://www-vox-com.cdn.ampproject.org/v/s/www.vox.com/platform/amp/identities/2019/6/28/19154272/james-alex-fields-heather-heyer-unite-the-right-charlottesville-sentencing?amp_js_v=a2&amp_gsa=1&usqp=mq331AQA#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.vox.com%2Fidentities%2F2019%2F6%2F28%2F19154272%2Fjames-alex-fields-heather-heyer-unite-the-right-charlottesville-sentencing"
+      }
+    ],
+    "2": [
+      {
+        "preview": "It’s “cover your tracks” day for many Democrats, including Minnesota Attorney General Keith Ellison. The former Deputy Chair of the DNC felt the need to detach himself from the violent progressive act...",
+        "upvotes": 137,
+        "url": "https://noqreport.com/2019/06/30/keith-ellison-deletes-tweet-supporting-antifa/"
+      },
+      {
+        "preview": "The latest breaking updates, delivered straight to your email inbox. The Massachusetts State Police bomb squad responded to three locations to investigate separate reports of suspicious packages. The ...",
+        "upvotes": 45,
+        "url": "https://www.wcvb.com/article/state-police-bomb-squad-responds-to-3-massachusetts-locations-for-suspicious-packages/28251354"
+      },
+      {
+        "preview": "Advertisement Supported by There’s little transparency and not much evidence to demonstrate the effectiveness of their approach. By Nate Cohn The transition away from live interview telephone polling ...",
+        "upvotes": 3,
+        "url": "https://www.nytimes.com/2019/07/02/upshot/online-polls-analyzing-reliability.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "July 5, 2019 A dramatic and explosive DNA discovery in Israel has implications for the political struggle between Israelis and Palestinians. Three years ago, archaeologists digging in Israel revealed ...",
+        "upvotes": 9,
+        "url": "https://metrovoicenews.com/dna-shows-philistines-and-modern-day-palestinians-were-really-european/#.XR-aoNkEW8g.reddit"
+      },
+      {
+        "preview": "July 15, 2019 President Trump has stood firm on comments in which he suggested some liberal legislators in the Democrat Party should go back to their “broken and crime infested” home countries, saying...",
+        "upvotes": 15,
+        "url": "https://metrovoicenews.com/with-comments-trump-jumps-into-democrat-party-civil-war/#.XSyAAuK-22c.reddit"
+      },
+      {
+        "preview": "July 24, 2019 Former special counsel Robert Mueller appeared flustered while answering questions from congressional members on July 24, repeatedly asking for questions to be repeated and reversing his...",
+        "upvotes": 10,
+        "url": "https://metrovoicenews.com/mueller-contradicts-self-in-testimony-before-congress/#.XTiuDhds-QI.reddit"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Source: AP Photo/Wilfredo Lee Well, we don’t have another Democratic debate until the end of the month. So, for the time being, we can discuss how far into the vast reaches of insanity this party has ...",
+        "upvotes": 82,
+        "url": "https://townhall.com/tipsheet/mattvespa/2019/07/01/msnbc-anchor-democrats-keep-giving-trump-a-christmas-gift-on-this-immigration-issue-n2549246"
+      },
+      {
+        "preview": "Vladimir Putin may be the expert on interfering in U.S. elections, but this past weekend Donald Trump gave North Korean ruler Kim Jong-un the power to tilt the 2020 election decidedly in favor of whoe...",
+        "upvotes": 12,
+        "url": "https://issuesinsights.com/2019/07/01/trump-tweets-kim-comes/"
+      },
+      {
+        "preview": "Advertisement Sadly, MiniAOC is gone. Ava Martinez, the 8-year-old girl who perfectly impersonated Rep. Alexandria Ocasio-Cortez, was forced to delete all of her social media accounts after she and he...",
+        "upvotes": 570,
+        "url": "https://www.thegatewaypundit.com/2019/07/miniaoc-deletes-all-social-media-accounts-after-harassment-of-family/"
+      }
+    ]
+  }
+}

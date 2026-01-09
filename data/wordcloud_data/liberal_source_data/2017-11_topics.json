@@ -1,0 +1,285 @@
+{
+  "month": "2017-11",
+  "total_articles": 179,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "moore",
+        "ha",
+        "director",
+        "medium",
+        "agency",
+        "cfpb",
+        "woman",
+        "post",
+        "trump",
+        "news",
+        "did",
+        "story",
+        "white",
+        "group"
+      ],
+      "topic_weights": [
+        525.01525138352,
+        248.1996123063912,
+        202.0549753250535,
+        147.47841629555444,
+        132.12735902409247,
+        130.5843769622686,
+        120.57246244016834,
+        116.99018528620076,
+        108.60156773100564,
+        101.55008289417367,
+        95.58911919924816,
+        94.81294067302126,
+        88.78722787894688,
+        85.90900020235551,
+        85.42567135058333
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "trump",
+        "republican",
+        "wa",
+        "state",
+        "policy",
+        "war",
+        "president",
+        "tax",
+        "conservative",
+        "political",
+        "jones",
+        "democrat",
+        "american",
+        "senate"
+      ],
+      "topic_weights": [
+        305.2980242960323,
+        304.2137813982352,
+        253.44394914263734,
+        237.7083739335699,
+        181.29392433109854,
+        156.3288233241383,
+        141.96104969230828,
+        138.05752619854144,
+        127.12876566285135,
+        126.68260919375957,
+        124.33772278015493,
+        111.55861080305095,
+        104.97804449697101,
+        98.41703268195404,
+        98.33221601023376
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "cut",
+        "percent",
+        "income",
+        "plan",
+        "republican",
+        "rate",
+        "corporate",
+        "ha",
+        "mandate",
+        "american",
+        "hospital",
+        "senate",
+        "benefit",
+        "company"
+      ],
+      "topic_weights": [
+        646.7990999589747,
+        177.95223129073412,
+        143.5871667883874,
+        133.72018791282377,
+        130.7874001339054,
+        125.47242994440894,
+        113.28333487749124,
+        111.96223667524767,
+        109.806035694833,
+        98.58895999960498,
+        89.3062627455432,
+        87.09135135253277,
+        84.57399630123041,
+        83.47848150614357,
+        82.2833693596503
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "trump",
+        "white",
+        "voter",
+        "american",
+        "state",
+        "ha",
+        "republican",
+        "democrat",
+        "party",
+        "black",
+        "election",
+        "democratic",
+        "president",
+        "city"
+      ],
+      "topic_weights": [
+        358.46849218557435,
+        338.0187810564186,
+        216.19775197736294,
+        207.6607156230245,
+        204.07788335992126,
+        167.0704891987757,
+        154.16003858349265,
+        151.32094958864684,
+        142.22585974045361,
+        130.17387365044476,
+        129.37297261883327,
+        128.24244001291694,
+        127.76996142669104,
+        120.09637172309246,
+        117.06498291569316
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "russia",
+        "campaign",
+        "russian",
+        "president",
+        "mueller",
+        "clinton",
+        "flynn",
+        "foreign",
+        "election",
+        "investigation",
+        "meeting",
+        "official"
+      ],
+      "topic_weights": [
+        400.93422650946604,
+        141.93089061816173,
+        139.02760582701356,
+        135.8175602362661,
+        132.18512812313017,
+        128.28035057376022,
+        115.23769083058376,
+        104.63296136259127,
+        82.31471952941799,
+        66.10823114257414,
+        63.920343810319075,
+        58.2723190711473,
+        58.001650788012824,
+        52.13825659336592,
+        51.20928511032494
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 31,
+    "0": 42,
+    "2": 36,
+    "3": 35,
+    "1": 35
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Do Not Sell \"I'm watching now and screaming,\" one Fox News personality said in a text message to  as the person watched their network's coverage. \"I want to quit.\" \"It is another blow to journalists a...",
+        "upvotes": 388,
+        "url": "http://money.cnn.com/2017/10/31/media/fox-news-employees-russia-mueller-coverage/index.html"
+      },
+      {
+        "preview": "To revist this article, visit My Profile, then View saved stories. To revist this article, visit My Profile, then View saved stories. By Joe Pompeo To revist this article, visit My Profile, then View ...",
+        "upvotes": 3,
+        "url": "https://www.vanityfair.com/news/2017/11/the-wall-street-journal-editorial-board-coverage-of-mueller"
+      },
+      {
+        "preview": "SEARCH Roseanne Barr and Michael McFaul argued with her on Twitter. BuzzFeed and The New York Times cited her tweets. But Jenna Abrams was the fictional creation of a Russian troll farm. Jenna Abrams ...",
+        "upvotes": 3,
+        "url": "https://www.thedailybeast.com/jenna-abrams-russias-clown-troll-princess-duped-the-mainstream-media-and-the-world?via=desktop&source=Reddit"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Republicans launched a Wisconsin-style crackdown on public-sector unions. But in overwhelming numbers, the members said they’re sticking with the union. by Justin Miller October 30, 2017 10:51 PM (AP ...",
+        "upvotes": 2,
+        "url": "http://prospect.org/article/iowa-glimmer-hope-face-anti-union-attacks"
+      },
+      {
+        "preview": "We have some issues with the new 'Nightmare of the Wolf' animated movie. 1-900 numbers weren’t all about horniness. When Broadway theaters reopen in the fall, be sure to watch out for ghosts and falli...",
+        "upvotes": 18,
+        "url": "http://www.cracked.com/blog/6-objective-reasons-ronald-reagan-was-our-worst-president/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The House Republican tax bill released Thursday would allow churches to endorse political candidates, rolling back a 1950s-era law that bars such act...",
+        "upvotes": 1,
+        "url": "http://thehill.com/policy/finance/358447-gop-tax-bill-would-allow-churches-to-endorse-political-candidates"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Stan Collender has a characteristically perceptive discussion of the ongoing budget farce, and invokes Casablanca: “round up the usual suspects.” That struck me as the perfect motto for what I’m seein...",
+        "upvotes": 8,
+        "url": "https://krugman.blogs.nytimes.com/2017/10/29/tax-cut-fraudulence-the-usual-suspects/"
+      },
+      {
+        "preview": "Nobody knew taxes were so complicated. House Republicans unexpectedly announced Tuesday evening that the tax reform bill they’d been promising to unveil the next morning would have to wait until Thurs...",
+        "upvotes": 16,
+        "url": "https://www.vox.com/policy-and-politics/2017/11/1/16591312/tax-reform-delay"
+      },
+      {
+        "preview": "Yesterday, Democratic lawmakers released another plank in their “Better Deal” agenda. The policy proposals included focus on strengthening workers’ collective voice and ability to negotiate for better...",
+        "upvotes": 8,
+        "url": "http://www.epi.org/blog/strengthening-collective-bargaining-is-essential-to-reforming-the-rigged-economy/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "e Tea Party movement, had been infiltrated by the party’s fringe, Reid turned that to his advantage. His campaign waded into the Republican primary, targeting the most formidable G.O.P. opponents one ...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2017/11/01/magazine/a-post-obama-democratic-party-in-search-of-itself.html"
+      },
+      {
+        "preview": "Robyn Beck/Getty Images Book Club When I was asked to run the Democratic Party after the Russians hacked our emails, I stumbled onto a shocking truth about the Clinton campaign. By DONNA BRAZILE Novem...",
+        "upvotes": 1,
+        "url": "https://www.politico.com/magazine/story/2017/11/02/clinton-brazile-hacks-2016-215774"
+      },
+      {
+        "preview": "Trending: Once again Americans mourn the destruction of lives wrought by a twisted ideologue beholden to fantastically evil interpretations of Islam. A 29-year-old immigrant from Uzbekistan drove a re...",
+        "upvotes": 4,
+        "url": "http://www.denverpost.com/2017/11/01/as-we-mourn-another-terror-attack-a-call-for-traditional-american-justice/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Brian Mann Conservative radio talk show host Rush Limbaugh's response to the Mueller indictments: \"This is the coup.\" William Thomas Cain/Getty Images hide caption Conservative radio talk show host Ru...",
+        "upvotes": 1,
+        "url": "http://www.npr.org/2017/10/31/561070095/none-of-this-is-real-conservative-media-reacts-to-mueller-indictments?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2058"
+      },
+      {
+        "preview": "This article is more than 1 year old THE MORNING PLUM: Let’s be clear on what’s happening in our politics right now. President Trump and his media allies are currently creating a vast, multi-tentacled...",
+        "upvotes": 7,
+        "url": "https://www.washingtonpost.com/blogs/plum-line/wp/2017/10/31/trump-and-his-allies-are-laying-the-groundwork-for-a-saturday-night-massacre/?hpid=hp_no-name_opinion-card-a%3Ahomepage%2Fstory"
+      },
+      {
+        "preview": "Mueller, Manafort, and the Trump era's biggest crisis. The indictment of former Trump campaign chair Paul Manafort sets the stage for a historic test of the American legal and political systems, which...",
+        "upvotes": 20,
+        "url": "https://www.vox.com/policy-and-politics/2017/10/31/16570652/trump-paul-manafort-indictment-pardon-mueller-rick-gates"
+      }
+    ]
+  }
+}

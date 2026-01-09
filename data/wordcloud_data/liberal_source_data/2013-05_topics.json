@@ -1,0 +1,270 @@
+{
+  "month": "2013-05",
+  "total_articles": 79,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "group",
+        "irs",
+        "political",
+        "ha",
+        "percent",
+        "million",
+        "republican",
+        "wa",
+        "fund",
+        "spent",
+        "organization",
+        "worker",
+        "american",
+        "law",
+        "money"
+      ],
+      "topic_weights": [
+        231.57084597470822,
+        141.7895885833952,
+        104.0330982695382,
+        94.49802099624627,
+        83.16152770022266,
+        82.24569005540604,
+        80.14339821007839,
+        78.79291274684321,
+        76.01531644769823,
+        72.70759987423249,
+        71.79362283962656,
+        62.167345262674516,
+        61.74221354485644,
+        55.00276838002973,
+        54.63812094325208
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "rove",
+        "group",
+        "political",
+        "conservative",
+        "election",
+        "irs",
+        "obama",
+        "president",
+        "american",
+        "money",
+        "democracy",
+        "grassroots",
+        "karl",
+        "wa",
+        "party"
+      ],
+      "topic_weights": [
+        322.77183685584237,
+        201.33131109534142,
+        182.9749896036908,
+        157.01932998733452,
+        156.1977898757231,
+        147.68633764650346,
+        129.16005474112595,
+        126.24679373736102,
+        115.36583908817475,
+        115.25619769176923,
+        106.92273942763356,
+        105.51657056727463,
+        99.14182921077993,
+        98.27681761302298,
+        79.05901466945217
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "gun",
+        "state",
+        "republican",
+        "obama",
+        "senate",
+        "american",
+        "president",
+        "murray",
+        "nra",
+        "law",
+        "tax",
+        "vote",
+        "democrat"
+      ],
+      "topic_weights": [
+        259.5966358174265,
+        183.32582008545194,
+        155.8234428367415,
+        136.7107111444251,
+        126.86030271734148,
+        125.55737582855745,
+        104.36537841644777,
+        92.51644243418463,
+        89.67266886674585,
+        78.63081640100275,
+        76.86424257460332,
+        76.39867078807988,
+        72.43151483422481,
+        68.64975686289804,
+        67.16524602641026
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "film",
+        "child",
+        "koch",
+        "home",
+        "christian",
+        "ha",
+        "phillips",
+        "education",
+        "vision",
+        "men",
+        "god",
+        "public",
+        "right",
+        "movement"
+      ],
+      "topic_weights": [
+        150.15558307761393,
+        75.18189325788828,
+        72.1280971220891,
+        69.84343807315045,
+        62.98238845759348,
+        59.36841625685535,
+        58.053325065658754,
+        57.662202297266525,
+        54.62937348400809,
+        49.03635662324541,
+        41.68390267149874,
+        38.669715251826794,
+        37.488183422838844,
+        37.004481210603196,
+        33.80569996245148
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "court",
+        "justice",
+        "business",
+        "case",
+        "decision",
+        "class",
+        "wa",
+        "law",
+        "ha",
+        "ginsburg",
+        "robert",
+        "action",
+        "conservative",
+        "study",
+        "lawyer"
+      ],
+      "topic_weights": [
+        68.14812223559456,
+        43.39499310762037,
+        38.667168873221236,
+        34.056265023363444,
+        25.03404380869954,
+        23.15358442146195,
+        22.080128727319156,
+        19.526831638020155,
+        18.968828406784745,
+        15.154175672455533,
+        15.022056376578888,
+        14.769721485941254,
+        14.601548126564973,
+        14.474563675117814,
+        13.51155999561281
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 50,
+    "0": 14,
+    "3": 12,
+    "4": 2,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "This year Democracy Now! is celebrating our 25th anniversary—that's 25 years of bringing you fearless, independent reporting. Since our very first broadcast in 1996, Democracy Now! has refused to take...",
+        "upvotes": 17,
+        "url": "http://www.democracynow.org/2013/5/1/as_bangladesh_toll_hits_400_calls"
+      },
+      {
+        "preview": "What the hell is going on with my government? Original photo by krossbow on Flickr, modified by Phil Plait I’m used to attacks on science; they’ve been endemic for years now. Antivaxxers, global warmi...",
+        "upvotes": 1,
+        "url": "http://www.slate.com/blogs/bad_astronomy/2013/05/01/attacks_on_science_government_antiscience_on_the_rise.html"
+      },
+      {
+        "preview": "These are the core obsessions that drive our newsroom—defining topics of seismic importance to the global economy. These are some of our most ambitious editorial projects. Enjoy! Our emails are made t...",
+        "upvotes": 10,
+        "url": "http://qz.com/80621/want-to-improve-working-conditions-in-bangladesh-boycott-the-gap/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "nd the left would be shunted to the sidelines of a new political landscape where corporate cash decides the day and the boss is not a CEO but a cynical political operative named Karl Rove. John Nichol...",
+        "upvotes": 12,
+        "url": "http://www.thenation.com/blog/174414/peculiar-politics-karl-roves-outrage-over-irs-flap"
+      }
+    ],
+    "2": [
+      {
+        "preview": "In a press conference on the 100th day of his second term (though his administration dismissed the symbolic nature of the date), President Obama said he would work with Congress to stop the detention ...",
+        "upvotes": 66,
+        "url": "http://www.salon.com/2013/04/30/update_at_100_days_obama_talks_syria_boston_and_congressional_gridlock/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 38,
+        "url": "http://www.buzzfeed.com/mckaycoppins/republican-immigration-nightmare-could-recur"
+      },
+      {
+        "preview": "The fact is, we need more Keith Ellisons in Congress, because he’s a patriotic American who’s also a Muslim. Progressives loved seeing Rep. Keith Ellison smack down his GOP congressional colleague Pet...",
+        "upvotes": 23,
+        "url": "http://www.minnpost.com/salon/2013/04/importance-keith-ellison-patriotic-american-whos-also-muslim"
+      }
+    ],
+    "3": [
+      {
+        "preview": "A 9-year-old girl in Washington is now recovering after being shot in the leg Wednesday by her brother. Two other girls fatally shot by their brothers this week in Kentucky and Alaska were not so luck...",
+        "upvotes": 3,
+        "url": "http://www.opposingviews.com/i/society/guns/3-different-cases-brothers-shooting-little-sisters-3-days"
+      },
+      {
+        "preview": "Enter your email address to follow this blog and receive notifications of new posts by email. Email Address: Sign me up! I just received this fascinating message from Ernie Lazar: The Koch Brothers ar...",
+        "upvotes": 4,
+        "url": "https://arthurgoldwag.wordpress.com/2013/05/01/the-koch-family-and-the-john-birch-society/"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 12,
+        "url": "http://www.rightwingwatch.org/category/people/mark-sanford"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by By Adam Liptak NOT long after 10 a.m. on March 27, a restless audience waited for the Supreme Court to hear arguments in the second of two historic cases involving same-sex ...",
+        "upvotes": 30,
+        "url": "http://www.nytimes.com/2013/05/05/business/pro-business-decisions-are-defining-this-supreme-court.html"
+      },
+      {
+        "preview": "Advertisement Supported by By Paul Krugman At this point the economic case for austerity — for slashing government spending even in the face of a weak economy — has collapsed. Claims that spending cut...",
+        "upvotes": 111,
+        "url": "http://www.nytimes.com/2013/05/06/opinion/krugman-the-chutzpah-caucus.html?_r=0"
+      }
+    ]
+  }
+}

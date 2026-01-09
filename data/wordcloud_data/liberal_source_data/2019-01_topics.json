@@ -1,0 +1,275 @@
+{
+  "month": "2019-01",
+  "total_articles": 139,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "percent",
+        "republican",
+        "voter",
+        "poll",
+        "democrat",
+        "ha",
+        "democratic",
+        "school",
+        "spending",
+        "million",
+        "rep",
+        "support",
+        "president",
+        "state",
+        "trump"
+      ],
+      "topic_weights": [
+        369.1143141746955,
+        296.24511362617756,
+        215.76264091985982,
+        184.332666333294,
+        180.29860312749273,
+        152.71115522852728,
+        143.97587573264522,
+        124.60385704664232,
+        107.38991373878468,
+        106.46769237846901,
+        105.00676454284273,
+        100.63284482562483,
+        98.49853413731398,
+        95.94761828662124,
+        90.64896031754564
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "border",
+        "wa",
+        "land",
+        "region",
+        "community",
+        "war",
+        "government",
+        "state",
+        "military",
+        "family",
+        "child",
+        "political",
+        "patrol",
+        "mexico",
+        "army"
+      ],
+      "topic_weights": [
+        1741.3339346514028,
+        1426.6513181678743,
+        1031.0382342731043,
+        1026.0415812072965,
+        952.7165604251946,
+        898.5198449791708,
+        701.5421890251743,
+        665.0009922321515,
+        661.0371698153871,
+        627.6814100469081,
+        622.5153490152593,
+        598.771875321901,
+        580.8160507644127,
+        551.1645006698086,
+        540.8298603100442
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ha",
+        "chemical",
+        "state",
+        "child",
+        "water",
+        "gun",
+        "drinking",
+        "epa",
+        "wa",
+        "republican",
+        "seat",
+        "study",
+        "wheeler",
+        "care",
+        "limit"
+      ],
+      "topic_weights": [
+        235.59208372256936,
+        193.81858125808,
+        153.17458061036638,
+        151.11897542788944,
+        131.01634305390078,
+        107.38405592111934,
+        102.99960617271536,
+        102.49451278325837,
+        96.55722783782798,
+        90.70757202588152,
+        84.3629727038556,
+        81.23035185613955,
+        73.74871624446315,
+        72.57672427315464,
+        70.9448359542405
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "state",
+        "war",
+        "law",
+        "power",
+        "change",
+        "court",
+        "climate",
+        "poor",
+        "community",
+        "government",
+        "police",
+        "justice",
+        "local",
+        "violence"
+      ],
+      "topic_weights": [
+        89.38316591274567,
+        40.61488490285838,
+        36.24001029563126,
+        32.22885038166164,
+        30.339639012353878,
+        29.515646765313328,
+        28.34873411211492,
+        26.565189465949004,
+        24.896131593439218,
+        24.181896395412966,
+        22.396324043031093,
+        21.682336802637952,
+        21.142645563897148,
+        20.11525696431053,
+        19.265654527087708
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "president",
+        "wa",
+        "ha",
+        "american",
+        "shutdown",
+        "government",
+        "house",
+        "white",
+        "federal",
+        "policy",
+        "news",
+        "did",
+        "official",
+        "state"
+      ],
+      "topic_weights": [
+        755.7947730882726,
+        424.08359214606264,
+        397.5945036862969,
+        354.6117037509549,
+        193.99625027302116,
+        193.8837363280574,
+        190.27940684365944,
+        184.7349431773527,
+        170.98503356964594,
+        135.44156627406434,
+        129.93801324651233,
+        129.55723695466486,
+        124.38331135917676,
+        121.99205816790536,
+        118.52090878822219
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 119,
+    "0": 6,
+    "2": 8,
+    "3": 5,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "In 2018, Democrats gained seven governor's offices and six legislative chambers, striking a blow against the GOP's power to egregiously gerrymander congressional districts nationally after 2020 the wa...",
+        "upvotes": 17,
+        "url": "https://www.dailykos.com/stories/2019/1/1/1818315/-Democrats-make-major-inroads-against-GOP-gerrymandering-but-the-GOP-still-holds-a-big-edge-for-2020"
+      },
+      {
+        "preview": "square(tea) / Flickr Sweden shows that soaking the rich is fun, cool, and good. tax Alexandria Ocasio-Cortez recently suggested raising the top tax rate to 70 percent in order to raise money to fund c...",
+        "upvotes": 1,
+        "url": "https://www.peoplespolicyproject.org/2019/01/05/sweden-has-a-70-percent-tax-rate-and-it-is-fine/"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 6,
+        "url": "https://www.axios.com/supreme-court-order-exxon-climate-change-580c6a47-cb91-4cfd-a813-453299e157fe.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": " peace accords in 1996.21 Huehuetenango had been one of Guatemala’s top migrant-sending regions. So why couldn’t these returnees survive in postwar Guatemala? One reason is the legacy of the genocide:...",
+        "upvotes": 3,
+        "url": "https://www.thenation.com/article/border-patrol-guatemala-dictatorship/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "d unfortunately it was won by Mike Braun, who is your stereotypical “I’m not homophobic but I support religious freedom to legally discriminate against LGBT people” Republican. I suppose this is to be...",
+        "upvotes": 1,
+        "url": "https://guardianacorn.com/2019/01/01/us-2018-midterm-rundown-how-does-our-congress-stand-on-lgbt-minority-rights-pinktsunami/"
+      },
+      {
+        "preview": "Melinda Wenner MoyerJanuary/February 2019 Issue Moira and her mother, Dania, at a recent hospital visit. Matt Eich A monster snowstorm had just walloped North Carolina, and the city of Greensboro care...",
+        "upvotes": 3,
+        "url": "https://www.motherjones.com/politics/2019/01/six-year-old-moira-is-one-of-the-sickest-people-in-america-so-why-is-north-carolina-trying-to-gut-her-health-care/"
+      },
+      {
+        "preview": "Maine approved Medicaid expansion by a ballot initiative more than a year ago, but former Governor Paul LePage had blocked it from taking effect. Thankfully, Gov. Janet Mills (D-ME) knows how to keep ...",
+        "upvotes": 806,
+        "url": "https://thinkprogress.org/maines-new-governor-moves-to-give-health-care-to-70000-people-on-her-first-day-in-office-814ff0af886d/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Supported by By Brad Plumer Want climate news in your inbox? Sign up here for Climate Fwd:, our email newsletter. WASHINGTON — America’s carbon dioxide emissions rose by 3.4 percent in 2...",
+        "upvotes": 3,
+        "url": "https://www.nytimes.com/2019/01/08/climate/greenhouse-gas-emissions-increase.html?emc=edit_na_20190108&nl=breaking-news&nlid=27899569ing-news&ref=cta"
+      },
+      {
+        "preview": "Feature In many parts of America, like Corinth, Miss., judges are locking up defendants who can’t pay — sometimes for months at a time. Brian Howell at the home of his girlfriend, Jessica Woods, in Co...",
+        "upvotes": 0,
+        "url": "https://www.nytimes.com/2019/01/08/magazine/cities-fine-poor-jail.html"
+      },
+      {
+        "preview": "The Guide to the Local Way of Life on Cape Ann & Boston’s North Shore Antiquarian, author, and activist Gregory Gibson on his journey out of “an unspeakable place of chaos and death.” “Ever since Gale...",
+        "upvotes": 1,
+        "url": "http://www.theothercape.com/stories/2019/1/9/gregory-gibson"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Senator Bernie Sanders wants to be president—he made that much clear with his energized campaign in 2016. Senator Elizabeth Warren does, too, as several recent moves show. They both have widespread na...",
+        "upvotes": 3,
+        "url": "https://newrepublic.com/article/151871/essential-difference-bernie-sanders-elizabeth-warren"
+      },
+      {
+        "preview": "Sometimes I look at President Donald Trump and wonder how I’m going to write yet another article about his stupidity. Trump has made a lot of boneheaded decisions, but one of the worst things he’s eve...",
+        "upvotes": 1,
+        "url": "https://medium.com/@eaafolabi/as-staffers-bail-on-wh-trump-turns-to-right-wing-shock-jocks-for-advice-fadec1e4ad3a"
+      },
+      {
+        "preview": "Former Vermont Governor Howard Dean said President Donald Trump is “mentally incapacitated” during an MSNBC segment on the shutdown battle over border wall funding. “As I said before, I actually think...",
+        "upvotes": 115,
+        "url": "https://www.mediaite.com/tv/howard-dean-trump-is-mentally-incapacitated/"
+      }
+    ]
+  }
+}

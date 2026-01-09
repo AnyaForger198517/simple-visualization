@@ -1,0 +1,285 @@
+{
+  "month": "2020-03",
+  "total_articles": 141,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "american",
+        "billion",
+        "united",
+        "company",
+        "stock",
+        "march",
+        "money",
+        "spent",
+        "industry",
+        "aid",
+        "worker",
+        "decade",
+        "line",
+        "sale",
+        "package"
+      ],
+      "topic_weights": [
+        116.6909561955664,
+        112.83754498908748,
+        90.9282829860055,
+        81.67700131078713,
+        78.5721201703762,
+        63.08347148660208,
+        58.05493812218765,
+        54.3736776376556,
+        54.04438978568515,
+        48.61426303749181,
+        45.9654510925774,
+        37.95428978051253,
+        37.53374220222617,
+        37.05691773270756,
+        34.85423505982263
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "ha",
+        "coronavirus",
+        "state",
+        "crisis",
+        "government",
+        "president",
+        "pandemic",
+        "life",
+        "york",
+        "europe",
+        "wa",
+        "power",
+        "emergency",
+        "cuomo"
+      ],
+      "topic_weights": [
+        189.47662791553674,
+        145.63392021780626,
+        132.1931276358955,
+        118.91200014236443,
+        110.29883653857549,
+        101.24634019363538,
+        89.21017892491933,
+        78.46731050688614,
+        73.96926379140172,
+        71.95813240052733,
+        68.44249677595286,
+        68.14199198682668,
+        63.73740710688094,
+        59.12135007366949,
+        59.11643793523847
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "health",
+        "trump",
+        "mask",
+        "coronavirus",
+        "president",
+        "state",
+        "ha",
+        "country",
+        "covid",
+        "public",
+        "outbreak",
+        "case",
+        "week",
+        "virus"
+      ],
+      "topic_weights": [
+        364.07222836495504,
+        312.72669664533146,
+        295.8859390459002,
+        285.76564592942856,
+        223.32063869417385,
+        162.64353371508017,
+        152.364008883754,
+        144.09638115514608,
+        141.49361768240956,
+        138.2569463745816,
+        123.00765097249575,
+        122.64858523302526,
+        122.0618015680148,
+        110.6940785282154,
+        110.18368735884314
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "court",
+        "wa",
+        "walmart",
+        "report",
+        "attorney",
+        "doj",
+        "judge",
+        "investigation",
+        "university",
+        "ha",
+        "department",
+        "general",
+        "company",
+        "case",
+        "trump"
+      ],
+      "topic_weights": [
+        109.49985399693004,
+        102.80541530958813,
+        97.56031618362772,
+        97.47697960793111,
+        73.6528604277416,
+        66.30894082689707,
+        63.91220539570416,
+        54.92073315424282,
+        54.8642069205902,
+        47.27713694453413,
+        45.342034932852336,
+        45.19368452877706,
+        44.6186433512299,
+        42.94566625636154,
+        42.810235289177605
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "biden",
+        "sander",
+        "ha",
+        "campaign",
+        "trump",
+        "child",
+        "warren",
+        "president",
+        "reported",
+        "democratic",
+        "candidate",
+        "supporter",
+        "state",
+        "newell"
+      ],
+      "topic_weights": [
+        187.84142321974224,
+        100.79141217929188,
+        76.4389852756946,
+        55.32681393723996,
+        47.08223784579588,
+        44.66910072632821,
+        44.145101267571334,
+        39.672432023082735,
+        37.72456818267006,
+        34.63306637469137,
+        33.453854442588856,
+        32.425185280484754,
+        30.946049087051147,
+        29.720486925878653,
+        29.521649136833823
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 46,
+    "4": 38,
+    "0": 8,
+    "3": 12,
+    "2": 37
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » Each month, the Bureau of Lab...",
+        "upvotes": 360,
+        "url": "https://www.brookings.edu/blog/the-avenue/2020/01/08/low-unemployment-isnt-worth-much-if-the-jobs-barely-pay/"
+      },
+      {
+        "preview": "Erik Prince, a security contractor who has ties to the Trump administration, recruited former spies to infiltrate liberal groups, reports to the New York Times. The founder of the private military con...",
+        "upvotes": 3,
+        "url": "https://slate.com/news-and-politics/2020/03/security-contractor-erik-prince-recruited-spies-infiltrate-liberal-groups.html"
+      },
+      {
+        "preview": "Using the coronavirus as his excuse, Donald Trump is working to give the highest-paid American workers a valuable tax break, while tossing crumbs to the middle class and the working poor. On the night...",
+        "upvotes": 69,
+        "url": "http://thecontributor.com/coronavirus/trump-grifts-pandemic-give-rich-another-big-tax-cut"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Getty Images Some American beer drinkers are allegedly avoiding Corona beer amid the deadly coronavirus outbreak--at least according to a controversial new survey. 38 percent of beer drinkers surveyed...",
+        "upvotes": 0,
+        "url": "https://www.maxim.com/news/corona-beer-coronavirus-survey-2020-2"
+      },
+      {
+        "preview": "Follow think More from NBC © 2021 .COM As concern about the COVID-19, the new coronavirus, grows globally and here at home, the White House’s response has brought into stark relief why being president...",
+        "upvotes": 424,
+        "url": "https://www.nbcnews.com/think/opinion/trump-s-coronavirus-response-highlights-why-his-white-house-always-ncna1145071"
+      },
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » The night before Super Tuesda...",
+        "upvotes": 5,
+        "url": "https://www.brookings.edu/blog/fixgov/2020/03/05/trumps-character-problem/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "This article is more than 1 year old Days after Rep. Matt Gaetz (R-Fla.) wore an enormous gas mask during a House floor vote on an emergency funding package for the coronavirus response, the congressm...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/politics/2020/03/07/matt-gaetz-coronavirus-florida/"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Hours after the World Health Organization declared the novel coronavirus a pandemic, President Dona...",
+        "upvotes": 3,
+        "url": "https://www.businessinsider.com/coronavirus-trump-europe-travel-ban-exclude-uk-ireland-golf-courses-2020-3"
+      },
+      {
+        "preview": "Coronavirus missteps Drew Angerer/Getty Images The U.S. government's response to the COVID-19 coronavirus outbreak has been \"much, much worse than almost any other country that's been affected,\" Ashis...",
+        "upvotes": 885,
+        "url": "https://theweek.com/speedreads/902009/trump-reportedly-rejected-aggressive-coronavirus-testing-hopes-help-reelection"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News Poor interagency communication and management decisions left the Department of Health and Human Services unprepared for caring for and reunifying the...",
+        "upvotes": 371,
+        "url": "https://www.nbcnews.com/news/us-news/feds-were-ill-prepared-deal-separated-children-under-trump-s-n1150366"
+      },
+      {
+        "preview": "Advertisement Supported by By Leslie Maitland, Special To the New York Times President Reagan wants to initiate a broad program to combat the distribution of narcotics by organized crime, Administrati...",
+        "upvotes": 0,
+        "url": "https://www.nytimes.com/1982/10/09/us/us-plans-a-new-drive-on-narcotics.html"
+      },
+      {
+        "preview": "In last week’s Supreme Court arguments, pro-choice attorneys hoped the Court’s respect for precedent would temper its non-respect for women’s rights. by Felicia Kornbluh March 10, 2020 5:00 AM Jacquel...",
+        "upvotes": 180,
+        "url": "https://prospect.org/justice/will-supreme-court-ignore-past-rulings-zeal-to-demolish-abortion-rights/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by The first openly gay major presidential candidate, Mr. Buttigieg rose to the primary’s top tier, but was unable to build a broad coalition of voters, and lost badly in South...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/03/01/us/politics/pete-buttigieg-drops-out.html#click=https://t.co/FnCUtBnyz4"
+      },
+      {
+        "preview": "Welcome, Confused about the flurry of news in the presidential race? Here’s what it all means Rolling Stone Washington bureau chief Democratic presidential candidates Sen. Bernie Sanders (I-VT), forme...",
+        "upvotes": 1,
+        "url": "https://www.rollingstone.com/politics/politics-news/bernie-sanders-joe-biden-elizabeth-warren-dnc-establishment-super-tuesday-960988/"
+      },
+      {
+        "preview": "Advertisement Supported by On the eve of Super Tuesday, the president traveled to North Carolina to once again stage a rally in a state about to hold a Democratic nominating contest and eagerly mocked...",
+        "upvotes": 6,
+        "url": "https://www.nytimes.com/2020/03/02/us/politics/trump-rally-charlotte-democrats.html#click=https://t.co/yzo14mJzgV"
+      }
+    ]
+  }
+}

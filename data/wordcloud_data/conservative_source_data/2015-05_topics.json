@@ -1,0 +1,280 @@
+{
+  "month": "2015-05",
+  "total_articles": 234,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "woman",
+        "ha",
+        "student",
+        "men",
+        "black",
+        "school",
+        "life",
+        "mean",
+        "college",
+        "did",
+        "white",
+        "point",
+        "matter",
+        "rape"
+      ],
+      "topic_weights": [
+        605.9877290728595,
+        403.22137467699696,
+        270.3094478001871,
+        222.0759075229187,
+        186.38587330872804,
+        163.51225395508507,
+        156.1488279101867,
+        144.6103612126752,
+        141.746419852811,
+        140.29101137454217,
+        137.5050405435131,
+        131.83189438505497,
+        131.067043074946,
+        125.20207329954643,
+        118.20155717182672
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "posted",
+        "april",
+        "woman",
+        "wa",
+        "guy",
+        "ha",
+        "hillary",
+        "did",
+        "girl",
+        "men",
+        "looking",
+        "kill",
+        "hot",
+        "vote",
+        "attractive"
+      ],
+      "topic_weights": [
+        1920.6472759717078,
+        1051.5922960389905,
+        207.7858410800341,
+        179.913904553857,
+        114.0486524087779,
+        75.78669848097474,
+        73.59500564505768,
+        68.31219973797165,
+        61.8087220368079,
+        60.55644137733554,
+        56.58490848553604,
+        49.33329195075064,
+        49.022250839323036,
+        48.8216328636846,
+        46.9512412927763
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "clinton",
+        "ha",
+        "republican",
+        "president",
+        "candidate",
+        "hillary",
+        "state",
+        "obama",
+        "news",
+        "medium",
+        "campaign",
+        "bush",
+        "party",
+        "democrat"
+      ],
+      "topic_weights": [
+        466.3568935026578,
+        436.1942884211613,
+        281.0925753306256,
+        256.251712479767,
+        223.7678603405011,
+        221.6480880291834,
+        216.6150065097161,
+        185.74287072344583,
+        178.8356502904426,
+        178.19362658077088,
+        167.1321537774744,
+        155.3948850617563,
+        131.61636438068,
+        127.80186995201348,
+        124.40301960737483
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "wa",
+        "ha",
+        "american",
+        "obama",
+        "government",
+        "nation",
+        "iran",
+        "america",
+        "federal",
+        "national",
+        "law",
+        "cotton",
+        "water",
+        "president"
+      ],
+      "topic_weights": [
+        439.2372841446183,
+        435.3900554168699,
+        314.17497657614683,
+        273.8703102258717,
+        196.5217119899224,
+        156.6823973159077,
+        154.18158897721796,
+        140.7345911130069,
+        136.28371528016197,
+        130.6994333105571,
+        130.4553854512573,
+        129.6661208774835,
+        129.47805593248296,
+        120.54060930277838,
+        118.97150900975228
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "tax",
+        "income",
+        "percent",
+        "inequality",
+        "state",
+        "wage",
+        "american",
+        "ha",
+        "rate",
+        "increase",
+        "wa",
+        "biden",
+        "government",
+        "worker",
+        "higher"
+      ],
+      "topic_weights": [
+        350.73614002714515,
+        317.5535353831354,
+        178.6097301630769,
+        154.24080822820835,
+        150.9615782395838,
+        115.98486382558804,
+        109.60752104798217,
+        101.62715275140549,
+        95.50848529956288,
+        95.10612889214428,
+        89.01794296679932,
+        87.9339215561188,
+        84.86402134670561,
+        83.69056692520577,
+        82.82983178453341
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 91,
+    "2": 75,
+    "0": 45,
+    "1": 2,
+    "4": 21
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The media make money off race riots. They gin them up; they promote them; then they react to them. Media reactions to the riots in Baltimore over the death of Freddie Gray have ranged from the egregio...",
+        "upvotes": 17,
+        "url": "http://www.breitbart.com/big-journalism/2015/04/30/7-worst-media-reactions-to-the-baltimore-riots/"
+      },
+      {
+        "preview": "Nigel Farage has told an audience at the BBC that UKIP would continue even if Eurosceptics lost the referendum. He said that he would “accept the result” if it was “free and fair” but confirmed that h...",
+        "upvotes": 6,
+        "url": "http://www.breitbart.com/london/2015/05/01/farage-ukip-wont-disappear-if-we-lose-euro-referendum/"
+      },
+      {
+        "preview": "From the very beginning of our country, Americans have wrestled with how best to govern ourselves within the framework of the Constitution. Do we want a strong federal government, or a weaker one? Do ...",
+        "upvotes": 58,
+        "url": "http://reason.com/archives/2015/05/01/of-course-democrats-deserve-the-blame-fo"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Goodbye: Britain Bans \"Are You Beach Body Ready?\" Ads, Citing \"Sexism\" Every day in every way feminism becomes more indistinguishable from Islamism -- which also strenuously objects to the uncovered f...",
+        "upvotes": 1,
+        "url": "http://acecomments.mu.nu/?post=356450"
+      },
+      {
+        "preview": "The Texas Senate passed House Bill 1187 designating a segment of U.S. Hwy 287 in Midlothian, as the Chris Kyle Memorial Highway. The Texas House passed the bill earlier this month. The bill will now g...",
+        "upvotes": 0,
+        "url": "http://acecomments.mu.nu/?post=356869"
+      }
+    ],
+    "2": [
+      {
+        "preview": "BALTIMORE (CBS BALTIMORE) — A Maryland sheriff who traveled to Baltimore to help law enforcement stop Monday’s riots told 105.7 The Fan that he was stunned when officers alerted him of the orders to s...",
+        "upvotes": 39,
+        "url": "http://baltimore.cbslocal.com/2015/04/30/sheriff-michael-lewis-on-the-stand-down-orders-given-to-city-officers/"
+      },
+      {
+        "preview": "Injury on head of man whose death sparked Baltimore riots matched a bolt in the back of police van, according to local ABC news station First published on Thu 30 Apr 2015 12.00 EDT Freddie Gray sustai...",
+        "upvotes": 4,
+        "url": "http://www.theguardian.com/us-news/2015/apr/30/baltimore-police-van-freddie-gray-stop"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 35,
+        "url": "http://newsbusters.org/blogs/curtis-houck/2015/05/01/nbc-hails-bernie-sanders-not-your-typical-blow-dried-politician-abc"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Ed Miliband is “easily the most dangerous man who has ever come within touching distance of becoming our Prime Minister,” commentator Christopher Booker has said. Writing about Miliband’s record as Se...",
+        "upvotes": 10,
+        "url": "http://www.breitbart.com/london/2015/04/29/hold-on-to-your-wallet-ed-milibands-climate-change-law-will-cost-each-home-50000-per-year/"
+      },
+      {
+        "preview": "Cops across the nation are frustrated by the media largely ignoring police officers killed in the line of duty, while sensationalizing the death of suspects shot by the police. “I felt this around the...",
+        "upvotes": 3,
+        "url": "http://www.breitbart.com/texas/2015/05/01/fbi-director-police-frustrated-by-media-ignoring-blue-deaths/"
+      },
+      {
+        "preview": "om/…..districts/ 4. Maryland and North Carolina are essentially tied for the honor of most-gerrymandered state. “With average gerrymander scores of about 88 out of a possible 100, Maryland and North C...",
+        "upvotes": 7,
+        "url": "http://pjmedia.com/tatler/2015/04/30/obama-admin-wont-let-states-ask-for-proof-of-citizenship-on-voter-registration-form/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A new report from seasoned meteorologists says the sun is “almost completely blank” as the center of the solar system enters its weakest cycle in more than a century. “The main driver of all weather a...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2015/04/30/the-sun-is-blank-as-solar-activity-comes-to-a-standstill/"
+      },
+      {
+        "preview": "A black sociology professor at Vanderbilt University is arguing that “white privilege” is to blame for last week’s riots and looting in Baltimore, Md. The professor, Tony N. Brown, took to the op-ed p...",
+        "upvotes": 1,
+        "url": "http://en.wikipedia.org/wiki/Income_inequality_in_the_United_States"
+      },
+      {
+        "preview": "For “clarification” or something. Companies would no longer have to tell consumers they are recording some cellphone conversations until 20 seconds into the calls under a bill approved Tuesday by a co...",
+        "upvotes": 1,
+        "url": "https://www.change.org/p/tom-mcclintock-jeff-denham-kevin-mccarthy-repeal-obamacare"
+      }
+    ]
+  }
+}

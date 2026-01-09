@@ -1,0 +1,285 @@
+{
+  "month": "2013-11",
+  "total_articles": 182,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "government",
+        "men",
+        "political",
+        "democracy",
+        "man",
+        "american",
+        "public",
+        "law",
+        "nature",
+        "president",
+        "percent",
+        "obama"
+      ],
+      "topic_weights": [
+        504.04248928579017,
+        354.2044522064999,
+        255.63586239025216,
+        212.26720941360983,
+        196.41036529788337,
+        177.29145095986948,
+        160.3461726534923,
+        157.30366500180705,
+        152.50273173398577,
+        147.02992349941564,
+        125.48347038695027,
+        124.48300871760624,
+        116.4107379956263,
+        113.6754649402144,
+        110.9248337684113
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "state",
+        "school",
+        "pay",
+        "money",
+        "program",
+        "ha",
+        "story",
+        "student",
+        "american",
+        "education",
+        "sport",
+        "coverage",
+        "tax",
+        "insurance"
+      ],
+      "topic_weights": [
+        211.33576989139695,
+        130.7020639276805,
+        116.75499126873314,
+        106.54332833593121,
+        104.80503107858388,
+        100.39127979209088,
+        91.70879683398013,
+        87.35759474145082,
+        75.21674073505922,
+        72.29349468458902,
+        70.19630368203373,
+        67.06150971640676,
+        66.94470634661693,
+        65.75713915106387,
+        64.92869416228692
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "insurance",
+        "health",
+        "plan",
+        "obamacare",
+        "obama",
+        "care",
+        "law",
+        "president",
+        "exchange",
+        "ha",
+        "policy",
+        "coverage",
+        "house",
+        "administration",
+        "state"
+      ],
+      "topic_weights": [
+        275.89513168286186,
+        273.7877893328904,
+        216.71940407224324,
+        199.26692668500087,
+        180.9876072806739,
+        156.63229918075083,
+        142.63552115986096,
+        111.27903553479308,
+        107.06596523243086,
+        104.22997596825748,
+        91.65170748625735,
+        82.73536262199667,
+        81.85422839055352,
+        77.82908636646563,
+        77.4162139856956
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "regime",
+        "ha",
+        "state",
+        "democratic",
+        "government",
+        "pol",
+        "country",
+        "pot",
+        "war",
+        "political",
+        "force",
+        "book",
+        "life",
+        "iran"
+      ],
+      "topic_weights": [
+        307.2256521795745,
+        84.26559854054895,
+        79.06356797555691,
+        76.29420392143611,
+        72.2931175868037,
+        71.71259463381642,
+        59.707519230247655,
+        58.136284004612726,
+        57.48783630155525,
+        55.057618827166415,
+        55.01787385370817,
+        54.458726321469165,
+        53.90856883433712,
+        52.79797131850661,
+        49.645974019617995
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "republican",
+        "government",
+        "tax",
+        "wa",
+        "conservative",
+        "state",
+        "latino",
+        "party",
+        "democrat",
+        "christie",
+        "illinois",
+        "agency",
+        "percent",
+        "president"
+      ],
+      "topic_weights": [
+        146.64309315262182,
+        124.7906656818022,
+        117.08863204698036,
+        113.87429956047676,
+        107.05155572844531,
+        100.35361191513792,
+        87.28803591890286,
+        78.16043568529155,
+        76.21487109856734,
+        72.71725979535381,
+        67.77302550606714,
+        67.46413974746474,
+        59.511128521366544,
+        56.893130530488556,
+        55.37080969722476
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 30,
+    "2": 52,
+    "4": 38,
+    "0": 52,
+    "3": 10
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Front page layout Site theme Sign up or login to join the discussions! Cyrus Farivar - Oct 29, 2013 7:12 pm UTC It’s almost set up like a joke: how do we fix the Patriot Act? With the USA FREEDOM Act....",
+        "upvotes": 0,
+        "url": "http://arstechnica.com/tech-policy/2013/10/dozens-in-congress-now-ready-to-end-bulk-data-program/"
+      },
+      {
+        "preview": "Advertisement Israeli jet – Free Beacon Israeli officials are outraged after the Obama administration leaked information to the press on their latest airstrike in Syria. TIME reported: CNN reported Th...",
+        "upvotes": 1,
+        "url": "http://www.thegatewaypundit.com/2013/11/israeli-officials-outraged-after-obama-officials-confirm-airstrike-on-syrian-arms-supplies/"
+      },
+      {
+        "preview": "Sign In Manage Newsletters The death of Americans’ financial privacy Biden preaches ‘dignity’ at U.N. If not for double standards, liberals would have no standards at all A healthy, white, heterosexua...",
+        "upvotes": 12,
+        "url": "http://www.washingtontimes.com/news/2013/oct/31/pentagon-manual-white-christian-heterosexual-males/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "City council voted to raise the tobacco-purchasing age from 18 to 21. Oct. 31, 2013— -- intro: New York Mayor Mike Bloomberg's move to stymie smoking among young New Yorkers moved one step closer to r...",
+        "upvotes": 0,
+        "url": "http://abcnews.go.com/Health/young-smokers-top-nyc-mayor-mike-bloombergs-list/story?id=20739274"
+      },
+      {
+        "preview": "Today brings a new poll from Democracy Corps titled “Revolt against DC and the Republican Congress.” And it’s true: their polling shows that even in Republican districts, the GOP’s brand has taken a b...",
+        "upvotes": 1,
+        "url": "http://www.motherjones.com/kevin-drum/2013/10/new-poll-shows-democratic-incumbents-big-trouble"
+      },
+      {
+        "preview": "Guest post from AoSHQ commentator “ChemJeff.” Look, this is how these “voluntary” “pilot programs” work. First, the pilot program is started by a bunch of lefty do-gooders who sign up all of their fri...",
+        "upvotes": 0,
+        "url": "http://politicalhat.com/2013/11/02/how-the-governments-voluntary-pilot-programs-work/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Illinois’ comeback story starts here. While millions across the country are losing their health plans – despite repeatedly being promised by the president that they could keep them – Congress and the ...",
+        "upvotes": 0,
+        "url": "http://illinoispolicy.org/obamacare-congressional-membership-has-its-privileges/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 15,
+        "url": "http://www.buzzfeed.com/passantino/just-6-people-managed-to-sign-up-for-obamacare-on-the-first"
+      },
+      {
+        "preview": "“When you repeat something of substance you know not to be true, you’re lying,” writes former Romney strategist Stuart Stevens regarding Obama’s broken if you like your plan, you can keep it pledge. “...",
+        "upvotes": 0,
+        "url": "http://dailycaller.com/2013/10/31/why-obama-lied-he-learned-the-lessons-of-hillarycare/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Some observers attribute the sharp drop to the shutdown and the furloughed federal workers. Even if that were the case, and it is unclear why these workers would be counted as not in the labor force, ...",
+        "upvotes": 13,
+        "url": "http://www.breitbart.com/Big-Government/2013/11/08/720-Americans-Leave-Labor-Force-in-October"
+      },
+      {
+        "preview": "Where politics meets the press Get alerts from the On Media blog By signing up you agree to receive email newsletters or updates from  and you agree to our privacy policy and terms of service. You can...",
+        "upvotes": 1,
+        "url": "http://www.politico.com/blogs/media/2013/11/simon-schuster-pulling-benghazi-book-177108.html?hp=r17"
+      },
+      {
+        "preview": "©2020 MERCURY RADIO ARTS.ALL RIGHTS RESERVED. TERMS OF USE | PRIVACY POLICY Writer New Jersey governor Chris Christie enjoyed a landslide victory over his Democratic challenger, Barbara Buono, is last...",
+        "upvotes": 42,
+        "url": "http://www.glennbeck.com/2013/11/11/why-is-glenn-saying-he-might-not-vote-in-the-2016-election/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Photo by Chip Somodevilla/Getty Images The clear lede from the NBC/Wall Street Journal poll is the approval rating for Barack Obama. Post-shutdown, post-debt ceiling, post-Syria, in the midst of every...",
+        "upvotes": 22,
+        "url": "http://www.slate.com/blogs/weigel/2013/10/31/poll_hillary_clinton_s_popularity_tumbles_oh_so_does_obama_s.html"
+      },
+      {
+        "preview": "(AP Photo) In fiscal 2013, which ended Sept. 30, the deficit was $680.276 billion, according to the Monthly Treasury Statement released Wednesday. In fiscal 2012, the deficit was $1.089193 trillion; i...",
+        "upvotes": 40,
+        "url": "http://www.cnsnews.com/news/article/terence-p-jeffrey/obama-has-presided-over-5-6-largest-deficits-us-history"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since The order is the latest move by the White House to demonstrate that it is willing to curb at least ...",
+        "upvotes": 0,
+        "url": "http://www.businessinsider.com/obama-orders-nsa-to-stop-spying-on-the-world-bank-imf-2013-10"
+      }
+    ]
+  }
+}

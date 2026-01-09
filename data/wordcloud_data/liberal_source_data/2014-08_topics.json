@@ -1,0 +1,280 @@
+{
+  "month": "2014-08",
+  "total_articles": 97,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "republican",
+        "voter",
+        "law",
+        "vote",
+        "election",
+        "wa",
+        "american",
+        "court",
+        "party",
+        "link",
+        "ha",
+        "money",
+        "fraud",
+        "candidate"
+      ],
+      "topic_weights": [
+        113.78200894415541,
+        111.27819181013047,
+        100.30168618874045,
+        76.27081941851606,
+        68.56829035116512,
+        62.93823006317986,
+        60.88233607924287,
+        59.95488377577849,
+        58.160780056007624,
+        52.90262968156447,
+        52.239590653366086,
+        50.73358031238088,
+        42.00216747374811,
+        41.70657339321896,
+        39.07285012555502
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "tax",
+        "percent",
+        "republican",
+        "ha",
+        "wa",
+        "state",
+        "voter",
+        "democrat",
+        "american",
+        "income",
+        "social",
+        "party",
+        "corporate",
+        "michigan",
+        "policy"
+      ],
+      "topic_weights": [
+        144.75501847510168,
+        101.9490616493308,
+        70.75230317419941,
+        64.00623668380952,
+        61.55357288967798,
+        60.29452744693366,
+        58.11165112578205,
+        52.513052354084216,
+        50.44899072194306,
+        47.601728400387124,
+        45.5190312025351,
+        45.405621851364415,
+        41.35071141436005,
+        40.67748890075872,
+        39.92034268415415
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "black",
+        "white",
+        "ha",
+        "bush",
+        "university",
+        "state",
+        "jones",
+        "house",
+        "story",
+        "video",
+        "president",
+        "comment",
+        "mother",
+        "student"
+      ],
+      "topic_weights": [
+        131.1449538401253,
+        95.74184046929516,
+        53.79791095491323,
+        53.3248771611824,
+        46.435477639856884,
+        45.79331614337588,
+        43.442440808408456,
+        41.02140530318648,
+        37.044637115845894,
+        34.73627813559552,
+        34.47119014431989,
+        33.56034942593826,
+        32.90423274038505,
+        31.41355500739701,
+        30.42433226454454
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "ferguson",
+        "police",
+        "swat",
+        "august",
+        "cop",
+        "ha",
+        "black",
+        "gas",
+        "team",
+        "louis",
+        "twitter",
+        "pic",
+        "military",
+        "department",
+        "wa"
+      ],
+      "topic_weights": [
+        296.0658392392236,
+        273.9072815567472,
+        210.23430175680332,
+        188.49955811581708,
+        186.73209838314546,
+        183.59202334330368,
+        179.80046515444502,
+        179.4648881267258,
+        164.48734708499873,
+        155.46506990722335,
+        141.99953793920446,
+        141.88831525055625,
+        133.570019639223,
+        133.55830910039134,
+        128.7555173045288
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "wa",
+        "state",
+        "worker",
+        "public",
+        "police",
+        "american",
+        "pension",
+        "israel",
+        "school",
+        "america",
+        "work",
+        "law",
+        "officer",
+        "government"
+      ],
+      "topic_weights": [
+        179.6456188119856,
+        176.09238694455834,
+        147.49170757758824,
+        98.91121128934331,
+        92.0359736416354,
+        91.30772643686646,
+        85.80757540408091,
+        75.83639701556744,
+        73.4333616770215,
+        70.95962964424352,
+        55.37150082974626,
+        54.53229639646574,
+        54.381191620961964,
+        54.08015275592874,
+        53.8242374701423
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 42,
+    "0": 21,
+    "1": 14,
+    "2": 18,
+    "3": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 0,
+        "url": "http://www.rightwingwatch.org/content/sandy-rios-explains-how-undocumented-children-are-adulterers"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 2,
+        "url": "http://www.rightwingwatch.org/content/gop-candidate-michael-peroutka-fails-shake-extremist-label-not-racist-press-conference"
+      },
+      {
+        "preview": "Scientists seeking funding and journalists seeking an audience agree: panic sells. “Global cooling is going to kills us all!” “No, wait: global warming is going to kill us all!” All that’s missing is ...",
+        "upvotes": 1,
+        "url": "http://www.americanthinker.com/blog/2014/08/120_years_of_climate_scares.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A bipartisan-authored resolution to honor Pope Francis for his “inspirational statements and actions” has stalled in Congress. The reason isn’t because they have more pressing issues that need immedia...",
+        "upvotes": 12,
+        "url": "http://ringoffireradio.com/2014/07/house-republicans-say-pope-francis-is-too-liberal-to-be-honored/"
+      },
+      {
+        "preview": "The decline of industrial unions and significant demographic changes portend challenging times for the region’s Democrats. by Anna Clark July 26, 2014 6:56 AM It was just one more embarrassment for He...",
+        "upvotes": 4,
+        "url": "http://prospect.org/article/will-economic-populism-win-back-midwest-democrats"
+      },
+      {
+        "preview": "Minimum wages are a perennially controversial topic in the politics of countries all around the world. And yet despite the debate, virtually all developed countries have a minimum wage either set by l...",
+        "upvotes": 17,
+        "url": "http://www.vox.com/2014/8/6/5964369/maximum-wage"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Prairie Chapel Ranch is a 1,583-acre (6.4 km²) ranch in unincorporated McLennan County, Texas, located 7 miles (11 km) northwest of Crawford (about 25 miles (40 km) from Waco). The property was acquir...",
+        "upvotes": 1,
+        "url": "http://en.m.wikipedia.org/wiki/Prairie_Chapel_Ranch#/image/File:President_George_Bush_and_2005_Tour_de_France_winner_Lance_Armstrong_take_a_ride_together.jpg"
+      },
+      {
+        "preview": "Borderline personality: A Minuteman Project volunteer in 2005AP Photo/John Miller In early July, Chris Davis issued a call to arms. “You see an illegal, you point your gun right dead at them, right be...",
+        "upvotes": 43,
+        "url": "http://www.motherjones.com/politics/2014/08/minuteman-movement-border-crisis-simcox"
+      },
+      {
+        "preview": "On Monday night, Rand Paul was with Steve King — the member of Congress who championed last week's bill to strip protections from young unauthorized immigrants so they would be vulnerable to deportati...",
+        "upvotes": 24,
+        "url": "http://www.vox.com/xpress/2014/8/5/5971093/steve-king-rand-paul-meet-DREAMer-erika-andiola-run-away"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The militarization of America's myriad law enforcement agencies is well known. Gone are the days of police officers normatively seeing themselves as integrated parts of a community's social fabric. \"O...",
+        "upvotes": 71,
+        "url": "http://www.dailykos.com/story/2014/08/12/1320956/-Militarized-Police-Turn-Protect-Serve-into-War-on-American-Citizens?detail=email"
+      },
+      {
+        "preview": "licopter 500 Series Wikipedia Local police departments no longer just rate military-grade armored personnel carriers and combat loads. They also rate the kinds of helicopters that can only make the No...",
+        "upvotes": 71,
+        "url": "http://www.thenation.com/article/181315/catalog-ferguson-police-weaponry"
+      }
+    ],
+    "4": [
+      {
+        "preview": "DAKAR (Reuters) - The death toll from an outbreak of Ebola in West Africa has risen to 729, the World Health Organisation said on Thursday, after 57 deaths were reported between July 24 and 27 in Guin...",
+        "upvotes": 1,
+        "url": "http://news.yahoo.com/death-toll-ebola-outbreak-rises-729-131642470.html"
+      },
+      {
+        "preview": "KANSAS CITY — Workers at three of the four snack cake plants operated by Hostess Brands L.L.C. have voted to unionize, according to the union representing the bakery workers. The three plants are loca...",
+        "upvotes": 9,
+        "url": "http://www.bakingbusiness.com/articles/news_home/Business/2014/07/Workers_vote_to_unionize_at_th.aspx?ID=%7BE536AED9-664E-406E-B9BF-35BD1EA9F777%7D&cck=1"
+      },
+      {
+        "preview": "Featured Shows  TV More More Shows Follow  More Brands More Shows Supreme Court Justice Ruth Bader Ginsburg's fierce 35-page dissent in Burwell v. Hobby Lobby wasn't her last word on the case. In an i...",
+        "upvotes": 98,
+        "url": "http://www.msnbc.com/msnbc/ginsburg-hobby-lobby-majority-has-blind-spot-womens-rights"
+      }
+    ]
+  }
+}

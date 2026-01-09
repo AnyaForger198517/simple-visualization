@@ -1,0 +1,280 @@
+{
+  "month": "2013-10",
+  "total_articles": 246,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "law",
+        "voter",
+        "federal",
+        "ha",
+        "american",
+        "voting",
+        "health",
+        "south",
+        "election",
+        "wa",
+        "court",
+        "insurance",
+        "kansa",
+        "party"
+      ],
+      "topic_weights": [
+        481.36644850931725,
+        370.64122600346,
+        339.3830339818287,
+        213.07907929035176,
+        201.64069244163053,
+        186.31627646175727,
+        183.80009593910282,
+        174.58802810432147,
+        171.8042145070781,
+        160.68624535884902,
+        156.93019892004665,
+        143.4474043898381,
+        137.99110509459544,
+        133.93514567411611,
+        132.53846449803325
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "jones",
+        "mother",
+        "story",
+        "wa",
+        "today",
+        "policy",
+        "privacy",
+        "type",
+        "term",
+        "journalism",
+        "subscribe",
+        "donation",
+        "partner",
+        "message",
+        "deductible"
+      ],
+      "topic_weights": [
+        481.48386892242576,
+        477.0299342577654,
+        213.0791637258412,
+        211.9844385630116,
+        206.0413595758237,
+        179.84693444814673,
+        171.2287206182914,
+        166.45878354945697,
+        160.6386586576704,
+        156.4013947927357,
+        153.34934025813342,
+        141.1487455681386,
+        129.363115542537,
+        126.32581680212152,
+        126.31640669097688
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "food",
+        "government",
+        "program",
+        "work",
+        "cut",
+        "security",
+        "service",
+        "american",
+        "school",
+        "family",
+        "social",
+        "income",
+        "economy"
+      ],
+      "topic_weights": [
+        294.0974775246493,
+        261.7133687597793,
+        203.31744448313475,
+        163.74691113596788,
+        150.69151867688714,
+        124.70184742489869,
+        120.92824843127934,
+        107.18377727288366,
+        104.05870852408357,
+        103.49331895043767,
+        102.70863925004772,
+        101.4247167649206,
+        100.66420125610759,
+        100.47348060726314,
+        96.98549651279463
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "republican",
+        "wa",
+        "party",
+        "ha",
+        "government",
+        "house",
+        "obama",
+        "president",
+        "shutdown",
+        "debt",
+        "tea",
+        "cruz",
+        "democrat",
+        "political",
+        "conservative"
+      ],
+      "topic_weights": [
+        818.6415123106547,
+        735.5786657080865,
+        584.3064621218657,
+        429.34735344110607,
+        415.95568619638766,
+        308.7409253887518,
+        290.8050394350987,
+        259.61253785878915,
+        242.43915917208363,
+        239.6777275103765,
+        236.18495187042552,
+        234.52133845667674,
+        229.01333557209483,
+        218.90405988095614,
+        217.00117073730573
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "prison",
+        "company",
+        "state",
+        "wa",
+        "private",
+        "facility",
+        "prisoner",
+        "video",
+        "group",
+        "phone",
+        "public",
+        "contract",
+        "incarceration",
+        "jail",
+        "ha"
+      ],
+      "topic_weights": [
+        608.999162180194,
+        408.28336975175733,
+        235.88955083017265,
+        208.5540053409132,
+        203.68107122840087,
+        157.5305293669555,
+        128.3874313621776,
+        119.14205534995841,
+        104.51500884865304,
+        101.11420501566406,
+        92.78270476714391,
+        91.1142449957079,
+        90.4849990593737,
+        90.33034847777597,
+        85.72561904110098
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 20,
+    "3": 120,
+    "2": 69,
+    "4": 2,
+    "1": 35
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Misinformation isn't going away just because it's a new year. Support trusted, factual information with a tax deductible contribution to . More Info Audience members take notes on health insurance mar...",
+        "upvotes": 5,
+        "url": "http://www.politifact.com/truth-o-meter/article/2013/sep/24/top-16-myths-about-health-care-law/"
+      },
+      {
+        "preview": "PHOENIX (AP) — A federal judge has ordered the appointment of a monitor and a community advisory board to ensure that an Arizona sheriff is complying with constitutional requirements after finding his...",
+        "upvotes": 28,
+        "url": "http://talkingpointsmemo.com/news/federal-judge-orders-a-monitor-to-watch-arizona-sheriff-arpaio"
+      },
+      {
+        "preview": "Now, I’m not the one to invoke the phrase “founding principles”, especially when I talk about the Constitution (I don’t believe in strict constitutional originalism). However, when talking about the A...",
+        "upvotes": 9,
+        "url": "http://curiousleftist.wordpress.com/2013/10/03/why-voter-id-laws-betray-our-founding-principles/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "In recent weeks, politicians on both sides of the aisle have been fundraising off of the government shutdown and possible default. On Monday, the Democratic Congressional Campaign Committee blasted ou...",
+        "upvotes": 19,
+        "url": "http://www.motherjones.com/mojo/2013/10/elizabeth-warren-tea-party-anarchist-shutdown?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Motherjones%2Fmojoblog+%28MotherJones.com+|+MoJoBlog%29"
+      },
+      {
+        "preview": "At its core, the dispute over the budget and the debt ceiling isn’t complicated at all. But it is full of misconceptions and urban myths. Here are the 10 facts worth remembering past all the obfuscati...",
+        "upvotes": 29,
+        "url": "http://www.motherjones.com/kevin-drum/2013/10/shutdown-debt-ceiling-explained"
+      },
+      {
+        "preview": "Wikimedia <a  Perhaps you’ve heard that if Congress fails to raise the debt ceiling by October 17 the United States will face an unprecedented financial default. The way some Republicans talk about th...",
+        "upvotes": 16,
+        "url": "http://www.motherjones.com/politics/2013/10/16-ways-not-raising-debt-ceiling-will-screw-americans"
+      }
+    ],
+    "2": [
+      {
+        "preview": "At the beginning of the year, Andrew Fieldhouse and I tried to document lots of the ways that the GOP House had managed to smother a full recovery from the Great Recession. The list was pretty impress...",
+        "upvotes": 4,
+        "url": "http://www.epi.org/blog/gop-members-congress-fiscal-showdown-leverage/"
+      },
+      {
+        "preview": "WASHINGTON -- In the event of a government shutdown, hundreds of thousands of federal workers would be furloughed, not knowing if or when they'd get paid. Their paychecks would ultimately depend upon ...",
+        "upvotes": 60,
+        "url": "http://www.huffingtonpost.com/2013/09/27/government-shutdown-congress-gets-paid_n_4005863.html"
+      },
+      {
+        "preview": "This originally appeared on ProPublica. When you read about abortion these days, the news is mostly about restrictions—new state laws, regulations, and court challenges that aim (depending on your poi...",
+        "upvotes": 4,
+        "url": "http://www.salon.com/2013/09/30/bulking_the_trend_california_is_trying_to_expand_access_to_abortions_partner/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Supported by By Jonathan Martin After Senator Elizabeth Warren spoke at a luncheon in Beverly Hills, Calif., last month, women from the audience swarmed around her, many of them asking t...",
+        "upvotes": 23,
+        "url": "http://www.nytimes.com/2013/09/30/us/politics/warren-is-now-the-hot-ticket-on-the-far-left.html?pagewanted=all"
+      },
+      {
+        "preview": "As the government shutdown loomed, many Americans did what comes naturally in matters regarding Washington: They ignored it. Now that the shutdown has happened, many people are inclined toward a secon...",
+        "upvotes": 1,
+        "url": "http://www.usatoday.com/story/opinion/2013/10/01/republicans-obamacare-shutdown-blame-editorials-debates/2896557/"
+      },
+      {
+        "preview": "There is a frustrating tendency in American political reporting to adopt a position of \"both sides-ism\" – as in, \"both sides\" are equally to blame for the nation's chronic political dysfunction. Somet...",
+        "upvotes": 21,
+        "url": "http://www.theguardian.com/commentisfree/2013/sep/30/government-shutdown-blame-republican-party"
+      }
+    ],
+    "4": [
+      {
+        "preview": "peatedly denied medication and accused of faking their distress. The Times also told the story of 46-year-old Diane Nelson, who died of a heart attack in a Florida jail. “Stop the theatrics,” a Prison...",
+        "upvotes": 6,
+        "url": "http://www.thenation.com/prison-profiteers"
+      },
+      {
+        "preview": " But youth who have been inside YSI facilities told HuffPost that those wanting access to the hotline must seek permission from staff — often the same staff they say abused them. Williams, the YSI spo...",
+        "upvotes": 23,
+        "url": "http://projects.huffingtonpost.com/prisoners-of-profit-2"
+      }
+    ]
+  }
+}

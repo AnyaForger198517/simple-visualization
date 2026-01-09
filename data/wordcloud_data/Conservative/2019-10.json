@@ -1,0 +1,36 @@
+{
+  "month": "2019-10",
+  "total_articles": 135,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Online Posting and Trump-related Commentary",
+      "core_keywords": ["posted", "trump", "president", "schiff", "whistleblower", "report", "october"],
+      "importance_ratio": 0.0074
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump-Ukraine Scandal and White House Politics",
+      "core_keywords": ["trump", "ukraine", "president", "house", "zelensky", "china", "security"],
+      "importance_ratio": 0.0741
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Impeachment and Partisan Politics",
+      "core_keywords": ["trump", "impeachment", "president", "schiff", "democrat", "republican", "house"],
+      "importance_ratio": 0.2815
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Obama Legacy and Social Cultural Debates",
+      "core_keywords": ["obama", "president", "climate", "woman", "culture", "change", "world"],
+      "importance_ratio": 0.4963
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Election Campaigns and Congressional Politics",
+      "core_keywords": ["campaign", "election", "house", "congress", "trump", "california", "state"],
+      "importance_ratio": 0.1407
+    }
+  ]
+}

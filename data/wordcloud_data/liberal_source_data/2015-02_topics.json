@@ -1,0 +1,285 @@
+{
+  "month": "2015-02",
+  "total_articles": 203,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "tax",
+        "state",
+        "paul",
+        "percent",
+        "income",
+        "ha",
+        "worker",
+        "job",
+        "pay",
+        "union",
+        "republican",
+        "wa",
+        "government",
+        "federal",
+        "health"
+      ],
+      "topic_weights": [
+        322.78317320037297,
+        266.7519054372725,
+        249.79648529547762,
+        215.9120998711483,
+        209.51633890329168,
+        209.1206175442989,
+        187.445405603857,
+        147.2607345140512,
+        143.27349237683146,
+        119.21078499241965,
+        114.28859451818121,
+        109.16780049392096,
+        108.85678991239917,
+        103.2607444627327,
+        102.73528867227375
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "border",
+        "immigrant",
+        "state",
+        "open",
+        "policy",
+        "immigration",
+        "world",
+        "country",
+        "american",
+        "government",
+        "right",
+        "public",
+        "read"
+      ],
+      "topic_weights": [
+        250.6353649606808,
+        206.49879736505056,
+        173.26783226962397,
+        167.46063698459676,
+        164.83264368680142,
+        148.977575035102,
+        146.76798748835478,
+        137.68854213518256,
+        120.97516725877857,
+        110.8748961312299,
+        108.19701523888284,
+        103.75800576467974,
+        99.29353571742415,
+        94.05465536829115,
+        92.45429065101429
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "told",
+        "news",
+        "house",
+        "child",
+        "police",
+        "family",
+        "obama",
+        "republican",
+        "brown",
+        "mother",
+        "attorney",
+        "woman",
+        "law"
+      ],
+      "topic_weights": [
+        753.4668546070783,
+        160.9972569978563,
+        130.83741968177506,
+        125.61924435761541,
+        122.42496651630206,
+        117.12694594474728,
+        113.58259327599842,
+        112.19131361137377,
+        108.70207021886964,
+        103.59703945878768,
+        102.7903049413708,
+        88.73587842667317,
+        87.49473072258589,
+        86.55597767967096,
+        82.82552412244593
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "clinton",
+        "ha",
+        "obama",
+        "president",
+        "american",
+        "white",
+        "state",
+        "war",
+        "black",
+        "bush",
+        "campaign",
+        "hillary",
+        "america",
+        "country"
+      ],
+      "topic_weights": [
+        363.47693860659797,
+        279.7344391414693,
+        247.27606946370366,
+        238.34045567636002,
+        172.46225118115208,
+        158.37138359815887,
+        133.92162027588918,
+        133.20513883258795,
+        132.0773475124163,
+        108.67881581258143,
+        99.21649509498847,
+        93.49818828350108,
+        93.28865715843547,
+        93.11489346045896,
+        88.33122862361797
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "reilly",
+        "meanguera",
+        "salvador",
+        "story",
+        "report",
+        "war",
+        "did",
+        "massacre",
+        "book",
+        "news",
+        "data",
+        "stand",
+        "writes",
+        "tell"
+      ],
+      "topic_weights": [
+        281.8264923061103,
+        220.17020694751906,
+        79.1286704750164,
+        68.20737627242953,
+        65.43848107829088,
+        61.235518120430726,
+        57.08358729221826,
+        56.88556628795902,
+        52.10153580666172,
+        48.756819214234085,
+        47.768248134053444,
+        44.81891057469142,
+        40.42845019754282,
+        40.10553941213644,
+        39.314850942241684
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 56,
+    "3": 56,
+    "0": 44,
+    "2": 42,
+    "4": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sen. Sherrod Brown and 25 other senators are asking the White House to allow anyone earning $1,090 per week or less to receive overtime pay. Sen. Sherrod Brown and 25 other senators are asking the Whi...",
+        "upvotes": 64,
+        "url": "http://www.dispatch.com/content/blogs/the-daily-briefing/2015/01/1-29-2015-brown-25-other-dems-call-for-a-hike-in-who-can-get-overtime.html"
+      },
+      {
+        "preview": "But five years later, congressional Republicans have yet to deliver on either of those commitments. After their concerted campaign to undermine Obamacare at both the federal and state level, over 50 r...",
+        "upvotes": 41,
+        "url": "http://www.dailykos.com/story/2015/02/01/1361102/-Five-years-later-GOP-still-has-no-plans-for-health-care-or-tax-reform"
+      },
+      {
+        "preview": "By Darragh Roche The term ‘job creator’ has crept into the political lexicon on both sides of the Atlantic. It sounds harmless, but don’t be fooled – it is the quiet vanguard of a political and econom...",
+        "upvotes": 47,
+        "url": "http://www.thelondoneconomic.com/2015/01/19/nightmare-economics-ayn-rand/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Scientists and economists have been offered $10,000 each by a lobby group funded by one of the world's largest oil companies to undermine a major climate change report due to be published today. Lette...",
+        "upvotes": 21,
+        "url": "http://www.theguardian.com/environment/2007/feb/02/frontpagenews.climatechange"
+      },
+      {
+        "preview": "By Lori Robertson Posted on January 30, 2015 Rick Santorum touted a shocking statistic to Iowa voters: Of the “6 million net new jobs created in America” since 2000, “all of them” are held by immigran...",
+        "upvotes": 0,
+        "url": "http://www.factcheck.org/2015/01/all-u-s-jobs-did-not-go-to-immigrants/"
+      },
+      {
+        "preview": "Following is a statement on the recent election in Greece by the Party for Socialism and Liberation (USA). The situation in Greece and Europe as a whole has taken a dramatic turn with the electoral vi...",
+        "upvotes": 3,
+        "url": "http://www.liberationnews.org/greece-shift-left-class-struggle-communist-tactics-statement-psl/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "WASHINGTON -- The House of Representatives on Tuesday voted for the 56th time to repeal or undermine the Affordable Care Act. The vote was largely symbolic, because the measure is unlikely to pass the...",
+        "upvotes": 1,
+        "url": "http://huff.to/16uwqdV"
+      },
+      {
+        "preview": "Rep. Kevin Brady, (R-Texas), and FBN’s Neil Cavuto on efforts to continue to propose new bills despite President Obama’s veto threats. \"Alex would be so proud.\" North Carolina Department of Commerce r...",
+        "upvotes": 0,
+        "url": "http://news.yahoo.com/video/obama-calls-republicans-act-continues-042001962.html"
+      },
+      {
+        "preview": "Margot Adler Retiree Claudette Colvin was 15 the day she refused to give up her seat on the bus. \"My head was just too full of black history, you know, the oppression that we went through,\" she says. ...",
+        "upvotes": 7,
+        "url": "http://www.npr.org/templates/story/story.php?storyId=101719889"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Login Al-Qaeda and ISIS are products of US and Saudi imperialism. Mujahideen fighters during the Afghan War. Our new issue, “The Working Class,” is out in print and online now. Subscribe today at a di...",
+        "upvotes": 1,
+        "url": "https://www.jacobinmag.com/2015/01/united-states-saudi-arabia-isis/"
+      },
+      {
+        "preview": "In recent weeks, a controversy has taken the public eye surrounding the Clint Eastwood movie “American Sniper.” On the one hand, some have been quick to point out the eerie similarities between “Ameri...",
+        "upvotes": 31,
+        "url": "http://www.liberationnews.org/understanding-the-racist-imperialist-agenda-of-american-sniper/"
+      },
+      {
+        "preview": "Foreign governments are 100 times more likely to intervene in civil wars if the troubled state is home to hydrocarbon reserves, according to a new repo by academics from the universities of Warwick, P...",
+        "upvotes": 0,
+        "url": "http://rt.com/uk/227035-foreign-intervention-oil-reserves/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "New data shows that the “vanishing” of polar ice is not the result of runaway global warming When future generations look back on the global-warming scare of the past 30 years, nothing will shock them...",
+        "upvotes": 3,
+        "url": "http://www.telegraph.co.uk/news/earth/environment/globalwarming/11395516/The-fiddling-with-temperature-data-is-the-biggest-science-scandal-ever.html"
+      },
+      {
+        "preview": "place’ stand-up by yours truly.” O’Reilly tells a version of this story in two different books, since it supposedly captures a key moment in his personal narrative, a moment when he stood up to the “l...",
+        "upvotes": 4,
+        "url": "https://www.thenation.com/blog/197401/did-bill-oreilly-cover-war-crime-el-salvador"
+      },
+      {
+        "preview": "Editor’s note: Levi King is the CEO and co-founder of Creditera and was previously president and co-founder of Lendio. It’s interesting as hell that, as the world continues to spew vitriol at the cree...",
+        "upvotes": 0,
+        "url": "http://techcrunch.com/2015/02/02/consumers-vs-data-science-bad-guys/"
+      }
+    ]
+  }
+}

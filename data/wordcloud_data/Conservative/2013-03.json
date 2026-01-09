@@ -1,0 +1,36 @@
+{
+  "month": "2013-03",
+  "total_articles": 96,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Obama Administration and US Foreign Policy",
+      "core_keywords": ["obama", "president", "pakistan", "afghanistan", "clinton", "war", "white house"],
+      "importance_ratio": 0.2396
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Republican Politics and Immigration Reform",
+      "core_keywords": ["republican", "paul", "mccain", "rand", "immigration", "party", "graham"],
+      "importance_ratio": 0.1771
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Government, Party and Israel Relations",
+      "core_keywords": ["obama", "government", "party", "israel", "jewish", "state", "america"],
+      "importance_ratio": 0.1771
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Gun Control, Election and Campaign Issues",
+      "core_keywords": ["gun", "republican", "election", "voter", "ban", "campaign", "state"],
+      "importance_ratio": 0.3229
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Abortion, Women's Health and Government Funding",
+      "core_keywords": ["abortion", "woman", "health", "medicaid", "state", "life", "funding"],
+      "importance_ratio": 0.0833
+    }
+  ]
+}

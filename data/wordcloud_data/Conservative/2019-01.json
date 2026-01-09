@@ -1,0 +1,36 @@
+{
+  "month": "2019-01",
+  "total_articles": 140,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump Administration, Border Wall and Climate Policy",
+      "core_keywords": ["trump", "president", "border", "wall", "climate change", "government", "democrat"],
+      "importance_ratio": 0.2714
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump-Related Investigations and Media Coverage",
+      "core_keywords": ["trump", "fbi", "investigation", "cnn", "twitter", "state", "medium"],
+      "importance_ratio": 0.3071
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gillette Ad and Masculinity Discourse",
+      "core_keywords": ["gillette", "masculinity", "men", "razor", "woman", "product", "january"],
+      "importance_ratio": 0.0143
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Tax Policy and Economic Equity Debates",
+      "core_keywords": ["tax", "warren", "ocasio-cortez", "rich", "money", "american", "free"],
+      "importance_ratio": 0.2000
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Abortion Rights and Social Issues",
+      "core_keywords": ["abortion", "woman", "life", "law", "court", "state", "health"],
+      "importance_ratio": 0.2071
+    }
+  ]
+}

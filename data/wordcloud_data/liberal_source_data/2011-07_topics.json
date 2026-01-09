@@ -1,0 +1,275 @@
+{
+  "month": "2011-07",
+  "total_articles": 81,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "black",
+        "white",
+        "job",
+        "discrimination",
+        "wa",
+        "percent",
+        "work",
+        "applicant",
+        "american",
+        "men",
+        "gap",
+        "criminal",
+        "worker",
+        "ha",
+        "employer"
+      ],
+      "topic_weights": [
+        1292.3087204395683,
+        636.9723731628842,
+        581.34372923442,
+        466.4154610290797,
+        436.6171310916743,
+        414.832007254716,
+        370.86976981216424,
+        343.87649767712804,
+        310.909048468677,
+        276.30231209809807,
+        263.8678528224957,
+        262.0973756437365,
+        224.13160834624156,
+        213.27637982816248,
+        211.33337965887566
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "wa",
+        "state",
+        "tax",
+        "republican",
+        "tomato",
+        "alec",
+        "law",
+        "program",
+        "comment",
+        "did",
+        "campaign",
+        "thinking",
+        "support",
+        "address"
+      ],
+      "topic_weights": [
+        309.5574094531462,
+        218.79319104863262,
+        166.97461021029017,
+        155.63103447514177,
+        143.08760011581455,
+        124.94639916534635,
+        119.30693794607848,
+        113.7298405876085,
+        111.58059406857596,
+        93.7932170629939,
+        92.10299283950546,
+        88.19343876507432,
+        87.66116886676286,
+        84.16930642234053,
+        83.53195840776931
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "prison",
+        "cain",
+        "prisoner",
+        "american",
+        "ha",
+        "inmate",
+        "murdoch",
+        "crime",
+        "america",
+        "world",
+        "black",
+        "work",
+        "news",
+        "medium"
+      ],
+      "topic_weights": [
+        125.44839287782887,
+        110.77879181473861,
+        69.16166644900642,
+        58.79940843689834,
+        56.670376959093495,
+        49.24119354307265,
+        49.161446334931334,
+        46.519299102930276,
+        40.438072709066496,
+        38.31114644993339,
+        37.683115298336375,
+        34.70961005325031,
+        32.16074176967524,
+        31.382673767537042,
+        29.18482844092139
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "drug",
+        "dog",
+        "wa",
+        "perry",
+        "response",
+        "email",
+        "pawlenty",
+        "ha",
+        "movement",
+        "reagan",
+        "public",
+        "hear",
+        "using",
+        "anti",
+        "pushed"
+      ],
+      "topic_weights": [
+        24.939476839162463,
+        17.279278483045474,
+        10.973666762991794,
+        10.407194495654267,
+        8.613657595799543,
+        6.744141522831476,
+        6.663063332354006,
+        6.042167240688005,
+        6.033288350446686,
+        5.91265704351216,
+        5.683361886647733,
+        5.553286985984537,
+        4.944915499888583,
+        4.916661154817579,
+        4.908878595637227
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "jones",
+        "mother",
+        "story",
+        "today",
+        "policy",
+        "type",
+        "term",
+        "wa",
+        "subscribe",
+        "journalism",
+        "privacy",
+        "budget",
+        "partner",
+        "message",
+        "inbox"
+      ],
+      "topic_weights": [
+        235.67134871223638,
+        235.15469184723173,
+        105.34401430903874,
+        105.09726003871313,
+        82.5658428940065,
+        79.32509568391669,
+        78.89966990218784,
+        78.84056528941547,
+        77.36997537854448,
+        76.54585890585929,
+        74.7736037760363,
+        62.16606339803747,
+        60.554895005769,
+        59.68482603857759,
+        59.43782779042987
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 41,
+    "4": 21,
+    "2": 14,
+    "0": 1,
+    "3": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ove that the discrimination was intentional, which, as Pager’s experiments make clear, is no small feat. Under the circumstances, as Darity told me, perhaps no one should be surprised to discover that...",
+        "upvotes": 6,
+        "url": "http://www.thenation.com/article/161807/what-we-dont-talk-about-when-we-talk-about-jobs"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Monday was the last day of this year’s Supreme Court term—one widely seen as notable not for what was decided but, rather, for coming before what could be a momentous 2011-2012 term, when decisions on...",
+        "upvotes": 5,
+        "url": "http://www.tnr.com/article/politics/91013/sonia-sotomayor-supreme-court-liberal-voice"
+      },
+      {
+        "preview": "« Down in the well. | Main | So it goes. » Mr. Obama, as you know, plans to withdraw one-third of our troops in Afghanistan by the end of next year, but Rep. Barbara Lee (D-CA) plans to introduce her ...",
+        "upvotes": 7,
+        "url": "http://www.thievesblog.com/2011/07/race-among-the-ruins.html"
+      },
+      {
+        "preview": "Liz Halloran The nation's abortion wars, simmering but largely quiet in recent years, have begun boiling again. Nowhere has the battle been more pitched than in Kansas, where the Legislature this sess...",
+        "upvotes": 12,
+        "url": "http://www.npr.org/2011/07/02/137557268/abortion-wars-taking-it-to-the-states"
+      }
+    ],
+    "2": [
+      {
+        "preview": "That was actually three dripping custard pies, rather than just the one, with which Rep. Michele Bachmann assailed her own face by bragging to Fox News about her small-town Iowa roots. Having hymned t...",
+        "upvotes": 2,
+        "url": "http://www.slate.com/id/2298087/"
+      },
+      {
+        "preview": "Yesterday, the Financial Times ran an op ed piece of mine about the mysterious downward trend in crime. While this drop is a welcome development -- and very possibly a bellwether of even more positive...",
+        "upvotes": 7,
+        "url": "http://www.theatlantic.com/national/archive/2011/07/safety-in-diversity-why-crime-is-down-in-americas-cities/240781/"
+      },
+      {
+        "preview": "Link copied. We want to bridge divides to reach everyone. A poll on the eve of Independence Day confirms: More Americans see the nation as less powerful and more vulnerable. They want leaders to focus...",
+        "upvotes": 5,
+        "url": "http://www.csmonitor.com/USA/Foreign-Policy/2011/0703/Independence-Day-blues-Americans-sense-a-decline-and-look-inward"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Sign up to read our regular email newsletters A FINGERPRINT is all you need to determine whether someone is under the influence of drugs. Paul Yates from Intelligent Fingerprinting, a company spun out...",
+        "upvotes": 12,
+        "url": "http://www.newscientist.com/article/mg21128224.800-drug-driving-test-at-your-fingertips.html"
+      },
+      {
+        "preview": "On 18th June 1971 Richard Nixon declared a 'war on drugs', stating that the drug problem in the US had become \"public enemy number one\". Here, Richard Scott looked at his proposals. A particular probl...",
+        "upvotes": 7,
+        "url": "http://www.guardian.co.uk/theguardian/from-the-archive-blog/2011/jul/22/drugs-trade-richard-nixon"
+      },
+      {
+        "preview": "Sign up to read our regular email newsletters By Ferris Jabr What if the heroin was stopped before it hit the brain?(Image: G.M.B. Akash/Panos) What if the heroin was stopped before it hit the brain? ...",
+        "upvotes": 2,
+        "url": "http://www.newscientist.com/article/dn20730-antiaddiction-drugs-face-more-than-medical-issues.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Mark Halperin is one of my least-favorite political analysts, a reliably unimaginative weathervane of conventional wisdom. Today, on Morning Joe, he gave his considered opinion of Barack Obama’s press...",
+        "upvotes": 8,
+        "url": "http://motherjones.com/kevin-drum/2011/06/our-sadly-lowered-standards-dickitude"
+      },
+      {
+        "preview": "While I was in New York I met up with one of my longtime readers (and a fellow cat lover — see Coco at the very bottom of 2009’s Holiday Catblogging Extravaganza) and we were joined by Stuart Zechman,...",
+        "upvotes": 1,
+        "url": "http://motherjones.com/kevin-drum/2011/06/barack-obama-lefty"
+      },
+      {
+        "preview": "<a  This story has been updated below. It’s official. Every abortion provider in the state of Kansas has been denied a license to continue operating as of July 1. As we reported last week, strict new ...",
+        "upvotes": 27,
+        "url": "http://motherjones.com/mojo/2011/06/kansas-shut-down-all-abortion-clinics-friday"
+      }
+    ]
+  }
+}

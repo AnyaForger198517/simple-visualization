@@ -1,0 +1,285 @@
+{
+  "month": "2018-01",
+  "total_articles": 209,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "coal",
+        "wa",
+        "ha",
+        "central",
+        "company",
+        "state",
+        "american",
+        "virginia",
+        "country",
+        "life",
+        "work",
+        "class",
+        "trump",
+        "white",
+        "family"
+      ],
+      "topic_weights": [
+        115.53710908465204,
+        89.93539301102678,
+        84.30960527392894,
+        58.16179567612832,
+        57.92608127604621,
+        54.02546927031743,
+        50.67742118527323,
+        48.60665662038087,
+        47.553136506751876,
+        47.432558604587356,
+        43.43736743134732,
+        40.75820280920542,
+        39.72763909027288,
+        37.44090465536172,
+        35.92580983387927
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "state",
+        "republican",
+        "ha",
+        "trump",
+        "democrat",
+        "house",
+        "vote",
+        "voter",
+        "senate",
+        "party",
+        "democratic",
+        "government",
+        "president",
+        "court"
+      ],
+      "topic_weights": [
+        395.5261946271132,
+        384.6903536754331,
+        380.29272453552113,
+        292.5474283714209,
+        270.4957612267018,
+        263.240026587085,
+        200.51603068852634,
+        194.102681245699,
+        193.58336697442587,
+        165.6758180614429,
+        164.71083053212735,
+        158.3237344827047,
+        148.5163707523821,
+        139.54356217031074,
+        137.77645759875872
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "percent",
+        "worker",
+        "trump",
+        "policy",
+        "ha",
+        "cut",
+        "state",
+        "health",
+        "economic",
+        "job",
+        "american",
+        "wa",
+        "medicaid",
+        "company"
+      ],
+      "topic_weights": [
+        419.93911342102587,
+        214.1888400133104,
+        205.0243689014506,
+        185.1134189709717,
+        161.1901421645178,
+        152.924310669797,
+        144.76482954985045,
+        143.38245784290115,
+        108.68093773763857,
+        108.3039142271128,
+        107.60203911531683,
+        107.32689121125212,
+        105.26389597574415,
+        103.91450626637328,
+        100.70122752175283
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "white",
+        "news",
+        "house",
+        "campaign",
+        "russia",
+        "investigation",
+        "medium",
+        "told",
+        "bannon",
+        "russian",
+        "office"
+      ],
+      "topic_weights": [
+        1372.644235705166,
+        748.5284057485492,
+        492.49782248717617,
+        407.65949479385586,
+        224.2823784730391,
+        214.82955129518896,
+        202.5962281483475,
+        170.79037159481942,
+        149.85949477318783,
+        143.9118025974115,
+        134.8835068721737,
+        125.8555544972016,
+        116.4604367479646,
+        115.11223579075822,
+        113.27176441707005
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "woman",
+        "park",
+        "national",
+        "advisory",
+        "ha",
+        "sexual",
+        "department",
+        "board",
+        "public",
+        "committee",
+        "land",
+        "meeting",
+        "men",
+        "secretary",
+        "mountain"
+      ],
+      "topic_weights": [
+        298.5288774165973,
+        213.19547486892344,
+        170.01263471826547,
+        128.25662377359984,
+        118.08306638377675,
+        111.6968470937887,
+        105.26063853513071,
+        102.64606956843993,
+        102.56851038360465,
+        84.98506414054987,
+        75.64338621341744,
+        70.42902965943325,
+        70.3053485648516,
+        69.36338545279294,
+        63.05001601427004
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 17,
+    "3": 92,
+    "1": 63,
+    "2": 32,
+    "4": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "ghting. Instead, companies pass those costs on to the public. For one, there are the costs to human safety. Strip-mining and mountaintop removal have been linked with cataclysmic floods that, a few ti...",
+        "upvotes": 33,
+        "url": "https://qz.com/1167671/the-100-year-capitalist-experiment-that-keeps-appalachia-poor-sick-and-stuck-on-coal/"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. Speaker of the House Pa...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/views/2018/01/01/new-years-resolution-media-do-not-let-republicans-get-away-saying-reforms-when-they"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. \"Empty platitudes and a...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/news/2018/01/01/anti-trump-rhetoric-not-enough-bold-progressive-agenda-demanded-2018"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Discover Thomson  By  Staff 5 Min Read WASHINGTON () - The head of a conservative Republican faction in the U.S. Congress, who voted this month for a huge expansion of the national debt to pay for tax...",
+        "upvotes": 3,
+        "url": "https://www.reuters.com/article/us-usa-fiscal/as-u-s-budget-fight-looms-republicans-flip-their-fiscal-script-idUSKBN1EP0LK"
+      },
+      {
+        "preview": "Grassroots activists are focused on local elections — and they’re winning. Last month, Election Day 2017 saw political pundits keep an almost laser-beam like focus on the race for Virginia governor, d...",
+        "upvotes": 244,
+        "url": "https://www.vox.com/policy-and-politics/2017/12/29/16677002/progressives-america-local-elections"
+      },
+      {
+        "preview": "You’ve probably read that the European Union, after years of trying to duck the plain reality of Poland and Hungary ceasing to be democracies, has taken the first step towards denying Poland a vote in...",
+        "upvotes": 6,
+        "url": "https://www.huffingtonpost.com/entry/could-the-us-pass-the-eus-democracy-test_us_5a498384e4b0b0e5a7a78195"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Joan McCarter over at Daily Kos writes: \"Take it from a Republican, not just any Republican but a domestic policy adviser to President Ronald Reagan and Deputy Assistant Secretary for Economic Policy ...",
+        "upvotes": 1,
+        "url": "https://www.thomhartmann.com/blog/2017/12/take-it-republican-deficit-hawks-will-emerge-once-ink-dry-tax-cut"
+      },
+      {
+        "preview": "Would Ronald Reagan approve of the tax bill that President Donald Trump signed this month work? In a podcast interview, Bruce Bartlett, a former economic adviser to the 40th president, tells Internati...",
+        "upvotes": 1,
+        "url": "http://www.ibtimes.com/political-capital/gop-tax-bill-creates-deficits-justify-cuts-social-programs-says-former-reagan-aide?utm_content=buffer6af2e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#7s8d6f87"
+      },
+      {
+        "preview": "Democratic states can nullify the GOP’s war on them by altering their employer-side payroll taxes. by Dean Baker January 2, 2018 3:36 PM Albin Lohr-Jones/Sipa via AP Images There is little question th...",
+        "upvotes": 3,
+        "url": "http://prospect.org/article/rubbing-salt-wounds-republicans"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Thoughts on the Middle East, History and Religion Donate © 2021 Informed Comment Juan Cole 12/31/2017 By Juan Cole | (Informed Comment) | – – Trump has tweeted as though he cares about the welfare of ...",
+        "upvotes": 5,
+        "url": "https://www.juancole.com/2017/12/actually-iranian-protesters.html"
+      },
+      {
+        "preview": "Written by Cristina López G. Published 12/29/17 8:19 AM EST Share Comment Far-right trolls have long occupied the internet with their nihilistic sense of humor and taste for memes, engaged in sophomor...",
+        "upvotes": 12,
+        "url": "https://www.mediamatters.org/blog/2017/12/29/5-things-emboldened-far-right-trolls-2017/218935"
+      },
+      {
+        "preview": "Former Republican Congresswoman Michele Bachmann is contemplating a run for the Senate -- and she's calling on a higher power to help make her decision. Via Right Wing Watch, Bachmann appeared on Chri...",
+        "upvotes": 2,
+        "url": "https://www.rawstory.com/2018/01/watch-michele-bachmann-says-shes-consulting-with-god-on-whether-to-run-for-al-frankens-senate-seat/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A statue of Justice outside the Albert V. Bryan Courthouse on September 1st, 2016, in Alexandria, Virginia. (Photo: Brendan Smialowski/AFP/Getty Images) The United States has the highest incarceration...",
+        "upvotes": 16,
+        "url": "https://psmag.com/social-justice/meet-the-reformers-taking-on-alec-to-end-cash-bail"
+      },
+      {
+        "preview": "You would have thought it was an Oprah Winfrey for President rally the way the media covered it. Yet the real story, buried in the back pages of the entertainment section of the New York Times, is tha...",
+        "upvotes": 0,
+        "url": "https://www.liberationnews.org/working-class-women-actresses-unite-in-metoo-solidarity/"
+      },
+      {
+        "preview": "By Jessica Lussenhop News, North Carolina Across the US, sexual harassment at the hands of landlords, property managers and others in the housing industry can drive poor women and their children into ...",
+        "upvotes": 1,
+        "url": "http://www.bbc.com/news/world-us-canada-42404270"
+      }
+    ]
+  }
+}

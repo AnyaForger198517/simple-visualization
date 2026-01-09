@@ -1,0 +1,285 @@
+{
+  "month": "2018-01",
+  "total_articles": 209,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "woman",
+        "ha",
+        "oprah",
+        "polanski",
+        "men",
+        "sexual",
+        "barbara",
+        "sex",
+        "god",
+        "pakistan",
+        "told",
+        "home",
+        "life",
+        "female"
+      ],
+      "topic_weights": [
+        268.6327159145428,
+        163.91736136759462,
+        143.45040908166095,
+        101.27830896232594,
+        78.90989511076769,
+        67.93838890868147,
+        65.74243642650129,
+        62.37700229741888,
+        60.605932061797716,
+        53.37111254078073,
+        47.90362065936107,
+        46.768907276550856,
+        44.39476151914203,
+        44.35057480149317,
+        41.01635292796017
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "tax",
+        "state",
+        "democrat",
+        "republican",
+        "trump",
+        "election",
+        "district",
+        "percent",
+        "house",
+        "voter",
+        "email",
+        "enter",
+        "valid",
+        "business",
+        "seat"
+      ],
+      "topic_weights": [
+        305.49883085448045,
+        248.22264827278443,
+        245.87712799400157,
+        242.90719019254794,
+        179.51773111215198,
+        175.84467873635023,
+        172.9436926593735,
+        159.78522855622043,
+        130.6480726439099,
+        108.50197305832492,
+        106.78841720579106,
+        101.27479695098678,
+        98.7843097091115,
+        94.51419313026963,
+        94.36779635550289
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "president",
+        "news",
+        "wa",
+        "ha",
+        "country",
+        "medium",
+        "advertisement",
+        "white",
+        "house",
+        "google",
+        "american",
+        "state",
+        "democrat",
+        "donald"
+      ],
+      "topic_weights": [
+        555.5655183659135,
+        331.9781629752271,
+        322.12362808026086,
+        271.42532027392105,
+        203.99077460872655,
+        145.4772228586492,
+        137.84803495785545,
+        118.35918335242683,
+        107.4064034782036,
+        105.6581344229797,
+        104.67183947315797,
+        104.65860905656889,
+        101.71616366345009,
+        93.4501810839644,
+        87.14007299314672
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "medium",
+        "conservative",
+        "american",
+        "state",
+        "government",
+        "president",
+        "abortion",
+        "research",
+        "center",
+        "law",
+        "america",
+        "country"
+      ],
+      "topic_weights": [
+        300.55570289575377,
+        246.96654332972372,
+        162.51249513054586,
+        159.14428199758126,
+        140.0509291442484,
+        125.30188326746364,
+        117.95824251402334,
+        111.5013302385847,
+        98.82615411631555,
+        90.33762661371519,
+        89.91724884731644,
+        87.40547543632576,
+        85.13993607749552,
+        80.60076289172841,
+        79.2929262086399
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "fbi",
+        "wa",
+        "page",
+        "strzok",
+        "profit",
+        "investigation",
+        "clinton",
+        "message",
+        "text",
+        "trump",
+        "ha",
+        "email",
+        "department",
+        "employee",
+        "information"
+      ],
+      "topic_weights": [
+        175.40036083316014,
+        129.56960732267078,
+        117.96570714549648,
+        115.16889457510779,
+        105.81219601846126,
+        98.76051636603724,
+        95.48869863120576,
+        85.04425233758683,
+        84.57221300078062,
+        78.58072761196544,
+        72.9213610908798,
+        72.55035284175635,
+        69.08300932503887,
+        68.32276106873859,
+        62.04543626833291
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 62,
+    "0": 33,
+    "1": 22,
+    "2": 69,
+    "4": 23
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Hollywood can’t wait to turn the calendar page to 2018. The new year must be better for the film industry than the previous 12 months. Here are just a few reasons why 2017 proved so painful to Hollywo...",
+        "upvotes": 2,
+        "url": "https://pjmedia.com/lifestyle/heres-2017-movies-flopped-hard/."
+      },
+      {
+        "preview": "To understand why I'm left-wing on economic issues, you first need to realize how devastating it is to be autistic in the modern workforce. I have no idea what it was like for autistic people who trie...",
+        "upvotes": 1,
+        "url": "https://www.salon.com/2017/11/25/im-a-liberal-because-im-autistic/"
+      },
+      {
+        "preview": "…the results are as sad as you’d think they’d be. “A devastated young transgender woman says she has been left ‘disfigured and feeling like a freak’ following two botched gender reassignment operation...",
+        "upvotes": 0,
+        "url": "http://politicalhat.com/2018/01/03/when-transgender-rights-and-socialized-healthcare-combine/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 1,
+        "url": "https://www.washingtontimes.com/news/2017/dec/28/californias-new-recreational-marijuana-law-wont-ap/"
+      },
+      {
+        "preview": "Advertisement Supported by By Binyamin Appelbaum and Jim Tankersley WASHINGTON — A wave of optimism has swept over American business leaders, and it is beginning to translate into the sort of investme...",
+        "upvotes": 9,
+        "url": "https://mobile.nytimes.com/2018/01/01/us/politics/trump-businesses-regulation-economic-growth.html?referer="
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Southwest Airlines said on Tuesday that its employees will receive a $1,000 cash bonus this month in celebration of the GOP's rewrite of the tax code...",
+        "upvotes": 100,
+        "url": "http://thehill.com/policy/finance/367139-southwest-announces-plan-to-give-1000-bonuses-to-employees"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sen. Rand Paul (R-Ky.) said that he agreed with President Donald Trump?s earlier tweet on Monday regarding U.S. aid to Pakistan. ?The United States has foolishly given Pakistan more than 33 billion do...",
+        "upvotes": 66,
+        "url": "http://rare.us/rare-politics/issues/foreign-policy/rand-paul-applauds-donald-trumps-pakistan-tweet-i-couldnt-agree-more/"
+      },
+      {
+        "preview": "Pakistan summoned the U.S. ambassador in protest against U.S. President Donald Trump's angry tweet about Pakistan's \"lies and deceit,\" while Foreign Minister Khawaja Asif dismissed the outburst as a p...",
+        "upvotes": 6,
+        "url": "https://www.cnbc.com/2018/01/02/pakistan-summons-the-us-ambassador-in-protest-after-trumps-angry-tweet.html"
+      },
+      {
+        "preview": "Susan Davis Mitt Romney (right) with Sen. Orrin Hatch, R-Utah, who met him on the tarmac at Salt Lake International Airport in June 2012. Colin E. Braley/AP hide caption Mitt Romney (right) with Sen. ...",
+        "upvotes": 1,
+        "url": "https://www.npr.org/2018/01/02/550202212/utah-sen-orrin-hatch-announces-retirement-with-speculation-focused-on-romney?sc=17&f=550202212"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 18,
+        "url": "https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2017/12/31/cbs-questions-if-trump-supporting-iranian-people-wrong-thing"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 8,
+        "url": "https://www.newsbusters.org/blogs/nb/tom-blumer/2017/12/31/cnn-unnamed-countries-and-their-populations-say-us-has-no-moral-leg"
+      },
+      {
+        "preview": "Follow Us National Review After Serving at Ground Zero, Going to Afghanistan ‘Felt Right’ to These New Yorkers Twenty Years Ago, the World Changed The 9/11 Generation Deserves Our Thanks Since 9/11, S...",
+        "upvotes": 17,
+        "url": "http://www.nationalreview.com/article/455015/united-states-foreign-policy-international-order-nuclear-war-north-korea-great-powers-china-russia"
+      }
+    ],
+    "4": [
+      {
+        "preview": "More good news from the leader of the free world. Subscribe to Geller Report newsletter here — it’s free and it’s critical NOW when informed decision making and opinion is essential to America's survi...",
+        "upvotes": 6,
+        "url": "https://pamelageller.com/2018/01/trump-aid-iran-freedom.html/?utm_source=dlvr.it&utm_medium=facebook"
+      },
+      {
+        "preview": "NEW CASTLE - A fire broke out Wednesday at a building on the Clintons' property in Chappaqua and was quickly extinguished. The small fire started in the second-floor ceiling of a facility used by the ...",
+        "upvotes": 0,
+        "url": "http://www.northjersey.com/story/news/local/westchester/new-castle/2018/01/03/fire-reported-clintons-house-chappaqua/1001102001/"
+      },
+      {
+        "preview": "SEARCH It’s the most scrutinized email server of all time. But the president is demanding it get scrutinized again. And DOJ is taking a fresh look. Former Political Reporter Justice Department officia...",
+        "upvotes": 0,
+        "url": "https://www.thedailybeast.com/justice-department-looking-into-hillary-clintons-emails-again"
+      }
+    ]
+  }
+}

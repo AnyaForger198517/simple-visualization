@@ -1,0 +1,36 @@
+{
+  "month": "2013-02",
+  "total_articles": 91,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Terrorism, Shooting Incidents and Military Missions",
+      "core_keywords": ["shooter", "seal", "bin laden", "dorner", "shot", "mission", "team"],
+      "importance_ratio": 0.1319
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Federal Budget, Tax and Healthcare Policies",
+      "core_keywords": ["spending", "obama", "tax", "budget", "cut", "health care", "government"],
+      "importance_ratio": 0.3516
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "State Laws, Regulation and Constitutional Amendments",
+      "core_keywords": ["state", "law", "regulation", "gun", "free speech", "amendment", "government"],
+      "importance_ratio": 0.0989
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Republican-Democrat Party Politics",
+      "core_keywords": ["republican", "democrat", "house", "senate", "party", "obama", "conservative"],
+      "importance_ratio": 0.2747
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social Welfare and Progressive Education",
+      "core_keywords": ["social", "disability", "education", "government", "progressive", "public", "work"],
+      "importance_ratio": 0.1429
+    }
+  ]
+}

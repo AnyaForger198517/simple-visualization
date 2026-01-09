@@ -1,0 +1,36 @@
+{
+  "month": "2021-05",
+  "total_articles": 407,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Racial Issues and Education Policy in American Schools",
+      "core_keywords": ["school", "race", "racism", "education", "white", "black", "student", "policy"],
+      "importance_ratio": 0.1376
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "COVID-19 Pandemic and China-Related Discussions",
+      "core_keywords": ["covid", "virus", "china", "vaccine", "coronavirus", "wuhan", "police", "news"],
+      "importance_ratio": 0.2703
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Israeli-Palestinian Conflict and Middle East Tensions",
+      "core_keywords": ["israel", "hamas", "palestinian", "gaza", "attack", "iran", "jerusalem", "terrorist"],
+      "importance_ratio": 0.0713
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Biden Administration and US Political Dynamics",
+      "core_keywords": ["biden", "trump", "republican", "democrat", "election", "border", "president", "mask"],
+      "importance_ratio": 0.2900
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "US Government Tax and Economic Policies",
+      "core_keywords": ["tax", "government", "state", "federal", "money", "spending", "business", "policy"],
+      "importance_ratio": 0.2310
+    }
+  ]
+}

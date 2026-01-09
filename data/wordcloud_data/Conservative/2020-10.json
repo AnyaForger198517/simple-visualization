@@ -1,0 +1,36 @@
+{
+  "month": "2020-10",
+  "total_articles": 176,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Law Enforcement and Election Ballot Issues",
+      "core_keywords": ["police", "ballot", "mail", "state", "fbi", "charge", "city"],
+      "importance_ratio": 0.2159
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2020 US Election and Racial Communities",
+      "core_keywords": ["trump", "election", "vote", "american", "asian", "court", "voter"],
+      "importance_ratio": 0.2330
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Biden Campaign and Controversies",
+      "core_keywords": ["biden", "hunter", "trump", "email", "twitter", "campaign", "laptop"],
+      "importance_ratio": 0.2045
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Education Policy and Racial Equity",
+      "core_keywords": ["school", "covid", "child", "student", "black", "white", "government"],
+      "importance_ratio": 0.0966
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2020 Presidential Debate and COVID-19",
+      "core_keywords": ["trump", "biden", "president", "debate", "mask", "news", "october"],
+      "importance_ratio": 0.2500
+    }
+  ]
+}

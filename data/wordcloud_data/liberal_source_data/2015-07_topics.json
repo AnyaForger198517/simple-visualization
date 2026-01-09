@@ -1,0 +1,285 @@
+{
+  "month": "2015-07",
+  "total_articles": 297,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "sander",
+        "clinton",
+        "ha",
+        "campaign",
+        "bernie",
+        "candidate",
+        "wa",
+        "democratic",
+        "hillary",
+        "percent",
+        "state",
+        "american",
+        "party",
+        "president",
+        "democrat"
+      ],
+      "topic_weights": [
+        1429.9072736489095,
+        1245.6962288806892,
+        773.7597572260879,
+        650.2975296096708,
+        535.7129835097672,
+        490.8265539922069,
+        484.5345341373345,
+        476.8307226032136,
+        400.78681220793015,
+        393.38476347791544,
+        386.66900696560515,
+        311.90313995423475,
+        307.5602862294433,
+        305.8378485240222,
+        263.3272990252948
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "marijuana",
+        "war",
+        "worker",
+        "nuclear",
+        "russia",
+        "wage",
+        "benefit",
+        "overtime",
+        "work",
+        "russian",
+        "labor",
+        "strain",
+        "review",
+        "state",
+        "paid"
+      ],
+      "topic_weights": [
+        289.60194064982215,
+        169.81980015586603,
+        168.3451293894914,
+        150.81789749605375,
+        132.2784190881137,
+        125.74037111337057,
+        111.32226221835343,
+        108.23399172219705,
+        104.60441030527055,
+        101.84382484893237,
+        93.43796303529426,
+        90.8461990892205,
+        85.8258303607116,
+        85.57091344000177,
+        85.24884753359743
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "republican",
+        "law",
+        "american",
+        "abortion",
+        "woman",
+        "planned",
+        "parenthood",
+        "health",
+        "trump",
+        "right",
+        "conservative",
+        "week"
+      ],
+      "topic_weights": [
+        532.2061397802457,
+        376.19346704151366,
+        333.96186959497766,
+        287.84521732259344,
+        283.2251786837184,
+        232.22783177003953,
+        220.2555272786684,
+        214.81867824707646,
+        200.1559058978626,
+        193.7031878886895,
+        186.01247237373738,
+        182.0129588681379,
+        176.77494372558917,
+        155.87852264919425,
+        143.61916674549593
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "tape",
+        "police",
+        "department",
+        "doe",
+        "page",
+        "comment",
+        "book",
+        "officer",
+        "story",
+        "pollard",
+        "information",
+        "paper",
+        "effort"
+      ],
+      "topic_weights": [
+        568.821521067686,
+        333.8272289026188,
+        285.29396587613553,
+        248.66625440421086,
+        182.50050482531478,
+        149.9360524533443,
+        147.1815125418313,
+        143.57017940721434,
+        142.1824509919827,
+        140.31019894266888,
+        138.07154559719038,
+        137.62866851009449,
+        136.26165516217756,
+        136.02135164918613,
+        120.28849057631648
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "data",
+        "wa",
+        "climate",
+        "temperature",
+        "ha",
+        "warming",
+        "global",
+        "change",
+        "science",
+        "scientist",
+        "money",
+        "world",
+        "government",
+        "earth",
+        "point"
+      ],
+      "topic_weights": [
+        999.5162264527406,
+        939.5296424386127,
+        698.0106924669851,
+        656.571558337999,
+        629.9546641934895,
+        608.0977969709261,
+        570.770517033835,
+        502.10830734012563,
+        495.7852853173307,
+        439.1418300064236,
+        380.50033138463516,
+        368.76210752404444,
+        300.63552027081164,
+        284.0449389889209,
+        229.9440937053915
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 12,
+    "2": 122,
+    "3": 7,
+    "0": 136,
+    "4": 20
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "WASHINGTON -- The longtime leader of one of the country’s most powerful labor unions is joining the Democratic presidential campaign of Sen. Bernie Sanders (I-Vt.), and he says presumed frontrunner Hi...",
+        "upvotes": 148,
+        "url": "http://www.huffingtonpost.com/2015/07/01/larry-cohen-bernie-sanders_n_7702254.html"
+      },
+      {
+        "preview": "Jeb Bush and Donald Trump continue to lead the GOP primary in a national /ORC poll Hillary Clinton leads the Democrats Clinton also leads all GOP candidates in head-to-head general election match-ups ...",
+        "upvotes": 4,
+        "url": "http://www.cnn.com/2015/07/01/politics/donald-trump-poll-hillary-clinton-jeb-bush/"
+      },
+      {
+        "preview": "Advertisement Supported by Your Money Adviser By Ann Carrns ABOUT half of American adults have postponed a major life decision in the past year for financial reasons, mainly because they lack sufficie...",
+        "upvotes": 4,
+        "url": "http://www.nytimes.com/2015/06/27/your-money/americans-are-delaying-major-life-events-because-of-money-worries.html?smid=re-share"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Greece's long-simmering economic crisis has finally boiled over into a full-fledged political and financial meltdown — banks are closed, Greek citizens' ability to withdraw cash from ATMs is limited, ...",
+        "upvotes": 4,
+        "url": "http://www.vox.com/2015/6/30/8868363/greece-crisis-default-austerity"
+      },
+      {
+        "preview": "sident Obama is said to continue to insist that it is the Russian-separatist side alone that is refusing to implement the accords. And so the events of this week have extinguished any glimmer of hope ...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/article/210889/nato-ups-ante-ukraine-crisis"
+      },
+      {
+        "preview": "s are all of the nuclear scenarios. It would require a cascading series of events, and for neither side to pull back in time as those events built. The odds of this happening are quite low. But they a...",
+        "upvotes": 1,
+        "url": "http://www.vox.com/2015/6/29/8845913/russia-war"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Right Wing Watch posted about Christian conservative activist Wayne Allyn Root---the same one who posited that Obama must have blackmailed Justice Roberts on the Obamacare decision---going on a radio ...",
+        "upvotes": 1,
+        "url": "http://www.rawstory.com/2015/06/homophobes-explain-that-marriage-is-to-be-sad-and-dutiful/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Ku Klux Klan is holding a rally next month on the grounds of the South Carolina Statehouse in support of the Confederate flag, amid calls to remo...",
+        "upvotes": 3,
+        "url": "http://thehill.com/blogs/blog-briefing-room/246533-kkk-to-hold-pro-confederate-flag-rally-at-sc-statehouse-grounds"
+      },
+      {
+        "preview": "The story of SB277 started last February: Following the Disneyland measles outbreak, California lawmakers introduced legislation that would require children to receive mandatory vaccines before starti...",
+        "upvotes": 12,
+        "url": "http://www.vox.com/2015/4/9/8376449/california-vaccine-exemption"
+      }
+    ],
+    "3": [
+      {
+        "preview": "US Department of Justice report about August protests over teenager’s death finds officers inappropriately used teargas and violated free speech rights Last modified on Fri 14 Jul 2017 16.57 EDT Polic...",
+        "upvotes": 20,
+        "url": "http://www.theguardian.com/us-news/2015/jun/30/ferguson-police-michael-brown-protests"
+      },
+      {
+        "preview": "The force is the largest in America, with a starved and ineffectual Internal Affairs department, which has been powerless to check the Border Patrol's slide into collusion with drug-runners, shootings...",
+        "upvotes": 34,
+        "url": "http://boingboing.net/2015/07/01/us-customs-and-border-protecti.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails"
+      },
+      {
+        "preview": "Welcome, Barack Obama’s former top cop cashes in after six years of letting banks run wild Contributing Editor Eric Holder is back at Covington & Burling after serving as U.S. attorney general for six...",
+        "upvotes": 5,
+        "url": "http://www.rollingstone.com/politics/news/eric-holder-wall-street-double-agent-comes-in-from-the-cold-20150708"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Life As You Have Known It Will Never Be The Same Again… Prior to this pandemic, if you wanted to weed out all of the “troublemakers”, “independent thinkers” and “non-conformists” from our society, how...",
+        "upvotes": 1,
+        "url": "http://endoftheamericandream.com/archives/they-want-to-use-hate-speech-laws-to-destroy-freedom-of-speech-in-america"
+      },
+      {
+        "preview": "Advertisement Supported by Op-Ed Contributor By Héctor Tobar LOS ANGELES — A GENERATION ago, this West Coast metropolis became a “third world city.” At least in the rhetoric of certain East Coast thin...",
+        "upvotes": 1,
+        "url": "http://www.nytimes.com/2015/07/06/opinion/welcome-to-hooverville-california.html?smid=re-share"
+      },
+      {
+        "preview": "A reality-based blog by Stephen Saperstein Frug\"There is naught that you can do, other than to resist, with hope or without it. But you do not stand alone.\" Man, right on. Although sometimes I'm ambiv...",
+        "upvotes": 1,
+        "url": "http://stephenfrug.blogspot.com/2007/03/libertarianism-in-nutshell.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "month": "2015-01",
+  "total_articles": 226,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "tax",
+        "ha",
+        "obama",
+        "wa",
+        "health",
+        "federal",
+        "state",
+        "government",
+        "school",
+        "student",
+        "public",
+        "american",
+        "plan",
+        "education",
+        "care"
+      ],
+      "topic_weights": [
+        234.1142135800688,
+        209.24843592327932,
+        178.1628607830304,
+        174.67978689401338,
+        172.27798656406796,
+        170.5576909120679,
+        157.43790720935448,
+        154.58148683346934,
+        150.39449089659936,
+        145.0040252711989,
+        140.9332030602658,
+        138.81205616156538,
+        126.65663593576106,
+        122.37942919949447,
+        116.20605905667199
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "woman",
+        "men",
+        "ha",
+        "muslim",
+        "rape",
+        "man",
+        "did",
+        "right",
+        "islam",
+        "feminist",
+        "doe",
+        "fact",
+        "king",
+        "life"
+      ],
+      "topic_weights": [
+        610.8403194407944,
+        440.6133947335238,
+        314.00241978581283,
+        211.19219705445008,
+        164.24244255775935,
+        155.0795144768477,
+        144.84563289972442,
+        130.7239997148385,
+        109.16149796129105,
+        101.606877386427,
+        100.81824593981369,
+        94.56549322052567,
+        93.2507921415067,
+        93.04658664423664,
+        90.21262431465813
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "speech",
+        "ha",
+        "right",
+        "wa",
+        "freedom",
+        "country",
+        "human",
+        "hate",
+        "law",
+        "attack",
+        "islam",
+        "free",
+        "state",
+        "police",
+        "muslim"
+      ],
+      "topic_weights": [
+        214.0491394756502,
+        208.29283290948217,
+        172.28617153236073,
+        160.24275505759033,
+        132.1965140077083,
+        130.49183554277903,
+        127.99079890554945,
+        118.7313538157897,
+        115.61521698295579,
+        113.85504389859612,
+        109.84317030158344,
+        108.01754386516977,
+        107.29253740944644,
+        101.19416270857377,
+        97.98062356089362
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "reply",
+        "posted",
+        "view",
+        "post",
+        "private",
+        "pst",
+        "jim",
+        "robinson",
+        "free",
+        "republic",
+        "boehner",
+        "jury",
+        "news",
+        "ray",
+        "wa"
+      ],
+      "topic_weights": [
+        357.6574339747234,
+        148.78822878608003,
+        147.43238703668243,
+        139.2927228942126,
+        127.48676620849115,
+        119.55446140544569,
+        74.81106866580481,
+        71.0198361769686,
+        59.972074847632626,
+        58.71366569619619,
+        53.71300764500928,
+        33.93722045660377,
+        33.30519530569157,
+        31.373768222791547,
+        30.326865903290184
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "republican",
+        "wa",
+        "state",
+        "ha",
+        "house",
+        "obama",
+        "president",
+        "party",
+        "vote",
+        "democrat",
+        "gop",
+        "conservative",
+        "senate",
+        "american",
+        "election"
+      ],
+      "topic_weights": [
+        448.47458513449595,
+        279.28900880955905,
+        240.31973534313536,
+        236.59057560539114,
+        227.07762254228712,
+        226.22326004052036,
+        225.25579569993073,
+        197.06629647617854,
+        179.91081203472163,
+        178.76078769083568,
+        167.8486968117273,
+        159.8565210729496,
+        133.84622764842732,
+        132.04120206056754,
+        126.73747957787965
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 60,
+    "3": 2,
+    "1": 35,
+    "4": 73,
+    "2": 56
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Please disable your Ad Blocker to better interact with this website. Written by: Tim Brown Published on: December 31, 2014 He’s done it again. Barack Obama released five more Guantanamo Bay Prisoners ...",
+        "upvotes": 1,
+        "url": "http://sonsoflibertymedia.com/2014/12/obama-releases-five-gitmo-prisoners-middle-night/"
+      },
+      {
+        "preview": "There’s no candy coating the truth: Obamacare has had a very terrible, horrible, crappy, none-too-happy year. What it really means is that the victims of Obamacare – taxpayers, health care consumers, ...",
+        "upvotes": 26,
+        "url": "http://patriotpost.us/opinion/32033"
+      },
+      {
+        "preview": "President Obama has committed the U.S. to a 26% to 28% reduction in carbon emissions from 2005 levels by the year 2025. Is a reduction of that magnitude workable? The German experience with energiewen...",
+        "upvotes": 24,
+        "url": "http://www.americanthinker.com/articles/2015/01/obamas_energiewende.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A decade on, and the Tories have finally brought fox hunting back into public discussion. Whether to appease rural voters, tempt back Ukippers or “pay the mercenaries” who fought for them at the last ...",
+        "upvotes": 4,
+        "url": "http://www.breitbart.com/london/2015/01/01/some-sense-on-fox-hunting-at-last/"
+      },
+      {
+        "preview": "Political correctness is communist propaganda writ small. In my study of communist societies, I came to the conclusion that the purpose of communist propaganda was not to persuade or convince, nor to ...",
+        "upvotes": 12,
+        "url": "http://pjmedia.com/eddriscoll/2014/12/13/communist-propaganda-writ-small/"
+      },
+      {
+        "preview": "The year just ended saw one leftist narrative after another collapse under the weight of reality, and the Republicans still sucking their thumbs, turning the other cheek, and failing to effectively re...",
+        "upvotes": 28,
+        "url": "http://www.americanthinker.com/articles/2015/01/2014_the_year_of_peak_stupidity.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Ohio may host the 2016 Democratic National Convention because of New York Mayor Bill de Blasio’s feud with the NYPD and embrace of anti-police demonstrators. According to a Columbus Dispatch report, C...",
+        "upvotes": 16,
+        "url": "http://www.breitbart.com/big-government/2015/01/02/report-de-blasios-feud-with-nypd-may-cost-ny-16-dnc-convention/"
+      },
+      {
+        "preview": "The year 2014 saw more global persecution of Christians than any other year in recent history, and can only be compared to the first centuries when Christians were hunted down as criminals in the Roma...",
+        "upvotes": 26,
+        "url": "http://www.breitbart.com/national-security/2015/01/03/2014-the-year-of-the-christian-genocide/"
+      },
+      {
+        "preview": "Shocking new crime scene photos show the serial number of the Department of Justice Fast and Furious rifle used in a bloody apartment shooting in Phoenix, Arizona. The photos, obtained by the nonprofi...",
+        "upvotes": 32,
+        "url": "http://dailycaller.com/2014/12/18/crime-scene-photos-fast-and-furious-gun-used-in-apartment-shooting/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Skip to comments. Posted on 12/30/2014 10:04:19 PM PST by Jim Robinson Fox News anchor Sean Hannity, also a nationally syndicated radio host, is tripling down on his calls to demand new blood in House...",
+        "upvotes": 67,
+        "url": "http://www.freerepublic.com/focus/f-news/3242252/posts"
+      },
+      {
+        "preview": "Skip to comments. Posted on 01/07/2015 8:15:11 AM PST by Ray76 A group called the Black People's Grand Jury met over the weekend and conducted a mock grand jury process, re-examining the proceeding of...",
+        "upvotes": 16,
+        "url": "http://www.freerepublic.com/focus/f-news/3244362/posts"
+      }
+    ],
+    "4": [
+      {
+        "preview": "There is a widespread assumption that President Obama has expanded the electorate and inspired booming voter turnout. One could make a case for that based on the 2008 election. But since then, not so ...",
+        "upvotes": 10,
+        "url": "http://townhall.com/columnists/michaelbarone/2015/01/02/voter-turnout-boomed-under-bush-not-under-obama-n1937952"
+      },
+      {
+        "preview": "Advertisement Black protesters targeted white people eating brunch today at New York City restaurants. They joined hands and screamed at white patrons. One “white woman” was brought to tears. ATTN WHI...",
+        "upvotes": 153,
+        "url": "http://www.thegatewaypundit.com/2015/01/racist-black-protesters-target-white-people-eating-brunch-at-new-york-city-restaurants/"
+      },
+      {
+        "preview": "For several weeks now, the mainstream Jurassic media has been up to their old psychological warfare tricks, and naturally, the Republican establishment is falling for it hard. They always do, and this...",
+        "upvotes": 16,
+        "url": "http://www.breitbart.com/big-government/2015/01/04/whistling-past-the-junkyard-the-establishments-attempt-to-make-jeb-seem-inevitable/"
+      }
+    ]
+  }
+}

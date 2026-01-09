@@ -1,0 +1,36 @@
+{
+  "month": "2017-08",
+  "total_articles": 197,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Charlottesville Protests and Confederate Monument Controversies",
+      "core_keywords": ["charlottesville", "confederate", "statue", "protester", "rally", "police", "virginia"],
+      "importance_ratio": 0.1624
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Political Influence and American Election Politics",
+      "core_keywords": ["trump", "president", "republican", "election", "american", "government", "party"],
+      "importance_ratio": 0.3807
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Hurricane Harvey and Texas Disaster Response",
+      "core_keywords": ["hurricane", "harvey", "texas", "red cross", "gang", "gun", "investigation"],
+      "importance_ratio": 0.0660
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Foreign Policy and White House Personnel Changes",
+      "core_keywords": ["trump", "white house", "bannon", "north korea", "china", "wall", "twitter"],
+      "importance_ratio": 0.1675
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social Issues and Institutional Accountability",
+      "core_keywords": ["woman", "google", "student", "university", "employee", "black", "life"],
+      "importance_ratio": 0.2234
+    }
+  ]
+}

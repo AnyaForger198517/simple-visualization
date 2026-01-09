@@ -1,0 +1,36 @@
+{
+  "month": "2011-04",
+  "total_articles": 55,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Healthcare Law & Immigration Policy in Federal/State Context",
+      "core_keywords": ["health care law", "immigration", "federal government", "state", "Supreme Court", "Obama", "Arizona", "tax"],
+      "importance_ratio": 22.38
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Federal/State Budget & Fiscal Deficit with Tax Policy",
+      "core_keywords": ["budget", "federal deficit", "tax", "spending", "debt", "GDP", "state", "government", "law"],
+      "importance_ratio": 78.21
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Economic Issues & Political Figures in Media Discourse",
+      "core_keywords": ["tax", "economic", "Romney", "Trump", "advertisement", "money", "government", "world"],
+      "importance_ratio": 22.15
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Republican/Conservative Politics & Social Identity Issues",
+      "core_keywords": ["republican", "conservative", "Obama", "race", "crime", "church", "political party", "gender"],
+      "importance_ratio": 37.89
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Obama's Presidency & National Policy with Tax Context",
+      "core_keywords": ["Obama", "president", "tax", "government", "American", "constitution", "state", "law"],
+      "importance_ratio": 40.12
+    }
+  ]
+}

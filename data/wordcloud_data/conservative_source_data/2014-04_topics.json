@@ -1,0 +1,280 @@
+{
+  "month": "2014-04",
+  "total_articles": 107,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "speech",
+        "liberalism",
+        "anti",
+        "liberal",
+        "clinton",
+        "radical",
+        "wrote",
+        "free",
+        "sexual",
+        "wing",
+        "war",
+        "conservative",
+        "won",
+        "idea"
+      ],
+      "topic_weights": [
+        57.49826635478538,
+        56.667277856430914,
+        43.74743000181638,
+        36.91491608942144,
+        35.816495718182196,
+        31.589890788729086,
+        31.547126486389153,
+        30.902533918161932,
+        30.705780175273095,
+        29.971778257162434,
+        29.420743769590878,
+        28.762657603111776,
+        26.37452434936811,
+        25.130667070279983,
+        23.734421611830673
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "wa",
+        "ha",
+        "voter",
+        "school",
+        "white",
+        "reid",
+        "government",
+        "comment",
+        "bundy",
+        "california",
+        "koch",
+        "april",
+        "gay",
+        "american"
+      ],
+      "topic_weights": [
+        66.86943381743025,
+        53.26471244309526,
+        40.21103723978888,
+        36.65567344443746,
+        28.96175845865721,
+        28.857862836534157,
+        28.18548153243144,
+        25.458788498439535,
+        24.129400363364923,
+        22.180374246654875,
+        21.791142177669332,
+        20.423024691779013,
+        20.375105763850403,
+        19.59878760066801,
+        18.50116674141917
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "obama",
+        "president",
+        "american",
+        "republican",
+        "state",
+        "democrat",
+        "house",
+        "party",
+        "political",
+        "law",
+        "news",
+        "woman",
+        "group"
+      ],
+      "topic_weights": [
+        235.67084190957053,
+        207.2499183630203,
+        204.2623616643992,
+        124.42760437617916,
+        116.01635311338607,
+        108.54965952333099,
+        107.48960993694392,
+        102.94694227318358,
+        85.87170976342439,
+        85.78203276940005,
+        71.93830014218756,
+        69.13918287361085,
+        68.23387015776234,
+        64.1355534551063,
+        62.6625428740525
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "church",
+        "wa",
+        "muslim",
+        "irs",
+        "christian",
+        "ha",
+        "rome",
+        "islam",
+        "god",
+        "city",
+        "lerner",
+        "likelike",
+        "faith",
+        "roman",
+        "email"
+      ],
+      "topic_weights": [
+        63.17162548029141,
+        57.464071912601774,
+        49.14139537625861,
+        47.106043974426434,
+        44.407995821586624,
+        42.144514736344455,
+        40.32787802229724,
+        40.32435215412545,
+        32.494492373081954,
+        29.518680459690373,
+        29.219568939350584,
+        25.205129959046374,
+        23.15625329783365,
+        22.56579372249267,
+        22.288468539076213
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "right",
+        "wa",
+        "life",
+        "child",
+        "ha",
+        "human",
+        "health",
+        "government",
+        "change",
+        "care",
+        "individual",
+        "law",
+        "data",
+        "worker",
+        "work"
+      ],
+      "topic_weights": [
+        105.80750042329053,
+        83.48988971076064,
+        72.18437303767227,
+        64.41795672608913,
+        64.07904041642396,
+        54.8078248386259,
+        52.2872107814786,
+        39.59137867620913,
+        36.70170324106594,
+        35.69503964126579,
+        35.03614427257578,
+        34.89775774627824,
+        33.090509194820605,
+        32.81320455263251,
+        31.72089389129417
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 23,
+    "1": 20,
+    "2": 56,
+    "3": 6,
+    "0": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 12,
+        "url": "http://www.nationalreview.com/corner/375086/radical-lefts-high-stakes-gamble-intolerance-david-french"
+      },
+      {
+        "preview": "The left can only afford to be contemptuous of liberal values when the right isn't in charge. Stephen Colbert gestures during the \"Rally to Restore Sanity and/or Fear\" on the National Mall in Washingt...",
+        "upvotes": 11,
+        "url": "http://www.thenation.com/blog/179160/cancelcolbert-and-return-anti-liberal-left#"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Submit Submit Thanks for contacting us. We've received your submission. Mets fans greeted Mayor Bill de Blasio with a hearty Bronx cheers on Monday, before he left early on the Amazins’ bitter Opening...",
+        "upvotes": 4,
+        "url": "http://nypost.com/2014/03/31/mets-fans-fight-brutal-weather-for-opening-day/"
+      },
+      {
+        "preview": "Highlights from the National White Privilege Conference in Madison April 1, 2014 ***Language Warning*** by Nick Novak MacIver Institute Director of Communications Our first account comes from the brea...",
+        "upvotes": 5,
+        "url": "http://www.maciverinstitute.com/2014/04/White-Privilege-Conf-Teacher/index.php#.Uzv8sRytVKM.twitter"
+      },
+      {
+        "preview": "If you previously used a social network to login to .com, click the “Forgot your password” link to reset your password. \"A heart of gold:\" Family releases statement on arrest in case of UNC student Fa...",
+        "upvotes": 15,
+        "url": "http://www.wral.com/state-elections-officials-seek-tighter-security/13533579/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "http://www.washingtontimes.com/news/2014/mar/31/inside-the-beltway-allen-wests-call-to-america/#.Uzq0lFZGM1o.reddit"
+      },
+      {
+        "preview": "Paul L. CaronDean Tuesday, April 1, 2014 By Paul Caron In a stunning bipartisan agreement, President Barack Obama, Attorney General Eric Holder, IRS Commissioner John Koskinen, House Committee on Over...",
+        "upvotes": 6,
+        "url": "http://taxprof.typepad.com/taxprof_blog/2014/04/the-irs-scandal.html"
+      },
+      {
+        "preview": "There was some debate over whether House Republicans would offer any spending blueprint for fiscal year 2015, as some argued it would only hand Democrats ammunition ahead of the midterm elections. In ...",
+        "upvotes": 16,
+        "url": "http://townhall.com/tipsheet/guybenson/2014/04/01/paul-ryan-fy-2015-budget-n1817250"
+      }
+    ],
+    "3": [
+      {
+        "preview": "While touting the unconfirmed claim that 7 million Americans have signed up for Obamacare–and while ignoring the fact that 6 million Americans have lost their healthcare coverage and many were forced ...",
+        "upvotes": 0,
+        "url": "http://americaswatchtower.com/2014/04/01/nancy-pelosi-dodges-question-on-whether-democrats-should-run-on-obamacare-in-2014/"
+      },
+      {
+        "preview": "According to Darrell Issa, emails his office received last week suggest that Elijah Cummings many have colluded with the IRS. This story states that Darrell Issa is saying these emails may show that E...",
+        "upvotes": 1,
+        "url": "http://americaswatchtower.com/2014/04/09/darrell-issa-accuses-elijah-cummings-of-colluding-with-the-irs/"
+      },
+      {
+        "preview": "The House Committee on Oversight and Government Reform voted on Thursday to hold former IRS official Lois Lerner in contempt of Congress. The committee’s approval paves the way for a vote in the full ...",
+        "upvotes": 23,
+        "url": "http://dailycaller.com/2014/04/10/oversight-committee-hold-lois-lerner-in-contempt-of-congress/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "By Mark Martin March 28, 2014 Republish This Story Mark Martin is a graphic designer with a day job. His comics and stories have been published here and there, but not yet everywhere. He currently con...",
+        "upvotes": 6,
+        "url": "http://www.kaiserhealthnews.org/Cartoons/2014/March/Dear-President-Obama.aspx?utm_campaign=KHN%3A+Daily+Health+Policy+Report&utm_source=hs_email&utm_medium=email&utm_content=12360420&_hsenc=p2ANqtz-_VoXkpoD3AlR5d4dG_eZY6P8aCND6lUYZH_QK_F1DO0fZ2AYSf6n8kY0rsYPQQAM-RPy9KuydZW1Ao-8TRw8umrb2XAenokkREg4iX5emRhDHDR3Y&_hsmi=12360420#.UzmL9gAKQK4.facebook"
+      },
+      {
+        "preview": "ADVERTISEMENT ‘Hugs are much better than sweet treats’ SHARE The U.S. Department of Agriculture (USDA) is giving advice to grandparents on how they can get their grandkids to eat healthier, including ...",
+        "upvotes": 7,
+        "url": "http://freebeacon.com/issues/usda-to-grandparents-read-government-bedtime-stories-to-encourage-healthy-eating/"
+      },
+      {
+        "preview": "A new report from the Center for Immigration Studies has determined that the Obama administration released 68,000 illegal aliens with criminal convictions in 2013. Additionally, Immigration and Custom...",
+        "upvotes": 7,
+        "url": "https://www.numbersusa.com/content/news/march-31-2014/cis-68000-illegal-aliens-criminal-convictions-set-free-2013.html"
+      }
+    ]
+  }
+}

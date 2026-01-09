@@ -1,0 +1,36 @@
+{
+  "month": "2014-01",
+  "total_articles": 85,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Online Forum Discussions and Political Tax Issues",
+      "core_keywords": ["forum", "post", "tax", "sanction", "republican", "american", "private life"],
+      "importance_ratio": 0.0353
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Economic Development and Career Survival in Global Context",
+      "core_keywords": ["job", "economy", "world", "career", "technology", "power", "survival"],
+      "importance_ratio": 0.0118
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "State Politics and Conservative Party Dynamics",
+      "core_keywords": ["state", "republican", "democrat", "law", "government", "woman", "conservative"],
+      "importance_ratio": 0.4471
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Obama Administration and National Governance",
+      "core_keywords": ["obama", "america", "president", "government", "world", "economic", "war"],
+      "importance_ratio": 0.2000
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Employment and Obamacare Policy Impact",
+      "core_keywords": ["unemployment", "obamacare", "percent", "job", "insurance", "tax", "state"],
+      "importance_ratio": 0.3059
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2021-06",
+  "total_articles": 231,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "COVID-19 and US Political Leadership Discourse",
+      "core_keywords": ["covid", "biden", "trump", "china", "pandemic", "health", "government", "fauci"],
+      "importance_ratio": 0.3377
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "2020 US Election Controversies and Partisan Politics",
+      "core_keywords": ["election", "trump", "biden", "voter", "ballot", "republican", "democrat", "vote"],
+      "importance_ratio": 0.1818
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "State and Federal Legal Issues in the US",
+      "core_keywords": ["law", "state", "federal", "court", "florida", "gun", "case", "desantis"],
+      "importance_ratio": 0.0606
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Racial Tensions and Crime in American Cities",
+      "core_keywords": ["police", "black", "crime", "violence", "fbi", "city", "law", "man"],
+      "importance_ratio": 0.2035
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Critical Race Theory in American Education",
+      "core_keywords": ["school", "race", "critical race theory", "white", "black", "student", "biden", "parent"],
+      "importance_ratio": 0.2165
+    }
+  ]
+}

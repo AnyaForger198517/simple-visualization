@@ -1,0 +1,36 @@
+{
+  "month": "2016-03",
+  "total_articles": 324,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Foreign Policy and Global Political Issues",
+      "core_keywords": ["government", "american", "war", "policy", "world", "country", "law"],
+      "importance_ratio": 0.1296
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Social Unrest and Racial Incidents in American Cities",
+      "core_keywords": ["police", "black", "attack", "student", "city", "school", "man"],
+      "importance_ratio": 0.1451
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2016 Presidential Campaign and Political Institutions",
+      "core_keywords": ["trump", "clinton", "president", "obama", "senate", "court", "law"],
+      "importance_ratio": 0.2160
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Climate Change and Environmental Policy Discussions",
+      "core_keywords": ["global", "warming", "climate", "data", "science", "trump", "money"],
+      "importance_ratio": 0.0062
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Republican Presidential Candidates and GOP Campaign",
+      "core_keywords": ["trump", "cruz", "republican", "candidate", "campaign", "vote", "gop"],
+      "importance_ratio": 0.5031
+    }
+  ]
+}

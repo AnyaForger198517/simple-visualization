@@ -1,0 +1,285 @@
+{
+  "month": "2018-05",
+  "total_articles": 185,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "iran",
+        "trump",
+        "deal",
+        "ha",
+        "wa",
+        "world",
+        "nuclear",
+        "drug",
+        "sanction",
+        "state",
+        "country",
+        "president",
+        "administration",
+        "dog",
+        "economic"
+      ],
+      "topic_weights": [
+        184.08067694243175,
+        157.88529104294548,
+        140.80059571680314,
+        126.90702958809001,
+        124.31376059487387,
+        114.12336636074401,
+        93.8524773432822,
+        74.8558364680861,
+        73.7335208446796,
+        65.50252153840515,
+        60.730151501321444,
+        52.145788402587314,
+        48.52833825177361,
+        47.78991876844691,
+        43.66298018004463
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "cohen",
+        "ha",
+        "president",
+        "north",
+        "law",
+        "state",
+        "agent",
+        "border",
+        "korea",
+        "department",
+        "school",
+        "mueller",
+        "official"
+      ],
+      "topic_weights": [
+        453.0817173504795,
+        328.9884189679823,
+        230.87354131324636,
+        229.85322898226627,
+        168.3211235203932,
+        152.42219958357208,
+        134.8580386452268,
+        111.63167766211268,
+        108.35339999523677,
+        106.41475982381648,
+        100.99384253632682,
+        100.50999522992221,
+        95.90273980091605,
+        95.00635095206019,
+        93.17297438576287
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "percent",
+        "wisconsin",
+        "minnesota",
+        "data",
+        "wage",
+        "bureau",
+        "policy",
+        "job",
+        "worker",
+        "tax",
+        "economic",
+        "census",
+        "labor",
+        "union"
+      ],
+      "topic_weights": [
+        187.72220254481434,
+        133.62340119257746,
+        123.9926854326697,
+        113.27060896258008,
+        91.02013504711404,
+        79.08906986504715,
+        73.70290935811076,
+        70.62465550534668,
+        70.49102808039717,
+        70.08537435322896,
+        63.739000875228946,
+        61.887923403398716,
+        61.81376887648392,
+        57.917191752619885,
+        56.313809423114215
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "american",
+        "black",
+        "white",
+        "jordan",
+        "seal",
+        "greitens",
+        "child",
+        "school",
+        "political",
+        "government",
+        "america",
+        "free",
+        "country"
+      ],
+      "topic_weights": [
+        455.08786332040705,
+        226.2023488135957,
+        159.35472010746977,
+        155.65292802331246,
+        136.7144832349547,
+        135.442010759678,
+        116.405352897872,
+        110.6681859106912,
+        108.54306842329527,
+        107.27875877503487,
+        86.2583025335492,
+        84.49493133804857,
+        81.13685895797656,
+        80.60306767964623,
+        78.40197541326518
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "republican",
+        "ha",
+        "house",
+        "party",
+        "president",
+        "democrat",
+        "campaign",
+        "election",
+        "state",
+        "scalise",
+        "democratic",
+        "political",
+        "support"
+      ],
+      "topic_weights": [
+        537.8182433709571,
+        385.06499127300964,
+        285.5568545430978,
+        269.07835236821325,
+        237.47724399447242,
+        187.71211358304717,
+        177.6161120151936,
+        167.85551606549834,
+        159.13353461541863,
+        153.80249880872648,
+        147.2834259992147,
+        135.72997109909417,
+        132.71460487220529,
+        130.17090347182543,
+        119.98214004392337
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 36,
+    "4": 62,
+    "0": 25,
+    "1": 54,
+    "2": 8
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The deal’s opponents keep saying Tehran has failed to live up to its commitments to the U.S. But what if it’s the other way around? As anyone who reads the news knows, Donald Trump will decide by May ...",
+        "upvotes": 0,
+        "url": "https://www.theatlantic.com/international/archive/2018/04/iran-deal/559235/"
+      },
+      {
+        "preview": "It is difficult to consider the state of the world in 2018 and not feel a sense of vertigo. Humanity has greater capacity for production than it has ever had before, and simultaneously, the ability to...",
+        "upvotes": 0,
+        "url": "https://newrepublic.com/article/147810/worlds-apart-neoliberalism-shapes-global-economy"
+      },
+      {
+        "preview": "Despite approving work-requirement plans for some states, the Trump administration rejected Kansas’s request to impose lifetime limits on Medicaid eligibility. The Trump administration has drawn a red...",
+        "upvotes": 0,
+        "url": "https://www.vox.com/policy-and-politics/2018/5/7/17328296/voxcare-trump-state-medicaid-cuts-lifetime-limits-kansas"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Special Programs Guns & Public Safety Written by Natalie Martinez Published 05/01/18 8:55 AM EDT Share Comment The fake news website America’s Freedom Fighters has identified itself as part of the ext...",
+        "upvotes": 2,
+        "url": "https://www.mediamatters.org/blog/2018/05/01/popular-conservative-meme-pages-facebook-affiliate-themselves-extremist-militia-movement/220076"
+      },
+      {
+        "preview": "SEARCH It’s looking like the Trump-Kim meeting will take place in the Demilitarized Zone amid (premature) talk of a formal peace after a temporary truce that’s lasted 65 years. SEOUL—No sooner had U.S...",
+        "upvotes": 12,
+        "url": "https://www.thedailybeast.com/trump-remark-sets-off-dmz-summit-fever-in-south-korea"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The leaking of the dozens of questions for President TrumpDonald TrumpThe Memo: Biden comes out punching on COVID-19 Ex-Kansas state rep charged with...",
+        "upvotes": 76,
+        "url": "http://thehill.com/opinion/white-house/385672-gravest-danger-to-trump-lies-in-sneaky-questions-from-mueller"
+      }
+    ],
+    "2": [
+      {
+        "preview": "As union membership in America has declined, economic inequality has risen. New research confirms the obvious: It ain’t a coincidence. Unions are the tools that built America’s “golden age.” The new r...",
+        "upvotes": 56,
+        "url": "https://splinternews.com/study-yep-unions-made-america-great-1825717403"
+      },
+      {
+        "preview": "Bill Chappell Loading... Updated at 10 a.m. ET The U.S. economy had a net gain of 164,000 jobs last month. Unemployment — which had stood at 4.1 percent since October 2017 — fell to 3.9 percent, accor...",
+        "upvotes": 1,
+        "url": "https://www.npr.org/sections/thetwo-way/2018/05/04/608442955/u-s-unemployment-drops-to-3-9-percent-jobs-report-shows-gain-of-164-000-jobs"
+      },
+      {
+        "preview": "Red states will suffer if that question is asked—but Republican state attorneys general haven’t even murmured a protest. by Robert Shapiro May 7, 2018 9:00 AM Aaron Bernstein/Pool via AP The decennial...",
+        "upvotes": 0,
+        "url": "http://prospect.org/article/why-2020-census-citizenship-question-matters-2018-elections"
+      }
+    ],
+    "3": [
+      {
+        "preview": "This article is more than 1 year old The best black Republican sales pitch I ever heard was from Niger Innis, then the spokesman for the Congress of Racial Equality, or CORE, the civil rights-era orga...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/news/posteverything/wp/2018/04/24/kanye-west-fell-for-the-worst-black-republican-sales-pitch-there-is-heres-why/?noredirect=on"
+      },
+      {
+        "preview": "Sen. Marco Rubio (R-FL) is once again defending the Republican tax law, just days after he said there’s no evidence it has helped American workers. On Wednesday, Rubio tried to indignantly correct a P...",
+        "upvotes": 8,
+        "url": "https://thinkprogress.org/rubio-tax-bill-defense-87c9443cdce0/"
+      },
+      {
+        "preview": "The Trump administration’s proposal to reduce housing assistance for the poor couldn’t contrast more sharply from the housing assistance showered on the rich. by Kalena Thomhave May 3, 2018 1:45 PM AP...",
+        "upvotes": 10,
+        "url": "http://prospect.org/article/rent-increases-and-work-requirements-poor-mortgage-interest-deductions-rich"
+      }
+    ],
+    "4": [
+      {
+        "preview": "This article is more than 1 year old Just a few months ago, President Trump grew frustrated during a meeting in the Oval Office about protections for immigrants from Haiti, El Salvador and African cou...",
+        "upvotes": 3,
+        "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/04/30/how-fake-news-might-have-saved-trump-from-an-awkward-confrontation-over-his-shithole-remark/"
+      },
+      {
+        "preview": "Advertisement Supported by By Michael M. Grynbaum As the power elite of Washington filed out of the White House Correspondents’ Association dinner on Saturday, chattering about the rough-and-tumble se...",
+        "upvotes": 4,
+        "url": "https://www.nytimes.com/2018/04/30/business/media/michelle-wolf-white-house-correspondents-dinner.html"
+      },
+      {
+        "preview": "On Friday, the Republican members of the House Permanent Select Committee on Intelligence released a 253-page report on their investigation into Russian interference in the 2016 election. The purpose ...",
+        "upvotes": 251,
+        "url": "https://thinkprogress.org/the-revelation-hidden-in-the-house-republicans-253-page-report-on-russian-election-interference-b6f6580f08a2/"
+      }
+    ]
+  }
+}

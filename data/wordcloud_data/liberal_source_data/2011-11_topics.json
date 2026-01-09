@@ -1,0 +1,280 @@
+{
+  "month": "2011-11",
+  "total_articles": 79,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "police",
+        "protester",
+        "property",
+        "occupy",
+        "space",
+        "chapel",
+        "hill",
+        "street",
+        "damage",
+        "free",
+        "wall",
+        "ha",
+        "support",
+        "store",
+        "criminal"
+      ],
+      "topic_weights": [
+        267.6850020302803,
+        122.6990045097945,
+        79.2992736840287,
+        78.57117690766407,
+        64.11889798001442,
+        60.64721497544487,
+        60.634512952948775,
+        59.22896869237415,
+        58.64603010374049,
+        57.20066769617392,
+        56.592020114916146,
+        49.98400735761039,
+        49.035245152225045,
+        47.2042999503233,
+        45.36476293164583
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "gingrich",
+        "ha",
+        "republican",
+        "npr",
+        "american",
+        "obama",
+        "president",
+        "state",
+        "book",
+        "party",
+        "conservative",
+        "world",
+        "newt",
+        "political"
+      ],
+      "topic_weights": [
+        451.13514390035334,
+        192.79166884507043,
+        139.6489999077076,
+        116.3033802986258,
+        94.74205951248796,
+        86.41893214086907,
+        85.34769208115554,
+        84.34517127795858,
+        83.64413328928629,
+        79.98127623763003,
+        72.46232906891325,
+        68.74492580088007,
+        64.89192406140525,
+        63.60088865135161,
+        62.853242215958694
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "obama",
+        "ha",
+        "daley",
+        "america",
+        "house",
+        "white",
+        "wa",
+        "perry",
+        "romney",
+        "president",
+        "republican",
+        "business",
+        "meeting",
+        "country",
+        "policy"
+      ],
+      "topic_weights": [
+        153.96253235018884,
+        79.78546419583299,
+        75.78765054772555,
+        73.08373059686687,
+        67.92424355785764,
+        65.19472360844084,
+        59.098391889946164,
+        58.17405632173308,
+        57.94541280409816,
+        54.14888930653345,
+        53.65780137756771,
+        42.00612628024498,
+        39.71819253476128,
+        33.7869155776018,
+        33.5911243364798
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "bank",
+        "government",
+        "ha",
+        "wa",
+        "money",
+        "obama",
+        "street",
+        "wall",
+        "country",
+        "job",
+        "problem",
+        "occupy",
+        "work",
+        "american",
+        "veteran"
+      ],
+      "topic_weights": [
+        172.46850728436632,
+        143.1097964223076,
+        140.772135188507,
+        136.19810534608646,
+        129.2027011584482,
+        118.55641148033868,
+        103.4428652878906,
+        99.48680548461083,
+        98.02012122825009,
+        89.87109790319501,
+        75.62081797309106,
+        75.36456071879881,
+        74.03640110313042,
+        73.36766647594656,
+        67.53600127150858
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "tax",
+        "percent",
+        "wa",
+        "cut",
+        "policy",
+        "job",
+        "poverty",
+        "mother",
+        "report",
+        "jones",
+        "woman",
+        "republican",
+        "country",
+        "american",
+        "data"
+      ],
+      "topic_weights": [
+        324.25545765862216,
+        165.61028012086885,
+        150.5283854388178,
+        140.60810885363995,
+        130.60837337139924,
+        121.28792219873121,
+        116.92339448753862,
+        109.33603359881461,
+        107.68292761888506,
+        106.5737308864125,
+        101.88487852095044,
+        97.95911401621886,
+        93.3176780975524,
+        92.60274961546392,
+        83.61025712233536
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 34,
+    "4": 23,
+    "3": 15,
+    "2": 5,
+    "0": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "عذراً ، الصفحة التي تبحث عنها غير متاحة,يمكنك المحاولة مرة أخرى باستخدام أداة البحث أو استكشف المزيد من المحتوى الرائع أدناه. تعهد الناطق باسم كتائب عز الدين القسام الجناح العسكري لحركة المقاومة الإسل...",
+        "upvotes": 9,
+        "url": "http://blogs.aljazeera.net/americas/2011/11/11/oops-heard-around-world"
+      },
+      {
+        "preview": "if the demonstrators were damaging property, “violence” is usually only considered dire when it’s directed at human beings, not at an abandoned car dealership. If society was to get really serious abo...",
+        "upvotes": 3,
+        "url": "http://www.thenation.com/blog/164593/meet-your-police-state-chapel-hill-edition"
+      }
+    ],
+    "1": [
+      {
+        "preview": "From the Times to NPR, the so-called liberal media has a phobia of liberals. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs ...",
+        "upvotes": 35,
+        "url": "http://www.thenation.com/article/164215/msm-liberals-ewww"
+      },
+      {
+        "preview": "WASHINGTON -- Republican presidential candidate Rick Perry raised some eyebrows Friday night with a speech performance in Manchester, N.H., that was unusually expressive. A Huffington Post reporter wa...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/2011/10/29/video-rick-perrys-unusual-speech-performance_n_1065571.html"
+      },
+      {
+        "preview": "2nd November 2011 Photo with 11 notes The police had slashed our tents; thrown away clothes, food, medical supplies; and arrested the protesters and the reinforcements that were ready to replace us. T...",
+        "upvotes": 1,
+        "url": "http://subversivesoapbox.com/post/12233556094/youvefueldourfire"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Bill Daley led the White House toward the corporate “center”—but his profile is now being lowered. By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotiona...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/blog/164454/wall-streets-man-white-house-gets-demoted"
+      },
+      {
+        "preview": "An award-winning team of journalists, designers, and videographers who tell brand stories through Fast Company's distinctive lens The future of innovation and technology in government for the greater ...",
+        "upvotes": 3,
+        "url": "http://www.fastcoexist.com/1678832/open-philanthropy-dragging-foundations-into-the-internet-age"
+      },
+      {
+        "preview": "Bloomberg's raid on Occupy Wall Street was, above all, a cowardly act. But Occupy will live on with or without Liberty Square. By signing up, you confirm that you are over the age of 16 and agree to r...",
+        "upvotes": 6,
+        "url": "http://www.thenation.com/article/164659/you-cannot-evict-idea"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Eyder Peralta A new study tries to answer the age-old question: Are teachers underpaid? Brooke/Getty Images hide caption A new study tries to answer the age-old question: Are teachers underpaid? A new...",
+        "upvotes": 29,
+        "url": "http://www.npr.org/blogs/thetwo-way/2011/11/01/141915912/conservative-think-tank-study-finds-teachers-are-overpaid?ft=1&f=100"
+      },
+      {
+        "preview": "Get Our Videos By Email Get Our Videos By Email 8,300 Unique Visitors In The Past Day Facebook Twitter RSS Feed Email Loan Modification Full transcript is below. The prominent political and legal blog...",
+        "upvotes": 1,
+        "url": "http://dailybail.com/home/glenn-greenwald-on-occupy-wall-street-banks-too-big-to-jail.html"
+      },
+      {
+        "preview": "Have any plans for this Saturday? The nearly 100,000 people who have pledged to take part in Bank Transfer Day certainly do: closing their bank accounts. The idea is to punish “Too Big to Fail” banks ...",
+        "upvotes": 5,
+        "url": "http://www.tnr.com/article/politics/97033/occupy-wall-street-bank-transfer-day"
+      }
+    ],
+    "4": [
+      {
+        "preview": "ousing, healthcare, food and education.That’s why more and more people are turning to the safety net who never imagined they would need to. “For so long poverty has been isolated as a problem of someo...",
+        "upvotes": 4,
+        "url": "http://www.thenation.com/blog/164287/thinking-big-poverty"
+      },
+      {
+        "preview": "Kentucky Gov. Steve Beshear (D) prays to his false horse god.<a  Steve Beshear</a>/Flickr You would think that securing $43 million in tax credits for a to-scale replica of Noah’s Ark would be enough ...",
+        "upvotes": 9,
+        "url": "http://motherjones.com/mojo/2011/11/kentucky-governors-race-devolves-debate-over-hinduism"
+      },
+      {
+        "preview": "The fantastic (and I use that word in the most sarcastic possible way) news about the economy just keeps on coming: That 6.7 percent share is the highest in the 35 years that the Census Bureau has mai...",
+        "upvotes": 26,
+        "url": "http://www.dailykos.com/story/2011/11/03/1032782/-Deep-poverty-hits-a-newhigh?via=blog_1"
+      }
+    ]
+  }
+}

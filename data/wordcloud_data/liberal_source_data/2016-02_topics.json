@@ -1,0 +1,285 @@
+{
+  "month": "2016-02",
+  "total_articles": 510,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "clinton",
+        "american",
+        "war",
+        "kissinger",
+        "state",
+        "ha",
+        "foreign",
+        "policy",
+        "president",
+        "bush",
+        "world",
+        "trump",
+        "america",
+        "military"
+      ],
+      "topic_weights": [
+        655.1410509009355,
+        530.0519917957705,
+        473.8320604457303,
+        375.30856848291984,
+        353.6450913258,
+        305.96530822173077,
+        253.82690446190782,
+        227.53283332365967,
+        227.53093417721618,
+        226.17144957338115,
+        223.72103880673077,
+        196.25962678501406,
+        180.24180663336054,
+        174.30959679887172,
+        163.42307767217022
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "south",
+        "state",
+        "carolina",
+        "water",
+        "wa",
+        "percent",
+        "city",
+        "flint",
+        "ha",
+        "lead",
+        "student",
+        "black",
+        "mother",
+        "community",
+        "solar"
+      ],
+      "topic_weights": [
+        337.86430144757105,
+        333.95753411913455,
+        300.1563450258745,
+        267.14302562165693,
+        228.47833795233467,
+        192.07610979460884,
+        184.4717209542304,
+        183.66569015113507,
+        177.18513059924976,
+        143.21602380618836,
+        142.1229818020875,
+        135.4383382309071,
+        127.54139146557016,
+        121.43480957151108,
+        115.62247683267029
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "court",
+        "wa",
+        "justice",
+        "republican",
+        "scalia",
+        "senate",
+        "president",
+        "ha",
+        "supreme",
+        "obama",
+        "state",
+        "law",
+        "case",
+        "federal",
+        "judge"
+      ],
+      "topic_weights": [
+        797.413913730935,
+        732.2567809319494,
+        608.8112023440029,
+        435.08238379101465,
+        409.0691406790416,
+        380.7285065824314,
+        373.03894350981363,
+        347.6343926509553,
+        333.98606893581785,
+        316.57154376859313,
+        272.5476611225326,
+        272.2646980855137,
+        236.15753501670858,
+        232.4485180380602,
+        190.5744242837031
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "party",
+        "sander",
+        "black",
+        "trump",
+        "voter",
+        "ha",
+        "hillary",
+        "state",
+        "democratic",
+        "bernie",
+        "american",
+        "political",
+        "republican"
+      ],
+      "topic_weights": [
+        1942.8110428497737,
+        1239.3109961251637,
+        954.6966173204617,
+        939.9501233037149,
+        872.7588618163942,
+        851.4098287168208,
+        808.9028246690359,
+        751.4287108753043,
+        714.614934637671,
+        668.9473663396958,
+        602.7533079940343,
+        521.8201567138943,
+        509.6360198502968,
+        495.92094538388216,
+        485.6531727797465
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "sander",
+        "clinton",
+        "ha",
+        "campaign",
+        "wa",
+        "bernie",
+        "obama",
+        "democratic",
+        "hillary",
+        "tax",
+        "candidate",
+        "president",
+        "policy",
+        "street",
+        "political"
+      ],
+      "topic_weights": [
+        1746.8261325422918,
+        1543.2847386817646,
+        1152.330536241153,
+        876.998290425236,
+        659.4022724076286,
+        475.7152200894256,
+        445.6893156144786,
+        443.6499708675961,
+        412.44686791100884,
+        371.4756477195047,
+        351.3046426088352,
+        344.76874164907014,
+        329.67391264574474,
+        315.7829400210617,
+        301.93334111624057
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 128,
+    "4": 200,
+    "1": 62,
+    "2": 98,
+    "0": 22
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "This article is more than 1 year old President Obama Wednesday delivered the comforting sermon to U.S. Muslims that their community leaders have been requesting for years, framing Islam as deeply Amer...",
+        "upvotes": 52,
+        "url": "https://www.washingtonpost.com/news/acts-of-faith/wp/2016/02/03/president-obamas-mosque-visit-will-spotlight-a-new-generation-of-muslim-americans/"
+      },
+      {
+        "preview": "In his first visit to an American mosque Wednesday, President Obama condemned \"inexcusable political rhetoric against Muslim Americans that has no place in our country.\" Speaking to Muslim Americans a...",
+        "upvotes": 7,
+        "url": "http://www.usatoday.com/story/news/politics/2016/02/03/obama-baltimore-mosque-visit-muslims/79746114/"
+      },
+      {
+        "preview": "President Barack Obama has visited mosques in the past, but never inside the United States On Wednesday, the President visited the Islamic Society of Baltimore The move is aimed to respond to election...",
+        "upvotes": 29,
+        "url": "http://www.cnn.com/2016/02/03/politics/obama-mosque-visit-muslim-rhetoric/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Misinformation isn't going away just because it's a new year. Support trusted, factual information with a tax deductible contribution to . More Info Throughout his Republican presidential campaign, Se...",
+        "upvotes": 98,
+        "url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/31/marco-rubio/marco-rubio-incorrectly-says-illegal-immigrant-pop/"
+      },
+      {
+        "preview": "Our websites may use cookies to personalize and enhance your experience. By continuing without changing your cookie settings, you agree to this collection. For more information, please see our Univers...",
+        "upvotes": 0,
+        "url": "http://lc.uconn.edu/schola2rshouse/"
+      },
+      {
+        "preview": "Ted Cruz has presented ‘misleading’ information in the Senate, scientists say, while Marco Rubio rejects ‘destroying our economy’ – despite pleas for action coming from officials in his own state Last...",
+        "upvotes": 8,
+        "url": "http://www.theguardian.com/us-news/2016/feb/01/republicans-ted-cruz-marco-rubio-climate-change-scientists"
+      }
+    ],
+    "2": [
+      {
+        "preview": "A former staffer from Donald Trump's 2016 campaign for president alleges that the campaign pays women staffers less than men as a matter of course and that sexism is rampant among the former reality T...",
+        "upvotes": 23,
+        "url": "http://www.rawstory.com/2016/01/fired-staffer-accuses-trump-and-his-campaign-of-sexism-and-wage-discrimination/"
+      },
+      {
+        "preview": "Sen. Tom Cotton is working to do what he sees as preventing violent felons from being freed from prisons. | AP Photo A cadre of conservative Republicans is lining up against the bipartisan measure, im...",
+        "upvotes": 17,
+        "url": "http://www.politico.com/story/2016/01/criminal-justice-tom-cotton-218121"
+      },
+      {
+        "preview": "How close were the Democratic Iowa caucuses? In at least three precincts, coin flips were apparently needed to decide which candidate — Hillary Clinton or Bernie Sanders — got the available delegates....",
+        "upvotes": 1,
+        "url": "https://www.yahoo.com/politics/coin-flip-iowa-caucuses-044156528.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Take it from me, a New Hampshirite: The current system is horrendously unfair. On Tuesday, New Hampshire voters will exercise their quadrennial right to shape both parties’ presidential contests. The ...",
+        "upvotes": 6,
+        "url": "http://www.vox.com/2016/1/31/10874446/iowa-caucus-new-hampshire-case-against"
+      },
+      {
+        "preview": "Advertisement Supported by By Trip Gabriel DAVENPORT, Iowa — A former paid organizer for Donald J. Trump who was fired this month has accused his presidential campaign of sex discrimination. Elizabeth...",
+        "upvotes": 44,
+        "url": "http://www.nytimes.com/2016/02/01/us/politics/trump-field-organizer-accuses-campaign-of-sex-discrimination.html"
+      },
+      {
+        "preview": "It may be a generational thing—I was born in 1967—but this is what Hillary and Bill Clinton will always mean to me: Sister Souljah, Ricky Ray Rector, welfare reform, and the crime bill. And beyond—rea...",
+        "upvotes": 9,
+        "url": "http://www.salon.com/2016/01/31/the_clintons_sordid_race_game_no_one_will_say_it_but_the_clintons_rise_was_premised_on_repudiating_black_voters/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "This article is more than 1 year old Megan Ferland told Seattle Metropolitan that the Girl Scouts of Western Washington were “thrilled” to pull in a $100,000 donation earlier this year. Thrilled! And ...",
+        "upvotes": 107,
+        "url": "https://www.washingtonpost.com/news/morning-mix/wp/2015/06/30/girl-scouts-choose-transgender-girls-over-100000-donation/"
+      },
+      {
+        "preview": "© First Look Institute. All rights reserved First Look Institute is a 501(c)(3) nonprofit organization. The fact that it may be an effective political smear does not make it any less ugly or deceitful...",
+        "upvotes": 18,
+        "url": "https://theintercept.com/2016/01/31/the-bernie-bros-narrative-a-cheap-false-campaign-tactic-masquerading-as-journalism-and-social-activism/"
+      },
+      {
+        "preview": "I don’t know what will happen in the caucuses tomorrow. Actually, I know what will happen on the Republican side: someone horrifying will come in first, and someone horrifying will come in second. The...",
+        "upvotes": 10,
+        "url": "http://krugman.blogs.nytimes.com/2016/01/31/pre-iowa-notes/?smid=re-share"
+      }
+    ]
+  }
+}

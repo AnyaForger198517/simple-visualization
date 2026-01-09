@@ -1,0 +1,285 @@
+{
+  "month": "2020-01",
+  "total_articles": 79,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "american",
+        "republican",
+        "democrat",
+        "senate",
+        "democratic",
+        "president",
+        "election",
+        "trial",
+        "political",
+        "state",
+        "medium",
+        "impeachment"
+      ],
+      "topic_weights": [
+        149.21792596335453,
+        114.88293888578589,
+        104.54776840099375,
+        79.94567256000681,
+        76.94720652911575,
+        76.86908367706378,
+        71.00649233492032,
+        70.07721947399175,
+        69.47813297621383,
+        58.74779591567515,
+        57.37224792596431,
+        56.93190562214365,
+        55.05451229950225,
+        49.95241903587204,
+        49.24178249559614
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "group",
+        "million",
+        "money",
+        "pac",
+        "campaign",
+        "candidate",
+        "donor",
+        "super",
+        "election",
+        "outside",
+        "political",
+        "united",
+        "citizen",
+        "party",
+        "republican"
+      ],
+      "topic_weights": [
+        181.19683642260736,
+        132.7876031059265,
+        127.22602831691623,
+        126.16468791748954,
+        101.29091420059402,
+        98.93260047111664,
+        98.48163157357361,
+        96.45899634205261,
+        95.27753702482933,
+        81.18356458645621,
+        79.11179396004066,
+        76.86778426333318,
+        71.92247358323928,
+        70.47834912916377,
+        67.7531427144487
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "plastic",
+        "bag",
+        "wa",
+        "state",
+        "bankruptcy",
+        "republican",
+        "ha",
+        "biden",
+        "warren",
+        "file",
+        "library",
+        "question",
+        "stephanie",
+        "ban",
+        "law"
+      ],
+      "topic_weights": [
+        46.564184270002784,
+        45.357795283898305,
+        38.87584949811409,
+        38.385956168067935,
+        30.88815296434538,
+        29.68716792301716,
+        28.7892066568291,
+        27.47459123378845,
+        26.713700767508094,
+        26.51097472241782,
+        25.380906834114967,
+        22.995017818836683,
+        22.75218858600934,
+        22.291829927955924,
+        22.000228171103462
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "president",
+        "wa",
+        "ha",
+        "country",
+        "house",
+        "iran",
+        "white",
+        "deal",
+        "state",
+        "leader",
+        "military",
+        "bolton",
+        "relationship",
+        "war"
+      ],
+      "topic_weights": [
+        731.1869413576161,
+        384.69554188219297,
+        364.3573622699302,
+        192.42513798283062,
+        164.15153155596724,
+        131.03240457688995,
+        120.01098773310156,
+        86.6382838767332,
+        83.52038616015024,
+        73.45879260767076,
+        70.62444713474537,
+        67.70078645099986,
+        64.38532406527119,
+        62.19027394995703,
+        60.35384300972319
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wage",
+        "minimum",
+        "worker",
+        "state",
+        "pay",
+        "wa",
+        "ha",
+        "woman",
+        "union",
+        "change",
+        "economic",
+        "nonviolent",
+        "campaign",
+        "increase",
+        "policy"
+      ],
+      "topic_weights": [
+        90.84489773435574,
+        56.766260980906424,
+        51.68062069054645,
+        48.01595949155353,
+        44.171374055567945,
+        42.13951409529132,
+        38.68004998972346,
+        33.75194608624851,
+        30.6397059033578,
+        29.4835934653088,
+        27.63961800219566,
+        27.249078273843576,
+        25.746669408275153,
+        23.528167081040976,
+        23.454821747487337
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 32,
+    "3": 25,
+    "1": 9,
+    "4": 8,
+    "2": 5
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Every product was carefully curated by an  editor. We may earn a commission from these links. Optimism is something we have to work for again. So the year of Our Lord 2019 ends in the year of Our Lord...",
+        "upvotes": 54,
+        "url": "https://www.esquire.com/news-politics/politics/a30369597/us-embassy-iraq-protests-trump-iran/"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. The Obama era produced the most sweeping combination of social reforms, econo...",
+        "upvotes": 0,
+        "url": "http://nymag.com/intelligencer/2019/12/obama-legacy-liberalism-leftism-bernie-sanders-socialism-democrats.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved 2020 White House hopeful Sen. Elizabeth WarrenElizabeth WarrenScott Brown's wife files to run for Congress Schiff calls on Amazon, Facebook to addres...",
+        "upvotes": 2,
+        "url": "https://thehill.com/homenews/campaign/476523-warren-unveils-plan-to-help-disabled-people"
+      }
+    ],
+    "1": [
+      {
+        "preview": "You will love this site if you: (1) want accurate national election predictions, (2) are a political junkie, (3) don't have the time to track the campaigns, and/or (4) crave an informed overview of wh...",
+        "upvotes": 1,
+        "url": "http://www.borntorunthenumbers.com/2020/01/btrtn-what-is-pelosi-up-to-with-her.html"
+      },
+      {
+        "preview": "Lev Parnas, an indicted Ukrainian-Floridian businessman and associate of Rudy Giuliani’s who has been anxious to tell Congress what he remembers, got a federal judge’s blessing on Friday. Parnas trott...",
+        "upvotes": 17,
+        "url": "https://lawandcrime.com/high-profile/attorney-leaving-indicted-giuliani-associate-because-ability-to-fund-defense/"
+      },
+      {
+        "preview": "You will love this site if you: (1) want accurate national election predictions, (2) are a political junkie, (3) don't have the time to track the campaigns, and/or (4) crave an informed overview of wh...",
+        "upvotes": 1,
+        "url": "http://www.borntorunthenumbers.com/2020/01/btrtn-what-you-can-do-today-to-help.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Hansi Lo Wang Stephanie Hofeller stands with her father, Thomas, for a family photo in California during the 1970s. Republicans fought to stop computer files found on the redistricting expert's hard d...",
+        "upvotes": 4,
+        "url": "https://www.npr.org/2020/01/05/785672201/deceased-gop-strategists-daughter-makes-files-public-that-republicans-wanted-sea?ft=nprml&f=139482413"
+      },
+      {
+        "preview": "Democratic presidential contender Elizabeth Warren unveiled a proposal on Tuesday to overhaul the nation's personal bankruptcy laws, a direct challenge to rival Joe Biden over landmark legislation fro...",
+        "upvotes": 1,
+        "url": "https://www.cnbc.com/2020/01/07/elizabeth-warren-unveils-bankruptcy-agenda-targeting-joe-biden.html"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News NASHVILLE, Tenn. — Tennessee Gov. Bill Lee announced Tuesday that he’ll sign into law a measure that would assure continued taxpayer funding of faith...",
+        "upvotes": 1,
+        "url": "https://www.nbcnews.com/feature/nbc-out/tennessee-governor-says-he-will-sign-anti-gay-adoption-bill-n1116266"
+      }
+    ],
+    "3": [
+      {
+        "preview": "He was once a titan of the car industry who held hero status in Japan. He then became one of the country's most well-known criminal suspects. Now he's an international fugitive. Carlos Ghosn, the mult...",
+        "upvotes": 1,
+        "url": "https://www.bbc.com/news/world-50964040"
+      },
+      {
+        "preview": "2020 elections Castro's exit leaves the Democratic primary field without a Latino candidate. By CAITLIN OPRYSKO and NOLAN D. MCCASKILL 01/02/2020 09:18 AM EST Updated: 01/02/2020 12:04 PM EST Link Cop...",
+        "upvotes": 210,
+        "url": "https://www.politico.com/news/2020/01/02/julian-castro-ends-presidential-bid-092604?fbclid=IwAR2MdjU8XiisvMex_kAjzguqzmd8vtIqZ9YjzzLPyd90L42AGPaUo40a9rY"
+      },
+      {
+        "preview": "Biden accused Trump of having ‘tossed a stick of dynamite into a tinderbox’ while Republicans in Congress largely backed the move First published on Fri 3 Jan 2020 07.45 EST Democratic presidential ca...",
+        "upvotes": 15,
+        "url": "https://www.theguardian.com/world/2020/jan/03/iran-general-killing-democrats-reaction"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Note: This post was updated to clarify that Delaware’s minimum wage increase took effect on October 1, 2019. At the start of the new year, minimum wages will have gone up in 22 states, lifting pay for...",
+        "upvotes": 37,
+        "url": "https://www.epi.org/blog/january-1-state-minimum-wage-changes-will-bring-raises-to-nearly-7-million-workers/"
+      },
+      {
+        "preview": "An award-winning team of journalists, designers, and videographers who tell brand stories through Fast Company's distinctive lens The future of innovation and technology in government for the greater ...",
+        "upvotes": 1,
+        "url": "https://www.fastcompany.com/90445513/the-federal-minimum-wage-hasnt-increased-in-a-decade-but-the-prices-of-everything-else-has"
+      },
+      {
+        "preview": "Some Americans could lose Social Security Disability Insurance benefits under a recent Trump administration proposal ― a change that could affect thousands of people but that has received little atten...",
+        "upvotes": 13,
+        "url": "https://www.huffpost.com/entry/trump-disability-benefits_n_5e14b935c5b6c7b859d17b97?ah"
+      }
+    ]
+  }
+}

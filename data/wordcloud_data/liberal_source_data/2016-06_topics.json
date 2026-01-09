@@ -1,0 +1,285 @@
+{
+  "month": "2016-06",
+  "total_articles": 377,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "clinton",
+        "wa",
+        "hillary",
+        "ha",
+        "state",
+        "policy",
+        "warren",
+        "president",
+        "trump",
+        "trade",
+        "american",
+        "america",
+        "speech",
+        "obama",
+        "secretary"
+      ],
+      "topic_weights": [
+        1167.6289894969448,
+        477.65769536324586,
+        422.42366389616114,
+        420.2078137866778,
+        363.8774103280447,
+        292.5659714220306,
+        282.13158523041415,
+        250.56673294518788,
+        226.1647046630094,
+        217.0153865923496,
+        208.2687349053289,
+        176.16266672638417,
+        169.19997587921287,
+        166.8078519749813,
+        160.13652344692545
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "gun",
+        "ha",
+        "law",
+        "woman",
+        "court",
+        "state",
+        "life",
+        "government",
+        "shooting",
+        "group",
+        "gay",
+        "police",
+        "right",
+        "american"
+      ],
+      "topic_weights": [
+        1065.6427621059554,
+        542.7055292990372,
+        510.8234917606581,
+        406.73522861336915,
+        393.95402084022874,
+        300.9317000275155,
+        293.1995408361158,
+        282.0666484779416,
+        273.2667524046793,
+        266.54343840526633,
+        250.60239904324158,
+        245.55972584369871,
+        243.0041871091785,
+        233.53158909663694,
+        222.54230963686064
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "clinton",
+        "sander",
+        "voter",
+        "state",
+        "party",
+        "ha",
+        "republican",
+        "vote",
+        "campaign",
+        "voting",
+        "democratic",
+        "wa",
+        "trump",
+        "election",
+        "percent"
+      ],
+      "topic_weights": [
+        1077.8608859616952,
+        973.5500624501612,
+        828.047672025039,
+        761.3626769945599,
+        648.5682143897105,
+        635.0427331185576,
+        582.2662109804985,
+        568.2346662853662,
+        528.7579945594172,
+        526.8357478862135,
+        499.3517594060595,
+        498.3565673277214,
+        416.32309244850126,
+        409.27247976039376,
+        381.2853196188655
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "care",
+        "state",
+        "wa",
+        "health",
+        "patient",
+        "ha",
+        "soviet",
+        "service",
+        "union",
+        "public",
+        "economy",
+        "income",
+        "social",
+        "program",
+        "family"
+      ],
+      "topic_weights": [
+        536.3055755973124,
+        357.7204787838786,
+        344.13970884553055,
+        343.6285870989381,
+        261.3756353414876,
+        233.9563833845819,
+        214.27320630238182,
+        192.78259729832072,
+        188.030639770489,
+        185.90770476561275,
+        185.76172495876065,
+        176.216105751985,
+        172.55670769798556,
+        166.8960691184553,
+        162.9650437877392
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "company",
+        "judge",
+        "republican",
+        "million",
+        "donald",
+        "university",
+        "case",
+        "money",
+        "campaign",
+        "president",
+        "american",
+        "court"
+      ],
+      "topic_weights": [
+        2417.7491380636006,
+        596.4164922322736,
+        467.092845650281,
+        317.9785848942136,
+        297.5092329109953,
+        292.0821337178505,
+        261.0953704779963,
+        256.0211953860114,
+        225.993665037873,
+        225.05299684060296,
+        215.4306387356993,
+        205.98424418454044,
+        186.93676453274696,
+        182.67007328333864,
+        167.9535346574075
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 137,
+    "2": 79,
+    "3": 22,
+    "0": 51,
+    "4": 88
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since In investing, risk requires compensation. Investors will expect a higher return from a risky bet, a...",
+        "upvotes": 21,
+        "url": "http://www.businessinsider.com/donald-trump-is-the-tail-risk-candidate-2016-5"
+      },
+      {
+        "preview": "State media outlet welcomes Republican candidate’s ‘far-sighted’ policies and suggestion that he will withdraw troops from Seoul First published on Tue 31 May 2016 07.26 EDT North Korean state media h...",
+        "upvotes": 5,
+        "url": "http://www.theguardian.com/world/2016/may/31/north-korea-praises-trump-and-urges-us-voters-to-reject-dull-hillary"
+      },
+      {
+        "preview": "relationship with reporters: She does not get the benefit of any doubt; there is no elasticity of comprehension. She does not enjoy the goodwill that someone like Joe Biden — a king of misstatements, ...",
+        "upvotes": 25,
+        "url": "http://nymag.com/daily/intelligencer/2016/05/hillary-clinton-candidacy.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement Supported by By Jochen Bittner Hamburg, Germany — WE Germans can never escape the trauma of our recent history. That has rarely been clearer than today, as we look around our Continent a...",
+        "upvotes": 6,
+        "url": "http://www.nytimes.com/2016/05/31/opinion/is-this-the-wests-weimar-moment.html"
+      },
+      {
+        "preview": "Advertisement Supported by By Alison Smale BERLIN — At least 26 women who attended a four-day music festival in the western German town of Darmstadt this past weekend have reported that they were grop...",
+        "upvotes": 0,
+        "url": "https://www.nytimes.com/2016/06/01/world/europe/darmstadt-germany-migrants-assaults.html"
+      },
+      {
+        "preview": "A Pakistani woman who was set on fire for refusing a marriage proposal has died of her injuries. Maria Sadaqat, a young schoolteacher, was attacked in her home by a group of men on Sunday and died in ...",
+        "upvotes": 1,
+        "url": "https://web.archive.org/save/http://www.bbc.com/news/world-asia-36425946"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Welcome, “Another Clinton in the White House is just going to fan the flames of the right-wing revolt,” she says Politics Staff Writer Jill Stein is running for president this November on the Green Pa...",
+        "upvotes": 8,
+        "url": "http://www.rollingstone.com/politics/news/green-partys-jill-stein-on-the-feminist-case-against-hillary-clinton-20160526"
+      },
+      {
+        "preview": "James H. Rudy Professor of Political Science at Indiana University, Bloomington In a recent televised AP interview, Bernie Sanders was asked if he thought the Democratic Party convention this summer w...",
+        "upvotes": 2,
+        "url": "http://www.publicseminar.org/2016/05/neither-angels-nor-demons-and-the-importance-of-coalescing-to-defeat-donald-trump/#.V04sH2NFJTf"
+      },
+      {
+        "preview": "In-depth reporting, data and actionable intelligence for policy professionals – all in one place. Members affiliated with Erdoğan’s AK Party tried to get elected for positions including Amsterdam muni...",
+        "upvotes": 1,
+        "url": "https://web.archive.org/save/https://www.politico.eu/article/dutch-labour-party-kicked-out-recep-tayyip-erdogan-loyalists-chairman-turkey-eu"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Supported by Editorial By The Editorial Board As they sliced and diced state programs this month to close a budget deficit, Republicans controlling the Oklahoma Legislature cruelly targe...",
+        "upvotes": 69,
+        "url": "http://www.nytimes.com/2016/05/29/opinion/sunday/oklahoma-makes-the-poor-poorer.html?_r=0"
+      },
+      {
+        "preview": "ts.) I am de facto apolitical since I do not think a revolution in developed countries is feasible in the short or medium term, and I do not think my individual participation (or even a concerted coll...",
+        "upvotes": 1,
+        "url": "https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/"
+      },
+      {
+        "preview": "from Lars Syll Every dollar of increased government spending must correspond to one less dollar of private spending. Jobs created by stimulus spending are offset by jobs lost from the decline in priva...",
+        "upvotes": 1,
+        "url": "https://rwer.wordpress.com/2016/06/02/the-tiny-little-problem-with-chicago-economics/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by By Michael Barbaro and Steve Eder In blunt testimony revealed on Tuesday, former managers of Trump University, the for-profit school started by Donald J. Trump, portray it a...",
+        "upvotes": 79,
+        "url": "http://www.nytimes.com/2016/06/01/us/politics/donald-trump-university.html"
+      },
+      {
+        "preview": "Featured Shows  TV More More Shows Follow  More Brands More Shows Marco Rubio may have failed to stop Donald Trump in the Republican primaries, but Hillary Clinton’s campaign is taking a page from Rub...",
+        "upvotes": 11,
+        "url": "http://www.msnbc.com/msnbc/democrats-look-succeed-where-republicans-failed-trump-university-attack"
+      },
+      {
+        "preview": "Donald Trump is a fighter, famous for legal skirmishes over everything from his golf courses to his tax bills to Trump University. But until now, it hasn’t been clear precisely how litigious he is and...",
+        "upvotes": 67,
+        "url": "http://www.usatoday.com/story/news/politics/elections/2016/06/01/donald-trump-lawsuits-legal-battles/84995854/"
+      }
+    ]
+  }
+}

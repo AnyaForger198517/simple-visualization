@@ -1,0 +1,275 @@
+{
+  "month": "2019-04",
+  "total_articles": 129,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "city",
+        "democrat",
+        "immigrant",
+        "democratic",
+        "trump",
+        "common",
+        "love",
+        "core",
+        "gate",
+        "ha",
+        "school",
+        "party",
+        "did",
+        "candidate"
+      ],
+      "topic_weights": [
+        27.265631607662666,
+        25.864495095323562,
+        25.122143034803173,
+        21.92037418115739,
+        20.8094459913079,
+        20.62189435639353,
+        17.51789184802497,
+        17.455746141831945,
+        17.069653937921426,
+        15.894680134832758,
+        15.42661198374829,
+        15.264498763108307,
+        14.545815671228121,
+        14.394178462093473,
+        12.916845997073603
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "democrat",
+        "trump",
+        "candidate",
+        "cuomo",
+        "cnn",
+        "paul",
+        "biden",
+        "twitter",
+        "president",
+        "wa",
+        "donald",
+        "support",
+        "monday",
+        "democratic",
+        "joe"
+      ],
+      "topic_weights": [
+        410.21397822492315,
+        277.18280942274595,
+        267.7455828551725,
+        265.21297865926147,
+        201.9429048482925,
+        201.0229274319998,
+        142.6739699851001,
+        140.82576696359953,
+        140.01561605442475,
+        136.26393868323336,
+        135.93641429706983,
+        135.8165579224302,
+        135.1748734078204,
+        134.88520538825517,
+        133.93770086555955
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "trump",
+        "president",
+        "ha",
+        "mueller",
+        "court",
+        "house",
+        "state",
+        "report",
+        "news",
+        "american",
+        "law",
+        "political",
+        "right",
+        "government"
+      ],
+      "topic_weights": [
+        164.92350092487274,
+        128.99975666769933,
+        106.23020093102075,
+        80.17401269119301,
+        65.3522816743227,
+        64.83928227673695,
+        60.369359067065794,
+        52.61087832700722,
+        51.23776187975679,
+        47.52721127812865,
+        46.331104029711234,
+        45.5534412248048,
+        41.27470019002204,
+        40.60166487042288,
+        40.58803471430204
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "ha",
+        "wa",
+        "world",
+        "climate",
+        "change",
+        "science",
+        "global",
+        "minnesota",
+        "life",
+        "law",
+        "war",
+        "vote",
+        "power",
+        "group"
+      ],
+      "topic_weights": [
+        94.28638732608303,
+        83.93294032996086,
+        82.79627024102746,
+        51.03608455237452,
+        50.167412643953014,
+        40.90194799880712,
+        31.262111391397777,
+        30.367230831844356,
+        27.658068288050753,
+        27.172425193119913,
+        26.887371360605876,
+        26.845273581726815,
+        26.618967131863876,
+        26.208465206890878,
+        25.832435997314185
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "wa",
+        "border",
+        "court",
+        "china",
+        "camp",
+        "american",
+        "government",
+        "state",
+        "census",
+        "issue",
+        "tax",
+        "transgender",
+        "week",
+        "case"
+      ],
+      "topic_weights": [
+        35.437026657044704,
+        33.90808571429568,
+        23.77662063712877,
+        21.47476044614938,
+        19.60589140588856,
+        18.674479594033983,
+        18.060070498442936,
+        16.86128728601686,
+        16.844168523024177,
+        15.746095986590635,
+        15.588041215545616,
+        15.387748206036333,
+        15.035309593270838,
+        13.976921094134996,
+        13.428771714336492
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 66,
+    "3": 35,
+    "4": 21,
+    "0": 6,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Bill Gates is among the richest, most successful people on the planet. He enjoyed a lot of victories until he ventured into a dangerous part of town called Education. He squandered a few billion dolla...",
+        "upvotes": 0,
+        "url": "https://www.americanthinker.com/articles/2019/04/k12_what_happened_to_bill_gates_and_common_core.html"
+      },
+      {
+        "preview": "By Judi McLeod —— Bio and Archives April 8, 2019 Comments | Print This | Subscribe | Email Us Much is being written and said about Modern Day Harpy Alexandria Ocasio-Cortez (AOC), but no one sys it be...",
+        "upvotes": 6,
+        "url": "https://canadafreepress.com/print_friendly/alexandria-ocasio-cortez-americas-biggest-socialist-scripted-act"
+      },
+      {
+        "preview": "April 13, 2019 MJA Uncategorized 14 Federalist: After almost two weeks of critical media coverage of Joe Biden’s handsy history, poll after poll indicates most Democrats do not care. The latest Quinni...",
+        "upvotes": 8,
+        "url": "https://iotwreport.com/will-the-democratic-party-faithful-ever-notice-their-leaders-are-crazy/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "ADVERTISEMENT SHARE Paul Begala, a CNN political commentator and former adviser to President Bill Clinton, on Monday night said he would support any Democrat who could defeat President Donald Trump, e...",
+        "upvotes": 9,
+        "url": "https://freebeacon.com/politics/cnns-begala-you-can-shoot-my-dog-and-if-i-think-you-can-beat-trump-ill-be-for-you/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement On Monday former Director of National Intelligence James Clapper went on with CNN’s Anderson Cooper to discuss the Mueller Report after its release on Sunday. After two years of investig...",
+        "upvotes": 105,
+        "url": "https://www.thegatewaypundit.com/2019/03/clapper-sings-former-director-of-national-intelligence-james-clapper-tells-cnn-obama-ordered-the-trump-russia-spying-operation-video/"
+      },
+      {
+        "preview": "FILE - In this Sept. 4, 2013, file photo, then-incoming FBI Director James Comey talks with outgoing FBI Director Robert Mueller before Comey was officially sworn in at the Justice Department in Washi...",
+        "upvotes": 52,
+        "url": "https://www.redstate.com/elizabeth-vaughn/2019/03/31/mueller-knew-early-trump-not-collude-russia-investigation-take-long/"
+      },
+      {
+        "preview": "Subscribe for full access to The Hollywood Reporter Subscribe for full access to The Hollywood Reporter Graced with a coveted A+ CinemaScore, the controversial anti-abortion drama 'Unplanned' opened t...",
+        "upvotes": 1,
+        "url": "https://www.hollywoodreporter.com/news/unplanned-box-office-anti-abortion-pic-opens-strong-6m-1198369"
+      }
+    ],
+    "3": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. Brian SchatzBrian Emanuel SchatzConservation group says it will only endorse Democrats who support .5T spending plan Overnight Defense & Nationa...",
+        "upvotes": 1,
+        "url": "https://thehill.com/homenews/senate/436709-dem-senator-introducing-constitutional-amendment-to-abolish-electoral-college"
+      },
+      {
+        "preview": "Rod Thomson Banning sanctuary cities has a very real chance of passing in Florida this year — and that’s creating an emotion-driven battle with Democrats and the open-borders lobby. The sanctuary bill...",
+        "upvotes": 1,
+        "url": "https://therevolutionaryact.com/floridaground-zero-sanctuary-cities/"
+      },
+      {
+        "preview": "Last night, I was having a conversation with a couple of friends from Latin America — to be specific, Venezuela, Mexico, and Peru. Inevitably, the conversation turned to Venezuela.My friend from Venez...",
+        "upvotes": 0,
+        "url": "https://www.americanthinker.com/blog/2019/04/venezuela_under_candlelight.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "President Donald Trump on Tuesday acknowledged that closing the Southern border would negatively affect trade but said he is willing to do it anyway for security reasons. “Sure, it’s going to have a n...",
+        "upvotes": 108,
+        "url": "https://www.breitbart.com/politics/2019/04/02/donald-trump-defends-border-closure-option-security-more-important-than-trade/"
+      },
+      {
+        "preview": "By Michael Oberndorf, RPA —— Bio and Archives April 4, 2019 Comments | Print This | Subscribe | Email Us Many Americans are asking why the Democrats and their running dog RINO accomplices in Congress ...",
+        "upvotes": 20,
+        "url": "https://canadafreepress.com/print_friendly/cloward-and-piven-on-steroids"
+      },
+      {
+        "preview": "All those people under that overpass because CBP has nowhere to put them may beg to differ. While many Democrats have finally admitted that there is indeed an emergency on the border (although they us...",
+        "upvotes": 43,
+        "url": "https://www.redstate.com/bonchie/2019/04/03/delusion-ilhan-omar-says-border-crisis-made-just-racist-ploy/"
+      }
+    ]
+  }
+}

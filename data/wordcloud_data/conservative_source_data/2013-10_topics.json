@@ -1,0 +1,280 @@
+{
+  "month": "2013-10",
+  "total_articles": 244,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "obama",
+        "wa",
+        "republican",
+        "house",
+        "government",
+        "ha",
+        "president",
+        "senate",
+        "democrat",
+        "shutdown",
+        "debt",
+        "white",
+        "vote",
+        "national",
+        "congress"
+      ],
+      "topic_weights": [
+        333.43688857609703,
+        322.99109187374495,
+        280.7196409517604,
+        272.84743963367833,
+        258.4823107171742,
+        245.43280787900255,
+        206.6154086243606,
+        157.95496452210202,
+        152.00145852653398,
+        147.54517323507258,
+        143.53826803655312,
+        104.03703181235106,
+        103.37136886217522,
+        89.8153966252961,
+        87.66701212028596
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "spending",
+        "budget",
+        "data",
+        "federal",
+        "state",
+        "outlay",
+        "debt",
+        "government",
+        "history",
+        "source",
+        "table",
+        "medicare",
+        "chart",
+        "estimated",
+        "local"
+      ],
+      "topic_weights": [
+        569.2881230486457,
+        379.7821069929349,
+        343.29850282003946,
+        295.998644693307,
+        193.580258022044,
+        175.9017610786143,
+        159.6549426153286,
+        142.4893812690219,
+        118.9735731838508,
+        114.53402754313402,
+        106.04841878410042,
+        91.20714279272043,
+        90.30841157499809,
+        89.0941932731657,
+        88.5089514502109
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "post",
+        "reply",
+        "link",
+        "response",
+        "oct",
+        "abuse",
+        "alert",
+        "permalink",
+        "child",
+        "tax",
+        "cost",
+        "liberal",
+        "chad",
+        "software",
+        "young"
+      ],
+      "topic_weights": [
+        397.0286374546632,
+        257.77160030979286,
+        169.9617778561793,
+        163.65061886517435,
+        155.4112418213879,
+        148.54144575368886,
+        139.78729609521525,
+        137.11724685386358,
+        125.3302867546171,
+        103.70285104205763,
+        100.31526797542816,
+        83.23271138225853,
+        77.07477345338661,
+        73.71851126232804,
+        72.15474756241512
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "child",
+        "job",
+        "world",
+        "kindle",
+        "sex",
+        "economy",
+        "survival",
+        "adventure",
+        "parent",
+        "verona",
+        "novel",
+        "sample",
+        "marriage",
+        "gay",
+        "family"
+      ],
+      "topic_weights": [
+        190.1566329884916,
+        174.69716081408657,
+        162.9352679027078,
+        159.0457508894476,
+        158.95797446798036,
+        149.56429158297,
+        130.21005404752285,
+        124.80319532653193,
+        123.06651222876641,
+        121.54614360559798,
+        113.37485407212037,
+        110.75864142134301,
+        106.01328450639106,
+        101.60053890802949,
+        99.83803792344261
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "health",
+        "obamacare",
+        "government",
+        "american",
+        "party",
+        "republican",
+        "state",
+        "insurance",
+        "law",
+        "care",
+        "obama",
+        "plan",
+        "exchange"
+      ],
+      "topic_weights": [
+        1021.3005379300132,
+        627.674584076734,
+        555.8136848696618,
+        551.826849144221,
+        452.64034397942726,
+        430.7839115134748,
+        415.44959814122376,
+        391.6911506440516,
+        377.67750086332865,
+        358.3628722356939,
+        335.9298862124366,
+        330.45421114913876,
+        329.5159724512172,
+        321.9514735840096,
+        250.35791973831329
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 161,
+    "0": 67,
+    "2": 10,
+    "3": 2,
+    "1": 4
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Shut it down. Shut the government down. Send all the \"non-essential\" bureaucrats packing. Cut them from the payroll immediately. Then, start lopping the \"essential\" ones. Do away with all those worthl...",
+        "upvotes": 1,
+        "url": "http://www.americanthinker.com/blog/2013/10/shut_down_the_government.html"
+      },
+      {
+        "preview": "Leo Shane III is tweeting from a bizarre scene on the Mall in Washington. Veterans from all over the country had come to the World War II Memorial to visit it. That memorial is normally unmanned, as i...",
+        "upvotes": 18,
+        "url": "http://pjmedia.com/tatler/2013/10/01/shutdown-veterans-take-barricaded-world-war-ii-memorial-that-normally-goes-unmanned/"
+      },
+      {
+        "preview": "He blasts the government for trying to block vets from visiting their memorial. By LUCY MCCALMONT 10/02/2013 07:21 AM EDT Sen. Rand Paul blasted the federal government for trying to block World War II...",
+        "upvotes": 4,
+        "url": "http://www.politico.com/story/2013/10/wwii-memorial-rand-paul-97708.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Why oh why can't we have a better press corps? Niall Ferguson: The Shutdown Is a Sideshow. Debt Is the Threat: Only a fantasist can seriously believe \"this is not a crisis.\" The fiscal arithmetic of e...",
+        "upvotes": 0,
+        "url": "http://delong.typepad.com/sdj/2013/10/whiskey-tango-foxtrot-wall-street-journal-bang-query-bang-query-is-this-some-strange-berkeley-acid-trip-i-am-on-weblogging.html"
+      },
+      {
+        "preview": "Monthly Federal Spending/Revenue/Deficit ChartsFederal Coronavirus/COVID-19 ResponseClick to view Tweet Contact Follow @chrischantrill What are the biggest federal programs?The three biggest federal p...",
+        "upvotes": 8,
+        "url": "http://www.usgovernmentspending.com/year_budget_2014USbn_15bs1n_90#usgs302"
+      },
+      {
+        "preview": "Illinois’ comeback story starts here. Former Vice President of Policy Illinois’ pension conference committee is once again rumored to be nearing a “fix” for the state’s pension mess. But if the pensio...",
+        "upvotes": 6,
+        "url": "http://illinoispolicy.org/pension-reform-time-to-means-test-colas/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Here's the thing. The deadline to signup is March 31st, 2014. If only there were a way to apply... Often, parents of children with special needs struggle to find Halloween costumes that will accommoda...",
+        "upvotes": 15,
+        "url": "http://www.upworthy.com/his-first-4-sentences-are-interesting-the-5th-blew-my-mind-and-made-me-a-little-sick-2?g=2"
+      },
+      {
+        "preview": "A key moment so far in the shutdown drama was when Harry Reid, the liberal Democrat head of the Senate, stated that he didn't care if children with cancer missed out on medical care. While this shocke...",
+        "upvotes": 19,
+        "url": "http://www.americanthinker.com/2013/10/liberal_child_abuse.html"
+      },
+      {
+        "preview": " Operating System Supported by the Free Software Foundation by Richard Stallman (The first version was published in Boston Review.) On the Internet, proprietary software isn't the only way to lose you...",
+        "upvotes": 0,
+        "url": "http://www.gnu.org/philosophy/who-does-that-server-really-serve.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Review of Economics of the Household volume 11, pages 635–658 (2013)Cite this article 5075 Accesses 30 Citations 124 Altmetric Metrics details An Erratum to this article was published on...",
+        "upvotes": 4,
+        "url": "http://link.springer.com/article/10.1007/s11150-013-9220-y"
+      },
+      {
+        "preview": " Resistance, Revolution, Liberation: A Model for Positive Change ($15) An Unconventional Guide to Investing in Troubled Times ($15) Survival+ (US) $19.95 Structuring prosperity Survival+ (UK/EU) Survi...",
+        "upvotes": 3,
+        "url": "http://charleshughsmith.blogspot.com/2013/10/what-do-we-expect-to-happen.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Some business groups say Obamacare will hurt their costs more than it will help. | REUTERS By DAVID NATHER 09/30/2013 05:04 AM EDT This article is an excerpt from “Understanding Obamacare: ’s Guide to...",
+        "upvotes": 1,
+        "url": "http://www.politico.com/story/2013/09/how-obamacare-affects-businesses-large-and-small-97460.html?hp=f2"
+      },
+      {
+        "preview": "A Way of Living. Celebrate how you live your life! The 2010s will be remembered for the big ups and downs in health-related news. The ups were the advances in technology that have furthered treatment ...",
+        "upvotes": 3,
+        "url": "http://www.modvive.com/2013/05/09/the-death-of-standards-and-traditions-a-steadily-moving-line-of-acceptability-pt-1/"
+      },
+      {
+        "preview": "Even before she retired last week, scandalized IRS official Lois Lerner's compensation was already attracting attention. While on administrative leave, federal rules allowed her to keep collecting a s...",
+        "upvotes": 6,
+        "url": "http://cnsnews.com/commentary/pete-sepp/lerners-pension-could-be-much-102600year-396-million-lifetime"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "month": "2017-11",
+  "total_articles": 181,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "black",
+        "white",
+        "student",
+        "school",
+        "american",
+        "ha",
+        "wa",
+        "yale",
+        "america",
+        "culture",
+        "college",
+        "university",
+        "civil",
+        "course",
+        "teacher"
+      ],
+      "topic_weights": [
+        991.6155673961581,
+        435.21568257697993,
+        346.02696810504716,
+        314.8319692493101,
+        282.9017819506148,
+        259.63116451720873,
+        228.98676235425341,
+        224.27055467990348,
+        212.70657925911064,
+        209.08756166187476,
+        193.81766780583624,
+        183.164892932169,
+        181.91981700413928,
+        155.78906488228498,
+        152.62867721984455
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "clinton",
+        "president",
+        "moore",
+        "woman",
+        "sexual",
+        "story",
+        "advertisement",
+        "news",
+        "medium",
+        "republican",
+        "video",
+        "franken"
+      ],
+      "topic_weights": [
+        791.7869862027734,
+        343.26248321756736,
+        270.3333781946898,
+        225.65120530108953,
+        205.6142050929645,
+        203.93635982328993,
+        187.07357616937847,
+        171.68900365672093,
+        169.6105632673566,
+        155.84800222289593,
+        154.82946896298026,
+        148.80800583828668,
+        132.32077586574783,
+        114.31984201631634,
+        109.9881774304683
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "percent",
+        "state",
+        "million",
+        "policy",
+        "american",
+        "income",
+        "democrat",
+        "republican",
+        "business",
+        "rate",
+        "ha",
+        "gun",
+        "government",
+        "cut"
+      ],
+      "topic_weights": [
+        250.74095116128817,
+        116.23642610127997,
+        91.16115429467351,
+        74.52344455454103,
+        74.25915752405797,
+        72.42510570636946,
+        71.16150951810353,
+        63.41836749766165,
+        62.06933013816089,
+        58.09844564011132,
+        56.3224604222155,
+        51.52710667771946,
+        50.72922176026116,
+        43.130258026050875,
+        39.5332753015135
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "revolution",
+        "white",
+        "social",
+        "state",
+        "ha",
+        "black",
+        "american",
+        "man",
+        "woman",
+        "democratic",
+        "election",
+        "society",
+        "democracy",
+        "elite"
+      ],
+      "topic_weights": [
+        366.094112268708,
+        328.7414482126205,
+        292.48408135683184,
+        278.6384853175251,
+        243.92753980937186,
+        243.91502831852094,
+        236.56877008928572,
+        221.19811805599903,
+        219.35943256184328,
+        212.0535927321343,
+        192.05786850616818,
+        191.32567630330266,
+        187.02371292053382,
+        162.50147482831542,
+        146.81282718237506
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "president",
+        "trump",
+        "director",
+        "cfpb",
+        "law",
+        "court",
+        "russian",
+        "agency",
+        "group",
+        "cordray",
+        "act",
+        "company",
+        "news"
+      ],
+      "topic_weights": [
+        296.2694429981074,
+        169.46026032954003,
+        134.77271122987534,
+        133.49828292459597,
+        129.02533170407528,
+        116.85558101442479,
+        91.38606484478292,
+        90.28876945335591,
+        84.4059002852721,
+        67.61598148924855,
+        66.48003331913844,
+        65.38747042001717,
+        61.548315520510926,
+        60.20118966928001,
+        59.270481505142165
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 39,
+    "2": 33,
+    "3": 2,
+    "1": 99,
+    "0": 8
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Education Secretary Betsy DeVos’s new agenda for handling allegations of sexual assault is flunking out at colleges and universities across the country. Instead, many say they will continue to adhere ...",
+        "upvotes": 2,
+        "url": "http://www.realclearinvestigations.com/articles/2017/10/26/devos.html"
+      },
+      {
+        "preview": "With President Trump’s visit looming on the horizon, and North Korea’s less than agreeable behavior on the top of the list of things to talk about, Beijing has banned Chinese tourism to the communist ...",
+        "upvotes": 12,
+        "url": "https://www.redstate.com/brandon_morse/2017/11/08/china-bans-tourism-north-korea/"
+      },
+      {
+        "preview": "Don’t clap for whites AUSTIN, Texas – The white professor who quit her full-time position to tour the country, leading seminars on “white fragility,” asked for whites in the room to come forward. Abou...",
+        "upvotes": 29,
+        "url": "http://www.thecollegefix.com/post/39048/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Follow Us National Review Twenty Years Ago, the World Changed New Chinese Ambassador Snaps at U.S.: ‘Please Shut Up’ The Collapse of Biden’s China Doctrine ‘The World Will Never Be the Same’ Searching...",
+        "upvotes": 11,
+        "url": "http://www.nationalreview.com/article/453266/boris-nemtsov-assassination-russia-evidence-vladimir-putin-regime-guilty-chechen-leader-ramzan-kadyrov"
+      },
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 12,
+        "url": "http://dailysignal.com/2017/10/30/ugly-truth-sex-reassignment-transgender-lobby-doesnt-want-know/"
+      },
+      {
+        "preview": "Advertisement BREAKING—- TRUMP CANCELS DIVERSITY LOTTERY PROGRAM On Tuesday Islamist Sayfullo Saipov, a 29=year-old immigrant from Uzbekistan, murdered eight people in a truck attack in New York City....",
+        "upvotes": 76,
+        "url": "http://www.thegatewaypundit.com/2017/11/breaking-trump-cancels-diversity-lottery-program-killer-brought-23-family-members/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved While the debate still rages over the effect that salt has on the health of Americans, another form of salt, the state and local tax deduction (SALT)...",
+        "upvotes": 6,
+        "url": "http://thehill.com/opinion/finance/357999-we-must-get-salt-out-of-taxpayers-diets"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 15,
+        "url": "https://www.newsbusters.org/blogs/nb/kyle-drennen/2017/10/31/msnbc-promo-laughably-claims-not-echo-chamber"
+      },
+      {
+        "preview": "Remember when I said last week that we should all be rooting for nuclear war? I take it back. We should all be praying for it. I just finished skimming this Cato Institute survey on free speech and to...",
+        "upvotes": 29,
+        "url": "https://hotair.com/archives/2017/10/31/poll-51-democrats-want-law-requiring-people-call-transgenders-preferred-gender-pronoun/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 5,
+        "url": "http://www.nationalreview.com/corner/453296/bolshevik-beacon-humanity"
+      },
+      {
+        "preview": "olution having been, in his eyes, merely the consecration of an already existing de facto independence. Thus, Americans were able to avoid the “deep turmoil” that “lives on for quite some time” in the...",
+        "upvotes": 6,
+        "url": "https://www.thenation.com/article/what-would-have-alexis-de-tocqueville-have-made-of-the-2016-us-presidential-election/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Tom Perez, the Democratic National Committee’s new chairman, stonewalled reporters Tuesday by refusing to divulge any concrete information about the DNC’s financial payments to Fusion GPS, the opposit...",
+        "upvotes": 9,
+        "url": "http://dailycaller.com/2017/10/31/dnc-chief-stonewalls-reporters-on-payments-to-fusion-gps/?utm_medium=push&utm_source=daily_caller&utm_campaign=push"
+      },
+      {
+        "preview": "Well over a year after the FBI began investigating \"collusion\" between the Trump campaign and Vladimir Putin, Special Counsel Robert Mueller has brought in his first major indictment. Trump campaign m...",
+        "upvotes": 3,
+        "url": "https://townhall.com/columnists/patbuchanan/2017/10/31/that-other-plot--to-bring-down-trump-n2402569"
+      },
+      {
+        "preview": "\"Shout 'Allahu Akbar,' because this strikes fear in the hearts of the non-believers.\" Who knew hijacker Mohammed Atta's parting words, discovered in his journal after the 9/11 attacks, would become a ...",
+        "upvotes": 8,
+        "url": "https://townhall.com/columnists/michellemalkin/2017/11/01/allahu-akbaritis-americas-deadly-and-debilitating-disease-n2403155"
+      }
+    ]
+  }
+}

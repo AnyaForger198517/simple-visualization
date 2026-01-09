@@ -1,0 +1,285 @@
+{
+  "month": "2015-11",
+  "total_articles": 341,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "clinton",
+        "sander",
+        "hillary",
+        "wa",
+        "democratic",
+        "ha",
+        "campaign",
+        "party",
+        "state",
+        "bernie",
+        "obama",
+        "election",
+        "president",
+        "percent",
+        "democrat"
+      ],
+      "topic_weights": [
+        1443.2190500987551,
+        585.2580204112548,
+        536.6480758703302,
+        437.50965694965754,
+        421.264087178785,
+        356.8078438200688,
+        340.81805205151915,
+        334.4696499210339,
+        325.05663706926026,
+        292.49120532105127,
+        278.6338954855245,
+        278.56385526098944,
+        269.1788747001556,
+        251.72117468488887,
+        235.8594071968226
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "wa",
+        "republican",
+        "trump",
+        "tax",
+        "state",
+        "percent",
+        "american",
+        "company",
+        "country",
+        "government",
+        "policy",
+        "school",
+        "change",
+        "group"
+      ],
+      "topic_weights": [
+        622.6233660402697,
+        500.4240098332887,
+        443.2552513687186,
+        365.80297361393264,
+        304.2092488737519,
+        296.9943640291807,
+        294.52409022503343,
+        267.2808912766589,
+        248.32830457887923,
+        248.161428186158,
+        223.7724936394233,
+        219.45078313411616,
+        216.68399499066138,
+        204.10053898016707,
+        200.68731926888086
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "gun",
+        "ha",
+        "black",
+        "white",
+        "woman",
+        "state",
+        "law",
+        "attack",
+        "court",
+        "case",
+        "justice",
+        "right",
+        "president",
+        "obama"
+      ],
+      "topic_weights": [
+        362.302322469858,
+        216.3578233085441,
+        212.3372124733083,
+        206.4735513864237,
+        172.67428456979619,
+        166.28031100954135,
+        164.37988978373215,
+        162.76246520293785,
+        146.41096244740885,
+        140.61533646188886,
+        129.597997463103,
+        122.51874867150833,
+        115.34078593569744,
+        113.80330448267888,
+        109.48645705455667
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "carson",
+        "wa",
+        "story",
+        "ben",
+        "campaign",
+        "ha",
+        "service",
+        "told",
+        "point",
+        "court",
+        "company",
+        "school",
+        "case",
+        "arbitration",
+        "west"
+      ],
+      "topic_weights": [
+        602.807412075351,
+        303.8420088781911,
+        112.6272708700834,
+        108.16323232912652,
+        105.48252986308611,
+        103.84613368601535,
+        83.8818458852251,
+        82.21021118720145,
+        78.5904896503316,
+        73.49279060603924,
+        61.57036770172696,
+        60.39064641770859,
+        59.82614519056996,
+        59.631216034912654,
+        58.07141829220031
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "refugee",
+        "isi",
+        "police",
+        "country",
+        "american",
+        "immigrant",
+        "rubio",
+        "attack",
+        "united",
+        "officer",
+        "war",
+        "syrian"
+      ],
+      "topic_weights": [
+        586.408925288478,
+        355.123545184118,
+        354.2356608464376,
+        303.18330796135797,
+        256.012329838354,
+        249.239048132851,
+        208.12055503233515,
+        203.88837874865118,
+        198.66661125119003,
+        172.87090019272281,
+        160.35289696643093,
+        157.46228281974945,
+        153.6068540973721,
+        153.3939089811848,
+        145.97687311734958
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 83,
+    "0": 56,
+    "2": 47,
+    "1": 131,
+    "3": 24
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Read: Despite 100 Years of Activism, the Death Penalty Still Won't Die Democratic presidential candidate Bernie Sanders called for an end to the death penalty on Thursday, laying out his case in a Sen...",
+        "upvotes": 38,
+        "url": "http://www.vice.com/read/bernie-sanders-wants-to-abolish-the-death-penalty-vgtrn-1030?utm_source=vicefbus"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. The systemic disenfranc...",
+        "upvotes": 9,
+        "url": "http://www.commondreams.org/views/2014/11/11/how-gop-bought-rigged-stole-and-lynched-2014-election"
+      },
+      {
+        "preview": "Hillary Clinton finished 3rd in the 2008 Iowa Caucus, even though an October 6, 2007 article in CNN stated the New York Senator had a commanding lead over her competition. Titled Giuliani and Clinton ...",
+        "upvotes": 6,
+        "url": "http://www.huffingtonpost.com/h-a-goodman/polling-trajectory-shows-bernie-sanders-defeating-hillary-clinton_b_8406282.html?utm_hp_ref=politics"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A significant factor in the decline of the quality of jobs in the United States has been employers’ increasing reliance on “non-regular” employees — a growing army of freelancers, temps, contractors, ...",
+        "upvotes": 20,
+        "url": "http://www.salon.com/2015/10/31/the_uber_economy_fks_us_all_how_permalancers_and_sharer_gigs_guts_the_middle_class/"
+      },
+      {
+        "preview": "Photo by Andrew Burton/Getty Images What’s the opposite of an exclamation point? A question mark? An ellipsis? Whatever it is, Jeb Bush’s performance on the CNBC stage on Wednesday night was the equiv...",
+        "upvotes": 38,
+        "url": "http://www.slate.com/blogs/the_slatest/2015/10/29/jeb_bush_is_doomed_narrative_is_dooming_jeb_bush.html"
+      },
+      {
+        "preview": "Advertisement Supported by Editorial By The Editorial Board In many industries, like airlines, telecommunications, health care and beer, mergers and acquisitions have increased the market power of big...",
+        "upvotes": 8,
+        "url": "http://www.nytimes.com/2015/11/01/opinion/sunday/how-mergers-damage-the-economy.html?_r=0"
+      }
+    ],
+    "2": [
+      {
+        "preview": "BIRMINGHAM, Ala. (AP) — Alabama’s reigning Teacher of the Year says she has resigned after state officials told her she’s unqualified to teach in her fifth-grade classroom because of certification iss...",
+        "upvotes": 18,
+        "url": "http://talkingpointsmemo.com/news/ann-marie-corgill-alabama-teacher-resigns"
+      },
+      {
+        "preview": "Republican presidential candidate Chris Christie speaks at the Iowa GOP’s Growth and Opportunity Party at the Iowa state fair grounds in Des Moines, Iowa, Saturday, Oct. 31, 2015. (Photo: Nati Harnik/...",
+        "upvotes": 4,
+        "url": "https://www.yahoo.com/politics/chris-christie-doubles-down-on-black-lives-matter-205614490.html"
+      },
+      {
+        "preview": "By Taylor Kate Brown News Magazine An upcoming election has highlighted the deep disagreement between native Hawaiians over what the future should look like. For some, it's formal recognition of their...",
+        "upvotes": 0,
+        "url": "http://www.bbc.com/news/magazine-34680564"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Attempting to dismiss questions about a reported incident in his youth when he claimed he attempted to stab a friend, aspiring GOP presidential contender Ben Carson blamed reporters for getting the st...",
+        "upvotes": 57,
+        "url": "https://www.rawstory.com/2015/10/ben-carson-blames-reporters-as-his-story-about-trying-to-stab-a-friend-falls-apart/"
+      },
+      {
+        "preview": "Advertisement Supported by Beware the Fine Print | Part I By Jessica Silver-Greenberg and Robert Gebeloff On Page 5 of a credit card contract used by American Express, beneath an explainer on interest...",
+        "upvotes": 6,
+        "url": "http://www.nytimes.com/2015/11/01/business/dealbook/arbitration-everywhere-stacking-the-deck-of-justice.html"
+      },
+      {
+        "preview": "Written by John Vibes John Vibes October 27, 2015 (ANTIMEDIA) Republican presidential hopeful Ben Carson recently admitted to attacking people with bricks, knives, rocks, and hammers as a teenager. Th...",
+        "upvotes": 29,
+        "url": "http://theantimedia.org/ben-carson-admits-he-attacked-people-with-bricks-knives-and-hammers-as-teen/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Advertisement Supported by By Jodi Rudoren JERUSALEM — After more than a week of local and international condemnation, Prime Minister Benjamin Netanyahu of Israel issued a statement on Friday retracti...",
+        "upvotes": 3,
+        "url": "http://www.nytimes.com/2015/10/31/world/middleeast/netanyahu-retracts-assertion-that-palestinian-inspired-holocaust.html"
+      },
+      {
+        "preview": "Watch CBSN Live Updated on: October 31, 2015 / 5:21 PM / CBS/AP COLORADO SPRINGS, Colo. -- Four people are dead, including a suspected gunman, following a shooting spree in Colorado Springs on Saturda...",
+        "upvotes": 0,
+        "url": "http://www.cbsnews.com/news/colorado-shooting-spree-gunman-multiple-victims-dead/"
+      },
+      {
+        "preview": "Advertisement Supported by By Rick Rojas A shooting rampage in Colorado Springs on Saturday left four people dead, including the assailant, who was gunned down after the authorities said the person fi...",
+        "upvotes": 19,
+        "url": "http://www.nytimes.com/2015/11/01/us/four-dead-in-shootings-in-colorado-springs.html"
+      }
+    ]
+  }
+}

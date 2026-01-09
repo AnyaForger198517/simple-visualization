@@ -1,0 +1,285 @@
+{
+  "month": "2017-03",
+  "total_articles": 347,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "student",
+        "ha",
+        "college",
+        "university",
+        "science",
+        "campus",
+        "work",
+        "human",
+        "social",
+        "liberal",
+        "study",
+        "school",
+        "research",
+        "self"
+      ],
+      "topic_weights": [
+        248.82534558783794,
+        213.9298105602286,
+        208.04182250484396,
+        179.06485623661365,
+        146.9411583783,
+        135.72137646641855,
+        123.21660892107613,
+        110.58718789582252,
+        110.33962944790066,
+        108.88636550575872,
+        98.20566049615852,
+        97.04300057928822,
+        96.89194103780626,
+        94.88310963243092,
+        93.03916574676165
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "march",
+        "posted",
+        "wa",
+        "law",
+        "court",
+        "judge",
+        "ha",
+        "gorsuch",
+        "trump",
+        "constitution",
+        "supreme",
+        "case",
+        "state",
+        "did",
+        "justice"
+      ],
+      "topic_weights": [
+        786.6011181612105,
+        679.4728780861446,
+        250.97984044564464,
+        247.25046553428535,
+        244.29596788020763,
+        204.54254551780772,
+        143.08900556015897,
+        139.27278107417956,
+        123.96748893834689,
+        123.14111893764607,
+        98.74370422810941,
+        96.90325300774656,
+        81.3178078934872,
+        79.85405160924363,
+        76.78809237663235
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "republican",
+        "house",
+        "ha",
+        "president",
+        "democrat",
+        "tax",
+        "wa",
+        "ryan",
+        "obamacare",
+        "care",
+        "government",
+        "health",
+        "vote",
+        "conservative"
+      ],
+      "topic_weights": [
+        546.1305399528843,
+        439.72672473748383,
+        382.75498955410154,
+        308.6742262993808,
+        291.0796818376958,
+        262.98512508505553,
+        245.42504385366425,
+        242.5117780300654,
+        240.8783926114596,
+        218.5540826387242,
+        205.84622531996712,
+        200.4197678695214,
+        200.25404388804867,
+        197.06578348586166,
+        193.44200575807764
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "president",
+        "state",
+        "obama",
+        "news",
+        "white",
+        "american",
+        "medium",
+        "country",
+        "administration",
+        "donald",
+        "national",
+        "america"
+      ],
+      "topic_weights": [
+        1146.5915425568307,
+        873.9053387283782,
+        463.6794899730604,
+        408.3870221185544,
+        344.85505174255394,
+        340.4369555024276,
+        266.58599609734546,
+        259.60908994016586,
+        257.1389215434527,
+        235.82173541950678,
+        195.62616093154602,
+        195.5211832082932,
+        185.98749938697642,
+        180.11745277115347,
+        175.01127536708123
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "woman",
+        "advertisement",
+        "wa",
+        "percent",
+        "violence",
+        "state",
+        "men",
+        "ha",
+        "story",
+        "rate",
+        "transgender",
+        "continues",
+        "female",
+        "male",
+        "school"
+      ],
+      "topic_weights": [
+        266.987211565609,
+        247.88871923604074,
+        226.1017913925175,
+        155.6384127643336,
+        139.08932828875527,
+        135.15027459204555,
+        126.03830288355098,
+        123.00576621657952,
+        122.24789698807726,
+        108.32180604171799,
+        107.32674532058911,
+        98.6631408953434,
+        95.62144833443307,
+        95.05701333182807,
+        86.76584770802783
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 173,
+    "2": 76,
+    "0": 32,
+    "4": 35,
+    "1": 31
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Title IX Robby Soave | 2.27.2017 8:31 AM There was one moment during Colorado State University-Pueblo's investigation into sophomore Gra...",
+        "upvotes": 159,
+        "url": "http://reason.com/blog/2017/02/27/interview-student-expelled-for-rape-even"
+      },
+      {
+        "preview": "iberals can give to them. Pick any group you want, it’s all the same “Oh, we have to help them” B.S. Those of us who don’t feel guilty have a more balanced view of the world and society. I’m pretty ce...",
+        "upvotes": 135,
+        "url": "http://reason.com/blog/2017/03/01/moral-outrage-is-self-serving"
+      },
+      {
+        "preview": "Whether you’ve been riding bikes for a while, or are new to the world of cycling, it is important that you take the time to learn how to take care of your machine. No matter how our days look like, he...",
+        "upvotes": 9,
+        "url": "http://wakingscience.com/2017/03/peer-reviewed-science-losing-credibility-large-amounts-research-shown-false/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "An anonymous blogger who uses the pseudonym \"Doe Publius\" knew he would stir controversy when, in July 2016, he published a \"tyrant registry\" listing the addresses and home phone numbers of 40 Califor...",
+        "upvotes": 106,
+        "url": "http://www.sfgate.com/news/article/Judge-rules-tyrant-registry-targeting-pro-gun-10968628.php"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 13,
+        "url": "http://www.nationalreview.com/article/445187/neil-gorsuch-over-criminalization-criminal-justice-system-over-regulation-rule-lenity"
+      },
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 57,
+        "url": "http://dailysignal.com/2017/03/02/bakers-accused-of-hate-get-emotional-day-in-court/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Governors and state legislators say they are running out of money again, and many are demanding tax hikes to close budget gaps. More than half the states are facing big deficits this year, and they ar...",
+        "upvotes": 5,
+        "url": "https://townhall.com/columnists/stephenmoore/2017/02/28/states-are-going-broke-because-they-broke-the-bank-n2291581"
+      },
+      {
+        "preview": "Advertisement President Donald Trump called for a united effort to make America better to a joint session of Congress Tuesday night, inviting all to join in restoring the nation's economy, defense and...",
+        "upvotes": 19,
+        "url": "http://www.wnd.com/2017/02/trump-reversing-devastating-trend-says-christian-leader/"
+      },
+      {
+        "preview": "By Chris Ariens on Mar. 1, 2017 - 2:08 PM Nearly 48 million watched Pres. Donald Trump‘s first address to Congress last night on 11 broadcast and cable news networks, according to Nielsen. Fox News wa...",
+        "upvotes": 408,
+        "url": "http://www.adweek.com/tvnewser/trumps-address-to-congress-watched-by-43-4-million/322565"
+      }
+    ],
+    "3": [
+      {
+        "preview": "I am writing this column in Japan, a country whose crime rate is the lowest among countries with large populations. I asked my Japanese translator, a middle-aged woman, what she thought. \"Why is there...",
+        "upvotes": 12,
+        "url": "https://townhall.com/columnists/dennisprager/2017/02/28/a-nation-of-immigrants--only-if-they-assimilate-n2291580"
+      },
+      {
+        "preview": "sts of reknown actually criticized (obliquely) the USA, and both lost their jobs. All the rest wrote/spoke in unison, almost in Dubya Bushian terms. I found the 5 minute video of James Corbett “9/11- ...",
+        "upvotes": 4,
+        "url": "https://consortiumnews.com/2017/02/28/mainstream-medias-victimhood/"
+      },
+      {
+        "preview": "Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else. Thank you. Please check your inbox to confirm. Daniel Bush Daniel Bush Leave your feedback President Do...",
+        "upvotes": 3,
+        "url": "http://www.pbs.org/newshour/updates/trump-accomplished-far/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "ADVERTISEMENT SHARE The fast-food chain Wendy's plans to install self-order kiosks at 1,000 restaurants across the country in order to cut rising labor costs amid minimum wage hikes in several states....",
+        "upvotes": 45,
+        "url": "http://freebeacon.com/issues/minimum-wage-hikes-force-wendys-install-self-order-kiosks/"
+      },
+      {
+        "preview": "There’s a fun little food fight breaking out in the state of Illinois this week which is sure to have public worker union advocates spitting nails. There was a recent vote among members of the America...",
+        "upvotes": 12,
+        "url": "http://hotair.com/archives/2017/03/01/illinois-governor-prepares-to-hire-scabs-in-response-to-state-workers-strike-threat/"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. Robots are coming for more Americans’ jobs — and you can blame the Fight for $15 fanatics. Wendy’s is now moving to install self-service kiosk...",
+        "upvotes": 59,
+        "url": "http://nypost.com/2017/03/01/look-whos-begging-the-robots-to-take-our-jobs/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2014-09",
+  "total_articles": 133,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Historical Facts and Social Justice Discussions",
+      "core_keywords": ["history", "fact", "evidence", "black", "war", "report", "committee"],
+      "importance_ratio": 0.6842
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gun Control and American Liberty Debates",
+      "core_keywords": ["gun control", "liberty", "american", "government", "policy", "free", "politics"],
+      "importance_ratio": 0.0451
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Political Party Polls and Policy Views",
+      "core_keywords": ["republican", "democrat", "percent", "obama", "president", "conservative", "political"],
+      "importance_ratio": 0.0827
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Obama and US Foreign Policy on ISIS/Syria/Iraq",
+      "core_keywords": ["obama", "isis", "syria", "iraq", "president", "threat", "intelligence"],
+      "importance_ratio": 0.1278
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social Media and Account-Related Discussions",
+      "core_keywords": ["log", "account", "email", "post", "speech", "video", "commenting"],
+      "importance_ratio": 0.0602
+    }
+  ]
+}

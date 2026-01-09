@@ -1,0 +1,275 @@
+{
+  "month": "2015-08",
+  "total_articles": 307,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "republican",
+        "candidate",
+        "debate",
+        "cruz",
+        "bush",
+        "political",
+        "campaign",
+        "news",
+        "american",
+        "conservative",
+        "voter",
+        "poll"
+      ],
+      "topic_weights": [
+        917.4574968369137,
+        676.8127169547771,
+        666.9822573858819,
+        531.3078132799883,
+        334.52760995273655,
+        317.1135670552043,
+        275.9109173842789,
+        261.98914211469446,
+        258.0248477503782,
+        237.30808856004165,
+        230.10210932675028,
+        228.12026203384846,
+        224.81542388055306,
+        221.1377731081886,
+        219.03222772231385
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "black",
+        "white",
+        "american",
+        "ha",
+        "woman",
+        "life",
+        "school",
+        "men",
+        "police",
+        "group",
+        "king",
+        "right",
+        "student",
+        "university"
+      ],
+      "topic_weights": [
+        320.7006039462745,
+        236.06812016325622,
+        209.1445007458518,
+        177.75443622332457,
+        175.51827714465622,
+        155.46264541292678,
+        129.8486437134889,
+        122.14078843690052,
+        110.60241294156545,
+        104.246767065079,
+        95.03566128274296,
+        88.80174346896469,
+        88.59631951641325,
+        88.41709500491815,
+        86.65707945120077
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "retired",
+        "wa",
+        "country",
+        "clinton",
+        "shooting",
+        "ha",
+        "mass",
+        "gun",
+        "general",
+        "email",
+        "admiral",
+        "public",
+        "navy",
+        "rate"
+      ],
+      "topic_weights": [
+        939.0734675667438,
+        832.0475134049832,
+        748.1073209572132,
+        685.5976677779851,
+        670.1476488349374,
+        661.4803676923705,
+        637.7760614565038,
+        637.6032560735209,
+        595.3139269436684,
+        529.3961081310824,
+        420.89832107994516,
+        416.35157701865177,
+        395.87621826012315,
+        392.8656800493377,
+        391.79287683507704
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "labour",
+        "price",
+        "wage",
+        "great",
+        "greater",
+        "work",
+        "increase",
+        "master",
+        "demand",
+        "ha",
+        "frequently",
+        "servant",
+        "provision",
+        "country",
+        "manufacture"
+      ],
+      "topic_weights": [
+        2343.2113083303057,
+        1719.8959474648277,
+        1265.4859023467445,
+        887.2416929956713,
+        851.8881114266621,
+        833.1988146165163,
+        827.678357877807,
+        761.7394282484054,
+        739.7218634384955,
+        719.5596553463204,
+        708.9917072182374,
+        663.8905320528523,
+        616.8714894359384,
+        612.5274619858817,
+        586.9310641565655
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "iran",
+        "nuclear",
+        "deal",
+        "dershowitz",
+        "president",
+        "obama",
+        "weapon",
+        "military",
+        "policy",
+        "wa",
+        "ha",
+        "state",
+        "standard",
+        "israel",
+        "american"
+      ],
+      "topic_weights": [
+        523.6191871831408,
+        409.6197803023468,
+        406.74160408074584,
+        312.65748959775794,
+        248.73109109155484,
+        229.8653235593259,
+        218.5997366413858,
+        198.90929160140377,
+        166.968194182502,
+        152.91205138005674,
+        144.63213937328155,
+        143.23537986779422,
+        141.85807572934732,
+        141.39226227056497,
+        130.75699389386494
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 63,
+    "1": 60,
+    "0": 175,
+    "4": 8,
+    "3": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Much is said about Planned Parenthood each time the Center for Medical Progress releases another video about their horrific practice of selling human baby parts. People forget, however, that the group...",
+        "upvotes": 0,
+        "url": "http://www.mrctv.org/blog/flashback-hillary-praises-margaret-sanger-racist-founder-planned-parenthood"
+      },
+      {
+        "preview": "Advertisement The St. Louis homicide rate is on target to reach its highest level in 20 years. This comes after the anti-police riots by Ferguson #BlackLivesMatter protesters last year. The story made...",
+        "upvotes": 117,
+        "url": "http://www.thegatewaypundit.com/2015/08/st-louis-and-baltimore-face-record-homicide-rates-since-blacklivesmatter-riots/"
+      },
+      {
+        "preview": "Today one of America’s most popular talk radio hosts and best-selling author, Mark Levin, addressed a packed audience at the 37th annual National Conservative Student Conference hosted by the Young Am...",
+        "upvotes": 2,
+        "url": "http://www.breitbart.com/big-government/2015/08/01/mark-levin-the-republican-party-won-its-majority-on-a-lie/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Raising the minimum wage is about leftist power, not helping Americans. The current feel-good push for a $15 an hour minimum wage has nothing to do with helping workers and everything to do with advan...",
+        "upvotes": 0,
+        "url": "http://www.frontpagemag.com/fpm/259636/lefts-fight-15-scam-matthew-vadum"
+      },
+      {
+        "preview": "The Obama Administration is backing the fight to roll back occupational licensing, a little-known drain on the economy. Typically associated with fields like law and medicine, today a quarter of Ameri...",
+        "upvotes": 5,
+        "url": "http://www.forbes.com/sites/instituteforjustice/2015/07/31/citing-adam-smith-and-milton-friedman-obamas-economic-advisors-back-occupational-licensing-reform/"
+      },
+      {
+        "preview": "MADISON — A federal judge has dismissed former Wisconsin Supreme Court Chief Justice Shirley Abrahamson’s lawsuit alleging her colleagues improperly stripped her of her title, ruling the justices were...",
+        "upvotes": 2,
+        "url": "http://lacrossetribune.com/news/local/federal-judge-tosses-chief-justice-shirley-abramhamson-s-lawsuit/article_aef2718b-989c-5d69-a2a2-31c87afecfcf.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Friday on MSNBC’s “Morning Joe,” while discussing the latest story about the intelligence community inspector general warning that there are potentially hundreds of classified emails on Hillary Clinto...",
+        "upvotes": 7,
+        "url": "http://www.breitbart.com/video/2015/07/31/scarborough-hillary-keeps-lying-to-us-keeps-lying-to-reporters/"
+      },
+      {
+        "preview": "By David Martosko, Us Political Editor For .com In New York Published: 13:28 EDT, 30 July 2015 | Updated: 17:23 EDT, 30 July 2015 64 View comments Donald Trump charged Wednesday that a sexually 'devia...",
+        "upvotes": 9,
+        "url": "http://www.dailymail.co.uk/news/article-3180305/Trump-launches-attack-Huma-Abedin-deviant-husband-Anthony-Weiner-claims-pair-access-Clinton-s-secret-classified-emails.html"
+      },
+      {
+        "preview": "Hillary Clinton’s presidential prospects are evaporating as more details emerge on her abuse of classified information and her lies about it. A McClatchy story published yesterday must have Democratic...",
+        "upvotes": 4,
+        "url": "http://www.americanthinker.com/blog/2015/07/hillarys_private_server_emails_contained_info_from_5_intelligence_agencies.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "undred thousand people die of hunger in one year, we may be assured that the funds destined for the maintenance of the labouring poor are fast decaying. The difference between the genius of the Britis...",
+        "upvotes": 1,
+        "url": "http://geolib.com/smith.adam/won1-08.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "By Kieran Corcoran For .com Published: 00:54 EDT, 3 August 2015 | Updated: 01:33 EDT, 3 August 2015 500 View comments The supreme leader of Iran has reportedly published a 416-page guide to wiping Isr...",
+        "upvotes": 0,
+        "url": "http://www.dailymail.co.uk/news/article-3183527/Iran-s-ayatollah-publishes-416-page-guide-destroying-Israel-rails-against-U-S-Great-Satan-despite-nuclear-deal.html"
+      },
+      {
+        "preview": " Noting that he picked American University because JFK spoke there during the Cold War, President Obama hailed his nuclear agreement with Iran as a landmark moment in nonproliferation while launching ...",
+        "upvotes": 37,
+        "url": "http://pjmedia.com/tatler/2015/08/05/obamas-attack-on-iran-deal-critics-compares-gop-caucus-to-death-to-america-chanters/"
+      },
+      {
+        "preview": "The night the Iran nuclear deal was announced was a sleepless one for Harvard Law Professor Alan Dershowitz, utterly distraught by the terms of the agreement. “I got up and emailed my eBook publisher ...",
+        "upvotes": 2,
+        "url": "http://observer.com/2015/08/dershowitz-obama-is-an-abject-failure-by-his-own-standards/"
+      }
+    ]
+  }
+}

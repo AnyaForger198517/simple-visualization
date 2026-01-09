@@ -1,0 +1,280 @@
+{
+  "month": "2019-01",
+  "total_articles": 140,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "border",
+        "trump",
+        "president",
+        "wall",
+        "climate",
+        "change",
+        "matthew",
+        "government",
+        "percent",
+        "nye",
+        "science",
+        "wa",
+        "democrat",
+        "america",
+        "medium"
+      ],
+      "topic_weights": [
+        270.32594952712543,
+        265.5668147258637,
+        221.05916537218792,
+        190.5495328730985,
+        147.01265648123723,
+        137.09627595452065,
+        132.29869075660795,
+        129.1220717951529,
+        127.87927160132476,
+        127.15058812412244,
+        117.89243932988346,
+        114.3580574523284,
+        114.19435320966878,
+        112.26441159472385,
+        92.53046929696482
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "tapper",
+        "trump",
+        "stone",
+        "state",
+        "medium",
+        "social",
+        "twitter",
+        "cnn",
+        "clinton",
+        "fbi",
+        "house",
+        "investigation",
+        "coal"
+      ],
+      "topic_weights": [
+        121.57710311090993,
+        109.83679726810185,
+        98.88834042660056,
+        98.31849583616463,
+        80.15634926599523,
+        78.10716790841735,
+        63.139095003933114,
+        57.79516912120398,
+        45.07641551154832,
+        44.34312534245737,
+        41.97573362539253,
+        37.88723681056334,
+        36.786626822545,
+        36.56202562953924,
+        36.37494847505076
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "january",
+        "posted",
+        "gillette",
+        "razor",
+        "men",
+        "wa",
+        "blade",
+        "shave",
+        "man",
+        "masculinity",
+        "woman",
+        "ha",
+        "christopher",
+        "product",
+        "work"
+      ],
+      "topic_weights": [
+        595.63042608673,
+        590.0305034371248,
+        85.44329204639935,
+        65.94961867971816,
+        54.86300592189133,
+        49.26652541282821,
+        42.4431841101502,
+        38.2865099563062,
+        31.203054413222905,
+        29.78532732380772,
+        29.016695465771885,
+        27.288509282980606,
+        26.303434882913358,
+        26.26718810058978,
+        25.471204818149427
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "tax",
+        "wa",
+        "black",
+        "warren",
+        "ha",
+        "child",
+        "high",
+        "free",
+        "ocasio",
+        "cortez",
+        "girl",
+        "american",
+        "told",
+        "money",
+        "rich"
+      ],
+      "topic_weights": [
+        196.4862546699165,
+        164.47040488089206,
+        120.06608492679176,
+        94.98383002327154,
+        86.45374098369635,
+        83.50361109089138,
+        70.29622956051624,
+        66.97742444117273,
+        63.849547469180735,
+        63.3136223190931,
+        61.27888877091478,
+        59.964198898110354,
+        58.19752109704442,
+        57.126745232528435,
+        56.77499400954703
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "abortion",
+        "wa",
+        "woman",
+        "ha",
+        "life",
+        "union",
+        "human",
+        "state",
+        "court",
+        "law",
+        "home",
+        "video",
+        "planned",
+        "police",
+        "health"
+      ],
+      "topic_weights": [
+        76.51675918204164,
+        72.71751098074859,
+        54.50958782901575,
+        47.40951427665307,
+        34.12138400222659,
+        33.268415195859475,
+        30.456623398934553,
+        30.083926889570645,
+        29.49045742604593,
+        27.49422918712311,
+        26.33382684942956,
+        23.209598313261445,
+        22.911852628060544,
+        21.919778439185418,
+        21.855897332264178
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 28,
+    "1": 43,
+    "4": 29,
+    "0": 38,
+    "2": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement Fauxahontas on the Warpath! Elizabeth Warren lashed out at FOX News hosts Sean Hannity, Tucker Carlson and Laura Ingraham in her campaign ad Tuesday announcing she will explore a preside...",
+        "upvotes": 3,
+        "url": "https://www.thegatewaypundit.com/2018/12/fauxahontas-on-the-warpath-warren-lashes-out-at-top-fox-news-hosts-in-campaign-announcement-video/"
+      },
+      {
+        "preview": "That a sovereign nation should be able to control people coming into it is a no-brainer. So is the idea that in setting criteria for entry by immigrants a nation should consider what sorts of people w...",
+        "upvotes": 0,
+        "url": "https://patriotpost.us/opinion/60271-costs-of-illegal-immigration-demand-significant-reform-measures"
+      },
+      {
+        "preview": "PAUL RATJE/AFP/Getty Images Border Patrol agents know exactly what they want in a border wall, and every mile varies. Immigration experts tell The Daily Caller that President Donald Trump’s vision for...",
+        "upvotes": 7,
+        "url": "https://www.dailycaller.com/2019/01/02/border-patrol-dhs-trump-wall-steel-fence/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "President Donald Trump responded on Monday to criticism of his decision to withdraw troops from Syria. “If anybody but Donald Trump did what I did in Syria, which was an ISIS loaded mess when I became...",
+        "upvotes": 72,
+        "url": "https://www.breitbart.com/politics/2018/12/31/donald-trump-get-united-states-out-never-ending-wars/"
+      },
+      {
+        "preview": "To revist this article, visit My Profile, then View saved stories. To revist this article, visit My Profile, then View saved stories. Charles C. Mann To revist this article, visit My Profile, then Vie...",
+        "upvotes": 0,
+        "url": "https://www.wired.com/2014/03/clean-coal/"
+      },
+      {
+        "preview": "By Emily Crane and Megan Sheets For .com Published: 08:19 EDT, 1 January 2019 | Updated: 04:32 EDT, 2 January 2019 2.2k View comments NBC has been slammed for its New Year's Eve coverage in New York's...",
+        "upvotes": 497,
+        "url": "https://www.dailymail.co.uk/news/article-6544499/Viewers-slam-NBC-train-wreck-New-Years-Eve-coverage.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Proctor & Gamble is urging men to shave their “toxic masculinity” in a new ad for Gillette razors. The ad shows men fighting, cooking barbecue, and verbally harassing women, interspersed with news rep...",
+        "upvotes": 19,
+        "url": "https://www.breitbart.com/tech/2019/01/14/pg-urges-men-to-lose-their-toxic-masculinity-in-gilette-razor-ad/"
+      },
+      {
+        "preview": "M (jXrK7) 220 Is it wrong that I hate everything and nearly everyone? Miffy seriously I feel like life has become like that one South Park where Kyle is just OVER everything in the damn world and it's...",
+        "upvotes": 626,
+        "url": "http://acecomments.mu.nu/?post=379186"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 73,
+        "url": "https://www.nationalreview.com/2018/12/they-shall-not-grow-old-movie-of-the-year/"
+      },
+      {
+        "preview": "Advertisement Congresswoman elect Democrat-Socialist Alexandria Ocasio-Cortez grew up and attended school in affluent Westchester, New York but likes to pretend like she grew up in the Bronx. This pas...",
+        "upvotes": 639,
+        "url": "https://www.thegatewaypundit.com/2019/01/exclusive-photos-of-alexandria-ocasio-cortez-or-sandy-as-she-was-known-at-her-elite-high-school-in-yorktown-not-in-the-bronx/"
+      },
+      {
+        "preview": "A debate with economics writer Steven Pearlstein. A decade ago, 80 percent of Americans believed that a free market economy was the best economic system. Today, that number is 60 percent. Another rece...",
+        "upvotes": 1,
+        "url": "https://www.vox.com/2019/1/2/18130630/american-capitalism-neoliberalism-steven-pearlstein"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A Guatemalan family is suing Universal Orlando Resort following the death of the family's 38-year-old father, calling the park negligent for not providing ride warning signs in Spanish. In 2016, Jose ...",
+        "upvotes": 1,
+        "url": "https://www.usatoday.com/story/travel/news/2018/12/30/family-sues-universal-orlando-resort-over-english-only-warning-signs/2444935002/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Vermont has begun accepting applications for a program that will pay people up to $10,000 to move to the state. Under the program, which officially l...",
+        "upvotes": 1,
+        "url": "https://thehill.com/homenews/state-watch/423401-vermont-launches-program-that-pays-people-10000-to-move-to-state"
+      },
+      {
+        "preview": "I have two children — two human children, to be clear. The fact that I actually have to clarify what species my children are is annoying, nonsensical, and demonstrates how far down the rabbit hole of ...",
+        "upvotes": 8,
+        "url": "https://pjmedia.com/lifestyle/study-humans-love-dogs-more-than-they-love-other-humans/"
+      }
+    ]
+  }
+}

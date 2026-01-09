@@ -1,0 +1,36 @@
+{
+  "month": "2013-09",
+  "total_articles": 147,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "National security (Syria attack, Benghazi) and federal/state legal/security policies",
+      "core_keywords": ["national_security", "syria", "benghazi", "attack", "state", "federal", "law", "security"],
+      "importance_ratio": "46.26%"
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US partisan politics (Obama, Republican, Cruz) and Obamacare/government issues",
+      "core_keywords": ["partisan_politics", "obama", "republican", "cruz", "obamacare", "government", "senate", "democrat"],
+      "importance_ratio": "24.49%"
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Climate change (IPCC, global warming) and scientific models/policy",
+      "core_keywords": ["climate_change", "ipcc", "global_warming", "science", "model", "temperature", "ocean", "policy"],
+      "importance_ratio": "5.44%"
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Healthcare system (Obamacare, doctor, insurer) and patient/medical services",
+      "core_keywords": ["healthcare_system", "obamacare", "doctor", "insurer", "patient", "hospital", "health", "exchange"],
+      "importance_ratio": "4.08%"
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Government shutdown, EPA policies and business/cost/health mandates",
+      "core_keywords": ["government_shutdown", "epa", "mandate", "business", "cost", "health", "fuel", "care"],
+      "importance_ratio": "19.73%"
+    }
+  ]
+}

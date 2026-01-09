@@ -1,0 +1,275 @@
+{
+  "month": "2019-02",
+  "total_articles": 134,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "ha",
+        "wa",
+        "democrat",
+        "run",
+        "state",
+        "iowa",
+        "republican",
+        "democratic",
+        "candidate",
+        "tax",
+        "senate",
+        "district",
+        "primary",
+        "campaign",
+        "line"
+      ],
+      "topic_weights": [
+        274.97639283767586,
+        203.9638451957937,
+        193.6805276966247,
+        174.3196957050653,
+        148.85428006217043,
+        134.86388064762457,
+        130.08755548851994,
+        120.43588468308097,
+        117.04414696951262,
+        108.83710194074654,
+        104.864588629166,
+        102.70829989822732,
+        96.19751731030411,
+        93.40018829793786,
+        90.9776175088499
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "marijuana",
+        "hemp",
+        "state",
+        "legalization",
+        "york",
+        "senate",
+        "senator",
+        "drug",
+        "california",
+        "industry",
+        "business",
+        "ha",
+        "legislation",
+        "lawmaker",
+        "wa"
+      ],
+      "topic_weights": [
+        628.6896458262893,
+        455.1028357683575,
+        350.1756926630273,
+        217.15204384005332,
+        184.21918647335994,
+        159.51824374924007,
+        152.60971743716777,
+        150.38582809964578,
+        146.1754376899423,
+        142.94512504541083,
+        142.49231914827195,
+        139.11853909384266,
+        138.68974187325497,
+        135.9578929524789,
+        135.60834144171525
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "stone",
+        "law",
+        "trump",
+        "wa",
+        "cohen",
+        "witness",
+        "told",
+        "statement",
+        "february",
+        "congress",
+        "email",
+        "investigation",
+        "order",
+        "crime",
+        "case"
+      ],
+      "topic_weights": [
+        338.89794229002484,
+        253.6483232400135,
+        249.027597113231,
+        242.63114624060486,
+        242.36291283636626,
+        200.46873684618964,
+        173.93924902017648,
+        172.85666770862582,
+        146.01060292347742,
+        138.10493163555398,
+        137.27710162375632,
+        132.51755529669552,
+        131.0945321052727,
+        120.19594962902707,
+        117.49778369383392
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "american",
+        "king",
+        "black",
+        "street",
+        "wa",
+        "african",
+        "state",
+        "political",
+        "history",
+        "world",
+        "great",
+        "white",
+        "family",
+        "united",
+        "right"
+      ],
+      "topic_weights": [
+        254.57461649343549,
+        243.91070202248872,
+        215.44143916511263,
+        163.9322990135042,
+        146.43968737145298,
+        144.43781403901315,
+        129.19554274832234,
+        125.32760434865679,
+        124.01959150209052,
+        112.31789458376477,
+        109.6794624656039,
+        104.7374107865034,
+        97.03280474396252,
+        95.72942116915571,
+        93.408375173639
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wage",
+        "percent",
+        "president",
+        "wa",
+        "ha",
+        "worker",
+        "white",
+        "woman",
+        "state",
+        "growth",
+        "court",
+        "data",
+        "report",
+        "house"
+      ],
+      "topic_weights": [
+        216.99145648299344,
+        202.486619957514,
+        167.83566951556801,
+        160.0807145067242,
+        141.20432860804829,
+        107.99675104569776,
+        87.62571464569385,
+        76.86014008807254,
+        67.17224802249164,
+        59.60852360114252,
+        58.7678837151569,
+        58.477712795997256,
+        58.275723396958384,
+        53.89168414456595,
+        51.87600640734637
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 70,
+    "0": 50,
+    "3": 6,
+    "2": 7,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. The Democratic Party’s leading lights — from Elizabeth Warren on the party’s ...",
+        "upvotes": 8,
+        "url": "http://nymag.com/intelligencer/2019/01/2020-primary-warren-biden-democrats-should-be-pragmatic-and-wage-class-war.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Sen. Elizabeth WarrenElizabeth WarrenScott Brown's wife files to run for Congress Schiff calls on Amazon, Facebook to address spread of vaccine misin...",
+        "upvotes": 56,
+        "url": "https://thehill.com/homenews/campaign/427967-warren-billionaires-should-stop-being-freeloaders"
+      },
+      {
+        "preview": "WASHINGTON ― Rep. Tulsi Gabbard (D-Hawaii) is pitching herself as Democrats’ top anti-war voice and a serious progressive in her bid for the party’s 2020 presidential nomination. But even as she spent...",
+        "upvotes": 1,
+        "url": "https://www.huffingtonpost.com/entry/tulsi-gabbard-anti-war-campaign-donations_us_5c530708e4b093663f5bfa69"
+      }
+    ],
+    "1": [
+      {
+        "preview": "National Hemp Association Asks Congress To Budget $1 Billion To Support Industry Innovation New York Senator Wants To Give Cities More Time To Ban Marijuana Businesses As Regulations Develop Californi...",
+        "upvotes": 1,
+        "url": "https://www.marijuanamoment.net/new-hampshire-house-passes-marijuana-legalization-bill/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Journalist Ronan Farrow said tabloid publisher American Media Inc. sent him blackmail threats over his reporting on President Donald Trump and the National Enquirer. Farrow tweeted about the “stop dig...",
+        "upvotes": 407,
+        "url": "https://www.huffingtonpost.com/entry/ronan-farrow-says-jeff-bezos-isnt-the-only-person-ami-has-tried-to-blackmail_us_5c5d54c4e4b0a502ca347c0c"
+      },
+      {
+        "preview": "As the Southern District of New York continues probing various aspects of President Donald Trump’s business dealings and political operation, it is possible that the Manhattan-based federal prosecutor...",
+        "upvotes": 1,
+        "url": "https://mavenroundtable.io/theintellectualist/news/sdny-may-ignore-doj-guidance-and-seek-to-indict-a-sitting-president--gCf-LeunESpiXDfSpkYSA/"
+      },
+      {
+        "preview": "Editor’s Note: This article is available in audio format on the Lawfare Podcast Shorts: The chairman of the House Committee on the Judiciary faced a vexing problem: Pressure for impeachment was buildi...",
+        "upvotes": 1,
+        "url": "https://www.lawfareblog.com/what-old-watergate-document-can-teach-house-judiciary-committee"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Sign in Aiken Pitchmen Feb 4, 2019·7 min read Growing up, I always considered my father a progressive man. He was one to stand up for social liberties and believed it was the governments duty to assis...",
+        "upvotes": 1,
+        "url": "https://medium.com/@aiken.pitchmen/path-to-conservatism-b72638a08d90"
+      },
+      {
+        "preview": "The Trump administration argued in court earlier this week that reuniting migrant children separated from their parents at the border would require too much effort and “would present grave child welfa...",
+        "upvotes": 109,
+        "url": "https://mavenroundtable.io/theintellectualist/news/migrant-children-are-being-given-to-an-adoption-agency-linked-to-betsy-devos-9j_wI0EkdEuS55b6qnzwsA/"
+      },
+      {
+        "preview": "The evangelical fortress around the president can look like a problem, but progressives can use that heresy to fight opponents Last modified on Wed 6 Jan 2021 18.59 EST The annual anachronism known as...",
+        "upvotes": 487,
+        "url": "https://www.theguardian.com/commentisfree/2019/feb/10/in-revering-trump-the-religious-right-has-laid-bare-its-hypocrisy"
+      }
+    ],
+    "4": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Jobless claims last week jumped to the highest level since the aftermath of Hurricane Harvey in 2017, according to Labor Department data released Thu...",
+        "upvotes": 3,
+        "url": "https://thehill.com/policy/finance/427837-weekly-jobless-claims-spike-to-highest-level-since-2017"
+      },
+      {
+        "preview": "President Donald Trump listens during a meeting at the White House last week.AP Democratic state lawmakers in New Jersey aren’t done seeking President Donald Trump’s tax returns. Some members of the s...",
+        "upvotes": 693,
+        "url": "https://www.nj.com/politics/2019/01/nj-democrats-threaten-to-toss-trump-from-the-2020-ballot-if-he-doesnt-release-his-tax-returns.html"
+      },
+      {
+        "preview": "Sen. Cory Booker, a New Jersey Democrat who rose to prominence as Newark’s charismatic and ambitious mayor, announced Friday that he is running for president. Booker chose the first day of Black Histo...",
+        "upvotes": 1,
+        "url": "https://www.cnn.com/2019/02/01/politics/cory-booker-announces-presidential-run-2020/index.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+    "top10_domains": [
+        {
+            "domain": "breitbart",
+            "post_count": 17261,
+            "post_ratio(%)": 8.4839
+        },
+        {
+            "domain": "townhall",
+            "post_count": 7738,
+            "post_ratio(%)": 3.8033
+        },
+        {
+            "domain": "thegatewaypundit",
+            "post_count": 7720,
+            "post_ratio(%)": 3.7944
+        },
+        {
+            "domain": "nationalreview",
+            "post_count": 7495,
+            "post_ratio(%)": 3.6838
+        },
+        {
+            "domain": "dailycaller",
+            "post_count": 7101,
+            "post_ratio(%)": 3.4902
+        },
+        {
+            "domain": "thehill",
+            "post_count": 6701,
+            "post_ratio(%)": 3.2936
+        },
+        {
+            "domain": "redstate",
+            "post_count": 5772,
+            "post_ratio(%)": 2.837
+        },
+        {
+            "domain": "nypost",
+            "post_count": 5408,
+            "post_ratio(%)": 2.6581
+        },
+        {
+            "domain": "americanthinker",
+            "post_count": 5035,
+            "post_ratio(%)": 2.4747
+        },
+        {
+            "domain": "hotair",
+            "post_count": 5014,
+            "post_ratio(%)": 2.4644
+        }
+    ],
+    "top10_total_posts": 75245,
+    "top10_total_ratio(%)": 36.9834,
+    "other_than_top10": {
+        "post_count": 128211,
+        "post_ratio(%)": 63.0166
+    },
+    "no_domain_posts": {
+        "post_count": 0,
+        "post_ratio(%)": 0.0
+    },
+    "total_posts": 203456,
+    "total_valid_domain_posts": 203456
+}

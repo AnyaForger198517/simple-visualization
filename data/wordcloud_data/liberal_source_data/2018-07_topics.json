@@ -1,0 +1,275 @@
+{
+  "month": "2018-07",
+  "total_articles": 159,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "child",
+        "public",
+        "wa",
+        "space",
+        "service",
+        "family",
+        "parent",
+        "resource",
+        "library",
+        "ice",
+        "white",
+        "immigration",
+        "american",
+        "woman",
+        "ha"
+      ],
+      "topic_weights": [
+        128.65299018684408,
+        53.50347887907454,
+        53.28283650385638,
+        42.56377524785245,
+        39.83893753377469,
+        31.297479296900292,
+        31.20685869194778,
+        30.47338781540018,
+        28.003379283060916,
+        27.87117386861867,
+        26.83302072663126,
+        26.364891927724237,
+        26.2705149957661,
+        26.06461982792732,
+        25.603184322850737
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "state",
+        "republican",
+        "ha",
+        "court",
+        "vote",
+        "voter",
+        "election",
+        "american",
+        "voting",
+        "political",
+        "group",
+        "law",
+        "million",
+        "democratic"
+      ],
+      "topic_weights": [
+        341.08699278423586,
+        337.3487751268744,
+        235.78614584418438,
+        209.11872688409375,
+        195.89025609391035,
+        185.4183440208085,
+        173.56743404556914,
+        171.97659627915564,
+        149.1185586313984,
+        140.5877449382922,
+        137.81140797497255,
+        126.12917247657248,
+        118.93282095493927,
+        112.18015692092509,
+        108.02949875022459
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "income",
+        "percent",
+        "state",
+        "share",
+        "city",
+        "data",
+        "tax",
+        "national",
+        "county",
+        "growth",
+        "table",
+        "total",
+        "level",
+        "washington",
+        "area"
+      ],
+      "topic_weights": [
+        700.5736899499411,
+        401.84735904103644,
+        311.21309967260925,
+        237.2356131336991,
+        228.61658260791728,
+        194.64792003661327,
+        190.98020265585566,
+        175.79155340323646,
+        163.9325050071081,
+        118.6455924190817,
+        117.82639145486307,
+        117.49270521032379,
+        115.45633681270027,
+        107.63673781182351,
+        107.49985377016549
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "russian",
+        "putin",
+        "russia",
+        "house",
+        "campaign",
+        "cohen",
+        "election",
+        "meeting",
+        "donald",
+        "investigation",
+        "republican"
+      ],
+      "topic_weights": [
+        743.3543990463329,
+        331.94590265881556,
+        310.97509980521176,
+        201.84751846930408,
+        162.70320500732777,
+        160.10379984894755,
+        150.6066868985692,
+        148.5946198648361,
+        116.71897155632682,
+        113.98565758416157,
+        105.62457082954145,
+        100.86454912833071,
+        93.681454513831,
+        91.47908686168712,
+        87.62645163775821
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "party",
+        "white",
+        "american",
+        "democratic",
+        "country",
+        "state",
+        "president",
+        "policy",
+        "democrat",
+        "republican",
+        "progressive",
+        "thompson"
+      ],
+      "topic_weights": [
+        324.9293535446488,
+        296.70323823190995,
+        236.0876594682764,
+        178.52313752451718,
+        175.71513199466122,
+        158.78978293457732,
+        150.3654018526023,
+        149.33877621843627,
+        148.28934753142738,
+        129.73698361927822,
+        121.74537383749417,
+        120.17913504475419,
+        104.967530273886,
+        101.72815752674116,
+        101.29307055703994
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 37,
+    "4": 62,
+    "3": 50,
+    "0": 9,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Every week we drop a new episode. Get it in your inbox. Or the podcast app of your choice: We believe there is another way to fund quality journalism. If you value our unbiased, nonprofit journalism, ...",
+        "upvotes": 0,
+        "url": "https://www.revealnews.org/article/defense-contractor-detained-migrant-kids-in-vacant-phoenix-office-building/"
+      },
+      {
+        "preview": "The Trump administration’s “zero tolerance” immigration policy prompted widespread public outrage in the spring and summer of 2018, and the separation of thousands of children from their parents at th...",
+        "upvotes": 10,
+        "url": "https://www.snopes.com/news/2018/06/26/bethany-christian-services-family-separation-betsy-devos/"
+      },
+      {
+        "preview": "A mariachi band performs at a demonstration in front of the office of Aaron Schlossberg, May 18, 2018. (AP Photo / Mary Altaffer) By signing up, you confirm that you are over the age of 16 and agree t...",
+        "upvotes": 601,
+        "url": "https://www.thenation.com/article/the-social-shaming-of-racists-is-working/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "It’s been less than a week since Justice Anthony Kennedy announced his retirement from the Supreme Court, but already anti-women activists are plotting how best to take advantage of a weakened judicia...",
+        "upvotes": 1,
+        "url": "https://thinkprogress.org/trump-war-women-health-f911853ed071/"
+      },
+      {
+        "preview": "Illustrated | AP Photo/David Becker, File, Ethan Miller/Getty Images, Wikimedia Commons The Democrats' limp messaging in the battle to fill retiring Supreme Court Justice Anthony Kennedy's seat is yet...",
+        "upvotes": 5,
+        "url": "https://theweek.com/articles/782002/democrats-are-acting-like-bunch-cowering-dandies-need-grow-spine-throw-some-punches"
+      },
+      {
+        "preview": "Ron Elving Merrick Garland was nominated to the Supreme Court by President Barack Obama in March 2016. The Senate never voted on his nomination. Chip Somodevilla/Getty Images hide caption Merrick Garl...",
+        "upvotes": 6,
+        "url": "https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now"
+      }
+    ],
+    "2": [
+      {
+        "preview": " 214 Alice, TX $765,462 $40,088 19.1 215 La Crosse-Onalaska, WI-MN $920,028 $48,220 19.1 216 Mobile, AL $693,393 $36,379 19.1 217 Enid, OK $1,014,491 $53,308 19.0 218 Tulsa, OK $1,097,432 $57,668 19.0...",
+        "upvotes": 7,
+        "url": "https://www.epi.org/publication/the-new-gilded-age-income-inequality-in-the-u-s-by-state-metropolitan-area-and-county/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Two more former Ohio State wrestlers came forward Thursday to claim that Rep. Jim Jordan (R-OH) knew about allegations of rampant sexual abuse carried out by the team doctor while Jordan was the assis...",
+        "upvotes": 58,
+        "url": "https://talkingpointsmemo.com/livewire/fifth-wrestler-accuses-jordan-of-lying-about-ignorance-of-sexual-abuse"
+      },
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » The July 16 face-to-face betw...",
+        "upvotes": 0,
+        "url": "https://www.brookings.edu/blog/order-from-chaos/2018/07/06/in-helsinki-putin-can-grant-trump-great-success-of-sorts/"
+      },
+      {
+        "preview": "A plausible theory of mind-boggling collusion. Artwork by Barbara Kruger for New York On June 14, 2016, the Washington Post reported that Russian hackers had broken into the Democratic National Commit...",
+        "upvotes": 1,
+        "url": "http://nymag.com/daily/intelligencer/2018/07/trump-putin-russia-collusion.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Sign in Alex Perez Jul 1, 2018·6 min read I’ve never been politically active. It wasn’t until this most recent election that I ever even donated money towards worthy causes or campaigns. For a couple ...",
+        "upvotes": 1,
+        "url": "https://medium.com/@aperez153/fight-or-flight-e23a59be46f7"
+      },
+      {
+        "preview": "After U.S. Rep. Maxine Waters, D-Calif., implored Americans of good conscience to publicly confront White House officials over their policies, leading Democrats joined with Republicans to denounce Wat...",
+        "upvotes": 461,
+        "url": "http://www.chicagotribune.com/news/opinion/commentary/ct-perspec-maxine-waters-democrats-trump-pelosi-0629-20180628-story,amp.html"
+      },
+      {
+        "preview": "CHICAGO — Here and there, now and then, there are certainly Democrats who support “open borders” — international boundaries marked merely with the sort of “Welcome to …” signs that separate, say, Illi...",
+        "upvotes": 2,
+        "url": "http://www.chicagotribune.com/news/opinion/zorn/ct-perspec-zorn-open-borders-trump-fact-check-0701-20180629-story.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2020-05",
+  "total_articles": 148,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "biden",
+        "wa",
+        "trump",
+        "ha",
+        "republican",
+        "democrat",
+        "campaign",
+        "senate",
+        "president",
+        "party",
+        "house",
+        "vote",
+        "voter",
+        "amendment",
+        "democratic"
+      ],
+      "topic_weights": [
+        211.95018425288714,
+        185.22162798371204,
+        152.68425458021042,
+        138.88329619388233,
+        123.20520913039373,
+        109.70550753874934,
+        100.06542201546877,
+        94.49488298550209,
+        90.92433780867249,
+        89.44224455246814,
+        80.36950668023762,
+        78.87234005096597,
+        76.50445073647704,
+        74.18522203913854,
+        72.7661393555535
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "ha",
+        "president",
+        "obama",
+        "wa",
+        "general",
+        "department",
+        "pompeo",
+        "pandemic",
+        "flynn",
+        "america",
+        "biden",
+        "failed",
+        "leader",
+        "inspector"
+      ],
+      "topic_weights": [
+        262.81018851190777,
+        154.73176993813357,
+        136.62990234936458,
+        91.84905809260492,
+        84.42800685070301,
+        62.05678922004539,
+        49.995830728449434,
+        47.09398864154505,
+        46.467143018743506,
+        42.9892662933716,
+        42.67045087017723,
+        42.307684567162816,
+        41.62651780441123,
+        41.06131792624319,
+        40.871789143864824
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "wa",
+        "claim",
+        "ha",
+        "covid",
+        "truth",
+        "coronavirus",
+        "state",
+        "case",
+        "virus",
+        "pandemic",
+        "march",
+        "health",
+        "drug",
+        "country"
+      ],
+      "topic_weights": [
+        621.1460637280586,
+        420.8627292863547,
+        381.91397345755547,
+        325.07862756195914,
+        313.3978965935996,
+        272.3263894181441,
+        254.51817777973338,
+        201.30400850001388,
+        178.84536543548077,
+        174.11391799643496,
+        173.39901659269063,
+        163.86638178715984,
+        162.6908579174235,
+        162.4870742050385,
+        160.52931752234096
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "reade",
+        "biden",
+        "wa",
+        "woman",
+        "ha",
+        "assault",
+        "evidence",
+        "told",
+        "tara",
+        "claim",
+        "office",
+        "allegation",
+        "story",
+        "ford",
+        "supporter"
+      ],
+      "topic_weights": [
+        355.3471160801725,
+        232.7333126918181,
+        203.53152659711324,
+        148.32066821235736,
+        116.92406233111048,
+        93.29335407214944,
+        79.21829949718008,
+        71.90769276719413,
+        68.15592236012924,
+        66.19621143473655,
+        66.02685960388698,
+        64.26756953175034,
+        63.85583732508961,
+        61.78062434519095,
+        58.805773695884696
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "state",
+        "american",
+        "policy",
+        "america",
+        "twitter",
+        "facebook",
+        "tweet",
+        "public",
+        "life",
+        "war",
+        "country"
+      ],
+      "topic_weights": [
+        895.9374542892175,
+        527.9060354611465,
+        443.75809037352195,
+        425.9399330852591,
+        219.11933158049825,
+        188.58614028165474,
+        166.30436503051214,
+        161.3105015227795,
+        152.49175723486093,
+        140.8906581246163,
+        137.43019575570318,
+        127.76072656865661,
+        125.65564647679466,
+        121.96214829939139,
+        120.31090745327387
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 62,
+    "0": 28,
+    "1": 15,
+    "3": 5,
+    "2": 38
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Apr. 29, 2020, at 7:00 AM By Geoffrey Skelley Filed under 2020 Election The coronavirus pandemic has raised a host of new questions about the 2020 election. What will the economy look like in November...",
+        "upvotes": 324,
+        "url": "https://fivethirtyeight.com/features/could-the-coronavirus-and-economic-crash-make-republicans-abandon-trump/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved There is a new movement seeking to change the course of history by organizing a draft of former first lady Michelle ObamaMichelle LeVaughn Robinson O...",
+        "upvotes": 0,
+        "url": "https://thehill.com/opinion/campaign/496280-budowsky-a-biden-michelle-obama-ticket-would-win-in-a-landslide"
+      },
+      {
+        "preview": "This article is more than 1 year old This is part of a series where I make the best possible case for various vice-presidential contenders. Previous entries in the series can be found here. Every pres...",
+        "upvotes": 0,
+        "url": "https://www.washingtonpost.com/opinions/2020/05/07/val-demings-is-coalition-pick-vice-president/?itid=ap_davidbyler&utm_source=reddit.com"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Want to discuss? Please read our Commenting Policy first. Prime Minister Justin Trudeau says the government will share details within days of its plan to ban what it has been describing since the fall...",
+        "upvotes": 0,
+        "url": "https://globalnews.ca/news/6887958/canada-assault-rifle-ban/"
+      },
+      {
+        "preview": "Advertisement Supported by The court is set to depart from history twice on Monday: The justices will hear arguments by conference call, and the public will be able to listen in. By Adam Liptak WASHIN...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/05/03/us/politics/supreme-court-coronavirus.html"
+      },
+      {
+        "preview": "When he first acknowledged lying to the FBI more than two years ago, Michael Flynn brought the investigation of Russian interference in the 2016 election to the doorstep of the White House and Preside...",
+        "upvotes": 1,
+        "url": "https://www.usatoday.com/story/news/politics/2020/05/07/trump-adviser-michael-flynn-has-case-dropped-justice-department/3090071001/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Nearly 900 workers at a Tyson Food plant in Indiana have reportedly tested positive for COVID-19. The coronavirus infected 890 of the 2,200 people at...",
+        "upvotes": 1,
+        "url": "https://thehill.com/homenews/news/495564-nearly-900-workers-at-tyson-meat-plant-in-indiana-test-positive-for-coronavirus"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News WASHINGTON — The federal government placed orders for well over 100,000 new body bags to hold victims of COVID-19 in April, according to internal adm...",
+        "upvotes": 441,
+        "url": "https://www.nbcnews.com/politics/white-house/while-trump-minimizes-toll-government-orders-100-000-new-body-n1197316"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since As President Donald Trump publicly estimated that coronavirus deaths would top out at 60,0000, the ...",
+        "upvotes": 1,
+        "url": "https://www.businessinsider.com/coronavirus-us-ordered-more-than-100000-body-bags-april-2020-5"
+      }
+    ],
+    "3": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved MSNBC host Chris Hayes sparked backlash from the left when he became the first prime-time host on the network to cover a former aide's sexual assault...",
+        "upvotes": 1,
+        "url": "https://thehill.com/homenews/media/495448-firechrishayes-trends-after-msnbc-host-covers-biden-sexual-assault-allegations"
+      },
+      {
+        "preview": "CNN’s Jake Tapper pressed Michigan Governor Gretchen Whitmer (D) on whether she has a double standard for the sexual assault allegations that have been raised against former Vice President Joe Biden a...",
+        "upvotes": 1,
+        "url": "https://www.mediaite.com/tv/jake-tapper-grills-gretchen-whitmer-on-tara-reades-allegations-why-do-you-believe-biden-and-not-kavanaugh/"
+      },
+      {
+        "preview": "re found, it would tell us nothing about the alleged assault, because she has said she didn’t include it in whatever paperwork she filed, or didn’t file. The best reason to believe Reade is her corrob...",
+        "upvotes": 1,
+        "url": "https://www.thenation.com/article/politics/joe-biden-tara-reade-allegations/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Daily Wire editor-in-chief Ben Shapiro, who once railed against the specter of Obamacare “death panels,” said on Wednesday that the country would have to make “actuarial” decisions about the risks of ...",
+        "upvotes": 1,
+        "url": "https://www.mediaite.com/news/ben-shapiro-who-once-blasted-obamacare-death-panels-an-81-year-old-dying-from-virus-is-not-the-same-as-30-year-old/"
+      },
+      {
+        "preview": "Greg Myre President Donald Trump speaks during a meeting about the coronavirus response with Gov. Phil Murphy, D-N.J., in the Oval Office on April 30. Evan Vucci/AP hide caption President Donald Trump...",
+        "upvotes": 1,
+        "url": "https://www.npr.org/2020/04/30/848179346/pandemic-fuels-debate-trumps-america-first-or-u-s-global-leadership"
+      },
+      {
+        "preview": "By: Alexandra Tara Reade “ Somewhere between ideas of right and wrong, there is a garden, I will meet you there.” Rumi Why would a liberal democrat support Vladimir Vladimirovich Putin? Maybe it is be...",
+        "upvotes": 1,
+        "url": "https://web.archive.org/web/20190404043945/https://medium.com/@shewrites94/why-a-liberal-democrat-supports-vladimir-putin-f54ca2a3a405"
+      }
+    ]
+  }
+}

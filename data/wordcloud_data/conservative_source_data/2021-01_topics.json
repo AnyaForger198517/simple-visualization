@@ -1,0 +1,285 @@
+{
+  "month": "2021-01",
+  "total_articles": 362,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "twitter",
+        "wa",
+        "ha",
+        "trump",
+        "medium",
+        "facebook",
+        "social",
+        "parler",
+        "company",
+        "platform",
+        "january",
+        "capitol",
+        "speech",
+        "account",
+        "violence"
+      ],
+      "topic_weights": [
+        371.2876523493848,
+        283.583782506782,
+        252.12660019177522,
+        245.0921844422142,
+        233.36369461394963,
+        216.02745998888224,
+        196.32647610562472,
+        194.88799008346294,
+        194.51549279583057,
+        174.8425004080384,
+        162.1347921278888,
+        152.3667176615456,
+        145.53347106652103,
+        142.75667006380542,
+        137.7770642471739
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "biden",
+        "wa",
+        "ha",
+        "policy",
+        "job",
+        "trump",
+        "federal",
+        "order",
+        "government",
+        "state",
+        "president",
+        "harris",
+        "work",
+        "stock",
+        "political"
+      ],
+      "topic_weights": [
+        322.1989584316522,
+        272.464824475865,
+        220.83214492744287,
+        177.7091855137406,
+        163.00982049117533,
+        156.4124415315095,
+        154.64498112928553,
+        152.2834089165786,
+        137.89741371781602,
+        114.90029386770007,
+        114.00101130916634,
+        107.2370037839282,
+        97.06913270335835,
+        91.64078339335578,
+        88.00161910635335
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "president",
+        "republican",
+        "house",
+        "election",
+        "wa",
+        "biden",
+        "capitol",
+        "democrat",
+        "senate",
+        "vote",
+        "state",
+        "ha",
+        "impeachment",
+        "congress"
+      ],
+      "topic_weights": [
+        1178.3618806024335,
+        860.4563563598563,
+        487.957286883041,
+        474.2409246971222,
+        467.87151797080975,
+        455.82923304778933,
+        433.171083626758,
+        384.17262919734463,
+        351.47234230637355,
+        347.0002222534539,
+        342.063245335825,
+        295.7078807277267,
+        265.6869282072743,
+        247.40956765068287,
+        219.2108581866986
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "police",
+        "officer",
+        "ha",
+        "abortion",
+        "school",
+        "law",
+        "sullivan",
+        "news",
+        "court",
+        "child",
+        "life",
+        "state",
+        "mask",
+        "capitol"
+      ],
+      "topic_weights": [
+        631.32675174257,
+        202.5846439808512,
+        153.9542973648702,
+        149.10205957884017,
+        139.2924459795404,
+        131.5299038635396,
+        126.83189887166772,
+        126.38672384244336,
+        126.2190147598775,
+        121.3262597382754,
+        119.79586366277252,
+        114.72735146476134,
+        113.3512672219689,
+        113.05161812128664,
+        108.53586857504854
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "wa",
+        "covid",
+        "american",
+        "vaccine",
+        "state",
+        "america",
+        "news",
+        "white",
+        "world",
+        "daily",
+        "country",
+        "national",
+        "health",
+        "city"
+      ],
+      "topic_weights": [
+        253.28783359985158,
+        207.89634763173513,
+        172.46374062230592,
+        160.3106968978435,
+        141.72418975733243,
+        137.11846352061536,
+        125.82725689770699,
+        119.73079259547787,
+        113.75218301853796,
+        106.93030271222855,
+        102.46010104751646,
+        101.51016896609991,
+        98.85381647064182,
+        94.66408293278471,
+        82.39569908553239
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 126,
+    "4": 59,
+    "3": 61,
+    "1": 51,
+    "0": 65
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "By Sophie O’Hara January 1, 2021 Former NYC Police Commissioner Bernard Kerik has looked at the facts surrounding the FBI’s investigation of the Nashville bombing and he’s seeing some major red flags....",
+        "upvotes": 0,
+        "url": "https://www.waynedupree.com/2021/01/bernard-kerik-fbi-nashville/"
+      },
+      {
+        "preview": "We now have the video! If there was ever any doubt about who it has been arranging for ANTIFA to engage in the RIOTS throughout the country this past year, the ARSON ATTACKS, this past year, the BEATI...",
+        "upvotes": 1,
+        "url": "https://mynews.one/video-antifa-hoodlums-being-bussed-in-against-maga-rally-with-police-escorts/"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 0,
+        "url": "https://www.nationalreview.com/corner/it-doesnt-matter-if-a-few-of-them-were-antifa/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The hacking group behind the SolarWinds compromise was able to break into Microsoft and access some of its source code, Microsoft said on Thursday, something experts said sent a worrying signal about ...",
+        "upvotes": 2,
+        "url": "https://www.cnbc.com/amp/2021/01/01/solarwinds-hackers-accessed-microsoft-source-code-the-company-says.html"
+      },
+      {
+        "preview": "A new report from the NY Times reveals Joe Biden’s pick for Treasury Secretary Janet Yellen made over $7 million in speaking fees to major banks and corporations. CHECK THIS OUT !!! The payments were ...",
+        "upvotes": 0,
+        "url": "https://parlerbreakingnews.com/blog/biden-pick-for-treasury-secretary-made-over-7-million-giving-speeches-to-banks-and-major-corporations/"
+      },
+      {
+        "preview": "Georgia Republican facing Senate runoff bought significant shares in US bank after meeting with financial policy makers Last modified on Tue 5 Jan 2021 10.15 EST David Perdue, the Georgia Republican f...",
+        "upvotes": 43,
+        "url": "https://www.theguardian.com/us-news/2021/jan/04/republican-david-perdue-georgia-senate-runoff-traded-bank-stocks"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "https://www.washingtontimes.com/news/2020/dec/31/mitch-mcconnell-democrats-want-socialism-rich-peop/"
+      },
+      {
+        "preview": "The House of Representatives is asking a court to reject a petition from Republicans that requests judges to say Vice President Mike Pence has the authority to reject some electoral votes. “This Court...",
+        "upvotes": 12,
+        "url": "https://www.theepochtimes.com/house-asks-court-to-dismiss-effort-to-clarify-vice-presidents-power-in-electoral-counting_3640286.html?utm_source=newsnoe&utm_medium=email&utm_campaign=breaking-2021-01-01-1"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 0,
+        "url": "https://www.washingtontimes.com/news/2021/jan/2/gohmert-appeals-ruling-pence-fifth-circuit/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "- I HAVE been saying for some time that when all this is done, when people have manned up and started opposing and then defeating this Covid-Fascist state, there will be a reckoning. It will come in t...",
+        "upvotes": 0,
+        "url": "https://www.conservativewoman.co.uk/the-covid-crimes-tribunal/"
+      },
+      {
+        "preview": "Please disable your Ad Blocker to better interact with this website. Written by: Matt Agorist Published on: January 2, 2021 Pasco County, FL — In the ostensible land of the free, we are told that all ...",
+        "upvotes": 15,
+        "url": "https://sonsoflibertymedia.com/florida-minority-report-police-keep-secret-lists-of-kids-with-bad-grades-labeling-them-potential-criminals/"
+      },
+      {
+        "preview": "Two months after the November 3 presidential election, the Georgia Secretary of State’s office and county officials in the state have failed to produce chain of custody documents known as ballot trans...",
+        "upvotes": 0,
+        "url": "https://tennesseestar.com/2021/01/03/still-no-chain-of-custody-documents-produced-in-georgia-for-76-percent-of-absentee-ballots-cast-two-months-ago-in-presidential-election/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Today, the Two Mikes were again honored to host Lieutenant-General Thomas McInerny. The General, as always, was direct and frank, saying that the republic’s current constitutional crisis will be const...",
+        "upvotes": 1,
+        "url": "https://noqreport.com/2020/12/31/lt-gen-tom-mcinerney-predicts-mike-pence-will-throw-out-six-biden-elector-slates/"
+      },
+      {
+        "preview": "September 3, 2020 “We are deeply shocked by and grieve the death of Zhong and his wife. It was the first time that we felt death so close to us,” said Wang Wei, an employee of a Chinese company in Joh...",
+        "upvotes": 30,
+        "url": "https://www.asian-dawn.com/2020/09/03/chinese-are-being-murdered-in-south-africa/"
+      },
+      {
+        "preview": "Around the  Writer ï»¿Alvin Kamaraï»¿ was fined for his non-standard Christmas Day cleats.  Network's Tom Pelissero reported that the  fined the New Orleans Saints running back $5,000 for his red-and-...",
+        "upvotes": 5,
+        "url": "https://www.nfl.com/news/nfl-fines-saints-rb-alvin-kamara-5k-for-red-and-green-christmas-cleats"
+      }
+    ]
+  }
+}

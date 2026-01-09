@@ -1,0 +1,36 @@
+{
+  "month": "2014-08",
+  "total_articles": 96,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Economic and Socialism-Related Discussions",
+      "core_keywords": ["economic", "socialism", "market", "woman", "professor", "country", "social"],
+      "importance_ratio": 0.0208
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Tax and Gun Policy Debates",
+      "core_keywords": ["tax", "gun", "government", "corporate", "individual", "pay", "private"],
+      "importance_ratio": 0.0625
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Criminal Investigation and Murder Cases",
+      "core_keywords": ["police", "murder", "evidence", "crime", "suspect", "death", "investigator"],
+      "importance_ratio": 0.0104
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Obama and US Domestic Political Dynamics",
+      "core_keywords": ["obama", "republican", "democrat", "president", "state", "border", "child"],
+      "importance_ratio": 0.5938
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Racial Tensions and Shooting Incidents in Ferguson",
+      "core_keywords": ["black", "white", "ferguson", "police", "shooting", "american", "officer"],
+      "importance_ratio": 0.3125
+    }
+  ]
+}

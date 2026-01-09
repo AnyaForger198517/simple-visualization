@@ -1,0 +1,285 @@
+{
+  "month": "2013-05",
+  "total_articles": 78,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "american",
+        "health",
+        "patriot",
+        "obama",
+        "war",
+        "coal",
+        "military",
+        "republican",
+        "care",
+        "state",
+        "democrat",
+        "breakfast",
+        "soldier",
+        "program"
+      ],
+      "topic_weights": [
+        44.63683883642754,
+        32.44109372822558,
+        30.73370236046645,
+        28.35831548796756,
+        28.136050893440412,
+        25.695774105221993,
+        25.508848265383424,
+        23.799654338582844,
+        21.228233425111746,
+        21.010920454310245,
+        20.713792680785073,
+        18.743564252861233,
+        18.71853954217463,
+        18.337455872734232,
+        18.125721304794798
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "woman",
+        "tweet",
+        "wa",
+        "map",
+        "plan",
+        "white",
+        "hate",
+        "age",
+        "group",
+        "word",
+        "county",
+        "ha",
+        "decision",
+        "fda",
+        "girl"
+      ],
+      "topic_weights": [
+        82.61722729782878,
+        65.46983699519872,
+        60.063489925807616,
+        59.57235600584965,
+        50.21828063168837,
+        44.593617949223386,
+        44.361175357977665,
+        40.374860169011335,
+        37.61171308418303,
+        33.44715412396224,
+        30.994152408823012,
+        30.830712589966332,
+        29.241292460169266,
+        28.94520825135464,
+        26.580915681639954
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "irs",
+        "president",
+        "house",
+        "white",
+        "group",
+        "tax",
+        "scandal",
+        "attack",
+        "report",
+        "power",
+        "government",
+        "state"
+      ],
+      "topic_weights": [
+        159.06599436978348,
+        157.4983948388918,
+        121.55695088007909,
+        118.5152925334024,
+        88.36458729625087,
+        81.04756482094193,
+        78.01739297271516,
+        72.12670474671488,
+        70.07759990175454,
+        68.86084926533427,
+        50.67072447303372,
+        49.91947917931306,
+        47.12410211814003,
+        45.853065451891915,
+        45.00221095741676
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "advertisement",
+        "news",
+        "obama",
+        "fox",
+        "federal",
+        "provided",
+        "factset",
+        "data",
+        "ha",
+        "story",
+        "wind",
+        "video",
+        "administration",
+        "doj"
+      ],
+      "topic_weights": [
+        61.56134821046984,
+        57.65948388771254,
+        38.84529679475665,
+        36.90867925159659,
+        31.026651199844064,
+        29.771165631037714,
+        26.92026897586414,
+        24.943801236132927,
+        24.907526611548622,
+        23.66121513660745,
+        21.950197417243626,
+        20.732491632592797,
+        20.179353111981538,
+        20.098222483629936,
+        19.835238934760785
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "government",
+        "wa",
+        "ha",
+        "gun",
+        "tax",
+        "federal",
+        "law",
+        "country",
+        "south",
+        "policy",
+        "liberal",
+        "conservative",
+        "party",
+        "immigration"
+      ],
+      "topic_weights": [
+        117.6168672262299,
+        115.93272198229778,
+        107.79896478764721,
+        70.94435436121994,
+        68.57049417617158,
+        57.737984045645526,
+        55.95895179607,
+        52.912237699150076,
+        50.91650117166909,
+        50.13382661179438,
+        43.6472398018743,
+        37.68408055177428,
+        36.24990120669973,
+        35.770680567638635,
+        35.40781322504436
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 11,
+    "3": 16,
+    "1": 7,
+    "2": 33,
+    "0": 11
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "In the aftermath of the Boston bombings, we hear that the FBI was informed by Russia that Tamerlan Tsarnaev was a Muslim radical, but even after he spent six months in Chechen, the FBI decided he wasn...",
+        "upvotes": 2,
+        "url": "http://patriotpost.us/opinion/17927"
+      },
+      {
+        "preview": "Old and busted: ObamaCare is no “train wreck,” no matter what one of its authors says now. New hotness: Give us more money to head off this train wreck! Senate Majority Leader Harry Reid (D-Nev.) says...",
+        "upvotes": 1,
+        "url": "http://hotair.com/archives/2013/05/02/reid-were-gonna-need-a-lot-more-obamacare-money-to-stop-the-train-wreck/"
+      },
+      {
+        "preview": "A few weeks ago, Ezra Klein and Ben Domenech had a fairly detailed back-and-forth — culminating in this mano-a-mano exchange — about whether a Republican or conservative alternative to Obamacare actua...",
+        "upvotes": 3,
+        "url": "http://douthat.blogs.nytimes.com/2013/04/30/the-republican-health-policy-trainwreck/?smid=re-share"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Follow @Health On Tuesday, the FDA announced that the Plan B morning-after pill will move out from behind the counter and be available for girls ages 15 and older without a prescription. Update: The s...",
+        "upvotes": 1,
+        "url": "http://healthland.time.com/2013/05/01/morning-after-reactions/"
+      },
+      {
+        "preview": "It's 2013 in America. Do you know what your 15 year old daughter is doing? If she had sex last night, it is now legal for her to purchase Plan B - the \"morning after pill\" - at your local drugstore. A...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/blog/2013/05/maybe_they_should_sell_it_in_the_candy_aisle.html"
+      },
+      {
+        "preview": "21st century con of being a woman: everyone else is thinking that you are the weak link in the chain of abusive men. Let them prove that they are wrong. Become a lady which doesn't afraid being alone ...",
+        "upvotes": 10,
+        "url": "http://nrawomen.tv/home/video/new-energy-trailer"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The cold, hard figures showing the president’s lack of concern for suffering Americans. One in five Americans are on food stamps. The number of Americans in the labor force fell to its lowest level si...",
+        "upvotes": 0,
+        "url": "http://patriotpost.us/opinion/17954"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Republican establishment breathed a sigh of relief when Boston businessman Gabriel Gomez won Tuesday's GOP primary in the Massachusetts special e...",
+        "upvotes": 3,
+        "url": "http://thehill.com/blogs/ballot-box/senate-races/297337-five-reasons-republicans-could-massachusetts-senate-race"
+      },
+      {
+        "preview": "Red lines are not real for the Obama administration. That does not mean I have any brilliant solutions for what to do about Syria, where the choices are far worse now than a year ago, when we first st...",
+        "upvotes": 4,
+        "url": "http://www.americanthinker.com/blog/2013/05/red_lines_are_not_real_for_the_obama_administration.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "This material may not be published, broadcast, rewritten, or redistributed. ©2021 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market da...",
+        "upvotes": 2,
+        "url": "http://www.foxnews.com/us/2013/04/30/miss-suspect-charged-in-case-suspicious-letters-sent-to-president-others-due-in/"
+      },
+      {
+        "preview": "The Los Angeles Unified School District (LAUSD) announced last week that it will discontinue the free school breakfast plan it initiated last year. Called “Food for Thought,” the plan provides school ...",
+        "upvotes": 1,
+        "url": "http://www.thegatewaypundit.com/2013/05/chairman-issa-reveals-startling-information-on-benghazi-terrorist-attack-video/"
+      },
+      {
+        "preview": "Sen. Jeff Sessions (R-Ala.) entered a letter from law enforcement officials nationwide warning of the dangers of the immigration bill S.744 into the judiciary committee record today. The letter To Con...",
+        "upvotes": 2,
+        "url": "http://www.thegatewaypundit.com/2013/05/kansas-secretary-of-state-to-eric-holder-stay-out-of-kansas-you-dont-understand-the-constitution/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Senate Budget Committee ranking member Sen. Jeff Sessions (R-AL) uncovered this loophole in the bill and many others, and he will circulate a memo detailing the gaps in the bill on Tuesday.  News excl...",
+        "upvotes": 5,
+        "url": "http://www.breitbart.com/Big-Government/2013/04/29/Exclusive-Immigration-bill-would-load-immediate-fiscal-burden-onto-state-local-governments-by-allowing-illegal-immigrants-onto-welfare"
+      },
+      {
+        "preview": "When the federal government stopped enforcing our immigration laws, a number of states – led by Arizona – began passing laws to do the job the feds wouldn’t do. In 2011, Alabama passed a law (HB 56) a...",
+        "upvotes": 3,
+        "url": "http://www.redstate.com/dhorowitz3/2013/04/30/states-have-a-right-to-protect-residents-from-illegal-immigration/"
+      },
+      {
+        "preview": "It's time for a free-market corporate social responsibility. Conservatives who rail against government hand-outs should also blast companies who seek shelter from Washington. The Republican attack on ...",
+        "upvotes": 1,
+        "url": "http://www.theatlantic.com/business/archive/2013/04/the-case-against-cronies-libertarians-must-stand-up-to-corporate-greed/275404/"
+      }
+    ]
+  }
+}

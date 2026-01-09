@@ -1,0 +1,258 @@
+{
+  "month": "2019-08",
+  "total_articles": 176,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "school",
+        "portland",
+        "city",
+        "game",
+        "white",
+        "symbol",
+        "kid",
+        "fascism",
+        "public",
+        "anti",
+        "ha",
+        "league",
+        "fan",
+        "political"
+      ],
+      "topic_weights": [
+        355.43559395914843,
+        224.51243835192818,
+        156.507871413922,
+        143.50529784324394,
+        141.6287242454123,
+        137.02701692439146,
+        105.8056505492052,
+        105.12690904460317,
+        103.96554245565348,
+        103.50397218161235,
+        103.22954927005995,
+        103.1173299337649,
+        89.31863792158886,
+        86.07494026129578,
+        81.84373606849843
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "biden",
+        "state",
+        "law",
+        "president",
+        "news",
+        "campaign",
+        "right",
+        "climate",
+        "twitter",
+        "change",
+        "fact",
+        "comment"
+      ],
+      "topic_weights": [
+        522.1601290698108,
+        352.3412554033557,
+        307.1336874326279,
+        226.86230401802993,
+        223.6734497072438,
+        197.69827730846677,
+        181.63668101925174,
+        169.85651584953686,
+        160.16617183179903,
+        150.08747195566463,
+        143.85966226550383,
+        143.64251991264723,
+        132.75262174520554,
+        128.2628126505257,
+        114.19842041565474
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "trump",
+        "democrat",
+        "president",
+        "ha",
+        "wa",
+        "american",
+        "percent",
+        "china",
+        "country",
+        "government",
+        "america",
+        "economy",
+        "national",
+        "tax",
+        "company"
+      ],
+      "topic_weights": [
+        227.91102924235068,
+        137.1891132122989,
+        135.5268482785829,
+        130.60013186201252,
+        107.50780669687451,
+        101.07770700280591,
+        88.70775477864215,
+        84.76217863925909,
+        78.88095088951356,
+        78.8636847845379,
+        71.01416051647875,
+        62.869623416278685,
+        62.680465753388454,
+        58.26311452424293,
+        53.48114927681189
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "book",
+        "work",
+        "order",
+        "wa",
+        "john",
+        "amazon",
+        "click",
+        "english",
+        "press",
+        "print",
+        "written",
+        "university",
+        "henry",
+        "text",
+        "finding"
+      ],
+      "topic_weights": [
+        5361.958605875701,
+        2535.4528944149242,
+        2431.703876530077,
+        2326.314943868074,
+        2233.5713889190847,
+        2060.406353921293,
+        1866.5031911623817,
+        1840.5974410172,
+        1787.1489291436308,
+        1547.1387798254914,
+        1410.24010643936,
+        1391.3129101014883,
+        1358.3001858507955,
+        1356.0186823793779,
+        1298.2532739227654
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "amazon",
+        "edition",
+        "book",
+        "order",
+        "work",
+        "store",
+        "try",
+        "version",
+        "click",
+        "rare",
+        "wa",
+        "east",
+        "john",
+        "finding",
+        "print"
+      ],
+      "topic_weights": [
+        17.138018174574437,
+        15.720132573033707,
+        11.277751014443131,
+        7.175046016069142,
+        6.876203900609294,
+        6.588564983332395,
+        6.520117098445281,
+        6.134052921684688,
+        6.021663462272159,
+        4.775165368975593,
+        4.625254946761312,
+        4.186991661177515,
+        3.9413659753599255,
+        3.7838047087343347,
+        3.7801492997569195
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 123,
+    "2": 41,
+    "0": 11,
+    "3": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Video games again have been invoked as one of the causes of violence in the U.S. in the wake of mass shootings this weekend in El Paso, Texas, and Dayton, Ohio. President Donald Trump, who last year h...",
+        "upvotes": 1,
+        "url": "https://www.usatoday.com/story/tech/talkingtech/2019/08/05/do-violent-video-games-really-drive-people-commit-mass-shootings/1924128001/"
+      },
+      {
+        "preview": "August 6, 2019 Jewish leaders say a new ethnic studies curriculum proposed by the California Department of Education “effectively erases the American Jewish experience” and “would institutionalize the...",
+        "upvotes": 14,
+        "url": "https://metrovoicenews.com/la-times-condemns-leftist-california-ethnic-curriculum-as-group-think/#.XUnXWWJJ7yU.reddit"
+      },
+      {
+        "preview": "Former Vice President Joe Biden claimed that “poor kids are just as bright and just as talented as white kids,” while addressing the Asian and Latino Coalition in Des Moines, Iowa, on Thursday. “We sh...",
+        "upvotes": 2,
+        "url": "https://www.breitbart.com/2020-election/2019/08/08/joe-biden-poor-kids-are-just-as-bright-and-just-as-talented-as-white-kids/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement In January Proctor & Gamble and Gillette decided to run razor ads trashing men and “toxic” masculinity in a courageous ad campaign. The company decided the best way to promote their prod...",
+        "upvotes": 752,
+        "url": "https://www.thegatewaypundit.com/2019/07/get-woke-go-broke-gillette-loses-billions-after-sexist-and-lecturing-metoo-razor-ads/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved A federal judge on Thursday issued an order that temporarily prevents New York from providing the House Ways and Means Committee with President Trump...",
+        "upvotes": 55,
+        "url": "https://thehill.com/policy/finance/455835-judge-temporarily-blocks-ny-from-sharing-trump-tax-returns"
+      },
+      {
+        "preview": "'It's sad to get beat up for wearing this hat. This is America.' Jahangir \"John\" Turan, a New York City art gallery owner, said a gang of teenagers beat him up on a Manhattan street for wearing a \"Mak...",
+        "upvotes": 37,
+        "url": "https://www.theblaze.com/news/maga-hat-wearing-art-gallery-owner-says-teens-beat-him-up-on-new-york-city-street"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved CNN anchor Don LemonDon Carlton LemonCNN's Chris Cuomo taking birthday vacation as calls for brother's resignation grow The Hill's 12:30 Report - Pre...",
+        "upvotes": 3,
+        "url": "https://thehill.com/homenews/campaign/455657-lemon-raises-trumps-racist-rhetoric-to-candidates-after-presidents"
+      },
+      {
+        "preview": "Progressives Fan the Impeachment Flames Most Democrats still won’t quite admit it, but they are attempting a stealth impeachment of Donald Trump. Of course, it’s not stealthy if everybody knows about ...",
+        "upvotes": 8,
+        "url": "https://www.breitbart.com/politics/2019/08/01/pinkerton-pro-impeachment-democrats-about-to-make-same-mistake-as-republicans-20-years-ago/"
+      },
+      {
+        "preview": "Source: AP Photo/Patrick Semansky MAGA fan Scott Presler was tired of all the constant bickering in the media about Baltimore's numerous problems, so he personally decided to do something about it. Ra...",
+        "upvotes": 2164,
+        "url": "https://townhall.com/tipsheet/timothymeads/2019/07/30/trump-supporter-organizes-massive-trash-clean-up-in-baltimore-n2550855"
+      }
+    ],
+    "3": [
+      {
+        "preview": "college or public library): Arnould, E.J.F. (1937) \"Henry of Lancaster and his 'Livre de seyntz medicines,'\" Bulletin of the John Rylands Library. 21: 352-386. Krochalis, Jeanne. Dean, Ruth J. (1973) ...",
+        "upvotes": 9,
+        "url": "https://msuweb.montclair.edu/~vincentiw/reviews/chivalry/chivalric_manuals.htm"
+      }
+    ],
+    "4": []
+  }
+}

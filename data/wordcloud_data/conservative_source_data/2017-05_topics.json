@@ -1,0 +1,285 @@
+{
+  "month": "2017-05",
+  "total_articles": 314,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "student",
+        "republican",
+        "ha",
+        "school",
+        "democrat",
+        "state",
+        "house",
+        "senate",
+        "party",
+        "obama",
+        "election",
+        "america"
+      ],
+      "topic_weights": [
+        633.8566927282036,
+        428.1848817643732,
+        331.40151542841085,
+        296.60218659204884,
+        241.31457766442367,
+        227.7032975889593,
+        209.06527222535257,
+        182.76932965176616,
+        181.27330765226424,
+        167.28411946027836,
+        166.08552572241368,
+        161.7440194516766,
+        150.2942428099642,
+        142.01848196423504,
+        138.81444395909753
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "law",
+        "tax",
+        "voter",
+        "wa",
+        "government",
+        "budget",
+        "ha",
+        "cut",
+        "trump",
+        "percent",
+        "federal",
+        "spending",
+        "medicaid",
+        "money"
+      ],
+      "topic_weights": [
+        369.8420524834616,
+        316.5303100759598,
+        294.84408785864366,
+        232.9152531361323,
+        194.18053503984407,
+        179.97997006812255,
+        168.3140643006847,
+        166.33961191874607,
+        163.64207013606713,
+        153.94643176343973,
+        145.26375301692596,
+        141.21895249916597,
+        131.9484115800936,
+        127.22403894332997,
+        113.61377403843521
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "president",
+        "white",
+        "woman",
+        "american",
+        "news",
+        "advertisement",
+        "medium",
+        "did",
+        "story",
+        "nixon",
+        "war",
+        "men"
+      ],
+      "topic_weights": [
+        1102.9626205448014,
+        705.8552156613301,
+        487.61876343484033,
+        382.5695377407933,
+        374.2124260734356,
+        252.496537170666,
+        230.4045701509529,
+        219.8100711908635,
+        219.2693178205718,
+        215.3260481031332,
+        206.62761993809008,
+        197.94434886486988,
+        188.0393998994421,
+        184.18087263915638,
+        181.67413920864686
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "climate",
+        "ha",
+        "change",
+        "wa",
+        "science",
+        "paris",
+        "level",
+        "sea",
+        "global",
+        "warming",
+        "world",
+        "agreement",
+        "water",
+        "model",
+        "rise"
+      ],
+      "topic_weights": [
+        641.3977390785141,
+        315.6936389352645,
+        310.0968759479584,
+        263.3274853456672,
+        260.10379583504925,
+        241.32702417739117,
+        234.09201629208943,
+        229.10494176663258,
+        208.5623178172507,
+        182.700035148993,
+        181.846134594352,
+        176.06824969952186,
+        152.1806213026091,
+        137.7251206064192,
+        134.96334582343863
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "national",
+        "intelligence",
+        "obama",
+        "american",
+        "ha",
+        "wa",
+        "administration",
+        "review",
+        "court",
+        "procedure",
+        "communication",
+        "biden",
+        "report",
+        "world",
+        "security"
+      ],
+      "topic_weights": [
+        295.46580176887284,
+        241.74982326453994,
+        240.48809789774634,
+        238.483195378954,
+        227.49706443055916,
+        220.95541134031646,
+        204.26386061635657,
+        183.07764371906572,
+        170.9665858814449,
+        162.59848645227183,
+        147.02102980161274,
+        143.55606806635103,
+        135.2843900631765,
+        130.55003834683805,
+        118.27685289675695
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 13,
+    "0": 76,
+    "2": 181,
+    "1": 41,
+    "4": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Sign In Official placed on paid leave: 'I don't give a f--- what you think Jesus tells me' Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 va...",
+        "upvotes": 5,
+        "url": "http://www.washingtontimes.com/news/2017/apr/28/zach-ruffs-assistant-principal-tells-pro-life-teen/"
+      },
+      {
+        "preview": "Almost a year ago, I published an article on American Thinker arguing that neither Hilary Clinton nor Donald Trump was acceptable as president and suggesting that the Electoral College could save us f...",
+        "upvotes": 7,
+        "url": "http://www.americanthinker.com/blog/2017/04/an_apology_to_donald_trump.html"
+      },
+      {
+        "preview": "The race is on between the Republicans and Democrats to claim the biggest victory in the deal to keep the government open. You’re going to hear Democratic-Republican Senator ______ say they stopped __...",
+        "upvotes": 20,
+        "url": "http://www.redstate.com/diary/jdrucker/2017/05/01/sides-win-budget-americans-lose/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "That tax day march, protest or whatever it was produced pretty much nothing in terms of results if people were expecting President Trump to suddenly serve up all of his tax returns. The standard line ...",
+        "upvotes": 5,
+        "url": "http://hotair.com/archives/2017/05/01/new-york-comes-wackiest-way-yet-try-root-trumps-tax-returns/"
+      },
+      {
+        "preview": "Jacob Bojesson/The Daily Caller News Foundation BUDAPEST, Hungary — When other countries welcomed refugees with open arms, Hungary decided it was time to eradicate illegal immigration at any cost. The...",
+        "upvotes": 27,
+        "url": "http://dailycaller.com/2017/04/30/exclusive-it-was-an-invasion-how-hungary-managed-to-erase-illegal-immigration-in-just-a-few-months/"
+      },
+      {
+        "preview": "PHILADELPHIA (CBS) – Republican Senator Rand Paul voiced his support for the Trump administration’s tax reform proposal, but expects to see many members of his own party come out against the plan. Pau...",
+        "upvotes": 48,
+        "url": "http://philadelphia.cbslocal.com/2017/04/27/rand-paul-backs-white-house-tax-reform-plan/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Supreme leader denounces Rouhani’s comments suggesting risk of war with the West has disappeared since he took office. Supreme Leader Ayatollah Ali Khamenei has criticised President Hassan Rouhani for...",
+        "upvotes": 8,
+        "url": "http://www.aljazeera.com/news/2017/04/iran-khamanei-rebuffs-rouhani-detente-west-170430145011059.html"
+      },
+      {
+        "preview": "LOUISVILLE --- A family court judge who sits in Barren and Metcalfe counties has announced he will no longer hear adoption cases involving “homosexual parties” because he believes allowing a gay perso...",
+        "upvotes": 51,
+        "url": "https://www.usatoday.com/story/news/nation-now/2017/04/28/judge-wont-hear-gay-adoptions-because-its-not-childs-best-interest/307679001/#"
+      },
+      {
+        "preview": "Our friends on The Left, especially The Professional Left, use emotional arguments to win hearts and minds. We conservatives are typically not very good at storytelling, which puts us at a disadvantag...",
+        "upvotes": 12,
+        "url": "https://pjmedia.com/trending/2017/04/30/eight-false-pretenses-liberals-use-to-frame-an-argument/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By P Gosselin on 29. April 2017 By Dr. Sebastian Lüning and Prof. Fritz Vahrenholt German text translated by P. Gosselin) We would like to take a look at the oceanic warming of the Atlantic. From the ...",
+        "upvotes": 26,
+        "url": "http://notrickszone.com/2017/04/29/upper-layers-of-atlantic-refuse-to-obey-global-warming-orders/#sthash.ULNG0rtx.dpbs"
+      },
+      {
+        "preview": "The world's most viewed site on global warming and climate change … meanwhile California sea level rise “model study” claims 10 foot rise by 2100 Guest essay by Larry Hamlin NOAA has just updated its ...",
+        "upvotes": 6,
+        "url": "https://wattsupwiththat.com/2017/05/02/dialing-back-the-the-10-foot-hype-noaa-tide-gauge-data-shows-no-coastal-sea-level-rise-acceleration/"
+      },
+      {
+        "preview": "The world's most viewed site on global warming and climate change Guest essay by Eric Worrall The Institutional Investors Group on Climate Change, whose members control eighteen trillion dollars in as...",
+        "upvotes": 6,
+        "url": "https://wattsupwiththat.com/2017/05/08/global-fatcats-urge-more-carbon-pricing-climate-policy-continuity///"
+      }
+    ],
+    "4": [
+      {
+        "preview": "ADVERTISEMENT Tehran seeks to completely overhaul, revamp military might to counter U.S. SHARE Iran is using the billions in cash resources provided under the landmark nuclear deal to engage in an unp...",
+        "upvotes": 5,
+        "url": "http://freebeacon.com/national-security/iran-using-u-s-cash-fund-unprecedented-massive-military-buildup/"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 11,
+        "url": "https://www.axios.com/americans-cared-less-about-comey-than-other-trump-scandals-2403228957.html"
+      },
+      {
+        "preview": "Follow Us National Review After Serving at Ground Zero, Going to Afghanistan ‘Felt Right’ to These New Yorkers Twenty Years Ago, the World Changed The 9/11 Generation Deserves Our Thanks Since 9/11, S...",
+        "upvotes": 15,
+        "url": "http://www.nationalreview.com/article/447973/nsa-illegal-surveillance-americans-obama-administration-abuse-fisa-court-response"
+      }
+    ]
+  }
+}

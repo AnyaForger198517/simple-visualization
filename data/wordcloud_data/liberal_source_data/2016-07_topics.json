@@ -1,0 +1,285 @@
+{
+  "month": "2016-07",
+  "total_articles": 247,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "republican",
+        "american",
+        "donald",
+        "white",
+        "party",
+        "president",
+        "state",
+        "latino",
+        "political",
+        "cruz",
+        "percent",
+        "campaign"
+      ],
+      "topic_weights": [
+        1882.417693536821,
+        815.0995805949739,
+        553.1856056173064,
+        339.8014395196359,
+        296.752175631439,
+        227.8667486979778,
+        220.0058945704777,
+        216.17561196183945,
+        201.52022852817862,
+        177.38670021470637,
+        174.14020358016916,
+        165.8475410030343,
+        165.21624389314582,
+        156.0854295952487,
+        152.24011666306393
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "court",
+        "police",
+        "ha",
+        "justice",
+        "state",
+        "law",
+        "officer",
+        "woman",
+        "black",
+        "american",
+        "case",
+        "supreme",
+        "white",
+        "did"
+      ],
+      "topic_weights": [
+        532.6932797728651,
+        239.91177704660353,
+        220.79498177175284,
+        199.90300446647905,
+        189.65611248293303,
+        161.96087804854378,
+        149.47145429736986,
+        141.96457311413417,
+        141.90518492765239,
+        112.67242427357263,
+        108.02531743200572,
+        102.81947928427248,
+        102.39822267081223,
+        100.95928161344483,
+        85.01006621871174
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "clinton",
+        "sander",
+        "hillary",
+        "campaign",
+        "wa",
+        "ha",
+        "convention",
+        "democratic",
+        "party",
+        "state",
+        "bernie",
+        "president",
+        "trump",
+        "kaine",
+        "email"
+      ],
+      "topic_weights": [
+        1020.3365529693191,
+        459.69189613757044,
+        298.6928516727215,
+        292.4390968234674,
+        272.27662095612885,
+        265.5761126442233,
+        255.3352658463761,
+        226.80295375576637,
+        202.82555677349916,
+        199.61729252037318,
+        172.96347650897167,
+        150.6038040232934,
+        134.35671295237526,
+        132.89575706927067,
+        132.30712509685875
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "wa",
+        "ha",
+        "labor",
+        "worker",
+        "support",
+        "prisoner",
+        "union",
+        "law",
+        "city",
+        "local",
+        "driver",
+        "movement",
+        "prison",
+        "center"
+      ],
+      "topic_weights": [
+        171.2122750379718,
+        157.8661991457925,
+        154.5262632110491,
+        137.1844478534372,
+        124.00877870731227,
+        101.88350441805736,
+        99.66287381443084,
+        99.08391669569886,
+        98.94310527404626,
+        97.47188263414375,
+        85.13105689395954,
+        76.82760588600375,
+        75.96389572923556,
+        74.89217833706755,
+        74.81186677382063
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "company",
+        "ha",
+        "product",
+        "job",
+        "american",
+        "fund",
+        "country",
+        "mexico",
+        "policy",
+        "russian",
+        "business",
+        "jones",
+        "money"
+      ],
+      "topic_weights": [
+        151.78787628014328,
+        138.77344940319364,
+        121.38388626336955,
+        116.07157439190128,
+        103.7905169219094,
+        103.63174438606006,
+        102.81466279625194,
+        89.88551975323952,
+        89.69521438594334,
+        84.69425151644478,
+        78.22620605537388,
+        77.4101053803763,
+        76.38158788795477,
+        74.28326328524095,
+        73.85077354377871
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 79,
+    "3": 12,
+    "1": 48,
+    "0": 90,
+    "4": 18
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "To revist this article, visit My Profile, then View saved stories. To revist this article, visit My Profile, then View saved stories. By Tina Nguyen To revist this article, visit My Profile, then View...",
+        "upvotes": 3,
+        "url": "http://www.vanityfair.com/news/2016/06/donald-trump-charity-giving"
+      },
+      {
+        "preview": "Advertisement Supported by transcript Republican presidential candidate Donald Trump promises to renegotiate international trade deals, withdraw from them if he is not satisfied and use executive powe...",
+        "upvotes": 9,
+        "url": "http://www.nytimes.com/2016/07/01/us/politics/donald-trump-trade.html"
+      },
+      {
+        "preview": "Photo illustration by Phil Plait. Photo by Shutterstock/ImagePixel. Part of the problem with being a vocal advocate for critical thinking is deciding just which facet of nonsense to spend time fightin...",
+        "upvotes": 72,
+        "url": "http://www.slate.com/blogs/bad_astronomy/2016/06/30/donald_trump_is_the_inevitable_result_of_decades_of_gop_denial_of_reality.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Written by Media Matters Staff Published 06/29/16 12:47 PM EDT Share Comment From the June 29 edition of Courtside Entertainment Group's The Laura Ingraham Show: LAURA INGRAHAM (HOST): Oh we have a ne...",
+        "upvotes": 12,
+        "url": "https://mediamatters.org/video/2016/06/29/laura-ingraham-suggests-people-wear-diapers-rather-share-bathrooms-transgender-people/211276"
+      },
+      {
+        "preview": "An anonymous “Jane Doe” filed a federal lawsuit against GOP presumptive nominee Donald Trump last week, accusing him of raping her in 1994 when she was thirteen years old. The mainstream media ignored...",
+        "upvotes": 117,
+        "url": "http://www.huffingtonpost.com/lisa-bloom/why-the-new-child-rape-ca_b_10619944.html"
+      },
+      {
+        "preview": "Andrew H. Walker/Getty Images for Logo TV Anti-LGBTQ activists just suffered their worst defeat since the Supreme Court’s marriage equality decision—a rout so stinging and decisive that it calls into ...",
+        "upvotes": 6,
+        "url": "http://www.slate.com/blogs/outward/2016/07/01/mississippi_hb_1523_blocked_by_judge_carlton_reeves.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The prominent senator from Massachusetts believes \"competition is dying\" in America, and anti-competitive mergers are responsible. Sen. Elizabeth Warren says we need more competition in the US. There ...",
+        "upvotes": 1,
+        "url": "http://www.cnet.com/news/senator-warren-says-apple-google-and-amazon-have-too-much-power/"
+      },
+      {
+        "preview": "Weeks after voting in the primaries ended, Bernie Sanders hasn’t conceded defeat and hasn’t officially endorsed presumptive Democratic nominee Hillary Clinton (though he has said he’ll vote for her ag...",
+        "upvotes": 1,
+        "url": "http://www.vox.com/2016/6/30/12073168/bernie-sanders-endorse-hillary-clinton"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Vice President Biden says Bernie SandersBernie SandersDavid Sirota: Pharmaceuticals will try to make Medicare proposal as limited as possible Medicar...",
+        "upvotes": 2,
+        "url": "http://thehill.com/blogs/ballot-box/presidential-races/286206-biden-spills-beans-sanders-will-endorse-clinton"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Wisconsin's Manufacturing and Agriculture Tax Credit is projected to reduce taxes by $209 million for 10,320 individual income tax filers next year. Eleven taxpayers earning more than $35 million a ye...",
+        "upvotes": 46,
+        "url": "http://host.madison.com/news/local/govt-and-politics/taxpayers-making-more-than-million-to-reap-million-from-tax/article_1a86e890-033b-5b4d-a2eb-3e2bcb487dde.html"
+      },
+      {
+        "preview": "After ride-hailing companies descended on Seattle and began slashing drivers’ pay, the City Council stepped in with a novel solution. Supporters of ride share unionization cheer at a meeting when the ...",
+        "upvotes": 8,
+        "url": "https://www.thenation.com/article/a-new-law-is-letting-uber-drivers-unionize/"
+      },
+      {
+        "preview": "Long-awaited assessment of death toll under Obama, criticized as an undercount, acknowledges government does not always know how many civilians it kills Last modified on Fri 14 Jul 2017 15.08 EDT Bara...",
+        "upvotes": 20,
+        "url": "https://www.theguardian.com/us-news/2016/jul/01/obama-drones-strikes-civilian-deaths"
+      }
+    ],
+    "4": [
+      {
+        "preview": "G20 ministers meet in Beijing, but fail to agree despite efforts by the US, China and 200 NGOs Beijing: Energy ministers from the world’s major economies have failed to reach agreement on a deadline t...",
+        "upvotes": 3,
+        "url": "http://gulfnews.com/business/economy/richest-nations-fail-to-agree-on-deadline-to-phase-out-fossil-fuel-subsidies-1.1855763"
+      },
+      {
+        "preview": "Bethany Van Kampen, left, hugs Alejandra Pablus as they celebrate during a rally at the Supreme Court in Washington on June 27, 2016, after the court struck down Texas' widely replicated regulation of...",
+        "upvotes": 49,
+        "url": "http://www.motherjones.com/politics/2016/07/today-abortion-news"
+      },
+      {
+        "preview": "The big Donald Trump news over the holiday weekend was Stargate. This refers not to the TV show, but to the Star of David on top of a pile of money that he retweeted to symbolize how corrupt Hillary C...",
+        "upvotes": 59,
+        "url": "http://www.motherjones.com/kevin-drum/2016/07/donald-trumps-love-affair-white-supremacists"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2014-07",
+  "total_articles": 123,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "obama",
+        "president",
+        "ha",
+        "republican",
+        "percent",
+        "democrat",
+        "american",
+        "wa",
+        "border",
+        "vote",
+        "illegal",
+        "law",
+        "government",
+        "school",
+        "house"
+      ],
+      "topic_weights": [
+        176.84532182602686,
+        146.480456473585,
+        125.61390793659697,
+        100.91436100714776,
+        93.85425010669692,
+        92.73091173911291,
+        87.85525161869644,
+        73.65599805091914,
+        72.33066043158281,
+        67.31431322441101,
+        66.25161068326025,
+        60.892533521136585,
+        60.36298861673645,
+        60.22476858124186,
+        56.50779309976446
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "kerry",
+        "state",
+        "israel",
+        "hamas",
+        "obama",
+        "law",
+        "war",
+        "american",
+        "government",
+        "john",
+        "federal",
+        "president",
+        "white"
+      ],
+      "topic_weights": [
+        203.2197253463326,
+        193.60483291531187,
+        163.81676875309253,
+        101.43219237881145,
+        93.95204080304423,
+        86.13230814834559,
+        81.55932412612074,
+        79.91841347213231,
+        75.0507286365947,
+        67.33651246054124,
+        57.120928778593196,
+        55.7242565250008,
+        52.02258982919163,
+        50.56675004013533,
+        49.32983174181965
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ice",
+        "wa",
+        "clinton",
+        "ha",
+        "warming",
+        "global",
+        "water",
+        "government",
+        "woman",
+        "book",
+        "believe",
+        "sea",
+        "email",
+        "climate",
+        "court"
+      ],
+      "topic_weights": [
+        116.58971791725907,
+        92.42380446801953,
+        92.2442367161873,
+        76.69780381103271,
+        74.02458482036101,
+        73.90868826820474,
+        73.56389906938239,
+        45.7016341302894,
+        44.29914536645635,
+        40.69113551915001,
+        31.269770372719627,
+        30.032143934029428,
+        28.630008997712938,
+        28.160288325039254,
+        27.86544580350804
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "july",
+        "brian",
+        "kennedy",
+        "wa",
+        "woman",
+        "ha",
+        "august",
+        "june",
+        "covid",
+        "female",
+        "march",
+        "september",
+        "change",
+        "january",
+        "february"
+      ],
+      "topic_weights": [
+        99.79307277782377,
+        61.9209962795788,
+        42.27739375587622,
+        37.67075749851578,
+        33.92335122313029,
+        22.37951245483265,
+        21.909818221984317,
+        21.666343084757294,
+        21.351745272421535,
+        20.456209543658325,
+        20.241559522919143,
+        20.22338268658067,
+        19.92057726979271,
+        19.364494317704956,
+        18.662823929264498
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "border",
+        "american",
+        "ha",
+        "irs",
+        "illegal",
+        "obama",
+        "child",
+        "family",
+        "immigration",
+        "state",
+        "alien",
+        "country",
+        "official",
+        "email"
+      ],
+      "topic_weights": [
+        209.41465842061277,
+        127.72433518710116,
+        93.68569721392454,
+        87.77280310960455,
+        82.68764046899274,
+        75.93838316698003,
+        74.87717552852294,
+        67.30086949344292,
+        64.8070785970132,
+        56.318312378277604,
+        52.450400919247514,
+        52.360865315291804,
+        50.585983594339325,
+        48.57641530012979,
+        48.3442912378794
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 38,
+    "4": 41,
+    "1": 26,
+    "2": 12,
+    "3": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The leader of the Mississippi Federation of College Republicans announced Monday morning that he is resigning as chairman of the state organization — and has plans to become a Democrat now. “I am leav...",
+        "upvotes": 8,
+        "url": "http://dailycaller.com/2014/06/30/leader-of-mississippi-college-republicans-resigns-to-join-democrats/"
+      },
+      {
+        "preview": "He actually said this: the system “is so broken” that “folks don’t know what the rules are.\" He was referring to the children’s crusade on our borders that has caused chaos as tens of thousands of peo...",
+        "upvotes": 0,
+        "url": "http://www.americanthinker.com/blog/2014/07/obama_has_got_to_be_kidding.html"
+      },
+      {
+        "preview": "Rep. Robert Pittenger compares Obama's executive actions with those of other historical leaders From King David to Napoleon, each knew the limits of power, Pittenger argues Obama's unilateral actions ...",
+        "upvotes": 10,
+        "url": "http://www.cnn.com/2014/07/01/opinion/pittenger-obama-executive-action/index.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "PILEUS A Classical Liberal Blog on Political Science, Economics, Philosophy, Law, and More This has not been a good Supreme Court term for the Obama administration. Damon Root (Reason) has a quick and...",
+        "upvotes": 2,
+        "url": "http://pileusblog.wordpress.com/2014/07/01/a-return-to-the-culture-wars/"
+      },
+      {
+        "preview": "By Dennis Prager - July 1, 2014 Given how much evil there is in the world; given how many signs of moral, intellectual and economic decline there are here in America; and given the increasing irreleva...",
+        "upvotes": 14,
+        "url": "http://www.realclearpolitics.com/articles/2014/07/01/why_the_lefts_preoccupation_with_the_redskins_123171.html"
+      },
+      {
+        "preview": "America. It used to be a place where speaking English wasn’t just the norm—it was a requirement to ‘make it’ in this country. When my grandfather came to America from Greece (legally, I might add) in ...",
+        "upvotes": 10,
+        "url": "http://townhall.com/tipsheet/leahbarkoukis/2014/07/02/fed-govt-sues-private-business-englishlanguage-requirement-is-discrimination-n1858411"
+      }
+    ],
+    "2": [
+      {
+        "preview": "elieving his global warming BS so that your tax money will keep flowing. Now they are trying to use the bogus argument that sea ice volume is down. Well the news is when it comes to the climate sea ic...",
+        "upvotes": 10,
+        "url": "http://talkingabouttheweather.wordpress.com/2014/07/01/antarctic-sea-ice-hits-second-all-time-record-in-a-week/"
+      },
+      {
+        "preview": "The tour highlights both her strengths and weaknesses for a potential 2016 run. By MAGGIE HABERMAN 07/04/2014 06:48 AM EDT Updated 07/07/2014 06:41 AM EDT From endless coverage of “dead broke” to flag...",
+        "upvotes": 3,
+        "url": "http://www.politico.com/story/2014/07/hillary-clinton-book-tour-108571.html"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 2,
+        "url": "http://www.washingtontimes.com/news/2014/jul/5/hillary-says-exorbitant-university-speaking-fees-g/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "By Darren Boyle Published: 07:36 EDT, 4 July 2014 | Updated: 09:59 EDT, 4 July 2014 View comments The BBC's Editorial Compliance unit has blasted its flagship Today programme over its failure to provi...",
+        "upvotes": 4,
+        "url": "http://www.dailymail.co.uk/news/article-2680370/BBC-slammed-listeners-criticised-compliance-unit-Radio-4-Today-programme-gave-undue-prominence-climate-change-sceptic.html"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 8,
+        "url": "http://www.washingtontimes.com/news/2014/jul/7/chicago-veteran-concealed-weapon-turns-tables-4th-/"
+      },
+      {
+        "preview": "Thanks for contacting us. We've received your submission. Democrats like to pretend they are the “party of women” while their policies and politicians undermine the claim, argues commentator Katie Pav...",
+        "upvotes": 6,
+        "url": "http://nypost.com/2014/07/12/why-liberal-hollywood-hates-women/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 10,
+        "url": "http://dailysignal.com/2014/06/30/texas-mexico-border-view-front-line/?utm_source=facebook&utm_medium=social"
+      },
+      {
+        "preview": "Advertisement Milwaukee has long been a hotbed for student activists assisted by teachers union leaders – mainly Milwaukee Public Schools teacher Bob Peterson. Now with the major influx of immigrants ...",
+        "upvotes": 3,
+        "url": "http://www.progressivestoday.com/undocumented-and-unafraid-milwaukee-amnesty-activists-shut-down-ice-office/"
+      },
+      {
+        "preview": "Advertisement Sheriff Joe Arpaio President Obama should deploy the U.S. military across the Mexican border to work bilaterally to curb illegal immigration, declared Maricopa County, Arizona, Sheriff J...",
+        "upvotes": 3,
+        "url": "http://www.wnd.com/2014/06/sheriff-joe-to-obama-deploy-u-s-military-to-mexico/"
+      }
+    ]
+  }
+}

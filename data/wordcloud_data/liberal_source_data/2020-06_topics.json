@@ -1,0 +1,275 @@
+{
+  "month": "2020-06",
+  "total_articles": 197,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "police",
+        "wa",
+        "officer",
+        "union",
+        "black",
+        "ha",
+        "state",
+        "city",
+        "public",
+        "white",
+        "protest",
+        "law",
+        "american",
+        "floyd",
+        "community"
+      ],
+      "topic_weights": [
+        663.6250595601374,
+        293.6333522382195,
+        242.4865897145095,
+        240.37993637374902,
+        236.02389975883983,
+        213.27407148606073,
+        155.86494314817398,
+        153.3369262906038,
+        140.73581472855597,
+        124.0977860522225,
+        117.10104501799151,
+        113.57237049822702,
+        113.01552942902413,
+        110.54208674719504,
+        106.06016579206188
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "cooky",
+        "information",
+        "website",
+        "point",
+        "policy",
+        "turning",
+        "trump",
+        "ha",
+        "sander",
+        "site",
+        "personal",
+        "service",
+        "american",
+        "action",
+        "browser"
+      ],
+      "topic_weights": [
+        120.0758501272352,
+        95.66539938673903,
+        92.64017969139925,
+        92.43036073438037,
+        77.62601139728918,
+        73.82499179691615,
+        73.06722692919301,
+        64.86079127907618,
+        64.0331261854461,
+        63.77947096268064,
+        62.062058682530264,
+        56.185119904090726,
+        55.27808799983695,
+        50.953322275604165,
+        49.74862019048132
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "report",
+        "wa",
+        "asian",
+        "group",
+        "fbi",
+        "mask",
+        "hate",
+        "editor",
+        "trump",
+        "ha",
+        "violence",
+        "anti",
+        "antifa",
+        "american",
+        "did"
+      ],
+      "topic_weights": [
+        100.44254618779225,
+        90.63264375950469,
+        85.16890758967075,
+        84.68841656560215,
+        73.91430601078949,
+        69.28040449242793,
+        62.92601257220179,
+        57.49258515881551,
+        54.87420766512217,
+        51.82716351764315,
+        49.977149279598244,
+        48.72121972985786,
+        48.120223333379435,
+        47.45216963139483,
+        44.08009086013356
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "vote",
+        "voter",
+        "fraud",
+        "mail",
+        "churchill",
+        "ballot",
+        "adam",
+        "wa",
+        "election",
+        "case",
+        "state",
+        "book",
+        "ha",
+        "florida",
+        "trump"
+      ],
+      "topic_weights": [
+        39.69735836682817,
+        35.067703363821295,
+        28.465925201103094,
+        26.654990350091772,
+        23.344543933240754,
+        21.784667666720097,
+        15.994024408181126,
+        14.677812326062522,
+        13.816196434586788,
+        12.416904516444426,
+        11.955739496948551,
+        10.932288082115095,
+        8.74918936114188,
+        7.924017803820238,
+        7.142671259622659
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "white",
+        "american",
+        "state",
+        "house",
+        "biden",
+        "republican",
+        "jones",
+        "donald",
+        "protest",
+        "protester",
+        "law"
+      ],
+      "topic_weights": [
+        2119.727777494722,
+        903.3406299446814,
+        721.1725988385826,
+        690.2205796714834,
+        324.5910276209672,
+        316.23227231355924,
+        279.66047056948076,
+        263.59870245739575,
+        255.47194600936047,
+        219.0562268259513,
+        215.3228081085171,
+        201.98971121981089,
+        192.80850983931097,
+        191.41643402710585,
+        183.56637629641395
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 46,
+    "4": 137,
+    "1": 7,
+    "3": 1,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "people were shot and killed by police in 2019 This page is no longer regularly updated. For the most comprehensive data on fatal police shootings, click here. Read about our methodology. Download the ...",
+        "upvotes": 28,
+        "url": "https://www.washingtonpost.com/graphics/2019/national/police-shootings-2019/"
+      },
+      {
+        "preview": "Last October, Minneapolis Police Union president Bob Kroll appeared at a Trump rally. Clad in his red “Cops for Trump” T-shirt, Kroll (who has been alleged to be affiliated with white supremacists) gl...",
+        "upvotes": 1,
+        "url": "https://nymag.com/intelligencer/amp/2020/05/trumps-george-floyd-obama-protest-police-violence-kneeling.html"
+      },
+      {
+        "preview": "Police officers, tasked to protect, continue to commit crimes against members of their communities. We despair that it’s driven by deep-rooted racism, which will take generations to end. But the acute...",
+        "upvotes": 1,
+        "url": "https://medium.com/@sashashilko/we-can-end-this-now-9b2faa78a6be?source=friends_link&sk=ba2ed53ee41ab9487ef1d9150de81af1"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A Northrop Grumman technician assembles the fuselage of an F-35 Joint Strike Fighter. Northrop Grumman Marcus Weisgerber As U.S. unemployment reached its highest level since the Great Depression amid ...",
+        "upvotes": 1,
+        "url": "https://www.govexec.com/defense/2020/05/us-defense-firms-hiring-thousands-amid-record-unemployment/165284/"
+      },
+      {
+        "preview": "GitHub getting on board legitimizes movement aimed at removing racially-charged language from software. By Catalin Cimpanu | June 14, 2020 -- 12:11 GMT (05:11 PDT) | Topic: Developer GitHub is working...",
+        "upvotes": 204,
+        "url": "https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/"
+      },
+      {
+        "preview": "Turning Point Action Launches 2020 Expansion, Acquires âStudents for Trumpâ PHOENIX, July 2, 2019â Charlie Kirk, founder and president of the nationâs largest and fastest growing student organ...",
+        "upvotes": 20,
+        "url": "https://trumpstudents.org/convention"
+      }
+    ],
+    "2": [
+      {
+        "preview": "A protester with an antifa flag draped over his shoulders stands at a rally to demand justice for George Floyd and support of the Black Lives Matter movement in Boston on May 31. (Photo by Matthew J. ...",
+        "upvotes": 1119,
+        "url": "https://www.thenation.com/article/activism/antifa-trump-fbi/"
+      },
+      {
+        "preview": "A protester with an antifa flag draped over his shoulders stands at a rally to demand justice for George Floyd and support of the Black Lives Matter movement in Boston on May 31.(Photo by Matthew J. L...",
+        "upvotes": 4,
+        "url": "https://www.thenation.com/article/activism/antifa-trump-fbi/tnamp/?__twitter_impression=true"
+      },
+      {
+        "preview": "Welcome, Months of clear warnings were ignored, and frontline caregivers battling COVID-19 are paying with their lives Reporter US President Donald Trump tours a Honeywell International Inc. factory p...",
+        "upvotes": 1,
+        "url": "https://www.rollingstone.com/politics/politics-features/n95-masks-trump-covid19-coronavirus-health-care-workers-ppe-1013132/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Guidance for the  community and the public on our response to the coronavirus (COVID-19) » Learn more from  scholars about the global response to coronavirus (COVID-19) » As more and more states move ...",
+        "upvotes": 15,
+        "url": "https://www.brookings.edu/blog/fixgov/2020/06/02/low-rates-of-fraud-in-vote-by-mail-states-show-the-benefits-outweigh-the-risks/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "We're here to help! Click here, let us know what's happening and we will be in touch momentarily. Thank you for being patient. Our Panelists About Us COG Sponsors Podcast CPTV On the Air Contact More ...",
+        "upvotes": 1,
+        "url": "https://www.conversationsonthegreen.com/"
+      },
+      {
+        "preview": "Violent demonstrations across the United States bring out a particular weakness in the 45th president. Presidents live within a protective cocoon built and continually fortified for one purpose: keepi...",
+        "upvotes": 1,
+        "url": "https://www.theatlantic.com/politics/archive/2020/05/white-house-protest-trump-black-lives-matter/612418/"
+      },
+      {
+        "preview": "This weekend, as violence and protests over the death of George Floyd shook the country, President Donald Trump called for “law and order.” “We support the overwhelming majority of police officers who...",
+        "upvotes": 1,
+        "url": "https://slate.com/news-and-politics/2020/05/trump-george-floyd-police-rule-of-law-double-standard.html"
+      }
+    ]
+  }
+}

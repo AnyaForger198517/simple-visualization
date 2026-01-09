@@ -1,0 +1,36 @@
+{
+  "month": "2017-12",
+  "total_articles": 141,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Feminism, sexual harassment and Trump election related issues",
+      "core_keywords": ["feminism", "sexual harassment", "woman", "Trump", "election", "men", "advertisement"],
+      "importance_ratio": 24.11
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "North Korea, China and US security council related issues",
+      "core_keywords": ["North Korea", "China", "security", "UN council", "gun", "ship", "Trump"],
+      "importance_ratio": 19.15
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's tax policy and US political party (Democrat/Republican) politics",
+      "core_keywords": ["Trump", "tax", "Democrat", "Republican", "president", "Obama", "America"],
+      "importance_ratio": 43.97
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Seattle housing, rent and property law issues",
+      "core_keywords": ["Seattle", "housing", "rent", "property", "law", "tenant", "discrimination"],
+      "importance_ratio": 2.84
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "US court, military and Trump's executive order issues",
+      "core_keywords": ["court", "Trump", "president", "military", "order", "Washington", "national"],
+      "importance_ratio": 9.93
+    }
+  ]
+}

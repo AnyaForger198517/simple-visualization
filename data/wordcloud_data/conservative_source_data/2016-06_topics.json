@@ -1,0 +1,285 @@
+{
+  "month": "2016-06",
+  "total_articles": 374,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "clinton",
+        "wa",
+        "ha",
+        "hillary",
+        "republican",
+        "vote",
+        "party",
+        "state",
+        "campaign",
+        "june",
+        "president",
+        "election",
+        "democrat",
+        "candidate"
+      ],
+      "topic_weights": [
+        1548.9872069159126,
+        808.9269923016053,
+        717.1912348563663,
+        546.1133141370269,
+        544.2619978550638,
+        433.32536975719626,
+        389.4525401132726,
+        339.49747591153937,
+        338.173092453143,
+        322.97791213583236,
+        294.14675322629466,
+        288.8941327946969,
+        276.6070403203017,
+        271.1126093872554,
+        269.5222467717278
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "plant",
+        "human",
+        "wa",
+        "change",
+        "ha",
+        "level",
+        "climate",
+        "earth",
+        "carbon",
+        "temperature",
+        "increase",
+        "million",
+        "atmosphere",
+        "body",
+        "warming"
+      ],
+      "topic_weights": [
+        257.92359824480377,
+        236.48169936171058,
+        236.16008770790097,
+        219.34427817018886,
+        200.82233409579132,
+        189.38561667727976,
+        187.02654192519685,
+        165.86471212924542,
+        162.47225605077125,
+        138.5500864662805,
+        137.84266223381334,
+        136.9855160391067,
+        134.86144774461795,
+        131.88703010679137,
+        126.70061768200068
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "muslim",
+        "wa",
+        "attack",
+        "ha",
+        "terrorist",
+        "american",
+        "country",
+        "islamic",
+        "state",
+        "woman",
+        "islam",
+        "police",
+        "orlando",
+        "security",
+        "group"
+      ],
+      "topic_weights": [
+        593.9015519304426,
+        430.6403512135862,
+        285.049002090817,
+        266.956768246019,
+        262.6442707901095,
+        241.8915558116088,
+        240.3504831033043,
+        238.9054083599937,
+        204.77798492691522,
+        173.87107822104184,
+        164.8597106890588,
+        164.66289175766326,
+        162.31681825464864,
+        161.59500603814422,
+        157.59043871042223
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "reply",
+        "post",
+        "posted",
+        "private",
+        "view",
+        "advertisement",
+        "texas",
+        "eagle",
+        "california",
+        "liberal",
+        "standard",
+        "illegal",
+        "video",
+        "free",
+        "alien"
+      ],
+      "topic_weights": [
+        762.4313822672059,
+        331.4409521534299,
+        299.8859062620308,
+        269.9798277294624,
+        263.84242871528977,
+        258.6555259344183,
+        183.25995252193422,
+        141.60313029294383,
+        137.41168937078328,
+        111.02823666041526,
+        106.23606632948263,
+        105.98913757891212,
+        101.39251521915605,
+        98.72157625481603,
+        91.3148959345678
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "government",
+        "gun",
+        "state",
+        "law",
+        "public",
+        "right",
+        "american",
+        "property",
+        "doe",
+        "case",
+        "libertarian",
+        "court",
+        "political"
+      ],
+      "topic_weights": [
+        913.4090257222368,
+        561.6221851125837,
+        535.3748381306449,
+        487.6195969733059,
+        446.42549510577027,
+        398.8299556292644,
+        307.70133237936216,
+        258.73583874904347,
+        257.29507529979514,
+        244.90710443197725,
+        223.5334653660712,
+        223.49705692318616,
+        217.71591622755685,
+        214.08059793761203,
+        210.25493500772603
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 133,
+    "4": 117,
+    "2": 96,
+    "1": 9,
+    "3": 19
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day in Liberal Judicial Activism—September 12 The Supreme Court in the American Constitutional Order ...",
+        "upvotes": 37,
+        "url": "http://www.nationalreview.com/article/436040/hillary-clinton-email-scandal-justice-department-joe-biden-elizabeth-warren-robert-torricelli"
+      },
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 31,
+        "url": "http://www.washingtontimes.com/news/2016/may/31/donald-trump-hillary-clinton-tied-new-hampshire-po/"
+      },
+      {
+        "preview": "Bill Kristol hopes to make David French a presidential candidate Kristol has searched for an alternative to Donald Trump and Hillary Clinton Bill Kristol’s white knight independent presidential candid...",
+        "upvotes": 15,
+        "url": "http://www.cnn.com/2016/05/31/politics/bill-kristol-david-french-independent-presidential-bid/index.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Advertisement Supported by By Sabrina Tavernise WASHINGTON — The death rate in the United States rose last year for the first time in a decade, preliminary federal data show, a rare increase that was ...",
+        "upvotes": 47,
+        "url": "http://www.nytimes.com/2016/06/01/health/american-death-rate-rises-for-first-time-in-a-decade.html?_r=0"
+      },
+      {
+        "preview": "lls Bio Cremation. “We’re only at about 12 or 13 states,” he explains. “The definition cremation needs to be expanded to include the word chemical or dissolution. Once you add that to the definition, ...",
+        "upvotes": 1,
+        "url": "http://observer.com/2016/06/remains-of-the-day-the-burial-industry-breaks-new-ground/"
+      },
+      {
+        "preview": "The liberal green groups are celebrating the \"victory\" of putting America's major coal producers out of business -- to say nothing of the tens of thousands of miners placed in unemployment lines. Seve...",
+        "upvotes": 34,
+        "url": "http://www.realclearpolitics.com/articles/2016/06/07/clinton_and_sanders_plan_to_destroy_10_million_jobs_130801.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The number of illegal alien children caught at the border only to be released into the United States so far this year continues to see massive spikes, on track to more than double last year’s numbers ...",
+        "upvotes": 15,
+        "url": "http://www.mrctv.org/blog/admin-releases-more-illegal-alien-kids-last-6-mos-entire-fy2015"
+      },
+      {
+        "preview": "VIENNA (Reuters) - Far-right parties in some European countries are winning over Jewish voters by exploiting fears about militant Islamists and mainstream parties must do much more to address European...",
+        "upvotes": 3,
+        "url": "https://www.yahoo.com/news/far-parties-winning-over-jewish-voters-top-rabbi-203747603.html"
+      },
+      {
+        "preview": "LOS ANGELES — The latest stop on Milo Yiannopoulous’s “Dangerous Faggot Tour” at the University of California Los Angeles (UCLA) was blocked by protests at the beginning, and evacuated by a bomb threa...",
+        "upvotes": 184,
+        "url": "http://www.breitbart.com/california/2016/06/01/milo-yiannopoulos-event-end-with-a-bomb-threat/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement On Tuesday Donald Trump attacked activist Judge Gonzalo Curiel, the anti-Trump judge who allowed a class action lawsuit to proceed against him, as a “hater.” Judge Curiel was nominated b...",
+        "upvotes": 4,
+        "url": "http://www.thegatewaypundit.com/2016/06/activist-la-raza-judge-released-documents-trump-u-case-now-trying-reseal/"
+      },
+      {
+        "preview": "Advertisement Sweden admitted 163,000 asylum seekers in 2015. Of those 163,000 migrants only 494 have jobs. The rest are living off of they system. In January Sweden announced the country was planning...",
+        "upvotes": 44,
+        "url": "http://www.thegatewaypundit.com/2016/05/sweden-only/"
+      },
+      {
+        "preview": "Advertisement Democrats and their allies in media have been obsessing on Trump University for weeks now while completely ignoring a major scandal involving Hillary and Bill Clinton’s relationship to a...",
+        "upvotes": 7,
+        "url": "http://www.thegatewaypundit.com/2016/06/heres-hillary-university-scandal-no-one-media-talking/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Joe Weisberg, creator of the TV series “The Americans,” (Wednesdays, 10 PM on the FX Network – current and previous seasons available on Amazon and iTunes Store) worked at one time for the CIA. He bec...",
+        "upvotes": 5,
+        "url": "http://www.americanthinker.com/articles/2016/05/eighties_america_through_the_eyes_of_kgb_deep_cover_agents_emthe_americanse_.html"
+      },
+      {
+        "preview": "Dartmouth University’s Alumni Relations department has concluded that no student will be punished for the Black Lives Matter incident last year, where activists stormed a library on campus and hurled ...",
+        "upvotes": 61,
+        "url": "http://www.breitbart.com/tech/2016/05/31/no-punishment-for-black-lives-matter-protesters-harrassing-dartmouth-students/"
+      },
+      {
+        "preview": "On Monday I wrote a column explaining my revolutionary position that human beings are more important than apes. I felt it necessary to write a piece elaborating on this provocative concept after witne...",
+        "upvotes": 30,
+        "url": "http://www.theblaze.com/contributions/one-human-is-more-important-than-a-million-gorillas-and-we-all-know-it/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2020-07",
+  "total_articles": 109,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Police and Racial Justice Social Issues",
+      "core_keywords": ["police", "black", "white", "blm", "riot", "health", "family"],
+      "importance_ratio": 0.3028
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Federal Law and State Security Policies",
+      "core_keywords": ["federal law", "security", "portland", "border", "enforcement", "legislation", "president"],
+      "importance_ratio": 0.2110
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2020 Election and Racial Politics",
+      "core_keywords": ["trump", "biden", "black", "president", "america", "justice", "country"],
+      "importance_ratio": 0.3761
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Police Department and Local Governance",
+      "core_keywords": ["police officer", "election", "statue", "church", "local", "attorney", "law"],
+      "importance_ratio": 0.0550
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump Administration and National Security",
+      "core_keywords": ["trump", "fbi", "gun violence", "russian", "intelligence", "president", "trade"],
+      "importance_ratio": 0.0551
+    }
+  ]
+}

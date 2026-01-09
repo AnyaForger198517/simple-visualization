@@ -1,0 +1,285 @@
+{
+  "month": "2020-03",
+  "total_articles": 141,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "president",
+        "country",
+        "ha",
+        "wa",
+        "campus",
+        "texas",
+        "drug",
+        "reform",
+        "government",
+        "university",
+        "professor",
+        "tech",
+        "comment",
+        "federal"
+      ],
+      "topic_weights": [
+        143.5873445174453,
+        127.21427394811455,
+        109.66287966109486,
+        89.24304073660163,
+        88.04342655818901,
+        74.21550421167416,
+        61.62717223930567,
+        58.89580063906378,
+        58.42449396532429,
+        49.13397701816071,
+        47.315323446118974,
+        46.77600877331915,
+        46.75138027163438,
+        46.15222305933745,
+        45.87097976857931
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "coronavirus",
+        "ha",
+        "wa",
+        "state",
+        "virus",
+        "country",
+        "president",
+        "trump",
+        "week",
+        "test",
+        "spread",
+        "death",
+        "health",
+        "case",
+        "advertisement"
+      ],
+      "topic_weights": [
+        373.0159624919575,
+        293.7219153924647,
+        272.8385325272681,
+        244.06817377928883,
+        220.019865822719,
+        206.77004643891726,
+        165.16906132357192,
+        160.94000288780353,
+        153.3777204243629,
+        143.3387489999815,
+        136.58263435747338,
+        135.6380722073088,
+        135.22278109386542,
+        128.3607998349133,
+        127.20303752554555
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "march",
+        "italy",
+        "twitter",
+        "tweet",
+        "obamacare",
+        "digital",
+        "covid",
+        "bank",
+        "italian",
+        "support",
+        "user",
+        "google",
+        "service",
+        "dollar",
+        "individual"
+      ],
+      "topic_weights": [
+        23.158565517557246,
+        18.104766203439127,
+        12.685908665086124,
+        12.307696570999086,
+        11.309181628898532,
+        10.981975426983817,
+        10.667402564380044,
+        9.1168768409829,
+        9.102609914631769,
+        8.387465460170292,
+        7.5635103502813275,
+        7.563358307091562,
+        7.446942083435769,
+        7.005978220345785,
+        6.957358426171303
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "biden",
+        "ha",
+        "sander",
+        "trump",
+        "democratic",
+        "man",
+        "president",
+        "joe",
+        "march",
+        "news",
+        "candidate",
+        "work",
+        "told",
+        "campaign"
+      ],
+      "topic_weights": [
+        142.67283669070036,
+        109.309100289404,
+        63.80451676135659,
+        45.083408417092684,
+        38.6539619028411,
+        38.19436296086491,
+        35.45234775100051,
+        35.39323703488125,
+        34.67259042671108,
+        33.27986641423242,
+        32.77639328098055,
+        31.378611779709576,
+        31.186861531692834,
+        30.440154945113925,
+        29.51723465020322
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "democrat",
+        "american",
+        "senate",
+        "state",
+        "pelosi",
+        "house",
+        "email",
+        "wa",
+        "government",
+        "worker",
+        "tax",
+        "economic",
+        "republican",
+        "business",
+        "free"
+      ],
+      "topic_weights": [
+        46.23100083290808,
+        40.15506742567641,
+        38.46933918256661,
+        35.865560284138915,
+        28.681735986032738,
+        28.503698666139936,
+        28.22974444931011,
+        27.692502744285115,
+        25.712922177281072,
+        24.045213710291037,
+        22.15463360179262,
+        21.398084849838764,
+        21.100081015402782,
+        21.015685354367218,
+        19.008837052727582
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 50,
+    "1": 57,
+    "4": 21,
+    "0": 7,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "D.C. swamp-creature Berin Szóka sparked outrage on Monday when he tweeted that it would be “poetic justice” if President Trump died of the Wuhan Coronavirus. But who is Berin Szóka? Szóka is the presi...",
+        "upvotes": 31,
+        "url": "https://www.breitbart.com/tech/2020/03/11/google-funded-tech-lobbyist-berin-szoka-apologizes-for-post-about-trump-dying-from-coronavirus/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The U.S.-led military coalition in Iraq is withdrawing some troops in part over the coronavirus pandemic, the coalition confirmed Friday. “The coalit...",
+        "upvotes": 7,
+        "url": "https://thehill.com/policy/defense/488618-us-led-coalition-in-iraq-drawing-down-over-coronavirus-concerns"
+      },
+      {
+        "preview": "As the pandemic caused by the Chinese Communist Party (CCP) forces college and university lectures online, left-wing academics in the United States are apparently nervous about the possibility that wh...",
+        "upvotes": 37,
+        "url": "https://www.theepochtimes.com/professors-worry-about-new-scrutiny-as-ccp-virus-forces-classes-online_3281900.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "AMORIO, Greece (AP) – Over the years, villagers who live near Greece’s border with Turkey got used to seeing small groups of people enter their country illegally. The Greek residents often offered the...",
+        "upvotes": 228,
+        "url": "https://www.breitbart.com/europe/2020/03/07/greece-local-volunteers-rally-around-police-army-help-detain-illegals/#"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 33,
+        "url": "https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2020/03/08/tapper-gets-schooled-surgeon-general-white-house-virus"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 0,
+        "url": "https://www.nationalreview.com/corner/krauthammer-on-pandemics/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Defend free speech and individual liberty online. Push back against big tech and media gatekeepers. Twitter has announced that it will be cracking down on coronavirus conversations and forcing users t...",
+        "upvotes": 17,
+        "url": "https://reclaimthenet.org/twitter-coronavirus-expert-guidance/amp/"
+      },
+      {
+        "preview": "On March 16, former U.S. Ambassador to the United Nations Nikki Haley sent a letter to the CEO of Boeing, as well as the chairman of the board, announcing her resignation from the board of directors. ...",
+        "upvotes": 352,
+        "url": "https://www.dailywire.com/news/nikki-haley-resigns-from-boeing-board-cannot-support-asking-gov-for-a-bailout"
+      },
+      {
+        "preview": "Posted at 7:57 pm on March 21, 2020 by Brett T. While the media is concerned with President Trump’s optimism perhaps sending false hope to the American people, it seems the American people like positi...",
+        "upvotes": 1199,
+        "url": "https://twitchy.com/brettt-3136/2020/03/21/journalist-who-called-president-trumps-tweet-ignorant-snake-oil-drivel-gets-schooled-by-actual-doctor/"
+      }
+    ],
+    "3": [
+      {
+        "preview": ".com by: Eryn Taylor, Luke Jones SOUTHAVEN, Miss. — A Mississippi man was charged with insurance fraud after he reported racist graffiti had been spray-painted on two of his vehicles. Southaven office...",
+        "upvotes": 1,
+        "url": "https://wreg.com/news/southaven-man-who-reported-racist-graffiti-on-vehicles-charged-with-insurance-fraud/"
+      },
+      {
+        "preview": "You can also follow us on Facebook, Twitter and Instagram. Fake news you can trust, delivered straight to your inbox. U.S.—A new poll shows that the nation is feeling much more optimistic about the fu...",
+        "upvotes": 107,
+        "url": "https://babylonbee.com/news/nation-optimistic-about-future-now-that-all-presidential-candidates-projected-to-die-of-old-age-before-election"
+      },
+      {
+        "preview": "In February, California mailed 3.7m primary ballots that, to the astonishment of many who received them, excluded the presidential candidates. These ballots do have candidates for all other primary ra...",
+        "upvotes": 27,
+        "url": "https://www.yahoo.com/news/californias-rules-independent-party-voters-204604808.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "In 2015, the elected Montana Legislature passed a law giving Montanans a tax credit for donating to student scholarship organizations (SSOs), which help low-income parents pay for their children's pri...",
+        "upvotes": 21,
+        "url": "https://www.americanthinker.com/articles/2020/03/the_creeping_transmutation_of_property_rights.html"
+      },
+      {
+        "preview": "Former US President Barack Obama attends a town hall meeting at the ‘European School For Management And Technology’ (ESMT) in Berlin, Germany, Saturday, April 6, 2019. (AP Photo/Michael Sohn) Nancy Pe...",
+        "upvotes": 84,
+        "url": "https://www.redstate.com/elizabeth-vaughn/2020/03/09/the-obama-administration-changed-democratic-party-it-was-then-that-they-became-the-party-of-thugs/"
+      },
+      {
+        "preview": "Speaker of the House Nancy Pelosi (D-CA) allegedly sought to include a provision in the coronavirus economic stimulus bill that would have directed funding to abortion clinics in violation of federal ...",
+        "upvotes": 316,
+        "url": "https://disrn.com/news/report-pelosi-sought-to-cover-abortion-clinics-as-part-of-coronavirus-bill"
+      }
+    ]
+  }
+}

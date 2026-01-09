@@ -1,0 +1,285 @@
+{
+  "month": "2014-09",
+  "total_articles": 133,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "history",
+        "did",
+        "child",
+        "fact",
+        "saying",
+        "book",
+        "evidence",
+        "committee",
+        "black",
+        "report",
+        "long",
+        "war",
+        "holder"
+      ],
+      "topic_weights": [
+        596.136098565621,
+        238.93096313841505,
+        174.01647059662608,
+        93.24397857612243,
+        91.84671402189988,
+        79.95541089242617,
+        70.32013804314747,
+        69.86146937921957,
+        68.06879860239619,
+        63.77587551097631,
+        62.89637040103479,
+        61.6679199122044,
+        61.02469988476832,
+        60.991797257098064,
+        56.99351072883215
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "medium",
+        "gun",
+        "control",
+        "liberty",
+        "group",
+        "american",
+        "ha",
+        "personal",
+        "twitter",
+        "government",
+        "policy",
+        "free",
+        "york",
+        "america",
+        "politics"
+      ],
+      "topic_weights": [
+        87.19496123077515,
+        78.71236625573633,
+        78.16159713939004,
+        73.38771886032055,
+        67.16478709689841,
+        51.792766879832136,
+        50.41793831819143,
+        50.141853685775146,
+        48.303004474063385,
+        45.554528871512,
+        43.102992075591864,
+        41.19352202819204,
+        40.11946856601545,
+        39.184659263486665,
+        39.09603359704119
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "percent",
+        "republican",
+        "democrat",
+        "state",
+        "constitution",
+        "american",
+        "obama",
+        "democratic",
+        "agree",
+        "president",
+        "independent",
+        "cost",
+        "point",
+        "conservative",
+        "political"
+      ],
+      "topic_weights": [
+        512.0759040777284,
+        248.11344190787642,
+        202.7031231787906,
+        140.33096539893523,
+        136.95863803059927,
+        131.20779356638374,
+        111.10623173124871,
+        110.38586069126605,
+        107.68944611020305,
+        107.33642519544121,
+        106.24165707160711,
+        92.99513740727937,
+        85.564845131892,
+        84.5738915926117,
+        83.72082426689482
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "president",
+        "obama",
+        "isi",
+        "syria",
+        "iraq",
+        "isil",
+        "did",
+        "threat",
+        "wa",
+        "official",
+        "iraqi",
+        "intelligence",
+        "ha",
+        "country",
+        "news"
+      ],
+      "topic_weights": [
+        139.48337787825156,
+        111.59521178699359,
+        107.87537988660483,
+        98.29587947264852,
+        86.30022929712946,
+        86.25453581881388,
+        70.18689010143918,
+        64.94085051160967,
+        64.6745122564595,
+        62.89577993772019,
+        53.80812577319425,
+        50.41699055349403,
+        47.210898831661424,
+        46.24532727205045,
+        44.17563908923607
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "log",
+        "using",
+        "account",
+        "commenting",
+        "change",
+        "email",
+        "likeliked",
+        "speech",
+        "post",
+        "video",
+        "real",
+        "address",
+        "today",
+        "likelike",
+        "country"
+      ],
+      "topic_weights": [
+        85.32103024633497,
+        81.69474248224388,
+        76.16526900051934,
+        74.59352763142132,
+        73.18381147223582,
+        59.31743901668035,
+        50.354481085796785,
+        47.40476032568462,
+        45.28626777353905,
+        39.54943256511309,
+        36.78995388001859,
+        35.856085340908294,
+        35.812142842388724,
+        35.500338006168974,
+        35.428435328141376
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 11,
+    "0": 91,
+    "3": 17,
+    "4": 8,
+    "1": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Ground beef. (AP) (.com) – The average price for all types of ground beef per pound hit its all-time high -- $3.884 per pound -- in the United States in July, according to data released today by the B...",
+        "upvotes": 1,
+        "url": "http://cnsnews.com/news/article/ali-meyer/average-price-ground-beef-hits-all-time-high"
+      },
+      {
+        "preview": "It’s a fact of life that the video games industry is awash with marginalised, troubled people who have found it difficult to manage their lives in mainstream society. It’s particularly the case when y...",
+        "upvotes": 1,
+        "url": "http://www.breitbart.com/Breitbart-London/2014/09/01/Lying-Greedy-Promiscuous-Feminist-Bullies-are-Tearing-the-Video-Game-Industry-Apart"
+      },
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 2,
+        "url": "http://www.nationalreview.com/corner/386799/biden-uses-take-back-america-phrase-obama-and-holder-think-racist-joel-gehrke"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Secretary Kerry says he's \"totally unaware, would not condone\" alleged threats. 'We Had to Beg': James Foley's Family Slams Administration Over Hostage Crisis — -- The mother of slain American journal...",
+        "upvotes": 64,
+        "url": "http://abcnews.go.com/International/government-threatened-foley-family-ransom-payments-mother-slain/story?id=25453963"
+      },
+      {
+        "preview": "New York City councilman and State Assembly shoo-in Charles Barron has reiterated his admiration of dictators and said he hopes to host one of them — Zimbabwe’s Robert Mugabe — in the states … again. ...",
+        "upvotes": 17,
+        "url": "http://dailycaller.com/2014/09/18/ny-dem-all-my-heroes-were-americas-enemies/"
+      },
+      {
+        "preview": "The Latest Politics, News & Election Videos BILL OREILLY: While the nation's attention is rightly focused on the ISIS terror threat, a more important issue for all Americans is the economy. And now th...",
+        "upvotes": 13,
+        "url": "http://www.realclearpolitics.com/video/2014/09/18/oreilly_its_not_pleasant_to_be_poor_but_americans_are_not_destitute.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sign In Manage Newsletters Shameless politicians use 9/11 to lecture America about “unity” Biden’s forced COVID-19 vaccine attack on minorities Dems’ totalitarian overreach threatens Americans’ liveli...",
+        "upvotes": 1,
+        "url": "http://www.washingtontimes.com/news/2014/aug/31/inside-the-beltway-the-senate-horse-race-promising/"
+      },
+      {
+        "preview": "Two sets of polls released Sunday find an edge for the GOP in a closely contested Senate midterm environment, although they differ on the size of that advantage. A set of online CBS/New York Times/You...",
+        "upvotes": 4,
+        "url": "http://www.huffingtonpost.com/2014/09/07/gop-senate-polls_n_5779658.html"
+      },
+      {
+        "preview": "Sep. 7, 2014, at 3:15 PM By Nate Silver Filed under 2014 Midterms Mark Wilson / Getty Images Pollsters are picking up the pace after a slow start in this midterm election season. Sunday featured the r...",
+        "upvotes": 5,
+        "url": "http://fivethirtyeight.com/datalab/polls-show-path-of-least-resistance-to-gop-majority/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Did Barack Obama really get surprised by the rise of ISIS and its capabilities to fight militarily — or did he just ignore the threat? Fox News’ Catherine Herridge reports that a former Pentagon offic...",
+        "upvotes": 58,
+        "url": "http://hotair.com/archives/2014/09/02/fox-news-obama-briefed-for-more-than-a-year-on-isis-as-serious-threat/"
+      },
+      {
+        "preview": "Conservative commentator Pat Buchanan warned against becoming too involved in the conflict between Islamist and secular forces in Iraq, Syria and throughout the Middle East, urging those in power to “...",
+        "upvotes": 4,
+        "url": "http://dailycaller.com/2014/09/03/pat-buchanan-do-not-send-another-american-army-into-iraq-video/"
+      },
+      {
+        "preview": "Queen Of Liberty™ An Originalists view of The World We Live In Today Enter your email address to follow this blog and receive notifications of new posts by email. Email Address: Free Subscription A gr...",
+        "upvotes": 12,
+        "url": "http://queenofliberty.com/2014/09/03/convention-of-states-no-the-necessary-and-proper-clause-does-not-empower-congress-to-control-an-amendments-convention/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "ADVERTISEMENT Sexual entrapment a common tactic SHARE Cuba’s communist-led intelligence services are aggressively recruiting leftist American academics and university professors as spies and influence...",
+        "upvotes": 3,
+        "url": "http://freebeacon.com/national-security/fbi-cuban-intelligence-aggressively-recruiting-leftist-american-academics-as-spies-influence-agents/"
+      },
+      {
+        "preview": "Preferred pronouns, white privilege, Vassar has it all. Jennifer Kabbany of the College Fix reports. If you’ve ever wondered what goes on at freshmen orientation sessions at small liberal arts college...",
+        "upvotes": 13,
+        "url": "http://collegeinsurrection.com/2014/09/vassar-college-freshman-orientation-is-a-celebration-of-all-things-progressive/"
+      },
+      {
+        "preview": "Advertisement Former Secretary of State Hillary Clinton As the Benghazi Select Committee gears up for its first open hearing on Wednesday, the author of a newsmaking book on the Sept. 11, 2012, attack...",
+        "upvotes": 1,
+        "url": "http://www.wnd.com/2014/09/answer-me-this-hillary-benghazis-lingering-bombshells/#98wJf4rhjfVAjv1S.99"
+      }
+    ]
+  }
+}

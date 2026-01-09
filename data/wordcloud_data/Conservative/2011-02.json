@@ -1,0 +1,36 @@
+{
+  "month": "2011-02",
+  "total_articles": 10,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Republican Conservative Political Gameplay",
+      "core_keywords": ["Republican", "conservative", "liberal", "Senate", "state legislation", "McCain", "Texas", "Ohio", "judicial checks and balances"],
+      "importance_ratio": 30.00
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Public Sector Unions vs. Government Fiscal Disputes",
+      "core_keywords": ["public unions", "government finance", "state deficits", "taxation", "public employees", "Obama", "Republican", "benefit cuts", "austerity"],
+      "importance_ratio": 10.00
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Tea Party Movement: Tax & Anti-Government Protests",
+      "core_keywords": ["Tea Party movement", "anti-government", "tax protests", "grassroots movement", "American spirit", "healthcare bill", "power expansion"],
+      "importance_ratio": 10.00
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "State-Federal Government Power Struggle",
+      "core_keywords": ["state rights", "federal power", "Wisconsin", "Governor Walker", "budget reform", "legislative voting", "healthcare bill opposition"],
+      "importance_ratio": 40.00
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "National Extension of Public Union Reform",
+      "core_keywords": ["union reform", "Wisconsin", "labor policy", "national demonstration effect", "public sector", "power checks and balances", "conservative media discourse"],
+      "importance_ratio": 10.00
+    }
+  ]
+}

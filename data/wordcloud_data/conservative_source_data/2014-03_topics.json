@@ -1,0 +1,285 @@
+{
+  "month": "2014-03",
+  "total_articles": 119,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "ha",
+        "obama",
+        "wa",
+        "state",
+        "president",
+        "democrat",
+        "percent",
+        "party",
+        "voter",
+        "conservative",
+        "american",
+        "government",
+        "political",
+        "house"
+      ],
+      "topic_weights": [
+        214.53608486563996,
+        203.40893388223986,
+        187.22637112870356,
+        186.07257516579813,
+        159.2875617271157,
+        150.6658974475947,
+        149.1022263867457,
+        108.39013295777178,
+        101.42707965248744,
+        99.93152734027507,
+        91.97788299637236,
+        87.47933891790953,
+        87.09783059678396,
+        82.85199312301646,
+        76.07748576705622
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "military",
+        "wa",
+        "state",
+        "ha",
+        "america",
+        "yee",
+        "lerner",
+        "obama",
+        "law",
+        "world",
+        "california",
+        "fbi",
+        "report",
+        "food",
+        "parent"
+      ],
+      "topic_weights": [
+        80.24646835418677,
+        77.96715983905732,
+        71.1752017696999,
+        48.036110570543336,
+        47.70178247106746,
+        37.58530109168442,
+        31.749082859006318,
+        31.373719976933835,
+        28.48486688263686,
+        28.388874056048106,
+        27.75647352024262,
+        27.072195854082743,
+        25.926850069073815,
+        25.275846970720053,
+        24.79847542244728
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "game",
+        "ha",
+        "woman",
+        "american",
+        "law",
+        "player",
+        "immigration",
+        "frozen",
+        "problem",
+        "ingraham",
+        "ellmers",
+        "point",
+        "group",
+        "idea",
+        "page"
+      ],
+      "topic_weights": [
+        88.1161314678003,
+        48.610306997287076,
+        41.97058937227973,
+        39.759198133283334,
+        34.604921569014806,
+        28.82032791021087,
+        28.287815182982243,
+        27.8341229983861,
+        27.737691808367646,
+        27.352874262282878,
+        27.346132199214686,
+        23.838142167214023,
+        22.177975873749116,
+        21.636032561580922,
+        21.38319957105097
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "income",
+        "state",
+        "police",
+        "wa",
+        "ha",
+        "syrian",
+        "student",
+        "obama",
+        "email",
+        "using",
+        "life",
+        "log",
+        "amendment",
+        "change",
+        "advertisement"
+      ],
+      "topic_weights": [
+        45.272834761255055,
+        31.087276516257198,
+        30.73796528619029,
+        29.241253936557264,
+        25.94262601687091,
+        22.02289189563527,
+        20.77462249878085,
+        20.41835804342511,
+        20.249419683375606,
+        18.484131307166347,
+        18.066421034152228,
+        16.241856286161656,
+        15.794431947610363,
+        14.882630114648272,
+        14.836623160928173
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "woman",
+        "health",
+        "gosnell",
+        "law",
+        "government",
+        "american",
+        "federal",
+        "obama",
+        "insurance",
+        "ha",
+        "state",
+        "million",
+        "child",
+        "kermit"
+      ],
+      "topic_weights": [
+        102.70734127149689,
+        86.78562898150824,
+        74.22223755568734,
+        69.66624968885499,
+        67.82559461718552,
+        63.38522416377662,
+        58.187837458806094,
+        53.709942596378376,
+        52.14773120500639,
+        50.99812695647452,
+        48.25539339708045,
+        47.77348897689981,
+        46.612751082300214,
+        45.22712256200377,
+        43.79006182271066
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 61,
+    "1": 23,
+    "4": 16,
+    "2": 9,
+    "3": 10
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "(Image credit: Shutterstock) After a week filled with heated media discussions on religious liberty, Mollie Hemingway provides a devastating critique of how, legislation aside, our media and culture a...",
+        "upvotes": 0,
+        "url": "http://blog.acton.org/archives/66313-religious-liberty-economic-freedom-either.html"
+      },
+      {
+        "preview": "I read a lot of dumb stories featuring ridiculous faux outrage everyday. But this one…it stands out in a sea of ridiculous faux outrage. Gubernatorial candidate Greg Abbott was met by supporters at th...",
+        "upvotes": 18,
+        "url": "http://pjmedia.com/tatler/2014/02/27/apparently-greg-abbott-need-democrats-permission-to-go-to-lubbock/"
+      },
+      {
+        "preview": "ADVERTISEMENT Column: Obama crony Jim Messina is in the empire business SHARE Earlier this week, inside a ballroom at the luxury Mandarin Oriental hotel in D.C., President Obama met with Organizing fo...",
+        "upvotes": 1,
+        "url": "http://freebeacon.com/lucky-jim/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The browser or device you are using is out of date. It has known security flaws and a limited feature set. You will not see all the features of some websites. Please update your browser. A list of the...",
+        "upvotes": 1,
+        "url": "http://america.aljazeera.com/articles/2014/2/28/idaho-gov-signs-aggagbillintolaw.html"
+      },
+      {
+        "preview": "When I was growing up in a Midwestern farming village, several World War I, World War II, and Korean War vets lived there. As a teenager, I worked for some of those men. I was struck by their opinions...",
+        "upvotes": 12,
+        "url": "http://www.americanthinker.com/2014/02/what_gutting_the_us_military_means.html"
+      },
+      {
+        "preview": "It’s not exactly breaking news that the federal government is riddled with fraud, waste and abuse. Daily headlines highlight corruption within federal agencies and inform us about everything from empl...",
+        "upvotes": 5,
+        "url": "http://www.thefiscaltimes.com/Articles/2014/03/03/Meet-Federal-Government-s-Fraudulent-Five"
+      }
+    ],
+    "2": [
+      {
+        "preview": "WASHINGTON, D.C. -- Although several parts of the Affordable Care Act have yet to be implemented, 23% of Americans say the healthcare law has hurt them or their families, while 10% say it has helped t...",
+        "upvotes": 2,
+        "url": "http://www.gallup.com/poll/167756/number-americans-saying-aca-hurt-inches.aspx"
+      },
+      {
+        "preview": "Ellmers, under fire on amnesty from calm but insistent questioning from Ingraham, called her host “small minded,” “ignorant,” and claimed to be the author of a ubiquitious immigration talking point, a...",
+        "upvotes": 2,
+        "url": "http://www.breitbart.com/Big-Government/2014/03/13/Renee-Ellmers-thinks-for-herself-Congresswoman-calls-Ingraham-ignorant-small-minded-in-Pro-Amnesty-Meltdown"
+      },
+      {
+        "preview": "We’re sorry, this service is currently unavailable. Please try again later. This was published 7 years ago China is reconsidering plans for a carbon tax as local air pollution trumps concerns over cli...",
+        "upvotes": 5,
+        "url": "http://www.smh.com.au/business/carbon-economy/china-reconsiders-carbon-tax-citing-australias-planned-repeal-20140313-34nfp.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Sarah Palin, insprired by Ted Cruz who read “Green Eggs and Ham” during his filibuster last year, rewrote the Dr. Seuss classic during her speech this afternoon at CPAC 2014. This was a ...",
+        "upvotes": 6,
+        "url": "http://www.thegatewaypundit.com/2014/03/sarah-palin-rewrites-dr-seuss-at-cpac-2014-i-do-not-like-this-uncle-sam-i-do-not-like-his-health-care-scam-video/"
+      },
+      {
+        "preview": "March 8, 2014 by Dan Mitchell In recent weeks, I’ve pontificated on Obama’s spendthrift budget, Congressman Dave Camp’s timid tax reform plan, and the corrupt cronyism of Washington. I got to elaborat...",
+        "upvotes": 13,
+        "url": "http://danieljmitchell.wordpress.com/2014/03/08/assessing-president-obamas-economic-agenda/"
+      },
+      {
+        "preview": "(AP graphic) “Income inequality is worse in blue states, and has also grown more quickly in those areas over the past 10 years,” according to the study, entitled “Blue states have the income-inequalit...",
+        "upvotes": 86,
+        "url": "http://cnsnews.com/news/article/barbara-hollingsworth/study-income-inequality-greater-growing-faster-blue-states"
+      }
+    ],
+    "4": [
+      {
+        "preview": "That’s according to a survey conducted by McKinsey, not according to HHS’s official figures. And why, you ask, are we forced to rely on McKinsey for this information rather than on the feds? Because, ...",
+        "upvotes": 6,
+        "url": "http://hotair.com/archives/2014/03/06/just-one-in-10-uninsured-who-qualify-for-obamacare-exchange-plans-have-signed-up/"
+      },
+      {
+        "preview": "What’s hiding behind the administration’s statistics on the “newly insured.” Another round of inconvenient realities have gotten in the way of the ObamaCare rollout. A report issued by a major union a...",
+        "upvotes": 4,
+        "url": "http://patriotpost.us/opinion/23921"
+      },
+      {
+        "preview": "Voters in November might be ready to show Democrats what they think about removing choice and hiking costs, as well as their arrogance in determining that a few politicians in Washington know better a...",
+        "upvotes": 6,
+        "url": "http://hotair.com/archives/2014/03/14/great-news-80-of-employers-have-or-may-raise-deductibles-thanks-to-obamacare/"
+      }
+    ]
+  }
+}

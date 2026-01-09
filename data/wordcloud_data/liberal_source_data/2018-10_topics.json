@@ -1,0 +1,285 @@
+{
+  "month": "2018-10",
+  "total_articles": 216,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "president",
+        "wa",
+        "ha",
+        "republican",
+        "party",
+        "american",
+        "political",
+        "publication",
+        "white",
+        "fact",
+        "border",
+        "news",
+        "country",
+        "saudi"
+      ],
+      "topic_weights": [
+        927.611925177838,
+        373.57199373893616,
+        323.9966036860274,
+        298.7377946731948,
+        263.6587172471134,
+        169.15088519469123,
+        151.4875179424357,
+        151.473962585031,
+        143.24236089987278,
+        139.80160102348162,
+        138.8068718317741,
+        129.24985635410567,
+        125.03784203149539,
+        123.89101851437105,
+        123.21147810740337
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "kavanaugh",
+        "court",
+        "ha",
+        "trump",
+        "ford",
+        "collins",
+        "woman",
+        "republican",
+        "supreme",
+        "senate",
+        "vote",
+        "senator",
+        "president",
+        "fbi"
+      ],
+      "topic_weights": [
+        376.40903581175843,
+        364.37258579972865,
+        216.91419763155002,
+        185.47979659064794,
+        138.86194192242965,
+        133.3038007336977,
+        125.6948759164677,
+        125.10428445637223,
+        124.45034296288651,
+        120.76017590696634,
+        111.70382872094643,
+        111.38368589755434,
+        107.64840616426439,
+        98.06960858339019,
+        95.22842213791556
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "election",
+        "voter",
+        "ha",
+        "republican",
+        "candidate",
+        "campaign",
+        "vote",
+        "democrat",
+        "race",
+        "wa",
+        "million",
+        "percent",
+        "bolsonaro",
+        "getty"
+      ],
+      "topic_weights": [
+        264.22205457525376,
+        236.0735606231739,
+        231.6194383710045,
+        210.63798117416954,
+        207.0964616698604,
+        143.31215590324314,
+        136.0641584209328,
+        128.64340895516892,
+        120.91502105665182,
+        115.97515718767683,
+        110.4809240916463,
+        109.1436704345686,
+        99.2938191212928,
+        96.9859521706208,
+        96.78205492201307
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "trump",
+        "american",
+        "white",
+        "state",
+        "government",
+        "news",
+        "administration",
+        "family",
+        "president",
+        "america",
+        "policy",
+        "group",
+        "national"
+      ],
+      "topic_weights": [
+        495.5343948244062,
+        382.36820331274936,
+        287.5058662942213,
+        203.06914788819756,
+        187.08135813633567,
+        117.1139819768413,
+        111.0661581877783,
+        110.42380120034956,
+        109.74778148542367,
+        106.58543758291458,
+        105.35927792246119,
+        103.95439635009778,
+        102.67235681721034,
+        96.85197528463537,
+        88.48512597713092
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "tax",
+        "wa",
+        "fred",
+        "million",
+        "woman",
+        "story",
+        "donald",
+        "father",
+        "estate",
+        "building",
+        "ha",
+        "rage",
+        "pain",
+        "child"
+      ],
+      "topic_weights": [
+        516.3629906953806,
+        232.38568981423563,
+        199.18528671651623,
+        178.5737158983259,
+        165.20885605631335,
+        147.91980752729722,
+        146.86679387830276,
+        111.83998754484173,
+        89.17405019859945,
+        75.0586524163395,
+        73.93484302640668,
+        70.4324565377252,
+        64.42224133754178,
+        63.50305176762396,
+        62.49363353393001
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 92,
+    "1": 52,
+    "2": 44,
+    "4": 8,
+    "0": 20
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Stay plugged into Penn with this daily newsletter rounding up all of the top headlines from top headlines from the DP, 34th Street, and Under the Button. Free. 34th Street Magazine's \"Toast\" to dear o...",
+        "upvotes": 2,
+        "url": "https://www.thedp.com/article/2018/10/biden-2020-democrat-upenn-gutmann-spencer-swanson"
+      },
+      {
+        "preview": "President Donald Trump arrives to speak during a \"Make America Great Again\" rally Wednesday in Erie, Pa. Fox News and the other cable news networks did not carry his speech live. | Mandel Ngan/AFP/Get...",
+        "upvotes": 23,
+        "url": "https://www.politico.com/story/2018/10/10/trump-tv-ratings-fox-news-891621"
+      },
+      {
+        "preview": "Tawakkol Karman, the Nobel Peace Prize laureate for 2011, holds a picture of missing Saudi writer Jamal Khashoggi as she speaks to journalists near the Saudi Arabia consulate in Istanbul, Turkey, on O...",
+        "upvotes": 2,
+        "url": "http://www.chicagotribune.com/news/nationworld/ct-trump-saudi-arabia-arms-sales-20181011-story,amp.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": ".com WE'VE CORNERED THE MARKET ON GRASSROOTS DEM THOUGHT After the last minute maneuver by GOP Senator Jeff Flake of Arizona that led President Trump to order the FBI to look into the sexual misconduc...",
+        "upvotes": 1,
+        "url": "http://grassrootsdempolitics.com/index.php/2018/09/30/the-fbi-must-investigate-kavanaughs-debt/"
+      },
+      {
+        "preview": "John Oliver broke the “Last Week Tonight” format and turned the entire show into “one long recap of one very long week.” The main topic was the Senate Judiciary Committee hearings on Judge Brett Kavan...",
+        "upvotes": 28,
+        "url": "https://www.huffingtonpost.com/entry/john-oliver-brett-kavanaugh_us_5bb1c10fe4b0343b3dc194af"
+      },
+      {
+        "preview": "Tarquin and Lucretia by Titian I hesitate to comment on the current spectacle surrounding the nomination of Bret Kavanaugh to the Supreme Court since my words are unlikely to sway anyone’s mind. Still...",
+        "upvotes": 1,
+        "url": "https://reasonandmeaning.com/2018/09/30/kavanaugh-is-obviously-guilty-of-sexual-assault/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "© First Look Institute. All rights reserved First Look Institute is a 501(c)(3) nonprofit organization. Texas Republican Sen. Ted Cruz, locked in a heated battle for re-election, is once again touting...",
+        "upvotes": 2,
+        "url": "https://theintercept.com/2018/10/01/ted-cruz-lobbyist-google/"
+      },
+      {
+        "preview": "Amazon announced Tuesday it's raising the minimum wage for all U.S. employees to $15, effective next month. The new minimum wage will benefit more than 250,000 Amazon employees — including part-time a...",
+        "upvotes": 10,
+        "url": "https://www.cnbc.com/2018/10/02/amazon-raises-minimum-wage-to-15-for-all-us-employees.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Pollster Emily Ekins said on Wednesday that young people who came of \"political age\" during the Trump era will likely be Democrats for the rest of th...",
+        "upvotes": 7,
+        "url": "https://thehill.com/hilltv/what-americas-thinking/409722-young-people-who-came-of-political-age-during-trump-likely-to"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Select this reward Yuge thanks for your Amazing generosity, supporting the Greatest book about Kindergarten-Politics! By pledging you agree to 's Terms of Use, Privacy Policy, and Cookie Policy. It's ...",
+        "upvotes": 1,
+        "url": "https://www.kickstarter.com/projects/kindertrump/kindertrump-vol1?ref=category&ref=discovery"
+      },
+      {
+        "preview": "The announcement comes immediately on the heels of Democratic California Gov. Jerry Brown’s decision to sign the bill into law. | Lukas Schulze/Getty Images Technology The decision sets up a high stak...",
+        "upvotes": 5,
+        "url": "https://www.politico.com/story/2018/09/30/doj-sues-california-net-neutrality-854298"
+      },
+      {
+        "preview": "st? None. One percent, maybe.” The source added, “Who is going to go work in the dairy? Who? Tell me who? If people have papers, they are going to go to a good company where you can get benefits, you ...",
+        "upvotes": 75,
+        "url": "https://www.esquire.com/news-politics/amp23471864/devin-nunes-family-farm-iowa-california/?__twitter_impression=true"
+      }
+    ],
+    "4": [
+      {
+        "preview": "During his first debate against Hillary Clinton in September 2016, then-presidential candidate Donald Trump repeated a claim he had often made before in defense of his image as a self-made billionaire...",
+        "upvotes": 1262,
+        "url": "https://www.cnbc.com/2018/10/02/trumps-small-loan-from-his-father-was-more-like-60point7-million-nyt.html"
+      },
+      {
+        "preview": "New York state tax officials are investigating allegations detailed in an exhaustive New York Times investigation into Donald Trump and his family's business dealings. The Times reported on Tuesday th...",
+        "upvotes": 10,
+        "url": "https://www.cnbc.com/2018/10/02/new-york-state-tax-department-reviewing-fraud-allegations-involving-trump-in-nyt-article.html"
+      },
+      {
+        "preview": "By DAVID BARSTOW, SUSANNE CRAIG and RUSS BUETTNER OCT. 2, 2018 The president has long sold himself as a self-made billionaire, but a Times investigation found that he received at least $413 million in...",
+        "upvotes": 23,
+        "url": "https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html"
+      }
+    ]
+  }
+}

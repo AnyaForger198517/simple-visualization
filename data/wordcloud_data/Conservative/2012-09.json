@@ -1,0 +1,36 @@
+{
+  "month": "2012-09",
+  "total_articles": 118,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Federal Reserve and Economic Policy",
+      "core_keywords": ["fed", "bank", "money", "economy", "job", "mortgage", "asset"],
+      "importance_ratio": 0.0169
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Benghazi Attack and Obama Administration Response",
+      "core_keywords": ["obama", "benghazi", "libya", "attack", "white house", "government", "muslim"],
+      "importance_ratio": 0.2288
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2012 Presidential Election and Party Politics",
+      "core_keywords": ["obama", "romney", "democrat", "republican", "campaign", "president", "clinton"],
+      "importance_ratio": 0.6356
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Gun Laws and Legal Cases",
+      "core_keywords": ["gun", "law", "case", "firearm", "state", "business", "money"],
+      "importance_ratio": 0.0763
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Federal Debt and Government Spending",
+      "core_keywords": ["government", "debt", "spending", "tax", "money", "obama", "federal"],
+      "importance_ratio": 0.0424
+    }
+  ]
+}

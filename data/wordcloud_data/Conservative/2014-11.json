@@ -1,0 +1,36 @@
+{
+  "month": "2014-11",
+  "total_articles": 95,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Election Polling and Voter Analysis",
+      "core_keywords": ["poll", "election", "voter", "percent", "state", "senate", "democrat"],
+      "importance_ratio": 0.0737
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Racial Tensions and Public Security",
+      "core_keywords": ["black", "police", "gun", "riot", "ferguson", "law", "american"],
+      "importance_ratio": 0.0842
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Party Politics and Presidential Governance",
+      "core_keywords": ["obama", "republican", "democrat", "senate", "election", "government", "obamacare"],
+      "importance_ratio": 0.4632
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Election Results and Political Comments",
+      "core_keywords": ["obama", "gun", "vote", "won", "change", "account", "endorsed"],
+      "importance_ratio": 0.1158
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Media and Public Health Issues",
+      "core_keywords": ["gruber", "obamacare", "police", "cbs", "health", "video", "american"],
+      "importance_ratio": 0.2632
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2012-03",
+  "total_articles": 125,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "law",
+        "mother",
+        "state",
+        "jones",
+        "congress",
+        "court",
+        "health",
+        "power",
+        "ha",
+        "wa",
+        "care",
+        "national",
+        "act",
+        "insurance",
+        "authority"
+      ],
+      "topic_weights": [
+        215.01590719051077,
+        161.97481204846287,
+        160.83885817931855,
+        159.24067472065286,
+        148.4742245865754,
+        146.25547579967588,
+        136.82936576518892,
+        131.80531456714638,
+        128.13256502301536,
+        122.20017327375332,
+        117.12069345336609,
+        116.52596885246798,
+        110.98398564896169,
+        110.01704482902058,
+        107.69645789817274
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "liberal",
+        "wa",
+        "limbaugh",
+        "state",
+        "ha",
+        "liberalism",
+        "woman",
+        "tax",
+        "political",
+        "society",
+        "government",
+        "social",
+        "fluke",
+        "individual",
+        "liberty"
+      ],
+      "topic_weights": [
+        177.79894730221827,
+        147.64812510113254,
+        124.11185072759383,
+        87.19317559865597,
+        84.74625003770333,
+        83.16244288479518,
+        76.13921540892945,
+        72.04686636662834,
+        63.677451495413294,
+        58.164870884784385,
+        57.54451122841565,
+        55.93958214774291,
+        49.777656710952584,
+        48.56645000769859,
+        46.97066424990422
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "woman",
+        "slave",
+        "reproductive",
+        "freedom",
+        "abortion",
+        "amendment",
+        "slavery",
+        "story",
+        "wa",
+        "ha",
+        "personhood",
+        "garlic",
+        "movement",
+        "right",
+        "control"
+      ],
+      "topic_weights": [
+        260.169859502165,
+        101.10499227995258,
+        100.93836378895406,
+        88.44915148486686,
+        79.87349117658754,
+        78.6065157160813,
+        67.42054674825548,
+        64.8212916584229,
+        60.411533071163944,
+        54.607766547335366,
+        54.55419029761956,
+        54.45389147328918,
+        50.72799364882435,
+        48.34347976768258,
+        46.84706698639458
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "ha",
+        "wa",
+        "price",
+        "country",
+        "president",
+        "nsa",
+        "obama",
+        "world",
+        "law",
+        "million",
+        "government",
+        "money",
+        "standard",
+        "foreign",
+        "oil"
+      ],
+      "topic_weights": [
+        168.32950260248097,
+        166.28309799203777,
+        65.0817867201652,
+        64.04354130297796,
+        63.467461636255635,
+        63.28896780148731,
+        61.806915297456534,
+        59.792653607239295,
+        59.44051825044966,
+        56.95848891294107,
+        56.35688095760448,
+        52.72645771243513,
+        51.145907945142355,
+        50.71302509553693,
+        47.62504431784499
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "state",
+        "ha",
+        "republican",
+        "breitbart",
+        "public",
+        "law",
+        "site",
+        "likelike",
+        "government",
+        "voter",
+        "gop",
+        "conservative",
+        "election",
+        "post"
+      ],
+      "topic_weights": [
+        433.0069282093449,
+        345.55966037102974,
+        230.1449699476047,
+        159.14738684010524,
+        148.48608433789903,
+        129.652602748236,
+        123.48688590382903,
+        117.13518875614929,
+        116.1486273084538,
+        107.89995830655423,
+        104.38574748945112,
+        101.45305114861277,
+        101.39656822755109,
+        98.52133157268031,
+        98.46095103769295
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 53,
+    "3": 24,
+    "0": 25,
+    "1": 17,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The Great Falls Tribune reported Wednesday that Richard Cebull, a George W. Bush-appointed federal judge in Montana, sent a racist joke about President Barack Obama from his official email account. Ev...",
+        "upvotes": 8,
+        "url": "http://motherjones.com/mojo/2012/03/see-racist-email-sent-out-federal-judge"
+      },
+      {
+        "preview": "Red'Arc Farm in Direct, TexasPhoto courtesy of Julia Trigg Crawford The debate over the Keystone XL pipeline has moved from the White House to a farm in Texas. Third-generation farmer Julia Trigg Craw...",
+        "upvotes": 5,
+        "url": "http://motherjones.com/blue-marble/2012/02/texas-farmer-takes-transcanada"
+      },
+      {
+        "preview": "Portland Action LabToday, occupiers in 80 American cities will hold the movement’s largest coordinated demonstration since fall: a huge protest against the American Legislative Exchange Council. Never...",
+        "upvotes": 3,
+        "url": "http://motherjones.com/mojo/2012/02/alec-occupy-wall-street-protest-f29"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Desktop notifications are on | Turn off Get breaking news alerts from The Washington Post Turn on desktop notifications? Wading further into an escalating contraception battle that has put Republicans...",
+        "upvotes": 94,
+        "url": "http://www.washingtonpost.com/blogs/election-2012/post/obama-calls-sandra-fluke-georgetown-law-student-assailed-by-rush-limbaugh/2012/03/02/gIQAIoW0mR_blog.html"
+      },
+      {
+        "preview": "[oldembed width=\"425\" height=\"300\"   resize=\"1\" fid=\"10\"] Find more of Rush Limbaugh's statements at Media Matters. Rush Limbaugh has made his considerable fortune from espousing extreme righ-twing vi...",
+        "upvotes": 3,
+        "url": "http://crooksandliars.com/nonny-mouse/it-s-time-stop-rush-limbaugh"
+      },
+      {
+        "preview": "Oh, Rush, you disgusting gasbag of fail: I think it is absolutely absurd that during these very serious political times, we are discussing personal sexual recreational activities before members of Con...",
+        "upvotes": 32,
+        "url": "http://www.dailykos.com/story/2012/03/03/1070697/-Rush-Limbaugh-apologizes-if-any-sluts-were-offended-by-being-called-sluts"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Search Rewire News Group Go Use quotes to search for exact phrases. Use AND/OR/NOT between keywords or phrases for more precise search results. News Abortion Sep 10, 2021 Jessica Mason Pieklo More on ...",
+        "upvotes": 73,
+        "url": "http://www.rhrealitycheck.org/article/2012/03/13/new-media-rule-107-censorship-has-opposite-desired-effect"
+      },
+      {
+        "preview": "Sen. Ryan McDougle's Facebook page is shown. Facebook users \"Sarcasm bombed\" the walls of Sam Brownback and Ryan McDougle in protest of anti-abortion legislation. (Image credit:Facebook) Facebook user...",
+        "upvotes": 25,
+        "url": "http://abcnews.go.com/blogs/headlines/2012/03/republican-politicians-sarcasm-bombed-with-female-health-details-on-facebook-walls/"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 1,
+        "url": "http://www.examiner.com/feminism-and-relationships-in-chicago/the-republican-party-is-gonna-party-like-it-s-1899"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Jump to main content Jump to navigation Lately, there have been a lot of misleading claims about gas prices. As middle class families are struggling with high prices at the pump, a result of increased...",
+        "upvotes": 5,
+        "url": "http://www.whitehouse.gov/blog/2012/02/29/fact-check-all-above-approach-american-energy"
+      },
+      {
+        "preview": "Your FP Insider Access: The Taliban’s takeover in Kabul has all the makings of a Pyrrhic victory. A tribute to Gail Omvedt, a white American sociologist who left Dalits in mourning. Lisbon’s macroecon...",
+        "upvotes": 39,
+        "url": "http://www.foreignpolicy.com/articles/2012/02/29/grand_ayatollah_or_grand_old_party"
+      },
+      {
+        "preview": "Jump to main content Jump to navigation America’s dependence on foreign oil has gone down every single year since President Obama took office. In 2010, we imported less than 50 percent of the oil our ...",
+        "upvotes": 8,
+        "url": "http://www.whitehouse.gov/blog/2012/03/01/our-dependence-foreign-oil-declining"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The Frog Blogg by Spencer Hayes (February 29, 2012 – Lansing, MI)… As another “Super” day of Presidential primaries comes and goes, the behemoth that is the Romney campaign continues to crush everythi...",
+        "upvotes": 34,
+        "url": "http://thefrogblogg.wordpress.com/2012/02/29/romney-surges-in-polls-despite-lack-of-support-from-everyone-in-america/"
+      },
+      {
+        "preview": "Advertisement Supported by By Jennifer Steinhauer WASHINGTON — Citing excessive partisanship and a dispiriting political environment, Senator Olympia J. Snowe, a three-term Republican from Maine, said...",
+        "upvotes": 10,
+        "url": "http://www.nytimes.com/2012/02/29/us/politics/snowe-opts-not-to-seek-re-election-in-maine.html?_r=1"
+      },
+      {
+        "preview": "A hybrid travelogue/collection of essays in the spirit of Montaigne as I try to figure out human nature while living in southern France. Like Montaigne, I write for myself, and this is a format where ...",
+        "upvotes": 6,
+        "url": "http://carriagewit.blogspot.com/2012/02/idiocracy-corruption-of-american-dream.html"
+      }
+    ]
+  }
+}

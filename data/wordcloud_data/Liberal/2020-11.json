@@ -1,0 +1,36 @@
+{
+  "month": "2020-11",
+  "total_articles": 133,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Community Life and Social Aid Issues",
+      "core_keywords": ["community", "life", "work", "family", "aid", "labor", "law", "common"],
+      "importance_ratio": 0.0301
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Pandemic Response and Federal Policies",
+      "core_keywords": ["pandemic", "covid", "state", "biden", "trump", "president", "senate", "american"],
+      "importance_ratio": 0.5564
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Social Identity and Personal Narratives During Pandemic",
+      "core_keywords": ["identity", "black", "woman", "video", "life", "personal", "pandemic", "world"],
+      "importance_ratio": 0.0150
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump Administration and Federal Agency Actions",
+      "core_keywords": ["trump", "administration", "agency", "justice", "barr", "bank", "company", "official"],
+      "importance_ratio": 0.0977
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2020 Presidential Election and Partisan Conflict",
+      "core_keywords": ["trump", "biden", "election", "voter", "republican", "democrat", "vote", "ballot"],
+      "importance_ratio": 0.3008
+    }
+  ]
+}

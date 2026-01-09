@@ -1,0 +1,275 @@
+{
+  "month": "2019-10",
+  "total_articles": 142,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "sidewalk",
+        "company",
+        "data",
+        "service",
+        "book",
+        "community",
+        "document",
+        "ha",
+        "comment",
+        "tax",
+        "letter",
+        "wa",
+        "including",
+        "site",
+        "state"
+      ],
+      "topic_weights": [
+        129.3539386730204,
+        99.17087106094932,
+        95.65556348940147,
+        84.70204768034891,
+        72.17782657940754,
+        66.63421209931599,
+        62.48899833205503,
+        62.460730019558724,
+        61.81472508322388,
+        57.136935777498074,
+        51.66184179218429,
+        45.103283409057525,
+        42.78655588691132,
+        41.84646888794122,
+        41.07570246625824
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "court",
+        "state",
+        "house",
+        "law",
+        "abortion",
+        "president",
+        "supreme",
+        "investigation",
+        "official",
+        "case",
+        "ha",
+        "administration",
+        "lawyer"
+      ],
+      "topic_weights": [
+        316.7900272467222,
+        302.16437168337535,
+        272.10544126062916,
+        216.19293774945524,
+        178.70543617756954,
+        173.7733555502429,
+        159.1139237596005,
+        151.691368463825,
+        140.00864509886244,
+        111.87991819581578,
+        107.89252379013087,
+        105.23969056760407,
+        104.61493794962236,
+        104.43733315931698,
+        104.3829021660289
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "school",
+        "plan",
+        "warren",
+        "education",
+        "yang",
+        "public",
+        "student",
+        "fbi",
+        "high",
+        "ha",
+        "candidate",
+        "program",
+        "issue",
+        "district",
+        "federal"
+      ],
+      "topic_weights": [
+        21.279591658491,
+        13.611392720751581,
+        13.593791488260681,
+        12.818452722160607,
+        10.837581206769517,
+        7.89668828356838,
+        6.536980627106574,
+        6.370270599783088,
+        4.944739846932418,
+        4.181813754062391,
+        3.8732402686159064,
+        3.7654097352965525,
+        3.6100145392884135,
+        3.081176033684974,
+        3.0229788196028253
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "policy",
+        "wa",
+        "ha",
+        "growth",
+        "drug",
+        "trump",
+        "family",
+        "child",
+        "spending",
+        "trade",
+        "rate",
+        "member",
+        "economy",
+        "income",
+        "democrat"
+      ],
+      "topic_weights": [
+        152.4999875809631,
+        125.25250893757875,
+        109.16812781147874,
+        108.76270171616734,
+        106.708219282332,
+        105.87586388557307,
+        91.48612122239697,
+        88.53360535148427,
+        88.4575282723497,
+        85.0311621771419,
+        81.33439041760636,
+        80.4651747504294,
+        79.85129340097194,
+        78.9063443851422,
+        72.0621402228416
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "house",
+        "biden",
+        "impeachment",
+        "republican",
+        "ukraine",
+        "white",
+        "campaign",
+        "election",
+        "political",
+        "democrat",
+        "zelensky"
+      ],
+      "topic_weights": [
+        819.6892261728276,
+        500.99419393083144,
+        455.3514577066587,
+        259.5453377361402,
+        242.92076647621352,
+        215.06903590227682,
+        213.6843774026468,
+        200.66991593836775,
+        190.22589622686442,
+        165.80065157407296,
+        163.67270507003045,
+        130.8223277835302,
+        119.4245823465334,
+        118.76566233410496,
+        102.04382813254419
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 7,
+    "4": 93,
+    "3": 19,
+    "1": 22,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The Politicus Create | Share | Influence Home » Trump is losing his damn mind over the whistleblower. Again Lordy, lordy, look who’s at it again:   Dude, the whistleblower’s complaint was the start of...",
+        "upvotes": 1,
+        "url": "https://thepoliticus.com/2019/09/30/trump-is-losing-his-damn-mind-over-the-whistleblower-again/"
+      },
+      {
+        "preview": "Americans on average spent more on taxes in 2018 than they did on the basic necessities of food, clothing and health care combined, according to the Bureau of Labor Statistics Consumer Expenditure Sur...",
+        "upvotes": 2,
+        "url": "https://www.cnsnews.com/commentary/terence-p-jeffrey/americans-spent-more-taxes-2018-food-clothing-and-health-care-combined?fbclid=IwAR0w0Ki7TwgqpDMYQ2n0JKsG6qDW0z32ljCHDp7h7R9-l2MhAcUsQuoQano"
+      },
+      {
+        "preview": "Quality plumbing services are just a phone call away. Contact South Florida's plumbing experts at 305-367-3225 for immediate plumbing solutions. Serving South Florida from Key Largo since 2002. At Sea...",
+        "upvotes": 1,
+        "url": "https://www.seawayplumbing.com/service-areas"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Front page layout Site theme Sign up or login to join the discussions! Jon Brodkin - Oct 1, 2019 3:09 pm UTC A federal appeals court today upheld the Federal Communications Commission's repeal of net ...",
+        "upvotes": 1,
+        "url": "https://arstechnica.com/tech-policy/2019/10/net-neutrality-still-dead-but-judges-rule-that-fcc-cant-preempt-state-laws/"
+      },
+      {
+        "preview": "This article is more than 1 year old A veteran federal judge on Monday warned U.S. prosecutors either to charge former acting FBI director Andrew McCabe or to drop their investigation into whether he ...",
+        "upvotes": 0,
+        "url": "https://www.washingtonpost.com/local/legal-issues/judge-to-doj-decide-on-charging-andrew-mccabe-by-nov-15-or-face-release-of-fbi-records/2019/10/01/3e169168-e3c4-11e9-a331-2df12d56a80b_story.html"
+      },
+      {
+        "preview": "'s Who Counts? series is made possible by the support of  Plus members and readers like you. Luxury cabanas atop Austin’s JW Marriott kept state legislators cool poolside as August-in-Texas temperatur...",
+        "upvotes": 224,
+        "url": "https://slate.com/news-and-politics/2019/10/alec-meeting-gerrymandering-audio-recording.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Presidential candidate Sen. Elizabeth Warren (D-Mass.) released a sweeping K-12 education plan Monday, unveiling proposals designed to chip away at school segregation, beat back high-stakes testing an...",
+        "upvotes": 0,
+        "url": "https://www.huffpost.com/entry/elizabeth-warren-education-plan_n_5dacfaffe4b0422422c73a78"
+      }
+    ],
+    "3": [
+      {
+        "preview": "CLOSE 2020  Redistricting Data Now Available. Income and Poverty Income and Poverty Median household income for the United States and 14 states increased significantly in 2018 from the previous year, ...",
+        "upvotes": 1,
+        "url": "https://www.census.gov/library/stories/2019/09/us-median-household-income-up-in-2018-from-2017.html"
+      },
+      {
+        "preview": "ates on public debt. Interest rates exceeded growth rates for most of the 1980s and 1990s and early 2000s, but fell back below growth rates in the aftermath of the Great Recession. Figure C shows the ...",
+        "upvotes": 0,
+        "url": "https://www.epi.org/publication/what-fiscal-responsibility-should-mean/"
+      },
+      {
+        "preview": "An award-winning team of journalists, designers, and videographers who tell brand stories through Fast Company's distinctive lens The future of innovation and technology in government for the greater ...",
+        "upvotes": 240,
+        "url": "https://www.fastcompany.com/90411540/andrew-yang-proposes-that-your-digital-data-be-considered-personal-property"
+      }
+    ],
+    "4": [
+      {
+        "preview": "If there one thing is absolutely certain about Donald Trump, it's that he's a liar. When the Washington Post last updated its Trump fact-checker on Aug. 5, Trump was up to an average 13 false claims a...",
+        "upvotes": 1,
+        "url": "https://www.salon.com/2019/09/30/does-donald-trump-really-believe-all-those-conspiracy-theories-depends-what-you-mean-by-believe/"
+      },
+      {
+        "preview": "New York Rep. Chris Collins submitted his resignation from Congress on Monday, one day ahead of his expected guilty plea to federal charges in an insider trading case, according to the House Speaker’s...",
+        "upvotes": 11,
+        "url": "https://www.cnn.com/2019/09/30/politics/chris-collins-guilty-plea/index.html"
+      },
+      {
+        "preview": "This article is more than 1 year old The number of House Republicans forgoing reelection bids next year grew to 20 on Monday, as Rep. Mac Thornberry, the top Republican on the House Armed Services Com...",
+        "upvotes": 339,
+        "url": "https://www.washingtonpost.com/powerpost/rep-thornberry-top-republican-on-armed-services-announces-retirement-plans/2019/09/30/e70239f8-e392-11e9-a6e8-8759c5c7f608_story.html"
+      }
+    ]
+  }
+}

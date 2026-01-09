@@ -1,0 +1,285 @@
+{
+  "month": "2015-06",
+  "total_articles": 288,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "woman",
+        "american",
+        "flag",
+        "black",
+        "gun",
+        "party",
+        "story",
+        "state",
+        "democrat",
+        "science",
+        "country",
+        "world",
+        "life"
+      ],
+      "topic_weights": [
+        656.2156559721111,
+        333.11793097458843,
+        232.28464700392624,
+        222.87881729847726,
+        197.62461186050666,
+        187.1686807357054,
+        179.94619668690567,
+        162.02012843321126,
+        152.7281562308738,
+        146.0843396694035,
+        143.1394517730677,
+        142.78426794757814,
+        138.0919700133644,
+        136.77622274576285,
+        135.88558851940348
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "court",
+        "law",
+        "marriage",
+        "wa",
+        "government",
+        "supreme",
+        "ha",
+        "justice",
+        "sex",
+        "constitution",
+        "right",
+        "gay",
+        "american",
+        "decision"
+      ],
+      "topic_weights": [
+        585.791087563483,
+        493.96433916415333,
+        447.8910271355525,
+        398.8292457794126,
+        367.1904085931574,
+        315.5682244064294,
+        270.3964226626283,
+        254.2150217201066,
+        235.70074711566104,
+        212.27105439806337,
+        198.1572592181518,
+        192.2898525963292,
+        176.89830470939643,
+        175.41031940753246,
+        162.62547873266607
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "school",
+        "teacher",
+        "student",
+        "wa",
+        "city",
+        "ha",
+        "job",
+        "percent",
+        "state",
+        "tax",
+        "government",
+        "tenure",
+        "poor",
+        "education",
+        "law"
+      ],
+      "topic_weights": [
+        344.32767192662675,
+        269.5211411987772,
+        228.66339995643898,
+        201.68045503920652,
+        194.6217975750626,
+        145.37300380022648,
+        111.79427925469625,
+        108.43382324908356,
+        104.84877499973712,
+        101.69913977167585,
+        101.28500692273228,
+        101.18442554523345,
+        99.96143258447222,
+        94.2423917442407,
+        84.56701466880787
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "bush",
+        "email",
+        "cruz",
+        "president",
+        "dolezal",
+        "rove",
+        "white",
+        "news",
+        "black",
+        "ha",
+        "attorney",
+        "post",
+        "texas",
+        "wrote"
+      ],
+      "topic_weights": [
+        349.54659105391187,
+        181.7902889179727,
+        157.217765824118,
+        154.72284538224423,
+        136.60070967743033,
+        132.8650037462315,
+        131.41733227549173,
+        118.7017177818776,
+        103.29246609051367,
+        82.08649863560362,
+        79.02475621977877,
+        76.05163973545068,
+        70.41807847609897,
+        66.22287305746974,
+        63.117373158026
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "obama",
+        "ha",
+        "republican",
+        "wa",
+        "clinton",
+        "president",
+        "state",
+        "hillary",
+        "house",
+        "percent",
+        "campaign",
+        "deal",
+        "democrat",
+        "party",
+        "news"
+      ],
+      "topic_weights": [
+        326.9527908467269,
+        294.0957177513397,
+        233.75127609221684,
+        225.33046580046326,
+        209.03416782696905,
+        198.7433238915255,
+        184.23519553211418,
+        149.2781558072602,
+        136.6713226427045,
+        125.13020175169505,
+        124.78444206277109,
+        119.86925857199364,
+        119.35645255254536,
+        118.42168382088738,
+        116.49769159485606
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 40,
+    "0": 93,
+    "4": 79,
+    "1": 52,
+    "3": 24
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved The Justice Department plans to move forward this year with more than a dozen new gun-related regulations, according to list of rules the agency has ...",
+        "upvotes": 40,
+        "url": "http://thehill.com/regulation/243520-administration-preps-new-gun-regulations"
+      },
+      {
+        "preview": "As I mentioned in a recent article, I was interested in attending Comicon because from the outside I saw some interesting similarities and differences. This piece is about one similarity in particular...",
+        "upvotes": 6,
+        "url": "http://www.breitbart.com/big-hollywood/2015/05/30/comicon-and-the-mythical-war-on-women/"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 20,
+        "url": "http://www.nationalreview.com/article/418831/defend-position-you-must-understand-both-sides-dennis-prager?target=author&tid=900932"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Blogging “celebrity” Wayne Dupree gave all bloggers a bad name today by literally stealing word for word from a Washington Examiner article. In his opinion piece posted today on his eponymous website,...",
+        "upvotes": 1,
+        "url": "http://redmaryland.com/2015/05/maryland-blogger-cites-sources-without-attribution/"
+      },
+      {
+        "preview": "Mark Meckler was a guest on The Schilling Show last week, where he discussed the Convention of States Project with host Rob Schilling. Mark discussed the recent victory in Alabama, ongoing efforts in ...",
+        "upvotes": 4,
+        "url": "https://selfgovern.com/conservatism-mark-meckler-schilling-show/"
+      },
+      {
+        "preview": "A pair of decisions handed down by federal appeals courts in the last month highlight two telling pillars of recent U.S. national security strategy. They are: open our border and collect everyone's ph...",
+        "upvotes": 5,
+        "url": "http://cnsnews.com/commentary/terence-p-jeffrey/open-our-border-then-collect-everyones-phone-records"
+      }
+    ],
+    "2": [
+      {
+        "preview": "CNBC releasedÂ an interviewÂ Tuesday with presidential candidate Sen. Bernie Sanders (I-Vt.) in which he discussed what it means to have a moral economy in the U.S. As is so often the case with the se...",
+        "upvotes": 64,
+        "url": "http://mic.com/articles/119630/bernie-sanders-wants-to-tax-the-rich-at-90-here-s-why-that-s-not-so-crazy?fb_action_ids=10153362311127431&fb_action_types=og.shares"
+      },
+      {
+        "preview": "Jump to content Stanford University Your gift helps advance ideas that promote a free society. Donate now Senator Bernie Sanders’ quixotic presidential campaign received some unexpected attention for ...",
+        "upvotes": 4,
+        "url": "http://www.hoover.org/research/economics-lesson-bernie-sanders"
+      },
+      {
+        "preview": "Recently,  News broke the story last week that major insurers in a number of states were proposing up to 51 percent healthcare premium increases for Obamacare policies. Now Illinois and Pennsylvania a...",
+        "upvotes": 1,
+        "url": "http://www.breitbart.com/big-government/2015/06/02/more-obama-insurance-premiums-to-jump-30/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Supported by By Peter Baker WASHINGTON — When George W. Bush first ran for president, he liked to say he had inherited half of his father’s friends and all of his enemies. For Jeb Bush, ...",
+        "upvotes": 1,
+        "url": "http://www.nytimes.com/2015/06/02/us/politics/jeb-bush-faces-challenge-in-winning-over-brothers-team.html"
+      },
+      {
+        "preview": "ADVERTISEMENT Still no word on approvals SHARE The District of Columbia Police Department said on Monday it has not issued any gun-carry permit denials since a federal judge ruled the city's requireme...",
+        "upvotes": 14,
+        "url": "http://freebeacon.com/issues/dc-police-say-theyve-stopped-denying-gun-carry-permit-applications-in-response-to-federal-ruling/"
+      },
+      {
+        "preview": "PORTLAND NEEDS WILLAMETTE WEEK. NOW WILLAMETTE WEEK NEEDS YOU. The need for strong, independent local journalismis more urgent than ever. Please support the city we love by joining Friends of Willamet...",
+        "upvotes": 2,
+        "url": "http://www.wweek.com/portland/blog-33148-despite_facing_felony_sex_abuse_charges_terry_bean_surfaces_in_connection_with_obamas_portland_visit.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "th him. Seems more like he realizes that everyone outside his base hates his guts at this point. So if he’s going to have a legacy, it has to be with his base, so he’s giving them what they want. “He’...",
+        "upvotes": 4,
+        "url": "http://reason.com/archives/2015/05/31/the-long-war-on-guns"
+      },
+      {
+        "preview": "On Monday’s broadcast of MSNBC’s “Morning Joe,” Sen. Mike Lee (R-UT) pushed his alternative to the Patriotic Act, which just expired and its reauthorization has been hindered by the actions of Sen. Ra...",
+        "upvotes": 8,
+        "url": "http://www.breitbart.com/video/2015/06/01/mike-lee-promotes-patriot-act-alternative/"
+      },
+      {
+        "preview": "Sen. Rand Paul (R-KY) is declaring victory. Late Sunday the National Security Agency (NSA) shut down its bulk data collection program as the PATRIOT Act expired thanks to Paul’s efforts. He tells  New...",
+        "upvotes": 35,
+        "url": "http://www.breitbart.com/big-government/2015/06/01/exclusive-rand-paul-slams-establishment-republicans-declares-victory-over-nsa-thanks-matt-drudge-as-bulk-collection-shuts-down/"
+      }
+    ]
+  }
+}

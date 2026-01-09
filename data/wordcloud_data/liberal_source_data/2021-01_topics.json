@@ -1,0 +1,285 @@
+{
+  "month": "2021-01",
+  "total_articles": 357,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "biden",
+        "trump",
+        "president",
+        "senate",
+        "election",
+        "republican",
+        "vote",
+        "state",
+        "democrat",
+        "wa",
+        "senator",
+        "georgia",
+        "ha",
+        "house",
+        "congress"
+      ],
+      "topic_weights": [
+        781.6055061625656,
+        493.2020624682996,
+        490.7790897877443,
+        486.88588389543094,
+        482.02612946981577,
+        461.4815223382019,
+        430.29548144626153,
+        368.96998148415986,
+        325.3828570195708,
+        308.6041019137611,
+        275.72829719101446,
+        258.97901052070927,
+        241.71236217769223,
+        232.40292135013186,
+        209.246259748122
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "black",
+        "student",
+        "school",
+        "white",
+        "wa",
+        "police",
+        "life",
+        "officer",
+        "matter",
+        "education",
+        "loan",
+        "family",
+        "pardon",
+        "culture",
+        "racist"
+      ],
+      "topic_weights": [
+        138.66856650733928,
+        116.79045864129289,
+        105.0969645012224,
+        88.36932033201806,
+        85.07558391110861,
+        72.82089046578,
+        70.09997856000348,
+        63.43839356408826,
+        53.891583805808615,
+        51.424587573213245,
+        50.138279567742764,
+        42.168722098580844,
+        40.92532529267986,
+        36.72701340222496,
+        31.26723411495663
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "state",
+        "republican",
+        "american",
+        "white",
+        "biden",
+        "group",
+        "party",
+        "administration",
+        "president",
+        "government",
+        "news",
+        "covid"
+      ],
+      "topic_weights": [
+        983.150959208567,
+        544.1465963288766,
+        495.27636573185623,
+        432.8829803310269,
+        364.8807676038763,
+        354.6565866476458,
+        316.74640100265316,
+        257.8815818081754,
+        253.1450931693274,
+        239.96257112278263,
+        227.32331513125393,
+        222.61547414365177,
+        201.29253630114283,
+        190.2202819980465,
+        189.9755867111102
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "federal",
+        "friday",
+        "dog",
+        "season",
+        "quarterback",
+        "biden",
+        "woman",
+        "president",
+        "ha",
+        "week",
+        "appeared",
+        "judge",
+        "video",
+        "victim"
+      ],
+      "topic_weights": [
+        349.86133298534423,
+        214.9397702377885,
+        214.66651929544943,
+        206.3111267695887,
+        205.52173011117696,
+        204.99024907491528,
+        199.32611968471653,
+        197.58082496855585,
+        176.97185129667932,
+        175.49434757284573,
+        160.8739155065288,
+        146.5752660499534,
+        146.12971496595395,
+        145.9936193594777,
+        145.09597770470825
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "capitol",
+        "wa",
+        "president",
+        "ha",
+        "police",
+        "biden",
+        "house",
+        "supporter",
+        "office",
+        "rep",
+        "election",
+        "member",
+        "officer",
+        "week"
+      ],
+      "topic_weights": [
+        1474.55345115234,
+        1124.1576128824224,
+        975.1316009641808,
+        847.6255939400475,
+        467.8411040094837,
+        364.94145785621754,
+        360.50223165418555,
+        348.306630339104,
+        283.68618787949043,
+        275.37726752201667,
+        259.01972679346187,
+        253.62441609579304,
+        250.3290460537219,
+        247.78423444955916,
+        246.13424657403166
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 89,
+    "0": 53,
+    "4": 142,
+    "3": 63,
+    "1": 10
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Congress The majority leader’s comments drew a strong rebuke from Bernie Sanders. Senate Majority Leader Mitch McConnell walks to the Senate floor on Capitol Hill in Washington, Wednesday, Dec. 30, 20...",
+        "upvotes": 1,
+        "url": "https://www.politico.com/news/2020/12/31/lindsey-graham-mcconnell-separate-vote-2-000-checks-453015"
+      },
+      {
+        "preview": "Get smarter, faster about your hometown. Menu Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a valid email. Please enter a...",
+        "upvotes": 3,
+        "url": "https://www.axios.com/north-korea-nuclear-biden-new-start-iran-deal-f92fa809-8275-4478-b81c-8483be3238ce.html"
+      },
+      {
+        "preview": "Outgoing president Donald Trump was reminded in no uncertain terms that he is a one-term president on New Year's Day after he kicked off the morning by tweeting out \"HAPPY NEW YEARS!\" only to have cri...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/trump-lost-2649713159/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "By: Roderyk Boykin from the Youth In Politics team As Canada and the rest of the world economy sludge through a global pandemic, it’s time to take a look at a policy that should’ve been implemented a ...",
+        "upvotes": 1,
+        "url": "https://www.bpntoday.com/business/lowering-the-bar-the-small-business-tax-should-be-abolished"
+      },
+      {
+        "preview": "Jump to navigation Donate Select any filter and click on Apply to see results I often use case studies in my undergraduate classes. Perhaps because I briefly wrote case studies during a short stint at...",
+        "upvotes": 1,
+        "url": "https://www.aacu.org/publications-research/periodicals/decline-empathy-and-future-liberal-education"
+      },
+      {
+        "preview": "A recent scholarly paper on “microaggressions” uses them to chart the ascendance of a new moral code in American life. Last fall at Oberlin College, a talk held as part of Latino Heritage Month was sc...",
+        "upvotes": 1,
+        "url": "https://www.theatlantic.com/politics/archive/2015/09/the-rise-of-victimhood-culture/404794/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sign in Riyadh Elalami Dec 31, 2020·2 min read Regardless of personal political beliefs, most of us believe that there are things the government should improve upon. Whether you think they have too mu...",
+        "upvotes": 1,
+        "url": "https://riyadhelalami.medium.com/a-case-for-civil-disobedience-in-21st-century-america-b9522601f2f7"
+      },
+      {
+        "preview": "President-elect Joe Biden at The Queen theater on Tuesday in Wilmington, Del. Credit: AP/Carolyn Kaster Four years ago, President Barack Obama warned Donald Trump on his visit to the Oval Office two d...",
+        "upvotes": 2,
+        "url": "https://www.newsday.com/opinion/commentary/nuclear-threats-joe-biden-north-korea-iran-russia-1.50074828"
+      },
+      {
+        "preview": "White racism keeps hurting programs that help the poor. White people become significantly less likely to support welfare programs when told that black people might benefit from them. That’s a crucial ...",
+        "upvotes": 95,
+        "url": "https://www.vox.com/2018/6/7/17426968/white-racism-welfare-cuts-snap-food-stamps"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Janet Yellen, President-elect Joe Biden's Treasury nominee, made more than $7 million by giving speeches on Wall Street and in Silicon Valley. In a 21-page financial disclosure form, Yellen lists 64 d...",
+        "upvotes": 24,
+        "url": "https://www.yahoo.com/news/aoc-says-women-disproportionately-scrutinized-104946971.html"
+      },
+      {
+        "preview": "Republicans have condemned a Democrat plan to eliminate gender-specific pronouns such as \"he\" and \"she\" from the rules of the US House of Representatives. Nancy Pelosi, the Democrat Speaker of the Hou...",
+        "upvotes": 17,
+        "url": "https://www.yahoo.com/news/democrats-propose-ban-she-gender-021515663.html"
+      },
+      {
+        "preview": "One of the first Korean Americans elected to Congress paid homage to her heritage during her swearing-in ceremony Sunday. Rep. Marilyn Strickland, D-Wash. — who became one of the first three Korean Am...",
+        "upvotes": 6,
+        "url": "https://news.yahoo.com/congresswoman-wears-hanbok-swearing-ceremony-003341232.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The Secret Service will be changing up the agents who are in the presidential detail to protect President-elect Joe Biden. Even though it isn’t rare for agents to change when a new president arrives, ...",
+        "upvotes": 394,
+        "url": "https://slate.com/news-and-politics/2020/12/secret-service-changes-presidential-detail-aligned-trump.html"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since L. Lin Wood, a conservative attorney and Trump ally, has rejected questions about his sanity after ...",
+        "upvotes": 499,
+        "url": "https://www.businessinsider.com/pro-trump-lawyer-l-lin-wood-tweets-that-pence-executed-2021-1"
+      },
+      {
+        "preview": "In an unprecedented critique of a sitting president, all of the 10 living former secretaries of defense—from five administrations, Democratic and Republican—have warned that the time for challenging t...",
+        "upvotes": 8,
+        "url": "https://slate.com/news-and-politics/2021/01/secdefs-statement-trump-military.html"
+      }
+    ]
+  }
+}

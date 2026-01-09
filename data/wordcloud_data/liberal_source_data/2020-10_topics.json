@@ -1,0 +1,285 @@
+{
+  "month": "2020-10",
+  "total_articles": 171,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "president",
+        "ha",
+        "biden",
+        "state",
+        "white",
+        "joe",
+        "administration",
+        "house",
+        "government",
+        "campaign",
+        "tax",
+        "policy",
+        "covid"
+      ],
+      "topic_weights": [
+        1327.5352071447685,
+        786.6048527456173,
+        715.3162003664173,
+        658.9274168020065,
+        477.7775652552537,
+        253.53363551240577,
+        227.53394479383275,
+        215.25601521260845,
+        210.54870079449304,
+        205.47742094156035,
+        199.37471668358177,
+        185.77331097587788,
+        173.88158897933178,
+        171.8315034639826,
+        171.60395122758376
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "court",
+        "republican",
+        "barrett",
+        "election",
+        "ha",
+        "vote",
+        "wa",
+        "senate",
+        "state",
+        "trump",
+        "justice",
+        "american",
+        "democrat",
+        "democracy",
+        "judge"
+      ],
+      "topic_weights": [
+        232.2213373582619,
+        182.27536797984195,
+        165.3648751228191,
+        161.60608867800428,
+        160.89050877726177,
+        155.93743237149454,
+        144.18160667884104,
+        134.74595146179846,
+        124.12433664877301,
+        123.6692024354436,
+        119.85096335136467,
+        113.43049861302765,
+        112.53662580184779,
+        110.78043231747563,
+        109.95779461794957
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "state",
+        "candidate",
+        "race",
+        "campaign",
+        "senate",
+        "house",
+        "carolina",
+        "north",
+        "money",
+        "florida",
+        "ha",
+        "vote",
+        "win",
+        "district",
+        "voter"
+      ],
+      "topic_weights": [
+        1074.702863219375,
+        548.8232856400238,
+        456.14804868286626,
+        351.722216606132,
+        343.00764539606104,
+        323.73058161508897,
+        303.26469325984516,
+        288.82614056932744,
+        282.4135043468464,
+        273.56514200489374,
+        243.27422985856717,
+        243.25428967682083,
+        232.84031430717116,
+        230.44868698914533,
+        223.3632938167635
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "claim",
+        "october",
+        "state",
+        "week",
+        "data",
+        "worker",
+        "job",
+        "million",
+        "mcconnell",
+        "benefit",
+        "september",
+        "result",
+        "figure",
+        "economic",
+        "wa"
+      ],
+      "topic_weights": [
+        20.68405412157751,
+        19.448656373566955,
+        16.554620549558585,
+        13.01085595687587,
+        12.438895937458733,
+        10.332173271744931,
+        9.541290257648622,
+        8.022001723055325,
+        7.840061594680085,
+        7.726214729098269,
+        7.6689511613822035,
+        5.8182289493783,
+        5.789083461344838,
+        5.723883230675619,
+        5.701110062243501
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "election",
+        "ballot",
+        "trump",
+        "state",
+        "voter",
+        "box",
+        "voting",
+        "vote",
+        "ha",
+        "jones",
+        "russian",
+        "million",
+        "campaign",
+        "mother",
+        "mail"
+      ],
+      "topic_weights": [
+        433.34061844799317,
+        281.52004873156125,
+        200.23408164760212,
+        167.38083104171196,
+        167.34339023590599,
+        79.82822107646128,
+        74.1182852375579,
+        70.22013533153624,
+        67.55849590643165,
+        66.23111341386536,
+        65.81831447399203,
+        65.28739666045426,
+        65.11909167801134,
+        65.06343593203715,
+        61.71279347476017
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 120,
+    "1": 27,
+    "4": 18,
+    "3": 3,
+    "2": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "JIM WATSON/AFP via Getty Images. Pictured: Joe Biden Odds updated as of Nov. 2 and via European sportsbook Betfair. If you’re new to betting, Donald Trump’s +188 odds mean a $100 bet would net $188 if...",
+        "upvotes": 1,
+        "url": "https://www.actionnetwork.com/politics/2020-election-odds-presidential-race-donald-trump-joe-biden"
+      },
+      {
+        "preview": "Forget the euphemistic language being used by much of the mainstream press to describe Tuesday night's presidential debate between Donald Trump and former Vice President Joe Biden. That wasn't a \"cont...",
+        "upvotes": 1,
+        "url": "https://www.salon.com/2020/09/30/trump-is-scared-shless-he-cant-handle-the-truth-so-he-wouldnt-let-biden-talk/"
+      },
+      {
+        "preview": "Every product was carefully curated by an  editor. We may earn a commission from these links. In the first presidential debate, he also told a right-wing paramilitary street gang to \"stand back and st...",
+        "upvotes": 639,
+        "url": "https://www.esquire.com/news-politics/a34214725/trump-proud-boys-stand-by-denounce-white-supremacists/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "To prevent a sharp rightward tack in US law, we must elect more Democratic state lawmakers, flip chambers and break Republican supermajorities Last modified on Tue 15 Dec 2020 09.31 EST November’s sta...",
+        "upvotes": 1,
+        "url": "https://www.theguardian.com/commentisfree/2020/sep/22/democrats-state-legislative-elections-democracy"
+      },
+      {
+        "preview": "A fun moment at the White House press briefing on Thursday regarding Supreme Court nominee Amy Coney Barrett: Kayleigh McEnany says in briefing that Amy Coney Barrett is a \"Rhodes scholar.\" Barrett di...",
+        "upvotes": 1,
+        "url": "https://slate.com/news-and-politics/2020/10/white-house-amy-coney-barrett-rhodes-scholar-rhodes-college.html"
+      },
+      {
+        "preview": "Nearly 2,000 former U.S. Department of Justice (DOJ) attorneys warned of possible election interference committed by Attorney General Bill Barr in an open letter published late Thursday. “Each of us t...",
+        "upvotes": 2,
+        "url": "https://lawandcrime.com/2020-election/nearly-2000-doj-alumni-sign-letter-with-dire-warning-bill-barr-is-working-to-rig-2020-election-for-trump/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "e reprinting full-text posts or I will crush you. Effective Political Giving Skip to panicked giving section With less than two months left before the election, this is an explainer for the politicall...",
+        "upvotes": 7,
+        "url": "https://idlewords.com/2020/09/effective_political_giving.htm"
+      },
+      {
+        "preview": ". District: HD-16: Just across from Omaha. Incumbent: open seat. Give right now to the State Slate! Here's the situation in each state: Florida Republicans have a trifecta in Florida—they control the ...",
+        "upvotes": 2,
+        "url": "https://techsolidarity.org/resources/state_slate_round_four.htm"
+      },
+      {
+        "preview": "This is a page for anyone who still wants to do something, anything to help in the November election. Answer the questions below and follow the arrows to figure out the appropriate place to give money...",
+        "upvotes": 1,
+        "url": "https://idlewords.com/panic_decision_matrix.htm"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Another 1.3 million people applied for unemployment insurance (UI) benefits last week. That includes 840,000 people who applied for regular state UI and 464,000 who applied for Pandemic Unemployment A...",
+        "upvotes": 1,
+        "url": "https://www.epi.org/blog/1-3-million-people-filed-initial-unemployment-insurance-claims-last-week-it-is-terrible-economics-to-pause-stimulus-talks/"
+      },
+      {
+        "preview": "Senate Majority Leader Mitch McConnell went viral by repeatedly laughing during a debate with Democratic opponent Amy McGrath as she lambasted McConnell’s failure to pass a second coronavirus relief b...",
+        "upvotes": 1,
+        "url": "https://www.mediaite.com/news/mitch-mcconnells-laugh-during-debate-over-covid-relief-sets-twitter-ablaze-heres-the-full-exchange/"
+      },
+      {
+        "preview": "Results for {phrase} ({results_count} of {results_count_total}) Displaying {results_count} results of {results_count_total} More results... ...",
+        "upvotes": 1,
+        "url": "https://thenewamerican.com/researchers-further-reveal-abraham-lincolns-racism/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News In the last few weeks, Joe Biden has led President Donald Trump by a fairly consistent 8-point average in national polls and has maintained leads in ...",
+        "upvotes": 11,
+        "url": "https://www.nbcnews.com/politics/2020-election/trump-s-winning-voter-registration-battle-against-biden-key-states-n1241674"
+      },
+      {
+        "preview": "Evan Vucci/AP In any other time, it would have been front-page news and ignited days or weeks of controversy. But last week, when a former top government official accused the president, for whom he on...",
+        "upvotes": 2,
+        "url": "https://www.motherjones.com/politics/2020/10/trumps-former-national-security-adviser-accused-him-of-treasonous-conduct-and-no-one-cared/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved To foreign spies, President TrumpDonald TrumpThe Memo: Biden comes out punching on COVID-19 Ex-Kansas state rep charged with fraud of more than 0K in...",
+        "upvotes": 1,
+        "url": "https://thehill.com/opinion/white-house/520362-dont-forget-the-trump-campaign-gave-its-most-sensitive-data-to-a-russian"
+      }
+    ]
+  }
+}

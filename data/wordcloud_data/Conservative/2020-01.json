@@ -1,0 +1,36 @@
+{
+  "month": "2020-01",
+  "total_articles": 80,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Democratic Primary and Impeachment Debate",
+      "core_keywords": ["democrat", "bernie", "pelosi", "impeachment", "campaign", "government", "proposal"],
+      "importance_ratio": 0.10
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Government Policies and Legal Issues",
+      "core_keywords": ["government", "law", "police", "impeachment", "president", "state", "bank"],
+      "importance_ratio": 0.3125
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Biden-Trump Political Controversy and Impeachment Trial",
+      "core_keywords": ["biden", "trump", "hunter", "impeachment", "president", "trial", "january"],
+      "importance_ratio": 0.0625
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US-Iran Tensions and Social Issues",
+      "core_keywords": ["iran", "iraq", "woman", "life", "homeless", "state", "america"],
+      "importance_ratio": 0.1125
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Impeachment and US Political News",
+      "core_keywords": ["trump", "president", "impeachment", "democrat", "senate", "house", "american"],
+      "importance_ratio": 0.4125
+    }
+  ]
+}

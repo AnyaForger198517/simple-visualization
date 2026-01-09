@@ -1,0 +1,285 @@
+{
+  "month": "2014-02",
+  "total_articles": 62,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "state",
+        "wa",
+        "party",
+        "military",
+        "army",
+        "american",
+        "ha",
+        "tea",
+        "operation",
+        "law",
+        "government",
+        "union",
+        "worker",
+        "force",
+        "federal"
+      ],
+      "topic_weights": [
+        101.69879897040953,
+        94.63550216763824,
+        92.02417922383356,
+        75.04559924201227,
+        71.8505317075882,
+        71.48488423569677,
+        68.4291593048067,
+        68.27272027564324,
+        67.13682868544052,
+        62.6707774036248,
+        57.28200282227532,
+        55.07102024777771,
+        54.590544143638844,
+        50.528345087892255,
+        47.484524999836346
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "law",
+        "state",
+        "government",
+        "president",
+        "court",
+        "country",
+        "right",
+        "obama",
+        "chinese",
+        "christian",
+        "cnn",
+        "health",
+        "kennedy"
+      ],
+      "topic_weights": [
+        161.30430506850763,
+        101.16470965024281,
+        81.8489268012043,
+        60.77820686008473,
+        50.84390656159197,
+        47.4946578081144,
+        43.86687089147965,
+        41.47586914150651,
+        35.16050813684799,
+        33.61257359108416,
+        31.877003961849155,
+        31.519350682054338,
+        31.25483635019649,
+        30.486225716612246,
+        28.943515135373445
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "muslim",
+        "honor",
+        "woman",
+        "killing",
+        "victim",
+        "percent",
+        "white",
+        "family",
+        "murder",
+        "america",
+        "email",
+        "wa",
+        "academic",
+        "freedom",
+        "world"
+      ],
+      "topic_weights": [
+        79.74036949845764,
+        59.10250391529521,
+        55.07516033071518,
+        47.32776254139866,
+        42.696678698842135,
+        41.19384176353843,
+        38.11244083984888,
+        32.44381718704073,
+        30.847925082280323,
+        30.558320859099737,
+        30.184596597288643,
+        27.79917967580639,
+        26.428907952444103,
+        25.807406174069158,
+        25.529279457641127
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "climate",
+        "warming",
+        "change",
+        "global",
+        "work",
+        "gay",
+        "world",
+        "consensus",
+        "bigot",
+        "february",
+        "man",
+        "life",
+        "nazi"
+      ],
+      "topic_weights": [
+        115.14472861201205,
+        53.06354373892628,
+        46.5352291393037,
+        38.189949032644826,
+        37.929175297908834,
+        34.38938431137403,
+        31.65267461648691,
+        29.965262785461217,
+        27.246587266633263,
+        25.21148727658165,
+        23.89832429348651,
+        22.977231409330702,
+        22.884494089891916,
+        22.031750416354903,
+        21.094408548772574
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "obama",
+        "government",
+        "school",
+        "job",
+        "wa",
+        "work",
+        "food",
+        "house",
+        "ha",
+        "obamacare",
+        "health",
+        "american",
+        "loafer",
+        "college",
+        "democrat"
+      ],
+      "topic_weights": [
+        70.50117334736478,
+        49.79773876024501,
+        44.18051659324834,
+        39.983293333627245,
+        38.01412191979613,
+        36.9062121536321,
+        33.43877729811331,
+        32.817354748564874,
+        32.41092866652323,
+        30.667996999419913,
+        26.900977915042777,
+        25.970241218952474,
+        24.244237611915267,
+        21.570438991330413,
+        21.403382117291294
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 12,
+    "1": 30,
+    "2": 6,
+    "4": 8,
+    "3": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "After the end of Canadian Prime Minister John Diefenbaker’s wildly chaotic term in office in 1963—think Jimmy Carter on steroids—shell-shocked operatives of his Progressive Conservative Party famously...",
+        "upvotes": 6,
+        "url": "http://www.vdare.com/articles/when-the-irresistible-dollar-meets-the-immovable-patriot-what-happens-may-be-a-new-party"
+      },
+      {
+        "preview": "ADVERTISEMENT SHARE Volkswagen has rejected a request from Tennessee workers to give equal time to workers opposed to unionization attempts by the United Auto Workers. The company has reportedly allow...",
+        "upvotes": 7,
+        "url": "http://freebeacon.com/vw-rejects-calls-for-equal-time-for-anti-union-advocates/"
+      },
+      {
+        "preview": "By Yasha Levine , written on February 7, 2014 From The News Desk Remember Justine Tunney? The OWS-anarchist-turned-cultist-Google-employee who bashed my reporting on Google's for-profit surveillance? ...",
+        "upvotes": 17,
+        "url": "http://pando.com/2014/02/07/occupy-wall-street-leader-now-works-for-google-wants-to-crowdfund-a-private-militia/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The economic picture is looking brighter these days. The federal government announced Thursday that economic growth had picked up to its fastest pace in two years, while employment growth over the pas...",
+        "upvotes": 2,
+        "url": "http://business.time.com/2014/01/30/nearly-half-of-america-lives-paycheck-to-paycheck/"
+      },
+      {
+        "preview": "A Washington Post investigation published on Sunday revealed that roughly 22,000 Americans have filled out seven-page paper appeals forms and mailed them to the federal government for putting them in ...",
+        "upvotes": 2,
+        "url": "http://www.breitbart.com/Big-Government/2014/02/03/Obamacare-Website-s-Unbuilt-Appeals-and-Errors-System-Causing-Chaos"
+      },
+      {
+        "preview": "Advertisement Guest post by Kristinn Taylor The self-described “libtard communist” Web site Wonkette attacked the Gateway Pundit this weekend for the offense of reporting the observations of many view...",
+        "upvotes": 0,
+        "url": "http://www.thegatewaypundit.com/2014/02/the-derp-it-hurts-wonkette-asks-if-obama-high-as-attacks-gateway-pundit-for-reporting-same/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 7,
+        "url": "http://www.buzzfeed.com/rachelzarrell/drug-dealers-unfazed-by-legal-pot-in-colorado?s=mobile"
+      },
+      {
+        "preview": "Posted at 8:11 pm on February 7, 2014 by Doug P. Earlier today, Garry Kasparov accused NBC Sports of pushing Putin propaganda. This latest downplay of decades of communism probably won’t make Kasparov...",
+        "upvotes": 48,
+        "url": "http://twitchy.com/2014/02/07/nbc-refers-to-decades-of-soviet-communism-as-pivotal-experiment-spit-takes-ensue/"
+      },
+      {
+        "preview": "Please enable cookies to ensure you get the best experience on our website Draft by Article V Patriot The time is now, South Dakota! The COS application is already being heard by the House State Affai...",
+        "upvotes": 2,
+        "url": "http://www.conventionofstates.com/news/south-dakota-needs-your-help"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Elvis Presley is one of the original rock ‘n’ roll stars. He made millions in show business. While being interviewed on the air, he was asked, “Mr. Presley, how do you account for the happy, joyous ex...",
+        "upvotes": 3,
+        "url": "http://www.conservativenewsandviews.com/2014/02/07/editorial/entertainment/sharing-gospel-rock-stars/"
+      },
+      {
+        "preview": "If you think that the radical changes in the minds of Americans -- and in your own mind -- about homosexuality in the last decade are an accident, you must read the section below. From the 1989 book, ...",
+        "upvotes": 3,
+        "url": "http://www.massresistance.org/docs/issues/gay_strategies/after_the_ball.html"
+      },
+      {
+        "preview": "In a watershed moment and a huge victory over environmentalists, General Electric has agreed to stop projects that are designed solely for the purpose of carbon dioxide reductions to please those who ...",
+        "upvotes": 11,
+        "url": "http://www.breitbart.com/Big-Government/2014/02/21/GE-Caves-Will-No-Longer-Design-Projects-to-Please-Climate-Change-Advocates"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The CBO has released a new report on Obamacare and the news is not good; Obamacare will directly cause the loss of 2.5 million jobs over the next decade: The new healthcare law will cost the nation th...",
+        "upvotes": 5,
+        "url": "http://americaswatchtower.com/2014/02/04/the-cbo-projects-obamacare-will-cost-2-5-million-jobs-over-the-next-decade/"
+      },
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 20,
+        "url": "http://www.nationalreview.com/article/370435/obamacares-attack-work-ethic-charles-c-w-cooke"
+      },
+      {
+        "preview": "Just when you thought Obamacare couldn’t get any worse, the Congressional Budget Office (CBO) reported on Tuesday that the equivalent of 2.5 million jobs will be lost due to Obamacare. We can’t afford...",
+        "upvotes": 16,
+        "url": "http://www.breitbart.com/Big-Government/2014/02/07/rand-paul-obamacare-cbo"
+      }
+    ]
+  }
+}

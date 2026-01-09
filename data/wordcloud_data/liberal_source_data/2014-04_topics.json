@@ -1,0 +1,280 @@
+{
+  "month": "2014-04",
+  "total_articles": 101,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wage",
+        "minimum",
+        "wa",
+        "hour",
+        "worker",
+        "job",
+        "work",
+        "week",
+        "live",
+        "pay",
+        "bullseye",
+        "million",
+        "snap",
+        "food",
+        "family"
+      ],
+      "topic_weights": [
+        941.8347327901814,
+        878.1326680023045,
+        723.0763957454866,
+        596.7283961312032,
+        571.9148333859494,
+        567.4769402634969,
+        475.32989334364834,
+        264.2941580386912,
+        252.45076781375073,
+        235.5377435392866,
+        232.06265854145119,
+        204.50635193814657,
+        195.86177226640282,
+        195.0125138581214,
+        194.97220977681792
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "christie",
+        "ha",
+        "election",
+        "state",
+        "political",
+        "court",
+        "sander",
+        "vote",
+        "public",
+        "american",
+        "campaign",
+        "democracy",
+        "united",
+        "citizen"
+      ],
+      "topic_weights": [
+        549.7558265548928,
+        403.3575811163998,
+        337.60191631642124,
+        283.2448187629745,
+        276.21183266326324,
+        200.45218627347086,
+        197.71333423185445,
+        181.24370030998622,
+        178.3000197460349,
+        167.89013002040707,
+        165.55081092573587,
+        159.56655646669532,
+        157.17969309684932,
+        138.3491584011332,
+        130.71866651499286
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "city",
+        "ha",
+        "policy",
+        "law",
+        "voter",
+        "san",
+        "state",
+        "wa",
+        "mayor",
+        "government",
+        "worker",
+        "idea",
+        "percent",
+        "wage",
+        "labor"
+      ],
+      "topic_weights": [
+        399.38675772097696,
+        209.76927549943665,
+        183.98345146754386,
+        170.27392773813446,
+        161.59972594011603,
+        156.58427123555134,
+        154.43328510601137,
+        145.0122802458488,
+        141.59804015427176,
+        140.81479487256436,
+        110.66150466996393,
+        108.1537308393909,
+        105.2307102796843,
+        98.85230174618499,
+        97.2590428211993
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "food",
+        "stamp",
+        "wage",
+        "store",
+        "facebook",
+        "department",
+        "lobby",
+        "hobby",
+        "minimum",
+        "money",
+        "work",
+        "hour",
+        "dollar",
+        "pay"
+      ],
+      "topic_weights": [
+        58.03574398416809,
+        48.28898737081473,
+        42.389859918849425,
+        40.88911740658098,
+        35.97738890182047,
+        35.24104593346971,
+        34.86227994953482,
+        29.78881203233257,
+        29.378987186605848,
+        26.21164626795988,
+        24.848838825113603,
+        24.80742373354282,
+        23.10930583088698,
+        22.587086883877916,
+        22.350601026730217
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "health",
+        "care",
+        "medium",
+        "fox",
+        "company",
+        "insurance",
+        "cost",
+        "ha",
+        "law",
+        "government",
+        "wing",
+        "tax",
+        "post",
+        "plan"
+      ],
+      "topic_weights": [
+        211.8154739610384,
+        162.01727326230278,
+        157.3144527518059,
+        129.1360413452136,
+        93.39448472777241,
+        82.9296978070129,
+        82.52008716638056,
+        81.67368876281606,
+        77.75873281882197,
+        74.24562402593631,
+        72.8667646007378,
+        71.80272809826216,
+        69.8835098103792,
+        64.56947736707588,
+        60.726077946937046
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 43,
+    "3": 5,
+    "4": 31,
+    "2": 20,
+    "0": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Here's some happy news about Happy Meals! Connecticut high school student Antonia Ayres-Brown has spent five years challenging the antiquated policy at McDonald's where kids are given toys with their ...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/2014/04/21/mcdonalds-boys-and-girls-toys-_n_5186803.html"
+      },
+      {
+        "preview": "Taxpayers are basically moneylenders to a government that is far more interested in subsidizing business than in caring for their workers. Walmart co-manager Mary Brinkley adjusts a sign on a computer...",
+        "upvotes": 6,
+        "url": "http://www.thenation.com/article/179516/life-inside-new-minimum-wage-economy#"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 15,
+        "url": "http://www.rightwingwatch.org/content/religious-rights-never-ending-campaign-gin-tales-victimization-rolls"
+      },
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 15,
+        "url": "http://www.rightwingwatch.org/content/scott-lively-denies-calling-obama-antichrist-admits-he-did-when-confronted-audio-his-comment"
+      },
+      {
+        "preview": "Who wants to marry a billionaire? John Kasich does. So do Scott Walker, Chris Christie and Jeb Bush. When Sheldon Adelson, the world’s eighth-richest person, according to Forbes, let it be known that ...",
+        "upvotes": 3,
+        "url": "http://www.washingtonpost.com/opinions/dana-milbank-gop-candidates-kiss-up-to-billionaire-sheldon-adelson/2014/04/01/5ba335dc-b9dc-11e3-9a05-c739f29ccb08_story.html?hpid=z3"
+      }
+    ],
+    "2": [
+      {
+        "preview": "When people tell stories rooted in fantasy, they’re called fairy tales. Such was the case last fall when Sen. Mike Lee (R-UT) spoke at an anti-poverty forum at the Heritage Foundation. His remarks spu...",
+        "upvotes": 9,
+        "url": "http://www.americanprogress.org/issues/religion/news/2014/04/02/86933/the-conservative-fairy-tale-about-government/"
+      },
+      {
+        "preview": "(REUTERS/Carlo Allegri) Jonathan Chait and Ta-Nehisi Coates have been having an epic debate about a culture of poverty, which has not only exposed liberal rifts on the questions of race, but on questi...",
+        "upvotes": 1,
+        "url": "http://theweek.com/article/index/259158/the-debate-over-the-culture-of-poverty-is-at-the-heart-of-a-liberal-divide"
+      },
+      {
+        "preview": "Sen. Susan Collins is reportedly looking for compromise on the minimum wage—if Democrats accept a smaller increase than they've been looking for and give Republicans a variety of other sweeteners, Col...",
+        "upvotes": 25,
+        "url": "http://www.dailykos.com/story/2014/04/04/1289585/-Reid-on-10-10-minimum-wage-We-didn-t-pick-that-number-just-to-be-fun?detail=facebook#"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Photo-illustration by . Photo by Scott Olson/Getty Images This is Part I in the Marketplace series “The Secret Life of a Food Stamp.” You can listen to the series here. Last night, as the clock struck...",
+        "upvotes": 78,
+        "url": "http://www.slate.com/articles/business/moneybox/2014/04/big_box_stores_make_billions_off_food_stamps_often_it_s_their_own_workers.html?wpisrc=newsletter_jcr:content&mc_cid=0dab8107ae&mc_eid=a63f610bb4"
+      },
+      {
+        "preview": "Matt Bruenig Dot Com I agree with Elizabeth Stoker’s take that the Hobby Lobby contraception stuff is really confused. Ostensibly, Hobby Lobby is objecting to having to “pay” for the contraception cov...",
+        "upvotes": 2,
+        "url": "http://mattbruenig.com/2014/04/01/process-religious-liberty-and-contraception"
+      },
+      {
+        "preview": "When Broadway theaters reopen in the fall, be sure to watch out for ghosts and falling Spider-Men. 1-900 numbers weren’t all about horniness. Albert DeSalvo had been recognized for his work in populat...",
+        "upvotes": 8,
+        "url": "http://www.cracked.com/article_21043_5-terrible-things-i-learned-as-corporate-whistleblower.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Hobby Lobby supporters pray to end abortion outside the US Supreme Court.Jay Mallin/ZUMA When Obamacare compelled businesses to include emergency contraception in employee health care plans, Hobby Lob...",
+        "upvotes": 44,
+        "url": "http://www.motherjones.com/politics/2014/04/hobby-lobby-retirement-plan-invested-emergency-contraception-and-abortion-drug-makers"
+      },
+      {
+        "preview": "SEARCH With the release of his bizarre budget this week, the congressman from Wisconsin proves once again that he’s a wishy-washy wonk unworthy of sainthood. Special Correspondent Remind me not to get...",
+        "upvotes": 13,
+        "url": "http://www.thedailybeast.com/articles/2014/04/03/paul-ryan-still-a-total-miser.html"
+      },
+      {
+        "preview": "(David McNew/Getty Images) One of the central legacies of the Iraq War, particularly for American liberals, is the fact that practically the entire U.S. elite supported what turned out to be a disastr...",
+        "upvotes": 1,
+        "url": "http://theweek.com/article/index/258613/hey-liberal-hawks-stop-hating-the-anti-war-left"
+      }
+    ]
+  }
+}

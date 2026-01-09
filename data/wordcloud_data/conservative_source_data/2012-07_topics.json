@@ -1,0 +1,285 @@
+{
+  "month": "2012-07",
+  "total_articles": 86,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "city",
+        "tax",
+        "police",
+        "wa",
+        "july",
+        "ha",
+        "san",
+        "page",
+        "business",
+        "shooting",
+        "obama",
+        "officer",
+        "percent",
+        "cut",
+        "reload"
+      ],
+      "topic_weights": [
+        81.90650230180434,
+        57.7604420257001,
+        55.97028328690892,
+        55.95498413979238,
+        52.1428410816054,
+        37.72296289142303,
+        35.240054596036856,
+        32.85586777526301,
+        31.43791812706744,
+        30.187622390510338,
+        29.440156598491036,
+        28.071423208796475,
+        25.884559720106093,
+        25.672547408651283,
+        25.49676851236434
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "obama",
+        "wa",
+        "ha",
+        "court",
+        "president",
+        "robert",
+        "campaign",
+        "romney",
+        "conservative",
+        "law",
+        "advertisement",
+        "justice",
+        "tax",
+        "american",
+        "mandate"
+      ],
+      "topic_weights": [
+        205.74606347477265,
+        194.65053436454448,
+        94.69019114876349,
+        88.47868228740201,
+        80.81637310372393,
+        79.10044307120513,
+        74.53809645124987,
+        72.48144275347,
+        68.2679959503185,
+        64.10366257274626,
+        62.668105336956756,
+        61.41647659053178,
+        54.72627624355114,
+        50.55115554977259,
+        45.729120665869054
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "bush",
+        "iraq",
+        "love",
+        "war",
+        "president",
+        "ha",
+        "website",
+        "did",
+        "american",
+        "site",
+        "great",
+        "post",
+        "thanks",
+        "man"
+      ],
+      "topic_weights": [
+        97.47972648540824,
+        60.86022449314204,
+        45.264532483807216,
+        43.31629000027073,
+        34.9669391255159,
+        33.318456727030565,
+        26.287462460210335,
+        24.55162986796419,
+        24.353915676384386,
+        23.060937013946543,
+        21.880173705608545,
+        21.02491824068143,
+        20.75739527136473,
+        19.949822834923225,
+        19.931725667335037
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "union",
+        "labor",
+        "worker",
+        "wa",
+        "gala",
+        "met",
+        "organized",
+        "murdaugh",
+        "today",
+        "competition",
+        "president",
+        "company",
+        "american",
+        "ha",
+        "economic"
+      ],
+      "topic_weights": [
+        33.47571602511511,
+        21.52642296607512,
+        17.249640403982735,
+        15.591663300454947,
+        11.866560326904679,
+        11.419089808297189,
+        10.075005557752718,
+        9.7723506245633,
+        9.600774616739061,
+        8.449177843479657,
+        8.356993920342054,
+        8.316527406269447,
+        8.086862059136026,
+        7.972428970894727,
+        7.510628326286839
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "romney",
+        "government",
+        "president",
+        "america",
+        "obama",
+        "american",
+        "republican",
+        "party",
+        "change",
+        "political",
+        "business",
+        "job",
+        "email"
+      ],
+      "topic_weights": [
+        98.46722811435761,
+        98.20913967114515,
+        88.03768340574533,
+        73.00605923560278,
+        67.61722352492988,
+        56.55086304385484,
+        54.56258962201459,
+        54.17280117661278,
+        53.71656748889755,
+        53.472435586620485,
+        50.01432318338521,
+        47.930823851123655,
+        47.355322298772954,
+        45.90961198006171,
+        42.24062600211118
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 34,
+    "4": 31,
+    "0": 15,
+    "3": 3,
+    "2": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Posted at 9:27 am on July 4, 2012 by Lori Z. Unbelievable. Yet, totally believable since it is so predictable. As always, members of the bitter and hateful Left jump at the chance to slam the country ...",
+        "upvotes": 12,
+        "url": "http://twitchy.com/2012/07/04/shameful-left-celebrates-independence-day-by-slamming-america/"
+      },
+      {
+        "preview": "Posted at 8:14 pm on July 5, 2012 by Sarah D. Facts don’t lie, but ThinkProgress does. Like a mite-infested rug. 100% False. RT @thinkprogress: FACT: Obamacare is a major tax cut for middle class fami...",
+        "upvotes": 1,
+        "url": "http://twitchy.com/2012/07/05/thought-challenged-thinkprogress-obamacare-is-a-tax-cut-you-rubes/"
+      },
+      {
+        "preview": "Utilizamos cookies, próprios e de terceiros, que o reconhecem e identificam como um usuário único, para garantir a melhor experiência de navegação, personalizar conteúdo e anúncios, e melhorar o desem...",
+        "upvotes": 10,
+        "url": "http://www.buzzfeed.com/andrewkaczynski/barack-obama-in-2004-attacked-bush-for-weak-econom"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Follow Us National Review Justice Breyer Brushes Off Retirement Demands, But Says He Doesn’t ‘Intend to Die on the Court’ Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill This Day i...",
+        "upvotes": 6,
+        "url": "http://www.nationalreview.com/articles/304442/constitutional-contortions-mark-steyn"
+      },
+      {
+        "preview": "Reported by Jan Crawford on CBS Face the Nation: O’DONNELL: We’ll start first Jan because you’ve done some reporting. The big question was why did Chief Justice John Roberts do what he did? You’ve lea...",
+        "upvotes": 6,
+        "url": "http://www.volokh.com/2012/07/01/breaking-from-cbs-roberts-switched-his-vote-from-invalidating-the-mandate-to-upholding-it/"
+      },
+      {
+        "preview": "The Obamacare Supreme Court ruling seemed strange. Chief Justice John Roberts’ reasoning was incoherent. The conservative’s dissent read like it was originally meant to be a majority opinion. Now, we ...",
+        "upvotes": 2,
+        "url": "http://www.forbes.com/sites/aroy/2012/07/01/the-supreme-courts-john-roberts-changed-his-obamacare-vote-in-may/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "An Israeli lawmaker tore up a copy of the New Testament to protest against the dissemination of the “despicable book,” which was sent to members of parliament by a Christian organization. MP Michael B...",
+        "upvotes": 1,
+        "url": "http://english.alarabiya.net/articles/2012/07/17/226944.html"
+      },
+      {
+        "preview": " world leaders besides Mandela and W. Did you see the lump in Pierce's throat when His Holiness said that he loved Bush? Hahaha. Although some people didn't agree with W's policies and unpopular decis...",
+        "upvotes": 1,
+        "url": "http://piersmorgan.blogs.cnn.com/2012/04/24/his-holiness-the-dalai-lama-on-george-w-bush-as-a-human-being-i-love-him/?hpt=pm_t5"
+      },
+      {
+        "preview": "The 46 members of the Norwegian Girls Choir had long looked forward to performing their song about war and peace at the General Assembly Hall, newspaper Aftenposten reports. But the girls, aged 12 to ...",
+        "upvotes": 0,
+        "url": "http://www.thelocal.no/page/view/un-censors-norwegian-girls-despot-song-report"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The White House hit back hard late Tuesday at a study by accounting firm Ernst and Young that charged President Barack Obama's signature tax proposal could cost 710,000 jobs, claiming it's chock full ...",
+        "upvotes": 0,
+        "url": "http://news.yahoo.com/blogs/ticket/white-house-blasts-study-critical-obama-tax-plan-214215322.html"
+      },
+      {
+        "preview": "John McCain took to the Senate floor today to discuss Huma Abedin—known variously for her work at the State Department under Hillary Clinton and for her marriage to sexting ex-congressman Anthony Wein...",
+        "upvotes": 3,
+        "url": "http://news.yahoo.com/blogs/ticket/john-mccain-defends-huma-abedin-against-michele-bachmann-173234184.html"
+      },
+      {
+        "preview": "Advertisement Supported by Economic Scene By Eduardo Porter Organized labor is in free fall. The number of workers who belong to a union has plummeted about 20 percent over the last decade. Only 8 per...",
+        "upvotes": 1,
+        "url": "http://www.nytimes.com/2012/07/18/business/economy/unions-past-may-hold-key-to-their-future.html?_r=1&pagewanted=all"
+      }
+    ],
+    "4": [
+      {
+        "preview": "A lot of disturbing things have happened this week. The high profiled rulings by the Supreme Court on Arizona’s immigration law and ObamaCare and the events leading to Eric Holder being held in contem...",
+        "upvotes": 31,
+        "url": "http://tbrickert.wordpress.com/2012/07/01/regarding-the-events-of-this-past-week/"
+      },
+      {
+        "preview": "Douglas Ernst Blog Bare-knuckle commentary mixed with pop culture. Posted on July 1, 2012July 1, 20128 Comments Now that the Supreme Court has ruled that Obamacare is a constitutional tax of the highe...",
+        "upvotes": 16,
+        "url": "http://douglasernstblog.com/2012/07/01/michael-moore-lets-stand-in-front-of-the-obamacare-locomotive-and-see-what-happens/"
+      },
+      {
+        "preview": "By James Nye and Meghan Keneally Published: 01:23 EDT, 1 July 2012 | Updated: 01:23 EDT, 1 July 2012 5 View comments The Politico reporter who said that Republican presidential candidate Mitt Romney w...",
+        "upvotes": 15,
+        "url": "http://www.dailymail.co.uk/news/article-2167173/Joe-Williams-reporter-said-Romney-comfortable-white-people-FIRED.html?ito=feeds-newsxml"
+      }
+    ]
+  }
+}

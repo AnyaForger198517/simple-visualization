@@ -1,0 +1,285 @@
+{
+  "month": "2011-09",
+  "total_articles": 70,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "job",
+        "obama",
+        "economy",
+        "ha",
+        "president",
+        "government",
+        "plan",
+        "state",
+        "debate",
+        "america",
+        "american",
+        "street",
+        "school",
+        "unemployment",
+        "spending"
+      ],
+      "topic_weights": [
+        514.4288868342037,
+        509.0451336172365,
+        325.4877086940199,
+        284.3283100696229,
+        281.51594424747236,
+        269.9632212202915,
+        224.48042829760462,
+        212.860294525906,
+        163.75456865103612,
+        155.31288397834194,
+        145.69595775125154,
+        142.2315270521649,
+        141.56379633973907,
+        126.6894464805686,
+        122.81041691095321
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "percent",
+        "warren",
+        "house",
+        "support",
+        "bush",
+        "republican",
+        "vote",
+        "democrat",
+        "obama",
+        "tell",
+        "senate",
+        "democratic",
+        "senator",
+        "member",
+        "wa"
+      ],
+      "topic_weights": [
+        20.726128820628595,
+        18.399624515569307,
+        17.520951034493926,
+        16.788284823003323,
+        15.90230839244234,
+        15.64748024586546,
+        14.426749685246385,
+        13.435727868895524,
+        12.10312042567794,
+        9.297278269944735,
+        9.226320029666535,
+        8.75432819618603,
+        8.728784378297455,
+        8.11321914181274,
+        8.096160376674684
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "topic",
+        "party",
+        "wa",
+        "tea",
+        "tax",
+        "opposes",
+        "strongly",
+        "cnn",
+        "republican",
+        "perry",
+        "ha",
+        "favor",
+        "life",
+        "point",
+        "great"
+      ],
+      "topic_weights": [
+        163.02856473780773,
+        149.22545213111636,
+        119.58874039378304,
+        114.12456254142114,
+        106.93752091122941,
+        99.46630466276878,
+        96.72172308073709,
+        84.36142407002464,
+        77.09054329580901,
+        70.02684360074346,
+        68.72811246830022,
+        65.03947053242202,
+        52.7999432951903,
+        51.27831934309282,
+        50.42965114928329
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "mother",
+        "jones",
+        "wa",
+        "today",
+        "story",
+        "policy",
+        "privacy",
+        "journalism",
+        "term",
+        "type",
+        "tax",
+        "subscribe",
+        "bachmann",
+        "ha",
+        "receive"
+      ],
+      "topic_weights": [
+        190.59156149196914,
+        189.51903041794975,
+        100.03408502811844,
+        89.75748590785861,
+        86.36511271457253,
+        68.2410117760816,
+        67.64466442732586,
+        67.15869359872175,
+        66.58282082100976,
+        64.12258065293267,
+        63.8633032872397,
+        63.16601715465606,
+        62.454440475637114,
+        55.68049919651767,
+        54.714030420140496
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "american",
+        "ha",
+        "citizen",
+        "law",
+        "right",
+        "state",
+        "administration",
+        "citizenship",
+        "court",
+        "united",
+        "security",
+        "government",
+        "information",
+        "obama"
+      ],
+      "topic_weights": [
+        390.600746081844,
+        321.1163913071605,
+        221.96710122237909,
+        220.38250063542696,
+        199.75958102119827,
+        198.92876343955962,
+        193.23453436433456,
+        184.85048447072137,
+        181.6916008700583,
+        166.92856577506967,
+        148.43824654779027,
+        144.58085381923595,
+        143.87780337207718,
+        139.58881250233958,
+        138.51288882290282
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 25,
+    "0": 12,
+    "3": 19,
+    "4": 11,
+    "1": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Zero job growth, a 16.2 percent real unemployment rate, a shrinking work week, declining pay: Obama has his Labor Day work cut out for him. By signing up, you confirm that you are over the age of 16 a...",
+        "upvotes": 9,
+        "url": "http://www.thenation.com/blog/163118/obama-better-give-one-hell-speech"
+      },
+      {
+        "preview": "What do you call an economy growing less than one percent in 2011 after a month without job creation? What do you call an economy growing less than one percent in 2011 after a month without job creati...",
+        "upvotes": 18,
+        "url": "http://www.theatlantic.com/business/archive/2011/09/welcome-to-the-zerocovery/244478/"
+      },
+      {
+        "preview": "Advertisement Supported by By Jennifer Gonnerman On June 25, 2010, Frederick Deare punched out for the last time from his job driving a forklift at the Old London factory in the Bronx. That summer, ev...",
+        "upvotes": 2,
+        "url": "http://www.nytimes.com/2011/09/04/nyregion/hope-fear-and-insomnia-journey-of-a-jobless-man.html?_r=1&pagewanted=all"
+      }
+    ],
+    "1": [
+      {
+        "preview": "SEARCH Michael Tomasky on how the GOP deserves a lion’s share of the blame for partisan hostility in D.C. Special Correspondent As we begin the countdown toward an eventual vote on the jobs bill Barac...",
+        "upvotes": 11,
+        "url": "http://www.thedailybeast.com/articles/2011/09/09/michael-tomasky-data-show-the-gop-s-one-sided-war-on-democrats.html"
+      },
+      {
+        "preview": "Someone anonymous put together this home-brewed video of Elizabeth Warren speaking at what looks like a supporter's house. It consists of two awesome excerpts: One on how we got into so much debt (two...",
+        "upvotes": 19,
+        "url": "http://www.dailykos.com/story/2011/09/20/1018700/-Warren-Tells-It-Like-it-Is:-No-One-in-This-Country-Got-Rich-on-his-Own"
+      },
+      {
+        "preview": "Previously, all I’d say about Elizabeth Warren was that Republicans were too glib in comparing her to Martha Coakley. I’d revise that: Not only is Warren better on the stump than Coakley, she’s starti...",
+        "upvotes": 20,
+        "url": "http://www.slate.com/blogs/weigel/2011/09/21/elizabeth_warren_vs_libertarianism.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Of all the nonsense Texas Governor Rick Perry spews about states' rights and the tenth amendment, his dumbest is the notion that states should go it alone. \"We've got a great Union,\" he said at a Tea ...",
+        "upvotes": 18,
+        "url": "http://www.huffingtonpost.com/robert-reich/post_2351_b_943232.html"
+      },
+      {
+        "preview": "Talk about a killer gimmick. An Arizona Republican fundraiser is offering as a prize the same type of gun used in the attempted assassination of Arizona Congresswoman Gabrielle Giffords. On August 26 ...",
+        "upvotes": 0,
+        "url": "http://www.huffingtonpost.com/alex-brantzawadzki/az-republicans-celebrate-_b_943014.html"
+      },
+      {
+        "preview": "« Mmm, giant slabs of bile between thick slices of bread that are also made of bile! | Main | Adequate desire. » Lookee here, good peoples -- actual bipartisanship! David Segal of Demand Progress and ...",
+        "upvotes": 1,
+        "url": "http://www.thievesblog.com/2011/09/brainstorm.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Is a vote for Bachmann actually a vote for her husband? By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs that support The Nati...",
+        "upvotes": 15,
+        "url": "http://www.thenation.com/article/162957/michele-bachmann-wife-chief"
+      },
+      {
+        "preview": "If history is any guide, this new Reuters story on internal conflicts in Michele Bachmann’s campaign may be just the first in a series. Last night’s debate, with its focus on the two-man battle betwee...",
+        "upvotes": 1,
+        "url": "http://www.slate.com/blogs/xx_factor/2011/09/08/why_michele_bachmann_s_advisors_really_left_her_campaign.html"
+      },
+      {
+        "preview": "<a  Jensen/Wikimedia Commons</a> It is the tenth anniversary of the attacks of September 11, 2001, and petty politics continue as usual. Here’s what’s happening, 9/11-related and otherwise, on the nat...",
+        "upvotes": 3,
+        "url": "http://motherjones.com/mojo/2011/09/week-national-insecurity-911-remembrance-edition"
+      }
+    ],
+    "4": [
+      {
+        "preview": "tion for crack possession. Congress went along in July 2010 by shrinking the illogical disparity between penalties for crack versus powder cocaine (from 100-to-1 to 18-to-1). The heavier crack sentenc...",
+        "upvotes": 5,
+        "url": "http://www.thenation.com/article/163057/our-vanished-civil-liberties"
+      },
+      {
+        "preview": "only Congress has constitutional authority to establish U.S. immigration policy, and fundamental reform requires legislative action. Thus the administration’s recent announcement that deportation will...",
+        "upvotes": 0,
+        "url": "http://www.washingtonpost.com/opinions/obamas-illegal-move-on-immigration/2011/09/01/gIQATKQexJ_story.html"
+      },
+      {
+        "preview": "ello in Arizona. I couldn’t think of an answer. What did this question mean? Was he kindly trying to suggest to me that “Mohamed” should not be my middle name? Maybe he thinks it will cause me problem...",
+        "upvotes": 4,
+        "url": "http://www.thenation.com/blog/163284/rites-and-rights-citizenship"
+      }
+    ]
+  }
+}

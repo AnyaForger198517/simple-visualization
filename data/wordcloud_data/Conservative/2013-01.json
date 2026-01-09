@@ -1,0 +1,36 @@
+{
+  "month": "2013-01",
+  "total_articles": 165,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Congressional Politics and Party Dynamics",
+      "core_keywords": ["republican", "democrat", "house", "senate", "gop", "boehner", "white house"],
+      "importance_ratio": 0.2061
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gun Control and Constitutional Rights Debate",
+      "core_keywords": ["gun", "law", "constitution", "control", "state", "government", "american"],
+      "importance_ratio": 0.3697
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Obama's Tax and Government Spending Policies",
+      "core_keywords": ["obama", "tax", "spending", "middle class", "rate", "cut", "president"],
+      "importance_ratio": 0.2424
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "War, Military and Social Issues",
+      "core_keywords": ["war", "military", "libertarian", "woman", "child", "human", "hagel"],
+      "importance_ratio": 0.1697
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Racial Issues and Liberal Conservatism",
+      "core_keywords": ["black", "liberal", "conservative", "poverty", "society", "williams", "thomas"],
+      "importance_ratio": 0.0121
+    }
+  ]
+}

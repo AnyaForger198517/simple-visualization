@@ -1,0 +1,285 @@
+{
+  "month": "2020-04",
+  "total_articles": 143,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "coronavirus",
+        "ha",
+        "hospital",
+        "trump",
+        "health",
+        "patient",
+        "virus",
+        "covid",
+        "state",
+        "according",
+        "pandemic",
+        "death",
+        "president",
+        "mask"
+      ],
+      "topic_weights": [
+        131.664256816269,
+        95.73352431701572,
+        86.84238201299114,
+        72.77256511466682,
+        64.36177335792036,
+        57.104662125278715,
+        50.94896828423018,
+        50.23399512902364,
+        48.310100648243825,
+        44.42102763612143,
+        42.85404129254889,
+        42.598718163831926,
+        42.443567837616975,
+        41.25235172520038,
+        40.90232668551167
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "tax",
+        "percent",
+        "state",
+        "federal",
+        "income",
+        "business",
+        "economic",
+        "pay",
+        "rate",
+        "economy",
+        "government",
+        "trump",
+        "american",
+        "ha",
+        "coronavirus"
+      ],
+      "topic_weights": [
+        315.859793403808,
+        224.7927898083687,
+        213.80326429788147,
+        178.18500736515276,
+        164.52366844326346,
+        163.41392754717543,
+        135.46313008547108,
+        134.64593013268518,
+        111.65885377814851,
+        110.00837834499211,
+        107.56159543913397,
+        107.55678099332987,
+        106.89929294763938,
+        104.89701875614521,
+        92.50249381237211
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ballot",
+        "trump",
+        "deficit",
+        "wa",
+        "republican",
+        "state",
+        "court",
+        "absentee",
+        "mail",
+        "office",
+        "ha",
+        "pandemic",
+        "election",
+        "law",
+        "government"
+      ],
+      "topic_weights": [
+        117.48515443570454,
+        109.27103013582689,
+        104.97027877762423,
+        104.89182585848752,
+        87.48460383101688,
+        57.68206534545717,
+        50.15538181621409,
+        48.341913216665326,
+        45.68807028853846,
+        43.76531020898676,
+        41.8332579896539,
+        41.513914165227334,
+        39.914513167607446,
+        38.54043163182887,
+        36.611372855294185
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "biden",
+        "trump",
+        "president",
+        "ha",
+        "wa",
+        "campaign",
+        "reade",
+        "woman",
+        "coronavirus",
+        "did",
+        "news",
+        "joe",
+        "york",
+        "allegation",
+        "told"
+      ],
+      "topic_weights": [
+        485.4811384528355,
+        408.58270981656415,
+        339.1670970777953,
+        278.2982369377739,
+        216.01831498377737,
+        164.25028115209216,
+        143.58615000718424,
+        132.41227873607954,
+        110.77329982919495,
+        108.34875133017138,
+        105.96037983141589,
+        96.66663656600645,
+        94.36998477320796,
+        93.1535404810012,
+        80.73273542879647
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "worker",
+        "ha",
+        "voter",
+        "trump",
+        "wa",
+        "support",
+        "vote",
+        "american",
+        "company",
+        "poll",
+        "party",
+        "state",
+        "candidate",
+        "working",
+        "point"
+      ],
+      "topic_weights": [
+        200.80423057740222,
+        122.04046441442607,
+        109.94917488245682,
+        108.73889114470487,
+        97.99163953142778,
+        66.29037414436667,
+        59.36542681677505,
+        57.41888520067852,
+        56.37915226753425,
+        54.23832319854731,
+        51.03655307519435,
+        49.733031032754006,
+        49.45704392739585,
+        46.01859787359326,
+        43.06978422593512
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 23,
+    "0": 37,
+    "3": 34,
+    "2": 38,
+    "4": 11
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "As US deaths rise, the president seems unable to grasp the severity of the problem – and he’s made multiple false claims along the way First published on Sat 28 Mar 2020 13.56 EDT Political fact-check...",
+        "upvotes": 1,
+        "url": "https://www.theguardian.com/us-news/2020/mar/28/trump-coronavirus-misleading-claims"
+      },
+      {
+        "preview": "This article is more than 1 year old President Franklin D. Roosevelt’s fireside chats reassured and inspired the nation through Depression and war. During impeachment last fall, President Trump fancie...",
+        "upvotes": 197,
+        "url": "https://www.washingtonpost.com/opinions/2020/03/31/fireside-chat-trump-should-deliver/?utm_campaign=wp_opinions&utm_medium=social&utm_source=twitter"
+      },
+      {
+        "preview": "Congressman Devin Nunes (R-CA) stated that it is “overkill” for schools in his home state of Califonia to be closed in light of the coronavirus pandemic on Laura Ingraham‘s Fox News program late Tuesd...",
+        "upvotes": 1,
+        "url": "https://www.mediaite.com/tv/devin-nunes-says-closed-schools-are-overkill-during-coronavirus-pandemic/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Welcome, It will take years to sort through the details, but Trump’s $2 trillion COVID-19 response looks like a double-down on the last disaster Contributing Editor The New York Stock Exchange Tayfun ...",
+        "upvotes": 2,
+        "url": "https://www.rollingstone.com/politics/political-commentary/coronavirus-fed-bank-bailout-disaster-976086/"
+      },
+      {
+        "preview": "White House counselor Kellyanne Conway told reporters that President Donald Trump deserves his recent high approval ratings because “the economy is humming along, and it’s the Trump economy.” Conway g...",
+        "upvotes": 444,
+        "url": "https://www.mediaite.com/news/kellyanne-conway-tells-reporters-trump-deserves-high-approval-rating-because-the-economy-is-humming-along/"
+      },
+      {
+        "preview": "Advertisement Supported by But we’re already botching the response. By Paul Krugman Opinion Columnist Over a normal two-week period we’d expect around half a million U.S. workers to file claims for un...",
+        "upvotes": 1,
+        "url": "https://www.nytimes.com/2020/04/02/opinion/coronavirus-economy-stimulus.html"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Sen. “Moscow” Mitch McConnell went on the Hugh Hewitt radio show Tuesday, as he often does when he wants to be especially awful. He was exceptionally awful in all the most predictable ways: blaming th...",
+        "upvotes": 242,
+        "url": "https://www.dailykos.com/stories/2020/3/31/1932992/-McConnell-rewrites-history-to-blame-massive-fail-on-coronavirus-on-checks-notes-impeachment"
+      },
+      {
+        "preview": "Discover Thomson  By  Staff 3 Min Read WASHINGTON () - U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will form a bipartisan select committee on the coronavirus crisis to over...",
+        "upvotes": 3,
+        "url": "https://www.reuters.com/article/us-health-coronavirus-usa-pelosi-idUSKBN21K2EZ"
+      },
+      {
+        "preview": "Welcome, The GOP’s decade-long war on voting rights is making it harder to hold fair elections as COVID-19 spreads A poll worker at the First Baptist Church voting site in Hollywood, Florida, wears a ...",
+        "upvotes": 419,
+        "url": "https://www.rollingstone.com/politics/political-commentary/voting-2020-election-republicans-977435/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Some prominent Trump-supporting media personalities are already trying to defend the president's response to the coronavirus pandemic by questioning the official number of people who have died after b...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/2020/03/trump-supporters-are-already-questioning-coronavirus-death-toll-to-make-the-president-look-good/"
+      },
+      {
+        "preview": "Republicans on Tuesday were called out for a new talking point that blames impeachment for President Donald Trump's lack of early action on the novel coronavirus outbreak. According to former Republic...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/2020/03/gop-goes-down-in-flames-for-astonishingly-stupid-attempt-to-blame-outbreak-on-impeachment/"
+      },
+      {
+        "preview": "According to a report from the Washington Post, efforts by Donald Trump's family to get out from under their lease of the government property that became the Trump International Hotel in Washington, D...",
+        "upvotes": 1,
+        "url": "https://www.rawstory.com/2020/03/trump-family-unable-to-unload-washington-hotel-lease-as-commercial-real-estate-market-collapses-due-to-pandemic-report/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Drivers and delivery personnel for app-based employers keep getting squeezed. Now they’re fighting back. by Bryce Covert March 30, 2020 5:30 AM Courtesy Working Washington Gig worker Elisabeth Davis I...",
+        "upvotes": 4,
+        "url": "https://prospect.org/labor/like-uber-but-for-gig-worker-organizing/"
+      },
+      {
+        "preview": "Sections TV Featured More from NBC Follow NBC News President Donald Trump’s 2016 win upended much of the conventional wisdom about the U.S. electorate to cobble together a surprising victory. But how ...",
+        "upvotes": 1,
+        "url": "https://www.nbcnews.com/politics/first-read/demographic-shifts-show-2020-presidential-race-could-be-close-n868146"
+      },
+      {
+        "preview": "Millions without food or health care shows the need for a Bernie Sanders-style government. Is it possible when he's not president? He ran for president more than once, and never really came that close...",
+        "upvotes": 1,
+        "url": "https://www.inquirer.com/opinion/commentary/bernie-sanders-2020-presidential-coronavirus-medicare-for-all-20200412.html"
+      }
+    ]
+  }
+}

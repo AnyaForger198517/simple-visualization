@@ -1,0 +1,36 @@
+{
+  "month": "2013-04",
+  "total_articles": 104,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Political Dynamics and Immigration Debates",
+      "core_keywords": ["gun", "vote", "obama", "democrat", "republican", "state", "immigration"],
+      "importance_ratio": 0.2500
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gun Legislation and Second Amendment Rights",
+      "core_keywords": ["gun", "law", "state", "weapon", "government", "president", "right"],
+      "importance_ratio": 0.2596
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Tax Policies and Political Narratives",
+      "core_keywords": ["tax", "cut", "democrat", "republican", "political", "reagan", "mainstream"],
+      "importance_ratio": 0.0385
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Obama Administration and Border Security",
+      "core_keywords": ["obama", "border", "president", "republican", "american", "house", "advertisement"],
+      "importance_ratio": 0.2404
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Constitutional Rights and State vs Federal Power",
+      "core_keywords": ["government", "state", "federal", "law", "constitution", "amendment", "abortion"],
+      "importance_ratio": 0.2115
+    }
+  ]
+}

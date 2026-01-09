@@ -1,0 +1,36 @@
+{
+  "month": "2021-07",
+  "total_articles": 184,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Inflation and US Election Poll Dynamics",
+      "core_keywords": ["inflation", "price", "poll", "trump", "voter", "government", "money", "increase"],
+      "importance_ratio": 0.0652
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "COVID-19 and School Health Policies in the US",
+      "core_keywords": ["covid", "mask", "vaccine", "school", "child", "health", "virus", "case"],
+      "importance_ratio": 0.2772
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Biden Administration and US Partisan Politics",
+      "core_keywords": ["biden", "trump", "republican", "democrat", "president", "state", "law", "election"],
+      "importance_ratio": 0.4293
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US National Identity and China Relations",
+      "core_keywords": ["government", "china", "american", "state", "tax", "police", "country", "world"],
+      "importance_ratio": 0.2228
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Media and Journalistic Discourse in the US",
+      "core_keywords": ["post", "journalist", "news", "msnbc", "court", "texas", "private", "reply"],
+      "importance_ratio": 0.0054
+    }
+  ]
+}

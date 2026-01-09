@@ -1,0 +1,285 @@
+{
+  "month": "2014-06",
+  "total_articles": 117,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "republican",
+        "election",
+        "democrat",
+        "candidate",
+        "state",
+        "vote",
+        "cochran",
+        "party",
+        "power",
+        "spending",
+        "senate",
+        "wa",
+        "process",
+        "obama",
+        "support"
+      ],
+      "topic_weights": [
+        107.523890010969,
+        73.95254096932662,
+        71.77950079315713,
+        71.58101732922323,
+        63.99064198180258,
+        55.09285350356999,
+        46.493456104590926,
+        44.84128498446008,
+        42.48103926808086,
+        40.05170939210847,
+        39.71136652555068,
+        37.35268650974639,
+        37.103626840360924,
+        37.05178335666233,
+        33.108900900811626
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "ha",
+        "obama",
+        "wa",
+        "state",
+        "house",
+        "president",
+        "irs",
+        "administration",
+        "congress",
+        "government",
+        "american",
+        "tax",
+        "email",
+        "official",
+        "white"
+      ],
+      "topic_weights": [
+        163.03383586386926,
+        145.13228243069108,
+        141.96529494706184,
+        140.60210977556028,
+        126.34487999516685,
+        101.53489432777855,
+        92.7302472493142,
+        83.01884798005767,
+        82.85379593200221,
+        78.01737677564576,
+        74.59572732231051,
+        70.08535960089178,
+        66.30111387418488,
+        64.73254185182836,
+        61.16525335898803
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "woman",
+        "men",
+        "major",
+        "iraq",
+        "test",
+        "ha",
+        "wa",
+        "score",
+        "male",
+        "science",
+        "female",
+        "average",
+        "philosophy",
+        "high",
+        "gender"
+      ],
+      "topic_weights": [
+        331.52615782453967,
+        229.52099399142017,
+        171.897799418516,
+        163.83782345724978,
+        154.88126845491868,
+        133.3604727481635,
+        124.29442525743129,
+        114.22137049007696,
+        110.863765015151,
+        96.6132275564831,
+        92.66326088811515,
+        89.04016324904589,
+        76.22897651991983,
+        73.8222105802304,
+        72.50188783168065
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "obama",
+        "child",
+        "bergdahl",
+        "taliban",
+        "ayers",
+        "administration",
+        "border",
+        "ha",
+        "american",
+        "advertisement",
+        "chicago",
+        "official",
+        "story",
+        "prisoner"
+      ],
+      "topic_weights": [
+        157.53467928313984,
+        152.44143238152637,
+        81.90282429103608,
+        55.478385790857615,
+        54.04744662471955,
+        52.996194863631786,
+        51.18147951293924,
+        50.84843984229221,
+        49.76553312137895,
+        44.72757545078099,
+        42.396544088410664,
+        39.995612054691854,
+        37.361341363026305,
+        36.679719926959876,
+        35.198023211673735
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "email",
+        "ha",
+        "american",
+        "policy",
+        "percent",
+        "clinton",
+        "school",
+        "irs",
+        "work",
+        "job",
+        "country",
+        "did",
+        "america",
+        "student"
+      ],
+      "topic_weights": [
+        100.08620665641246,
+        94.85556494389027,
+        83.75859427110478,
+        67.60437517486966,
+        64.31334540871646,
+        62.8179866980547,
+        62.144485045269704,
+        61.72130082341943,
+        42.70531502291236,
+        42.66314234291106,
+        39.61951959367736,
+        36.948378850744966,
+        34.55970899964771,
+        34.18077283077407,
+        33.86834180830758
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 52,
+    "3": 24,
+    "4": 26,
+    "0": 9,
+    "2": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "20 years ago, a policy manifesto helped GOP ride to power on Capitol Hill Julian Zelizer says a similar document today wouldn't have the same impact Republicans need a major shift in their stance to a...",
+        "upvotes": 3,
+        "url": "http://www.cnn.com/2014/06/02/opinion/zelizer-gop-contract-with-america/index.html?hpt=op_t1"
+      },
+      {
+        "preview": "I was wrong. I thought for sure the NRSC and Mississippi’s GOP establishment would back off of McDaniel given that he’s the favorite in the runoff. Cochran might keep campaigning, I figured, but it wo...",
+        "upvotes": 9,
+        "url": "http://hotair.com/archives/2014/06/10/gloves-off-thad-cochran-calls-chris-mcdaniel-a-dangerous-extremist/"
+      },
+      {
+        "preview": "Opiate of the People Papa Ew Mao Mao shyly Tovarichi Tovarichi was watching out for Papa Ew Mao Mao when he I think Captain Craptek was really feeling a bit jealous when he Politburo Wannabe #11-7-2 J...",
+        "upvotes": 2,
+        "url": "http://thepeoplescube.com/peoples-blog/hillary-clinton-reveals-what-it-s-like-to-be-poor-in-america-t14091.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "President Barack Obama embraces former President George W. Bush after the 2013 dedication of the George W. Bush presidential library.Charles Dharapak/AP Update, Friday, 11:30 a.m. EDT: President Barac...",
+        "upvotes": 0,
+        "url": "http://www.motherjones.com/politics/2014/05/veterans-affairs-backlogs-waiting-lists-george-bush"
+      },
+      {
+        "preview": "Today, the National Potato Council praised the House for considering a bill to include the potato in its WIC (Women, Infants, and Children) food nutrition (\"food stamp\") program. The Council also debu...",
+        "upvotes": 13,
+        "url": "http://cnsnews.com/mrctv-blog/craig-bannister/potato-council-debunks-first-ladys-science-claims?utm_source=Facebook&utm_medium=Marketing&utm_term=Facebook&utm_content=socialfow&utm_campaign=b-potato-council"
+      },
+      {
+        "preview": "A rather wonky interstate commerce case has been granted a writ of certiorari and will be heard by the Supreme Court during the fall session. The reason this particular petition should interest you is...",
+        "upvotes": 6,
+        "url": "http://hotair.com/archives/2014/06/01/scotus-to-decide-on-double-taxation-across-state-lines/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Advertisement Supported by By Michael R. Gordon and Eric Schmitt WASHINGTON — As the threat from Sunni militants in western Iraq escalated last month, Prime Minister Nuri Kamal al-Maliki secretly aske...",
+        "upvotes": 44,
+        "url": "http://www.nytimes.com/2014/06/12/world/middleeast/iraq-asked-us-for-airstrikes-on-militants-officials-say.html?_r=0"
+      },
+      {
+        "preview": "By Olivier Knox Secretary of State John Kerry cautiously signaled on Monday that the United States would be open to cooperating with Iran militarily in Iraq to beat back al Qaida-inspired fighters who...",
+        "upvotes": 5,
+        "url": "http://news.yahoo.com/katie-couric--john-kerry-interview-213218299.html"
+      },
+      {
+        "preview": "I had occasion to rewatch this speech today before I went on “The O’Reilly Factor.” Given Dec. 14, 2011 at Fort Bragg in North Carolina, its contents are gut-wrenching. 1. This one, in which Obama con...",
+        "upvotes": 6,
+        "url": "http://hotair.com/archives/2014/06/16/9-quotes-from-obamas-2011-remarks-on-the-end-of-the-war-in-iraq-that-show-his-total-lack-of-foresight/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Advertisement Wow! You don’t hear this everyday from a so-called conservative. Senator Thad Cochran is faces off Tea Party challenger Chris McDaniel next week in the Mississippi primary. Senator Thad ...",
+        "upvotes": 1,
+        "url": "http://www.thegatewaypundit.com/2014/05/wow-republican-sen-thad-cochran-im-glad-to-be-involved-in-obamacare-effort/"
+      },
+      {
+        "preview": "Ulema Council says so-called ‘honour killings’ are un-Islamic and sign of ignorance, ahead of June 5 meeting. A coalition of Pakistani religious leaders has issued a religious edict declaring ‘honour ...",
+        "upvotes": 16,
+        "url": "http://www.aljazeera.com/news/asia/2014/06/pakistan-clerics-issue-honour-killing-fatwa-201461960536332.html"
+      },
+      {
+        "preview": "On Monday, outgoing White House Press Sec. Jay Carney joined CNN’s Chris Cuomo to discuss the release of Army Sgt. Bowe Bergdahl, an American soldier who was released this weekend after being held for...",
+        "upvotes": 4,
+        "url": "http://www.mediaite.com/tv/carney-insists-u-s-did-not-negotiate-with-terrorists-bergdahl-was-not-a-hostage/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "(AP Photo) (.com) – A new analysis by the Employment Policy Institute (EPI) shows that unemployment among teens without a high school diploma is more than 50 percent in two of the largest U.S. cities....",
+        "upvotes": 4,
+        "url": "http://cnsnews.com/news/article/penny-starr/summertime-blues-teen-unemployment-major-us-cities-tops-50-percent"
+      },
+      {
+        "preview": "(AP Photo) (.com) - The percentage of American civilians 16 or older who do not have a job and are not actively seeking one remained at a 36-year high in May, according to the Bureau of Labor Statisti...",
+        "upvotes": 58,
+        "url": "http://www.cnsnews.com/news/article/ali-meyer/372-percentage-not-labor-force-remains-36-year-high"
+      },
+      {
+        "preview": "This site isn’t just about guns…it’s about liberty. And sometimes, especially on this day, the anniversary of D-Day, we should take a moment to remember that freedom has rarely been given and has most...",
+        "upvotes": 3,
+        "url": "http://bulletsfirst.net/2014/06/06/boys-pointe-du-hoc-reagans-speech-honoring-sacrifice/#cTo5ioZUWSCXRyXM.16"
+      }
+    ]
+  }
+}

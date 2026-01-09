@@ -1,0 +1,280 @@
+{
+  "month": "2020-11",
+  "total_articles": 133,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "ha",
+        "life",
+        "work",
+        "village",
+        "city",
+        "mutual",
+        "community",
+        "labor",
+        "family",
+        "animal",
+        "aid",
+        "law",
+        "common",
+        "sander"
+      ],
+      "topic_weights": [
+        327.36591131859234,
+        202.01331087051912,
+        183.57204023966375,
+        157.5635340649122,
+        153.44416246757964,
+        128.57634080130418,
+        127.83937256984261,
+        125.6318772213765,
+        101.63529954184371,
+        99.07652745197343,
+        98.57880735766594,
+        96.34437202489794,
+        92.97809583902969,
+        92.90717637551394,
+        88.3358212510439
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "biden",
+        "american",
+        "senate",
+        "week",
+        "policy",
+        "pandemic",
+        "trump",
+        "million",
+        "covid",
+        "administration",
+        "vote",
+        "president"
+      ],
+      "topic_weights": [
+        165.77672582711915,
+        116.50443934042318,
+        112.19401686385069,
+        104.01246725296588,
+        102.93807136284137,
+        65.33721651822943,
+        54.86273632582131,
+        51.59771405184193,
+        46.81085429485099,
+        44.60212502615593,
+        43.91192085619764,
+        42.743992823360344,
+        41.07006552578585,
+        40.61783063939102,
+        39.94121907505642
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "video",
+        "identity",
+        "didn",
+        "story",
+        "black",
+        "woman",
+        "world",
+        "got",
+        "held",
+        "life",
+        "country",
+        "personal",
+        "link",
+        "feel",
+        "pandemic"
+      ],
+      "topic_weights": [
+        223.01354628235882,
+        50.24477780802158,
+        45.385798408168355,
+        41.71133285387603,
+        32.850089085495135,
+        32.11208791477999,
+        31.620720659606825,
+        30.72144304259707,
+        30.547562751960218,
+        30.339244567320236,
+        29.98545078724087,
+        29.928055159159232,
+        29.898319404307138,
+        29.835064387001026,
+        29.814130416053896
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "ha",
+        "company",
+        "trump",
+        "official",
+        "wa",
+        "agency",
+        "bank",
+        "department",
+        "rule",
+        "administration",
+        "justice",
+        "barr",
+        "klein",
+        "white",
+        "public"
+      ],
+      "topic_weights": [
+        33.39665169723527,
+        26.732117692299152,
+        26.04456678205125,
+        25.787442362366395,
+        23.438093848628537,
+        21.857583186209617,
+        21.725400387975785,
+        21.470709737250473,
+        20.281153583996293,
+        19.24307765947486,
+        17.999768267703818,
+        17.146036616428752,
+        15.824544303446144,
+        15.49984566356605,
+        15.357513413851327
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "election",
+        "biden",
+        "republican",
+        "president",
+        "ha",
+        "wa",
+        "voter",
+        "supporter",
+        "state",
+        "vote",
+        "democrat",
+        "november",
+        "party",
+        "ballot"
+      ],
+      "topic_weights": [
+        1322.2962193335934,
+        641.1230217108504,
+        601.8222561200226,
+        558.0657823065022,
+        519.6655464199423,
+        464.87705178862984,
+        407.60963930989146,
+        379.50491631174026,
+        248.4765001089201,
+        236.64506428300626,
+        222.62693046469496,
+        209.20794369688915,
+        202.72183011751363,
+        191.78954035080446,
+        184.04908395886605
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 40,
+    "1": 74,
+    "0": 4,
+    "3": 13,
+    "2": 2
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "“Islam is a religion which is experiencing a crisis today, all over the world,” Suppose faith lacked the prowess to influence and entice, suppose its dominions were built on fickle tattles rather than...",
+        "upvotes": 1,
+        "url": "https://theindigoreview.wordpress.com/2020/11/01/radical-islam-is-set-to-plague-and-plunder-the-western-world/"
+      },
+      {
+        "preview": "A snow blower is a device used in the removal of snow in specific areas where it is not wanted. In most cases, unwanted snow is found on lanes, pathways, on the roads, runways among others. For power,...",
+        "upvotes": 1,
+        "url": "https://homemakerguide.com/best-2-stage-snow-blower-under-1000/"
+      },
+      {
+        "preview": "Bernie Sanders and Joe Biden (Frederic J. Brown / AFP via Getty Images) By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs that ...",
+        "upvotes": 1,
+        "url": "https://www.thenation.com/article/politics/bernie-sanders-labor-secretary/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The problem, Tucker said in a nod to Evangelicals, is that America is a ”secular society“ In the middle of his Fox News show on Friday night, Tucker Carlson brought on Marc Siegel to complain about th...",
+        "upvotes": 1,
+        "url": "https://www.thewrap.com/tucker-carlson-america-cant-handle-covid-because-it-denies-that-death-is-real-video/"
+      },
+      {
+        "preview": "Discover Thomson  By Anurag Maan 3 Min Read () - The United States set a new all-time high for coronavirus cases confirmed in a single 24-hour period on Friday, reporting just over 100,000 new infecti...",
+        "upvotes": 1,
+        "url": "https://www.reuters.com/article/us-health-coronavirus-usa-record-idUSKBN27G07S"
+      },
+      {
+        "preview": "The president is most likely a superspreader. A study conducted by four Stanford University economic researchers determined that 18 Trump campaign rallies, the bulk of which took place over the past s...",
+        "upvotes": 2,
+        "url": "https://www.vox.com/2020/10/31/21543277/trump-rallies-covid-19-deaths-superspreader-stanford-study-infections"
+      }
+    ],
+    "2": [
+      {
+        "preview": "See update below: It's no secret that I admire James Woods for his insight, artistry, and vigor. His Twitter account (I don't yet see him on Parler) is a continuing source of inspiration for its conci...",
+        "upvotes": 1,
+        "url": "https://www.americanthinker.com/blog/2020/11/james_woods_exposes_dozens_of_local_news_shows_reading_from_the_same_biden_script.html"
+      },
+      {
+        "preview": "Shaz says she didn't know there were other people like her until she joined a social media platform where she now has 30,000 followers one year after joining. TikTok is now her \"safe space\", she says....",
+        "upvotes": 1,
+        "url": "https://www.bbc.com/news/av/uk-55079954"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The Sonic Youth co-founder discusses his new solo album By the Fire ﻿Listen via Apple Podcasts | Spotify | Google Play | Stitcher | Radio Public | RSSSonic Youth co-founder Thurston Moore sits down wi...",
+        "upvotes": 1,
+        "url": "https://consequenceofsound.net/2020/11/kyle-meredith-with-thurston-moore/"
+      },
+      {
+        "preview": "Discover Thomson  By Matt Scuffham, Tom Sims, John O’Donnell 6 Min Read NEW YORK/FRANKFURT () - Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. ...",
+        "upvotes": 35,
+        "url": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive/exclusive-tired-of-trump-deutsche-bank-wants-out-but-sees-no-good-options-sources-idUSKBN27J0G0"
+      },
+      {
+        "preview": "In just two years, Attorney General William Barr transformed the Department of Justice into a sleazy, third-rate law firm devoted to shielding Donald Trump and his friends from the consequences of the...",
+        "upvotes": 874,
+        "url": "https://slate.com/news-and-politics/2020/11/goodbye-attorney-general-bill-barr.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "SEARCH Dozens of pickup trucks, many with Trump flags, surrounded a Biden campaign bus as it traveled from San Antonio to Austin. Reporter Joe Biden’s presidential campaign canceled a Friday event in ...",
+        "upvotes": 1,
+        "url": "https://www.thedailybeast.com/biden-camp-cancels-austin-texas-event-after-pro-trump-ambush-on-campaign-bus"
+      },
+      {
+        "preview": "'s Who Counts? series is made possible by the support of  Plus members and readers like you. Update, Nov. 2, 2020, at 3:46 p.m. EST: U.S. District Judge Andrew Hanen refused to halt drive-thru voting ...",
+        "upvotes": 1,
+        "url": "https://slate.com/news-and-politics/2020/10/texas-drive-through-voting-throw-out-ballots.html"
+      },
+      {
+        "preview": "The peaceful transfer of power through elections is a defining feature of democracy. After votes are freely cast and fairly counted, the losing candidate or party accepts the results as legitimate and...",
+        "upvotes": 1,
+        "url": "https://www.foreignaffairs.com/articles/indonesia/2020-11-03/blackmail-theory-disputed-elections"
+      }
+    ]
+  }
+}

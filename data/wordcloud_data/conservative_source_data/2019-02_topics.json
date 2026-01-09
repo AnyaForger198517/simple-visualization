@@ -1,0 +1,285 @@
+{
+  "month": "2019-02",
+  "total_articles": 134,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "church",
+        "student",
+        "state",
+        "ha",
+        "university",
+        "president",
+        "border",
+        "group",
+        "according",
+        "life",
+        "email",
+        "southern",
+        "sexual",
+        "police"
+      ],
+      "topic_weights": [
+        121.4408233476651,
+        83.36028526498237,
+        55.11318770741165,
+        54.238965112264715,
+        54.170845135550536,
+        48.28551142198266,
+        34.48982648269667,
+        33.88590402550954,
+        33.36948319710818,
+        32.08841375089889,
+        29.73225439918246,
+        27.915783890761965,
+        27.586764700554898,
+        26.626240574329586,
+        25.58047430492145
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "woman",
+        "wa",
+        "men",
+        "ha",
+        "support",
+        "trump",
+        "american",
+        "percent",
+        "transgender",
+        "sport",
+        "national",
+        "government",
+        "female",
+        "male",
+        "world"
+      ],
+      "topic_weights": [
+        358.2327042218664,
+        167.4421009494207,
+        132.58593660281008,
+        108.26225301709805,
+        101.07703624455254,
+        99.36998620010692,
+        95.8116605236859,
+        93.39808987606713,
+        85.21348370641482,
+        84.71657377741559,
+        83.91439979651982,
+        79.64670522936461,
+        76.00986921505095,
+        74.82087608605154,
+        67.85508587512855
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "ballot",
+        "wa",
+        "election",
+        "mail",
+        "trump",
+        "vote",
+        "state",
+        "democrat",
+        "voter",
+        "texas",
+        "medium",
+        "campaign",
+        "political",
+        "fraud",
+        "attorney"
+      ],
+      "topic_weights": [
+        546.5611186800845,
+        466.2883930841348,
+        447.00866147684195,
+        423.3975529685539,
+        410.2370659673053,
+        384.34884711491964,
+        314.59159017555817,
+        305.80429236464437,
+        224.33526466278843,
+        211.09531645076135,
+        168.50354593318738,
+        144.1282197151864,
+        139.29153201094977,
+        137.45650188240916,
+        135.0056211306833
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "democrat",
+        "morality",
+        "space",
+        "moral",
+        "kristol",
+        "dowless",
+        "february",
+        "force",
+        "state",
+        "political",
+        "ha",
+        "justice",
+        "northam",
+        "twitter",
+        "christian"
+      ],
+      "topic_weights": [
+        27.33309459032153,
+        22.020803471707218,
+        15.179254775857238,
+        13.994400742760462,
+        13.268195070531426,
+        12.939350423690254,
+        12.317558213867944,
+        12.024162405933813,
+        12.004727602974222,
+        11.39545961170756,
+        11.150367856263822,
+        10.565282829777372,
+        10.539707354244726,
+        10.348189131984412,
+        9.590360377957595
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "facebook",
+        "medium",
+        "political",
+        "journalist",
+        "ha",
+        "trump",
+        "conservative",
+        "news",
+        "truth",
+        "did",
+        "reporting",
+        "week",
+        "question",
+        "fact"
+      ],
+      "topic_weights": [
+        285.2396519161502,
+        166.7275678406661,
+        161.6735668424931,
+        147.54138561698068,
+        118.2230647447507,
+        117.97293749117462,
+        106.13032914682042,
+        101.10644695012635,
+        100.73596275769015,
+        96.64008630761076,
+        84.3500943340299,
+        83.6720126637599,
+        76.7585131877377,
+        70.3888037619182,
+        68.18178006383545
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 56,
+    "2": 10,
+    "4": 31,
+    "0": 29,
+    "3": 8
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Alberta as our 51st state is not as far-fetched as it sounds at first blush. The idea was written about by Peter Zeihan in Accidental Superpower (2014) and recently broached by Holman Jenkins, Jr. in ...",
+        "upvotes": 7,
+        "url": "https://www.americanthinker.com/articles/2019/01/alberta_our_51st_state.html"
+      },
+      {
+        "preview": "Radio host Rush Limbaugh says Virginia Gov. Ralph Northam’s blackface yearbook scandal is elbowing out his earlier part in exposing an American “pro-death movement.” The conservative radio host told l...",
+        "upvotes": 55,
+        "url": "https://m.washingtontimes.com/news/2019/feb/4/rush-limbaugh-ralph-northam-exposed-pro-death-move/?"
+      },
+      {
+        "preview": "FAIRFAX, Va. — Anger. Frustration. Sadness. All these emotions and more were expressed by students Tuesday during a 90-minute forum hosted at George Mason University that aimed to allow students to pr...",
+        "upvotes": 0,
+        "url": "https://www.thecollegefix.com/virginia-university-hosts-forum-for-students-to-process-their-emotions-over-northam-controversy/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Senate Republicans joined Democrats in offering a direct rebuke Thursday of the administration’s Syria policy, marking the first time during the new ...",
+        "upvotes": 0,
+        "url": "https://thehill.com/homenews/senate/427902-senate-admonishes-trump-on-syria"
+      },
+      {
+        "preview": "As a person who ticks a couple letters off the LGBT acronym, it’s time to say it plainly and clearly: the biggest threat in regards to my widespread acceptance as a gay trans person is none other than...",
+        "upvotes": 4,
+        "url": "https://www.redstate.com/diary/sophnar0747/2019/01/31/lgbt-community-become-worst-enemy/"
+      },
+      {
+        "preview": "The .com Promise House Speaker Nancy Pelosi, D-Calif., and U.S. Rep. Carolyn B. Maloney, D-NY, at a swearing-in ceremony for the 116th Congress earlier this month. (Photo: Maloney’s office) A New York...",
+        "upvotes": 1,
+        "url": "https://www.guns.com/news/2019/01/31/dems-debut-bills-to-mandate-insurance-for-gun-owners-extend-background-checks"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Let’s do a little pretending. You are living in East Germany in 1960. The Stasi, the repressive secret police, have arrested you. As you are languishing in prison, the state prosecutor asks you to cou...",
+        "upvotes": 14,
+        "url": "https://www.americanthinker.com/articles/2019/02/the_corrupt_doj_vs_the_people.html"
+      },
+      {
+        "preview": "by: Daveda Gruber: President Trump’s pick for Attorney General, William Barr, has had a grueling time with Senators in the wake of facing confirmation to be President Trump’s chief law enforcement off...",
+        "upvotes": 0,
+        "url": "https://defiantamerica.com/will-william-barr-be-the-next-attorney-general/"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved With Republicans on both House and Senate investigative committees having found no evidence of Donald TrumpDonald TrumpHouse Democrats eye 26.5 perce...",
+        "upvotes": 55,
+        "url": "https://thehill.com/opinion/white-house/429292-the-case-for-russia-collusion-against-the-democrats"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The Democrats have laid claim to be the new arbiters of “morality.” They declare “immoral” anything that has the potential to thwart them, whether it’s a wall, a hat, a facial expression, or even reli...",
+        "upvotes": 115,
+        "url": "https://www.americanthinker.com/articles/2019/02/beware_the_morality_of_the_democrats.html"
+      },
+      {
+        "preview": "Photo by Chip Somodevilla/Getty Images “Never Trump” conservative and The Weekly Standard co-founder Bill Kristol donated to Democrat Ralph Northam’s campaign during the 2017 Virginia gubernatorial el...",
+        "upvotes": 24,
+        "url": "https://dailycaller.com/2019/02/04/never-trump-bill-kristol-donate-ralph-northam-campaign/"
+      },
+      {
+        "preview": "You can also follow us on Facebook, Twitter and Instagram. Fake news you can trust, delivered straight to your inbox. PHOENIX, AZ—Private Christian school Grand Canyon University has disinvited Jesus ...",
+        "upvotes": 6,
+        "url": "https://babylonbee.com/news/gcu-disinvites-jesus-from-campus-for-causing-division"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 18,
+        "url": "https://www.newsbusters.org/blogs/business/julia-seymour/2019/02/01/cnbcs-jim-cramer-challenges-sen-warren-over-wealth-tax"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 10,
+        "url": "https://www.newsbusters.org/blogs/culture/gabriel-hays/2019/02/01/glaad-media-awards-noms-released-nets-and-cable-news-awarded"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 17,
+        "url": "https://www.newsbusters.org/blogs/nb/tim-graham/2019/02/02/bozell-graham-column-which-parents-should-be-scolded"
+      }
+    ]
+  }
+}

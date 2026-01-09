@@ -1,0 +1,285 @@
+{
+  "month": "2013-04",
+  "total_articles": 109,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "gun",
+        "wa",
+        "ha",
+        "program",
+        "state",
+        "week",
+        "internet",
+        "cut",
+        "public",
+        "percent",
+        "national",
+        "house",
+        "law",
+        "white",
+        "privacy"
+      ],
+      "topic_weights": [
+        114.8077578465784,
+        81.60749949253064,
+        67.95313945147468,
+        50.24214372253671,
+        49.942874003409784,
+        47.97565916103063,
+        46.685434390388394,
+        41.319318292363626,
+        41.235728665221714,
+        41.18174727721914,
+        41.110688312595045,
+        38.66219589462642,
+        38.28923546804246,
+        36.41160216415951,
+        35.86698465295432
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "occ",
+        "bank",
+        "wa",
+        "foreclosure",
+        "republican",
+        "review",
+        "right",
+        "party",
+        "voting",
+        "vote",
+        "goal",
+        "error",
+        "ha",
+        "regulator",
+        "support"
+      ],
+      "topic_weights": [
+        166.84661417082216,
+        148.51299482740876,
+        98.90606456471923,
+        83.61391268689331,
+        82.74613860225722,
+        72.16111275269873,
+        70.9596335282773,
+        67.08929083313996,
+        63.895922980960265,
+        62.84015469784215,
+        53.41380604324226,
+        51.870775844504436,
+        50.92641948216014,
+        50.168686336282,
+        47.28246847859802
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "obama",
+        "american",
+        "justice",
+        "bush",
+        "political",
+        "president",
+        "climate",
+        "world",
+        "conservative",
+        "movement",
+        "state",
+        "war",
+        "social"
+      ],
+      "topic_weights": [
+        253.3011999304203,
+        140.1978896335766,
+        109.773011329248,
+        85.72008710140449,
+        80.78267450406278,
+        80.10224952216014,
+        76.69268410580477,
+        73.43158627890514,
+        72.91719547477985,
+        70.5163650639757,
+        69.92983177117492,
+        67.38562157156599,
+        65.69127487326651,
+        61.80669000217613,
+        58.739028448562706
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "jones",
+        "mother",
+        "wa",
+        "policy",
+        "story",
+        "corporation",
+        "ha",
+        "today",
+        "republican",
+        "church",
+        "marriage",
+        "term",
+        "gay",
+        "support",
+        "privacy"
+      ],
+      "topic_weights": [
+        113.54847593846846,
+        113.3196533469128,
+        72.54304802963402,
+        64.78501851308235,
+        60.15722576120556,
+        57.02224264513918,
+        56.11634118827565,
+        50.35649450770523,
+        48.50823917045773,
+        48.46696880215368,
+        44.80202403460352,
+        44.65586242241135,
+        43.239161166437256,
+        42.886590833772956,
+        41.359575767572935
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "disability",
+        "wealth",
+        "security",
+        "benefit",
+        "ha",
+        "social",
+        "household",
+        "percent",
+        "bank",
+        "child",
+        "family",
+        "government",
+        "program",
+        "state"
+      ],
+      "topic_weights": [
+        175.46606233241582,
+        142.02200740899121,
+        103.35849014562115,
+        93.77620702145235,
+        91.84246273061608,
+        90.85826535579305,
+        90.11256470216797,
+        87.64054760186225,
+        80.89569866873786,
+        77.30633907217091,
+        76.35062505585873,
+        75.30710942651265,
+        73.92491506961072,
+        70.39281627627258,
+        65.45326200886814
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 34,
+    "4": 17,
+    "3": 20,
+    "2": 35,
+    "1": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Said the Lobbyist to the Congressman. Like 434 other Members of the U.S. House of Representatives, if I want to keep the job, I have to run for re-election next year. Unlike 434 other Members of the U...",
+        "upvotes": 3,
+        "url": "http://alangraysonemails.tumblr.com/post/46770591003/whats-in-it-for-you-this"
+      },
+      {
+        "preview": "Advertisement Supported by By Jennifer Steinhauer WASHINGTON — It was, Senator Harry Reid of Nevada ebulliently proclaimed, a “happy day for me” as he stood with Wayne LaPierre, the head of the Nation...",
+        "upvotes": 0,
+        "url": "http://www.nytimes.com/2013/04/01/us/politics/harry-reid-draws-on-political-calculus-as-he-leads-senate.html"
+      },
+      {
+        "preview": "SEARCH Would a new bill lead to the quarantine of Kansas residents with HIV?David Freedlander on the uproar. When is a quarantine not a quarantine? That is what lawmakers and LGBT advocates in Kansas ...",
+        "upvotes": 12,
+        "url": "http://www.thedailybeast.com/articles/2013/04/02/kansas-quarantine-bill-has-hiv-aids-advocates-up-in-arms.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "MARK KARLIN, EDITOR OF BUZZFLASH AT TRUTHOUT As Sen. Bernie Sanders (I-Vermont) charges in a news release issued from his Senate office: The 10 largest banks in the United States are bigger now than b...",
+        "upvotes": 35,
+        "url": "http://truth-out.org/buzzflash/commentary/item/17908-bernie-sanders-writes-law-to-break-them-up-10-largest-banks-bigger-now-than-before-taxpayer-bailout"
+      },
+      {
+        "preview": "e preliminary results of the foreclosure reviews at the individual servicers and a second letter requesting, among many items, all calls from the consultants to the regulators. To date, the OCC has no...",
+        "upvotes": 0,
+        "url": "http://www.thenation.com/article/173749/foreclosure-review-report-shows-occ-continues-bury-wall-streets-bodies"
+      },
+      {
+        "preview": "t by the Republican governor and legislator to eliminate election-day registration. In Minnesota, in 2012, voters rejected a Republican-backed constitutional amendment to impose a strict Voter ID law....",
+        "upvotes": 37,
+        "url": "http://www.thenation.com/blog/174095/how-voter-backlash-against-voter-suppression-changing-our-politics#"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Excerpted from \"Why Are Professors Liberal and Why Do Conservatives Care?\" If you want to understand the origins of the 21st century campaign against the liberal professoriate, you have to understand ...",
+        "upvotes": 8,
+        "url": "http://www.salon.com/2013/03/31/why_conservatives_hate_college/#.UVjERcWZFdM.reddit"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 1,
+        "url": "http://www.examiner.com/article/what-s-the-matter-with-north-dakota-rise-of-a-male-dominated-dystopia"
+      },
+      {
+        "preview": "Pro-Hillary Clinton group \"Ready for Hillary\" is ready for action. The political action committee, which started operating in January, officially launched its new website Tuesday with an email from Al...",
+        "upvotes": 21,
+        "url": "http://www.huffingtonpost.com/2013/04/02/hillary-clinton-super-pac_n_2999285.html?ncid=txtlnkushpmg00000037"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Even as Democratic lawmakers rush to announce their support for gay marriage, a look back at the congressional debate over the Defense of Marriage Act in 1996 shows they haven't always championed the ...",
+        "upvotes": 0,
+        "url": "http://news.yahoo.com/blogs/ticket/flashback-almost-every-politician-supported-traditional-marriage-173237350--election.html"
+      },
+      {
+        "preview": "To revist this article, visit My Profile, then View saved stories. To revist this article, visit My Profile, then View saved stories. Robert Beckhusen To revist this article, visit My Profile, then Vi...",
+        "upvotes": 2,
+        "url": "http://www.wired.com/dangerroom/2013/03/twitter-extremists/"
+      },
+      {
+        "preview": "Written by Eric Boehlert Published 03/29/13 10:30 AM EDT Share Comment Add Commentary's John Podhoretz to the growing list of conservative writers who, in the wake of Obama's easy re-election win, are...",
+        "upvotes": 26,
+        "url": "http://mediamatters.org/blog/2013/03/29/alarmed-by-gops-tarnished-image-conservatives-s/193349"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The 99 Percent Plan is a joint Roosevelt Institute- series that explores how progressives can shape a new vision for the economy. This is the first essay in the series. Privatizing the government is o...",
+        "upvotes": 75,
+        "url": "http://www.salon.com/2012/02/05/the_privatization_trap/"
+      },
+      {
+        "preview": "Featured Shows  TV More More Shows Follow  More Brands More Shows Tennessee lawmakers are weighing a counter-intuitive of fostering student achievement: Threatening their families' income. Republicans...",
+        "upvotes": 0,
+        "url": "http://tv.msnbc.com/2013/04/02/the-problem-with-discipline-and-punish-welfare-policy/"
+      },
+      {
+        "preview": "Former Sen. Jim DeMint, the new president of the Heritage Foundation, began work there Thursday with a letter to the group's staff outlining his vision for the organization. Mitt Romney would find muc...",
+        "upvotes": 0,
+        "url": "http://www.huffingtonpost.com/2013/04/04/jim-demint-695-million_n_3013837.html"
+      }
+    ]
+  }
+}

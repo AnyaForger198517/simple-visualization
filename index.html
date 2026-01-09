@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>舆情可视化</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/d3.v7.min.js"></script>
+    <script src="js/d3-cloud.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- 左侧核心可视化板块 -->
+        <div class="chart-panel">
+            <!-- 顶部：图表类型切换按钮 -->
+            <div class="chart-type-controls">
+                <button class="btn chart-type-btn active" data-chart="trend">时间趋势图</button>
+                <button class="btn chart-type-btn" data-chart="domain">域名分布饼图（双党派）</button>
+            </div>
+
+            <!-- 趋势图专属控件（默认显示） -->
+            <div class="trend-controls chart-controls-wrapper">
+                <!-- 左侧纵向按钮：发帖数/点赞数/评论数 -->
+                <div class="vertical-buttons">
+                    <button class="btn active" data-type="post_count">发帖数</button>
+                    <button class="btn" data-type="total_upvotes">点赞数</button>
+                    <button class="btn" data-type="total_comments">评论数</button>
+                </div>
+                
+                <!-- 右侧：年份选择 + 显示全部按钮 -->
+                <div class="year-controls">
+                    <div class="year-select-wrapper">
+                        <label>选择年份：</label>
+                        <select id="yearSelect">
+                            <!-- 动态生成2008-2021年份选项 -->
+                        </select>
+                    </div>
+                    <button id="showAllBtn" class="btn primary-btn">显示全部年份</button>
+                </div>
+            </div>
+
+            <!-- 饼图专属控件（默认隐藏） -->
+            <div class="domain-controls chart-controls-wrapper" style="display: none;">
+                <!-- TOP数量选择 -->
+                <div class="year-controls">
+                    <div class="year-select-wrapper">
+                        <label>TOP数量：</label>
+                        <select id="topCountSelect">
+                            <option value="5">TOP 5</option>
+                            <option value="10">TOP 10</option>
+                        </select>
+                    </div>
+                    <button id="refreshDomainBtn" class="btn primary-btn">刷新饼图</button>
+                </div>
+            </div>
+            
+            <!-- 图表容器 -->
+            <div class="chart-box">
+                <!-- 趋势图图例（默认显示） -->
+                <div class="chart-legend trend-legend">
+                    <div class="legend-item">
+                        <span class="legend-color conservative"></span>
+                        <span class="legend-text">Conservative（保守派）</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color liberal"></span>
+                        <span class="legend-text">Liberal（自由派）</span>
+                    </div>
+                </div>
+                <!-- SVG容器 -->
+                <svg id="mainChart" width="100%" height="100%"></svg>
+            </div>
+        </div>
+        
+        <!-- 右侧：预留面板 -->
+        <div class="right-panel">
+            <!-- 词云面板（新增，默认隐藏） -->
+             <div id="wordCloudPanel" style="display: none; width: 100%; height: 100%;">
+                <div class="wc-title">关键词重叠词云</div>
+                <div class="wc-legend">
+                    <div class="wc-legend-item">
+                        <div class="wc-legend-color" style="background-color: #1890ff;"></div>
+                        <span>保守派专属</span>
+                    </div>
+                    <div class="wc-legend-item">
+                        <div class="wc-legend-color" style="background-color: #faad14;"></div>
+                        <span>自由派专属</span>
+                    </div>
+                    <div class="wc-legend-item">
+                        <div class="wc-legend-color" style="background-color: #8c8c8c;"></div>
+                        <span>两党共有</span>
+                    </div>
+                </div>
+                <svg id="wordCloudSvg"></svg>
+            </div>
+
+            <!-- 文本浏览器（原有） -->
+            <div id="articleViewer" class="empty-tip">
+                点击饼图中的某个域名以查看样例文本
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

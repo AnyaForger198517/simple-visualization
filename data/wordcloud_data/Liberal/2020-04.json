@@ -1,0 +1,36 @@
+{
+  "month": "2020-04",
+  "total_articles": 143,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Coronavirus Public Health and Mortality",
+      "core_keywords": ["coronavirus", "health", "hospital", "covid", "virus", "death", "mask", "patient"],
+      "importance_ratio": 0.2587
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Economic and Tax Policies Amid Coronavirus",
+      "core_keywords": ["tax", "economic", "income", "business", "federal", "trump", "pay", "economy"],
+      "importance_ratio": 0.1608
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Election Ballot and Voting Policies in Pandemic",
+      "core_keywords": ["ballot", "election", "mail", "absentee", "trump", "republican", "court", "pandemic"],
+      "importance_ratio": 0.2657
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Biden vs Trump and Coronavirus Allegations",
+      "core_keywords": ["biden", "trump", "president", "coronavirus", "allegation", "campaign", "woman", "reade"],
+      "importance_ratio": 0.2378
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Workers' Rights and Voter Support in Elections",
+      "core_keywords": ["worker", "voter", "trump", "support", "vote", "company", "party", "candidate"],
+      "importance_ratio": 0.0770
+    }
+  ]
+}

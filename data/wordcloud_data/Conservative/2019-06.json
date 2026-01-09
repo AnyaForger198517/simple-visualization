@@ -1,0 +1,36 @@
+{
+  "month": "2019-06",
+  "total_articles": 164,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Immigration and Family Separation at US Border",
+      "core_keywords": ["ice", "border", "immigration", "family", "child", "migrant", "trump"],
+      "importance_ratio": 0.1280
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Climate Change and Energy Data Analysis",
+      "core_keywords": ["climate", "temperature", "heat", "energy", "warming", "data", "model"],
+      "importance_ratio": 0.0122
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Supreme Court and Legal Cases Involving Google",
+      "core_keywords": ["court", "supreme", "law", "google", "case", "justice", "trump"],
+      "importance_ratio": 0.1951
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump and Political Party Dynamics in US",
+      "core_keywords": ["trump", "democrat", "republican", "president", "tax", "voter", "american"],
+      "importance_ratio": 0.3415
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "FBI Investigation into Trump and Clinton Related Issues",
+      "core_keywords": ["fbi", "mueller", "trump", "clinton", "investigation", "report", "agent"],
+      "importance_ratio": 0.3232
+    }
+  ]
+}

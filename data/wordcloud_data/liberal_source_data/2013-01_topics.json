@@ -1,0 +1,285 @@
+{
+  "month": "2013-01",
+  "total_articles": 169,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "poverty",
+        "family",
+        "percent",
+        "million",
+        "job",
+        "worker",
+        "income",
+        "program",
+        "american",
+        "low",
+        "cut",
+        "cash",
+        "experiencing",
+        "including",
+        "week"
+      ],
+      "topic_weights": [
+        481.64314067571627,
+        267.4236610465487,
+        217.73696118793575,
+        204.52453718506808,
+        157.0927182424128,
+        153.3993413258838,
+        125.1647184146813,
+        109.10512946162979,
+        104.78335302730463,
+        102.07297685542169,
+        88.88543431041406,
+        88.39125993590484,
+        85.97251963397827,
+        85.36444267502779,
+        83.73345858455424
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "union",
+        "right",
+        "wa",
+        "government",
+        "law",
+        "health",
+        "community",
+        "ha",
+        "single",
+        "ordinance",
+        "payer",
+        "constitution",
+        "local",
+        "care"
+      ],
+      "topic_weights": [
+        633.04228745714,
+        626.932604956773,
+        591.327750057693,
+        586.7712116418847,
+        583.8312909959405,
+        571.0611318620744,
+        473.03572899675686,
+        472.62771076030197,
+        452.5979182571457,
+        433.47834816854396,
+        427.27505818341865,
+        421.4587186929872,
+        398.16912922963985,
+        394.87442112768525,
+        379.5386527666715
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "gun",
+        "state",
+        "american",
+        "law",
+        "government",
+        "president",
+        "republican",
+        "political",
+        "obama",
+        "conservative",
+        "school",
+        "mean",
+        "public"
+      ],
+      "topic_weights": [
+        817.8959805258087,
+        484.3240344210476,
+        408.82829026718395,
+        385.58624990441933,
+        255.01187175912872,
+        241.22044913352073,
+        225.01216616192082,
+        218.89438810671558,
+        214.067505224773,
+        204.60148335979233,
+        198.84841333134577,
+        189.0209378266534,
+        165.97342939316783,
+        156.44027230307145,
+        154.57654946257375
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "war",
+        "jones",
+        "obama",
+        "mother",
+        "wa",
+        "hagel",
+        "military",
+        "senate",
+        "president",
+        "policy",
+        "republican",
+        "today",
+        "ha",
+        "state",
+        "term"
+      ],
+      "topic_weights": [
+        251.87426860673162,
+        205.15904986093872,
+        201.1548621310837,
+        195.7546565723541,
+        189.79625142247448,
+        185.49258351894184,
+        177.45985171917724,
+        141.59379013055752,
+        135.65474609136882,
+        126.61980993179112,
+        114.35884855123336,
+        105.82520085859493,
+        98.40699589552885,
+        96.81882519595582,
+        93.52955541887357
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "scout",
+        "vote",
+        "state",
+        "gay",
+        "republican",
+        "electoral",
+        "domain",
+        "policy",
+        "group",
+        "congressional",
+        "organization",
+        "district",
+        "statement",
+        "election",
+        "national"
+      ],
+      "topic_weights": [
+        125.31378987020574,
+        101.60884490666737,
+        78.45571997117264,
+        76.73158466289762,
+        69.90760346771859,
+        61.45939585966276,
+        56.68363560671999,
+        50.07844779366445,
+        38.190034275041704,
+        37.42158229413625,
+        35.29797245869052,
+        35.006759325189904,
+        34.86854273243591,
+        32.62375992982856,
+        31.21602672915434
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 120,
+    "0": 12,
+    "1": 7,
+    "3": 24,
+    "4": 6
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Reprinted with permission from AlterNet. There’s a new economic myth that’s now being amplified by the conservative media. It demonizes vital public services and suggests that the poor are doing just ...",
+        "upvotes": 16,
+        "url": "http://www.inthesetimes.com/article/14343/gop_trillion_dollar_lie_welfare"
+      },
+      {
+        "preview": "President Barack Obama (AP Photo/Charles Dharapak) In Gallup's three-day tracking period that ended on Dec. 23, the poll's last day before Christmas, 37 percent said they disapproved of the job Obama ...",
+        "upvotes": 0,
+        "url": "http://cnsnews.com/news/article/gallup-disapproval-obama-has-climbed-5-points-christmas"
+      },
+      {
+        "preview": "By Austin C. McCoy • January 1, 2013 Sharing Reports of a deal between Democrats and Republicans to avert the so-called fiscal cliff finally surfaced a few hours before they all turned to pumpkins at ...",
+        "upvotes": 1,
+        "url": "http://nursingclio.org/2013/01/01/the-rolling-crisis/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Structural Inequalities Alliance The Equality Trust comments on the Government's proposed increase to National Insurance Contributions Dr Wanda Wyporska to leave The Equality Trust If we want to build...",
+        "upvotes": 17,
+        "url": "http://www.equalitytrust.org.uk/"
+      },
+      {
+        "preview": "Alabama has made a costly and ill-advised decision to go all the way to the U.S. Supreme Court to criminalize Alabamians for providing shelter – or even a ride – to a person unable to prove his immigr...",
+        "upvotes": 0,
+        "url": "http://www.splcenter.org/get-informed/news/splc-alabama-makes-costly-decision-to-continue-defending-anti-immigrant-law"
+      },
+      {
+        "preview": "t, if implemented, would be a disaster. The reason we have a national government is because there are certain things we ought to decide at the national level and we can’t let people opt out of.” Ameri...",
+        "upvotes": 53,
+        "url": "http://www.thenation.com/article/172266/rebel-towns"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ny product that is Invested in (think generic drugs, new technologies, etc.), but we cannot produce or sell it as long as that investment is active within the trade nations. We are to encourage all ou...",
+        "upvotes": 0,
+        "url": "http://www.imaginativeconservative.org/2012/04/why-i-am-not-libertarian.html#.UOG88OW3M94"
+      },
+      {
+        "preview": "By Daily Mail Reporter Published: 09:14 EDT, 31 December 2012 | Updated: 08:03 EDT, 3 January 2013 401 View comments A sperm donor has been ordered to pay child support for the biological daughter he ...",
+        "upvotes": 0,
+        "url": "http://www.dailymail.co.uk/news/article-2255241/Sperm-donor-ordered-pay-child-support-lesbian-couple-despite-giving-rights-child.html"
+      },
+      {
+        "preview": "US President Barack Obama speaks at a memorial service for the victims of the Sandy Hook Elementary School shooting on December 16, 2012 in Newtown, Connecticut. — Photo by AFP “MERE words cannot matc...",
+        "upvotes": 0,
+        "url": "http://dawn.com/2012/12/19/no-obama-tears-for-children-killed-by-drones-in-pakistan/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "GET BREAKING NEWS IN YOUR BROWSER. CLICK HERE TO TURN ON NOTIFICATIONS. X While Democrats frantically try to block Scott Brown from going back to the U.S. Senate, there are also increasing fears he co...",
+        "upvotes": 1,
+        "url": "http://bostonherald.com/news_opinion/columnists/joe_battenfeld/2013/01/dems_fear_scott_may_run_gov"
+      },
+      {
+        "preview": "Bruce Cotler/Globe Photos/ZUMAPress Over the last four years, a die-hard cadre of activists and their allies in Congress have dragged the Republican party into a fever swamp of Islamophobia and barely...",
+        "upvotes": 10,
+        "url": "http://www.motherjones.com/politics/2013/01/muslim-shariah-republican-herman-cain-grover-norquist-allen-west"
+      },
+      {
+        "preview": "The man Obama recently nominated for Secretary of Defense could alter the trajectory of the president’as center-right military policy. By signing up, you confirm that you are over the age of 16 and ag...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/blog/172061/will-chuck-hagels-appointment-actually-help-left"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Series: Buying Your Vote Americans for Responsible Leadership, which California officials have accused of \"campaign money laundering,\" promised the IRS it would not engage in elections, a confidential...",
+        "upvotes": 26,
+        "url": "http://www.propublica.org/article/controversial-dark-money-group-among-five-that-told-irs-they-would-stay-out"
+      },
+      {
+        "preview": "Completing the CAPTCHA proves you are a human and gives you temporary access to axs.com. If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure i...",
+        "upvotes": 1,
+        "url": "http://www.examiner.com/article/shock-claim-obama-only-wants-military-leaders-who-will-fire-on-u-s-citizens?cid=db_articles"
+      },
+      {
+        "preview": "Republicans have a new strategy for 2016: Change the rules of presidential elections in order to swing the Electoral College in the GOP's favor. On Wednesday, Virginia's Republican-controlled legislat...",
+        "upvotes": 3,
+        "url": "http://www.huffingtonpost.com/2013/01/24/republican-vote-rigging-electoral-college_n_2546010.html?utm_hp_ref=mostpopular"
+      }
+    ]
+  }
+}

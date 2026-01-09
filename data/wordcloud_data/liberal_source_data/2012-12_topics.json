@@ -1,0 +1,275 @@
+{
+  "month": "2012-12",
+  "total_articles": 75,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "tax",
+        "rate",
+        "percent",
+        "ceo",
+        "corporate",
+        "billion",
+        "extended",
+        "bush",
+        "saving",
+        "compensation",
+        "taxable",
+        "million",
+        "effective",
+        "standard",
+        "estimate"
+      ],
+      "topic_weights": [
+        701.6752834526875,
+        658.1016659088364,
+        585.4179157995602,
+        454.45521036963925,
+        349.57926956383653,
+        342.42130103439314,
+        308.8149835896789,
+        308.352134894653,
+        304.5727061890902,
+        299.24931706620214,
+        298.5911441270256,
+        298.2913619975913,
+        291.6326442878736,
+        287.83313649568436,
+        278.44551575961754
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "gun",
+        "wa",
+        "state",
+        "republican",
+        "law",
+        "ha",
+        "michigan",
+        "right",
+        "president",
+        "american",
+        "mother",
+        "party",
+        "jones",
+        "labor",
+        "term"
+      ],
+      "topic_weights": [
+        280.67455398374403,
+        279.1675068375781,
+        269.7281430094695,
+        188.4902542517876,
+        179.13867223334788,
+        171.04040358185202,
+        130.44295229048086,
+        125.30196513722606,
+        116.27304644955053,
+        111.05299750442877,
+        106.03896225900544,
+        98.6876721312976,
+        98.40819123170354,
+        86.93012285126306,
+        85.5961522916985
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "poverty",
+        "family",
+        "housing",
+        "percent",
+        "child",
+        "wage",
+        "worker",
+        "million",
+        "assistance",
+        "homelessness",
+        "program",
+        "woman",
+        "study",
+        "economic",
+        "policy"
+      ],
+      "topic_weights": [
+        333.25409879424996,
+        220.19720481504447,
+        208.52583927437306,
+        207.18088975230904,
+        170.00205354632004,
+        151.5248605997594,
+        145.53772151855497,
+        141.5014474638138,
+        121.12839617561183,
+        114.86921433009549,
+        108.3824100358423,
+        94.08079959118228,
+        88.38356323168318,
+        79.19327483177045,
+        76.17539510235002
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "tax",
+        "income",
+        "republican",
+        "percent",
+        "cut",
+        "rate",
+        "wa",
+        "ha",
+        "social",
+        "economic",
+        "house",
+        "party",
+        "money",
+        "worker",
+        "benefit"
+      ],
+      "topic_weights": [
+        264.1842666151492,
+        202.6608908687478,
+        142.47824943784286,
+        120.97912352377351,
+        96.84610458610878,
+        95.35673361378525,
+        93.33576511843344,
+        83.20614923249676,
+        81.05847597725173,
+        74.16991734268534,
+        66.4101202750743,
+        65.69987407229708,
+        58.22190279293784,
+        57.846651954607836,
+        54.472675396894346
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "model",
+        "silver",
+        "ha",
+        "vote",
+        "obama",
+        "election",
+        "drug",
+        "nate",
+        "read",
+        "poll",
+        "money",
+        "problem",
+        "state",
+        "word"
+      ],
+      "topic_weights": [
+        158.979390690913,
+        125.86676858110249,
+        107.91669384720231,
+        104.23597646193485,
+        99.88349662562624,
+        86.23435414991683,
+        65.72064063181037,
+        59.92285749120297,
+        51.56807002587034,
+        48.89758349722948,
+        47.446341536069376,
+        47.32112428309934,
+        44.74510128126134,
+        43.70289720238517,
+        42.19398289781863
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 43,
+    "0": 1,
+    "4": 10,
+    "2": 3,
+    "3": 18
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "$0 Allstate’s 2011 effective corporate tax rate (standard is 35 percent): 17.9 percent Wilson’s 2011 taxable compensation: $4.1 million Wilson’s yearly savings if top Bush rates are extended: $175,793...",
+        "upvotes": 20,
+        "url": "http://www.thenation.com/blog/171500/what-ceos-lobbying-fiscal-cliff-really-want"
+      }
+    ],
+    "1": [
+      {
+        "preview": "There’s one particular strain of Republican reaction to their election loss that’s always given me the biggest chuckle, and today Paul Waldman highlights it: the absurd proposition that Mitt Romney ne...",
+        "upvotes": 1,
+        "url": "http://www.motherjones.com/kevin-drum/2012/11/i-guess-future-wasnt-stake-years-election-after-all"
+      },
+      {
+        "preview": "Are Republicans already ignoring the lessons of the presidential election? Last Monday, Republican Congresswoman Shelley Moore Capito announced plans to run in 2014 for the West Virginia Senate seat h...",
+        "upvotes": 24,
+        "url": "http://www.tnr.com/blog/plank/110648/are-republicans-already-blowing-the-next-election"
+      },
+      {
+        "preview": "Dick Armey<a  Skidmore</a>/Flickr This story has been updated. Click here for the latest. In a move not publicly announced, former Rep. Dick Armey, the folksy conservative leader, has resigned as chai...",
+        "upvotes": 29,
+        "url": "http://www.motherjones.com/mojo/2012/12/dick-armey-resigns-freedomworks-tea-party"
+      }
+    ],
+    "2": [
+      {
+        "preview": "ore foolish when 82 percent of voters—including 76 percent of Republicans—want Congress and the White House to deliver a plan to cut child poverty in half within ten years. A Children’s HealthWatch st...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/blog/171534/week-poverty-wake-call-housing-and-homelessness"
+      },
+      {
+        "preview": "Jump to navigation Skip navigation Earnest “Marty” Atencio, 44 years old, died on December 20, 2011. His dead body was covered with bruises, lacerations and puncture marks – wounds that made him look ...",
+        "upvotes": 93,
+        "url": "http://www.aclu.org/blog/prisoners-rights/marty-atencio-1967-2011-another-victim-sheriff-joe-arpaios-jails"
+      },
+      {
+        "preview": "The low-wage service industry is the fastest growing segment in the U.S. But growing involves growing pains. And just in the last month, workers at a number of national retail chains have walked off t...",
+        "upvotes": 54,
+        "url": "http://www.marketplace.org/topics/wealth-poverty/how-raising-low-wages-ripples-through-economy"
+      }
+    ],
+    "3": [
+      {
+        "preview": "David Welna House Speaker John Boehner takes questions during a news conference Friday on Capitol Hill. Alex Wong/Getty Images hide caption House Speaker John Boehner takes questions during a news con...",
+        "upvotes": 72,
+        "url": "http://www.npr.org/blogs/itsallpolitics/2012/12/02/166268748/the-3-unofficial-gop-rules-that-are-making-a-deficit-deal-even-harder?ft=1&f=1014&sc=tw#"
+      },
+      {
+        "preview": "Mainstream media outlets don’t want to look partisan, so they ignore the BS hidden in plain sight. Follow @Politics It’s really amazing to see political reporters dutifully passing along Republican co...",
+        "upvotes": 35,
+        "url": "http://swampland.time.com/2012/11/30/fiscal-cliff-fictions-lets-all-agree-to-pretend-the-gop-isnt-full-of-it/"
+      },
+      {
+        "preview": "cus, led by Ellison and Congressman Raul Grijalva, has offered a “Budget for All”: tax the top 2 percent, cut unneeded defense programs, and preserve Social Security, Medicare and Medicaid. The FTT is...",
+        "upvotes": 0,
+        "url": "http://www.thenation.com/blog/170151/better-bargain-transaction-tax-not-austerity#"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Timothy Egan on American politics and life, as seen from the West. Still hard to believe, I told a friend the other day while trying to fathom the election results, that pot is legal in my state, gays...",
+        "upvotes": 195,
+        "url": "http://opinionator.blogs.nytimes.com/2012/11/29/a-liberal-moment/?smid=re-share"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Drug Courts Mike Riggs | 12.13.2012 2:34 PM Yesterday, Politifact, the Pulitzer-winning fact checking arm of the Tampa Bay Times, declar...",
+        "upvotes": 4,
+        "url": "http://reason.com/blog/2012/12/13/dear-politifact-your-analysis-of-obamas"
+      },
+      {
+        "preview": "Not sure of your congressional district or who your member is? This service will assist you by matching your ZIP code to your congressional district, with links to your member's website and contact pa...",
+        "upvotes": 1,
+        "url": "http://www.house.gov/representatives/find/"
+      }
+    ]
+  }
+}

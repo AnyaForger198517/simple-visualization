@@ -1,0 +1,275 @@
+{
+  "month": "2019-05",
+  "total_articles": 130,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "trump",
+        "ha",
+        "state",
+        "president",
+        "democrat",
+        "biden",
+        "republican",
+        "candidate",
+        "vote",
+        "campaign",
+        "democratic",
+        "tax",
+        "sander",
+        "million"
+      ],
+      "topic_weights": [
+        250.79289310130855,
+        195.8395901866302,
+        168.26725569148098,
+        114.19264625755523,
+        103.3694803429126,
+        100.15166343688827,
+        92.63836628709687,
+        86.85852671349157,
+        84.17281329386216,
+        71.95142004164491,
+        70.50052147673004,
+        67.62967968390365,
+        67.1251943149274,
+        66.88788434878718,
+        64.69089959173056
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "immigration",
+        "inslee",
+        "plan",
+        "policy",
+        "president",
+        "administration",
+        "ha",
+        "mueller",
+        "state",
+        "united",
+        "border",
+        "country",
+        "number",
+        "executive"
+      ],
+      "topic_weights": [
+        482.6534486838099,
+        404.1485467694599,
+        369.38207868014814,
+        327.564371335727,
+        297.12123305423876,
+        193.87767957501563,
+        188.59153514504453,
+        176.70034488563874,
+        122.59015733686175,
+        121.38806148806562,
+        116.88161186318837,
+        113.84201052679526,
+        112.64082136216258,
+        107.44284837252782,
+        100.27172394574737
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "state",
+        "socialism",
+        "ha",
+        "government",
+        "socialist",
+        "country",
+        "woman",
+        "world",
+        "housing",
+        "abortion",
+        "work",
+        "did",
+        "life",
+        "income"
+      ],
+      "topic_weights": [
+        215.66586008519766,
+        106.18614813488048,
+        104.71822544602364,
+        85.57579715985648,
+        74.49436909988803,
+        63.533049727671205,
+        58.092365898496354,
+        53.810087358581,
+        50.95988332970977,
+        48.39534901632387,
+        46.78416292590223,
+        45.01186001661032,
+        44.43364941731907,
+        43.83032672854654,
+        38.180331525849795
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "climate",
+        "green",
+        "deal",
+        "change",
+        "science",
+        "warren",
+        "emission",
+        "plan",
+        "rourke",
+        "gas",
+        "zero",
+        "energy",
+        "report",
+        "crisis",
+        "carbon"
+      ],
+      "topic_weights": [
+        97.00029210427384,
+        35.411555951846736,
+        31.71992212507513,
+        30.68709021617096,
+        30.228226216391985,
+        29.791519695203984,
+        27.422857900643493,
+        24.64396639936184,
+        21.546159747727756,
+        20.16564686802918,
+        19.144470994052792,
+        18.433232598098826,
+        17.560376416763678,
+        17.332049895561287,
+        17.028772603889262
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "american",
+        "trump",
+        "putin",
+        "russia",
+        "political",
+        "america",
+        "russian",
+        "news",
+        "ha",
+        "president",
+        "anti",
+        "white",
+        "content",
+        "influence",
+        "election"
+      ],
+      "topic_weights": [
+        755.056940041597,
+        602.7282804348274,
+        568.0409197351617,
+        531.8757898916721,
+        447.26562612263933,
+        440.11632912016375,
+        385.325928212249,
+        346.7997503010373,
+        341.76440894512365,
+        283.15040701695386,
+        235.88899553151592,
+        214.09235909233576,
+        204.77663341489492,
+        202.69517606159656,
+        177.31422181753538
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 78,
+    "3": 12,
+    "1": 12,
+    "2": 27,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "White House The trio agreed to pursue a $2 trillion infrastructure plan — but haven’t worked out how to pay for it. By ANITA KUMAR, SARAH FERRIS and BURGESS EVERETT 04/30/2019 12:24 PM EDT Updated 04/...",
+        "upvotes": 0,
+        "url": "https://www.politico.com/story/2019/04/30/schumer-pelosi-trump-infrastructure-plan-1293303"
+      },
+      {
+        "preview": "Advertisement Supported by By Astead W. Herndon and Matt Flegenheimer COUNCIL BLUFFS, Iowa — As Peter Johnson and Emily Neal waited for Senator Kirsten Gillibrand to arrive at Barley’s, a brick-lined ...",
+        "upvotes": 0,
+        "url": "https://www.nytimes.com/2019/04/20/us/politics/democrats-2020-white-male.html"
+      },
+      {
+        "preview": "The New York bassist and singer also talks about Starcrawler's new cover of \"Pet Sematary\" ﻿Listen via Apple Podcasts | Spotify | Google Play | Stitcher | Radio Public CJ Ramone, formerly of The Ramon...",
+        "upvotes": 1,
+        "url": "https://consequenceofsound.net/2019/05/kyle-meredith-with-cj-ramone/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Watch CBSN Live By Grace Segers, Kathryn Watson, Emily Tillett Updated on: May 1, 2019 / 6:11 PM / CBS News A defiant Attorney General William Barr defended the way he oversaw the release of special c...",
+        "upvotes": 5,
+        "url": "https://www.cbsnews.com/live-news/william-barr-testimony-live-stream-attorney-general-testifies-congress-today-2019-05-01/"
+      },
+      {
+        "preview": "WASHINGTON ― The executive and legislative branches of the federal government are locked into a constitutional showdown in the wake of Robert Mueller’s special counsel investigation into Russian inter...",
+        "upvotes": 25,
+        "url": "https://www.huffpost.com/entry/trump-democrats-mueller_n_5ccb6026e4b0548b735760ab"
+      },
+      {
+        "preview": "Discover Thomson  By David Morgan 8 Min Read WASHINGTON () - A Democratic-led House panel on Wednesday approved a measure to hold U.S. Attorney General William Barr in contempt for refusing to hand ov...",
+        "upvotes": 374,
+        "url": "https://www.reuters.com/article/us-usa-trump-congress/u-s-house-committee-prepares-contempt-vote-against-barr-idUSKCN1SE13I"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Discover Thomson  By Julia Harte 11 Min Read WASHINGTON () - The U.S. State Department allowed seven foreign governments to rent luxury condominiums in New York’s Trump World Tower in 2017 without app...",
+        "upvotes": 0,
+        "url": "https://www.reuters.com/article/us-usa-trump-emoluments-exclusive/exclusive-foreign-government-leases-at-trump-world-tower-stir-more-emoluments-concerns-idUSKCN1S80PP"
+      },
+      {
+        "preview": "Trump's ridiculous wall won't stop climate change from sending refugees north to save their families. Let’s stipulate right here that President Trump doesn’t understand a lot of things, even as he ent...",
+        "upvotes": 2,
+        "url": "https://www.philly.com/opinion/central-american-immigration-climate-change-trump-border-wall-20190425.html"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Socialism David Harsanyi | 7.27.2018 12:01 AM On the same day that Venezuela's \"democratically\" elected socialist president, Nicolas Mad...",
+        "upvotes": 0,
+        "url": "https://reason.com/2018/07/27/sorry-if-youre-offended-but-socialism-le/?amp"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Instead of hoping market forces solve the climate crisis, the government needs to stop giving tax breaks to polluters Last modified on Wed 25 Aug 2021 09.50 EDT Last October, the world’s most renowned...",
+        "upvotes": 26,
+        "url": "https://www.theguardian.com/commentisfree/2019/apr/30/taxpayers-subsidising-oil-gas-companies-jeopardise-future"
+      },
+      {
+        "preview": "Former Texas Rep. Beto O’Rourke (D) has put forward the most ambitious climate plan ever offered by any candidate running for president. O’Rourke calls for a 10-year, $5 trillion mobilization to cut U...",
+        "upvotes": 1,
+        "url": "https://thinkprogress.org/media-beto-orourke-climate-plan-f524dcee6ae5/"
+      },
+      {
+        "preview": "But some activists think the plan doesn’t go far enough. Former Democratic Texas representative, 2020 presidential contender, and table-stander Beto O’Rourke on Monday released a new policy proposal, ...",
+        "upvotes": 0,
+        "url": "https://www.vox.com/2019/4/30/18522680/beto-orourke-2020-climate-change-proposal"
+      }
+    ],
+    "4": [
+      {
+        "preview": "SEARCH Americans may be on to the Kremlin’s tricks now, but Putin is getting a helping hand this time around: Conservative media and even the White House are spreading disinfo for him. Daily Beast Con...",
+        "upvotes": 120,
+        "url": "https://www.thedailybeast.com/the-kremlins-strategy-for-the-2020-us-election-secure-the-base-split-the-opposition"
+      }
+    ]
+  }
+}

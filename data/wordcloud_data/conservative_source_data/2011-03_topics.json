@@ -1,0 +1,275 @@
+{
+  "month": "2011-03",
+  "total_articles": 61,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "march",
+        "december",
+        "august",
+        "april",
+        "july",
+        "september",
+        "february",
+        "june",
+        "january",
+        "november",
+        "october",
+        "federal",
+        "tool",
+        "government",
+        "debt"
+      ],
+      "topic_weights": [
+        39.05853624411116,
+        38.76922055892734,
+        34.73266630901774,
+        33.988773409708685,
+        32.87660300277162,
+        32.18507005953807,
+        32.01189094539729,
+        31.95267409277341,
+        31.919488529524767,
+        30.959715302586652,
+        30.845289062422722,
+        22.826398700235327,
+        20.742991840902754,
+        20.636122484565416,
+        17.973609295811166
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "reply",
+        "muslim",
+        "posted",
+        "post",
+        "view",
+        "fall",
+        "private",
+        "hate",
+        "kind",
+        "letter",
+        "law",
+        "islam",
+        "wa",
+        "death",
+        "christian"
+      ],
+      "topic_weights": [
+        562.6096537544526,
+        395.6848001865631,
+        227.8242156964319,
+        213.8503386887038,
+        208.00177623183677,
+        197.47960908623315,
+        184.0169909178187,
+        141.3075620032922,
+        128.37910004369186,
+        108.86145282492535,
+        107.31458754554184,
+        94.21453345033126,
+        93.47276412082277,
+        88.5018027220522,
+        83.82979308440001
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "fascist",
+        "fascism",
+        "state",
+        "war",
+        "ha",
+        "obama",
+        "national",
+        "italian",
+        "power",
+        "political",
+        "italy",
+        "military",
+        "president",
+        "policy"
+      ],
+      "topic_weights": [
+        175.1930769426374,
+        137.32767739215072,
+        104.47231127392763,
+        101.09798511191079,
+        90.67357762112641,
+        87.80605827704855,
+        87.41870110141672,
+        67.96569096616055,
+        66.87501975238867,
+        63.57508427332891,
+        62.31113321430219,
+        59.00343828445821,
+        57.41609896748458,
+        54.49356798345012,
+        52.94627512632527
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "ha",
+        "state",
+        "book",
+        "american",
+        "government",
+        "border",
+        "did",
+        "hand",
+        "america",
+        "founder",
+        "work",
+        "life",
+        "franklin",
+        "country"
+      ],
+      "topic_weights": [
+        173.20206213389295,
+        73.96451010647847,
+        66.75963333127207,
+        62.573046311460345,
+        53.458312377611776,
+        35.31870625403952,
+        31.432035884379296,
+        30.52541817734961,
+        27.955525610488927,
+        27.705919695202468,
+        25.837835679384227,
+        25.65062788939052,
+        25.548113228811772,
+        25.133980018784477,
+        24.52361065771066
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "domain",
+        "price",
+        "premium",
+        "republican",
+        "ha",
+        "president",
+        "congress",
+        "house",
+        "spending",
+        "billion",
+        "obama",
+        "value",
+        "federal",
+        "company",
+        "cut"
+      ],
+      "topic_weights": [
+        154.42699483175534,
+        44.02702237286756,
+        42.86857145251311,
+        42.69280603815598,
+        40.8903499764806,
+        40.58689601344208,
+        37.6681941848418,
+        36.96648635442995,
+        36.639774450328936,
+        33.860587189690726,
+        32.24112248000857,
+        29.912326473729202,
+        29.722408958056967,
+        29.164455149431127,
+        28.88237090627331
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 21,
+    "4": 15,
+    "3": 20,
+    "0": 4,
+    "1": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Rep. Keith Ellison (D-Minn.) got some headlines for breaking down in tears during the Homeland Security Committee hearing on Thursday, but another witness, Abdirizak Bihi, Director of the Somali Educa...",
+        "upvotes": 1,
+        "url": "http://www.aim.org/aim-column/tears-help-radical-rep-ellison-deflect-scrutiny-of-his-own-record/"
+      },
+      {
+        "preview": "Sign In ← return to Water Cooler The viral video sensation showing a bullying incident at an Australian school has brought the issue of bullying back into the spotlight. Here in the United States, the...",
+        "upvotes": 5,
+        "url": "http://www.washingtontimes.com/blog/watercooler/2011/mar/18/doj-white-male-bullying-victims-tough-luck/"
+      },
+      {
+        "preview": "In looking at the foreign ownership of the U.S. national debt, we realized that we could determine whether a nation is growing or fading in relative economic power by whether or not its share of the U...",
+        "upvotes": 1,
+        "url": "http://politicalcalculations.blogspot.com/2011/03/elephant-in-room.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "more inflammatory language indicative of his own hate. Pastor Hayes is behaving very un-Christian like by attempting to smear Muslims and the way they worship God. He is clearly trying to prevent Musl...",
+        "upvotes": 2,
+        "url": "http://www.freerepublic.com/focus/f-news/2696579/posts"
+      }
+    ],
+    "2": [
+      {
+        "preview": "By Scott Conroy - February 28, 2011 Former House Speaker Newt Gingrich is preparing to announce in a matter of days whether he will form an exploratory committee for a presidential campaign. Earlier t...",
+        "upvotes": 1,
+        "url": "http://www.realclearpolitics.com/articles/2011/02/28/decision_day_looms_for_gingrich_109048.html?sms_ss=reddit&at_xt=4d6c67f0bbf121d1%2C0"
+      },
+      {
+        "preview": "It would be most unusual if Rowling herself was not influenced by the dominant conception of the world in our day. She is not an intellect of the first magnitude that transcends the age and is for all...",
+        "upvotes": 1,
+        "url": "http://charltonteaching.blogspot.com/2011/03/does-anybody-nowadays-have-integrated.html"
+      },
+      {
+        "preview": "What happens when someone with no executive experience takes over the toughest executive job in the world? Since we’ve not seen that situation in most of our lifetimes — even John Kennedy, the last Pr...",
+        "upvotes": 1,
+        "url": "http://hotair.com/archives/2011/03/09/did-obama-appoint-a-cabinet-czar/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "by James D. Best Larry Schweikart's What Would The Founders Say is a book we've been waiting anxiously for. The title alone was enough to pique our interest. The best-selling author of A Patriot's His...",
+        "upvotes": 2,
+        "url": "http://www.whatwouldthefoundersthink.com/what-would-the-founders-say-by-larry-schweikart"
+      },
+      {
+        "preview": "by Martin Winston Churchill is supposed to have said that history is written by the victors. The implication being that posterity will know the past from the standpoint of the winners and that the los...",
+        "upvotes": 1,
+        "url": "http://www.whatwouldthefoundersthink.com/libertys-exiles-by-maya-jasanoff"
+      },
+      {
+        "preview": "This year Democracy Now! is celebrating our 25th anniversary—that's 25 years of bringing you fearless, independent reporting. Since our very first broadcast in 1996, Democracy Now! has refused to take...",
+        "upvotes": 4,
+        "url": "http://www.democracynow.org/2011/3/9/naomi_klein_on_anti_union_bills"
+      }
+    ],
+    "4": [
+      {
+        "preview": "by Marcia “He has erected a multitude of new offices, and sent hither swarms of officers to harass our people, and eat out their substance. He has combined with others to subject us to a jurisdiction ...",
+        "upvotes": 2,
+        "url": "http://www.whatwouldthefoundersthink.com/the-more-things-change"
+      },
+      {
+        "preview": "We are constantly expanding our inventory to give you the best domains available for purchase! Read or Listen to the Free Book! The top business book that also teaches to give back. This domain name w...",
+        "upvotes": 1,
+        "url": "http://www.manogamy.com/2010/06/case-closed-proof-that-mymarriagematters-org-ashleymadison/"
+      },
+      {
+        "preview": "Sign In ← return to Water Cooler *UPDATED with Boehner audio *UPDATED with letter from Bachmann and King Republicans ran their 2010 mid-term campaigns on chiefly the promise that the Democratic health...",
+        "upvotes": 1,
+        "url": "http://www.washingtontimes.com/blog/watercooler/2011/mar/10/will-house-gop-rescind-obamacare-funding-appropria/"
+      }
+    ]
+  }
+}

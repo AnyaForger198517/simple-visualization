@@ -1,0 +1,36 @@
+{
+  "month": "2014-02",
+  "total_articles": 62,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "State and Federal Governance with Military Focus",
+      "core_keywords": ["state", "military", "government", "federal", "union", "law", "american"],
+      "importance_ratio": 0.1935
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Legal and Political Governance Under Obama",
+      "core_keywords": ["law", "obama", "government", "president", "court", "health", "state"],
+      "importance_ratio": 0.4839
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Social Issues of Violence and Minority Rights",
+      "core_keywords": ["muslim", "woman", "killing", "murder", "freedom", "america", "family"],
+      "importance_ratio": 0.0968
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Climate Change and Social Equality Debates",
+      "core_keywords": ["climate", "warming", "gay", "change", "world", "life", "consensus"],
+      "importance_ratio": 0.0968
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Obamacare and Employment Economic Impact",
+      "core_keywords": ["obama", "obamacare", "job", "health", "school", "government", "work"],
+      "importance_ratio": 0.1290
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2021-04",
+  "total_articles": 278,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Legal Education and Constitutional Rights Debates",
+      "core_keywords": ["law", "school", "court", "justice", "right", "freedom", "border", "university"],
+      "importance_ratio": 0.0935
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Biden's Governance and Georgia Voting Rights Issues",
+      "core_keywords": ["biden", "president", "gun", "voting", "georgia", "democrat", "republican", "law"],
+      "importance_ratio": 0.2302
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "COVID-19 Vaccination and Police Incidents Coverage",
+      "core_keywords": ["vaccine", "police", "covid", "health", "death", "video", "officer", "shot"],
+      "importance_ratio": 0.2410
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Federal Tax Policies and Economic Governance",
+      "core_keywords": ["government", "tax", "biden", "federal", "money", "dollar", "work", "georgia"],
+      "importance_ratio": 0.0755
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump and Biden's Presidential Political Rivalry",
+      "core_keywords": ["trump", "biden", "president", "white house", "attack", "democrat", "media", "state"],
+      "importance_ratio": 0.3597
+    }
+  ]
+}

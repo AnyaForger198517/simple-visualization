@@ -1,0 +1,285 @@
+{
+  "month": "2018-04",
+  "total_articles": 254,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "trump",
+        "wa",
+        "ha",
+        "president",
+        "house",
+        "white",
+        "republican",
+        "mueller",
+        "campaign",
+        "election",
+        "political",
+        "party",
+        "comey",
+        "donald",
+        "office"
+      ],
+      "topic_weights": [
+        1290.5924101250337,
+        589.7955326357871,
+        459.60008905146685,
+        456.270713714342,
+        329.9768282109659,
+        324.27257553034417,
+        279.1306433335645,
+        193.9415622967793,
+        171.56895169076608,
+        167.33708649948065,
+        162.62530282271916,
+        162.11356322814666,
+        147.40291545676598,
+        142.86374689590744,
+        116.92197835792824
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "ha",
+        "news",
+        "trump",
+        "cohen",
+        "information",
+        "russian",
+        "company",
+        "website",
+        "case",
+        "lawyer",
+        "law",
+        "medium",
+        "president",
+        "government"
+      ],
+      "topic_weights": [
+        526.1567975258121,
+        331.6717691971319,
+        230.22693878687153,
+        223.39926941400802,
+        216.76312032394733,
+        216.28301351951256,
+        168.05874436407174,
+        159.65237542445698,
+        158.58683690164384,
+        139.42347041027276,
+        135.82070745397147,
+        132.22728627831867,
+        130.48694901273393,
+        124.89650605459772,
+        124.32772998294203
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "tax",
+        "republican",
+        "cut",
+        "email",
+        "percent",
+        "enter",
+        "voter",
+        "law",
+        "valid",
+        "state",
+        "american",
+        "election",
+        "ryan",
+        "president",
+        "district"
+      ],
+      "topic_weights": [
+        278.7308879579146,
+        142.7606431218829,
+        131.19823326528993,
+        104.86960198495163,
+        96.147661147593,
+        83.85825345002901,
+        83.2907975129543,
+        81.60047689802279,
+        79.36282937377517,
+        78.16845156207964,
+        75.33664205062563,
+        61.272785108065214,
+        49.890675271048046,
+        48.043940035181706,
+        47.737218091217834
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "black",
+        "woman",
+        "state",
+        "ha",
+        "gun",
+        "police",
+        "percent",
+        "teacher",
+        "white",
+        "public",
+        "death",
+        "group",
+        "school",
+        "study"
+      ],
+      "topic_weights": [
+        289.18958731408014,
+        136.15191163858216,
+        135.33898697151474,
+        101.39903631229188,
+        89.478430934872,
+        87.786803679667,
+        85.34486846900978,
+        80.79431034481402,
+        72.14895384904446,
+        69.89769165882471,
+        67.05904222897783,
+        64.90858313222495,
+        64.21089421288933,
+        60.88067615289812,
+        60.48864650446387
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "state",
+        "ha",
+        "wa",
+        "trump",
+        "government",
+        "american",
+        "country",
+        "job",
+        "policy",
+        "refugee",
+        "war",
+        "work",
+        "united",
+        "program",
+        "syrian"
+      ],
+      "topic_weights": [
+        339.5100955784497,
+        329.24284241209733,
+        194.30742910259693,
+        171.81893297752154,
+        159.30430581794263,
+        148.38517051776586,
+        136.80055852162755,
+        135.74985302681716,
+        127.38732949372543,
+        123.94734350919153,
+        123.20906721850479,
+        106.81360006368463,
+        103.28633793493388,
+        102.59544477105533,
+        100.82656166435973
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "4": 54,
+    "1": 70,
+    "0": 81,
+    "2": 23,
+    "3": 26
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Marvin Olasky still remembers the Alamo. Not the famous battle waged there, mind you, but a protest at the site in 1995 against the Texas Commission on Alcohol and Drug Abuse. That state agency was th...",
+        "upvotes": 26,
+        "url": "https://newrepublic.com/article/147694/compassionate-conservatism-wont-back-anytime-soon"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. “My whole life I’ve been greedy, greedy, greedy,” declared Donald Trump durin...",
+        "upvotes": 7,
+        "url": "https://nymag.com/daily/intelligencer/2018/04/corruption-is-trumps-greatest-political-liability.html?utm_campaign=nym&utm_source=fb&utm_medium=s1"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. A constant drip of self-dealing. And this is just what we know so far … Intro...",
+        "upvotes": 273,
+        "url": "https://nymag.com/daily/intelligencer/2018/04/trump-and-co-are-stealing-america-blind-timeline.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "A Long Island, New York, judge has been arrested and accused of breaking into a neighbor’s home to steal her panties, police say. Police arrested Suffolk County Judge Robert Cicale after a 23-year-old...",
+        "upvotes": 1,
+        "url": "http://www.breitbart.com/big-government/2018/03/30/new-york-judge-accused-breaking-neighbors-home-steal-panties/"
+      },
+      {
+        "preview": "Earlier this year, New York City police officer unions reportedly reduced the number of police courtesy cards they hand out to their members — which stirred a big debate over what the cards are really...",
+        "upvotes": 1,
+        "url": "https://news.vice.com/en_us/article/ne9j5b/do-police-get-out-of-jail-cards-really-work?utm_source=vicenewsfb"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. If President Trump is truly concerned about Amazon’s corporate power and impa...",
+        "upvotes": 30,
+        "url": "http://nymag.com/daily/intelligencer/2018/04/trump-campaign-used-amazon-for-its-office-supplies.html?utm_campaign=nym&utm_medium=s1&utm_source=fb"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The New Gentleman Ambition is everything. First Name Last Name Email address: The New Gentleman Ambition is everything. First Name Last Name Email address: Marijuana, weed, reggie. It has many names, ...",
+        "upvotes": 1,
+        "url": "https://thenewgentleman.co.uk/2018/04/did-america-demonize-marijuana-to-send-black-people-to-jail/"
+      },
+      {
+        "preview": "Another defeat for Republicans in state elections during the Trump era. Liberal candidate Rebecca Dallet has won election to the Wisconsin Supreme Court, according to Decision Desk. Dallet defeated he...",
+        "upvotes": 53,
+        "url": "https://www.vox.com/2018/4/3/17195062/wisconsin-supreme-court-election-results"
+      },
+      {
+        "preview": "The anti-democratic governor accustomed to getting his way finally accepted his losses in the courts last week. What does Walker’s electoral overreach mean for the Badger State? by Mark Ossolinski Apr...",
+        "upvotes": 1,
+        "url": "http://prospect.org/article/wisconsins-scott-walker-versus-blue-wave"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Nugent is the latest conservative to personally attack the teenage shooting survivors. Ted Nugent, a National Rifle Association (NRA) board member and rock musician, became the latest to lob personal ...",
+        "upvotes": 25,
+        "url": "https://www.vox.com/policy-and-politics/2018/4/1/17185746/ted-nugent-parkland-shooting-survivors-nra"
+      },
+      {
+        "preview": "Ann Kirkpatrick cast the vote that kept Guantanamo Bay open and voted against cap-and-trade, and has been a consistent opponent of EPA air-quality measures; Jason Crow says he won't take corporate PAC...",
+        "upvotes": 0,
+        "url": "https://boingboing.net/2018/04/02/our-revolution-3.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Fifty years ago Dr. Martin Luther King Jr., one of the greatest human beings who ever walked the earth, ascended to heaven many decades too soon. Ele...",
+        "upvotes": 1,
+        "url": "http://thehill.com/opinion/civil-rights/381521-budowsky-martin-luther-king-jr-lives-today"
+      }
+    ],
+    "4": [
+      {
+        "preview": "There are 99 Democratic candidates this cycle, compared to just 71 in the last one, according to the Utah Lieutenant Governor's Office. A newcomer is Karina Andelin Brown. Besides having been a Medica...",
+        "upvotes": 1,
+        "url": "https://www.inquisitr.com/4848306/utah-politics-these-women-are-part-of-a-democratic-candidate-wave-in-the-conservative-state/"
+      },
+      {
+        "preview": "Jose Luis Magana/AP Photo Politics Forget about Conor Lamb and Dan Lipinski. The progressive wing has already beaten the establishment in 2018. By CHARLIE MAHTESIAN March 29, 2018 With his primary ele...",
+        "upvotes": 0,
+        "url": "https://www.politico.com/magazine/story/2018/03/29/bernie-sanders-democrats-primaries-217719?cmpid=sf"
+      },
+      {
+        "preview": "Every product is independently selected by (obsessive) editors. Things you buy through our links may earn us a commission. Last Friday, President Trump grudgingly signed into law an enormous, $1.3 tri...",
+        "upvotes": 5,
+        "url": "http://nymag.com/daily/intelligencer/2018/03/5-liberal-priorities-funded-in-last-weeks-budget-bill.html?utm_campaign=nym&utm_source=fb&utm_medium=s1"
+      }
+    ]
+  }
+}

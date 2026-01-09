@@ -1,0 +1,36 @@
+{
+  "month": "2014-12",
+  "total_articles": 86,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US-Cuba Relations and Congressional Voting",
+      "core_keywords": ["cuba", "house", "boehner", "vote", "castro", "session", "rep"],
+      "importance_ratio": 0.0465
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Presidential Power and Party Politics",
+      "core_keywords": ["obama", "president", "republican", "congress", "executive", "power", "bush"],
+      "importance_ratio": 0.0465
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Tax and Healthcare Policy Controversies",
+      "core_keywords": ["tax", "irs", "gruber", "obamacare", "doj", "whitehouse", "cnn"],
+      "importance_ratio": 0.0930
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Racial Issues and Political Governance",
+      "core_keywords": ["obama", "police", "black", "white", "state", "republican", "democrat"],
+      "importance_ratio": 0.7093
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Social Issues and Education",
+      "core_keywords": ["school", "woman", "child", "student", "work", "state", "social"],
+      "importance_ratio": 0.1047
+    }
+  ]
+}

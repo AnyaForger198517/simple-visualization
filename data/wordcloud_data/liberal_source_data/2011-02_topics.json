@@ -1,0 +1,253 @@
+{
+  "month": "2011-02",
+  "total_articles": 11,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "health",
+        "choice",
+        "labor",
+        "care",
+        "insurance",
+        "page",
+        "law",
+        "wa",
+        "ruling",
+        "individual",
+        "power",
+        "article",
+        "union",
+        "purchase",
+        "movement"
+      ],
+      "topic_weights": [
+        12.379551779012555,
+        7.719011180624486,
+        7.702310021621008,
+        6.795967278548576,
+        6.776444508592729,
+        6.767431447336829,
+        6.756304935779425,
+        6.749105677211882,
+        5.850753859998051,
+        5.848006415117491,
+        5.84727965320791,
+        5.827875236368243,
+        5.822109701797782,
+        4.912937022982829,
+        4.9063401029137355
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "woman",
+        "wing",
+        "group",
+        "abortion",
+        "live",
+        "project",
+        "donation",
+        "false",
+        "leader",
+        "political",
+        "anti",
+        "far",
+        "video",
+        "moral",
+        "fund"
+      ],
+      "topic_weights": [
+        0.3105119372004941,
+        0.29930956831941524,
+        0.2895724572719656,
+        0.285624566472141,
+        0.28504830600135145,
+        0.2801926026235435,
+        0.2782222397376477,
+        0.27719556366629766,
+        0.27691344093842013,
+        0.27686179140001477,
+        0.275791401714572,
+        0.275713242292816,
+        0.2754844238686659,
+        0.27463375555200403,
+        0.27397833850359504
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "reagan",
+        "wa",
+        "tax",
+        "military",
+        "republican",
+        "budget",
+        "government",
+        "state",
+        "america",
+        "american",
+        "cut",
+        "conservative",
+        "percent",
+        "big",
+        "ha"
+      ],
+      "topic_weights": [
+        39.322988413576745,
+        25.317429300173245,
+        21.50899467118892,
+        8.676612237520613,
+        8.501294752446869,
+        7.656456795324444,
+        7.580683871421773,
+        7.537175382091142,
+        6.807763601719377,
+        6.752905737101532,
+        6.722966985315445,
+        5.844122412158187,
+        5.824502375269647,
+        5.806539771091779,
+        5.762113605091704
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "ha",
+        "walker",
+        "wa",
+        "law",
+        "public",
+        "wisconsin",
+        "health",
+        "care",
+        "government",
+        "governor",
+        "group",
+        "union",
+        "comment",
+        "republican"
+      ],
+      "topic_weights": [
+        22.878926538822117,
+        19.993349722752917,
+        18.94769403917085,
+        18.19254481825563,
+        17.974406122595802,
+        17.00727960006997,
+        16.17411408924693,
+        15.162187846947809,
+        14.229559129799801,
+        13.465226824169843,
+        12.4349413307401,
+        11.503957280941824,
+        11.497495427784228,
+        9.613031159194962,
+        8.823383382707489
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "woman",
+        "abortion",
+        "group",
+        "wing",
+        "anti",
+        "leader",
+        "political",
+        "child",
+        "campaign",
+        "watch",
+        "health",
+        "action",
+        "rape",
+        "donation",
+        "video"
+      ],
+      "topic_weights": [
+        16.0363143066925,
+        14.187499986864132,
+        12.342925389293189,
+        11.398629264694197,
+        9.53338942508346,
+        7.7177648239193255,
+        6.746487372958527,
+        5.849929780505333,
+        5.833873391378386,
+        5.827678379463556,
+        4.997314293902203,
+        4.898761580775352,
+        4.897837293236586,
+        4.896748008020878,
+        4.892081781411643
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 2,
+    "3": 5,
+    "4": 1,
+    "0": 3
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "It's on. U.S. District Judge Gladys Kessler didn't just endorse the constitutional legitimacy of the Patient Protection and Affordable Care Act on Tuesday evening. She used her 64-page ruling to answe...",
+        "upvotes": 1,
+        "url": "http://www.theatlantic.com/politics/archive/2011/02/no-free-rides-on-health-insurance-says-blunt-federal-judge/71595/"
+      },
+      {
+        "preview": "Follow us “There was once a need for unions, but they’ve outlived their purpose,” said a nice lady interviewed on the radio in Tennessee just the other day. Annoyed by the spectacle of tens of thousan...",
+        "upvotes": 7,
+        "url": "http://www.truthdig.com/report/item/yes_america_still_needs_unions_conason_20110223/"
+      },
+      {
+        "preview": "Next Page 1 | 2 (Note: You can view every article as one long page if you sign up as an Advocate Member, or higher). 2 2 1 Rate It | View Ratings John Atlas Social Media Pages:  depends upon can't sur...",
+        "upvotes": 2,
+        "url": "http://www.opednews.com/articles/NJ-s-Top-Public-Defender-B-by-John-Atlas-110223-807.html"
+      }
+    ],
+    "1": [],
+    "2": [
+      {
+        "preview": "The celebration of Ronald Reagan's 100th birthday doesn't come until early March, but the devotions have been going on for years. For conservatives, Reagan is the lodestar, the genial demigod to whom ...",
+        "upvotes": 7,
+        "url": "http://www.huffingtonpost.com/robert-l-borosage/the-reagan-ruins_b_816820.html"
+      },
+      {
+        "preview": "Follow us As we mark the centennial of Ronald Reagan’s birth, one of our major political parties has become imbued with the Gipper’s political philosophy and governing style. I mean the Democrats, of ...",
+        "upvotes": 2,
+        "url": "http://www.truthdig.com/report/item/reagans_democrats_20110207/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Misinformation isn't going away just because it's a new year. Support trusted, factual information with a tax deductible contribution to . More Info A freshman Florida lawmaker is grabbing national he...",
+        "upvotes": 5,
+        "url": "http://politifact.com/florida/statements/2011/feb/01/jason-brodeur/florida-lawmaker-suggests-doctors-can-use-gun-info/"
+      },
+      {
+        "preview": "I have diaried about our protests against Governor Walkers so-called Budget Repair Bill which doesn't even pretend to \"repair\" the budget deficit which he created with his corporate tax breaks. I want...",
+        "upvotes": 3,
+        "url": "http://www.dailykos.com/story/2011/02/20/947569/-Protests-in-WisconsinWe-are-Winning-(Update-#3)"
+      },
+      {
+        "preview": "There is a lesson in this saga, which I think our community might want to contemplate. Granted it is late and no one reads community diaries anymore, but I'll pull out my soap box anyway. I would like...",
+        "upvotes": 2,
+        "url": "http://www.dailykos.com/story/2011/02/24/949123/-Scott-Walker:-A-Practical-Lesson-for-Ideologues"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Browse our archive of posts by topic Browse our archive of posts on key right-wing groups Browse our archive of posts on key right-wing figures Read in-depth reports on key people, organizations and i...",
+        "upvotes": 7,
+        "url": "http://www.pfaw.org/rww-in-focus/deceptive-video-sting-attacking-planned-parenthood-dishonest-hit-job-part-of-religious-"
+      }
+    ]
+  }
+}

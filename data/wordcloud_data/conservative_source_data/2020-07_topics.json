@@ -1,0 +1,285 @@
+{
+  "month": "2020-07",
+  "total_articles": 109,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "police",
+        "soldier",
+        "advertisement",
+        "video",
+        "news",
+        "black",
+        "family",
+        "group",
+        "child",
+        "health",
+        "life",
+        "free",
+        "ha",
+        "white"
+      ],
+      "topic_weights": [
+        302.91667391375563,
+        72.50058965424721,
+        62.714098235672964,
+        60.33566237824977,
+        59.47397338338468,
+        56.76974306515056,
+        53.26884680744619,
+        48.93121433339592,
+        48.5591239095247,
+        48.51319211902842,
+        47.50932994501922,
+        47.407603929790255,
+        44.84437301580538,
+        44.16697008044574,
+        43.42642715119601
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "law",
+        "federal",
+        "wa",
+        "agent",
+        "state",
+        "july",
+        "security",
+        "legislation",
+        "city",
+        "border",
+        "ha",
+        "enforcement",
+        "american",
+        "portland",
+        "president"
+      ],
+      "topic_weights": [
+        78.21429835386012,
+        78.18052033958188,
+        47.49197509255622,
+        47.074006493253705,
+        46.68738497514583,
+        43.147309504183795,
+        42.45111703108172,
+        40.20931599259425,
+        40.187697234476296,
+        40.095686662105386,
+        37.41114479988204,
+        36.35707093548284,
+        35.33511374189788,
+        35.199439654941564,
+        35.07828107322269
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "black",
+        "trump",
+        "ha",
+        "state",
+        "biden",
+        "president",
+        "american",
+        "email",
+        "america",
+        "justice",
+        "enter",
+        "valid",
+        "court",
+        "country"
+      ],
+      "topic_weights": [
+        179.7422253315064,
+        143.4991960760218,
+        135.7222663948397,
+        105.96557826340188,
+        76.68900349181936,
+        73.91161561618557,
+        72.28055485231229,
+        71.42132754609861,
+        64.32466635903863,
+        63.878162181431634,
+        62.08592185784975,
+        53.732087579290734,
+        53.29047841277001,
+        52.29189515882308,
+        49.40730617724109
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "police",
+        "officer",
+        "wa",
+        "election",
+        "statue",
+        "state",
+        "department",
+        "church",
+        "federal",
+        "official",
+        "johnson",
+        "law",
+        "ha",
+        "attorney",
+        "local"
+      ],
+      "topic_weights": [
+        24.539860306925796,
+        21.109123234795568,
+        18.029067608166237,
+        16.44225316910781,
+        12.752298340442785,
+        12.740146337859468,
+        12.069272915794508,
+        12.008290740352791,
+        11.034205374029943,
+        9.475033878769105,
+        8.149511662939226,
+        7.538415792631465,
+        7.44219425903449,
+        6.943637021196729,
+        6.836627192679749
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "trump",
+        "president",
+        "slave",
+        "fbi",
+        "official",
+        "note",
+        "gun",
+        "story",
+        "ha",
+        "intelligence",
+        "article",
+        "nyt",
+        "russian",
+        "trade"
+      ],
+      "topic_weights": [
+        68.21601778503326,
+        35.57795445709152,
+        27.370780258645823,
+        23.43984212584931,
+        22.888313858757307,
+        20.67652164828825,
+        18.931577051006055,
+        18.48083849210307,
+        17.255723470931017,
+        16.62226776310944,
+        15.246374129049752,
+        14.420773821554954,
+        14.21678203047551,
+        13.855228233158938,
+        13.781389382575526
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 41,
+    "4": 6,
+    "0": 33,
+    "3": 6,
+    "1": 23
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Advertisement George Floyd riots in Los Angeles A new study claims that the Black Lives Matter riots actually may have slowed the overall spread of the Coronavirus. Hundreds of thousands of people gat...",
+        "upvotes": 1,
+        "url": "https://www.thegatewaypundit.com/2020/07/really-new-bs-study-claims-black-lives-matter-riots-slowed-overall-spread-coronavirus/"
+      },
+      {
+        "preview": "ell but never invited him on the show. A handful of other soldiers from the platoon did their best to counter Lorance's story. Todd Fitzgerald, who was also standing near Lorance when he ordered the k...",
+        "upvotes": 2,
+        "url": "https://www.lmtonline.com/news/article/For-the-forgotten-men-of-1st-Platoon-Trump-s-15381879.php"
+      },
+      {
+        "preview": "Clay County, Florida, Sheriff Darryl Daniels is not messing around with rioters and looters. He put out a video on YouTube warning potential trouble-makers that his county will not be a playground for...",
+        "upvotes": 59,
+        "url": "https://pjmedia.com/news-and-politics/megan-fox/2020/07/02/amazing-florida-sheriff-threatens-to-deputize-all-local-gun-owners-to-put-down-riots-n597418"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Warning comes as activist Nathan Law flees and Hong Kong government bans protest slogan calling for city’s liberation. China has promised to take “all necessary countermeasures” if the United States p...",
+        "upvotes": 0,
+        "url": "https://www.aljazeera.com/news/2020/07/china-warns-congress-passes-sanctions-bill-hong-kong-200703040128897.html"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Amazon is removing all Washington Redskins merchandise from its website as pressure for the NFL franchise to change its name mounts. The team announc...",
+        "upvotes": 10,
+        "url": "https://thehill.com/policy/technology/506503-amazon-removing-redskins-merchandise-from-site"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved ESPN's Adrian Wojnarowksi emailed Sen. Josh HawleyJoshua (Josh) David HawleyChris Wallace on lawmakers who contested Biden's election: I don't want t...",
+        "upvotes": 2,
+        "url": "https://thehill.com/homenews/media/506781-espns-adrian-wojnarowski-emails-josh-hawley-an-f-bomb"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Source: AP Photo/Frank Augstein According to the make-believe world of the left, we are experiencing a great moment in American racial history. For the first time, the story goes, more whites than eve...",
+        "upvotes": 234,
+        "url": "https://townhall.com/columnists/dennisprager/2020/06/30/the-present-moment-has-set-blacks-back-a-halfcentury-n2571585"
+      },
+      {
+        "preview": "Conservatives have learned nothing over the past 10 years or so about how to handle being called racist, how to handle cancellation crews, and how to handle “rage mobs.” Andrew Breitbart outlined the ...",
+        "upvotes": 91,
+        "url": "https://www.redstate.com/jenvanlaar/2020/06/30/ignoring-andrew-breitbart-conservatives-self-canceling-racism/"
+      },
+      {
+        "preview": "According to the make-believe world of the left, we are experiencing a great moment in American racial history. For the first time, the story goes, more whites than ever are coming to realize how raci...",
+        "upvotes": 39,
+        "url": "https://www.realclearpolitics.com/articles/2020/06/30/the_present_moment_has_set_blacks_back_a_half-century_143577.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "You can also follow us on Facebook, Twitter and Instagram. Fake news you can trust, delivered straight to your inbox. SEATTLE, WA—There's a hot new tourist destination this summer: the ancient ruins o...",
+        "upvotes": 38,
+        "url": "https://babylonbee.com/news/tourists-flock-from-around-country-to-view-ancient-ruins-of-chaz"
+      },
+      {
+        "preview": "A Tulsa police sergeant died Tuesday after being shot multiple times during a traffic stop. Sgt. Craig Johnson, 45, came to provide backup assistance to another officer who pulled over David Anthony W...",
+        "upvotes": 125,
+        "url": "https://townhall.com/tipsheet/leahbarkoukis/2020/07/05/tulsa-police-officer-killed-after-trying-to-use-nonlethal-force-n2571689"
+      },
+      {
+        "preview": "Two police officers who were responding to a disturbance call were killed Saturday in a South Texas town after a suspect met the officers at the door and shot them, police say. The shooting happened s...",
+        "upvotes": 1,
+        "url": "https://www.google.com/amp/s/amp.usatoday.com/amp/5422758002"
+      }
+    ],
+    "4": [
+      {
+        "preview": "I have two children under the age of 3, which basically means I’m tired of clapping. In my house, as with most houses with toddlers, we clap for everything. Literally everything. Basically my job as t...",
+        "upvotes": 1,
+        "url": "https://www.theroot.com/the-white-house-confirms-that-the-president-can-read-an-1844232076"
+      },
+      {
+        "preview": "© 1998-2021 Nexstar Media Inc. All Rights Reserved Chicago Mayor Lori Lightfoot (D) said Tuesday issues leading to gun violence in her city is a result of President TrumpDonald TrumpHouse Democrats ey...",
+        "upvotes": 6,
+        "url": "https://thehill.com/homenews/state-watch/507280-chicago-mayor-blames-violence-on-trump-direct-result-of-a-failure-of"
+      },
+      {
+        "preview": "Democratic Chicago Mayor Lori Lightfoot has called for more gun control amid rising gun violence in her city. The mayor slammed President Trump, insisting there are “easy things” that could be done to...",
+        "upvotes": 52,
+        "url": "https://newspunch.com/chicago-mayor-lori-lightfoot-demands-more-gun-control/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "month": "2011-07",
+  "total_articles": 76,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "debt",
+        "republican",
+        "obama",
+        "government",
+        "spending",
+        "tax",
+        "president",
+        "ha",
+        "wa",
+        "limit",
+        "cut",
+        "house",
+        "budget",
+        "space",
+        "democrat"
+      ],
+      "topic_weights": [
+        244.04591486715546,
+        129.27050770150836,
+        123.52184699056615,
+        103.35974760008168,
+        93.01872725216795,
+        86.40611466564116,
+        82.72406923681666,
+        82.51271165768135,
+        76.736391562238,
+        75.80892495708332,
+        73.71135410272305,
+        73.44746341021767,
+        70.47570770558993,
+        62.51595867764473,
+        54.46704013541227
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "government",
+        "burke",
+        "hayek",
+        "law",
+        "american",
+        "right",
+        "ha",
+        "political",
+        "social",
+        "society",
+        "power",
+        "america",
+        "regulation",
+        "order"
+      ],
+      "topic_weights": [
+        102.90348338062287,
+        86.79391607652398,
+        86.00935294762054,
+        75.69916122335763,
+        70.8228447970221,
+        70.3131738240205,
+        63.57206846678882,
+        56.25444851310682,
+        53.74859403319359,
+        52.03554369026799,
+        49.08799514560919,
+        44.38602412873557,
+        42.605675762637354,
+        39.01768402529046,
+        38.36301029329793
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "obama",
+        "ha",
+        "president",
+        "source",
+        "job",
+        "editor",
+        "note",
+        "gun",
+        "state",
+        "post",
+        "tax",
+        "control",
+        "american",
+        "fact"
+      ],
+      "topic_weights": [
+        119.65761901722061,
+        102.88551509009974,
+        98.01418071099936,
+        91.20302002794143,
+        70.4238613782655,
+        58.57648059981631,
+        52.83170972213422,
+        51.250675606857634,
+        48.19719770911484,
+        45.59906174389492,
+        43.26144553543277,
+        41.480058712858074,
+        39.34294970074122,
+        32.08792002928052,
+        31.30765961188995
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "white",
+        "black",
+        "wa",
+        "crime",
+        "medium",
+        "ha",
+        "race",
+        "racial",
+        "murder",
+        "mob",
+        "victim",
+        "story",
+        "criminal",
+        "violence",
+        "attack"
+      ],
+      "topic_weights": [
+        357.1048571792139,
+        333.0037832066166,
+        98.13207320321973,
+        91.08496894962911,
+        59.57896329869417,
+        55.51755896812638,
+        51.916547782136725,
+        48.50036159540649,
+        48.488345488680416,
+        47.510131975799794,
+        46.58853493404619,
+        38.40580939517375,
+        38.23082004604046,
+        37.98793807128027,
+        32.50938363905731
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "wa",
+        "ha",
+        "alcohol",
+        "smoker",
+        "smoking",
+        "state",
+        "society",
+        "nation",
+        "life",
+        "world",
+        "government",
+        "point",
+        "smoke",
+        "come",
+        "tobacco"
+      ],
+      "topic_weights": [
+        86.21884770663637,
+        59.536043754435276,
+        55.06826163023635,
+        53.166610094449716,
+        50.52299717073257,
+        44.62715485855375,
+        43.387976617290725,
+        42.86829089847322,
+        38.27249600107739,
+        35.801366875326764,
+        33.437907654374285,
+        31.318397405918994,
+        28.17572306749568,
+        27.46818633147383,
+        27.233344700652545
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 9,
+    "2": 13,
+    "0": 29,
+    "4": 14,
+    "1": 11
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Old and busted: Leading leaders and the leadership they display by meeting with leaders. New hotness: The worthlessness of leaders meeting leaders. Yesterday, Barack Obama insisted that leadership mea...",
+        "upvotes": 1,
+        "url": "http://hotair.com/archives/2011/06/30/get-to-work-obama-suddenly-uninterested-in-work/"
+      },
+      {
+        "preview": "WASHINGTON -- Sen. Chuck Schumer (D-N.Y.) said Friday that invoking the Constitution's 14th Amendment, which states that federal debts \"shall not be questioned,\" to continue paying government obligati...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/2011/07/01/chuck-schumer-14th-amendment_n_888692.html"
+      },
+      {
+        "preview": "A Mark Halperin misstep this is not, but Newsweek magazine columnist Evan Thomas had some pretty strong words for President Barack Obama Friday. (Mark Halperin Calls Obama a ‘Dick’ on ‘Morning Joe’) O...",
+        "upvotes": 1,
+        "url": "http://dailycaller.com/2011/07/03/newsweeks-evan-thomas-rips-obama-speech-he-was-being-a-god-expletive-democrat/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "oraries, what the Scottish philosophers had done was successfully to \"resolve almost all that ha[d formerly] been ascribed to positive institution into the spontaneous and irresistible development of ...",
+        "upvotes": 6,
+        "url": "http://www.nhinet.org/raeder.htm"
+      },
+      {
+        "preview": "The world lost its goodwill toward the USA when Americans voted for George W. Bush the second time around. I don't endorse the idea that American politics should be dictated by foreign opinions but a ...",
+        "upvotes": 1,
+        "url": "http://www.huffingtonpost.com/robin-koerner/blue-republican_b_886650.html?ref=tw"
+      },
+      {
+        "preview": "The pseudo-radicals of the Nava Sama Samaja Party (NSSP) in Sri Lanka are engaged in a new and utterly opportunist campaign to promote the bourgeois Tamil National Alliance (TNA) as a party—indeed the...",
+        "upvotes": 1,
+        "url": "http://www.wsws.org/articles/2011/jul2011/slns-j13.shtml"
+      }
+    ],
+    "2": [
+      {
+        "preview": "Follow Us National Review U.S. State Department: We Can’t Process Special Immigrant Visas Right Now Global Warming as the New COVID Put a Rock Where the Kids Can See It Millennial Memories of 9/11 New...",
+        "upvotes": 1,
+        "url": "http://www.nationalreview.com/corner/270862/rubio-blasts-obama-left-wing-strong-man-robert-costa"
+      },
+      {
+        "preview": "Your FP Insider Access: Trudeau’s risky gamble may spell his end. France recalls its envoys to Washington and Canberra over a dispute ahead of the major U.N. summit. The Israeli government is ramping ...",
+        "upvotes": 1,
+        "url": "http://blog.foreignpolicy.com/posts/2011/06/30/countries_where_you_can_go_to_jail_for_calling_the_president_a_dick"
+      },
+      {
+        "preview": "All Four Stanzas By Isaac Asimov Introductory Note. Unless you're already well acquainted with our \"national anthem,\" this interesting piece by the late Isaac Asimov will be an eye-opener. It was for ...",
+        "upvotes": 1,
+        "url": "http://www.purewatergazette.net/asimov.htm"
+      }
+    ],
+    "3": [
+      {
+        "preview": "The Emergency Medical Treatment and Active Labor Act (EMTALA)[1] is an act of the United States Congress, passed in 1986 as part of the Consolidated Omnibus Budget Reconciliation Act (COBRA). It requi...",
+        "upvotes": 22,
+        "url": "http://en.wikipedia.org/wiki/Emergency_Medical_Treatment_and_Active_Labor_Act"
+      },
+      {
+        "preview": "What is the most important take-away from a story about mobs of black teens attacking and seriously injuring innocent pedestrians and businesses? The feelings of teenagers who share the race of the at...",
+        "upvotes": 5,
+        "url": "http://www.americanthinker.com/2011/07/orwellian_media_response_to_flash_mob_racial_violence.html"
+      },
+      {
+        "preview": "Advertisement After a health care town hall meeting in August 2009 St. Louis native Kenneth Gladney was beaten, kicked and called racist names by Rep. Russ Carnahan’s SEIU supporters. Gladney was beat...",
+        "upvotes": 11,
+        "url": "http://www.thegatewaypundit.com/2011/07/nearly-2-years-after-beating-kenneth-gladney-case-goes-to-trial-tomorrow/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Hoverwatch is the first truly family-oriented phone tracking app for Android. Remaining invisible on your phone, Hoverwatch helps protect your kids by allowing you to discover their location at any mo...",
+        "upvotes": 0,
+        "url": "http://www.iwatchnews.org/2011/05/31/4765/limousine-liberals-number-government-owned-limos-has-soared-under-obama"
+      },
+      {
+        "preview": "Carrie Johnson The Obama White House has cleared the way for federal authorities to get more information on gun purchases along the southwest border. Dealers who sell multiple semi-automatic weapons t...",
+        "upvotes": 0,
+        "url": "http://www.npr.org/blogs/thetwo-way/2011/07/11/137772422/federal-authorities-to-collect-more-data-on-gun-buyers-along-border"
+      },
+      {
+        "preview": "by Brett Stevens on July 13, 2011 The problem of having big human brains is that sometimes we rationalize away the issues we most want to talk about. As an example, we all live in “countries” or “nati...",
+        "upvotes": 0,
+        "url": "http://www.amerika.org/politics/global-community-recognizes-nationalism/"
+      }
+    ]
+  }
+}

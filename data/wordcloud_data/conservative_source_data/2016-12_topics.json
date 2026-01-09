@@ -1,0 +1,275 @@
+{
+  "month": "2016-12",
+  "total_articles": 273,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "obama",
+        "russian",
+        "russia",
+        "administration",
+        "state",
+        "president",
+        "foreign",
+        "wa",
+        "relation",
+        "house",
+        "american",
+        "white",
+        "trump",
+        "america",
+        "united"
+      ],
+      "topic_weights": [
+        1124.9998870254456,
+        967.0825847766022,
+        596.3590644812436,
+        466.7347963006098,
+        390.427988303316,
+        373.9143558331484,
+        370.53655911918236,
+        368.94977128592626,
+        367.20687931689025,
+        342.2752995746835,
+        329.29694178254465,
+        298.04089101774537,
+        294.9977668677573,
+        289.883847001305,
+        283.53861379865174
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "trump",
+        "wa",
+        "obama",
+        "president",
+        "white",
+        "ha",
+        "election",
+        "clinton",
+        "republican",
+        "donald",
+        "american",
+        "democrat",
+        "state",
+        "senate",
+        "vote"
+      ],
+      "topic_weights": [
+        995.4679275323092,
+        506.91256147189495,
+        440.6781556927974,
+        417.4396165826767,
+        354.46843599723894,
+        354.456146102156,
+        288.20106661371574,
+        248.81178601231238,
+        223.20495911611323,
+        208.20533938842854,
+        208.14800891851817,
+        202.4955649966858,
+        197.14143067625,
+        177.8465020718625,
+        154.9584078052627
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "ha",
+        "american",
+        "news",
+        "free",
+        "child",
+        "country",
+        "state",
+        "boy",
+        "medium",
+        "trade",
+        "school",
+        "america",
+        "law",
+        "press"
+      ],
+      "topic_weights": [
+        294.1088386800939,
+        292.61637193025234,
+        224.12919160628044,
+        212.96976022571488,
+        206.28085400124613,
+        159.97370454524875,
+        150.8861483102712,
+        145.26579579296254,
+        139.32980942246667,
+        126.62844299914671,
+        126.07791051240615,
+        122.310165056065,
+        120.705959939529,
+        120.60299069265008,
+        113.86948368928871
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "putin",
+        "police",
+        "trump",
+        "medvedev",
+        "hate",
+        "crime",
+        "student",
+        "state",
+        "russian",
+        "russia",
+        "ha",
+        "election",
+        "story",
+        "president"
+      ],
+      "topic_weights": [
+        1218.6488008052129,
+        458.77297099481666,
+        296.4870430836316,
+        279.00961022190563,
+        272.81692900227927,
+        247.7661180008662,
+        228.08062207436052,
+        220.08174629987604,
+        201.92663964124648,
+        199.08252618542227,
+        191.91242436804168,
+        188.37012519798404,
+        184.2033715828629,
+        182.51706765122344,
+        155.4576018210986
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "ha",
+        "state",
+        "israel",
+        "israeli",
+        "wa",
+        "kerry",
+        "obama",
+        "settlement",
+        "palestinian",
+        "energy",
+        "job",
+        "line",
+        "policy",
+        "country",
+        "resolution"
+      ],
+      "topic_weights": [
+        209.920359310183,
+        207.7623964644081,
+        203.06992036292667,
+        193.24459952503543,
+        190.3633092885958,
+        174.10252514889288,
+        163.05995540228886,
+        148.62004283560907,
+        137.14361963040028,
+        89.69885742562208,
+        88.85912707462151,
+        87.18732299689022,
+        84.73950459741214,
+        84.73872549802712,
+        84.36638264590914
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "1": 120,
+    "2": 63,
+    "4": 37,
+    "3": 52,
+    "0": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The silent, months-long contempt expressed by the Russian political class toward the departing White House Administration was suddenly interrupted on Thursday by U.S. President Barack Obama’s announce...",
+        "upvotes": 1,
+        "url": "http://observer.com/2016/12/russian-media-responds-to-obama-anti-russia-sanctions/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "REUTERS/Carlos Barria The Southern Poverty Law Center (SPLC) has released a tally of alleged hate crimes and “hate incidents” in the wake of Donald Trump’s electoral victory, and revealed a notable tr...",
+        "upvotes": 60,
+        "url": "http://dailycaller.com/2016/11/30/the-majority-of-post-trump-hate-incidents-occurred-in-states-hillary-won/"
+      },
+      {
+        "preview": "Advertisement U.S. Capitol Police officers and Secret Service agents surround Miriam Carey's car at Garfield Circle on Oct. 3, 2013 (This is Part 1 of a three-part series on revelations in the Carey c...",
+        "upvotes": 4,
+        "url": "http://www.wnd.com/2016/11/secret-service-officer-drops-bombshell-in-murdered-mom-case/"
+      },
+      {
+        "preview": "The conflict over a liberal blogger’s criticism of the use of the term “white supremacy” provides a case study in how not to win friends and influence people. The coalition that opposes Donald Trump n...",
+        "upvotes": 9,
+        "url": "http://www.theatlantic.com/politics/archive/2016/11/the-scourge-of-the-left-too-much-stigma-not-enough-persuasion/508961/?utm_source=atlfb"
+      }
+    ],
+    "2": [
+      {
+        "preview": "by Giulio Meotti November 30, 2016 at 5:00 am  Translations of this item: \"The newspaper is no longer the same, Charlie is now under artistic and editorial suffocation.\" â Zineb el Rhazoui, French-T...",
+        "upvotes": 37,
+        "url": "https://www.gatestoneinstitute.org/9425/charlie-hebdo-disappears"
+      },
+      {
+        "preview": "Bergh said his letter represents a ârequestâ rather than a âmandateâ or all-out ban, but he hopes customers will honor the request and enter Levi Strauss stores unarmed. FortuneÂ published Ber...",
+        "upvotes": 16,
+        "url": "http://worldofguns.info/2016/12/01/levi-strauss-do-not-bring-your-legal-concealed-carry-firearms-into-our-stores/"
+      },
+      {
+        "preview": "To shed some light on the death of Fidel Castro, I did an interview with Senator Ted Cruz's father Rafael, who lived under the oppressive regime of the Cuban dictator. Have you ever had experiences in...",
+        "upvotes": 16,
+        "url": "http://www.americanthinker.com/articles/2016/11/rafael_cruz_remembers_life_in_cuba.html"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Your account has been created 'I'm amazed by the courage and the resilience of Saudi women' Find your bookmarks in your  Premium section, under my profile Social media users in Saudi Arabia rushed to ...",
+        "upvotes": 17,
+        "url": "http://www.independent.co.uk/news/world/middle-east/saudi-arabia-woman-no-hijab-execution-abaya-muslim-a7450096.html"
+      },
+      {
+        "preview": "NEW YORK (CBSNewYork) — Mayor Bill de Blasio has been taking flight. As CBS2 Political Reporter Marcia Kramer reported exclusively, documents obtained by CBS2 show the mayor has dramatically increased...",
+        "upvotes": 14,
+        "url": "http://newyork.cbslocal.com/2016/11/30/de-blasio-helicopter-flights/"
+      },
+      {
+        "preview": "Justice Gilbart said Yaqoob Alanezy's victim made herself very vulnerable by getting so drunk Don't miss out on the big stories from Manchester's courts with our weekly newsletter One of the country's...",
+        "upvotes": 43,
+        "url": "http://www.manchestereveningnews.co.uk/news/greater-manchester-news/senior-judge-says-woman-sex-12258606"
+      }
+    ],
+    "4": [
+      {
+        "preview": "PoliticsCommentary InternationalNews EconomyCommentary Law Analysis SocietyNews SocietyNews SocietyNews SocietyCommentary PoliticsCommentary SocietyCommentary SecurityNews SocietyFeature SecurityNews ...",
+        "upvotes": 3,
+        "url": "http://dailysignal.com/2016/11/30/does-current-immigration-economically-benefit-ordinary-us-citizens/"
+      },
+      {
+        "preview": "You are now logged in. Forgot your password? Create new account Bernie Sanders Nick Gillespie | 12.15.2015 1:54 PM Mike Rowe, the popular host of CNN's Somebody's Gotta Do It and former host of Discov...",
+        "upvotes": 211,
+        "url": "http://reason.com/blog/2015/12/15/mike-rowe-to-bernie-sanders-stop-telling"
+      },
+      {
+        "preview": "The mission of the Media Research Center is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under Section 501(c)(3) of...",
+        "upvotes": 34,
+        "url": "http://www.newsbusters.org/blogs/culture/katie-yoder/2016/12/01/media-silence-nyc-abortion-rate-60-birth-rate?utm_source=facebook&utm_campaign=NYC-abortion-rate&utm_medium=marketing"
+      }
+    ]
+  }
+}

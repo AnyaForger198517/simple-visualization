@@ -1,0 +1,285 @@
+{
+  "month": "2020-04",
+  "total_articles": 147,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "post",
+        "site",
+        "student",
+        "blog",
+        "website",
+        "information",
+        "wa",
+        "internet",
+        "zoom",
+        "article",
+        "great",
+        "interview",
+        "company",
+        "school",
+        "read"
+      ],
+      "topic_weights": [
+        89.08112042346579,
+        83.30433144215837,
+        62.482370039576736,
+        59.97300336681358,
+        59.483063079173036,
+        59.1390928594845,
+        58.1809882715215,
+        54.50201461506418,
+        54.08145861681925,
+        53.10530501241854,
+        53.01060854178344,
+        51.826587625510875,
+        44.59132833109695,
+        40.01745510704773,
+        37.605245886051975
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "law",
+        "legislation",
+        "group",
+        "death",
+        "york",
+        "ha",
+        "business",
+        "trump",
+        "state",
+        "covid",
+        "week",
+        "politician",
+        "legislative",
+        "congress"
+      ],
+      "topic_weights": [
+        202.83363917458843,
+        160.66549677108313,
+        144.79987314571426,
+        124.68601379926798,
+        122.88095419084823,
+        116.09674614038595,
+        114.1104036893886,
+        105.12291875432891,
+        94.13654017579805,
+        89.9007364845852,
+        80.9949448703927,
+        80.38621195649192,
+        79.26460909923716,
+        78.64443624494889,
+        77.86536451785358
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "city",
+        "york",
+        "state",
+        "health",
+        "blasio",
+        "street",
+        "death",
+        "park",
+        "mayor",
+        "covid",
+        "pandemic",
+        "coronavirus",
+        "condition",
+        "wa",
+        "underlying"
+      ],
+      "topic_weights": [
+        201.99271744394565,
+        170.13242733342477,
+        135.76735984227696,
+        120.45972496894888,
+        104.71525993154332,
+        102.02259382308638,
+        101.41644115453019,
+        97.30349879687628,
+        92.61058398265986,
+        84.15245713359351,
+        78.87073196528577,
+        75.48860633860654,
+        68.99804795723436,
+        63.728492917766836,
+        56.14470713028643
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "china",
+        "ha",
+        "coronavirus",
+        "emergency",
+        "order",
+        "virus",
+        "chinese",
+        "governor",
+        "whitmer",
+        "pandemic",
+        "health",
+        "government",
+        "wa",
+        "trump"
+      ],
+      "topic_weights": [
+        171.45128735799483,
+        152.5317010149978,
+        109.52841888922472,
+        105.35448743382867,
+        95.57857501505819,
+        89.9127783416175,
+        88.2560087694319,
+        86.268240210969,
+        86.00467201266409,
+        85.32595097282922,
+        78.48477515821779,
+        78.03987227261482,
+        67.12588911354878,
+        64.12136977076538,
+        62.3571424448564
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "biden",
+        "wa",
+        "ha",
+        "trump",
+        "president",
+        "justice",
+        "story",
+        "american",
+        "april",
+        "joe",
+        "white",
+        "allegation",
+        "woman",
+        "kavanaugh",
+        "care"
+      ],
+      "topic_weights": [
+        291.3816266754281,
+        290.8131326569402,
+        225.53029184477361,
+        137.7055098302293,
+        132.31372010067486,
+        114.92811370045263,
+        112.55670182902148,
+        111.51573377535948,
+        104.61592072763955,
+        93.82070090465851,
+        87.4111684962913,
+        78.64487424398834,
+        75.0139798239448,
+        74.61212446961186,
+        70.71375428865713
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 22,
+    "3": 51,
+    "4": 38,
+    "1": 17,
+    "0": 19
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "You can also follow us on Facebook, Twitter and Instagram. Fake news you can trust, delivered straight to your inbox. WASHINGTON, D.C.—A heartbroken Mike Pence has announced that Pride Month has been ...",
+        "upvotes": 47,
+        "url": "https://babylonbee.com/news/mike-pence-sad-to-announce-that-pride-month-is-cancelled-over-coronavirus-concerns"
+      },
+      {
+        "preview": "Click for paperback or Kindle Click for paperback or ebook Click for paperback or ebook Did Congress just nationalize the Fed? No. But the door to that result has been cracked open. Mainstream politic...",
+        "upvotes": 51,
+        "url": "https://ellenbrown.com/2020/04/03/was-the-fed-just-nationalized/"
+      },
+      {
+        "preview": "Want to discuss? Please read our Commenting Policy first. Don’t bring a cruise ship to a navy battle — unless you’re fighting Venezuela. A Venezuelan navy patrol boat is now sitting on the bottom of t...",
+        "upvotes": 108,
+        "url": "https://globalnews.ca/news/6774974/cruise-ship-venezuela-ramming/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "When Boeing requested a $60 billion bailout from the US government a few weeks ago, the implicit assumption was that the company may get some of this funding as long as the chronic stock repurchaser d...",
+        "upvotes": 16,
+        "url": "https://www.zerohedge.com/economics/instead-mass-layoffs-boeing-offers-voluntary-buyouts-its-entire-workforce-161000?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+zerohedge%2Ffeed+%28zero+hedge+-+on+a+long+enough+timeline%2C+the+survival+rate+for+everyone+drops+to+zero%29"
+      },
+      {
+        "preview": "A recently posted op-ed by two professors — an associate professor of Mathematics at Carnegie Mellon University and an assistant professor of Molecular Biology at the University of Pittsburgh — calls ...",
+        "upvotes": 19,
+        "url": "https://www.dailywire.com/news/professors-push-back-on-pandemic-models-be-honest-about-what-happens-after-lockdowns-are-lifted"
+      },
+      {
+        "preview": "The coronavirus pandemic will turn global economic growth \"sharply negative\" in 2020, triggering the worst fall-out since the 1930s Great Depression, with only a partial recovery seen in 2021, the hea...",
+        "upvotes": 2,
+        "url": "https://www.wellingtontimes.com.au/story/6718889/imf-chief-tips-worst-recession-since-1930s/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The Game of Thrones star Emilia Clarke has launched an auction to have dinner with her to raise funds for her brain health charity, which would free up the NHS to focus more on coronavirus Game of Thr...",
+        "upvotes": 6,
+        "url": "https://mazainside.com/emilia-clarke-offers-dinner-to-raise-money-for-coronavirus/"
+      },
+      {
+        "preview": "The stockpile's 100 million supply of N95 respirator masks was never fully replenished after 2009 swine flu pandemic, experts say. The Strategic National Stockpile, America’s giant medical storage clo...",
+        "upvotes": 73,
+        "url": "https://justthenews.com/politics-policy/coronavirus/how-obamas-failure-resupply-respirators-federal-stockpile-created-2020"
+      },
+      {
+        "preview": "FILE – In this May 1, 2018, file photo, New York City Mayor Bill de Blasio speaks during a news conference in Newark, N.J. Asian-Americans have been divided over affirmative action for decades, long b...",
+        "upvotes": 4,
+        "url": "https://www.redstate.com/joesquire/2020/04/02/a-mayor-unfit-for-a-pandemic/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "WASHINGTON — In late November 2018, just over a year before the first coronavirus case was identified in Wuhan, China, U.S. Customs and Border Protection agents at Detroit Metro Airport stopped a Chin...",
+        "upvotes": 310,
+        "url": "https://news.yahoo.com/suspected-sars-virus-and-flu-found-in-luggage-fbi-report-describes-chinas-biosecurity-risk-144526820.html"
+      },
+      {
+        "preview": "U.S. Customs and Border Protection officials told  Texas that nearly all migrants apprehended after illegally crossing the border between ports of entry are being returned to the country from which th...",
+        "upvotes": 434,
+        "url": "https://www.breitbart.com/border/2020/03/31/nearly-all-new-illegal-border-crossers-are-getting-sent-back-say-feds/"
+      },
+      {
+        "preview": "Northam announces stay at home order for Virginia Virginia Republicans on Tuesday challenged the length of the “stay-at-home” order Gov. Ralph Northam issued, arguing that it will hamper some of the p...",
+        "upvotes": 25,
+        "url": "https://www.richmond.com/news/virginia/northam-administration-urges-virginians-to-vote-absentee-by-mail-gop-questions-timing-of-stay-at/article_a2db7528-2afa-5d5a-b018-826c97f984fb.html"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Dr. Anthony Fauci cautioned CNN’s Jim Acosta for taking him out of context while responding to his question at the White House press briefing on Tuesday. Acosta asked the federal doctors if the United...",
+        "upvotes": 53,
+        "url": "https://www.breitbart.com/politics/2020/03/31/dr-anthony-fauci-cautions-jim-acosta-for-taking-soundbite-out-of-context/"
+      },
+      {
+        "preview": "If you’re a Netflix addict, then you’re likely familiar with the antics of Joseph Maldonado-Passage, a.k.a. Joe Exotic, the star of the docuseries \"Tiger King,\" which chronicles the life and times of ...",
+        "upvotes": 16,
+        "url": "https://www.realclearpolitics.com/articles/2020/04/01/joe_exotic_meets_joe_quixotic__142821.html"
+      },
+      {
+        "preview": "I'm waiting for the “I Believe Tara” buttons to show up on the backpacks and lapels of vigilant progressives, the way “I Believe Dr. Ford” pins were ubiquitous last year during the inquisition of Supr...",
+        "upvotes": 7,
+        "url": "https://www.detroitnews.com/story/opinion/columnists/nolan-finley/2020/03/31/finley-believe-tara-reade/5088118002/"
+      }
+    ]
+  }
+}

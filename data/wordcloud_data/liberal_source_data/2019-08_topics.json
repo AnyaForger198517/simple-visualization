@@ -1,0 +1,285 @@
+{
+  "month": "2019-08",
+  "total_articles": 180,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "poll",
+        "biden",
+        "percent",
+        "candidate",
+        "warren",
+        "ha",
+        "democratic",
+        "voter",
+        "debate",
+        "sander",
+        "support",
+        "woman",
+        "democrat",
+        "race",
+        "state"
+      ],
+      "topic_weights": [
+        341.40418425246725,
+        288.24121777566035,
+        286.05959756000817,
+        255.60511421019189,
+        254.21460882204778,
+        191.95324478062454,
+        189.13258050792106,
+        177.27144526609095,
+        164.5600244219365,
+        163.43108228883017,
+        126.37788262729973,
+        126.1921749337058,
+        113.58022066792117,
+        104.10419727900657,
+        101.2828647936592
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "state",
+        "ha",
+        "immigration",
+        "shooting",
+        "group",
+        "policy",
+        "gun",
+        "million",
+        "service",
+        "immigrant",
+        "law",
+        "american",
+        "public",
+        "care"
+      ],
+      "topic_weights": [
+        245.45807773677552,
+        164.61628330743784,
+        161.06768962771594,
+        157.5730674721358,
+        121.36745058228996,
+        112.12475618914549,
+        99.4994773501894,
+        95.12912118959527,
+        90.70572731939464,
+        86.94572156375938,
+        76.66366113108595,
+        71.81606712514775,
+        71.75777513882335,
+        70.76804967492704,
+        68.71921965289117
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "trump",
+        "biden",
+        "ha",
+        "president",
+        "house",
+        "campaign",
+        "tax",
+        "report",
+        "committee",
+        "court",
+        "told",
+        "return",
+        "senate",
+        "according"
+      ],
+      "topic_weights": [
+        198.3223198710337,
+        181.80719665064356,
+        156.84252836544835,
+        104.23592609942575,
+        100.27683194969215,
+        81.33700671872334,
+        79.70531738834845,
+        76.18878211272963,
+        75.06959518698923,
+        67.78248580900268,
+        63.11388653007171,
+        58.83052817277046,
+        54.42252387048575,
+        52.576398137831085,
+        49.40806304391005
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "wa",
+        "tax",
+        "epstein",
+        "wealth",
+        "family",
+        "koch",
+        "black",
+        "american",
+        "long",
+        "david",
+        "job",
+        "tanton",
+        "income",
+        "death",
+        "benefit"
+      ],
+      "topic_weights": [
+        138.985229749081,
+        91.04547592584026,
+        84.46603983703555,
+        78.4953844885345,
+        70.97739714646963,
+        52.48585070964486,
+        50.84377030213015,
+        48.85220453530867,
+        42.213889155107616,
+        42.15729476562783,
+        39.5155693713039,
+        39.202820994270915,
+        34.14260129490832,
+        33.62812203232663,
+        32.78044285692686
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "ha",
+        "president",
+        "wa",
+        "white",
+        "republican",
+        "state",
+        "china",
+        "american",
+        "trade",
+        "house",
+        "political",
+        "country",
+        "news",
+        "tariff"
+      ],
+      "topic_weights": [
+        996.5508850751387,
+        459.26656733555535,
+        407.7352778369118,
+        321.3833890388664,
+        195.89114264022263,
+        194.6624371384146,
+        180.58992711910903,
+        177.97570230521217,
+        174.99255685873075,
+        174.19698710422688,
+        150.68441166191425,
+        140.75188188205018,
+        123.91362717594443,
+        119.88232499497529,
+        116.36987044541087
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 28,
+    "4": 69,
+    "2": 31,
+    "1": 40,
+    "3": 12
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "The first of two -sponsored Democratic presidential debates is over. I watched – from the debate site in Detroit – and jotted down some of the best and worst performances from the 10 candidates on sta...",
+        "upvotes": 0,
+        "url": "https://www.cnn.com/2019/07/30/politics/who-won-democratic-debate/index.html"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since During the first night of the second batch of Democratic debates in Detroit, a fairly consistent ro...",
+        "upvotes": 195,
+        "url": "https://www.businessinsider.com/bernie-sanders-debate-attacked-by-rivals-2019-7"
+      },
+      {
+        "preview": "Sign In Manage Newsletters A look back at the 9/11 commission as Biden coddles terrorists Democrats shouldn’t bet on abortion in 2022 Feebleminded Joe Biden’s impact on America’s allies President Trum...",
+        "upvotes": 1,
+        "url": "http://www.washingtontimes.com/news/2019/aug/2/donald-trump-less-popular-than-all-four-squad-memb/"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Last modified on Thu 24 Sep 2020 07.37 EDT US election jurisdictions with histories of egregious voter discrimination have been purging voter rolls at a rate 40% beyond the national average, according...",
+        "upvotes": 1,
+        "url": "https://www.theguardian.com/us-news/2019/aug/01/voter-purges-us-elections-brennan-center-report"
+      },
+      {
+        "preview": "This article is more than 1 year old Follow our latest coverage of the aftermath of the El Paso and Dayton shootings here EL PASO — A gunman wielding an assault-style rifle killed 20 people and wounde...",
+        "upvotes": 1,
+        "url": "https://www.washingtonpost.com/nation/2019/08/03/active-shooter-cielo-vista-mall-area-el-paso-police-say/"
+      },
+      {
+        "preview": "DAYTON, Ohio (AP) — Nineteen hours after a masked gunman opened fire on revelers enjoying summer nightlife, the blood had been scrubbed from the sidewalk and the crime-scene tape torn down as a somber...",
+        "upvotes": 357,
+        "url": "https://www.apnews.com/3b1b785f5b364d9da050bec3d0d48312"
+      }
+    ],
+    "2": [
+      {
+        "preview": "The lobbying push by Sen. Mitch McConnell’s former staffers comes as he is being criticized for blocking election security bills in the wake of Russia’s interference in the 2016 campaign. | Win McName...",
+        "upvotes": 1,
+        "url": "https://www.politico.com/story/2019/07/31/mcconnell-staffers-lobbied-russian-backed-kentucky-project-1442550"
+      },
+      {
+        "preview": "By Veronica Rocha, Meg Wagner, Amanda Wills and Elise Hammond,  Each candidate had at least eight minutes of speaking time tonight — and every one had at least one standout one-liner, compelling argum...",
+        "upvotes": 0,
+        "url": "https://www.cnn.com/politics/live-news/democratic-debate-july-31-2019/index.html"
+      },
+      {
+        "preview": "Sign up for our newsletter. Quality journalism. Progressive values. Direct to your inbox. Follow us: To donate by check, phone, or other method, see our More Ways to Give page. To donate by check, pho...",
+        "upvotes": 1,
+        "url": "https://www.commondreams.org/news/2019/08/01/should-send-shockwaves-across-nation-grave-warnings-mcconnell-accelerates-right-wing"
+      }
+    ],
+    "3": [
+      {
+        "preview": "rtain sacrifices for the sake of education. When I was younger, I railed against these constraints. Money only complicated the picture. In time, I came to understand that the image money creates stand...",
+        "upvotes": 5,
+        "url": "https://www.theatlantic.com/family/archive/2019/07/the-wealth-gap-taints-americas-success-stories/593719/"
+      },
+      {
+        "preview": "Almaz Zelleke, Basic Income Today Guest Editorial by Almaz Zelleke, Associate Professor of Practice in Political Science, NYU Shanghai Fifty years ago, on August 8th, 1969, President Nixon proposed a ...",
+        "upvotes": 1,
+        "url": "https://basicincometoday.com/fifty-years-later-reflecting-on-the-defeat-of-nixons-family-assistance-plan/5379"
+      },
+      {
+        "preview": "Jeffrey Epstein was facing federal sex trafficking charges. Jeffrey Epstein, accused sex trafficker, dies by suicide: Officials Jeffrey Epstein, the disgraced millionaire who was facing federal sex tr...",
+        "upvotes": 358,
+        "url": "https://abcnews.go.com/US/jeffrey-epstein-accused-sex-trafficker-dies-suicide-officials/story?id=64881684"
+      }
+    ],
+    "4": [
+      {
+        "preview": "The Politicus Create | Share | Influence Home » Newly unearthed tape reveals shockingly racist conversation between Reagan and Nixon Like we’ve been saying: The Republican Party has always been racist...",
+        "upvotes": 1,
+        "url": "https://thepoliticus.com/2019/07/30/newly-unearthed-tape-reveals-shockingly-racist-conversation-between-reagan-and-nixon/"
+      },
+      {
+        "preview": "WASHINGTON (AP) — House Speaker Nancy Pelosi suggested Thursday if President Donald Trump wants to belittle her Baltimore hometown as rat-infested, then he should consult with his son-in-law, Jared Ku...",
+        "upvotes": 24,
+        "url": "https://www.apnews.com/56c32ef2f8e646dfafccb001e9d77e13"
+      },
+      {
+        "preview": "House Speaker Nancy Pelosi (D-Calif.) on Thursday bashed senior White House adviser Jared Kushner as a Baltimore “slumlord.” It was the latest parry against President Donald Trump’s relentless attacks...",
+        "upvotes": 11,
+        "url": "https://www.huffpost.com/entry/jared-kushner-rodent-infestations-white-house-balitmore-elijah-cummings_n_5d43829fe4b0acb57fc9cf4d"
+      }
+    ]
+  }
+}

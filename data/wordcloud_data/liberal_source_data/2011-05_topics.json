@@ -1,0 +1,275 @@
+{
+  "month": "2011-05",
+  "total_articles": 82,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "black",
+        "american",
+        "ha",
+        "comment",
+        "obama",
+        "president",
+        "war",
+        "government",
+        "tax",
+        "email",
+        "bush",
+        "address",
+        "america",
+        "policy"
+      ],
+      "topic_weights": [
+        122.89708354515456,
+        119.46987241506275,
+        117.622132514678,
+        105.55519423271986,
+        91.22922383499112,
+        78.11628549687575,
+        77.42241631394273,
+        67.88858389175176,
+        60.4692499137926,
+        59.38163700104157,
+        58.03071581423838,
+        53.34674773454237,
+        53.049862455301614,
+        52.146905253587285,
+        51.37631076176814
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "jones",
+        "mother",
+        "story",
+        "today",
+        "policy",
+        "tax",
+        "journalism",
+        "term",
+        "privacy",
+        "subscribe",
+        "type",
+        "budget",
+        "wa",
+        "receive",
+        "agree"
+      ],
+      "topic_weights": [
+        217.90410218245577,
+        216.1681187273205,
+        106.25984920822346,
+        95.9647503583257,
+        84.08983308410454,
+        80.38612966562962,
+        80.36976702303598,
+        79.7564541006914,
+        74.5324512588883,
+        72.94067148416092,
+        72.4695814291101,
+        70.84588694835007,
+        68.53781186103095,
+        59.14562991904636,
+        58.377765489866874
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "labor",
+        "party",
+        "state",
+        "cut",
+        "union",
+        "republican",
+        "political",
+        "movement",
+        "moral",
+        "challenge",
+        "rich",
+        "wisconsin",
+        "worker",
+        "budget",
+        "real"
+      ],
+      "topic_weights": [
+        295.43631298692617,
+        187.8890628672292,
+        151.8307735521002,
+        136.739113389009,
+        123.51957637844735,
+        122.05188629650917,
+        121.20018803521201,
+        101.08189606985549,
+        96.04149509482005,
+        80.52575016242322,
+        78.95346805794424,
+        77.04088025840365,
+        74.20707885092057,
+        71.87679304593955,
+        71.49399971681171
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "wa",
+        "government",
+        "health",
+        "law",
+        "romney",
+        "ha",
+        "obama",
+        "republican",
+        "abortion",
+        "federal",
+        "care",
+        "group",
+        "plan",
+        "company"
+      ],
+      "topic_weights": [
+        79.81987181357135,
+        59.75295494397077,
+        51.29947097743899,
+        49.126368605745895,
+        48.88694124322125,
+        46.515847593998856,
+        41.68805113471609,
+        40.822974815890106,
+        38.35374448090397,
+        33.58578719670348,
+        29.379415259387702,
+        27.920207387468693,
+        22.98266420110982,
+        22.365936840071893,
+        19.95732474016982
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "tax",
+        "republican",
+        "cut",
+        "huckabee",
+        "wa",
+        "party",
+        "democrat",
+        "budget",
+        "ha",
+        "state",
+        "read",
+        "nation",
+        "free",
+        "ryan",
+        "public"
+      ],
+      "topic_weights": [
+        166.4807418901056,
+        143.9090716467109,
+        110.9469848025416,
+        105.45611309164323,
+        95.25434699298074,
+        85.04820204724014,
+        84.57425665866725,
+        77.37766562315204,
+        71.36126547993291,
+        69.88219531858898,
+        67.06473942984691,
+        65.22859237746673,
+        55.51545790131301,
+        54.82464130941025,
+        50.11740404610548
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "0": 38,
+    "1": 19,
+    "4": 12,
+    "3": 12,
+    "2": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Skip to content Some Fantastic Place: Essays on Non-humans and Yahoomans Randy Shields The Tragedy of American Science: From Truman to Trump Clifford D Conner Bright Green Lies: How the Environmental ...",
+        "upvotes": 0,
+        "url": "http://dissidentvoice.org/2011/04/ron-paul-a-lesser-evil/"
+      },
+      {
+        "preview": "Advertisement Supported by By Mark Mazzetti WASHINGTON, July 3 — The Central Intelligence Agency has closed a unit that for a decade had the mission of hunting Osama bin Laden and his top lieutenants,...",
+        "upvotes": 6,
+        "url": "http://www.nytimes.com/2006/07/04/washington/04intel.html?_r=2&oref=slogin&pagewanted=print"
+      },
+      {
+        "preview": "« Master and servant. | Main | Butterfly caught. » Gov. Corbett proposed last week that colleges and universities could compensate for his proposed education cuts by drilling on their own campuses. So...",
+        "upvotes": 2,
+        "url": "http://www.thievesblog.com/2011/05/higher-level.html"
+      }
+    ],
+    "1": [
+      {
+        "preview": "Christy Bowe/Globe Photos/ZUMApress.com In the 2012 presidential race, New Hampshire’s first-in-the-nation primary is make-or-break for Mitt Romney, and to win it, Romney’s campaign will need the savv...",
+        "upvotes": 8,
+        "url": "http://motherjones.com/politics/2011/05/mitt-romney-new-hampshire-keough-2012"
+      },
+      {
+        "preview": "Screenshot: Fox Business After first placing Paul Ryan’s drastic Medicaid-slashing proposal on the negotiating table, Republicans are lining up behind a yet another plan to curb the program’s benefits...",
+        "upvotes": 12,
+        "url": "http://motherjones.com/politics/2011/05/medicaid-cuts-repeal-republicans"
+      },
+      {
+        "preview": "Last week, Mother Jones took a hard look at the words and influence of pseudo-historian David Barton, a Republican activist and minister who’s devoted his life to bringing religion into politics. The ...",
+        "upvotes": 8,
+        "url": "http://motherjones.com/mojo/2011/05/david-barton-new-york-times-huckabee"
+      }
+    ],
+    "2": [
+      {
+        "preview": "By signing up, you confirm that you are over the age of 16 and agree to receive occasional promotional offers for programs that support The Nation’s journalism. You can read our Privacy Policy here. B...",
+        "upvotes": 9,
+        "url": "http://www.thenation.com/blog/160828/afl-cios-rich-trumka-post-wisconsin-game-plan"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Washington - A group of Wisconsinites with disabilities vowed Wednesday to keep protesting the Ryan budget after many of them were arrested this week demonstrating in congressional office buildings. \"...",
+        "upvotes": 6,
+        "url": "http://www.jsonline.com/news/usandworld/121297483.html"
+      },
+      {
+        "preview": "By Brooks Jackson Posted on September 18, 2009 Q: Did Obama loan $2 billion to Brazil’s oil company to benefit China and George Soros? A: The president had nothing to do with the loan, which the Expor...",
+        "upvotes": 5,
+        "url": "http://factcheck.org/2009/09/bogus-brazilian-oil-claims/"
+      },
+      {
+        "preview": "Link copied. We want to bridge divides to reach everyone. Wisconsin Sen. Herb Kohl says he's retiring after his fourth term ends in 2012. He is the sixth Democrat-aligned senator to do so, compared wi...",
+        "upvotes": 13,
+        "url": "http://www.csmonitor.com/USA/Elections/Senate/2011/0513/Can-Democrats-hold-the-Senate-in-2012-Now-Herb-Kohl-says-he-s-retiring"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Tax-deferred retirement accounts were created under a law passed by Congress in 1974. They strike a bargain between taxpayers and the Treasury: money in the accounts grows tax-free, but taxable withdr...",
+        "upvotes": 0,
+        "url": "http://www.dailykos.com/story/2011/05/04/971921/-Robbing-Uncle-Sam-of-Retirement-Taxes"
+      },
+      {
+        "preview": "Mayor Mike has a plan to fire thousands of teachers; unions and students have a plan to make the the big banks pay their fair share. By signing up, you confirm that you are over the age of 16 and agre...",
+        "upvotes": 18,
+        "url": "http://www.thenation.com/blog/160502/march-wall-street-oppose-bloombergs-mass-teacher-firings"
+      },
+      {
+        "preview": "Major disasters show us how interdependent people are in this country and force us to better understand how we can work together in communities and in government. By signing up, you confirm that you a...",
+        "upvotes": 1,
+        "url": "http://www.thenation.com/blog/160582/how-mississippis-floods-highlight-americas-inequality"
+      }
+    ]
+  }
+}

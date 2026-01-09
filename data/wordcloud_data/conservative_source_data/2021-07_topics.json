@@ -1,0 +1,275 @@
+{
+  "month": "2021-07",
+  "total_articles": 184,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "inflation",
+        "price",
+        "percent",
+        "poll",
+        "money",
+        "ha",
+        "result",
+        "arizona",
+        "government",
+        "voter",
+        "medium",
+        "wa",
+        "trump",
+        "support",
+        "increase"
+      ],
+      "topic_weights": [
+        64.95216395524882,
+        58.10277276096551,
+        49.975037685959485,
+        38.22898025764276,
+        36.1467660288298,
+        30.378268723011765,
+        25.063519240637618,
+        24.806025560023667,
+        24.40486567068014,
+        23.913604393374296,
+        20.752761035139965,
+        20.60005125763053,
+        18.077827583788864,
+        17.861230305746815,
+        17.375581083879634
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "wa",
+        "school",
+        "ha",
+        "mask",
+        "covid",
+        "medium",
+        "child",
+        "public",
+        "vaccine",
+        "news",
+        "july",
+        "case",
+        "health",
+        "virus",
+        "american"
+      ],
+      "topic_weights": [
+        198.7686518197798,
+        134.8745905487515,
+        129.80461132550047,
+        119.291575705671,
+        109.8129812674447,
+        81.45198800586522,
+        80.60134949071328,
+        72.78903594926393,
+        71.92390455250727,
+        71.86326781573446,
+        66.45743134961464,
+        65.34609401858701,
+        55.040151308537006,
+        53.59793707729017,
+        53.04654782692999
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "wa",
+        "state",
+        "biden",
+        "ha",
+        "law",
+        "democrat",
+        "court",
+        "news",
+        "president",
+        "republican",
+        "trump",
+        "house",
+        "election",
+        "american",
+        "federal"
+      ],
+      "topic_weights": [
+        241.0507366964134,
+        213.68306619944303,
+        202.3216929224053,
+        184.2172298428703,
+        158.2629633092226,
+        149.48439540138347,
+        125.8219808742458,
+        125.4228169680527,
+        124.83690761827661,
+        116.03055719010052,
+        99.32930531735195,
+        99.12002205285084,
+        93.4188229204596,
+        92.26507943927407,
+        91.09290612812065
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "state",
+        "ha",
+        "wa",
+        "believe",
+        "government",
+        "china",
+        "america",
+        "american",
+        "red",
+        "country",
+        "blue",
+        "tax",
+        "idea",
+        "police",
+        "world"
+      ],
+      "topic_weights": [
+        459.1498412968003,
+        242.47786022439254,
+        239.14193533164595,
+        212.42733547823343,
+        150.51435060643817,
+        137.93741636967314,
+        137.1682523422989,
+        125.57497345227773,
+        125.45109347109901,
+        122.13344672078912,
+        121.2253053774104,
+        96.24412167994602,
+        87.87705302876458,
+        83.70858018193107,
+        83.3669910351829
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "reply",
+        "posted",
+        "view",
+        "post",
+        "private",
+        "wa",
+        "real",
+        "news",
+        "journalist",
+        "msnbc",
+        "court",
+        "eagle",
+        "standard",
+        "texas",
+        "incapable"
+      ],
+      "topic_weights": [
+        900.2764500208431,
+        342.7214929441267,
+        336.6479509465231,
+        319.6183294992271,
+        300.49355806842016,
+        121.41850975911275,
+        78.94630738932719,
+        72.69983273353145,
+        68.70143697850719,
+        66.47280490813728,
+        63.81409927599419,
+        62.128922694703874,
+        60.369104250053525,
+        60.19576058928867,
+        55.787917447018806
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "2": 79,
+    "0": 12,
+    "1": 51,
+    "3": 41,
+    "4": 1
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": "Elections Independent voters oppose the controversial recounting of ballots by a wide margin. In this May 6, 2021 file photo, Maricopa County ballots cast in the 2020 election are examined and recount...",
+        "upvotes": 1,
+        "url": "https://www.politico.com/news/2021/06/29/arizona-ballot-audit-gop-biden-496908"
+      },
+      {
+        "preview": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since A political action committee intent on ousting Florida Gov. Ron DeSantis in 2022 is releasing an ad...",
+        "upvotes": 1,
+        "url": "https://www.businessinsider.com/pac-releases-ad-designed-to-undermine-trumps-ties-ron-desantis-2021-7"
+      },
+      {
+        "preview": "The American people put as much trust in news outlets that are not part of the “mainstream media” as they do in “mainstream” organizations, a new survey has found. Perhaps to no one’s surprise, the po...",
+        "upvotes": 21,
+        "url": "https://www.dailywire.com/news/americans-trust-non-mainstream-news-sources-as-much-as-mainstream-survey"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The Pella Aquatic Center in Pella, Iowa, has confirmed to a newspaper it allowed a teenage girl to go topless and use the men’s restroom and locker room because she said she “identified” as a man. She...",
+        "upvotes": 49,
+        "url": "https://www.breitbart.com/politics/2021/06/29/aquatic-center-confirms-allowed-biological-topless-female-access-mens-bathroom-locker-room/"
+      },
+      {
+        "preview": "The fanatical pursuit of Zero Covid is a recipe for never-ending lockdown. It is estimated that there are fewer than 300 active cases of Covid-19 in Australia. Yet over 12million Australians are curre...",
+        "upvotes": 46,
+        "url": "https://www.spiked-online.com/2021/07/01/will-australians-ever-be-free/"
+      },
+      {
+        "preview": "Advertisement If a contest were held to determine which current federal policy is the most insane and destructive, there would be many worthy contenders: There's the creation of today's giant crime wa...",
+        "upvotes": 114,
+        "url": "https://www.wnd.com/2021/07/vaccine-mania-led-suppression-covid-treatments/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "YOUR CULTURE HUB! Music, Fashion, Culture, Tech, Politics and more! Troopers and Local Law Enforcement Agencies Across the State Will Target Impaired and Reckless Drivers Through the Holiday Weekend G...",
+        "upvotes": 14,
+        "url": "https://imprintent.org/governor-cuomo-announces-state-police-crackdown-on-drunk-and-drugged-driving-during-the-july-4th-holiday/"
+      },
+      {
+        "preview": "Commentary If you’re white and work for the federal government, get ready to be labeled a racist, regardless of how fair and open-minded you are. On June 25, President Joe Biden ordered all federal ag...",
+        "upvotes": 18,
+        "url": "https://www.theepochtimes.com/an-unconstitutional-workplace-indoctrination-scheme_3881271.html"
+      },
+      {
+        "preview": "For one judge in New York City, it seems, justice depends on wokeness. A career criminal and gang member named William “Ill Will” Scott, who has a history of 25 arrests since 1999, was accused of shoo...",
+        "upvotes": 1,
+        "url": "https://www.tampafp.com/report-nyc-judge-tosses-case-on-shooting-suspect-because-grand-jury-was-too-white/"
+      }
+    ],
+    "3": [
+      {
+        "preview": "occupation moves to a new state that has passed universal recognition legislation, they can get to work right away. This gives workers greater flexibility and makes states with a ULR law more attracti...",
+        "upvotes": 46,
+        "url": "https://www.atr.org/irs-has-repeatedly-failed-protect-taxpayer-data"
+      },
+      {
+        "preview": "Russia and China are coordinating military exercises to threaten not only Taiwan but also Hawaii, according to a senior Japanese defense official who warned the United States to beware of a Pearl Harb...",
+        "upvotes": 1,
+        "url": "https://news.yahoo.com/japanese-official-warns-us-potential-200100225.html"
+      },
+      {
+        "preview": "Follow Us National Review Sanders Rebukes Manchin’s Downsized Ceiling for Reconciliation Bill The Supreme Court in the American Constitutional Order The Myth of the Red Pill The Billionaires’ Party Mi...",
+        "upvotes": 42,
+        "url": "https://www.nationalreview.com/2021/07/colorados-governor-unemployment/"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Skip to comments. Posted on 05/25/2020 5:44:41 PM PDT by grundle Any belief that Rachel Maddow is a journalist was set to rest in a San Diego federal courtroom on Friday, with a federal judge dismisse...",
+        "upvotes": 347,
+        "url": "https://freerepublic.com/focus/f-news/3848448/posts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2011-05",
+  "total_articles": 63,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Cultural & Societal Dynamics with War and National Identity",
+      "core_keywords": ["game", "american", "society", "chinese", "world", "modern", "war", "country", "china", "soldier", "state", "man", "america"],
+      "importance_ratio": 15.87
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "War in Afghanistan/Iraq & US Political Discourse",
+      "core_keywords": ["jones", "war", "afghanistan", "congress", "republican", "house", "iraq", "state", "end", "military", "american", "man", "obama"],
+      "importance_ratio": 9.52
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Legal & Judicial Matters with State and Law Enforcement",
+      "core_keywords": ["court", "law", "domain", "police", "justice", "arizona", "supreme", "officer", "state", "indiana", "home", "kagan", "ruling", "illegal", "business"],
+      "importance_ratio": 4.76
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Presidential Politics & Party Dynamics",
+      "core_keywords": ["obama", "president", "republican", "party", "state", "candidate", "york", "gingrich", "gop", "house", "democrat"],
+      "importance_ratio": 34.92
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "American Society & National Issues with Cultural Dimensions",
+      "core_keywords": ["white", "state", "point", "society", "american", "work", "america", "group", "islam", "government", "culture", "problem", "nationalism"],
+      "importance_ratio": 34.92
+    }
+  ]
+}

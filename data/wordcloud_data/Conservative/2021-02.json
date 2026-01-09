@@ -1,0 +1,36 @@
+{
+  "month": "2021-02",
+  "total_articles": 149,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Election Disputes and Partisan Political Dynamics",
+      "core_keywords": ["election", "democrat", "republican", "voter", "government", "house", "pandemic", "vote"],
+      "importance_ratio": 0.1477
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump and Biden's Presidential Administration Coverage",
+      "core_keywords": ["trump", "biden", "president", "white house", "media", "twitter", "administration", "american"],
+      "importance_ratio": 0.5906
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Racial Tensions and Education in Southern States",
+      "core_keywords": ["black", "white", "school", "texas", "child", "parent", "racial", "south"],
+      "importance_ratio": 0.0671
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Cultural Heritage and Patriotic American Ethos Debate",
+      "core_keywords": ["culture", "heritage", "american", "patriotism", "identity", "science", "mandate", "working class"],
+      "importance_ratio": 0.0805
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Biden's Policies and COVID-19 Nursing Home Issues",
+      "core_keywords": ["biden", "cuomo", "covid", "nursing home", "student", "governor", "school", "allegation"],
+      "importance_ratio": 0.1141
+    }
+  ]
+}

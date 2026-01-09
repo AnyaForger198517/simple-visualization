@@ -1,0 +1,285 @@
+{
+  "month": "2016-12",
+  "total_articles": 270,
+  "topics": [
+    {
+      "topic_id": 0,
+      "topic_words": [
+        "wa",
+        "clinton",
+        "trump",
+        "ha",
+        "party",
+        "sander",
+        "perez",
+        "election",
+        "obama",
+        "democratic",
+        "dnc",
+        "chair",
+        "campaign",
+        "labor",
+        "russia"
+      ],
+      "topic_weights": [
+        425.4704287559993,
+        414.7095471611165,
+        375.0992868833565,
+        344.23553311884154,
+        341.95362639068355,
+        315.16806171176773,
+        304.68418567779236,
+        284.06452997028737,
+        270.5961624774312,
+        261.57804005910464,
+        243.09324469115722,
+        219.133286225759,
+        211.43705068516599,
+        210.27187256443327,
+        202.74956848026346
+      ]
+    },
+    {
+      "topic_id": 1,
+      "topic_words": [
+        "state",
+        "wa",
+        "school",
+        "ha",
+        "child",
+        "law",
+        "parent",
+        "court",
+        "public",
+        "federal",
+        "city",
+        "government",
+        "american",
+        "national",
+        "right"
+      ],
+      "topic_weights": [
+        426.1138373576655,
+        259.8635175003698,
+        243.7575595314028,
+        241.01185554260397,
+        201.48819784850352,
+        143.36612252983298,
+        136.4010619640427,
+        129.3892394261088,
+        119.07447149172935,
+        109.34191566400231,
+        100.53389006943628,
+        98.89688575272427,
+        96.50547817285137,
+        93.77594917324714,
+        86.37580964877696
+      ]
+    },
+    {
+      "topic_id": 2,
+      "topic_words": [
+        "thompson",
+        "trump",
+        "voter",
+        "wa",
+        "angel",
+        "white",
+        "vote",
+        "election",
+        "political",
+        "american",
+        "total",
+        "men",
+        "class",
+        "elite",
+        "motorcycle"
+      ],
+      "topic_weights": [
+        370.36651050768745,
+        334.31648744748384,
+        306.86746807559973,
+        278.7087939623942,
+        253.61212737999924,
+        206.0053741023574,
+        193.81770461792973,
+        189.8622608413737,
+        187.1382298083335,
+        128.31404939687954,
+        117.08730556404697,
+        114.82651308201594,
+        111.57451538999692,
+        110.62341476666948,
+        109.59865407955249
+      ]
+    },
+    {
+      "topic_id": 3,
+      "topic_words": [
+        "trump",
+        "president",
+        "wa",
+        "ha",
+        "donald",
+        "elect",
+        "state",
+        "tweet",
+        "republican",
+        "medium",
+        "twitter",
+        "vote",
+        "business",
+        "child",
+        "united"
+      ],
+      "topic_weights": [
+        1063.064488413672,
+        385.2051911234178,
+        273.61473006248167,
+        216.30348247245186,
+        181.50511282287474,
+        162.06317873392405,
+        145.7113492266588,
+        143.39418757353954,
+        116.29811382694757,
+        101.05682597963212,
+        97.24774076604113,
+        94.5832596016617,
+        91.53816309262227,
+        91.34007888740499,
+        84.899466089643
+      ]
+    },
+    {
+      "topic_id": 4,
+      "topic_words": [
+        "trump",
+        "worker",
+        "ha",
+        "american",
+        "wa",
+        "job",
+        "working",
+        "health",
+        "work",
+        "million",
+        "tax",
+        "republican",
+        "care",
+        "trade",
+        "state"
+      ],
+      "topic_weights": [
+        431.2716513413577,
+        362.19629512211304,
+        329.5267093029938,
+        308.82520169277814,
+        290.1467463790436,
+        261.5016359970235,
+        229.75749461576575,
+        224.96610942895452,
+        217.11844046081157,
+        203.80491793725028,
+        193.65965099485834,
+        184.29216596967785,
+        183.70730824850915,
+        182.18163034964752,
+        177.0447858138515
+      ]
+    }
+  ],
+  "topic_distribution": {
+    "3": 67,
+    "4": 59,
+    "1": 62,
+    "0": 60,
+    "2": 22
+  },
+  "sample_articles_by_topic": {
+    "0": [
+      {
+        "preview": " speech. There are not many entries where an argument is made for placing limitations on free expression. Wikipedia has a quite a few entries dealing with censorship, free speech, pornography, and cri...",
+        "upvotes": 1,
+        "url": "http://plato.stanford.edu/entries/freedom-speech/"
+      },
+      {
+        "preview": "What’s traditionally a clinical dissection of a presidential race turned every bit as vicious and ugly as this election wound up, with President-elect Donald Trump’s top campaign staff gloating about ...",
+        "upvotes": 44,
+        "url": "http://www.huffingtonpost.com/entry/trump-campaign-managers-harvard_us_5840dacee4b09e21702df75e"
+      },
+      {
+        "preview": "Last night, TechCrunch ran a story purporting that Facebook was showing certain users red warning labels above fake news links. But as it happens, this wasn't Facebook's doing at all, but rather the w...",
+        "upvotes": 56,
+        "url": "http://motherboard.vice.com/read/an-interview-with-the-guy-whose-fake-news-plugin-was-just-blocked-by-facebook"
+      }
+    ],
+    "1": [
+      {
+        "preview": "The U.S. Supreme Court takes up important immigration questions Wednesday, even as President-elect Donald Trump talks of pushing for more deportations. The legal issue before the court tests whether p...",
+        "upvotes": 1,
+        "url": "http://wrkf.org/post/supreme-court-consider-how-long-immigrants-may-be-detained-without-bond-hearing"
+      },
+      {
+        "preview": "These are the core obsessions that drive our newsroom—defining topics of seismic importance to the global economy. These are some of our most ambitious editorial projects. Enjoy! Our emails are made t...",
+        "upvotes": 72,
+        "url": "http://qz.com/846940/a-yale-history-professors-20-point-guide-to-defending-democracy-under-a-trump-presidency/"
+      },
+      {
+        "preview": "What does Mumia Abu-Jamal have that David Koresh doesn't? From Ed Asner to Alice Walker, liberals have flocked to defend Mumia -- convicted in 1982 of killing Philadelphia police officer Daniel Faulkn...",
+        "upvotes": 0,
+        "url": "http://www.salon.com/2000/06/19/waco_7/"
+      }
+    ],
+    "2": [
+      {
+        "preview": "nd Donald Trump’s electoral college margin. (Andrew McGill has been covering this issue for us since the election.) The engineer wrote over the weekend with this summary: It looks as if Hillary Clinto...",
+        "upvotes": 2,
+        "url": "http://www.theatlantic.com/notes/2016/11/trump-media/509021/"
+      },
+      {
+        "preview": "Dec. 2, 2016, at 7:00 AM By Harry Enten Filed under 2016 Election Democrats had an election night to forget last month. They lost the presidency and a net of two governor’s mansions,1 and gained fewer...",
+        "upvotes": 59,
+        "url": "https://fivethirtyeight.com/features/democrats-shouldnt-count-on-an-unpopular-trump-to-win-back-governorships/"
+      },
+      {
+        "preview": "But would Stein voters really have gone to Clinton if Stein wasn’t on the ticket? Back in 2000, many political watchers blamed Green Party candidate Ralph Nader for George W. Bush’s victory over Al Go...",
+        "upvotes": 39,
+        "url": "http://www.vox.com/policy-and-politics/2016/12/1/13811344/jill-stein-clinton-trump-nader-spoiler"
+      }
+    ],
+    "3": [
+      {
+        "preview": "Mitt Romney, Chris Christie, Barack Obama and Nigel Farage are all destined to be remembered for how they looked when they were photographed with the president-elect Last modified on Wed 6 Jan 2021 19...",
+        "upvotes": 3,
+        "url": "https://www.theguardian.com/commentisfree/2016/nov/30/world-leaders-beware-photo-with-trump-will-expose-your-soul"
+      },
+      {
+        "preview": "An activist from the notorious Operation Rescue anti-abortion group is bristling at assertions that she is a terrorist -- despite the fact that she was convicted of plotting to bomb an abortion clinic...",
+        "upvotes": 2,
+        "url": "http://www.rawstory.com/2016/11/operation-rescue-activist-who-plotted-to-bomb-an-abortion-critic-rages-at-being-called-a-terrorist/"
+      },
+      {
+        "preview": "Twitter Lets Fans Send Artists at the VMAs Stan Mail By David Cohen 2 days ago Toyota is the exclusive launch partner. Twitter: Where Bots Can Be Proud to Be Bots (If They’re Good) By David Cohen 2 da...",
+        "upvotes": 1,
+        "url": "http://www.adweek.com/socialtimes/google-doodle-world-aids-day/208626"
+      }
+    ],
+    "4": [
+      {
+        "preview": "Schumer plans to make Rep. Price’s confirmation hearing for HHS a into a showcase for and proxy battle over Trump and Ryan’s plans to phase out Medicare and replace it with private insurance and vouch...",
+        "upvotes": 9,
+        "url": "http://talkingpointsmemo.com/edblog/medicare-up-for-a-vote"
+      },
+      {
+        "preview": "Trump’s appointee is the very model of a predatory lender. by Peter Dreier November 30, 2016 3:52 PM AP Photo/Carolyn Kaster Throughout his presidential campaign, Donald Trump criticized Wall Street b...",
+        "upvotes": 10,
+        "url": "http://prospect.org/article/steve-mnuchin-evictor-forecloser-and-our-new-treasury-secretary"
+      },
+      {
+        "preview": "Report | Trade and Globalization Report • By Jeff Faux • November 30, 2016 Download PDF Press release Anger over the impact of international trade on jobs, wages, and opportunities was a major cause o...",
+        "upvotes": 6,
+        "url": "http://www.epi.org/publication/u-s-trade-policy-time-to-start-over/"
+      }
+    ]
+  }
+}
