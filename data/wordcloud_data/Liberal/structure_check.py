@@ -55,7 +55,7 @@ def main():
             
             # 对比键结构
             if file_structure != reference_structure:
-                print(f"⚠️  文件 {filename} 键结构与参考文件不同")
+                print(f"文件 {filename} 键结构与参考文件不同")
                 
                 # 可选：输出具体差异
                 reference_set = set(reference_structure)
@@ -69,7 +69,7 @@ def main():
                     print(f"  - 多余的键: {sorted(extra_keys)}")
                 print("-" * 30)
     
-    print("✅ 检查完成")
+    print("检查完成")
 
 if __name__ == "__main__":
     main()
