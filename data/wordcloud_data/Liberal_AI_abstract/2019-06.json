@@ -1,0 +1,36 @@
+{
+  "month": "2019-06",
+  "total_articles": 120,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Political Parties and Election Dynamics",
+      "core_keywords": ["republican", "democrat", "election", "vote", "candidate", "policy", "american"],
+      "importance_ratio": 0.2917
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Immigration and Border Security Issues in US",
+      "core_keywords": ["immigration", "border", "trump", "child", "migrant", "violence", "police"],
+      "importance_ratio": 0.2083
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump Administration and Mueller Investigation Aftermath",
+      "core_keywords": ["trump", "president", "mueller", "house", "court", "report", "administration"],
+      "importance_ratio": 0.2750
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Education Funding and Local Government Affairs",
+      "core_keywords": ["college", "student", "loan", "fund", "sheriff", "county", "public"],
+      "importance_ratio": 0.0583
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Foreign Business Interests and Financial Matters",
+      "core_keywords": ["trump", "business", "foreign", "money", "tax", "property", "deal"],
+      "importance_ratio": 0.1667
+    }
+  ]
+}

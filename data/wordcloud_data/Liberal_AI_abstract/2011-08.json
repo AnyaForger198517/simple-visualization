@@ -1,0 +1,36 @@
+{
+  "month": "2011-08",
+  "total_articles": 80,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Government and Political Parties' Fiscal and Power Dynamics",
+      "core_keywords": ["government", "republican", "obama", "tax", "money", "power", "corporation"],
+      "importance_ratio": 0.3750
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Political Figures and Media Journalism Policy",
+      "core_keywords": ["obama", "bachmann", "policy", "state", "journalism", "privacy", "media"],
+      "importance_ratio": 0.2625
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Federal and State Environmental and Legal Protest Issues",
+      "core_keywords": ["state", "federal", "environmental", "court", "protest", "nation", "legal"],
+      "importance_ratio": 0.0625
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Debt Ceiling Deal and Partisan Tax Policy Negotiations",
+      "core_keywords": ["tax", "republican", "obama", "president", "deal", "house", "debt"],
+      "importance_ratio": 0.2500
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Global Financial Debt Crisis and Economic Stability",
+      "core_keywords": ["debt", "financial", "government", "bank", "economy", "greece", "crisis"],
+      "importance_ratio": 0.0500
+    }
+  ]
+}

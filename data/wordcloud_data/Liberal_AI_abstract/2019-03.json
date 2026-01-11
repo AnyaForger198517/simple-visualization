@@ -1,0 +1,36 @@
+{
+  "month": "2019-03",
+  "total_articles": 135,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Police Shooting Incidents and Law Enforcement Policies",
+      "core_keywords": ["police", "shooting", "gun", "crime", "city", "family", "officer"],
+      "importance_ratio": 0.0296
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump's Political Agenda and Partisan Politics",
+      "core_keywords": ["trump", "president", "republican", "democrat", "white house", "campaign", "policy"],
+      "importance_ratio": 0.8296
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Mueller Report and Trump's Tax Investigations",
+      "core_keywords": ["trump", "mueller", "tax", "report", "investigation", "money", "company"],
+      "importance_ratio": 0.0963
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "2016 US Election Results and Economic Impact",
+      "core_keywords": ["trump", "hillary", "election", "vote", "job", "trade", "obama"],
+      "importance_ratio": 0.0148
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Environmental Protection and Water Resource Management",
+      "core_keywords": ["water", "river", "environment", "clean", "local", "public", "disaster"],
+      "importance_ratio": 0.0297
+    }
+  ]
+}

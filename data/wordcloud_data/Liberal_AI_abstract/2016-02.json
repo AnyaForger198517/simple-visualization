@@ -1,0 +1,36 @@
+{
+  "month": "2016-02",
+  "total_articles": 510,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Foreign Policy and Presidential Leadership",
+      "core_keywords": ["foreign", "policy", "president", "war", "military", "america", "trump"],
+      "importance_ratio": 0.0431
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Social and Environmental Issues in Southern US States",
+      "core_keywords": ["south", "state", "water", "flint", "lead", "black", "solar"],
+      "importance_ratio": 0.1216
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Supreme Court and Judicial Politics",
+      "core_keywords": ["court", "supreme", "justice", "scalia", "senate", "law", "judge"],
+      "importance_ratio": 0.1922
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Presidential Primary Elections and Voter Dynamics",
+      "core_keywords": ["clinton", "sander", "voter", "democratic", "republican", "hillary", "bernie"],
+      "importance_ratio": 0.2510
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Democratic Primary Campaign Policies and Candidates",
+      "core_keywords": ["sander", "clinton", "campaign", "democratic", "tax", "policy", "president"],
+      "importance_ratio": 0.3922
+    }
+  ]
+}

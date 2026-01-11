@@ -1,0 +1,36 @@
+{
+  "month": "2015-03",
+  "total_articles": 286,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Law Enforcement and Racial Justice Issues",
+      "core_keywords": ["police", "law", "court", "black", "community", "state", "government"],
+      "importance_ratio": 0.3846
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Military Drone Warfare and National Security",
+      "core_keywords": ["drone", "war", "military", "security", "terror", "force", "american"],
+      "importance_ratio": 0.0175
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gender Equality and Economic Policy",
+      "core_keywords": ["woman", "job", "business", "policy", "right", "union", "work"],
+      "importance_ratio": 0.2867
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Party Politics and Presidential Campaigns",
+      "core_keywords": ["clinton", "republican", "democrat", "senate", "president", "obama", "party"],
+      "importance_ratio": 0.3077
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Labor Rights and Socialist Movements",
+      "core_keywords": ["wage", "minimum", "worker", "socialist", "campaign", "corporate", "party"],
+      "importance_ratio": 0.0035
+    }
+  ]
+}

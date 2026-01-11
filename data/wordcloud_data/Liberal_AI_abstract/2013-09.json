@@ -1,0 +1,36 @@
+{
+  "month": "2013-09",
+  "total_articles": 145,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Religious Issues and Hate Crimes Involving LGBTQ+ Community",
+      "core_keywords": ["religious", "gay", "crime", "abuse", "hate", "church", "couple", "state"],
+      "importance_ratio": 0.0621
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Climate Change and IPCC Report Analysis",
+      "core_keywords": ["climate", "change", "ipcc", "report", "warming", "policy", "state", "world"],
+      "importance_ratio": 0.1586
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Republican Party and Obama Administration Political Dynamics",
+      "core_keywords": ["republican", "obama", "party", "government", "house", "president", "political", "gun"],
+      "importance_ratio": 0.5931
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Federal Contractor Wages and Labor Compensation",
+      "core_keywords": ["contractor", "worker", "wage", "pay", "labor", "government", "federal", "compensation"],
+      "importance_ratio": 0.0552
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "State Funding and Poverty-Related Financial Policies",
+      "core_keywords": ["state", "money", "fund", "poor", "tax", "pension", "pay", "food"],
+      "importance_ratio": 0.1310
+    }
+  ]
+}

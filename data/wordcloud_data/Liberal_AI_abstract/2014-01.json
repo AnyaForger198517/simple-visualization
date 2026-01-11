@@ -1,0 +1,36 @@
+{
+  "month": "2014-01",
+  "total_articles": 87,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Student Loan Debt and Digital Privacy Issues",
+      "core_keywords": ["student", "loan", "debt", "college", "privacy", "data", "cost"],
+      "importance_ratio": 0.0345
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Republican Politics and Conservative Ideology",
+      "core_keywords": ["republican", "conservative", "gun", "obama", "state", "right-wing", "american"],
+      "importance_ratio": 0.3793
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Obamacare and Healthcare Policy Debates",
+      "core_keywords": ["obamacare", "health", "medicaid", "union", "law", "coverage", "policy"],
+      "importance_ratio": 0.1264
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "State Governance and Political Scandals",
+      "core_keywords": ["christie", "governor", "state", "budget", "job", "wisconsin", "gas"],
+      "importance_ratio": 0.1034
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Income Equality and Social Issues",
+      "core_keywords": ["income", "tax", "family", "woman", "school", "rich", "class"],
+      "importance_ratio": 0.3563
+    }
+  ]
+}

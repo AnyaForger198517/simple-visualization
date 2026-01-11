@@ -1,0 +1,36 @@
+{
+  "month": "2019-08",
+  "total_articles": 180,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Democratic Presidential Debate and Polling Data",
+      "core_keywords": ["poll", "biden", "warren", "sander", "debate", "candidate", "democratic"],
+      "importance_ratio": 0.1556
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Gun Violence and Immigration Policy in US",
+      "core_keywords": ["shooting", "gun", "immigration", "immigrant", "policy", "public", "american"],
+      "importance_ratio": 0.2222
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Tax Returns and Congressional Investigations",
+      "core_keywords": ["trump", "tax", "house", "report", "court", "campaign", "president"],
+      "importance_ratio": 0.1722
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Wealth Inequality and Jeffrey Epstein Controversy",
+      "core_keywords": ["epstein", "wealth", "tax", "income", "family", "death", "american"],
+      "importance_ratio": 0.0667
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Political Rhetoric and US-China Trade Issues",
+      "core_keywords": ["trump", "president", "china", "trade", "tariff", "republican", "house"],
+      "importance_ratio": 0.3833
+    }
+  ]
+}

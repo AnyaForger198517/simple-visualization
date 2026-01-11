@@ -1,0 +1,36 @@
+{
+  "month": "2021-01",
+  "total_articles": 357,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2020 US Presidential Election and Congressional Power Struggle",
+      "core_keywords": ["biden", "trump", "election", "senate", "republican", "democrat", "vote", "georgia"],
+      "importance_ratio": 0.1485
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Racial Equality and Education-related Social Issues",
+      "core_keywords": ["black", "white", "racist", "school", "police", "education", "student", "life"],
+      "importance_ratio": 0.0280
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Political Landscape and COVID-19 Impacts",
+      "core_keywords": ["trump", "biden", "republican", "government", "american", "covid", "white", "state"],
+      "importance_ratio": 0.2493
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Biden Administration and Social Policy Discussions",
+      "core_keywords": ["biden", "woman", "federal", "president", "judge", "victim", "video", "week"],
+      "importance_ratio": 0.1765
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Capitol Riot and Trump's Post-Election Controversies",
+      "core_keywords": ["trump", "capitol", "police", "biden", "house", "supporter", "election", "officer"],
+      "importance_ratio": 0.3978
+    }
+  ]
+}

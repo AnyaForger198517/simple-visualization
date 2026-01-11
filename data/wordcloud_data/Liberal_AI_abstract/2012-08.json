@@ -1,0 +1,36 @@
+{
+  "month": "2012-08",
+  "total_articles": 118,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Poverty and Low-Income Family Issues",
+      "core_keywords": ["poverty", "income", "child", "family", "job", "million", "policy"],
+      "importance_ratio": 0.0169
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State Governance and Public Policy",
+      "core_keywords": ["state", "law", "voter", "public", "policy", "american", "right"],
+      "importance_ratio": 0.3220
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2012 Presidential Election and Republican Politics",
+      "core_keywords": ["romney", "ryan", "obama", "republican", "tax", "president", "conservative"],
+      "importance_ratio": 0.5932
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Republican Abortion and Rape Stance",
+      "core_keywords": ["republican", "rape", "abortion", "romney", "ryan", "woman", "gop"],
+      "importance_ratio": 0.0508
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Gun Control and NRA Lobbying",
+      "core_keywords": ["gun", "nra", "law", "control", "weapon", "lobby", "crime"],
+      "importance_ratio": 0.0169
+    }
+  ]
+}

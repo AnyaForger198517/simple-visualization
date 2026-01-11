@@ -1,0 +1,36 @@
+{
+  "month": "2021-06",
+  "total_articles": 230,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Party Competition on Voting Rights and Election Laws",
+      "core_keywords": ["republican", "democrat", "election", "voting", "voter", "law", "democracy"],
+      "importance_ratio": 0.2522
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Biden Administration's Domestic and Foreign Policy",
+      "core_keywords": ["biden", "president", "state", "china", "russia", "government", "police"],
+      "importance_ratio": 0.2304
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Arizona Election Audit and Vote Verification",
+      "core_keywords": ["arizona", "audit", "election", "ballot", "county", "company"],
+      "importance_ratio": 0.0609
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Trump's Post-Election Legal and Political Scrutiny",
+      "core_keywords": ["trump", "election", "justice", "investigation", "capitol", "attorney"],
+      "importance_ratio": 0.3217
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Conservative vs Liberal Debates on Race and Conspiracy Theories",
+      "core_keywords": ["race", "qanon", "critical race theory", "republican", "conservative", "school"],
+      "importance_ratio": 0.1348
+    }
+  ]
+}

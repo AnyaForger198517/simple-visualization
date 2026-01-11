@@ -1,0 +1,36 @@
+{
+  "month": "2021-02",
+  "total_articles": 149,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Racial Equality and Labor Union Issues in US",
+      "core_keywords": ["black", "white", "union", "worker", "american", "state", "policy", "city"],
+      "importance_ratio": 0.1543
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Cawthorn-related Controversies and Social News",
+      "core_keywords": ["cawthorn", "woman", "student", "news", "taliban", "campaign", "school", "college"],
+      "importance_ratio": 0.1074
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Daily Life and Trending Events in February",
+      "core_keywords": ["return", "item", "limbaugh", "twitter", "gas", "credit", "event", "february"],
+      "importance_ratio": 0.0268
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Biden's COVID-19 Stimulus and Economic Relief Policies",
+      "core_keywords": ["stimulus", "covid", "biden", "check", "tax", "job", "pandemic", "payment"],
+      "importance_ratio": 0.1409
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Election Challenge and Capitol Incident Follow-up",
+      "core_keywords": ["trump", "republican", "election", "biden", "capitol", "house", "voter", "state"],
+      "importance_ratio": 0.5705
+    }
+  ]
+}

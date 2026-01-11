@@ -1,0 +1,36 @@
+{
+  "month": "2017-10",
+  "total_articles": 139,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Online Prescription Drug Purchasing and Pricing",
+      "core_keywords": ["online", "prescription", "buy", "price", "generic", "canada", "pill"],
+      "importance_ratio": 0.0072
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Multimedia Data Processing and Parameter Configuration",
+      "core_keywords": ["default", "value", "filter", "audio", "video", "input", "output"],
+      "importance_ratio": 0.0072
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump's Presidency and US Domestic Politics",
+      "core_keywords": ["trump", "president", "republican", "american", "obama", "white house", "state"],
+      "importance_ratio": 0.8417
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Russian Interference in US Election via Social Media",
+      "core_keywords": ["election", "russian", "facebook", "political ad", "google", "law", "public"],
+      "importance_ratio": 0.0288
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Mueller Investigation into Trump-Russia Election Ties",
+      "core_keywords": ["trump", "mueller", "russia", "campaign", "investigation", "manafort", "election"],
+      "importance_ratio": 0.1151
+    }
+  ]
+}

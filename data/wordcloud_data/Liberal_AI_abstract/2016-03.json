@@ -1,0 +1,36 @@
+{
+  "month": "2016-03",
+  "total_articles": 322,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Fiscal Policy and Government Programs",
+      "core_keywords": ["tax", "policy", "government", "budget", "water", "coal", "plan"],
+      "importance_ratio": 0.1273
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Retirement and Income Security in America",
+      "core_keywords": ["income", "retirement", "saving", "pension", "family", "social", "age"],
+      "importance_ratio": 0.0062
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "US Election Law and Voting Rights",
+      "core_keywords": ["court", "election", "vote", "state", "supreme", "law", "voter"],
+      "importance_ratio": 0.1273
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Democratic Primary Delegate and Voter Dynamics",
+      "core_keywords": ["sander", "clinton", "delegate", "democratic", "primary", "voter", "hillary"],
+      "importance_ratio": 0.2081
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Donald Trump and Republican Presidential Campaign",
+      "core_keywords": ["trump", "republican", "campaign", "donald", "cruz", "candidate", "president"],
+      "importance_ratio": 0.5311
+    }
+  ]
+}

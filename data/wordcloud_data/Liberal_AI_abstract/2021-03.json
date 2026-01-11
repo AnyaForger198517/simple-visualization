@@ -1,0 +1,36 @@
+{
+  "month": "2021-03",
+  "total_articles": 122,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Trump's Capitol Riot Investigation and Election-related Lawsuits",
+      "core_keywords": ["trump", "capitol", "election", "investigation", "republican", "court", "law", "georgia"],
+      "importance_ratio": 0.4836
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Election Integrity and Global-related Discussions",
+      "core_keywords": ["election", "china", "ballot", "voter", "seuss", "lie", "military", "country"],
+      "importance_ratio": 0.0656
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Fox News and Trump's Election-related Funding Controversies",
+      "core_keywords": ["fox", "trump", "election", "money", "lie", "covid", "campaign", "network"],
+      "importance_ratio": 0.0492
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Local Election Processes and Voting Rights in St. Louis",
+      "core_keywords": ["election", "vote", "voter", "primary", "school", "city", "candidate", "march"],
+      "importance_ratio": 0.0574
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Biden's Policy Agenda and Congressional Partisan Dynamics",
+      "core_keywords": ["biden", "republican", "democrat", "senate", "house", "filibuster", "vote", "support"],
+      "importance_ratio": 0.3443
+    }
+  ]
+}

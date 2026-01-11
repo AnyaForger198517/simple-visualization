@@ -1,0 +1,36 @@
+{
+  "month": "2011-12",
+  "total_articles": 71,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Health Insurance and Medical Legislative Reforms",
+      "core_keywords": ["health", "insurance", "medical", "legislation", "law", "profit", "policy"],
+      "importance_ratio": 0.0563
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Republican Presidential Candidates and Political Policies",
+      "core_keywords": ["republican", "president", "political", "paul", "biden", "policy", "candidate"],
+      "importance_ratio": 0.3239
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Immigration Policies and Deportation of Vulnerable Groups",
+      "core_keywords": ["immigration", "deportation", "woman", "child", "immigrant", "border", "policy"],
+      "importance_ratio": 0.0141
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Nuclear Safety and Government Regulatory Commissions",
+      "core_keywords": ["nuclear", "safety", "commission", "report", "senate", "public", "regulation"],
+      "importance_ratio": 0.0141
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Republican Tax Policy and Government Job Initiatives",
+      "core_keywords": ["tax", "republican", "government", "job", "policy", "gingrich", "fiscal"],
+      "importance_ratio": 0.5915
+    }
+  ]
+}

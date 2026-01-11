@@ -1,0 +1,36 @@
+{
+  "month": "2016-06",
+  "total_articles": 377,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Clinton's Presidential Policy and Trade Agenda",
+      "core_keywords": ["clinton", "hillary", "policy", "president", "trump", "trade", "obama"],
+      "importance_ratio": 0.1353
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "US Gun Laws and Social Justice Issues",
+      "core_keywords": ["gun", "law", "court", "woman", "shooting", "police", "gay rights"],
+      "importance_ratio": 0.3634
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "2016 Election Voting and Party Nomination",
+      "core_keywords": ["clinton", "sander", "voter", "vote", "campaign", "election", "republican"],
+      "importance_ratio": 0.2095
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "US Public Health and Government Spending",
+      "core_keywords": ["health care", "state", "patient", "public", "economy", "social program", "income"],
+      "importance_ratio": 0.0584
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump University and Legal Controversies",
+      "core_keywords": ["trump", "donald", "university", "court", "case", "money", "campaign"],
+      "importance_ratio": 0.2334
+    }
+  ]
+}

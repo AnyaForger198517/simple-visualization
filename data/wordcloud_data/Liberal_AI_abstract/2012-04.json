@@ -1,0 +1,36 @@
+{
+  "month": "2012-04",
+  "total_articles": 103,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Poverty, Social Assistance and Immigration",
+      "core_keywords": ["poverty", "child", "income", "social assistance", "ice", "homeless", "family"],
+      "importance_ratio": 0.04
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Local Governance and Public Services",
+      "core_keywords": ["state", "city", "school", "property", "public", "work", "waste"],
+      "importance_ratio": 0.04
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Women's Rights and Tax Policy",
+      "core_keywords": ["woman", "tax", "walker", "policy", "federal", "pay", "service"],
+      "importance_ratio": 0.35
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Massachusetts Senate Race (Warren vs Brown)",
+      "core_keywords": ["warren", "brown", "massachusetts", "democratic", "republican", "campaign", "bank"],
+      "importance_ratio": 0.01
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2012 Presidential Campaign (Obama vs Romney)",
+      "core_keywords": ["romney", "obama", "republican", "conservative", "voter", "campaign", "president"],
+      "importance_ratio": 0.56
+    }
+  ]
+}

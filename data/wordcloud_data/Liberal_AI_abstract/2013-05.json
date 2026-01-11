@@ -1,0 +1,36 @@
+{
+  "month": "2013-05",
+  "total_articles": 79,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "IRS and Political Finance Issues",
+      "core_keywords": ["irs", "political", "republican", "fund", "money", "organization", "law"],
+      "importance_ratio": 0.1772
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Karl Rove and Conservative Political Dynamics",
+      "core_keywords": ["rove", "conservative", "election", "obama", "president", "money", "party"],
+      "importance_ratio": 0.0127
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Gun Policy and State Political Affairs",
+      "core_keywords": ["gun", "state", "senate", "nra", "law", "vote", "democrat"],
+      "importance_ratio": 0.6329
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Social and Cultural Issues Involving Children and Religion",
+      "core_keywords": ["child", "christian", "education", "god", "public", "right", "movement"],
+      "importance_ratio": 0.1519
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Supreme Court Business and Legal Decisions",
+      "core_keywords": ["court", "justice", "business", "case", "decision", "law", "lawyer"],
+      "importance_ratio": 0.0253
+    }
+  ]
+}

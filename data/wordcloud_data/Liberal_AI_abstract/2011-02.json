@@ -1,0 +1,36 @@
+{
+  "month": "2011-02",
+  "total_articles": 11,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Healthcare Policy and Labor Union Issues",
+      "core_keywords": ["healthcare", "insurance", "labor union", "law", "government ruling", "individual mandate"],
+      "importance_ratio": 0.2727
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Anti-Abortion Political Campaigns and Donations",
+      "core_keywords": ["abortion", "women's rights", "political group", "donation", "deceptive video", "moral"],
+      "importance_ratio": 0.0000
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Reagan-era Fiscal Policy and Republican Agenda",
+      "core_keywords": ["Reagan", "tax", "republican", "budget", "government spending", "conservative"],
+      "importance_ratio": 0.1818
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Wisconsin Political Unrest and Union Rights",
+      "core_keywords": ["Wisconsin", "governor", "union", "state law", "public policy", "republican"],
+      "importance_ratio": 0.4545
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Anti-Abortion Activism and Women's Issues",
+      "core_keywords": ["abortion", "women", "anti-abortion group", "political leader", "rape", "donation"],
+      "importance_ratio": 0.0909
+    }
+  ]
+}

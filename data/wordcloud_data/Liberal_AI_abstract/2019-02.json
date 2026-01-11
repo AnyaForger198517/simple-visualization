@@ -1,0 +1,36 @@
+{
+  "month": "2019-02",
+  "total_articles": 134,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "2020 US Presidential Election Campaign Dynamics",
+      "core_keywords": ["democrat", "republican", "candidate", "campaign", "iowa", "tax", "senate"],
+      "importance_ratio": 0.3731
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Marijuana and Hemp Legalization Legislation",
+      "core_keywords": ["marijuana", "hemp", "legalization", "state", "legislation", "industry", "lawmaker"],
+      "importance_ratio": 0.0075
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Trump-Related Legal Investigations and Trials",
+      "core_keywords": ["trump", "cohen", "stone", "investigation", "law", "congress", "crime"],
+      "importance_ratio": 0.0522
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Racial Politics and Social Equality Issues",
+      "core_keywords": ["black", "white", "american", "political", "right", "family", "social justice"],
+      "importance_ratio": 0.0448
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Trump's Economic Policies and Labor Market",
+      "core_keywords": ["trump", "wage", "president", "worker", "job", "tax", "economic growth"],
+      "importance_ratio": 0.5224
+    }
+  ]
+}

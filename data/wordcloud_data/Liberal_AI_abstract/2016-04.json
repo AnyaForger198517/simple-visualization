@@ -1,0 +1,36 @@
+{
+  "month": "2016-04",
+  "total_articles": 277,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "US Fiscal and Political Policy Debates",
+      "core_keywords": ["tax", "policy", "government", "president", "american", "political", "money"],
+      "importance_ratio": 0.1913
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "State and Federal Legal and Judicial Issues",
+      "core_keywords": ["state", "law", "court", "supreme", "justice", "federal", "judge"],
+      "importance_ratio": 0.3430
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Democratic Presidential Primary Campaign",
+      "core_keywords": ["clinton", "sander", "campaign", "democratic", "primary", "delegate", "hillary"],
+      "importance_ratio": 0.2563
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Political Ideology and Racial Issues in US",
+      "core_keywords": ["liberal", "conservative", "black", "white", "law", "tax", "government"],
+      "importance_ratio": 0.0108
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Donald Trump and Republican Campaign Issues",
+      "core_keywords": ["trump", "republican", "woman", "abortion", "cruz", "gender", "indiana"],
+      "importance_ratio": 0.1986
+    }
+  ]
+}

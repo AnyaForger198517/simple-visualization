@@ -1,0 +1,36 @@
+{
+  "month": "2014-04",
+  "total_articles": 101,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Minimum Wage and Workers' Pay",
+      "core_keywords": ["minimum", "wage", "worker", "pay", "job", "hour", "family"],
+      "importance_ratio": 0.0198
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Elections and Political Campaigns",
+      "core_keywords": ["election", "christie", "vote", "political", "campaign", "state", "democracy"],
+      "importance_ratio": 0.4257
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Urban Policy and Labor Issues",
+      "core_keywords": ["city", "policy", "law", "wage", "government", "labor", "worker"],
+      "importance_ratio": 0.1980
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Food Stamps and Low-Income Support",
+      "core_keywords": ["food", "stamp", "money", "minimum", "wage", "pay", "store"],
+      "importance_ratio": 0.0495
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Healthcare Policy and Insurance",
+      "core_keywords": ["health", "care", "insurance", "obamacare", "law", "tax", "company"],
+      "importance_ratio": 0.3069
+    }
+  ]
+}

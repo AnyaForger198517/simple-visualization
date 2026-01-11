@@ -1,0 +1,36 @@
+{
+  "month": "2013-12",
+  "total_articles": 142,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Energy Storage Technology and California Energy Policies",
+      "core_keywords": ["energy", "storage", "power", "california", "price", "technology", "car", "home"],
+      "importance_ratio": 0.0352
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Climate Change and Global Warming Scientific Debate",
+      "core_keywords": ["climate", "change", "carbon", "global", "warming", "scientist", "economic", "budget"],
+      "importance_ratio": 0.0070
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Conservative vs Liberal Political Ideologies in US",
+      "core_keywords": ["republican", "conservative", "liberal", "obama", "party", "american", "libertarian", "social"],
+      "importance_ratio": 0.5423
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Income Inequality and Minimum Wage Debates",
+      "core_keywords": ["wage", "tax", "income", "minimum", "rich", "poor", "job", "family"],
+      "importance_ratio": 0.3099
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Marriage Equality and Voter Rights Legal Battles",
+      "core_keywords": ["marriage", "voter", "court", "law", "state", "couple", "federal", "license"],
+      "importance_ratio": 0.1056
+    }
+  ]
+}

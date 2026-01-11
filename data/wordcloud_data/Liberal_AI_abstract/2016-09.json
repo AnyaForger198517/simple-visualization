@@ -1,0 +1,36 @@
+{
+  "month": "2016-09",
+  "total_articles": 282,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Bernie Sanders and Democratic Progressive Movement",
+      "core_keywords": ["sander", "clinton", "democratic", "progressive", "campaign", "bernie", "state"],
+      "importance_ratio": 0.0355
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Trump and Clinton Presidential Campaign Controversies",
+      "core_keywords": ["trump", "clinton", "campaign", "president", "money", "tax", "foundation"],
+      "importance_ratio": 0.4326
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Tax Policy and Economic & Climate Issues",
+      "core_keywords": ["tax", "income", "work", "policy", "climate", "state", "american"],
+      "importance_ratio": 0.2199
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Police Incidents and Legal Justice Matters",
+      "core_keywords": ["police", "officer", "law", "court", "shooting", "city", "state"],
+      "importance_ratio": 0.1844
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Election Polls and Voter Trends",
+      "core_keywords": ["trump", "clinton", "poll", "voter", "election", "vote", "state"],
+      "importance_ratio": 0.1277
+    }
+  ]
+}

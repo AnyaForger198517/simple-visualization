@@ -1,0 +1,36 @@
+{
+  "month": "2012-01",
+  "total_articles": 70,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Poverty and Economic Inequality in America",
+      "core_keywords": ["poverty", "income", "job", "family", "child", "money", "opportunity"],
+      "importance_ratio": 0.10
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Republican Presidential Primary Campaign",
+      "core_keywords": ["romney", "santorum", "republican", "primary", "vote", "candidate", "party"],
+      "importance_ratio": 0.16
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "State and National Politics with Ron Paul Focus",
+      "core_keywords": ["ron paul", "state", "government", "republican", "president", "national"],
+      "importance_ratio": 0.44
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Education, Policy and Journalism Topics",
+      "core_keywords": ["school", "policy", "law", "journalism", "child", "support"],
+      "importance_ratio": 0.21
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "Obama and Wisconsin Political Issues",
+      "core_keywords": ["obama", "wisconsin", "walker", "recall", "election", "political"],
+      "importance_ratio": 0.09
+    }
+  ]
+}

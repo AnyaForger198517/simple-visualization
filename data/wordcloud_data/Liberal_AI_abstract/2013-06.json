@@ -1,0 +1,36 @@
+{
+  "month": "2013-06",
+  "total_articles": 119,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Conservative Political Landscape and GOP Affairs",
+      "core_keywords": ["republican", "conservative", "obama", "state", "party", "law", "political"],
+      "importance_ratio": 0.7731
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Wikileaks and Legal Document-Related Issues",
+      "core_keywords": ["wikileaks", "document", "court", "prosecutor", "state", "group", "mail"],
+      "importance_ratio": 0.1008
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Worker Wages and Retail Employment Issues",
+      "core_keywords": ["worker", "wage", "pay", "employee", "company", "sale", "profit"],
+      "importance_ratio": 0.0168
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Federal Program Cuts and Food Assistance Policies",
+      "core_keywords": ["cut", "federal", "food", "sequester", "income", "public", "program"],
+      "importance_ratio": 0.0336
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "NSA Surveillance and Government Data Collection",
+      "core_keywords": ["nsa", "government", "phone", "fbi", "obama", "record", "court"],
+      "importance_ratio": 0.0756
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "month": "2012-05",
+  "total_articles": 95,
+  "deep_topics_summary": [
+    {
+      "topic_id": 0,
+      "topic_name": "Government Finance and Public Policy Issues",
+      "core_keywords": ["government", "tax", "debt", "state", "law", "public", "cost"],
+      "importance_ratio": 0.2316
+    },
+    {
+      "topic_id": 1,
+      "topic_name": "Military Spending and Economic Development",
+      "core_keywords": ["military", "job", "spending", "economy", "pentagon", "energy", "war"],
+      "importance_ratio": 0.0632
+    },
+    {
+      "topic_id": 2,
+      "topic_name": "Poverty and Social Assistance Programs",
+      "core_keywords": ["poverty", "family", "child", "percent", "assistance", "health", "program"],
+      "importance_ratio": 0.0211
+    },
+    {
+      "topic_id": 3,
+      "topic_name": "Political Protests and Civil Rights",
+      "core_keywords": ["obama", "protest", "state", "law", "occupy", "american", "right"],
+      "importance_ratio": 0.5789
+    },
+    {
+      "topic_id": 4,
+      "topic_name": "2012 Presidential Election Campaign",
+      "core_keywords": ["romney", "obama", "campaign", "republican", "president", "job", "news"],
+      "importance_ratio": 0.1053
+    }
+  ]
+}
