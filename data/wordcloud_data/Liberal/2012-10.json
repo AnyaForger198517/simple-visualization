@@ -1,36 +1,36 @@
 {
   "month": "2012-10",
   "total_articles": 85,
-  "topics": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "Abortion Debate and Conservative vs Liberal Views",
-      "topic_words": ["abortion", "woman", "life", "republican", "conservative", "debate", "birth", "movement"],
-      "proportion": 12.94
+      "topic_name": "Abortion Debate and Conservative vs Liberal Views",
+      "core_keywords": ["abortion", "woman", "republican", "conservative", "debate", "birth", "movement"],
+      "importance_ratio": 0.1294
     },
     {
       "topic_id": 1,
-      "topic_summary": "2012 US Presidential Election Campaign",
-      "topic_words": ["obama", "romney", "president", "election", "voter", "campaign", "republican", "american"],
-      "proportion": 65.88
+      "topic_name": "2012 US Presidential Election Campaign",
+      "core_keywords": ["obama", "romney", "president", "election", "voter", "campaign", "republican"],
+      "importance_ratio": 0.6588
     },
     {
       "topic_id": 2,
-      "topic_summary": "Tax Policy and Economic Class Divide",
-      "topic_words": ["tax", "economy", "income", "rich", "liberalism", "conservative", "middle class", "pay"],
-      "proportion": 1.18
+      "topic_name": "Tax Policy and Economic Class Divide",
+      "core_keywords": ["tax", "economy", "income", "rich", "liberalism", "middle class", "job"],
+      "importance_ratio": 0.0118
     },
     {
       "topic_id": 3,
-      "topic_summary": "Labor Rights and Government Regulation",
-      "topic_words": ["labor", "wage", "work", "government", "public sector", "conservative", "law", "tyranny"],
-      "proportion": 1.18
+      "topic_name": "Labor Rights and Government Regulation",
+      "core_keywords": ["labor", "wage", "government", "public sector", "conservative", "law", "work"],
+      "importance_ratio": 0.0118
     },
     {
       "topic_id": 4,
-      "topic_summary": "Taxation and Political Legal Issues",
-      "topic_words": ["tax", "romney", "income", "government", "court", "job", "federal", "minimum wage"],
-      "proportion": 18.82
+      "topic_name": "Tax and Legal Issues in Election Context",
+      "core_keywords": ["tax", "romney", "state", "federal", "court", "income", "job"],
+      "importance_ratio": 0.1882
     }
   ]
 }

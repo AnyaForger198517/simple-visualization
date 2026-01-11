@@ -1,36 +1,36 @@
 {
   "month": "2012-09",
   "total_articles": 117,
-  "topics": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "US Presidential Election and Party Politics",
-      "topic_words": ["republican", "obama", "president", "party", "voter", "convention", "american", "state"],
-      "proportion": 23.08
+      "topic_name": "US Presidential Election and Party Politics",
+      "core_keywords": ["republican", "obama", "president", "party", "voter", "convention", "state"],
+      "importance_ratio": 0.2308
     },
     {
       "topic_id": 1,
-      "topic_summary": "State Governance, Tax and Political Debate",
-      "topic_words": ["state", "tax", "law", "government", "romney", "debate", "political", "public"],
-      "proportion": 27.35
+      "topic_name": "State Governance and Political Debate on Tax & Law",
+      "core_keywords": ["state", "tax", "law", "government", "political", "debate", "candidate"],
+      "importance_ratio": 0.2735
     },
     {
       "topic_id": 2,
-      "topic_summary": "Women's Health and Pregnancy-related Issues",
-      "topic_words": ["woman", "pregnant", "pregnancy", "health", "nursing", "insurance", "worker"],
-      "proportion": 5.13
+      "topic_name": "Women's Health and Pregnancy-related Issues",
+      "core_keywords": ["woman", "pregnant", "health", "pregnancy", "worker", "insurance", "nursing"],
+      "importance_ratio": 0.0513
     },
     {
       "topic_id": 3,
-      "topic_summary": "Romney's Financial and Campaign Affairs",
-      "topic_words": ["romney", "obama", "debt", "student", "loan", "bain", "company", "president"],
-      "proportion": 23.93
+      "topic_name": "Romney's Business Background and Student Debt Issues",
+      "core_keywords": ["romney", "obama", "student", "debt", "loan", "bain", "company"],
+      "importance_ratio": 0.2393
     },
     {
       "topic_id": 4,
-      "topic_summary": "Election Campaign and Candidate Attacks",
-      "topic_words": ["romney", "obama", "campaign", "attack", "policy", "ohio", "blog", "statement"],
-      "proportion": 20.51
+      "topic_name": "Election Campaign and Candidate Policy Attacks",
+      "core_keywords": ["romney", "obama", "campaign", "attack", "policy", "blog", "statement"],
+      "importance_ratio": 0.2051
     }
   ]
 }

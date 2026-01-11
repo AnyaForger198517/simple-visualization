@@ -1,36 +1,36 @@
 {
   "month": "2012-06",
   "total_articles": 108,
-  "topics": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "Healthcare policies, court rulings and state-level legal regulations",
-      "topic_words": ["health", "care", "court", "law", "insurance", "state", "government"],
-      "proportion": 46.30
+      "topic_name": "Healthcare Policy and Legal Regulation",
+      "core_keywords": ["health", "care", "law", "state", "insurance", "tax", "government"],
+      "importance_ratio": 0.4630
     },
     {
       "topic_id": 1,
-      "topic_summary": "Wealth inequality and elite dominance in American society",
-      "topic_words": ["inequality", "elite", "meritocracy", "financial", "wall street", "percent", "society"],
-      "proportion": 1.85
+      "topic_name": "Social Inequality and Elite Governance",
+      "core_keywords": ["inequality", "elite", "percent", "financial", "society", "mobility", "group"],
+      "importance_ratio": 0.0185
     },
     {
       "topic_id": 2,
-      "topic_summary": "Poverty and income distribution for families and children across states",
-      "topic_words": ["poverty", "family", "child", "income", "state", "assistance", "percent"],
-      "proportion": 3.70
+      "topic_name": "Poverty and Family Income Issues",
+      "core_keywords": ["poverty", "family", "child", "income", "assistance", "state", "percent"],
+      "importance_ratio": 0.0370
     },
     {
       "topic_id": 3,
-      "topic_summary": "Obama and Romney's presidential race and national policy debates",
-      "topic_words": ["obama", "romney", "president", "state", "law", "policy", "american"],
-      "proportion": 46.30
+      "topic_name": "2012 Presidential Election and National Policy",
+      "core_keywords": ["obama", "romney", "president", "state", "law", "american", "policy"],
+      "importance_ratio": 0.4630
     },
     {
       "topic_id": 4,
-      "topic_summary": "Financial policies and journalistic coverage of political issues",
-      "topic_words": ["policy", "financial", "senator", "journalism", "news", "program", "support"],
-      "proportion": 1.85
+      "topic_name": "Financial Policy and Media Journalism",
+      "core_keywords": ["policy", "financial", "senator", "news", "program", "agency", "support"],
+      "importance_ratio": 0.0185
     }
   ]
 }

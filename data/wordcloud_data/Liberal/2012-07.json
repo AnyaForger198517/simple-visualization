@@ -1,36 +1,36 @@
 {
   "month": "2012-07",
   "total_articles": 86,
-  "topics": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "Gun control policies and ATF's law enforcement actions",
-      "topic_words": ["gun", "law", "atf", "house", "republican", "contempt", "petition"],
-      "proportion": 8.14
+      "topic_name": "Gun Control and Government Regulatory Issues",
+      "core_keywords": ["gun", "law", "republican", "atf", "white house", "petition", "contempt"],
+      "importance_ratio": 0.0814
     },
     {
       "topic_id": 1,
-      "topic_summary": "Obama and Romney's political campaigns and tax policy debates",
-      "topic_words": ["obama", "romney", "republican", "tax", "president", "campaign", "political"],
-      "proportion": 59.30
+      "topic_name": "2012 Presidential Election and Political Strategy",
+      "core_keywords": ["obama", "romney", "republican", "president", "campaign", "tax", "policy"],
+      "importance_ratio": 0.5930
     },
     {
       "topic_id": 2,
-      "topic_summary": "State tax policies and Medicaid expansion in healthcare reform",
-      "topic_words": ["tax", "medicaid", "healthcare", "state", "cost", "expansion", "reform"],
-      "proportion": 2.33
+      "topic_name": "Tax and Healthcare Reform Policies",
+      "core_keywords": ["tax", "medicaid", "healthcare", "state", "cost", "reform", "income"],
+      "importance_ratio": 0.0233
     },
     {
       "topic_id": 3,
-      "topic_summary": "Religious rights and public policy issues at state level",
-      "topic_words": ["christian", "religion", "law", "state", "voter", "public", "union"],
-      "proportion": 25.58
+      "topic_name": "Religion and Public Education Issues",
+      "core_keywords": ["christian", "religion", "school", "state", "law", "public", "union"],
+      "importance_ratio": 0.2558
     },
     {
       "topic_id": 4,
-      "topic_summary": "Racism, legal issues and national security threats",
-      "topic_words": ["racist", "racism", "legal", "terror", "health", "state", "support"],
-      "proportion": 4.65
+      "topic_name": "Racism and National Security Issues",
+      "core_keywords": ["racist", "racism", "torture", "terror", "health", "american", "legal"],
+      "importance_ratio": 0.0465
     }
   ]
 }

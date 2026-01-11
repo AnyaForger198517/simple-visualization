@@ -1,38 +1,36 @@
 {
   "month": "2011-08",
   "total_articles": 80,
-  "topics": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "US political power dynamics, including republican/tea party, government, tax and Obama/Bush administrations",
-      "topic_percentage": 37.50
+      "topic_name": "US Government and Political Parties' Fiscal and Power Dynamics",
+      "core_keywords": ["government", "republican", "obama", "tax", "money", "power", "corporation"],
+      "importance_ratio": 0.3750
     },
     {
       "topic_id": 1,
-      "topic_summary": "Mother Jones journalism covering Bachmann, Obama policies, privacy and state-level politics",
-      "topic_percentage": 26.25
+      "topic_name": "Political Figures and Media Journalism Policy",
+      "core_keywords": ["obama", "bachmann", "policy", "state", "journalism", "privacy", "media"],
+      "importance_ratio": 0.2625
     },
     {
       "topic_id": 2,
-      "topic_summary": "Environmental and federal legal issues, including protests, keystone project and arrests",
-      "topic_percentage": 6.25
+      "topic_name": "Federal and State Environmental and Legal Protest Issues",
+      "core_keywords": ["state", "federal", "environmental", "court", "protest", "nation", "legal"],
+      "importance_ratio": 0.0625
     },
     {
       "topic_id": 3,
-      "topic_summary": "Tax cuts and political negotiations between democrats/republicans and the White House",
-      "topic_percentage": 25.00
+      "topic_name": "Debt Ceiling Deal and Partisan Tax Policy Negotiations",
+      "core_keywords": ["tax", "republican", "obama", "president", "deal", "house", "debt"],
+      "importance_ratio": 0.2500
     },
     {
       "topic_id": 4,
-      "topic_summary": "Financial crisis and debt issues, including banks, Greece crisis and economic policies",
-      "topic_percentage": 5.00
+      "topic_name": "Global Financial Debt Crisis and Economic Stability",
+      "core_keywords": ["debt", "financial", "government", "bank", "economy", "greece", "crisis"],
+      "importance_ratio": 0.0500
     }
-  ],
-  "topic_distribution": {
-    "0": 30,
-    "1": 21,
-    "2": 5,
-    "3": 20,
-    "4": 4
-  }
+  ]
 }

@@ -1,36 +1,36 @@
 {
   "month": "2012-11",
   "total_articles": 102,
-  "topics": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "Tax Policy and Voter Rights in Election",
-      "topic_words": ["tax", "election", "voter", "state", "revenue", "law", "republican", "obama"],
-      "proportion": 16.67
+      "topic_name": "Tax Policy and Voter Rights in Post-election",
+      "core_keywords": ["tax", "voter", "election", "state", "revenue", "law", "republican"],
+      "importance_ratio": 0.1667
     },
     {
       "topic_id": 1,
-      "topic_summary": "Post-Election Political Landscape and Voting",
-      "topic_words": ["obama", "romney", "republican", "vote", "president", "state", "campaign", "american"],
-      "proportion": 55.88
+      "topic_name": "Post-election Political Dynamics and Party Politics",
+      "core_keywords": ["obama", "romney", "republican", "president", "vote", "campaign", "state"],
+      "importance_ratio": 0.5588
     },
     {
       "topic_id": 2,
-      "topic_summary": "Senate Filibuster and Abortion Legislation",
-      "topic_words": ["filibuster", "senate", "abortion", "woman", "republican", "senator", "house", "reform"],
-      "proportion": 6.86
+      "topic_name": "Senate Filibuster and Abortion Policy Debate",
+      "core_keywords": ["filibuster", "abortion", "senate", "woman", "republican", "committee", "reform"],
+      "importance_ratio": 0.0686
     },
     {
       "topic_id": 3,
-      "topic_summary": "Workers' Strikes and Corporate Issues",
-      "topic_words": ["worker", "walmart", "strike", "union", "campaign", "company", "support", "mother jones"],
-      "proportion": 19.61
+      "topic_name": "Workers' Strikes and Corporate Labor Issues",
+      "core_keywords": ["worker", "walmart", "strike", "union", "support", "campaign", "company"],
+      "importance_ratio": 0.1961
     },
     {
       "topic_id": 4,
-      "topic_summary": "State Legal Measures and Judicial Affairs",
-      "topic_words": ["state", "parole", "law", "voter", "court", "governor", "amendment", "judicial"],
-      "proportion": 0.98
+      "topic_name": "State Judicial and Parole Policy",
+      "core_keywords": ["state", "parole", "law", "court", "voter", "governor", "amendment"],
+      "importance_ratio": 0.0108
     }
   ]
 }

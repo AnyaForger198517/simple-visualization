@@ -1,36 +1,36 @@
 {
   "month": "2012-03",
   "total_articles": 125,
-  "topics": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "Healthcare law and policy, including Obamacare, court rulings and national health insurance",
-      "topic_words_summary": ["health care", "law", "court", "insurance", "congress", "state", "authority"],
-      "proportion": 20.0
+      "topic_name": "Healthcare Law and Government Authority",
+      "core_keywords": ["law", "health", "insurance", "court", "congress", "state", "authority"],
+      "importance_ratio": 0.20
     },
     {
       "topic_id": 1,
-      "topic_summary": "Liberal vs conservative debate over women's issues, Rush Limbaugh and Sandra Fluke controversy",
-      "topic_words_summary": ["liberal", "conservative", "woman", "limbaugh", "fluke", "tax", "liberty"],
-      "proportion": 13.6
+      "topic_name": "Liberalism and Contraception Controversy",
+      "core_keywords": ["liberal", "woman", "limbaugh", "fluke", "tax", "social", "liberty"],
+      "importance_ratio": 0.14
     },
     {
       "topic_id": 2,
-      "topic_summary": "Women's reproductive rights, abortion laws and anti-abortion policy debates",
-      "topic_words_summary": ["woman", "reproductive freedom", "abortion", "personhood", "right", "control", "slavery"],
-      "proportion": 4.8
+      "topic_name": "Women's Reproductive Rights and Freedom",
+      "core_keywords": ["woman", "abortion", "reproductive", "freedom", "slavery", "right", "control"],
+      "importance_ratio": 0.05
     },
     {
       "topic_id": 3,
-      "topic_summary": "Obama administration, oil prices, foreign policy and government spending",
-      "topic_words_summary": ["obama", "oil price", "president", "government", "money", "foreign policy", "nsa"],
-      "proportion": 19.2
+      "topic_name": "Obama and Global Economic & Foreign Policy",
+      "core_keywords": ["obama", "president", "oil", "price", "government", "foreign", "world"],
+      "importance_ratio": 0.19
     },
     {
       "topic_id": 4,
-      "topic_summary": "Republican politics, elections, voter issues and conservative media (Breitbart)",
-      "topic_words_summary": ["republican", "election", "voter", "conservative", "breitbart", "state", "government"],
-      "proportion": 42.4
+      "topic_name": "Republican Election and Conservative Politics",
+      "core_keywords": ["republican", "conservative", "election", "voter", "state", "government", "gop"],
+      "importance_ratio": 0.42
     }
   ]
 }

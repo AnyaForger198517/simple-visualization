@@ -1,36 +1,36 @@
 {
   "month": "2011-10",
   "total_articles": 76,
-  "topics_summary": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "Liberal politics, public governance and social economy",
-      "topic_keywords": ["liberal", "public", "government", "job", "democracy", "social"],
-      "proportion": 2.63
+      "topic_name": "Liberal Politics and Social Economic Governance",
+      "core_keywords": ["liberal", "public", "government", "democracy", "social", "economy", "job"],
+      "importance_ratio": 0.0263
     },
     {
       "topic_id": 1,
-      "topic_summary": "Occupy Wall Street movement and protests",
-      "topic_keywords": ["occupy", "wall street", "protester", "protest", "movement"],
-      "proportion": 11.84
+      "topic_name": "Occupy Wall Street Movement and Protest Actions",
+      "core_keywords": ["occupy", "wall street", "protest", "protester", "movement", "demonstration"],
+      "importance_ratio": 0.1184
     },
     {
       "topic_id": 2,
-      "topic_summary": "Tax policy and Republican political issues",
-      "topic_keywords": ["tax", "republican", "policy", "obama", "economy", "job"],
-      "proportion": 63.16
+      "topic_name": "Republican Tax Policy and Economic Job Issues",
+      "core_keywords": ["tax", "republican", "policy", "obama", "economy", "job", "fiscal"],
+      "importance_ratio": 0.6316
     },
     {
       "topic_id": 3,
-      "topic_summary": "US-Iraq war and presidential politics",
-      "topic_keywords": ["iraq", "war", "obama", "president", "republican", "troop"],
-      "proportion": 18.42
+      "topic_name": "US-Iraq War and Presidential Political Decisions",
+      "core_keywords": ["iraq", "war", "obama", "president", "republican", "troop", "military"],
+      "importance_ratio": 0.1842
     },
     {
       "topic_id": 4,
-      "topic_summary": "Police and protester conflicts in Occupy protests",
-      "topic_keywords": ["police", "protester", "arrest", "occupy", "nypd"],
-      "proportion": 3.95
+      "topic_name": "Police-Protester Conflicts in Occupy Demonstrations",
+      "core_keywords": ["police", "protester", "arrest", "occupy", "nypd", "conflict", "confrontation"],
+      "importance_ratio": 0.0395
     }
   ]
 }

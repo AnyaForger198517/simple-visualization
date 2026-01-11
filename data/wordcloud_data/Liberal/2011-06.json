@@ -1,38 +1,36 @@
 {
   "month": "2011-06",
   "total_articles": 81,
-  "topics": [
+  "deep_topics_summary": [
     {
       "topic_id": 0,
-      "topic_summary": "Ideological discourse between conservatism and liberalism, focusing on democratic values, social institutions and language use",
-      "topic_percentage": 3.70
+      "topic_name": "Conservatism and Liberalism in Democratic Society",
+      "core_keywords": ["conservatism", "liberalism", "democracy", "society", "argument", "institution"],
+      "importance_ratio": 0.0370
     },
     {
       "topic_id": 1,
-      "topic_summary": "Economic policy debates including tax, global crisis, trade and presidential policies",
-      "topic_percentage": 6.17
+      "topic_name": "National Tax and Economic Policy in Global Crisis",
+      "core_keywords": ["tax", "president", "crisis", "trade", "policy", "nation", "obama"],
+      "importance_ratio": 0.0617
     },
     {
       "topic_id": 2,
-      "topic_summary": "Political dynamics involving state policies, republican/democrat stances, tax and Obama's administration",
-      "topic_percentage": 90.12
+      "topic_name": "Political Parties and Policy Support in Domestic Affairs",
+      "core_keywords": ["republican", "democrat", "tax", "policy", "obama", "state", "support"],
+      "importance_ratio": 0.9013
     },
     {
       "topic_id": 3,
-      "topic_summary": "Reiteration of ideological comparisons between liberal and conservative ideals",
-      "topic_percentage": 0.00
+      "topic_name": "Liberal and Conservative Discourse on Democratic Institutions",
+      "core_keywords": ["liberal", "conservative", "democracy", "language", "institution", "argument"],
+      "importance_ratio": 0.0000
     },
     {
       "topic_id": 4,
-      "topic_summary": "Cultural and social dimensions of liberal and conservative ideologies in American society",
-      "topic_percentage": 0.00
+      "topic_name": "Cultural and Social Dimensions of Liberal Conservatism",
+      "core_keywords": ["liberal", "conservatism", "culture", "american", "social", "reason"],
+      "importance_ratio": 0.0000
     }
-  ],
-  "topic_distribution": {
-    "0": 3,
-    "1": 5,
-    "2": 73,
-    "3": 0,
-    "4": 0
-  }
+  ]
 }
